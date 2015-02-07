@@ -225,8 +225,10 @@ just write one tweet in your own account using the tag $HPQ and you will see it 
 the tag and use some trend hash tag to receive a tsunami of tweets. To see the sentiment score information and the tweets content you can navigate between the charts. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3&gt;Source Code&lt;/h3&gt;
-&lt;p&gt;It can be found here on my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;github public repository&lt;/a&gt;.
-Feel free to contribute to this project.&lt;/p&gt;
+&lt;p&gt;It can be found &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;here&lt;/a&gt;.
+Feel free to contribute to this project. Send in github your comments and questions. Share your opinion about
+the design decisions and technologies as well. It was my first application using Play Framework an Akka, hope it can be useful for some else.&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;
 &lt;p&gt;[]`s,&lt;/p&gt;
 &lt;p&gt;Felipe Forbeck.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Jan 2015 21:31:00 -0800</pubDate><guid>tag:fforbeck.github.io,2015-01-05:posts/2015/01/tweet-sentiment-analyst/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category></item><item><title>Engineering culture @ Spotify</title><link>http://fforbeck.github.io/posts/2014/07/engineering-culture-spotify/</link><description>&lt;div class="vimeo" align="center"&gt;&lt;iframe width="800" height="500" src="https://player.vimeo.com/video/85490944" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 21 Jul 2014 22:08:00 -0700</pubDate><guid>tag:fforbeck.github.io,2014-07-21:posts/2014/07/engineering-culture-spotify/</guid><category>software &amp; product development</category><category>spotify</category></item><item><title>Revolution OS</title><link>http://fforbeck.github.io/posts/2014/07/the-linux-story/</link><description>&lt;ul class="simple"&gt;
 &lt;li&gt;How does the Linux OS was created?&lt;/li&gt;
