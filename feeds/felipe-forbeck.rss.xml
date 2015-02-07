@@ -1,5 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>4bk</title><link>http://fforbeck.github.io/</link><description></description><atom:link href="http://fforbeck.github.io/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 21 Jul 2014 22:08:00 -0700</lastBuildDate><item><title>Engineering culture @ Spotify</title><link>http://fforbeck.github.io/posts/2014/07/engineering-culture-spotify/</link><description>&lt;div class="vimeo" align="center"&gt;&lt;iframe width="800" height="500" src="https://player.vimeo.com/video/85490944" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 21 Jul 2014 22:08:00 -0700</pubDate><guid>tag:fforbeck.github.io,2014-07-21:posts/2014/07/engineering-culture-spotify/</guid><category>software &amp; product development</category><category>spotify</category></item><item><title>Revolution OS</title><link>http://fforbeck.github.io/posts/2014/07/the-linux-story/</link><description>&lt;ul class="simple"&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>4bk</title><link>http://fforbeck.github.io/</link><description></description><atom:link href="http://fforbeck.github.io/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 05 Jan 2015 21:31:00 -0800</lastBuildDate><item><title>Tweet Sentiment Analysis</title><link>http://fforbeck.github.io/posts/2015/01/tweet-sentiment-analyst/</link><description>&lt;h1&gt;Why&lt;/h1&gt;
+&lt;p&gt;Some days ago I enrolled in my first topcoder development challenge and it is basically a tutorial challenge where we need to install HPVertica DB, capture a set of tweets and based on $HPQ tag, use the HP Idol platform, which has an API to perform sentiment analysis over a tweet text content.&lt;/p&gt;
+&lt;p&gt;With that in mind I decided to start this challenge with Play Framework to learn a little bit and see how
+fast I could create this WebApp from scratch without know the tool. Beside that, I have read about play framework and it seems to be a very powerful tool which I could easily plug different technologies and keep focused in my development. It provides you a sort of minimum viable architecture for your system. In addition, another reason to pick this technology is because I can use Java, which was one of the requirements of the challenge.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.topcoder.com/challenge-details/30048480/"&gt;&lt;code&gt;The challenge&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;"Here are the steps to participate in the HP Haven Twitter Analysis Tutorial challenge:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You’ll be creating a Java application which accesses Twitter data for the Hewlett Packard stock symbol tag “$HPQ”, performs sentiment analysis on this data, and loads the raw social feed and sentiment data into the Vertica database.  The application should also display some kind of visualization about how sentiment is changing over time or by topic.  The application should extract enough Tweets that the Sentiment Analysis shows some depth/variation – at least 1000 Tweets, but more would even be better.&lt;/li&gt;
+&lt;li&gt;You have creative license about what kind of application to create.  You may create a mobile, web, or desktop app.&lt;/li&gt;
+&lt;li&gt;Your application should connect to the IDOL OnDemand platform to perform the Sentiment Analysis on the Twitter data related to the tag $HPQ.  The Sentiment Analysis results should be stored in your locally configured version of Vertica.  Sample Java code to connect to IDOL OnDemand is attached to the challenge.  Sample code can also be found on the IDOL OnDemand Community site.&lt;/li&gt;
+&lt;li&gt;This is a tutorial challenge. Your code should be clear and well documented.&lt;/li&gt;
+&lt;li&gt;You should produce a blog post about your application.&lt;/li&gt;
+&lt;li&gt;You should produce a screensharing video which explains your code and how to set up and connect to a Vertica database.&lt;/li&gt;
+&lt;li&gt;There should be some kind of visualization in your app which displays the Sentiment Scores related to a topic and/or time dimension.&lt;/li&gt;
+&lt;li&gt;We're currently running a Sweepstakes challenge which walks through the Vertica setup on a local VMWare instance.  We're also attaching a Vertica lab manual which describes how to add users, create schemas, and load data into the system.  It assumes, however, that you have the Vertica Virtual Server instance installed and locally available."&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h1&gt;How&lt;/h1&gt;
+&lt;h3&gt;Tools and Frameworks&lt;/h3&gt;
+&lt;p&gt;Java; &lt;a href="https://www.playframework.com/"&gt;Play Framework&lt;/a&gt;; &lt;a href="https://spring.io/"&gt;Spring&lt;/a&gt;; &lt;a href="http://projects.spring.io/spring-data/"&gt;Spring Data&lt;/a&gt;; &lt;a href="http://hibernate.org/orm/"&gt;Hibernate&lt;/a&gt;; &lt;a href="https://www.playframework.com/documentation/2.3.x/JavaWebSockets"&gt;WebSockets&lt;/a&gt;; &lt;a href="http://akka.io/"&gt;Akka&lt;/a&gt;; &lt;a href="https://dev.twitter.com"&gt;Twitter4J Search &amp;amp; Stream API&lt;/a&gt;; &lt;a href="http://redis.io/"&gt;Redis&lt;/a&gt;; &lt;a href="http://www.vertica.com/about/"&gt;HPVerticaDB&lt;/a&gt;; &lt;a href="https://www.idolondemand.com/developer/apis"&gt;HPIdol OnDemand API&lt;/a&gt;; &lt;a href="http://getbootstrap.com/"&gt;Twitter Bootstrap 3&lt;/a&gt;; &lt;a href="http://jquery.com/"&gt;JQuery 1.11&lt;/a&gt;; &lt;a href="http://www.highcharts.com/"&gt;Highcharts&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Application design&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="Tweet Analyst Design" src="/images/tweet_analyst_system_design.png" /&gt;&lt;/p&gt;
+&lt;h3&gt;Design notes&lt;/h3&gt;
+&lt;h4&gt;&lt;a href="https://dev.twitter.com"&gt;Twitter API&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href="https://dev.twitter.com/streaming/overview"&gt;&lt;code&gt;Stream&lt;/code&gt;&lt;/a&gt;:
+"The set of streaming APIs offered by Twitter give developers low latency access to Twitter’s global stream of Tweet data. A proper implementation of a streaming client will be pushed messages indicating Tweets and other events have occurred, without any of the overhead associated with polling a REST endpoint."
+In this case I am using the public stream API, it is enough to receive the tweets in real time.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dev.twitter.com/rest/public/search"&gt;&lt;code&gt;Search&lt;/code&gt;&lt;/a&gt;:
+"The Twitter Search API is part of Twitter’s v1.1 REST API. It allows queries against the indices of recent or popular Tweets.."
+Here I am just using a &lt;code&gt;GET&lt;/code&gt; method for &lt;code&gt;twitter.com/search?q=%MY_HASH_TAG%&lt;/code&gt; URL to search and grab the tweets with the hashTag param.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;&lt;a href="http://twitter4j.org/en/index.html"&gt;Twitter4J&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;It is an unofficial library to connect to twitter APIs. You can check the code examples &lt;a href="http://twitter4j.org/en/code-examples.html"&gt;here&lt;/a&gt; and &lt;a href="https://github.com/yusuke/twitter4j/tree/master/twitter4j-examples/src/main/java/twitter4j/examples"&gt;more code examples&lt;/a&gt;
+To connect to API you will need some oauth keys and consumer keys.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;&lt;a href="https://www.idolondemand.com/"&gt;HPIdol OnDemand API&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://www.idolondemand.com/developer/apis/analyzesentiment#overview"&gt;&lt;code&gt;Setiment Analysis API&lt;/code&gt;&lt;/a&gt;`
+"The Sentiment Analysis API analyzes text to return the sentiment as positive, negative or neutral. It contains a dictionary of positive and negative words of different types, and defines patterns that describe how to combine these words to form positive and negative phrases."
+The hello world in java for HP Idol API can be found &lt;a href="https://www.youtube.com/watch?v=MY-ASbxRJVw"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;&lt;a href="http://redis.io/"&gt;Redis&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Processing Queue&lt;/code&gt;:
+This queue keeps all the tweets that are in processing phase. For instance, when we receive a new tweet from Twitter Stream API or when we found a set of tweets in Twitter Search API, they are placed in this queue to be processed later.
+Processing action here means: we need to parse the tweets, extract the relevant information and send it to HP IDOL API to do the analysis for each one of them. The result of this phase will be placed in another queue (persistent-queue).
+'The tweets are saved as String in redis queue.'&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Persistent Queue&lt;/code&gt;:
+This queue keeps all the tweets that were processed, analyzed and now are ready to be stored in VerticaDB with
+sentiment score.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Live Tweets Channel&lt;/code&gt;:
+This channel publishes all the tweets that were processed and analyzed to the subscribers of this channel. It is just a Redis pubSub system, you can learn more about it &lt;a href="http://redis.io/topics/pubsub"&gt;here&lt;/a&gt;.
+In this app it is really useful, cause I would like to see the sentiment analysis in real time for all tweets that comes from Twitter Stream API. So, right after analyze it, I just send the results to this channel which will automatically publish this content to every subscriber. The subscriber in this case is an Akka Actor Reference which was created by a websocket connection request, that happens when you open the open the index page with the live tweets chart.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;&lt;a href="https://my.vertica.com/community/"&gt;HP Vertica DB&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;You can download the HP Vertica community edition &lt;a href="https://my.vertica.com/community/"&gt;here&lt;/a&gt;
+It is a relational database optimized for large-scale analytics. "It is uniquely designed using a memory-and-disk balanced distributed compressed columnar paradigm, which makes it exponentially faster than older techniques for modern data analytics workloads. HP Vertica supports a series of built-in analytics libraries like time series and analytics packs for geospatial and sentiment plus additional functions from vendors like SAS. And, it supports analytics written using the R programming language for predictive modeling."
+More details about the technology can be found &lt;a href="http://www.vertica.com/wp-content/uploads/2014/05/VerticaOverview.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;Akka Actor System&lt;/h4&gt;
+&lt;p&gt;Akka is a framework which provides the set of right tools to build high-scalable and fault-tolerant systems using a Actor System model. You can easily write parallel, concurrent, event-driven programs. To learn about Akka &lt;a href="http://doc.akka.io/docs/akka/2.1.2/intro/what-is-akka.html"&gt;check it out&lt;/a&gt;.
+In this project I decided to use Akka to create microservices that would connect with external API`s. In this case my 4 actors play different roles and they are managed by one supervisor.
+The idea here is to have a service manage that would orchestrate the messages and actions in my actor system.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Receiver&lt;/code&gt;:
+An Actor Reference which connects to Twitter Stream API using Twitter4J library and listen to tweets from API.
+For each new tweet, the actor parses the content and push the result into redis processing-queue.
+After that it sends a 'Read' message to the TweetSupervisor.
+Currently I am starting only one instance of this actor for the tag+language that I want to receive the tweets.
+Later I can easily change to create one instance per tag or something like it.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Harvester&lt;/code&gt;:
+An Actor Reference which connects to Twitter Search API to perform the tweet search based on the tag+language.
+It can easily reach the Twitter requests rate limit, so I place this Actor to run every 15 min whatever happens
+with it. This setup can be found in TweetSupervisor that we will cover in the next sections. After parse the tweets found
+it sends a 'Read' message to TweetSupervisor.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Analyzer&lt;/code&gt;:
+Another Actor Reference which receives a 'Read' message from TweetSupervisor to start reading tweets from processing
+queue to send it to HP Idol Sentiment Analysis API. The requests to HP API are synchronous and each result is parsed, appended to the original tweet, sent to the persistent-queue and published to the live-tweets-channel.
+N instances of this actor will be created be the supervisor, after each instance execute the job, it finalizes itself.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Publisher&lt;/code&gt;:
+It s an special Actor Reference which is not managed by TweetSupervisor. I`m using this Actor to
+handle the tweets published in live-tweets-channel and send it directly to the client.
+Cause in the client side we have a scatter chart which shows in real time the tweet sentiment analysis.
+For this, was necessary to open a websocket connection per client, each connection is handled by an Actor Reference (Tweet Publisher) that subscribes the redis channel.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Supervisor&lt;/code&gt;:
+It handles two type of messages, Read and Start. This messages are java objects and when an Actor Reference (instance) receives a message that it can handle, it simply execute some action based on it.
+So, when the TweetSupervisor receives a Start message it starts two actor instances; TweetReceiver and TweetHarvester.
+If the supervisor receives a Read message, it starts a new instance of TweetAnalyzer actor.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h4&gt;Service, Repository &amp;amp; Controller&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Tweet Service&lt;/code&gt;:
+Starts the Akka Actor System with the TweetSupervisor, Runs a scheduled job in order to persist
+the analyzed tweets, provide some methods to find tweets in TweetRepository.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Tweet Repository&lt;/code&gt;:
+It is a spring data repository which provides a set of actions to be done in the db. For instance, findAll, findBySomeProperty, and so on.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Application Controller&lt;/code&gt;:
+Main controller which receives the HTTP requests, handle and return a Result, which can be a simple html page, a WebSocket connection or JSON response. Available Methods:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;liveTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns html page with live tweets chart&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;timeline&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;timelineTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns html page with timeline tweets chart&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pie&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;pieTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;//returns html page with tweet pie chart&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;ws&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;wsTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns new web socket connection per request&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;&lt;span class="o"&gt;/:&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;// returns json tweets by sentiment&lt;/span&gt;
+
+&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;statistics&lt;/span&gt;
+&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;statistics&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns statistics about the tweets in Vertica DB&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr /&gt;
+&lt;h3&gt;Application Installation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;OpenJDK1.5&lt;/code&gt;: sudo apt-get install openjdk-7-jdk&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://www.playframework.com/documentation/2.3.x/Installing"&gt;&lt;code&gt;Play Framework Installation&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0"&gt;&lt;code&gt;Import the project - IntelliJIDEA&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf"&gt;&lt;code&gt;HP Vertica DB&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://redis.io/topics/quickstart"&gt;&lt;code&gt;Redis&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="http://idolondemand.topcoder.com/"&gt;&lt;code&gt;HP Idol Keys&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Place your keys in the application.conf file under twitter-analyst/conf/ folder&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// HP IDOL Platform&lt;/span&gt;
+&lt;span class="n"&gt;hp&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;idol&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;analyze&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;uri&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://api.idolondemand.com/1/api/sync/analyzesentiment/v1?text=%TWEET%&amp;amp;language=%LANG%&amp;amp;apikey=&amp;lt;IDOL_API_KEY_HERE&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/"&gt;&lt;code&gt;Twitter API Keys&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Place your new keys in the application.conf file twitter-analyst/conf/ folder&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// Twitter 4J OAuth&lt;/span&gt;
+&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;consumerKey&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;consumerSecret&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;accessToken&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;accessTokenSecret&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Connecting to Vertica&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Make sure you are using the persistence.xml with PostgreSQLDialect and setting your default schema name, like&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;persistence&lt;/span&gt; &lt;span class="na"&gt;xmlns=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://java.sun.com/xml/ns/persistence&amp;quot;&lt;/span&gt;
+             &lt;span class="na"&gt;xmlns:xsi=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;&lt;/span&gt;
+             &lt;span class="na"&gt;xsi:schemaLocation=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd&amp;quot;&lt;/span&gt;
+             &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;2.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class="nt"&gt;&amp;lt;persistence-unit&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;defaultPersistenceUnit&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;transaction-type=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;RESOURCE_LOCAL&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;provider&amp;gt;&lt;/span&gt;org.hibernate.ejb.HibernatePersistence&lt;span class="nt"&gt;&amp;lt;/provider&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;non-jta-data-source&amp;gt;&lt;/span&gt;DefaultDS&lt;span class="nt"&gt;&amp;lt;/non-jta-data-source&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;properties&amp;gt;&lt;/span&gt;
+            &lt;span class="c"&gt;&amp;lt;!--&amp;lt;property name=&amp;quot;hibernate.hbm2ddl.auto&amp;quot; value=&amp;quot;none&amp;quot; /&amp;gt;--&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;property&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;hibernate.dialect&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;value=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;org.hibernate.dialect.PostgreSQLDialect&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt; // Postgre Dialect
+            &lt;span class="nt"&gt;&amp;lt;property&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;show_sql&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;value=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;property&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;format_sql&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;value=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;property&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;use_sql_comments&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;value=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;true&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;property&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;hibernate.default_schema&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;value=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;public&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;/properties&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;/persistence-unit&amp;gt;&lt;/span&gt;
+
+&lt;span class="nt"&gt;&amp;lt;/persistence&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;After that, you need to include in the classpath the &lt;em&gt;vertica-jdk5-6.1.0-0.jar&lt;/em&gt; which is located at twitter-analyst/lib/
+folder of the project.&lt;/p&gt;
+&lt;p&gt;You need to update the Vertica IP address, db-name, schema-name into application.conf file under twitter-analyst/conf/.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// VerticaDB&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;driver&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;vertica&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;jdbc&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Driver&lt;/span&gt; &lt;span class="c1"&gt;//This is the driver class that we use to connect to Vertica.&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;jdbc:vertica://&amp;lt;your.db.ip.addr&amp;gt;:5433/&amp;lt;db-name&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;user&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;dbadmin&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;password&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;schema&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;schema-name&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;jndiName&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;DefaultDS&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Creating the Model&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Play Framework can apply your sql scripts to the database, however I could not use this feature. I got some issues with
+the Postgre dialect here. So, in this case I suggest you to copy the file from&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;/twitter-analyst/conf/evolutions/VMart/ddl/1.sql&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and execute it directly in VerticaDB. Make sure your schema is the same that we use in these files, or just replace it with your schema name.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Loading the Data&lt;/code&gt;
+Under the same folder you will find the dml/2.sql which contains 10K+ inserts of tweet with $HPQ tag, you can load it into your DB. Make sure the schema name is right.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Connecting to Redis&lt;/code&gt;
+Just place the Redis IP address in the application.conf file&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// Redis&lt;/span&gt;
+&lt;span class="n"&gt;redis&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;host&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;your.redis.ip.addr&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Starting the Application&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After install the VerticaDB, Redis, Generate you keys for Idol and Twitter, Import the project, you just need
+to go in &lt;code&gt;Run -&amp;gt; Run Play 2&lt;/code&gt; and wait the application bootstrap. If you do not see any tweets in live tweets chart,
+just write one tweet in your own account using the tag $HPQ and you will see it in the chart. Or you can change
+the tag and use some trend hash tag to receive a tsunami of tweets. To see the sentiment score information and the tweets content you can navigate between the charts. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Source Code&lt;/h3&gt;
+&lt;p&gt;It can be found here on my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;github public repository&lt;/a&gt;.
+Feel free to contribute to this project.&lt;/p&gt;
+&lt;p&gt;[]`s,&lt;/p&gt;
+&lt;p&gt;Felipe Forbeck.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Jan 2015 21:31:00 -0800</pubDate><guid>tag:fforbeck.github.io,2015-01-05:posts/2015/01/tweet-sentiment-analyst/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category></item><item><title>Engineering culture @ Spotify</title><link>http://fforbeck.github.io/posts/2014/07/engineering-culture-spotify/</link><description>&lt;div class="vimeo" align="center"&gt;&lt;iframe width="800" height="500" src="https://player.vimeo.com/video/85490944" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 21 Jul 2014 22:08:00 -0700</pubDate><guid>tag:fforbeck.github.io,2014-07-21:posts/2014/07/engineering-culture-spotify/</guid><category>software &amp; product development</category><category>spotify</category></item><item><title>Revolution OS</title><link>http://fforbeck.github.io/posts/2014/07/the-linux-story/</link><description>&lt;ul class="simple"&gt;
 &lt;li&gt;How does the Linux OS was created?&lt;/li&gt;
 &lt;li&gt;Why the community work is so important and powerful?&lt;/li&gt;
 &lt;li&gt;Why do you should care about free and open source software?&lt;/li&gt;
