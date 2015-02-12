@@ -153,6 +153,8 @@ Main controller which receives the HTTP requests, handle and return a Result, wh
 &lt;/pre&gt;&lt;/div&gt;
 
 
+&lt;p&gt;&lt;a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/"&gt;in this tutorial&lt;/a&gt; you can see how to get
+the twitter keys and tokens.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;Connecting to Vertica&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
