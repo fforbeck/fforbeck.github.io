@@ -91,7 +91,8 @@ ol {
 
 .readmore {
   margin-top: 1em;
-  font-weight: bold; }
+  font-weight: bold;
+  font-size: smaller;}
 
 .archive_row {
   font-family: "Microsoft YaHei", Overlock, sans-serif; }
