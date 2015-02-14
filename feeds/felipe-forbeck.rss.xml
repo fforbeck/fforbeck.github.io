@@ -23,6 +23,7 @@ fast I could create this WebApp from scratch without know the tool. Beside that,
 &lt;p&gt;Java; &lt;a href="https://www.playframework.com/"&gt;Play Framework&lt;/a&gt;; &lt;a href="https://spring.io/"&gt;Spring&lt;/a&gt;; &lt;a href="http://projects.spring.io/spring-data/"&gt;Spring Data&lt;/a&gt;; &lt;a href="http://hibernate.org/orm/"&gt;Hibernate&lt;/a&gt;; &lt;a href="https://www.playframework.com/documentation/2.3.x/JavaWebSockets"&gt;WebSockets&lt;/a&gt;; &lt;a href="http://akka.io/"&gt;Akka&lt;/a&gt;; &lt;a href="https://dev.twitter.com"&gt;Twitter4J Search &amp;amp; Stream API&lt;/a&gt;; &lt;a href="http://redis.io/"&gt;Redis&lt;/a&gt;; &lt;a href="http://www.vertica.com/about/"&gt;HPVerticaDB&lt;/a&gt;; &lt;a href="https://www.idolondemand.com/developer/apis"&gt;HPIdol OnDemand API&lt;/a&gt;; &lt;a href="http://getbootstrap.com/"&gt;Twitter Bootstrap 3&lt;/a&gt;; &lt;a href="http://jquery.com/"&gt;JQuery 1.11&lt;/a&gt;; &lt;a href="http://www.highcharts.com/"&gt;Highcharts&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Application design&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Tweet Analyst Design" src="/images/tweet_analyst_system_design.png" /&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;a href="http://vimeo.com/119002875"&gt;To see the screencast click here&lt;/a&gt;&lt;/h4&gt;
 &lt;h3&gt;Design notes&lt;/h3&gt;
 &lt;h4&gt;&lt;a href="https://dev.twitter.com"&gt;Twitter API&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;a href="https://dev.twitter.com/streaming/overview"&gt;&lt;code&gt;Stream&lt;/code&gt;&lt;/a&gt;:
