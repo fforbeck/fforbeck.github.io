@@ -244,11 +244,12 @@ to go in &lt;code&gt;Run -&amp;gt; Run Play 2&lt;/code&gt; and wait for the appl
 &lt;li&gt;Pie: Tweets sentiment share.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;h3&gt;Source Code&lt;/h3&gt;
-&lt;p&gt;It can be found &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;here&lt;/a&gt;.
-Feel free to contribute to this project. Send in github your comments and questions. Share your opinion about
-the design decisions and technologies as well. It was my first application using Play Framework an Akka, hope it can be useful for some else.&lt;/p&gt;
-&lt;p&gt;Thank you!&lt;/p&gt;
+&lt;h3&gt;Final Thoughts&lt;/h3&gt;
+&lt;p&gt;It was my first application using Play Framework, Akka and HP Idol API. I have to say it was really easy and fast to setup and create the app. The more important here was that I could use my time to focus on what features I would create instead of spending time on the minimum viable architecture. &lt;/p&gt;
+&lt;p&gt;The Akka is another great framework to create microservices without pain. I would like to had developed unit and integration tests, mainly for the actor. Due to the time constraints, unfortunately, I was not able to do it. But I will. In a near future. I do want to see and learn how easy/complex is to test the actors and the message flow.&lt;/p&gt;
+&lt;p&gt;Feel free to contribute, share your opinion about the design decisions and technologies.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://github.com/fforbeck/twitter-analyst"&gt;&lt;img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[]`s,&lt;/p&gt;
 &lt;p&gt;Felipe Forbeck.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Jan 2015 21:31:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-01-05:posts/2015/01/tweet-sentiment-analyst/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category></item><item><title>Engineering culture @ Spotify</title><link>http://felipeforbeck.com/posts/2014/07/engineering-culture-spotify/</link><description>&lt;div class="vimeo" align="center"&gt;&lt;iframe width="800" height="500" src="https://player.vimeo.com/video/85490944" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 21 Jul 2014 22:08:00 -0700</pubDate><guid>tag:felipeforbeck.com,2014-07-21:posts/2014/07/engineering-culture-spotify/</guid><category>software &amp; product development</category><category>spotify</category></item><item><title>Revolution OS</title><link>http://felipeforbeck.com/posts/2014/07/the-linux-story/</link><description>&lt;ul class="simple"&gt;
 &lt;li&gt;How does the Linux OS was created?&lt;/li&gt;
