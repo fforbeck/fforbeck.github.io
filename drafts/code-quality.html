@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="author" content="Felipe Forbeck" />
+    <meta name="robots" content="index, follow"/>
+
+    <meta property="og:title" content="What makes a good code?"/>
+    <meta property="og:url" content="../drafts/code-quality.html"/>
+    <meta property="og:site_name" content="a bit of bits..."/>
+    <meta property="og:type" content="article"/>
+
+    <link rel="canonical" href="../drafts/code-quality.html" />
+
+    <title>What makes a good code? | a bit of bits...</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="../theme/css/main.css" />
+
+    <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">
+        stLight.options({
+            publisher: "",
+            doNotHash: false,
+            doNotCopy: false,
+            hashAddressBar: false
+        });
+    </script>
+</head>
+
+<body id="index">
+<div class="row-fluid">
+    <div class="span10 offset1">
+        <header id="banner" >
+            <h1>
+                <a href="../">a bit of bits... </a>
+            </h1>
+            <nav class="navbar">
+                <div class="navbar-inner" style="border: none;">
+                    <ul class="nav">
+                        <li ><a href="/">Home</a></li>
+                                <li ><a href="../category/hacktivism">hacktivism</a></li>
+                                <li ><a href="../category/how-it-works">how it works</a></li>
+                                <li ><a href="../category/linux">linux</a></li>
+                                <li ><a href="../category/tutorial">tutorial</a></li>
+                    </ul>
+
+                </div>
+            </nav>
+        </header><!-- /#banner -->
+    </div>
+</div>
+
+<div class="row-fluid">
+    <div class="span10 offset1">
+        <div class="row-fluid">
+    <div class="span10 offset1">
+        <section>
+            <article>
+                <header>
+                    <h1 class="entry-title">
+                        <a href="../drafts/code-quality.html" rel="bookmark"
+                           title="Permalink to What makes a good code?">What makes a good code?</a></h1>
+                </header>
+                <div class="entry-content">
+<footer class="post-info">
+    <address class="vcard author">
+        by <a class="url fn" href="../author/felipe-forbeck.html">Felipe Forbeck</a>
+    </address>
+
+    in <a href="../category/software-development">software development</a>
+
+    on 2015-02-21
+
+        |
+        tags:         <a href="../tag/coding-style/">coding style</a>
+        <a href="../tag/best-practices/">best practices</a>
+        <a href="../tag/development-principles/">development principles</a>
+        <a href="../tag/code-review/">code review</a>
+        <a href="../tag/tests/">tests</a>
+        <a href="../tag/code-quality/">code quality</a>
+
+
+        |
+        <a href="../drafts/code-quality.html#disqus_thread">comments</a>
+
+    
+</footer><!-- /.post-info -->
+
+                    <p>During my career I have worked in many projects and most of them does not have some basic principles
+of software development.</p>
+<ul>
+<li>
+<p>language conventions</p>
+</li>
+<li>
+<p>API best practices</p>
+</li>
+</ul>
+<p>-
+http://howtodoinjava.com/2013/06/07/5-class-design-principles-solid-in-java/</p>
+<p>http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself</p>
+<p>http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule</p>
+<p>http://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161</p>
+<p>c2.com/cgi/wiki?SevenPrinciplesOfSoftwareDevelopment</p>
+<p>Implementation-wise, the following things should be avoided as much as possible:</p>
+<p>http://blog.jooq.org/2013/08/20/10-subtle-best-practices-when-coding-java/</p>
+<p>http://howtodoinjava.com/2013/04/04/java-exception-handling-best-practices/</p>
+<p>http://technoladder.blogspot.com.br/2012/05/code-review-principles.html</p>
+<p>http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review</p>
+<p>http://www.devx.com/architect/Article/45741
+Test Driven Development (TDD) Continuous Integration Team Rooms Pair Programming Small Releases Refactoring Collective Code Ownership - See more at: http://www.devx.com/architect/Article/45741#sthash.NMYHCWCB.dpuf</p>
+<p>http://docs.oracle.com/cd/A97688_16/generic.903/bp/java.htm</p>
+<p>Global state
+Public mutable state
+Implicit conversions
+ThreadLocal
+Locks
+Casting</p>
+<p>Creating Commits And Writing Commit Messages</p>
+<p>First line should be a descriptive sentence what the commit is doing. It should be possible to fully understand what the commit does by just reading this single line. It is not ok to only list the ticket number, type “minor fix” or similar. Include reference to ticket number, prefixed with #, at the end of the first line. If the commit is a small fix, then you are done. If not, go to 3.</p>
+<p>Add keywords for your commit (depending on the degree of automation we reach, the list may change over time):</p>
+<div class="highlight"><pre><span class="n">Review</span> <span class="n">by</span> <span class="err">@</span><span class="n">gituser</span> <span class="o">-</span> <span class="k">if</span> <span class="n">you</span> <span class="n">want</span> <span class="n">to</span> <span class="n">notify</span> <span class="n">someone</span> <span class="n">on</span> <span class="n">the</span> <span class="n">team</span><span class="p">.</span> <span class="n">The</span> <span class="n">others</span> <span class="n">can</span><span class="p">,</span> <span class="n">and</span> <span class="n">are</span> <span class="n">encouraged</span> <span class="n">to</span> <span class="n">participate</span><span class="p">.</span>
+<span class="n">Fix</span><span class="o">/</span><span class="n">Fixing</span><span class="o">/</span><span class="n">Fixes</span><span class="o">/</span><span class="n">Close</span><span class="o">/</span><span class="n">Closing</span><span class="o">/</span><span class="n">Refs</span> <span class="err">#</span><span class="n">ticket</span> <span class="o">-</span> <span class="k">if</span> <span class="n">you</span> <span class="n">want</span> <span class="n">to</span> <span class="n">mark</span> <span class="n">the</span> <span class="n">ticket</span> <span class="n">as</span> <span class="n">fixed</span> <span class="n">in</span> <span class="n">the</span> <span class="n">issue</span> <span class="n">tracker</span> <span class="p">(</span><span class="n">Assembla</span> <span class="n">understands</span> <span class="n">this</span><span class="p">).</span>
+<span class="n">backport</span> <span class="n">to</span> <span class="n">_branch</span> <span class="n">name_</span> <span class="o">-</span> <span class="k">if</span> <span class="n">the</span> <span class="n">fix</span> <span class="n">needs</span> <span class="n">to</span> <span class="n">be</span> <span class="n">cherry</span><span class="o">-</span><span class="n">picked</span> <span class="n">to</span> <span class="n">another</span> <span class="n">branch</span> <span class="p">(</span><span class="n">like</span> <span class="mf">2.9</span><span class="p">.</span><span class="n">x</span><span class="p">,</span> <span class="mf">2.10</span><span class="p">.</span><span class="n">x</span><span class="p">,</span> <span class="n">etc</span><span class="p">)</span>
+</pre></div>
+
+
+<p>Adding monadic API to Future. Fixes #2731</p>
+<ul>
+<li>Details 1</li>
+<li>Details 2</li>
+<li>Details 3</li>
+</ul>
+<p>refs
+https://www.playframework.com/documentation/2.3.x/Guidelines</p>
+
+                </div><!-- /.entry-content -->
+                    <div class="comments">
+                        <h2>Comments</h2>
+                        <div id="disqus_thread"></div>
+                        <script type="text/javascript">
+                            var disqus_identifier = "drafts/code-quality.html";
+                            (function() {
+                                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                                dsq.src = '//felipeforbeck.disqus.com/embed.js';
+                                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                            })();
+                        </script>
+                    </div>
+
+            </article>
+        </section>
+    </div>
+        </div>
+    </div>
+</div>
+
+<footer id="site-footer">
+    <div class="row-fluid">
+        <div class="span10 offset1">
+            <address>
+                <p>
+                    This blog is proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </p>
+                <p>
+                    <a href="http://github.com/jsliang/pelican-fresh/">Fresh</a> is a responsive theme designed by <a href="http://jsliang.com/">jsliang</a> and <a href="https://github.com/jsliang/pelican-fresh/graphs/contributors">contributors</a>.
+                    Special thanks to <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a> and <a href="http://getbootstrap.com/">Twitter Bootstrap</a>.
+                </p>
+            </address>
+        </div>
+    </div>
+</footer>
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-53068353-1']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+<script type="text/javascript">
+    var disqus_shortname = 'felipeforbeck';
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+<script src="//code.jquery.com/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/2.3.2/js/bootstrap.min.js"></script>
+</body>
+</html>
