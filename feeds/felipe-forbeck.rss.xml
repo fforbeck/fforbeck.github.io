@@ -225,9 +225,24 @@ Just place the Redis IP address in the application.conf file&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;Starting the Application&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;After install the VerticaDB, Redis, Generate you keys for Idol and Twitter, Import the project, you just need
-to go in &lt;code&gt;Run -&amp;gt; Run Play 2&lt;/code&gt; and wait the application bootstrap. If you do not see any tweets in live tweets chart,
-just write one tweet in your own account using the tag $HPQ and you will see it in the chart. Or you can change
-the tag and use some trend hash tag to receive a tsunami of tweets. To see the sentiment score information and the tweets content you can navigate between the charts. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.&lt;/p&gt;
+to go in &lt;code&gt;Run -&amp;gt; Run Play 2&lt;/code&gt; and wait for the application bootstrap. &lt;/p&gt;
+&lt;p&gt;If you do not see any tweets in live tweets chart, just tweet in your own account using the tag $HPQ and you will see it in the live chart. Or just set the property 'tweet.analyst.tags' in application.conf file to use a trend hashtag and you will receive a tsunami of tweets.&lt;/p&gt;
+&lt;p&gt;Here we have two examples of positive and negative tweets in the live tweets chart.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Live Positive Tweet" src="/images/live-positive-tweet.png" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The green dots are all tweets considered positive, which means they received a score &amp;gt; 0 from HP Sentiment Analysis API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Live Negative Tweet" src="/images/live-negative-tweet.png" /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The red dots are all tweets considered negative, score &amp;lt; 0.&lt;/li&gt;
+&lt;li&gt;The gray dots are all tweets considered neutral, score = 0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To see the sentiment score information and the tweets content you can navigate between the charts Live, Timeline and Pie. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Live: tweets analyzed in real time and placed in the chart.&lt;/li&gt;
+&lt;li&gt;Timeline: all the tweets analyzed and stored in the db can be filtered by date range.&lt;/li&gt;
+&lt;li&gt;Pie: Tweets sentiment share.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h3&gt;Source Code&lt;/h3&gt;
 &lt;p&gt;It can be found &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;here&lt;/a&gt;.

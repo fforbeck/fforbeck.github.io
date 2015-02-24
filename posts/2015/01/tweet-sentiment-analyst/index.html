@@ -312,9 +312,24 @@ Just place the Redis IP address in the application.conf file</p>
 <li><code>Starting the Application</code></li>
 </ul>
 <p>After install the VerticaDB, Redis, Generate you keys for Idol and Twitter, Import the project, you just need
-to go in <code>Run -&gt; Run Play 2</code> and wait the application bootstrap. If you do not see any tweets in live tweets chart,
-just write one tweet in your own account using the tag $HPQ and you will see it in the chart. Or you can change
-the tag and use some trend hash tag to receive a tsunami of tweets. To see the sentiment score information and the tweets content you can navigate between the charts. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.</p>
+to go in <code>Run -&gt; Run Play 2</code> and wait for the application bootstrap. </p>
+<p>If you do not see any tweets in live tweets chart, just tweet in your own account using the tag $HPQ and you will see it in the live chart. Or just set the property 'tweet.analyst.tags' in application.conf file to use a trend hashtag and you will receive a tsunami of tweets.</p>
+<p>Here we have two examples of positive and negative tweets in the live tweets chart.</p>
+<p><img alt="Live Positive Tweet" src="/images/live-positive-tweet.png" /></p>
+<ul>
+<li>The green dots are all tweets considered positive, which means they received a score &gt; 0 from HP Sentiment Analysis API.</li>
+</ul>
+<p><img alt="Live Negative Tweet" src="/images/live-negative-tweet.png" /></p>
+<ul>
+<li>The red dots are all tweets considered negative, score &lt; 0.</li>
+<li>The gray dots are all tweets considered neutral, score = 0.</li>
+</ul>
+<p>To see the sentiment score information and the tweets content you can navigate between the charts Live, Timeline and Pie. Each one of them will be reloaded completely from scratch every time you hit the page. Place the mouse over the dots to see the content.</p>
+<ul>
+<li>Live: tweets analyzed in real time and placed in the chart.</li>
+<li>Timeline: all the tweets analyzed and stored in the db can be filtered by date range.</li>
+<li>Pie: Tweets sentiment share.</li>
+</ul>
 <hr />
 <h3>Source Code</h3>
 <p>It can be found <a href="https://github.com/fforbeck/twitter-analyst">here</a>.
