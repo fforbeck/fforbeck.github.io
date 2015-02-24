@@ -246,7 +246,10 @@ to go in &lt;code&gt;Run -&amp;gt; Run Play 2&lt;/code&gt; and wait for the appl
 &lt;hr /&gt;
 &lt;h3&gt;Final Thoughts&lt;/h3&gt;
 &lt;p&gt;It was my first application using Play Framework, Akka and HP Idol API. I have to say it was really easy and fast to setup and create the app. The more important here was that I could use my time to focus on what features I would create instead of spending time on the minimum viable architecture. &lt;/p&gt;
-&lt;p&gt;The Akka is another great framework to create microservices without pain. I would like to had developed unit and integration tests, mainly for the actor. Due to the time constraints, unfortunately, I was not able to do it. But I will. In a near future. I do want to see and learn how easy/complex is to test the actors and the message flow.&lt;/p&gt;
+&lt;p&gt;The Akka is a great framework to create microservices without pain. I would like to had developed unit and integration tests, mainly for the actors. Due to the time constraints, unfortunately, I was not able to do it. But I will. In a near future. I do want to see and learn how easy/complex is to test the actors and the message flow.&lt;/p&gt;
+&lt;p&gt;The Sentiment API was another great tool. I really want explore the other APIs from HP Idol OnDemand, for sure. In this challenge I could see that we can create nice apps just plugin into different APIs around the world. We can get a ton of data from social media APIs (Twitter Stream, awesome!! your app receiving tweets near real time). Grab and send it to be processed by whatever open and free service you find out on the internet. Put together the pieces and wala!
+You have a nice app running.&lt;/p&gt;
+&lt;p&gt;I think that`s all people.&lt;/p&gt;
 &lt;p&gt;Feel free to contribute, share your opinion about the design decisions and technologies.&lt;/p&gt;
 &lt;p&gt;Thanks!&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://github.com/fforbeck/twitter-analyst"&gt;&lt;img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"&gt;&lt;/a&gt;&lt;/p&gt;
