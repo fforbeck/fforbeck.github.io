@@ -102,7 +102,7 @@ a bit of bits...            </a>
 <p>Some days ago I enrolled in my first topcoder development challenge and it is basically a tutorial challenge where we need to install HPVertica DB, capture a set of tweets and based on $HPQ tag, use the HP Idol platform, which has an API to perform sentiment analysis over a tweet text content.</p>
 <p>With that in mind I decided to start this challenge with Play Framework to learn a little bit and see how
 fast I could create this WebApp from scratch without know the tool. Beside that, I have read about play framework and it seems to be a very powerful tool which I could easily plug different technologies and keep focused in my development. It provides you a sort of minimum viable architecture for your system. In addition, another reason to pick this technology is because I can use Java, which was one of the requirements of the challenge.</p>
-<p><a href="https://www.topcoder.com/challenge-details/30048480/"><code>The challenge</code></a></p>
+<p><code>The challenge</code> - https://www.topcoder.com/challenge-details/30048480/</p>
 <p>"Here are the steps to participate in the HP Haven Twitter Analysis Tutorial challenge:</p>
 <ol>
 <li>You’ll be creating a Java application which accesses Twitter data for the Hewlett Packard stock symbol tag “$HPQ”, performs sentiment analysis on this data, and loads the raw social feed and sentiment data into the Vertica database.  The application should also display some kind of visualization about how sentiment is changing over time or by topic.  The application should extract enough Tweets that the Sentiment Analysis shows some depth/variation – at least 1000 Tweets, but more would even be better.</li>
@@ -120,26 +120,30 @@ fast I could create this WebApp from scratch without know the tool. Beside that,
 <p>Java; <a href="https://www.playframework.com/">Play Framework</a>; <a href="https://spring.io/">Spring</a>; <a href="http://projects.spring.io/spring-data/">Spring Data</a>; <a href="http://hibernate.org/orm/">Hibernate</a>; <a href="https://www.playframework.com/documentation/2.3.x/JavaWebSockets">WebSockets</a>; <a href="http://akka.io/">Akka</a>; <a href="https://dev.twitter.com">Twitter4J Search &amp; Stream API</a>; <a href="http://redis.io/">Redis</a>; <a href="http://www.vertica.com/about/">HPVerticaDB</a>; <a href="https://www.idolondemand.com/developer/apis">HPIdol OnDemand API</a>; <a href="http://getbootstrap.com/">Twitter Bootstrap 3</a>; <a href="http://jquery.com/">JQuery 1.11</a>; <a href="http://www.highcharts.com/">Highcharts</a>.</p>
 <h3>Application design</h3>
 <p><img alt="Tweet Analyst Design" src="/images/tweet_analyst_system_design.png" /></p>
-<h4><a href="http://vimeo.com/119002875">To see the screencast click here</a></h4>
+<h4>Screencast</h4>
+<div class="vimeo" align="left">
+    <iframe width="800" height="500" src="https://player.vimeo.com/video/119002875" frameborder="0"></iframe>
+</div>
+
 <h3>Design notes</h3>
 <h4><a href="https://dev.twitter.com">Twitter API</a></h4>
-<p><a href="https://dev.twitter.com/streaming/overview"><code>Stream</code></a>:
+<p><code>Stream</code> - https://dev.twitter.com/streaming/overview:
 "The set of streaming APIs offered by Twitter give developers low latency access to Twitter’s global stream of Tweet data. A proper implementation of a streaming client will be pushed messages indicating Tweets and other events have occurred, without any of the overhead associated with polling a REST endpoint."
 In this case I am using the public stream API, it is enough to receive the tweets in real time.</p>
-<p><a href="https://dev.twitter.com/rest/public/search"><code>Search</code></a>:
+<p><code>Search</code> - https://dev.twitter.com/rest/public/search:
 "The Twitter Search API is part of Twitter’s v1.1 REST API. It allows queries against the indices of recent or popular Tweets.."
 Here I am just using a <code>GET</code> method for <code>twitter.com/search?q=%MY_HASH_TAG%</code> URL to search and grab the tweets with the hashTag param.</p>
 <hr />
-<h4><a href="http://twitter4j.org/en/index.html">Twitter4J</a></h4>
+<h4>Twitter4J - http://twitter4j.org/en/index.html</h4>
 <p>It is an unofficial library to connect to twitter APIs. You can check the code examples <a href="http://twitter4j.org/en/code-examples.html">here</a> and <a href="https://github.com/yusuke/twitter4j/tree/master/twitter4j-examples/src/main/java/twitter4j/examples">more code examples</a>
 To connect to API you will need some oauth keys and consumer keys.</p>
 <hr />
-<h4><a href="https://www.idolondemand.com/">HPIdol OnDemand API</a></h4>
-<p><a href="http://www.idolondemand.com/developer/apis/analyzesentiment#overview"><code>Setiment Analysis API</code></a>`
+<h4>HPIdol OnDemand API - https://www.idolondemand.com/</h4>
+<p><code>Setiment Analysis API</code> - http://www.idolondemand.com/developer/apis/analyzesentiment#overview
 "The Sentiment Analysis API analyzes text to return the sentiment as positive, negative or neutral. It contains a dictionary of positive and negative words of different types, and defines patterns that describe how to combine these words to form positive and negative phrases."
 The hello world in java for HP Idol API can be found <a href="https://www.youtube.com/watch?v=MY-ASbxRJVw">here</a>.</p>
 <hr />
-<h4><a href="http://redis.io/">Redis</a></h4>
+<h4>Redis - http://redis.io/</h4>
 <p><code>Processing Queue</code>:
 This queue keeps all the tweets that are in processing phase. For instance, when we receive a new tweet from Twitter Stream API or when we found a set of tweets in Twitter Search API, they are placed in this queue to be processed later.
 Processing action here means: we need to parse the tweets, extract the relevant information and send it to HP IDOL API to do the analysis for each one of them. The result of this phase will be placed in another queue (persistent-queue).
@@ -151,7 +155,7 @@ sentiment score.</p>
 This channel publishes all the tweets that were processed and analyzed to the subscribers of this channel. It is just a Redis pubSub system, you can learn more about it <a href="http://redis.io/topics/pubsub">here</a>.
 In this app it is really useful, cause I would like to see the sentiment analysis in real time for all tweets that comes from Twitter Stream API. So, right after analyze it, I just send the results to this channel which will automatically publish this content to every subscriber. The subscriber in this case is an Akka Actor Reference which was created by a websocket connection request, that happens when you open the open the index page with the live tweets chart.</p>
 <hr />
-<h4><a href="https://my.vertica.com/community/">HP Vertica DB</a></h4>
+<h4><code>HP Vertica DB</code> - https://my.vertica.com/community/</h4>
 <p>You can download the HP Vertica community edition <a href="https://my.vertica.com/community/">here</a>
 It is a relational database optimized for large-scale analytics. "It is uniquely designed using a memory-and-disk balanced distributed compressed columnar paradigm, which makes it exponentially faster than older techniques for modern data analytics workloads. HP Vertica supports a series of built-in analytics libraries like time series and analytics packs for geospatial and sentiment plus additional functions from vendors like SAS. And, it supports analytics written using the R programming language for predictive modeling."
 More details about the technology can be found <a href="http://www.vertica.com/wp-content/uploads/2014/05/VerticaOverview.pdf">here</a>.</p>
@@ -220,19 +224,19 @@ controllers.Application.statistics() // returns statistics about the tweets in V
 <p><code>OpenJDK1.5</code>: sudo apt-get install openjdk-7-jdk</p>
 </li>
 <li>
-<p><a href="https://www.playframework.com/documentation/2.3.x/Installing"><code>Play Framework Installation</code></a></p>
+<p><code>Play Framework Installation</code> - https://www.playframework.com/documentation/2.3.x/Installing</p>
 </li>
 <li>
-<p><a href="https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0"><code>Import the project - IntelliJIDEA</code></a></p>
+<p><code>Import the project - IntelliJIDEA</code> - https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0</p>
 </li>
 <li>
-<p><a href="https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf"><code>HP Vertica DB</code></a></p>
+<p><code>HP Vertica DB</code> - https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf</p>
 </li>
 <li>
-<p><a href="http://redis.io/topics/quickstart"><code>Redis</code></a></p>
+<p><code>Redis</code> - http://redis.io/topics/quickstart</p>
 </li>
 <li>
-<p><a href="http://idolondemand.topcoder.com/"><code>HP Idol Keys</code></a></p>
+<p><code>HP Idol Keys</code>- http://idolondemand.topcoder.com/</p>
 </li>
 </ul>
 <p>Place your keys in the application.conf file under twitter-analyst/conf/ folder</p>
@@ -242,7 +246,7 @@ hp.idol.analyze.sentiment.uri=&quot;https://api.idolondemand.com/1/api/sync/anal
 
 
 <ul>
-<li><a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/"><code>Twitter API Keys</code></a></li>
+<li><code>Twitter API Keys</code> - http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/</li>
 </ul>
 <p>Place your new keys in the application.conf file twitter-analyst/conf/ folder</p>
 <div class="highlight"><pre><span></span>// Twitter 4J OAuth
@@ -253,7 +257,7 @@ twitter.oauth.accessTokenSecret=&quot;&quot;
 </pre></div>
 
 
-<p><a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/">in this tutorial</a> you can see how to get
+<p><a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/">this tutorial</a> shows you how to get
 the twitter keys and tokens.</p>
 <ul>
 <li><code>Connecting to Vertica</code></li>
