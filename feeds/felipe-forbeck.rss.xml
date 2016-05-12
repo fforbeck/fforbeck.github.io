@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a bit of bits...</title><link>http://felipeforbeck.com/</link><description></description><atom:link href="http://felipeforbeck.com/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 05 Nov 2015 20:36:00 -0800</lastBuildDate><item><title>Elasticsearch - Server and Client config notes</title><link>http://felipeforbeck.com/posts/2015/11/elasticsearch-notes-about-server-client-configs/</link><description>&lt;h3&gt;ES Server - Elasticsearch v2.0.0&lt;/h3&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a bit of bits...</title><link>http://felipeforbeck.com/</link><description></description><atom:link href="http://felipeforbeck.com/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 12 May 2016 09:20:00 -0700</lastBuildDate><item><title>Videos about Quantum Computing + Free access to online IBM Quantum Computer</title><link>http://felipeforbeck.com/posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/</link><description>&lt;p&gt;Old but gold. &lt;/p&gt;
+&lt;h4&gt;Quantum physicist Michelle Simmons @ TEDxSydney 2012 gives the best explanation about Quantum Computing I've watched&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/cugu4iW4W54" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;If you prefer a short version by the theoretical physicist Lawrence Krauss&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/UUpqnBzBMEE" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;IBM has release an online service which allows you to play with quantum computer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;You can request access here:&lt;/code&gt; &lt;a href="https://quantumexperience.ng.bluemix.net/"&gt;https://quantumexperience.ng.bluemix.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can create quantum algorithms, test and evaluate IBM’s Quantum Computer. It is for research purposes only and &lt;em&gt;results are not guaranteed&lt;/em&gt;. The IBM Quantum Experience consists of an actual Quantum Processor, Quantum Composer, Quantum Simulator, Scores, Results and Quantum website. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;IBM Quantum Experience&lt;/code&gt;, consists of access to an actual Quantum Processor, Quantum Composer, Quantum Simulator, Scores, Results and Quantum website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Scores&lt;/code&gt;, are user algorithms created by dragging gates to control Qubit functions in the Quantum Composer GUI to create Results.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Quantum Users Results&lt;/code&gt;, are results from running your score on the Quantum Hardware or Quantum Simulator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once you get the access, they also provide a good material to teach you the basics about quantum computing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Here is a demo about the IBM Quantum Experience&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/pYD6bvKLI_c" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Thu, 12 May 2016 09:20:00 -0700</pubDate><guid>tag:felipeforbeck.com,2016-05-12:posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/</guid><category>quantum-computing</category><category>ibm-bluemix</category><category>concepts</category></item><item><title>Elasticsearch - Server and Client config notes</title><link>http://felipeforbeck.com/posts/2016/05/elasticsearch-notes-about-server-client-configs/</link><description>&lt;h3&gt;ES Server - Elasticsearch v2.0.0&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;cluster.routing.allocation.cluster_concurrent_rebalance&lt;/code&gt;: 2&lt;ul&gt;
 &lt;li&gt;Determines the number of shards allowed for concurrent rebalance. This property needs to be set appropriately depending on the hardware being used, for example the number of CPUs, IO capacity, etc. If this property is not set appropriately, it can impact the ElasticSearch performance with indexing. By default the value is set at 2, meaning that at any point in time only 2 shards are allowed to be moving. It is good to set this property low so that the rebalance of shards is throttled and doesn't affect indexing.&lt;/li&gt;
@@ -60,9 +97,9 @@
 &lt;li&gt;To avoid blocking threads for bulk requests is recommended to set this property using &lt;code&gt;x = 4 * num_available_cores&lt;/code&gt; for the concurrency.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Thu, 05 Nov 2015 20:36:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-11-05:posts/2015/11/elasticsearch-notes-about-server-client-configs/</guid><category>elasticsearch</category><category>configs</category><category>java</category></item><item><title>LOL - who needs help?</title><link>http://felipeforbeck.com/posts/2015/10/lol-who-needs-help/</link><description>&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Oct 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-10-05:posts/2015/10/lol-who-needs-help/</guid><category>programmer</category><category>gif</category><category>lol</category></item><item><title>Free CDN Provider - Couldflare</title><link>http://felipeforbeck.com/posts/2015/09/free-cdn-provider-cloudflare/</link><description>&lt;div class="vimeo" align="center"&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Wed, 11 May 2016 20:36:00 -0700</pubDate><guid>tag:felipeforbeck.com,2016-05-11:posts/2016/05/elasticsearch-notes-about-server-client-configs/</guid><category>elasticsearch</category><category>configs</category><category>java</category></item><item><title>LOL - who needs help?</title><link>http://felipeforbeck.com/posts/2016/05/lol-who-needs-help/</link><description>&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Tue, 10 May 2016 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2016-05-10:posts/2016/05/lol-who-needs-help/</guid><category>programmer</category><category>gif</category><category>lol</category></item><item><title>Free CDN Provider - Couldflare</title><link>http://felipeforbeck.com/posts/2016/05/free-cdn-provider-cloudflare/</link><description>&lt;div class="vimeo" align="center"&gt;
     &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 05 Sep 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-09-05:posts/2015/09/free-cdn-provider-cloudflare/</guid><category>cloudflare</category><category>tool</category><category>free</category></item><item><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</link><description>&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 09 May 2016 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2016-05-09:posts/2016/05/free-cdn-provider-cloudflare/</guid><category>cloudflare</category><category>tool</category><category>free</category></item><item><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</link><description>&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.topcoder.com/challenge-details/30048480/#winner"&gt;Results&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Results" src="/images/hp-haven-twitter-analysis-tutorial-challenge-results.png" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 14 Feb 2015 08:22:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-02-14:posts/2015/02/topcoder-challenge-tweet-analysis/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category><category>topcoder</category><category>chanllenge</category></item><item><title>Tweet Sentiment Analysis</title><link>http://felipeforbeck.com/posts/2015/01/tweet-sentiment-analyst/</link><description>&lt;h1&gt;Why&lt;/h1&gt;
 &lt;p&gt;Some days ago I enrolled in my first topcoder development challenge and it is basically a tutorial challenge where we need to install HPVertica DB, capture a set of tweets and based on $HPQ tag, use the HP Idol platform, which has an API to perform sentiment analysis over a tweet text content.&lt;/p&gt;

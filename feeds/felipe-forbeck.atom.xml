@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/felipe-forbeck.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2015-11-05T20:36:00-08:00</updated><entry><title>Elasticsearch - Server and Client config notes</title><link href="http://felipeforbeck.com/posts/2015/11/elasticsearch-notes-about-server-client-configs/" rel="alternate"></link><updated>2015-11-05T20:36:00-08:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2015-11-05:posts/2015/11/elasticsearch-notes-about-server-client-configs/</id><summary type="html">&lt;h3&gt;ES Server - Elasticsearch v2.0.0&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/felipe-forbeck.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-12T09:20:00-07:00</updated><entry><title>Videos about Quantum Computing + Free access to online IBM Quantum Computer</title><link href="http://felipeforbeck.com/posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/" rel="alternate"></link><updated>2016-05-12T09:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-12:posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/</id><summary type="html">&lt;p&gt;Old but gold. &lt;/p&gt;
+&lt;h4&gt;Quantum physicist Michelle Simmons @ TEDxSydney 2012 gives the best explanation about Quantum Computing I've watched&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/cugu4iW4W54" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;If you prefer a short version by the theoretical physicist Lawrence Krauss&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/UUpqnBzBMEE" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;IBM has release an online service which allows you to play with quantum computer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;You can request access here:&lt;/code&gt; &lt;a href="https://quantumexperience.ng.bluemix.net/"&gt;https://quantumexperience.ng.bluemix.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can create quantum algorithms, test and evaluate IBM’s Quantum Computer. It is for research purposes only and &lt;em&gt;results are not guaranteed&lt;/em&gt;. The IBM Quantum Experience consists of an actual Quantum Processor, Quantum Composer, Quantum Simulator, Scores, Results and Quantum website. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;IBM Quantum Experience&lt;/code&gt;, consists of access to an actual Quantum Processor, Quantum Composer, Quantum Simulator, Scores, Results and Quantum website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Scores&lt;/code&gt;, are user algorithms created by dragging gates to control Qubit functions in the Quantum Composer GUI to create Results.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Quantum Users Results&lt;/code&gt;, are results from running your score on the Quantum Hardware or Quantum Simulator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once you get the access, they also provide a good material to teach you the basics about quantum computing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Here is a demo about the IBM Quantum Experience&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/pYD6bvKLI_c" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary><category term="quantum-computing"></category><category term="ibm-bluemix"></category><category term="concepts"></category></entry><entry><title>Elasticsearch - Server and Client config notes</title><link href="http://felipeforbeck.com/posts/2016/05/elasticsearch-notes-about-server-client-configs/" rel="alternate"></link><updated>2016-05-11T20:36:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-11:posts/2016/05/elasticsearch-notes-about-server-client-configs/</id><summary type="html">&lt;h3&gt;ES Server - Elasticsearch v2.0.0&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;cluster.routing.allocation.cluster_concurrent_rebalance&lt;/code&gt;: 2&lt;ul&gt;
 &lt;li&gt;Determines the number of shards allowed for concurrent rebalance. This property needs to be set appropriately depending on the hardware being used, for example the number of CPUs, IO capacity, etc. If this property is not set appropriately, it can impact the ElasticSearch performance with indexing. By default the value is set at 2, meaning that at any point in time only 2 shards are allowed to be moving. It is good to set this property low so that the rebalance of shards is throttled and doesn't affect indexing.&lt;/li&gt;
@@ -60,7 +97,7 @@
 &lt;li&gt;To avoid blocking threads for bulk requests is recommended to set this property using &lt;code&gt;x = 4 * num_available_cores&lt;/code&gt; for the concurrency.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary><category term="elasticsearch"></category><category term="configs"></category><category term="java"></category></entry><entry><title>LOL - who needs help?</title><link href="http://felipeforbeck.com/posts/2015/10/lol-who-needs-help/" rel="alternate"></link><updated>2015-10-05T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2015-10-05:posts/2015/10/lol-who-needs-help/</id><summary type="html">&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</summary><category term="programmer"></category><category term="gif"></category><category term="lol"></category></entry><entry><title>Free CDN Provider - Couldflare</title><link href="http://felipeforbeck.com/posts/2015/09/free-cdn-provider-cloudflare/" rel="alternate"></link><updated>2015-09-05T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2015-09-05:posts/2015/09/free-cdn-provider-cloudflare/</id><summary type="html">&lt;div class="vimeo" align="center"&gt;
+&lt;/ul&gt;</summary><category term="elasticsearch"></category><category term="configs"></category><category term="java"></category></entry><entry><title>LOL - who needs help?</title><link href="http://felipeforbeck.com/posts/2016/05/lol-who-needs-help/" rel="alternate"></link><updated>2016-05-10T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-10:posts/2016/05/lol-who-needs-help/</id><summary type="html">&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</summary><category term="programmer"></category><category term="gif"></category><category term="lol"></category></entry><entry><title>Free CDN Provider - Couldflare</title><link href="http://felipeforbeck.com/posts/2016/05/free-cdn-provider-cloudflare/" rel="alternate"></link><updated>2016-05-09T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-09:posts/2016/05/free-cdn-provider-cloudflare/</id><summary type="html">&lt;div class="vimeo" align="center"&gt;
     &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;</summary><category term="cloudflare"></category><category term="tool"></category><category term="free"></category></entry><entry><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link href="http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/" rel="alternate"></link><updated>2015-02-14T08:22:00-08:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2015-02-14:posts/2015/02/topcoder-challenge-tweet-analysis/</id><summary type="html">&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.topcoder.com/challenge-details/30048480/#winner"&gt;Results&lt;/a&gt;&lt;/p&gt;

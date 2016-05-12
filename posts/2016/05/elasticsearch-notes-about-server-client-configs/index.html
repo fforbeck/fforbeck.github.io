@@ -2,7 +2,7 @@
 <html lang="en"
 >
 <head>
-    <title>What makes a good code? - a bit of bits...</title>
+    <title>Elasticsearch - Server and Client config notes - a bit of bits...</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -10,11 +10,11 @@
 
 
 
-<link rel="canonical" href="../drafts/code-quality.html">
+<link rel="canonical" href="../../../../posts/2016/05/elasticsearch-notes-about-server-client-configs/">
 
         <meta name="author" content="Felipe Forbeck" />
-        <meta name="keywords" content="coding style,best practices,development principles,code review,tests,code quality" />
-        <meta name="description" content="What are the basic principles of software development to make your code and software better?" />
+        <meta name="keywords" content="elasticsearch,configs,java" />
+        <meta name="description" content="Some notes that I collected from ES Docs, forums and blogs while I was working on a Java bulk indexer for Elasticsearch." />
 
     <!-- Enable latex plugin -->
 
@@ -22,11 +22,11 @@
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="../theme/css/bootstrap.min.css" type="text/css"/>
-    <link href="../theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../../../theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="../../../../theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="../theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
+    <link href="../../../../theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../../../theme/css/style.css" type="text/css"/>
 
 
 
@@ -43,17 +43,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="../" class="navbar-brand">
+            <a href="../../../../" class="navbar-brand">
 a bit of bits...            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li ><a href="../pages/about-me.html">
+                         <li ><a href="../../../../pages/about-me.html">
                              About Me
                           </a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="../archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+                <li><a href="../../../../archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -68,10 +68,10 @@ a bit of bits...            </a>
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="../drafts/code-quality.html"
+                    <a href="../../../../posts/2016/05/elasticsearch-notes-about-server-client-configs/"
                        rel="bookmark"
-                       title="Permalink to What makes a good code?">
-                        What makes a good code?
+                       title="Permalink to Elasticsearch - Server and Client config notes">
+                        Elasticsearch - Server and Client config notes
                     </a>
                 </h1>
             </header>
@@ -81,7 +81,7 @@ a bit of bits...            </a>
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2015-02-21T12:22:00-08:00"> 2015 02 21</time>
+        <i class="fa fa-calendar"></i><time datetime="2016-05-11T20:36:00-07:00"> 2016 05 11</time>
     </span>
 
 
@@ -90,67 +90,76 @@ a bit of bits...            </a>
 
 
 <span class="label label-default">Tags</span>
-	<a href="../tag/coding-style/">coding style</a>
+	<a href="../../../../tag/elasticsearch/">elasticsearch</a>
         /
-	<a href="../tag/best-practices/">best practices</a>
+	<a href="../../../../tag/configs/">configs</a>
         /
-	<a href="../tag/development-principles/">development principles</a>
-        /
-	<a href="../tag/code-review/">code review</a>
-        /
-	<a href="../tag/tests/">tests</a>
-        /
-	<a href="../tag/code-quality/">code quality</a>
+	<a href="../../../../tag/java/">java</a>
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>During my career I have worked in many projects and most of them does not have some basic principles
-of software development.</p>
+                <h3>ES Server - Elasticsearch v2.0.0</h3>
 <ul>
-<li>
-<p>language conventions</p>
+<li><code>cluster.routing.allocation.cluster_concurrent_rebalance</code>: 2<ul>
+<li>Determines the number of shards allowed for concurrent rebalance. This property needs to be set appropriately depending on the hardware being used, for example the number of CPUs, IO capacity, etc. If this property is not set appropriately, it can impact the ElasticSearch performance with indexing. By default the value is set at 2, meaning that at any point in time only 2 shards are allowed to be moving. It is good to set this property low so that the rebalance of shards is throttled and doesn't affect indexing.</li>
+</ul>
 </li>
-<li>
-<p>API best practices</p>
+<li><code>index.store.throttle.max_bytes_per_sec</code>: 10mb<ul>
+<li>Allows to control the maximum bytes per sec written to the file system. I was using small documents, something around 10Kb, we can increase this value once we get bigger documents.</li>
+</ul>
+</li>
+<li><code>index.number_of_replicas</code>: 0<ul>
+<li>To disable the replica allocation in order to run a single node per cluster. </li>
+</ul>
+</li>
+<li><code>index.routing.allocation.total_shards_per_node</code>: 2<ul>
+<li>The maximum number of shards (replicas and primaries) that will be allocated to a single node. Defaults is unbounded. It imposes a hard limit which can result in some shards not being allocated. Use with caution. It can be changed later to add more shards and help the search feature, because replica shards will receive the queries while primary shards will receive the index and delete requests.</li>
+</ul>
+</li>
+<li><code>index.refresh_interval</code>: 5s<ul>
+<li>Better indexing performance if you leave refresh enabled. This is because ES a separate refresh thread which will do the flushing, instead of having your bulk indexing threads to it when RAM is full.</li>
+</ul>
+</li>
+<li><code>indices.cluster.send_refresh_mapping</code>: false<ul>
+<li>When the index manager send a node an index request to process, the node updates its own mapping and then sends that mapping to the master. While the master processes it, that node receives a state that includes an older version of the mapping. If there’s a conflict, it’s not bad (i.e. the cluster state will eventually have the correct mapping), but we send a refresh just in case from that node to the master. In order to make the index request more efficient, we have set this property on our data nodes. We are currently running one single node so we do not need to have it enabled.</li>
+</ul>
+</li>
+<li><code>node.max_local_storage_nodes</code>: 1<ul>
+<li>Start at most one single node in the cluster.</li>
+</ul>
+</li>
+<li><code>action.destructive_requires_name</code>: true<ul>
+<li>The delete index API can also be applied to more than one index, or on all indices by using _all or * as index. To prevent deleting all indices via wildcards or _all.</li>
+</ul>
 </li>
 </ul>
-<p>-
-http://howtodoinjava.com/2013/06/07/5-class-design-principles-solid-in-java/</p>
-<p>http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Repeat_Yourself</p>
-<p>http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule</p>
-<p>http://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161</p>
-<p>c2.com/cgi/wiki?SevenPrinciplesOfSoftwareDevelopment</p>
-<p>Implementation-wise, the following things should be avoided as much as possible:</p>
-<p>http://blog.jooq.org/2013/08/20/10-subtle-best-practices-when-coding-java/</p>
-<p>http://howtodoinjava.com/2013/04/04/java-exception-handling-best-practices/</p>
-<p>http://technoladder.blogspot.com.br/2012/05/code-review-principles.html</p>
-<p>http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review</p>
-<p>http://www.devx.com/architect/Article/45741
-Test Driven Development (TDD) Continuous Integration Team Rooms Pair Programming Small Releases Refactoring Collective Code Ownership - See more at: http://www.devx.com/architect/Article/45741#sthash.NMYHCWCB.dpuf</p>
-<p>http://docs.oracle.com/cd/A97688_16/generic.903/bp/java.htm</p>
-<p>Global state
-Public mutable state
-Implicit conversions
-ThreadLocal
-Locks
-Casting</p>
-<p>Creating Commits And Writing Commit Messages</p>
-<p>First line should be a descriptive sentence what the commit is doing. It should be possible to fully understand what the commit does by just reading this single line. It is not ok to only list the ticket number, type “minor fix” or similar. Include reference to ticket number, prefixed with #, at the end of the first line. If the commit is a small fix, then you are done. If not, go to 3.</p>
-<p>Add keywords for your commit (depending on the degree of automation we reach, the list may change over time):</p>
-<div class="highlight"><pre><span></span>Review by @gituser - if you want to notify someone on the team. The others can, and are encouraged to participate.
-Fix/Fixing/Fixes/Close/Closing/Refs #ticket - if you want to mark the ticket as fixed in the issue tracker (Assembla understands this).
-backport to _branch name_ - if the fix needs to be cherry-picked to another branch (like 2.9.x, 2.10.x, etc)
-</pre></div>
-
-
-<p>Adding monadic API to Future. Fixes #2731</p>
+<h3>ES Java Client - Elasticsearch v2.0.0</h3>
 <ul>
-<li>Details 1</li>
-<li>Details 2</li>
-<li>Details 3</li>
+<li><code>TransportClient</code> instead of <code>NodeClient</code><ul>
+<li>Connects to the cluster and does not act like a new node, which reduce the noise in the cluster and allow faster requests.</li>
 </ul>
-<p>refs
-https://www.playframework.com/documentation/2.3.x/Guidelines</p>
+</li>
+<li>Parallel bulk requests and do not wait for ES Responses<ul>
+<li>ES execute the bulk requests in background and it takes time to send back a response, so just send more bulk requests and put the listeners to parse the responses in another thread.</li>
+</ul>
+</li>
+<li><code>BulkProcessorListener</code> instead of <code>client.prepareBulk()</code><ul>
+<li>The listener allow you to configure the size of the bulk request and other flush parameters as well.</li>
+</ul>
+</li>
+<li><code>BulkProcessorListener</code> actions: 1000-10000 (current is 5K)<ul>
+<li>Do not set more than 10K per bulk actions, it is not recommended.</li>
+</ul>
+</li>
+<li><code>BulkProcessorListener</code> with BulkSize in MB<ul>
+<li>Set auto flush to the buffer when it reaches <code>X</code> MB, even if it contains less than <code>N</code> actions.</li>
+</ul>
+</li>
+<li><code>BulkProcessorListener</code> with concurrentRequests enabled (x &gt;= 1)<ul>
+<li>To avoid blocking threads for bulk requests is recommended to set this property using <code>x = 4 * num_available_cores</code> for the concurrency.</li>
+</ul>
+</li>
+</ul>
             </div>
             <!-- /.entry-content -->
     <hr/>
@@ -162,8 +171,8 @@ https://www.playframework.com/documentation/2.3.x/Guidelines</p>
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
             var disqus_shortname = 'felipeforbeck'; // required: replace example with your forum shortname
 
-                    var disqus_identifier = 'code-quality';
-                var disqus_url = '../drafts/code-quality.html';
+                    var disqus_identifier = 'elasticsearch-notes-about-server-client-configs';
+                var disqus_url = '../../../../posts/2016/05/elasticsearch-notes-about-server-client-configs/';
 
             var disqus_config = function () {
                 this.language = "en";
@@ -213,7 +222,7 @@ https://www.playframework.com/documentation/2.3.x/Guidelines</p>
 
 
 
-                <li class="list-group-item"><a href="../"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <li class="list-group-item"><a href="../../../../"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
                     <ul class="list-group list-inline tagcloud" id="tags">
                     </ul>
                 </li>    
@@ -238,13 +247,13 @@ https://www.playframework.com/documentation/2.3.x/Guidelines</p>
       </div>
    </div>
 </footer>
-<script src="../theme/js/jquery.min.js"></script>
+<script src="../../../../theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="../theme/js/bootstrap.min.js"></script>
+<script src="../../../../theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="../theme/js/respond.min.js"></script>
+<script src="../../../../theme/js/respond.min.js"></script>
 
     <!-- Disqus -->
     <script type="text/javascript">
