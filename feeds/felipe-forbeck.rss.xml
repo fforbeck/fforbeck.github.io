@@ -60,7 +60,7 @@
 &lt;li&gt;To avoid blocking threads for bulk requests is recommended to set this property using &lt;code&gt;x = 4 * num_available_cores&lt;/code&gt; for the concurrency.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Thu, 05 Nov 2015 20:36:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-11-05:posts/2015/11/elasticsearch-notes-about-server-client-configs/</guid><category>elasticsearch</category><category>configs</category><category>java</category></item><item><title>LOL - who needs help?</title><link>http://felipeforbeck.com/posts/2015/10/lol-who-needs-help/</link><description>&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Oct 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-10-05:posts/2015/10/lol-who-needs-help/</guid><category>programmer</category><category>gif</category><category>lol</category></item><item><title>Free CDN Provider - Couldflare</title><link>http://felipeforbeck.com/posts/2015/09/free-cdn-provider-cloudflare/</link><description>&lt;div class="vimeo" align="left"&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Thu, 05 Nov 2015 20:36:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-11-05:posts/2015/11/elasticsearch-notes-about-server-client-configs/</guid><category>elasticsearch</category><category>configs</category><category>java</category></item><item><title>LOL - who needs help?</title><link>http://felipeforbeck.com/posts/2015/10/lol-who-needs-help/</link><description>&lt;p&gt;&lt;img alt="Results" src="/images/crazy-dev.gif" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Oct 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-10-05:posts/2015/10/lol-who-needs-help/</guid><category>programmer</category><category>gif</category><category>lol</category></item><item><title>Free CDN Provider - Couldflare</title><link>http://felipeforbeck.com/posts/2015/09/free-cdn-provider-cloudflare/</link><description>&lt;div class="vimeo" align="center"&gt;
     &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 05 Sep 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-09-05:posts/2015/09/free-cdn-provider-cloudflare/</guid><category>cloudflare</category><category>tool</category><category>free</category></item><item><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</link><description>&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.topcoder.com/challenge-details/30048480/#winner"&gt;Results&lt;/a&gt;&lt;/p&gt;
@@ -68,7 +68,7 @@
 &lt;p&gt;Some days ago I enrolled in my first topcoder development challenge and it is basically a tutorial challenge where we need to install HPVertica DB, capture a set of tweets and based on $HPQ tag, use the HP Idol platform, which has an API to perform sentiment analysis over a tweet text content.&lt;/p&gt;
 &lt;p&gt;With that in mind I decided to start this challenge with Play Framework to learn a little bit and see how
 fast I could create this WebApp from scratch without know the tool. Beside that, I have read about play framework and it seems to be a very powerful tool which I could easily plug different technologies and keep focused in my development. It provides you a sort of minimum viable architecture for your system. In addition, another reason to pick this technology is because I can use Java, which was one of the requirements of the challenge.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;The challenge&lt;/code&gt; - https://www.topcoder.com/challenge-details/30048480/&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;The challenge&lt;/code&gt; - &lt;a href="https://www.topcoder.com/challenge-details/30048480/"&gt;https://www.topcoder.com/challenge-details/30048480/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;"Here are the steps to participate in the HP Haven Twitter Analysis Tutorial challenge:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You’ll be creating a Java application which accesses Twitter data for the Hewlett Packard stock symbol tag “$HPQ”, performs sentiment analysis on this data, and loads the raw social feed and sentiment data into the Vertica database.  The application should also display some kind of visualization about how sentiment is changing over time or by topic.  The application should extract enough Tweets that the Sentiment Analysis shows some depth/variation – at least 1000 Tweets, but more would even be better.&lt;/li&gt;
@@ -86,30 +86,30 @@ fast I could create this WebApp from scratch without know the tool. Beside that,
 &lt;p&gt;Java; &lt;a href="https://www.playframework.com/"&gt;Play Framework&lt;/a&gt;; &lt;a href="https://spring.io/"&gt;Spring&lt;/a&gt;; &lt;a href="http://projects.spring.io/spring-data/"&gt;Spring Data&lt;/a&gt;; &lt;a href="http://hibernate.org/orm/"&gt;Hibernate&lt;/a&gt;; &lt;a href="https://www.playframework.com/documentation/2.3.x/JavaWebSockets"&gt;WebSockets&lt;/a&gt;; &lt;a href="http://akka.io/"&gt;Akka&lt;/a&gt;; &lt;a href="https://dev.twitter.com"&gt;Twitter4J Search &amp;amp; Stream API&lt;/a&gt;; &lt;a href="http://redis.io/"&gt;Redis&lt;/a&gt;; &lt;a href="http://www.vertica.com/about/"&gt;HPVerticaDB&lt;/a&gt;; &lt;a href="https://www.idolondemand.com/developer/apis"&gt;HPIdol OnDemand API&lt;/a&gt;; &lt;a href="http://getbootstrap.com/"&gt;Twitter Bootstrap 3&lt;/a&gt;; &lt;a href="http://jquery.com/"&gt;JQuery 1.11&lt;/a&gt;; &lt;a href="http://www.highcharts.com/"&gt;Highcharts&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;Application design&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Tweet Analyst Design" src="/images/tweet_analyst_system_design.png" /&gt;&lt;/p&gt;
-&lt;h4&gt;Screencast&lt;/h4&gt;
-&lt;div class="vimeo" align="left"&gt;
+&lt;h3&gt;Screencast&lt;/h3&gt;
+&lt;div class="vimeo" align="center"&gt;
     &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/119002875" frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 &lt;h3&gt;Design notes&lt;/h3&gt;
 &lt;h4&gt;&lt;a href="https://dev.twitter.com"&gt;Twitter API&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;code&gt;Stream&lt;/code&gt; - https://dev.twitter.com/streaming/overview:
+&lt;p&gt;&lt;code&gt;Stream&lt;/code&gt; - &lt;a href="https://dev.twitter.com/streaming/overview"&gt;https://dev.twitter.com/streaming/overview&lt;/a&gt;:
 "The set of streaming APIs offered by Twitter give developers low latency access to Twitter’s global stream of Tweet data. A proper implementation of a streaming client will be pushed messages indicating Tweets and other events have occurred, without any of the overhead associated with polling a REST endpoint."
 In this case I am using the public stream API, it is enough to receive the tweets in real time.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Search&lt;/code&gt; - https://dev.twitter.com/rest/public/search:
+&lt;p&gt;&lt;code&gt;Search&lt;/code&gt; - &lt;a href="https://dev.twitter.com/rest/public/search"&gt;https://dev.twitter.com/rest/public/search&lt;/a&gt;:
 "The Twitter Search API is part of Twitter’s v1.1 REST API. It allows queries against the indices of recent or popular Tweets.."
 Here I am just using a &lt;code&gt;GET&lt;/code&gt; method for &lt;code&gt;twitter.com/search?q=%MY_HASH_TAG%&lt;/code&gt; URL to search and grab the tweets with the hashTag param.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h4&gt;Twitter4J - http://twitter4j.org/en/index.html&lt;/h4&gt;
+&lt;h4&gt;Twitter4J - &lt;a href="http://twitter4j.org/en/index.html"&gt;http://twitter4j.org/en/index.html&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;It is an unofficial library to connect to twitter APIs. You can check the code examples &lt;a href="http://twitter4j.org/en/code-examples.html"&gt;here&lt;/a&gt; and &lt;a href="https://github.com/yusuke/twitter4j/tree/master/twitter4j-examples/src/main/java/twitter4j/examples"&gt;more code examples&lt;/a&gt;
 To connect to API you will need some oauth keys and consumer keys.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h4&gt;HPIdol OnDemand API - https://www.idolondemand.com/&lt;/h4&gt;
-&lt;p&gt;&lt;code&gt;Setiment Analysis API&lt;/code&gt; - http://www.idolondemand.com/developer/apis/analyzesentiment#overview
+&lt;h4&gt;HPIdol OnDemand API - &lt;a href="https://www.idolondemand.com/"&gt;https://www.idolondemand.com/&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;Setiment Analysis API&lt;/code&gt; - &lt;a href="http://www.idolondemand.com/developer/apis/analyzesentiment#overview"&gt;http://www.idolondemand.com/developer/apis/analyzesentiment#overview&lt;/a&gt;
 "The Sentiment Analysis API analyzes text to return the sentiment as positive, negative or neutral. It contains a dictionary of positive and negative words of different types, and defines patterns that describe how to combine these words to form positive and negative phrases."
 The hello world in java for HP Idol API can be found &lt;a href="https://www.youtube.com/watch?v=MY-ASbxRJVw"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h4&gt;Redis - http://redis.io/&lt;/h4&gt;
+&lt;h4&gt;Redis - &lt;a href="http://redis.io/"&gt;http://redis.io/&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;&lt;code&gt;Processing Queue&lt;/code&gt;:
 This queue keeps all the tweets that are in processing phase. For instance, when we receive a new tweet from Twitter Stream API or when we found a set of tweets in Twitter Search API, they are placed in this queue to be processed later.
 Processing action here means: we need to parse the tweets, extract the relevant information and send it to HP IDOL API to do the analysis for each one of them. The result of this phase will be placed in another queue (persistent-queue).
@@ -121,7 +121,7 @@ sentiment score.&lt;/p&gt;
 This channel publishes all the tweets that were processed and analyzed to the subscribers of this channel. It is just a Redis pubSub system, you can learn more about it &lt;a href="http://redis.io/topics/pubsub"&gt;here&lt;/a&gt;.
 In this app it is really useful, cause I would like to see the sentiment analysis in real time for all tweets that comes from Twitter Stream API. So, right after analyze it, I just send the results to this channel which will automatically publish this content to every subscriber. The subscriber in this case is an Akka Actor Reference which was created by a websocket connection request, that happens when you open the open the index page with the live tweets chart.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h4&gt;&lt;code&gt;HP Vertica DB&lt;/code&gt; - https://my.vertica.com/community/&lt;/h4&gt;
+&lt;h4&gt;&lt;code&gt;HP Vertica DB&lt;/code&gt; - &lt;a href="https://my.vertica.com/community/"&gt;https://my.vertica.com/community/&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;You can download the HP Vertica community edition &lt;a href="https://my.vertica.com/community/"&gt;here&lt;/a&gt;
 It is a relational database optimized for large-scale analytics. "It is uniquely designed using a memory-and-disk balanced distributed compressed columnar paradigm, which makes it exponentially faster than older techniques for modern data analytics workloads. HP Vertica supports a series of built-in analytics libraries like time series and analytics packs for geospatial and sentiment plus additional functions from vendors like SAS. And, it supports analytics written using the R programming language for predictive modeling."
 More details about the technology can be found &lt;a href="http://www.vertica.com/wp-content/uploads/2014/05/VerticaOverview.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -163,26 +163,44 @@ the analyzed tweets, provide some methods to find tweets in TweetRepository.&lt;
 It is a spring data repository which provides a set of actions to be done in the db. For instance, findAll, findBySomeProperty, and so on.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Application Controller&lt;/code&gt;:
 Main controller which receives the HTTP requests, handle and return a Result, which can be a simple html page, a WebSocket connection or JSON response. Available Methods:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- GET        /
-controllers.Application.liveTweets() // returns html page with live tweets chart
-
-- GET        /timeline
-controllers.Application.timelineTweets() // returns html page with timeline tweets chart
-
-- GET        /pie
-controllers.Application.pieTweets() //returns html page with tweet pie chart
-
-- GET        /ws-tweets
-controllers.Application.wsTweets() // returns new web socket connection per request
-
-- GET        /tweets/:sentiment
-controllers.Application.tweets(sentiment: String) // returns json tweets by sentiment
-
-- GET        /statistics
-controllers.Application.statistics() // returns statistics about the tweets in Vertica DB
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Live tweets&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /                      controllers.Application.liveTweets()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Timeline&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /timeline              controllers.Application.timelineTweets()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pie chart&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /pie                   controllers.Application.pieTweets()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web socket connection &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /ws-tweets             controllers.Application.wsTweets()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tweets by sentiment type&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /tweets/:sentiment     controllers.Application.tweets(sentiment: String)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tweets statistics&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;GET        /statistics            controllers.Application.statistics()&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr /&gt;
 &lt;h3&gt;Application Installation&lt;/h3&gt;
 &lt;ul&gt;
@@ -190,19 +208,19 @@ controllers.Application.statistics() // returns statistics about the tweets in V
 &lt;p&gt;&lt;code&gt;OpenJDK1.5&lt;/code&gt;: sudo apt-get install openjdk-7-jdk&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Play Framework Installation&lt;/code&gt; - https://www.playframework.com/documentation/2.3.x/Installing&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Play Framework Installation&lt;/code&gt; - &lt;a href="https://www.playframework.com/documentation/2.3.x/Installing"&gt; https://www.playframework.com/documentation/2.3.x/Installing&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Import the project - IntelliJIDEA&lt;/code&gt; - https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Import the project - IntelliJIDEA&lt;/code&gt; - &lt;a href="https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0"&gt;https://confluence.jetbrains.com/display/IntelliJIDEA/Play+Framework+2.0&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;HP Vertica DB&lt;/code&gt; - https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HP Vertica DB&lt;/code&gt; - &lt;a href="https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf"&gt;https://my.vertica.com/docs/5.0/PDF/Installation%20Guide.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Redis&lt;/code&gt; - http://redis.io/topics/quickstart&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Redis&lt;/code&gt; - &lt;a href="http://redis.io/topics/quickstart"&gt;http://redis.io/topics/quickstart&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;HP Idol Keys&lt;/code&gt;- http://idolondemand.topcoder.com/&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;HP Idol Keys&lt;/code&gt;- &lt;a href="http://idolondemand.topcoder.com/"&gt;http://idolondemand.topcoder.com/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Place your keys in the application.conf file under twitter-analyst/conf/ folder&lt;/p&gt;
@@ -212,7 +230,7 @@ hp.idol.analyze.sentiment.uri=&amp;quot;https://api.idolondemand.com/1/api/sync/
 
 
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Twitter API Keys&lt;/code&gt; - http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;Twitter API Keys&lt;/code&gt; - &lt;a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/"&gt;http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Place your new keys in the application.conf file twitter-analyst/conf/ folder&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// Twitter 4J OAuth
