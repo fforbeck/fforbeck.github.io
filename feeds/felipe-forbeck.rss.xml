@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a bit of bits...</title><link>http://felipeforbeck.com/</link><description></description><atom:link href="http://felipeforbeck.com/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 14 Feb 2015 08:22:00 -0800</lastBuildDate><item><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</link><description>&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a bit of bits...</title><link>http://felipeforbeck.com/</link><description></description><atom:link href="http://felipeforbeck.com/feeds/felipe-forbeck.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 05 Nov 2015 20:36:00 -0800</lastBuildDate><item><title>Elasticsearch - Server and Client config notes</title><link>http://felipeforbeck.com/posts/2015/11/elasticsearch-notes-about-server-client-configs/</link><description>&lt;h3&gt;ES Server - Elasticsearch v2.0.0&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;cluster.routing.allocation.cluster_concurrent_rebalance&lt;/code&gt;: 2&lt;ul&gt;
+&lt;li&gt;Determines the number of shards allowed for concurrent rebalance. This property needs to be set appropriately depending on the hardware being used, for example the number of CPUs, IO capacity, etc. If this property is not set appropriately, it can impact the ElasticSearch performance with indexing. By default the value is set at 2, meaning that at any point in time only 2 shards are allowed to be moving. It is good to set this property low so that the rebalance of shards is throttled and doesn't affect indexing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.store.throttle.max_bytes_per_sec&lt;/code&gt;: 10mb&lt;ul&gt;
+&lt;li&gt;Allows to control the maximum bytes per sec written to the file system. I was using small documents, something around 10Kb, we can increase this value once we get bigger documents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.number_of_replicas&lt;/code&gt;: 0&lt;ul&gt;
+&lt;li&gt;To disable the replica allocation in order to run a single node per cluster. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.routing.allocation.total_shards_per_node&lt;/code&gt;: 2&lt;ul&gt;
+&lt;li&gt;The maximum number of shards (replicas and primaries) that will be allocated to a single node. Defaults is unbounded. It imposes a hard limit which can result in some shards not being allocated. Use with caution. It can be changed later to add more shards and help the search feature, because replica shards will receive the queries while primary shards will receive the index and delete requests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;index.refresh_interval&lt;/code&gt;: 5s&lt;ul&gt;
+&lt;li&gt;Better indexing performance if you leave refresh enabled. This is because ES a separate refresh thread which will do the flushing, instead of having your bulk indexing threads to it when RAM is full.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;indices.cluster.send_refresh_mapping&lt;/code&gt;: false&lt;ul&gt;
+&lt;li&gt;When the index manager send a node an index request to process, the node updates its own mapping and then sends that mapping to the master. While the master processes it, that node receives a state that includes an older version of the mapping. If there’s a conflict, it’s not bad (i.e. the cluster state will eventually have the correct mapping), but we send a refresh just in case from that node to the master. In order to make the index request more efficient, we have set this property on our data nodes. We are currently running one single node so we do not need to have it enabled.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;node.max_local_storage_nodes&lt;/code&gt;: 1&lt;ul&gt;
+&lt;li&gt;Start at most one single node in the cluster.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;action.destructive_requires_name&lt;/code&gt;: true&lt;ul&gt;
+&lt;li&gt;The delete index API can also be applied to more than one index, or on all indices by using _all or * as index. To prevent deleting all indices via wildcards or _all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;ES Java Client - Elasticsearch v2.0.0&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;TransportClient&lt;/code&gt; instead of &lt;code&gt;NodeClient&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;Connects to the cluster and does not act like a new node, which reduce the noise in the cluster and allow faster requests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Parallel bulk requests and do not wait for ES Responses&lt;ul&gt;
+&lt;li&gt;ES execute the bulk requests in background and it takes time to send back a response, so just send more bulk requests and put the listeners to parse the responses in another thread.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BulkProcessorListener&lt;/code&gt; instead of &lt;code&gt;client.prepareBulk()&lt;/code&gt;&lt;ul&gt;
+&lt;li&gt;The listener allow you to configure the size of the bulk request and other flush parameters as well.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BulkProcessorListener&lt;/code&gt; actions: 1000-10000 (current is 5K)&lt;ul&gt;
+&lt;li&gt;Do not set more than 10K per bulk actions, it is not recommended.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BulkProcessorListener&lt;/code&gt; with BulkSize in MB&lt;ul&gt;
+&lt;li&gt;Set auto flush to the buffer when it reaches &lt;code&gt;X&lt;/code&gt; MB, even if it contains less than &lt;code&gt;N&lt;/code&gt; actions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;BulkProcessorListener&lt;/code&gt; with concurrentRequests enabled (x &amp;gt;= 1)&lt;ul&gt;
+&lt;li&gt;To avoid blocking threads for bulk requests is recommended to set this property using &lt;code&gt;x = 4 * num_available_cores&lt;/code&gt; for the concurrency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Thu, 05 Nov 2015 20:36:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-11-05:posts/2015/11/elasticsearch-notes-about-server-client-configs/</guid><category>elasticsearch</category><category>configs</category><category>java</category></item><item><title>LOL - who needs help?</title><link>http://felipeforbeck.com/posts/2015/10/lol-who-needs-help/</link><description>&lt;p&gt;&lt;img alt="Results" src="/theme/images/crazy-dev.gif" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Mon, 05 Oct 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-10-05:posts/2015/10/lol-who-needs-help/</guid><category>programmer</category><category>gif</category><category>lol</category></item><item><title>Free CDN Provider - Couldflare</title><link>http://felipeforbeck.com/posts/2015/09/free-cdn-provider-cloudflare/</link><description>&lt;div class="vimeo" align="left"&gt;
+    &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 05 Sep 2015 20:35:00 -0700</pubDate><guid>tag:felipeforbeck.com,2015-09-05:posts/2015/09/free-cdn-provider-cloudflare/</guid><category>cloudflare</category><category>tool</category><category>free</category></item><item><title>HP Haven Twitter Analysis Tutorial Challenge - Results</title><link>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</link><description>&lt;p&gt;\o/ I got first place with my &lt;a href="https://github.com/fforbeck/twitter-analyst"&gt;App&lt;/a&gt; :D&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.topcoder.com/challenge-details/30048480/#winner"&gt;Results&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Results" src="/images/hp-haven-twitter-analysis-tutorial-challenge-results.png" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 14 Feb 2015 08:22:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-02-14:posts/2015/02/topcoder-challenge-tweet-analysis/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category><category>topcoder</category><category>chanllenge</category></item><item><title>Tweet Sentiment Analysis</title><link>http://felipeforbeck.com/posts/2015/01/tweet-sentiment-analyst/</link><description>&lt;h1&gt;Why&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="Results" src="/theme/images/hp-haven-twitter-analysis-tutorial-challenge-results.png" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felipe Forbeck</dc:creator><pubDate>Sat, 14 Feb 2015 08:22:00 -0800</pubDate><guid>tag:felipeforbeck.com,2015-02-14:posts/2015/02/topcoder-challenge-tweet-analysis/</guid><category>play framework</category><category>hp-idol</category><category>sentiment analysis</category><category>topcoder</category><category>chanllenge</category></item><item><title>Tweet Sentiment Analysis</title><link>http://felipeforbeck.com/posts/2015/01/tweet-sentiment-analyst/</link><description>&lt;h1&gt;Why&lt;/h1&gt;
 &lt;p&gt;Some days ago I enrolled in my first topcoder development challenge and it is basically a tutorial challenge where we need to install HPVertica DB, capture a set of tweets and based on $HPQ tag, use the HP Idol platform, which has an API to perform sentiment analysis over a tweet text content.&lt;/p&gt;
 &lt;p&gt;With that in mind I decided to start this challenge with Play Framework to learn a little bit and see how
 fast I could create this WebApp from scratch without know the tool. Beside that, I have read about play framework and it seems to be a very powerful tool which I could easily plug different technologies and keep focused in my development. It provides you a sort of minimum viable architecture for your system. In addition, another reason to pick this technology is because I can use Java, which was one of the requirements of the challenge.&lt;/p&gt;
@@ -96,23 +159,23 @@ the analyzed tweets, provide some methods to find tweets in TweetRepository.&lt;
 It is a spring data repository which provides a set of actions to be done in the db. For instance, findAll, findBySomeProperty, and so on.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Application Controller&lt;/code&gt;:
 Main controller which receives the HTTP requests, handle and return a Result, which can be a simple html page, a WebSocket connection or JSON response. Available Methods:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;liveTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns html page with live tweets chart&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- GET        /
+controllers.Application.liveTweets() // returns html page with live tweets chart
 
-&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;timeline&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;timelineTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns html page with timeline tweets chart&lt;/span&gt;
+- GET        /timeline
+controllers.Application.timelineTweets() // returns html page with timeline tweets chart
 
-&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;pie&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;pieTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;//returns html page with tweet pie chart&lt;/span&gt;
+- GET        /pie
+controllers.Application.pieTweets() //returns html page with tweet pie chart
 
-&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;ws&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;wsTweets&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns new web socket connection per request&lt;/span&gt;
+- GET        /ws-tweets
+controllers.Application.wsTweets() // returns new web socket connection per request
 
-&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;&lt;span class="o"&gt;/:&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;tweets&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="c1"&gt;// returns json tweets by sentiment&lt;/span&gt;
+- GET        /tweets/:sentiment
+controllers.Application.tweets(sentiment: String) // returns json tweets by sentiment
 
-&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;GET&lt;/span&gt;        &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;statistics&lt;/span&gt;
-&lt;span class="n"&gt;controllers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Application&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;statistics&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="c1"&gt;// returns statistics about the tweets in Vertica DB&lt;/span&gt;
+- GET        /statistics
+controllers.Application.statistics() // returns statistics about the tweets in Vertica DB
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -139,8 +202,8 @@ Main controller which receives the HTTP requests, handle and return a Result, wh
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Place your keys in the application.conf file under twitter-analyst/conf/ folder&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// HP IDOL Platform&lt;/span&gt;
-&lt;span class="n"&gt;hp&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;idol&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;analyze&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;sentiment&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;uri&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://api.idolondemand.com/1/api/sync/analyzesentiment/v1?text=%TWEET%&amp;amp;language=%LANG%&amp;amp;apikey=&amp;lt;IDOL_API_KEY_HERE&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// HP IDOL Platform
+hp.idol.analyze.sentiment.uri=&amp;quot;https://api.idolondemand.com/1/api/sync/analyzesentiment/v1?text=%TWEET%&amp;amp;language=%LANG%&amp;amp;apikey=&amp;lt;IDOL_API_KEY_HERE&amp;gt;&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -148,11 +211,11 @@ Main controller which receives the HTTP requests, handle and return a Result, wh
 &lt;li&gt;&lt;a href="http://www.androidhive.info/2012/09/android-twitter-oauth-connect-tutorial/"&gt;&lt;code&gt;Twitter API Keys&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Place your new keys in the application.conf file twitter-analyst/conf/ folder&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// Twitter 4J OAuth&lt;/span&gt;
-&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;consumerKey&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;consumerSecret&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;accessToken&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;twitter&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;oauth&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;accessTokenSecret&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// Twitter 4J OAuth
+twitter.oauth.consumerKey=&amp;quot;&amp;quot;
+twitter.oauth.consumerSecret=&amp;quot;&amp;quot;
+twitter.oauth.accessToken=&amp;quot;&amp;quot;
+twitter.oauth.accessTokenSecret=&amp;quot;&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -162,7 +225,7 @@ the twitter keys and tokens.&lt;/p&gt;
 &lt;li&gt;&lt;code&gt;Connecting to Vertica&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Make sure you are using the persistence.xml with PostgreSQLDialect and setting your default schema name, like&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;persistence&lt;/span&gt; &lt;span class="na"&gt;xmlns=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://java.sun.com/xml/ns/persistence&amp;quot;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;persistence&lt;/span&gt; &lt;span class="na"&gt;xmlns=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://java.sun.com/xml/ns/persistence&amp;quot;&lt;/span&gt;
              &lt;span class="na"&gt;xmlns:xsi=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://www.w3.org/2001/XMLSchema-instance&amp;quot;&lt;/span&gt;
              &lt;span class="na"&gt;xsi:schemaLocation=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd&amp;quot;&lt;/span&gt;
              &lt;span class="na"&gt;version=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;2.0&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
@@ -187,13 +250,13 @@ the twitter keys and tokens.&lt;/p&gt;
 &lt;p&gt;After that, you need to include in the classpath the &lt;em&gt;vertica-jdk5-6.1.0-0.jar&lt;/em&gt; which is located at twitter-analyst/lib/
 folder of the project.&lt;/p&gt;
 &lt;p&gt;You need to update the Vertica IP address, db-name, schema-name into application.conf file under twitter-analyst/conf/.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// VerticaDB&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;driver&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;vertica&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;jdbc&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Driver&lt;/span&gt; &lt;span class="c1"&gt;//This is the driver class that we use to connect to Vertica.&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;url&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;jdbc:vertica://&amp;lt;your.db.ip.addr&amp;gt;:5433/&amp;lt;db-name&amp;gt;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;user&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;dbadmin&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;password&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;schema&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;schema-name&amp;gt;&amp;quot;&lt;/span&gt;
-&lt;span class="n"&gt;db&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;default&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;jndiName&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;DefaultDS&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// VerticaDB
+db.default.driver=com.vertica.jdbc.Driver //This is the driver class that we use to connect to Vertica.
+db.default.url=&amp;quot;jdbc:vertica://&amp;lt;your.db.ip.addr&amp;gt;:5433/&amp;lt;db-name&amp;gt;&amp;quot;
+db.default.user=dbadmin
+db.default.password=&amp;quot;&amp;quot;
+db.default.schema=&amp;quot;&amp;lt;schema-name&amp;gt;&amp;quot;
+db.default.jndiName=DefaultDS
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -216,8 +279,8 @@ Under the same folder you will find the dml/2.sql which contains 10K+ inserts of
 Just place the Redis IP address in the application.conf file&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="c1"&gt;// Redis&lt;/span&gt;
-&lt;span class="n"&gt;redis&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;host&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;&amp;lt;your.redis.ip.addr&amp;gt;&amp;quot;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// Redis
+redis.host=&amp;quot;&amp;lt;your.redis.ip.addr&amp;gt;&amp;quot;
 &lt;/pre&gt;&lt;/div&gt;
 
 
