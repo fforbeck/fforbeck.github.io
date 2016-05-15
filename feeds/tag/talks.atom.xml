@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/tag/talks.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-14T19:20:00-07:00</updated><entry><title>The Developers Conference, Floripa 2016 - Best Talks</title><link href="http://felipeforbeck.com/posts/2016/05/best-talks-tdc-2016-floripa/" rel="alternate"></link><updated>2016-05-14T19:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-14:posts/2016/05/best-talks-tdc-2016-floripa/</id><summary type="html">&lt;h3&gt;2016: Uma Odisséia no Cassandra&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Paulo Motta&lt;/code&gt; - integrante do time de desenvolvimento do Apache Cassandra, fala sobre as principais funcionalidades e aplicações do NoSQL Canssandra.
+Comenta casos de uso de empresas como Netflix, Instagram, Spotify, etc. Apresenta exemplos de arquitetura e modelagem utilizados por tais empresas e fala Materialized Views.
+- &lt;a href="http://bit.ly/1TxvN3O"&gt;http://bit.ly/1TxvN3O&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Crowdfunding para projetos de IoT: o que aprendemos com a IoT Surfboard&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Vinicius Senger&lt;/code&gt; - Apresenta os resultados de uma experiência de financiamento coletivo da IoT Surfboard com 210% da meta atingida no Catarse. Comenta sobre a sua experiência e aprendizado na área de IoT e da dicas para quem pensa em criar um produto e não tem dinheiro para investir na produção.
+- &lt;a href="http://bit.ly/275ZKlD"&gt;http://bit.ly/275ZKlD&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Cloud Foundry a Plataforma Digital&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Victor Fonseca&lt;/code&gt; -  Apresenta Spring Cloud mostrando como é prático criar microserviços na arquitetura corporativa. Apresenta o Cloud Foundry que é um PaaS open source criado pela VMWare e agora mantido pela Pivotal Software.
+- &lt;a href="http://bit.ly/1Xg0ro2"&gt;http://bit.ly/1Xg0ro2&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Vantagens e desvantagens de trabalhar remoto&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Rodrigo Urubatan Ferreira Jardim&lt;/code&gt; -  Comenta sobre as vantagens e desvantagens de trabalhar remoto. Descreve sua experiência e fornece dicas para quem tem interesse em se aventurar nesse modo de trabalho que está cada vez mais comum.
+- &lt;a href="http://bit.ly/1Txt5LN"&gt;http://bit.ly/1Txt5LN&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Android Studio 2.0 What's new?&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Thiago Nunes Cechetto&lt;/code&gt; - Apresenta novidades do novo Android Studio, considerando a versão mais recente, em qual houve a melhora da velocidade de instalação e execução dos aplicativos em desenvolvimento. Além disso demonstra funcionalidades interessantes relacionadas ao novo emulador.
+- &lt;a href="http://bit.ly/1s5VDWR"&gt;http://bit.ly/1s5VDWR&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Aprendendo Docker sem bruxaria&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Stefan Teixeira&lt;/code&gt; - Apresenta conceitos fundamentais sobre Docker, conteinerização. Cria uma aplicação web + banco de dados utilizando containers, testa a aplicação manualmente e demonstra testes de API automatizados.
+- &lt;a href="http://bit.ly/1Xg32hO"&gt;http://bit.ly/1Xg32hO&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Node.js - Levando o poder do JavaScript para o servidor!&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Rodrigo Branas&lt;/code&gt; - Aprensenta conceitos fundamentais sobre Node.js, arquitetura assíncrona e não bloqueante e principais módulos. Em um quick hands-on, uma API é criada para atender as requisições de um aplicativo escrito em AngularJS.
+- &lt;a href="http://bit.ly/1TxtaPF"&gt;http://bit.ly/1TxtaPF&lt;/a&gt;&lt;/p&gt;</summary><category term="tdc-2016"></category><category term="conference"></category><category term="talks"></category></entry></feed>

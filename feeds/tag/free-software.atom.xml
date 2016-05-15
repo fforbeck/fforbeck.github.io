@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/tag/free-software.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2014-07-21T21:41:00-07:00</updated><entry><title>Revolution OS</title><link href="http://felipeforbeck.com/posts/2014/07/the-linux-story/" rel="alternate"></link><updated>2014-07-21T21:41:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2014-07-21:posts/2014/07/the-linux-story/</id><summary type="html">&lt;ul class="simple"&gt;
+&lt;li&gt;How does the Linux OS was created?&lt;/li&gt;
+&lt;li&gt;Why the community work is so important and powerful?&lt;/li&gt;
+&lt;li&gt;Why do you should care about free and open source software?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Take a look at this documentary, you can have the answer for this and many other questions.&lt;/p&gt;
+&lt;div class="youtube" align="center"&gt;&lt;iframe width="800" height="500" src="https://www.youtube.com/embed/plMxWpXhqig" frameborder="0"&gt;&lt;/iframe&gt;&lt;/div&gt;</summary><category term="linux"></category><category term="open source"></category><category term="free software"></category></entry></feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/tag/concepts.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-12T09:20:00-07:00</updated><entry><title>Videos about Quantum Computing + Free access to online IBM Quantum Computer</title><link href="http://felipeforbeck.com/posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/" rel="alternate"></link><updated>2016-05-12T09:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-12:posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/</id><summary type="html">&lt;p&gt;Old but gold. &lt;/p&gt;
+&lt;h4&gt;Quantum physicist Michelle Simmons @ TEDxSydney 2012 gives the best explanation about Quantum Computing I've watched&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/cugu4iW4W54" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;If you prefer a short version by the theoretical physicist Lawrence Krauss&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/UUpqnBzBMEE" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h4&gt;IBM has release an online service which allows you to play with quantum computer&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;You can request access here:&lt;/code&gt; &lt;a href="https://quantumexperience.ng.bluemix.net/"&gt;https://quantumexperience.ng.bluemix.net/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can create quantum algorithms, test and evaluate IBM’s Quantum Computer. It is for research purposes only and &lt;em&gt;results are not guaranteed&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;IBM Quantum Experience&lt;/code&gt;, consists of access to an actual Quantum Processor, Quantum Composer, Quantum Simulator, Scores, Results and Quantum website.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Scores&lt;/code&gt;, are user algorithms created by dragging gates to control Qubit functions in the Quantum Composer GUI to create Results.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;Quantum Users Results&lt;/code&gt;, are results from running your score on the Quantum Hardware or Quantum Simulator.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once you get the access, they also provide a good material to teach you the basics about quantum computing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Here is a demo about the IBM Quantum Experience&lt;/h4&gt;
+&lt;div class="youtube" align="center"&gt;
+    &lt;iframe width="800" height="500" src="http://youtube.com/embed/pYD6bvKLI_c" frameborder="0"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary><category term="quantum-computing"></category><category term="ibm-bluemix"></category><category term="concepts"></category></entry></feed>
