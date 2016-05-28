@@ -221,10 +221,13 @@ public List&lt;Microservice&gt; findMicroservicesByPathTerm(String term) {
     params.put(&quot;term&quot;, term);
     try (Session session = driver.session();
          Transaction tx = session.beginTransaction()) {
-        StatementResult r = tx.run(&quot;MATCH (s:Service)-[:EXPOSES]-&gt;(e:Endpoint) &quot;+
+        StatementResult r = tx.run(&quot;MATCH (s:Service)-[:EXPOSES]-&gt;(e:Endpoint) &quot; +
                 &quot;WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&quot;,
                 params);
-        r.forEachRemaining(record -&gt; microservices.add(new Microservice(record.get(&quot;s.host&quot;).asString())));
+
+        r.forEachRemaining(record -&gt; microservices.add(
+            new Microservice(record.get(&quot;s.host&quot;).asString())
+        ));
         tx.success();
     }
     return microservices;
@@ -249,7 +252,9 @@ public List<span class="o">&lt;</span>Microservice<span class="o">&gt;</span> fi
         sb.append<span class="p">(</span><span class="s">&quot;MATCH (s1:Service {uuid: {uuid}})&lt;-[:CALL]-(s2:Service)&quot;</span><span class="p">);</span>
         sb.append<span class="p">(</span><span class="s">&quot; RETURN s2.host&quot;</span><span class="p">);</span>
         StatementResult r <span class="o">=</span> tx.run<span class="p">(</span>sb.toString<span class="p">(),</span> params<span class="p">);</span>
-        r.forEachRemaining<span class="p">(</span>record <span class="o">-&gt;</span> microservices.add<span class="p">(</span>new Microservice<span class="p">(</span>record.get<span class="p">(</span><span class="s">&quot;s2.host&quot;</span><span class="p">)</span><span class="m">.</span>asString<span class="p">())));</span>
+        r.forEachRemaining<span class="p">(</span>record <span class="o">-&gt;</span> microservices.add<span class="p">(</span>
+            new Microservice<span class="p">(</span>record.get<span class="p">(</span><span class="s">&quot;s2.host&quot;</span><span class="p">)</span><span class="m">.</span>asString<span class="p">())</span>
+        <span class="p">));</span>
         tx.success<span class="p">();</span>
     <span class="p">}</span>
     <span class="kr">return</span> microservices<span class="p">;</span>

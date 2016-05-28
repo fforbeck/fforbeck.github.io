@@ -108,10 +108,13 @@ public List&amp;lt;Microservice&amp;gt; findMicroservicesByPathTerm(String term)
     params.put(&amp;quot;term&amp;quot;, term);
     try (Session session = driver.session();
          Transaction tx = session.beginTransaction()) {
-        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint) &amp;quot;+
+        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint) &amp;quot; +
                 &amp;quot;WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
                 params);
-        r.forEachRemaining(record -&amp;gt; microservices.add(new Microservice(record.get(&amp;quot;s.host&amp;quot;).asString())));
+
+        r.forEachRemaining(record -&amp;gt; microservices.add(
+            new Microservice(record.get(&amp;quot;s.host&amp;quot;).asString())
+        ));
         tx.success();
     }
     return microservices;
@@ -136,7 +139,9 @@ public List&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;Microservice&lt;span class
         sb.append&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;MATCH (s1:Service {uuid: {uuid}})&amp;lt;-[:CALL]-(s2:Service)&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
         sb.append&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; RETURN s2.host&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
         StatementResult r &lt;span class="o"&gt;=&lt;/span&gt; tx.run&lt;span class="p"&gt;(&lt;/span&gt;sb.toString&lt;span class="p"&gt;(),&lt;/span&gt; params&lt;span class="p"&gt;);&lt;/span&gt;
-        r.forEachRemaining&lt;span class="p"&gt;(&lt;/span&gt;record &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; microservices.add&lt;span class="p"&gt;(&lt;/span&gt;new Microservice&lt;span class="p"&gt;(&lt;/span&gt;record.get&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;s2.host&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="m"&gt;.&lt;/span&gt;asString&lt;span class="p"&gt;())));&lt;/span&gt;
+        r.forEachRemaining&lt;span class="p"&gt;(&lt;/span&gt;record &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; microservices.add&lt;span class="p"&gt;(&lt;/span&gt;
+            new Microservice&lt;span class="p"&gt;(&lt;/span&gt;record.get&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;s2.host&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="m"&gt;.&lt;/span&gt;asString&lt;span class="p"&gt;())&lt;/span&gt;
+        &lt;span class="p"&gt;));&lt;/span&gt;
         tx.success&lt;span class="p"&gt;();&lt;/span&gt;
     &lt;span class="p"&gt;}&lt;/span&gt;
     &lt;span class="kr"&gt;return&lt;/span&gt; microservices&lt;span class="p"&gt;;&lt;/span&gt;
