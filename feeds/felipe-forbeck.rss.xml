@@ -33,6 +33,7 @@ So, I just decided to move forward with Java and Spring-Data-Neo4J. Assuming tha
 &lt;p&gt;It is based on &lt;a href="http://swagger.io/"&gt;Swagger.io&lt;/a&gt;, you can just submit the URL of your swagger documentation
 and Vacuum will parse it and create the Service-Endpoint graph as you can see in the image bellow.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Service-Endpoint-Graph" src="/images/graph-microservice-dependencies.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nodes&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;Service&lt;/code&gt;: is the &lt;em&gt;green&lt;/em&gt; node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called &lt;code&gt;Label&lt;/code&gt;. One node can have multiple lables. You can picture it as a node type. It is important to define the label/type for your nodes because it helps you to perform more interesting queries. The nodes with this type will have two properties: &lt;code&gt;host&lt;/code&gt; and &lt;code&gt;uuid&lt;/code&gt;, in which &lt;em&gt;host&lt;/em&gt; is the name of the host and &lt;em&gt;uuid&lt;/em&gt; is generated for each new service registered in the system.&lt;/p&gt;
@@ -40,6 +41,9 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;Endpoint&lt;/code&gt;: is the &lt;em&gt;blue&lt;/em&gt; node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property &lt;code&gt;path&lt;/code&gt;, which is the path that the endpoint is exposing, for instance &lt;code&gt;/v1/users/{id}&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Relationships&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;EXPOSES&lt;/code&gt;: it is a type/label which defines the relationship between two nodes &lt;code&gt;Service&lt;/code&gt; and &lt;code&gt;Endpoint&lt;/code&gt;. It is an edge from &lt;code&gt;Service&lt;/code&gt; that points to &lt;code&gt;Endpoint&lt;/code&gt; node. It is also built based on swagger spec. With this we can see which endpoints each service is providing. &lt;/p&gt;
 &lt;/li&gt;
@@ -56,7 +60,7 @@ if it already exists we also increment the &lt;code&gt;count&lt;/code&gt;. Vacuu
 with &lt;code&gt;/v1/test&lt;/code&gt;. &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Examples (Node--Relationship--&amp;gt;Node):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt; (Node--Relationship--&amp;gt;Node):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Event 1 &lt;strong&gt;A&lt;/strong&gt; calls &lt;code&gt;GET&lt;/code&gt; &lt;em&gt;/v1/test&lt;/em&gt; on &lt;strong&gt;B&lt;/strong&gt;:&lt;ul&gt;
 &lt;li&gt;(Service A)---(GET {path: /v1/test, count:1})---&amp;gt;(Service B)&lt;/li&gt;

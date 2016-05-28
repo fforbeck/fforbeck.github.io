@@ -146,6 +146,7 @@ So, I just decided to move forward with Java and Spring-Data-Neo4J. Assuming tha
 <p>It is based on <a href="http://swagger.io/">Swagger.io</a>, you can just submit the URL of your swagger documentation
 and Vacuum will parse it and create the Service-Endpoint graph as you can see in the image bellow.</p>
 <p><img alt="Service-Endpoint-Graph" src="/images/graph-microservice-dependencies.png" /></p>
+<p><strong>Nodes</strong></p>
 <ul>
 <li>
 <p><code>Service</code>: is the <em>green</em> node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called <code>Label</code>. One node can have multiple lables. You can picture it as a node type. It is important to define the label/type for your nodes because it helps you to perform more interesting queries. The nodes with this type will have two properties: <code>host</code> and <code>uuid</code>, in which <em>host</em> is the name of the host and <em>uuid</em> is generated for each new service registered in the system.</p>
@@ -153,6 +154,9 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 <li>
 <p><code>Endpoint</code>: is the <em>blue</em> node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property <code>path</code>, which is the path that the endpoint is exposing, for instance <code>/v1/users/{id}</code>.</p>
 </li>
+</ul>
+<p><strong>Relationships</strong></p>
+<ul>
 <li>
 <p><code>EXPOSES</code>: it is a type/label which defines the relationship between two nodes <code>Service</code> and <code>Endpoint</code>. It is an edge from <code>Service</code> that points to <code>Endpoint</code> node. It is also built based on swagger spec. With this we can see which endpoints each service is providing. </p>
 </li>
@@ -169,7 +173,7 @@ if it already exists we also increment the <code>count</code>. Vacuum also store
 with <code>/v1/test</code>. </p>
 </li>
 </ul>
-<p>Examples (Node--Relationship--&gt;Node):</p>
+<p><strong>Examples</strong> (Node--Relationship--&gt;Node):</p>
 <ul>
 <li>Event 1 <strong>A</strong> calls <code>GET</code> <em>/v1/test</em> on <strong>B</strong>:<ul>
 <li>(Service A)---(GET {path: /v1/test, count:1})---&gt;(Service B)</li>
