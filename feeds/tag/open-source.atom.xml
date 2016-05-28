@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/tag/open-source.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-28T17:20:00-07:00</updated><entry><title>Vacuum - REST API backed with Neo4j to understand the dependency graph of your microservice architecture</title><link href="http://felipeforbeck.com/posts/2016/05/java-rest-api-microservice-dependency-graph/" rel="alternate"></link><updated>2016-05-28T17:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-28:posts/2016/05/java-rest-api-microservice-dependency-graph/</id><summary type="html">&lt;h3&gt;Motivation&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/tag/open-source.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-28T17:20:00-07:00</updated><entry><title>Vacuum - REST API backed with Neo4j</title><link href="http://felipeforbeck.com/posts/2016/05/java-rest-api-microservice-dependency-graph/" rel="alternate"></link><updated>2016-05-28T17:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-28:posts/2016/05/java-rest-api-microservice-dependency-graph/</id><summary type="html">&lt;h3&gt;Motivation&lt;/h3&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;code&gt;A Hackathon without Borders&lt;/code&gt; or &lt;code&gt;VanHackathon&lt;/code&gt; was created for programmers, designers and digital marketers who want to show their skills to Canadian technology companies.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://vanhackathon.devpost.com/"&gt;Vanhack&lt;/a&gt; is the company behind the event. It is a startup that helps skilled IT people from all around the world to get awesome jobs in Canada. This was the first hackathon that they promoted and they already said that we will have more.&lt;/p&gt;
-&lt;p&gt;For this edition we had companies such as &lt;a href="https://www.axiomzen.co/"&gt;AxiomZen&lt;/a&gt;, &lt;a href="http://hootsuite.com/"&gt;Hootsuite&lt;/a&gt;, &lt;a href="http://shopify.com"&gt;Shopify&lt;/a&gt; and many other. You can take a look &lt;a href="https://www.vanhack.com/hackathon/"&gt;here&lt;/a&gt;. Each company proposed one or more challenges for back-end, front-end, UX Designers, etc. &lt;/p&gt;
-&lt;p&gt;I really liked the challenge proposed by Hootsuite which you can see the basic description bellow:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://vanhackathon.devpost.com/"&gt;Vanhack&lt;/a&gt; promoted a hackathon for programmers, designers and digital marketers who want to show their skills to Canadian technology companies. &lt;a href="http://vanhackathon.devpost.com/"&gt;Vanhack&lt;/a&gt; is a startup that helps skilled IT people from all around the world to get awesome jobs in Canada. This was the first hackathon they promoted and they already said that we will have more.&lt;/p&gt;
+&lt;p&gt;For this edition we had companies such as &lt;a href="https://www.axiomzen.co/"&gt;AxiomZen&lt;/a&gt;, &lt;a href="http://hootsuite.com/"&gt;Hootsuite&lt;/a&gt;, &lt;a href="http://shopify.com"&gt;Shopify&lt;/a&gt; and many other. You can take a look &lt;a href="https://www.vanhack.com/hackathon/"&gt;here&lt;/a&gt;. Each company proposed one or more challenges for back-end, front-end, UX Designers, etc. 
+I've developed a REST API in Java with Neo4J for the challenge proposed by &lt;a href="http://hootsuite.com/"&gt;Hootsuite&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I really liked the challenge which you can see the basic description bellow:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Build a system using graph DB to represent the microservice dependency graph.&lt;/li&gt;
 &lt;li&gt;Imagine thousands of microservices calling each other on different API endpoints using REST:&lt;ul&gt;
@@ -95,15 +95,52 @@ Both services need to be registered in the Vacuum API.&lt;/p&gt;
 &lt;p&gt;These are the basic queries that I have implemented that you can use to get more information about the calls that your services are executing. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Get all microservice which contains term &lt;code&gt;user&lt;/code&gt; in ther endpoints&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GET &amp;lt;host&amp;gt;:8090/v1/microservices?path_term=user -H &amp;#39;Content-Type: application/json&amp;#39;
+
+@Override
+public List&amp;lt;Microservice&amp;gt; findMicroservicesByPathTerm(String term) {
+    List&amp;lt;Microservice&amp;gt; microservices = new ArrayList&amp;lt;&amp;gt;();
+    Driver driver = connector.getDriver();
+    HashMap&amp;lt;String, Object&amp;gt; params = new HashMap&amp;lt;&amp;gt;();
+    params.put(&amp;quot;term&amp;quot;, term);
+    try (Session session = driver.session();
+         Transaction tx = session.beginTransaction()) {
+        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint)
+                WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
+                params);
+        r.forEachRemaining(record -&amp;gt; microservices.add(new Microservice(record.get(&amp;quot;s.host&amp;quot;).asString())));
+        tx.success();
+    }
+    return microservices;
+}
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;&lt;strong&gt;Get all services which rely on service id&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GET &amp;lt;host&amp;gt;:8090/v1/microservices/b36e8649-e82e-4795-8ef6-c2d8eb3e6620/dependants -H &amp;#39;Content-Type: application/json&amp;#39;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GET &lt;span class="o"&gt;&amp;lt;&lt;/span&gt;host&lt;span class="o"&gt;&amp;gt;:&lt;/span&gt;&lt;span class="m"&gt;8090&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;v1&lt;span class="o"&gt;/&lt;/span&gt;microservices&lt;span class="o"&gt;/&lt;/span&gt;b36e8649&lt;span class="o"&gt;-&lt;/span&gt;e82e&lt;span class="m"&gt;-4795-8&lt;/span&gt;ef6&lt;span class="o"&gt;-&lt;/span&gt;c2d8eb3e6620&lt;span class="o"&gt;/&lt;/span&gt;dependants &lt;span class="o"&gt;-&lt;/span&gt;H &lt;span class="s"&gt;&amp;#39;Content-Type: application/json&amp;#39;&lt;/span&gt;
+
+&lt;span class="o"&gt;@&lt;/span&gt;Override
+public List&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;Microservice&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; findDependants&lt;span class="p"&gt;(&lt;/span&gt;String microserviceId&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    List&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;Microservice&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; microservices &lt;span class="o"&gt;=&lt;/span&gt; new ArrayList&lt;span class="o"&gt;&amp;lt;&amp;gt;&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+
+    HashMap&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;String&lt;span class="p"&gt;,&lt;/span&gt; Object&lt;span class="o"&gt;&amp;gt;&lt;/span&gt; params &lt;span class="o"&gt;=&lt;/span&gt; new HashMap&lt;span class="o"&gt;&amp;lt;&amp;gt;&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+    params.put&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;uuid&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; microserviceId&lt;span class="p"&gt;);&lt;/span&gt;
+
+    Driver driver &lt;span class="o"&gt;=&lt;/span&gt; connector.getDriver&lt;span class="p"&gt;();&lt;/span&gt;
+    try &lt;span class="p"&gt;(&lt;/span&gt;Session session &lt;span class="o"&gt;=&lt;/span&gt; driver.session&lt;span class="p"&gt;();&lt;/span&gt;
+         Transaction tx &lt;span class="o"&gt;=&lt;/span&gt; session.beginTransaction&lt;span class="p"&gt;())&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+        StringBuilder sb &lt;span class="o"&gt;=&lt;/span&gt; new StringBuilder&lt;span class="p"&gt;();&lt;/span&gt;
+        sb.append&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;MATCH (s1:Service {uuid: {uuid}})&amp;lt;-[:CALL]-(s2:Service)&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+        sb.append&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot; RETURN s2.host&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
+        StatementResult r &lt;span class="o"&gt;=&lt;/span&gt; tx.run&lt;span class="p"&gt;(&lt;/span&gt;sb.toString&lt;span class="p"&gt;(),&lt;/span&gt; params&lt;span class="p"&gt;);&lt;/span&gt;
+        r.forEachRemaining&lt;span class="p"&gt;(&lt;/span&gt;record &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; microservices.add&lt;span class="p"&gt;(&lt;/span&gt;new Microservice&lt;span class="p"&gt;(&lt;/span&gt;record.get&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;s2.host&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="m"&gt;.&lt;/span&gt;asString&lt;span class="p"&gt;())));&lt;/span&gt;
+        tx.success&lt;span class="p"&gt;();&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+    &lt;span class="kr"&gt;return&lt;/span&gt; microservices&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;The service id is generate and returned when you send a &lt;code&gt;POST /v1/microservices&lt;/code&gt; with &lt;code&gt;swagger_url&lt;/code&gt; as body param. Or you can just checkout the &lt;code&gt;uuid&lt;/code&gt; param on Neo4j dashboard if you have executed the &lt;code&gt;fetch_db.sh&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The microserviceId is generate and returned when you send a &lt;code&gt;POST /v1/microservices&lt;/code&gt; with &lt;code&gt;swagger_url&lt;/code&gt; as body param. Or you can just checkout the &lt;code&gt;uuid&lt;/code&gt; param on Neo4j dashboard if you have executed the &lt;code&gt;fetch_db.sh&lt;/code&gt;.&lt;/p&gt;
 &lt;h3&gt;Final Thoughts&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;It is important to mention that all queries can be easily add using the &lt;a href="http://neo4j.com/docs/developer-manual/current/#cypher-query-lang"&gt;Cypher query language&lt;/a&gt;.
