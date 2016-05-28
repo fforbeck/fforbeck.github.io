@@ -108,10 +108,9 @@ public List&amp;lt;Microservice&amp;gt; findMicroservicesByPathTerm(String term)
     params.put(&amp;quot;term&amp;quot;, term);
     try (Session session = driver.session();
          Transaction tx = session.beginTransaction()) {
-        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint) &amp;quot; +
-                &amp;quot;WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
-                params);
-
+        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint)&amp;quot; + 
+                                   &amp;quot; WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
+                                   params);
         r.forEachRemaining(record -&amp;gt; microservices.add(
             new Microservice(record.get(&amp;quot;s.host&amp;quot;).asString())
         ));
