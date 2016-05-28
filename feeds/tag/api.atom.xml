@@ -108,8 +108,8 @@ public List&amp;lt;Microservice&amp;gt; findMicroservicesByPathTerm(String term)
     params.put(&amp;quot;term&amp;quot;, term);
     try (Session session = driver.session();
          Transaction tx = session.beginTransaction()) {
-        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint)
-                WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
+        StatementResult r = tx.run(&amp;quot;MATCH (s:Service)-[:EXPOSES]-&amp;gt;(e:Endpoint) &amp;quot;+
+                &amp;quot;WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&amp;quot;,
                 params);
         r.forEachRemaining(record -&amp;gt; microservices.add(new Microservice(record.get(&amp;quot;s.host&amp;quot;).asString())));
         tx.success();
@@ -147,14 +147,14 @@ public List&lt;span class="o"&gt;&amp;lt;&lt;/span&gt;Microservice&lt;span class
 &lt;p&gt;The microserviceId is generate and returned when you send a &lt;code&gt;POST /v1/microservices&lt;/code&gt; with &lt;code&gt;swagger_url&lt;/code&gt; as body param. Or you can just checkout the &lt;code&gt;uuid&lt;/code&gt; param on Neo4j dashboard if you have executed the &lt;code&gt;fetch_db.sh&lt;/code&gt;.&lt;/p&gt;
 &lt;h3&gt;Final Thoughts&lt;/h3&gt;
 &lt;hr /&gt;
-&lt;p&gt;It is important to mention that all queries can be easily add using the &lt;a href="http://neo4j.com/docs/developer-manual/current/#cypher-query-lang"&gt;Cypher query language&lt;/a&gt;.
+&lt;p&gt;It is important to mention that all queries can be easily added using the &lt;a href="http://neo4j.com/docs/developer-manual/current/#cypher-query-lang"&gt;Cypher query language&lt;/a&gt;.
 &lt;em&gt;"Cypher is a declarative graph query language that allows for expressive and efficient querying and updating of the graph store."&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In addition, I saw spring-data-neo4j allows you to create multiple labels for the same node if you create a parent class. So, all parent classes are added as labels for a node. It is important, because adding more labels to a node means that you can represent more information and ask different questions. &lt;/p&gt;
 &lt;p&gt;I did not planned to use multiple labels for the same node, but if I had to, I did not want to build a inheritance structure just to represent that. I know it is the logical and OO alternative, but it is also more code to test and maintain. So I decided to try the &lt;a href="http://neo4j.com/developer/java/#neo4j-java-driver"&gt;Java Driver for Neo4J&lt;/a&gt; instead.&lt;/p&gt;
-&lt;p&gt;Another point about using the Java Native Driver is that you can write your own traversal algorithms for the graph. This might be a good idea when you have a more complex graph and you really know some shortcuts in the model to get faster results than using cypher queries. At the moment, &lt;code&gt;Service&lt;/code&gt;-&lt;code&gt;Endpoint&lt;/code&gt; graph is pretty simple, though. Cypher query can solve all my problems, but if I need something more elaborated I can easily implement a new Repository with custom traversal routines.&lt;/p&gt;
-&lt;p&gt;Given that, I had to create a connector which starts the connection with my local Neo4J instance and tests if it is possible to open a new session.
-Also, it is important to close the connection when your app is terminated, so I added the call on &lt;code&gt;preDestroy&lt;/code&gt; method.&lt;/p&gt;
-&lt;p&gt;The connector can be a singleton and can be shared between your services because you need to start a new session whenever you need to send a command to Neo4J. You also need to close the session after the work is done. The session creation is thread safe and you can see the sample connector bellow:&lt;/p&gt;
+&lt;p&gt;Another point about using the Java Driver is that you can write your own traversal algorithms for the graph. This might be a good idea when you have a more complex graph and you really know some shortcuts in the model to get faster results than using cypher queries. At the moment, &lt;code&gt;Service&lt;/code&gt;-&lt;code&gt;Endpoint&lt;/code&gt; graph is pretty simple. Cypher query can solve all my problems, but if I need something more elaborated I can easily implement a new Repository with custom traversal routines.&lt;/p&gt;
+&lt;p&gt;To connect to Neo4J with Java Driver I created a custom connector which starts the connection with my local Neo4J instance and tests if it is possible to open new sessions.
+Also, it closes the connection when the app is terminated.&lt;/p&gt;
+&lt;p&gt;The connector can be a singleton and shared between your services. However, you need to start a new session whenever you need to send a command to Neo4J. You also need to close the session after the work is done. The session creation is thread safe and you can see the sample connector bellow:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.apache.log4j.Logger&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.neo4j.driver.v1.Driver&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.neo4j.driver.v1.GraphDatabase&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
@@ -197,8 +197,8 @@ Also, it is important to close the connection when your app is terminated, so I 
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;Well, I have built the pretty basic structure for the Vacuum API. We are able to register and extract some information about the dependency graph of our services architecture, see the graph on Neo4J dashboard and easily add new queries. &lt;/p&gt;
-&lt;p&gt;However, I know there is a ton of work to be done yet and many things can be improved. I am happy with the solution so far and I wish I had more time to implement other queries before the hackathon deadline. The main I idea is in place. I am planning to continue with it as a side project.&lt;/p&gt;
+&lt;p&gt;Even if you want to send cypher queries to Neo4J you do need to open a transaction for that. Otherwise your cypher query will not work.&lt;/p&gt;
+&lt;p&gt;Well, this is the basic structure for the Vacuum API. We are able to register and extract some information about the dependency graph of our services architecture, see the graph on Neo4J dashboard and easily add new queries or even another db. However, I know there is a ton of work to be done yet and many things here can be improved. I am happy with the solution so far and I wish I had more time to implement other queries before the hackathon deadline. The main idea is in place and I am planning to continue with it as a side project. Let's see how it goes.&lt;/p&gt;
 &lt;h3&gt;Future work&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;ul&gt;

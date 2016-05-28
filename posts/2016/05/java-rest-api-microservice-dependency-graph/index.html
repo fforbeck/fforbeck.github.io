@@ -221,8 +221,8 @@ public List&lt;Microservice&gt; findMicroservicesByPathTerm(String term) {
     params.put(&quot;term&quot;, term);
     try (Session session = driver.session();
          Transaction tx = session.beginTransaction()) {
-        StatementResult r = tx.run(&quot;MATCH (s:Service)-[:EXPOSES]-&gt;(e:Endpoint)
-                WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&quot;,
+        StatementResult r = tx.run(&quot;MATCH (s:Service)-[:EXPOSES]-&gt;(e:Endpoint) &quot;+
+                &quot;WHERE e.path CONTAINS {term} RETURN DISTINCT s.host&quot;,
                 params);
         r.forEachRemaining(record -&gt; microservices.add(new Microservice(record.get(&quot;s.host&quot;).asString())));
         tx.success();
@@ -260,14 +260,14 @@ public List<span class="o">&lt;</span>Microservice<span class="o">&gt;</span> fi
 <p>The microserviceId is generate and returned when you send a <code>POST /v1/microservices</code> with <code>swagger_url</code> as body param. Or you can just checkout the <code>uuid</code> param on Neo4j dashboard if you have executed the <code>fetch_db.sh</code>.</p>
 <h3>Final Thoughts</h3>
 <hr />
-<p>It is important to mention that all queries can be easily add using the <a href="http://neo4j.com/docs/developer-manual/current/#cypher-query-lang">Cypher query language</a>.
+<p>It is important to mention that all queries can be easily added using the <a href="http://neo4j.com/docs/developer-manual/current/#cypher-query-lang">Cypher query language</a>.
 <em>"Cypher is a declarative graph query language that allows for expressive and efficient querying and updating of the graph store."</em>.</p>
 <p>In addition, I saw spring-data-neo4j allows you to create multiple labels for the same node if you create a parent class. So, all parent classes are added as labels for a node. It is important, because adding more labels to a node means that you can represent more information and ask different questions. </p>
 <p>I did not planned to use multiple labels for the same node, but if I had to, I did not want to build a inheritance structure just to represent that. I know it is the logical and OO alternative, but it is also more code to test and maintain. So I decided to try the <a href="http://neo4j.com/developer/java/#neo4j-java-driver">Java Driver for Neo4J</a> instead.</p>
-<p>Another point about using the Java Native Driver is that you can write your own traversal algorithms for the graph. This might be a good idea when you have a more complex graph and you really know some shortcuts in the model to get faster results than using cypher queries. At the moment, <code>Service</code>-<code>Endpoint</code> graph is pretty simple, though. Cypher query can solve all my problems, but if I need something more elaborated I can easily implement a new Repository with custom traversal routines.</p>
-<p>Given that, I had to create a connector which starts the connection with my local Neo4J instance and tests if it is possible to open a new session.
-Also, it is important to close the connection when your app is terminated, so I added the call on <code>preDestroy</code> method.</p>
-<p>The connector can be a singleton and can be shared between your services because you need to start a new session whenever you need to send a command to Neo4J. You also need to close the session after the work is done. The session creation is thread safe and you can see the sample connector bellow:</p>
+<p>Another point about using the Java Driver is that you can write your own traversal algorithms for the graph. This might be a good idea when you have a more complex graph and you really know some shortcuts in the model to get faster results than using cypher queries. At the moment, <code>Service</code>-<code>Endpoint</code> graph is pretty simple. Cypher query can solve all my problems, but if I need something more elaborated I can easily implement a new Repository with custom traversal routines.</p>
+<p>To connect to Neo4J with Java Driver I created a custom connector which starts the connection with my local Neo4J instance and tests if it is possible to open new sessions.
+Also, it closes the connection when the app is terminated.</p>
+<p>The connector can be a singleton and shared between your services. However, you need to start a new session whenever you need to send a command to Neo4J. You also need to close the session after the work is done. The session creation is thread safe and you can see the sample connector bellow:</p>
 <div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">org.apache.log4j.Logger</span><span class="p">;</span>
 <span class="kn">import</span> <span class="nn">org.neo4j.driver.v1.Driver</span><span class="p">;</span>
 <span class="kn">import</span> <span class="nn">org.neo4j.driver.v1.GraphDatabase</span><span class="p">;</span>
@@ -310,8 +310,8 @@ Also, it is important to close the connection when your app is terminated, so I 
 </pre></div>
 
 
-<p>Well, I have built the pretty basic structure for the Vacuum API. We are able to register and extract some information about the dependency graph of our services architecture, see the graph on Neo4J dashboard and easily add new queries. </p>
-<p>However, I know there is a ton of work to be done yet and many things can be improved. I am happy with the solution so far and I wish I had more time to implement other queries before the hackathon deadline. The main I idea is in place. I am planning to continue with it as a side project.</p>
+<p>Even if you want to send cypher queries to Neo4J you do need to open a transaction for that. Otherwise your cypher query will not work.</p>
+<p>Well, this is the basic structure for the Vacuum API. We are able to register and extract some information about the dependency graph of our services architecture, see the graph on Neo4J dashboard and easily add new queries or even another db. However, I know there is a ton of work to be done yet and many things here can be improved. I am happy with the solution so far and I wish I had more time to implement other queries before the hackathon deadline. The main idea is in place and I am planning to continue with it as a side project. Let's see how it goes.</p>
 <h3>Future work</h3>
 <hr />
 <ul>
