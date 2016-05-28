@@ -97,7 +97,7 @@ These are parameters that need to be sent in the request which represents the ev
 Both services need to be registered in the Vacuum API.&lt;/p&gt;
 &lt;h4&gt;Basic Queries&lt;/h4&gt;
 &lt;p&gt;These are the basic queries that I have implemented that you can use to get more information about the calls that your services are executing. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Get all microservices which contains term &lt;code&gt;user&lt;/code&gt; in ther endpoints&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Get all microservices which contains term &lt;em&gt;user&lt;/em&gt; in ther endpoints&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;GET &amp;lt;host&amp;gt;:8090/v1/microservices?path_term=user -H &amp;#39;Content-Type: application/json&amp;#39;
 
 @Override
