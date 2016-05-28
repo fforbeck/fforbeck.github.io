@@ -81,8 +81,8 @@ with &lt;code&gt;/v1/test&lt;/code&gt;. &lt;/p&gt;
 
 
 &lt;p&gt;&lt;strong&gt;Registering a call from service A to service B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Once you have registered your service you can add simple POST calls for each of your microservices to be sent to Vacuum API. The request needs to be populated with the details about the call that your service A is sending to your service B.&lt;/p&gt;
-&lt;p&gt;Parameters to be filled for the request that simulates the event call from service A to B:&lt;/p&gt;
+&lt;p&gt;Once you have registered your service you can fire a POST request to Vacuum API when your microservice A is calling B. The request needs to be populated with the details about the call from A to B.
+These are parameters that need to be sent in the request which represents the event call from A to B:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;origin_host:  The host name from service A&lt;/li&gt;
 &lt;li&gt;method:       The HTTP method that is being called on service B&lt;/li&gt;
