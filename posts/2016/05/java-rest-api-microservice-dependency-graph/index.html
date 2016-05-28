@@ -210,7 +210,7 @@ These are parameters that need to be sent in the request which represents the ev
 Both services need to be registered in the Vacuum API.</p>
 <h4>Basic Queries</h4>
 <p>These are the basic queries that I have implemented that you can use to get more information about the calls that your services are executing. </p>
-<p><strong>Get all microservice which contains term <code>user</code> in ther endpoints</strong></p>
+<p><strong>Get all microservices which contains term <code>user</code> in ther endpoints</strong></p>
 <div class="highlight"><pre><span></span>GET &lt;host&gt;:8090/v1/microservices?path_term=user -H &#39;Content-Type: application/json&#39;
 
 @Override
@@ -232,7 +232,7 @@ public List&lt;Microservice&gt; findMicroservicesByPathTerm(String term) {
 </pre></div>
 
 
-<p><strong>Get all services which rely on service id</strong></p>
+<p><strong>Get all microservices which depends on microservice X</strong></p>
 <div class="highlight"><pre><span></span>GET <span class="o">&lt;</span>host<span class="o">&gt;:</span><span class="m">8090</span><span class="o">/</span>v1<span class="o">/</span>microservices<span class="o">/</span>b36e8649<span class="o">-</span>e82e<span class="m">-4795-8</span>ef6<span class="o">-</span>c2d8eb3e6620<span class="o">/</span>dependants <span class="o">-</span>H <span class="s">&#39;Content-Type: application/json&#39;</span>
 
 <span class="o">@</span>Override
