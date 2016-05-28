@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/category/free-service.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-09T20:35:00-07:00</updated><entry><title>Free CDN Provider - Couldflare</title><link href="http://felipeforbeck.com/posts/2016/05/free-cdn-provider-cloudflare/" rel="alternate"></link><updated>2016-05-09T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-09:posts/2016/05/free-cdn-provider-cloudflare/</id><summary type="html">&lt;div class="vimeo" align="center"&gt;
-    &lt;iframe width="800" height="500" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/category/free-service.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-09T20:35:00-07:00</updated><entry><title>Free CDN Provider - Couldflare</title><link href="http://felipeforbeck.com/posts/2016/05/free-cdn-provider-cloudflare/" rel="alternate"></link><updated>2016-05-09T20:35:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-09:posts/2016/05/free-cdn-provider-cloudflare/</id><summary type="html">&lt;h3&gt;CDN&lt;/h3&gt;
+&lt;hr /&gt;
+&lt;p&gt;A content delivery network (CDN) is a distributed network of proxy servers deployed in multiple data centers around the world.
+Using a CDN service to serve static content will make your website/blog faster. Also it will give a better user experience to your users.
+With a CDN you can serve text, graphics, scripts, media files, documents, etc. 
+There are several providers out there, but one that I particularly liked because its easy to use, configure and free, is called &lt;a href="https://www.cloudflare.com/"&gt;CloudFlare&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I've configure this blog to use CloudFlare and it is pretty simple. In the video bellow you can see the main feature that you can use if you subscribe for a free plan.&lt;/p&gt;
+&lt;div class="vimeo" align="center"&gt;
+    &lt;iframe style="width:100%;min-height=480px;" src="https://player.vimeo.com/video/153411340" frameborder="0"&gt;&lt;/iframe&gt;
 &lt;/div&gt;</summary><category term="cloudflare"></category><category term="tool"></category><category term="free"></category></entry></feed>
