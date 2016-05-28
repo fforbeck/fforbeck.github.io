@@ -41,11 +41,11 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 &lt;p&gt;&lt;code&gt;Endpoint&lt;/code&gt;: is the &lt;em&gt;blue&lt;/em&gt; node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property &lt;code&gt;path&lt;/code&gt;, which is the path that the endpoint is exposing, for instance &lt;code&gt;/v1/users/{id}&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;EXPOSES&lt;/code&gt;: it is a type/label which defines the relationship between two nodes &lt;code&gt;Service&lt;/code&gt; and &lt;code&gt;Endpoint&lt;/code&gt;. It is an outgoing from &lt;code&gt;Service&lt;/code&gt; to &lt;code&gt;Endpoint&lt;/code&gt; and it is also built based on swagger spec. With this we can see which endpoints each service is providing. &lt;/p&gt;
+&lt;p&gt;&lt;code&gt;EXPOSES&lt;/code&gt;: it is a type/label which defines the relationship between two nodes &lt;code&gt;Service&lt;/code&gt; and &lt;code&gt;Endpoint&lt;/code&gt;. It is an edge from &lt;code&gt;Service&lt;/code&gt; that points to &lt;code&gt;Endpoint&lt;/code&gt; node. It is also built based on swagger spec. With this we can see which endpoints each service is providing. &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;CALL&lt;/code&gt;: it is a relationship created when you send a request to Vacuum API that reflects the call from service A to B.
-This relationship contains a property called &lt;code&gt;count&lt;/code&gt;, everytime a call from A to B is registered, &lt;code&gt;count&lt;/code&gt; is incremented.
+This relationship contains a property called &lt;code&gt;count&lt;/code&gt;, every registered call from A to B, &lt;code&gt;count&lt;/code&gt; is incremented.
 With that you can keep track of the number of calls from A to B.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;

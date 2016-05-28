@@ -154,11 +154,11 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 <p><code>Endpoint</code>: is the <em>blue</em> node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property <code>path</code>, which is the path that the endpoint is exposing, for instance <code>/v1/users/{id}</code>.</p>
 </li>
 <li>
-<p><code>EXPOSES</code>: it is a type/label which defines the relationship between two nodes <code>Service</code> and <code>Endpoint</code>. It is an outgoing from <code>Service</code> to <code>Endpoint</code> and it is also built based on swagger spec. With this we can see which endpoints each service is providing. </p>
+<p><code>EXPOSES</code>: it is a type/label which defines the relationship between two nodes <code>Service</code> and <code>Endpoint</code>. It is an edge from <code>Service</code> that points to <code>Endpoint</code> node. It is also built based on swagger spec. With this we can see which endpoints each service is providing. </p>
 </li>
 <li>
 <p><code>CALL</code>: it is a relationship created when you send a request to Vacuum API that reflects the call from service A to B.
-This relationship contains a property called <code>count</code>, everytime a call from A to B is registered, <code>count</code> is incremented.
+This relationship contains a property called <code>count</code>, every registered call from A to B, <code>count</code> is incremented.
 With that you can keep track of the number of calls from A to B.</p>
 </li>
 <li>
