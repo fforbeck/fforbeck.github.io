@@ -127,7 +127,7 @@ I've developed a REST API in Java with Neo4J for the challenge proposed by <a hr
 </ul>
 </li>
 </ul>
-<p>It was an open ended challenge, only requirement is the one mentioned above.</p>
+<p>It was an open ended challenge.</p>
 <p>I decided to move forward with this challenged because I would like to use a graph database, mainly <a href="http://neo4j.com/">Neo4J</a> and learn a bit more. I already did some small apps and proof of concepts with it in the past, but then I never touch it again.</p>
 <h3>Problem</h3>
 <hr />
@@ -137,7 +137,7 @@ Python usually I write less code than Java to get the things done and I already 
 <p>For Java I could use <a href="https://playframework.com/">Play Framework</a> which is also a web framework built on top of <a href="http://akka.io/">Akka</a>. I already created an App using Play Framework and it was very productive and easy to use. You can check it <a href="posts/2015/01/tweet-sentiment-analyst/">here</a>. 
 Also I could use <a href="http://projects.spring.io/spring-boot/">Spring Boot</a> which I've used in the past in some consulting projects and you can enable maven libraries in your project to make it a web project, standalone app and so on.</p>
 <p>Then I started thinking about how Neo4J would communicate with this two languages and, fortunately, it has official drivers for both languages: <a href="http://neo4j.com/developer/java/">Java</a> &amp; <a href="http://neo4j.com/developer/python/">Python</a>.
-After some research I thought it would be good move to go with Java because it has more options, besides the native drivers, to integrate with Neo4J. For instance: Spring-Data-Neo4j, Neo4j's Embedded Java API, JPA and JDBC.</p>
+After some research I thought it would be good to use Java. Mainly because it has more options, besides the native drivers, to integrate with Neo4J. For instance: Spring-Data-Neo4j, Neo4j's Embedded Java API, JPA and JDBC.</p>
 <p>I thought that I could easily use Spring-Data-Neo4j with Spring-Boot and start the App with a few lines of code, because spring-data provides that <a href="http://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html">magic crud interface for repositories that allows you to easily access your persistence layer</a>.
 So, I just decided to move forward with Java and Spring-Data-Neo4J. Assuming that I could try another approaches to integrate with Neo4j is something else wasn't working as expected.</p>
 <h3>Solution</h3>
@@ -148,10 +148,10 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 <p><img alt="Service-Endpoint-Graph" src="/images/graph-microservice-dependencies.png" /></p>
 <ul>
 <li>
-<p><code>Service</code>: is the type of a <em>green</em> node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called <code>Label</code>. One node can have multiple lables. You can imagine it as a type as well. Is important to define the label/type for your node because it helps you to perform more interesting queries later. This type of node has the property called <code>name</code>, which is the name of the host.</p>
+<p><code>Service</code>: is the <em>green</em> node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called <code>Label</code>. One node can have multiple lables. You can picture it as a node type. It is important to define the label/type for your nodes because it helps you to perform more interesting queries. The nodes with this type will have two properties: <code>host</code> and <code>uuid</code>, in which <em>host</em> is the name of the host and <em>uuid</em> is generated for each new service registered in the system.</p>
 </li>
 <li>
-<p><code>Endpoint</code>: is the <em>blue</em> node which represents the service endpoints. It is also captured from Swagger API document. It is also a label. This type of node has the propety <code>path</code> which is the path that the endpoint is exposing, for instance <code>/v1/users/{id}</code>.</p>
+<p><code>Endpoint</code>: is the <em>blue</em> node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property <code>path</code>, which is the path that the endpoint is exposing, for instance <code>/v1/users/{id}</code>.</p>
 </li>
 <li>
 <p><code>EXPOSES</code>: it is a type/label which defines the relationship between two nodes <code>Service</code> and <code>Endpoint</code>. It is an outgoing from <code>Service</code> to <code>Endpoint</code> and it is also built based on swagger spec. With this we can see which endpoints each service is providing. </p>

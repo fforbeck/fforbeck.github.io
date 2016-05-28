@@ -14,7 +14,7 @@ I've developed a REST API in Java with Neo4J for the challenge proposed by &lt;a
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It was an open ended challenge, only requirement is the one mentioned above.&lt;/p&gt;
+&lt;p&gt;It was an open ended challenge.&lt;/p&gt;
 &lt;p&gt;I decided to move forward with this challenged because I would like to use a graph database, mainly &lt;a href="http://neo4j.com/"&gt;Neo4J&lt;/a&gt; and learn a bit more. I already did some small apps and proof of concepts with it in the past, but then I never touch it again.&lt;/p&gt;
 &lt;h3&gt;Problem&lt;/h3&gt;
 &lt;hr /&gt;
@@ -24,7 +24,7 @@ Python usually I write less code than Java to get the things done and I already 
 &lt;p&gt;For Java I could use &lt;a href="https://playframework.com/"&gt;Play Framework&lt;/a&gt; which is also a web framework built on top of &lt;a href="http://akka.io/"&gt;Akka&lt;/a&gt;. I already created an App using Play Framework and it was very productive and easy to use. You can check it &lt;a href="posts/2015/01/tweet-sentiment-analyst/"&gt;here&lt;/a&gt;. 
 Also I could use &lt;a href="http://projects.spring.io/spring-boot/"&gt;Spring Boot&lt;/a&gt; which I've used in the past in some consulting projects and you can enable maven libraries in your project to make it a web project, standalone app and so on.&lt;/p&gt;
 &lt;p&gt;Then I started thinking about how Neo4J would communicate with this two languages and, fortunately, it has official drivers for both languages: &lt;a href="http://neo4j.com/developer/java/"&gt;Java&lt;/a&gt; &amp;amp; &lt;a href="http://neo4j.com/developer/python/"&gt;Python&lt;/a&gt;.
-After some research I thought it would be good move to go with Java because it has more options, besides the native drivers, to integrate with Neo4J. For instance: Spring-Data-Neo4j, Neo4j's Embedded Java API, JPA and JDBC.&lt;/p&gt;
+After some research I thought it would be good to use Java. Mainly because it has more options, besides the native drivers, to integrate with Neo4J. For instance: Spring-Data-Neo4j, Neo4j's Embedded Java API, JPA and JDBC.&lt;/p&gt;
 &lt;p&gt;I thought that I could easily use Spring-Data-Neo4j with Spring-Boot and start the App with a few lines of code, because spring-data provides that &lt;a href="http://docs.spring.io/spring-data/data-commons/docs/1.6.1.RELEASE/reference/html/repositories.html"&gt;magic crud interface for repositories that allows you to easily access your persistence layer&lt;/a&gt;.
 So, I just decided to move forward with Java and Spring-Data-Neo4J. Assuming that I could try another approaches to integrate with Neo4j is something else wasn't working as expected.&lt;/p&gt;
 &lt;h3&gt;Solution&lt;/h3&gt;
@@ -35,10 +35,10 @@ and Vacuum will parse it and create the Service-Endpoint graph as you can see in
 &lt;p&gt;&lt;img alt="Service-Endpoint-Graph" src="/images/graph-microservice-dependencies.png" /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Service&lt;/code&gt;: is the type of a &lt;em&gt;green&lt;/em&gt; node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called &lt;code&gt;Label&lt;/code&gt;. One node can have multiple lables. You can imagine it as a type as well. Is important to define the label/type for your node because it helps you to perform more interesting queries later. This type of node has the property called &lt;code&gt;name&lt;/code&gt;, which is the name of the host.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Service&lt;/code&gt;: is the &lt;em&gt;green&lt;/em&gt; node which represents the service host name. It is captured from Swagger API document. For Neo4J it is called &lt;code&gt;Label&lt;/code&gt;. One node can have multiple lables. You can picture it as a node type. It is important to define the label/type for your nodes because it helps you to perform more interesting queries. The nodes with this type will have two properties: &lt;code&gt;host&lt;/code&gt; and &lt;code&gt;uuid&lt;/code&gt;, in which &lt;em&gt;host&lt;/em&gt; is the name of the host and &lt;em&gt;uuid&lt;/em&gt; is generated for each new service registered in the system.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;code&gt;Endpoint&lt;/code&gt;: is the &lt;em&gt;blue&lt;/em&gt; node which represents the service endpoints. It is also captured from Swagger API document. It is also a label. This type of node has the propety &lt;code&gt;path&lt;/code&gt; which is the path that the endpoint is exposing, for instance &lt;code&gt;/v1/users/{id}&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Endpoint&lt;/code&gt;: is the &lt;em&gt;blue&lt;/em&gt; node which represents the service endpoints. It is also captured from Swagger API document. It is a label and it has the property &lt;code&gt;path&lt;/code&gt;, which is the path that the endpoint is exposing, for instance &lt;code&gt;/v1/users/{id}&lt;/code&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;code&gt;EXPOSES&lt;/code&gt;: it is a type/label which defines the relationship between two nodes &lt;code&gt;Service&lt;/code&gt; and &lt;code&gt;Endpoint&lt;/code&gt;. It is an outgoing from &lt;code&gt;Service&lt;/code&gt; to &lt;code&gt;Endpoint&lt;/code&gt; and it is also built based on swagger spec. With this we can see which endpoints each service is providing. &lt;/p&gt;
