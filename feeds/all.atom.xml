@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/all.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-05-28T17:20:00-07:00</updated><entry><title>Vacuum - REST API backed with Neo4j</title><link href="http://felipeforbeck.com/posts/2016/05/java-rest-api-microservice-dependency-graph/" rel="alternate"></link><updated>2016-05-28T17:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-28:posts/2016/05/java-rest-api-microservice-dependency-graph/</id><summary type="html">&lt;h3&gt;Motivation&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>a bit of bits...</title><link href="http://felipeforbeck.com/" rel="alternate"></link><link href="http://felipeforbeck.com/feeds/all.atom.xml" rel="self"></link><id>http://felipeforbeck.com/</id><updated>2016-08-21T21:21:00-07:00</updated><entry><title>Elasticsearch Bulk Processor basic example</title><link href="http://felipeforbeck.com/posts/2016/08/elasticsearch-notes/" rel="alternate"></link><updated>2016-08-21T21:21:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-08-21:posts/2016/08/elasticsearch-notes/</id><summary type="html">&lt;p&gt;To keep track on ES client and bulk processor configs that I am using for bulk indexing on ES v2.0.0.
+I just started a standalone java app to listen to a RabbitMQ Queue, parsed the json messages, created the Index Request for ES and added it into the bulk processor. The snippets below that I used to create the connection and setup the bulk processor. &lt;/p&gt;
+&lt;h3&gt;Creates the connection&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.client.Client&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.client.transport.TransportClient&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.common.settings.Settings&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.common.transport.InetSocketTransportAddress&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;java.net.InetAddress&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;java.net.UnknownHostException&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+    &lt;span class="n"&gt;public&lt;/span&gt; &lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;ESConnectionFactory&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+
+        &lt;span class="n"&gt;public&lt;/span&gt; &lt;span class="n"&gt;static&lt;/span&gt; &lt;span class="n"&gt;Client&lt;/span&gt; &lt;span class="n"&gt;newConnection&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="n"&gt;throws&lt;/span&gt; &lt;span class="n"&gt;UnknownHostException&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+            &lt;span class="n"&gt;Settings&lt;/span&gt; &lt;span class="n"&gt;settings&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;Settings&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;settingsBuilder&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+                    &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;put&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;cluster.name&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;&amp;lt;your-cluster-name&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+                    &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;build&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+
+            &lt;span class="n"&gt;Client&lt;/span&gt; &lt;span class="n"&gt;connection&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;TransportClient&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;builder&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+                &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;settings&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;settings&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+                &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;build&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+                &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addTransportAddress&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+                    &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;InetSocketTransportAddress&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;
+                        &lt;span class="n"&gt;InetAddress&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getByName&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;&amp;lt;the-host-name&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;portNumber&lt;/span&gt;&lt;span class="p"&gt;));&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;connection&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+        &lt;span class="p"&gt;}&lt;/span&gt;
+
+    &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;Creates the bulk processor&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.action.bulk.BulkProcessor&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.client.Client&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.common.unit.ByteSizeUnit&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;org.elasticsearch.common.unit.ByteSizeValue&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+    &lt;span class="n"&gt;public&lt;/span&gt; &lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;BulkProcessorFactory&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+
+        &lt;span class="n"&gt;public&lt;/span&gt; &lt;span class="n"&gt;static&lt;/span&gt; &lt;span class="n"&gt;BulkProcessor&lt;/span&gt; &lt;span class="n"&gt;create&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Client&lt;/span&gt; &lt;span class="n"&gt;connection&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;throws&lt;/span&gt; &lt;span class="n"&gt;UnknownHostException&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;BulkProcessor&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;builder&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;connection&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                    &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;BulkProcessor&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Listener&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+                        &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;TODO&lt;/span&gt; &lt;span class="n"&gt;impl&lt;/span&gt; &lt;span class="n"&gt;beforeBulk&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;afterBulk&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;afterBulk&lt;/span&gt;
+                    &lt;span class="p"&gt;})&lt;/span&gt;
+            &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;setBulkActions&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;X&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;Max&lt;/span&gt; &lt;span class="n"&gt;number&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;requests&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="nb"&gt;buffer&lt;/span&gt;
+            &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;setBulkSize&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;ByteSizeValue&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Y&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ByteSizeUnit&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;MB&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt; &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;Max&lt;/span&gt; &lt;span class="n"&gt;document&lt;/span&gt; &lt;span class="n"&gt;size&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;MB&lt;/span&gt;
+            &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;setConcurrentRequests&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Z&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;//&lt;/span&gt; &lt;span class="n"&gt;Max&lt;/span&gt; &lt;span class="n"&gt;concurrent&lt;/span&gt; &lt;span class="n"&gt;bulk&lt;/span&gt; &lt;span class="n"&gt;requests&lt;/span&gt; &lt;span class="n"&gt;performed&lt;/span&gt;
+            &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;build&lt;/span&gt;&lt;span class="p"&gt;();&lt;/span&gt;
+        &lt;span class="p"&gt;}&lt;/span&gt;
+
+    &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;In order to add the requests into the processor you just need to use:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;    bulkProcessor.add(request);
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;When the bulk processor reach the number of actions (# of requests) it will
+fire the bulk request to Elasticsearch. Or, if the bulk size is reached before the
+number of action, it will also send the bulk request to Elasticsearch.
+You can also perform a manual flush using: &lt;code&gt;bulkProcessor.flush&lt;/code&gt;.
+The number of concurrent requests recommended is &lt;code&gt;4 * num_available_cores&lt;/code&gt;. &lt;/p&gt;</summary><category term="open-source"></category><category term="elasticsearch"></category><category term="java"></category><category term="bulk"></category></entry><entry><title>Vacuum - REST API backed with Neo4j</title><link href="http://felipeforbeck.com/posts/2016/05/java-rest-api-microservice-dependency-graph/" rel="alternate"></link><updated>2016-05-28T17:20:00-07:00</updated><author><name>Felipe Forbeck</name></author><id>tag:felipeforbeck.com,2016-05-28:posts/2016/05/java-rest-api-microservice-dependency-graph/</id><summary type="html">&lt;h3&gt;Motivation&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a href="http://vanhackathon.devpost.com/"&gt;Vanhack&lt;/a&gt; promoted a hackathon for programmers, designers and digital marketers who want to show their skills to Canadian technology companies. &lt;a href="http://vanhackathon.devpost.com/"&gt;Vanhack&lt;/a&gt; is a startup that helps skilled IT people from all around the world to get awesome jobs in Canada. This was the first hackathon they promoted and they already said that we will have more.&lt;/p&gt;
 &lt;p&gt;For this edition we had companies such as &lt;a href="https://www.axiomzen.co/"&gt;AxiomZen&lt;/a&gt;, &lt;a href="http://hootsuite.com/"&gt;Hootsuite&lt;/a&gt;, &lt;a href="http://shopify.com"&gt;Shopify&lt;/a&gt; and many other. You can take a look &lt;a href="https://www.vanhack.com/hackathon/"&gt;here&lt;/a&gt;. Each company proposed one or more challenges for back-end, front-end, UX Designers, etc. 
