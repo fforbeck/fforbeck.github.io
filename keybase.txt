@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/fforbeck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://felipeforbeck.com
+  * I am fforbeck (https://keybase.io/fforbeck) on keybase.
+  * I have a public key with fingerprint 5123 3563 E482 6346 FD90  4BBA AC07 9CF5 6D28 84D3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ec06cf5e925440e6dad85f0effc5b8259af2d7bb27866c9a219651b6fa76d58f0a",
+            "fingerprint": "51233563e4826346fd904bbaac079cf56d2884d3",
+            "host": "keybase.io",
+            "key_id": "ac079cf56d2884d3",
+            "kid": "0101ec06cf5e925440e6dad85f0effc5b8259af2d7bb27866c9a219651b6fa76d58f0a",
+            "uid": "23df29c3a0f6e757fedf86f0ca76ee19",
+            "username": "fforbeck"
+        },
+        "service": {
+            "hostname": "felipeforbeck.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480289792,
+    "expire_in": 157680000,
+    "prev": "3c09c93a1166e5656b477a8490e7241f072169d34f515a56691d27858ab6287b",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJbSFRBGIBXu1BLZWGQXSg6oUWpndvMmbNCUWGZhtkFlXBd5pyZ0WF1
+z3b2aG1iN4oIIijpoaKCeijtAqkPEYS51YPViw9FV4hAzMLCygqUao7oW4/NyzAz
+3//N///8D2dOCgTT3l0Krxm8Ulmb9qT7QkOgsiAWaJIshySlUJMUpWMbrSM04UWi
+nEghSVZkhdoytBmgpgp0XaaQYIIAkyljNrCQCkzMVGJYlmogCG0Tq4oJgWJBhg1I
+AGIylnIlxmM11I27POYJLVBUTQNQozpSoaZDRkxZtyyMbdkwxV+QqAjpRBOBtU7C
+jxDJWThB87kj7sQhMpbeP/j/nHfDmE7VCFNNW8Myg9QABqOEIchkW6CUKqYPJqgb
+w/VU0Iw5rkXtqNScK4nbRm5Tv7F+JRMEreNxOo7l2069EMRdx3Nsp04813pePBHy
+w71k3Of3UCsybopYPEZEM0VEI3UT3IlJIUWQtsd9taIjWUWmYaq5Et0b5y6NcJ8A
+BkSyWP4/tFEoNVs2bVPDigIhBRBASzcMjHRTpoaqK0w2VAWaRNMZUAAGEJoKEZ0C
+CFtQRYYl+bXtjjnCLaQerhHOBK+JYa/BpVJz6n7V5EBaMDB1Sro/ZYHg9NkTs5ds
+nxa4/GZJz8rDqw7ntaLyPTmnwoeC3UNtVeGu0NKf/c8v9j4wjg/wpusdn+Z27Ju3
+pb20/2Sk7X14Xaq0cJP3snIY1hx4XN27i9+Np3a46Vlexb3FA5uD2zMKzxxJhMmN
+X3eivz+s/Zj5fdOXklC0sKRC6Xy7rfjdhufZq68erPj8kGgLik/f/PonOzyrnqcP
+tqaOdQ20tFRNX/voYN7GZhY/c71214yT588VFaZOLMroNdzl1UWp/Cx11isnOW8h
+znyx4cTW27kXu5q7s3PKXheVJKPfojn8Bkd1oR67ev3eJWeHRvcfLT67rm+4b3/n
+svJraM6UpyNlP3ZmjNx6lr5itHF+wV8Ysjz1
+=xOe5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fforbeck
+
+==================================================================
