@@ -8,314 +8,210 @@
 
 <url>
   <loc>http://felipeforbeck.com/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/pages/about-me.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/archives.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/java-rest-api-microservice-dependency-graph/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/open-source/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/rest/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/hackathon/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/neo4j/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/java/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/api/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/spring-boot/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/swagger/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/best-talks-tdc-2016-floripa/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/tdc-2016/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/conference/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/talks/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/quantum-computing-concepts-and-ibm-qc-free-access/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/quantum-computing/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/ibm-bluemix/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/concepts/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/elasticsearch-notes-about-server-client-configs/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/elasticsearch/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/configs/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/lol-who-needs-help/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/programmer/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/gif/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/lol/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/index.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/index2.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/index3.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tags.html</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/chanllenge/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/hacktivism/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/hp-idol/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/information-activism/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/linux/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/play-framework/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/sentiment-analysis/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/software-product-development/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/spotify/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/topcoder/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2016/05/free-cdn-provider-cloudflare/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2015/02/topcoder-challenge-tweet-analysis/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2015/01/tweet-sentiment-analyst/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2014/07/engineering-culture-spotify/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2014/07/the-linux-story/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/posts/2014/07/the-internets-own-boy/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/free-software/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/cloudflare/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/tool/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/free/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 <url>
   <loc>http://felipeforbeck.com/tag/free-sharing/</loc>
-  <lastmod>2016-07-30T21:07:30+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
+  <changefreq>never</changefreq>
 </url>
 </urlset>
