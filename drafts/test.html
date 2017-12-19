@@ -1,0 +1,42 @@
+<html>
+<head>
+
+<script type="text/javascript">
+	function readProducts() {
+		var iframe = document.getElementById('products_frame');
+		var frameDocument = iframe.contentDocument || iframe.contentWindow.document;
+	    var titulos = frameDocument.getElementsByClassName('titulo');
+	    var infos = frameDocument.getElementsByClassName('info');
+	    var valores = frameDocument.getElementsByClassName('valor');
+	    var products = {};
+	    for (i=1; i<titulos.length; i++) {
+	    	var product = {};
+	    	if (titulos[i] && titulos[i].innerText) {
+	    		console.log(titulos[i].innerText);
+	    		product['titulo'] = titulos[i].innerText;
+	    	}
+
+	    	if (infos[i] && infos[i].innerText) {
+	    	 	console.log(infos[i].innerText);
+	    	 	product['info'] = infos[i].innerText;
+	    	}
+
+	    	if (valores[i] && valores[i].innerText) {
+	    		console.log(valores[i].innerText);
+	    		product['valor'] = valores[i].innerText;
+	    	}
+	    	products[i] = product;
+		}
+		return products;
+	}
+</script>
+
+<head>
+
+<iframe id="products_frame" src="https://www.clubfood.com.br/xaxaburguerepizza/" width="800px" height="500px">
+</iframe>
+
+<div>
+	<input type="button" onclick="readProducts();" value="Chupacabra" />
+</div>
+</html>
