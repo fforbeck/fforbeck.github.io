@@ -1,0 +1,31 @@
+\centered Employment Agreement Extension 
+
+Effective Date: [[Date 1: Date]]  
+Agreement made among Reis Services, Reis, Inc. (collectively, the “Employers”) and [[Employee]] (“Employee”) to extend a certain Employment Agreement, dated as of [[Date 2: Date]], as amended by the First Amendment to Employment Agreement, dated as of [[Date 3: Date]], that certain Memo regarding Revision to Bonus Payout Schedule from [[Employment Agreement]], dated [[Date 4: Date]], and the Employment Agreement Extension, dated as of [[Date 5: Date]], by and between the parties (collectively, the “Employment Agreement”). 
+
+**Revised Term**  
+The term of the Employment Agreement expires on [[Date 1]]. The parties are in the process of negotiating a new agreement (the “New Employment Agreement”) relating to Employee’s employment with Employer (although no such agreement is assured). In the interim, the parties wish to continue and extend the Employment Agreement. Therefore, Employers and Employee agree that the Employment Agreement shall be binding for an additional period of time, beginning with the expiration of the current term on [[Date 1]] and continuing through the earlier of [[Date 6: Date]] or a date on which a New Employment Agreement is executed. 
+
+**Revised Conditions**  
+This extension shall be on the same terms and conditions as provided in the Employment Agreement and as if set forth in this Agreement. For the avoidance of doubt, all Annual Bonus obligations under the Employment Agreement terminated as of [[Date 5]]. 
+
+**Acknowledgement and Agreement**  
+We have carefully reviewed this Agreement and acknowledge, agree to and accept all of its terms and conditions. We are executing this Agreement as of the Effective Date above. 
+
+\centered 
+
+**Employers:**        **Employee:** 
+
+REIS SERVICES 
+
+[[REIS SERVICES Signatory Email: Identity | Signature]]
+__________________________________________
+{{REIS SERVICES Entity => By: [[REIS SERVICES Signatory First Name]] [[REIS SERVICES Signatory Last Name]]
+Title: [[REIS SERVICES Signatory Title]]}}
+
+REIS, INC. 
+
+[[REIS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{REIS INC. Entity => By: [[REIS INC. Signatory First Name]] [[REIS INC. Signatory Last Name]]
+Title: [[REIS INC. Signatory Title]]}}

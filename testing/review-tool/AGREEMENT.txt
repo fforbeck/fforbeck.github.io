@@ -1,0 +1,74 @@
+**Exibit 10.17**
+
+
+
+^ \centered **AGREEMENT**  
+
+\centered **ELECTROMED, INC.**
+
+^ \centered **[[Date 1: Date]]**   
+Hansen Engine Technologies, Inc.
+
+Mr. Craig Hansen
+
+Mr. Paul Cross
+
+12920 Highway #55
+
+Plymouth, MN 55441
+
+Gentlemen:
+
+Electromed, Inc. (the “Company”) proposes to engage Hansen Engine Corporation, doing business as Hansen Engine Technologies, Inc. (“HETI”) to provide the Company with certain research, development and engineering services in support of developing medical devices and treatments, including but not limited to airway clearance therapy and other forms of respiratory care and management (the “Services”), in accordance with and pursuant to the terms set forth in this Agreement. The “Effective Date” of this Agreement shall be [[Date 1]].
+
+^Services; Statements of Work. HETI shall perform eighty (80) hours per week of Services. The particular nature of and timeframe for the Services provided by HETI to the Company pursuant to this Agreement shall be set forth in statements of work executed by both the Company and HETI on a periodic, as-needed basis (each, a “SOW”). 
+
+^Assignment of Intellectual Property Rights. HETI agrees to assign and transfer to the Company all of HETI’s right, title and interest in and to all ownership and other rights in all concepts, designs, means, works, programs, developments, know-how, techniques, formulas, data, manuals, inventions, ideas, designs, manuals, equipment, improvements, discoveries, processes, source and object codes, and other works of authorship developed, conceived or reduced to practice by HETI (the “Inventions”), whether alone or with others, in connection with the provision of Services or where those works of authorship support airway clearance in respiratory care and management. To the extent permitted by law, such Inventions shall be “works for hire,” whether or not developed or conceived during regular working hours or at the Company’s facilities. HETI will assist the Company to obtain, perfect, sustain and enforce the Company’s rights in and ownership of the Inventions, including without limitation executing patent assignments and additional instruments of conveyance.
+
+^Term. This Agreement shall remain in effect for four (4) months from the Effective Date (the “Initial Term”), and shall automatically renew for successive six (6) month terms, until such time this agreement is terminated in writing by either party upon two (2) weeks written notice to the other party prior the end of the then current term. Neither party may terminate this agreement other than by providing written notice to the other party no less than two (2) weeks prior to the end of the then current term.
+
+^Payment; Expenses. During the Initial Term of this Agreement, the Company agrees to pay HETI bi-monthly payments of $[[USD Value 1: Number]] If the Agreement is not terminated following the Initial Term, the bi-monthly payments shall increase to $[[USD Value 2: Number]] each. Payments under this Agreement shall commence on the Effective Date and continue on the 15th and last day of each month. If any day on which a payment is scheduled to be due falls on a Saturday, Sunday or holiday, the payment shall be due on the following business day. Each SOW shall set forth amounts the Company will reimburse to HETI for parts, components, and pre-approved travel required pursuant to such SOW. Any amounts reimbursable pursuant to the SOW shall be in addition to the bi-monthly payments.
+
+^Confidentiality. The Company and HETI acknowledge that disclosure of the particular Services provided to the Company by HETI would cause competitive harm to the Company, and agree that the information contained in each SOW shall be kept in the strictest confidence. Neither party will publish, communicate, divulge or otherwise disclose any such information without the prior written consent of the other party.
+
+^**Counterparts.** This Agreement may be executed in any number of counterparts, and may be delivered to each of the parties by facsimile or e-mail. Facsimile or photocopy signatures shall be deemed as legally enforceable as the original. Each of such counterparts shall for all purposes be deemed to be an original, and such counterparts shall together constitute but one and the same inst rument.
+
+^**Governing Law.** This Agreement shall be governed by and construed under the laws of the State of Minnesota, without giving effect to its choice of laws provisions.
+
+^**Severability.** If any provision of this Agreement is held invalid or otherwise unenforceable, the enforceability of the remaining provisions shall not be impaired thereby.
+
+^**Headings.** The headings of the paragraphs and subparagraphs of this Agreement are for convenience of reference only and do not form a part hereof and in no way interpret or construe such paragraphs and subparagraphs.
+
+^**Entire Agreement**. This Agreement contains the entire agreement of the parties with respect to the terms of HETI’s engagement by the Company, and supersedes all prior negotiations, agreements and understandings with respect thereto. This Agreement may only be amended, modified, superseded, rescinded or cancelled by a written document duly executed by both parties.
+
+\centered *[Signature page to follow]*
+
+If the foregoing is in accordance with your understanding of our agreement, kindly sign and return to us the enclosed counterpart of this Agreement, whereupon it will become a binding agreement between the Company and the Agent in accordance with its terms.
+
+Very truly yours,
+
+**ELECTROMED, INC.**
+
+[[ELECTROMED INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ELECTROMED INC. Entity => By: [[ELECTROMED INC. Signatory First Name]] [[ELECTROMED INC. Signatory Last Name]]
+Title: [[ELECTROMED INC. Signatory Title]]}}
+
+[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
+
+
+The foregoing Agreement is hereby confirmed and accepted by us effective as of [[Date 1]].
+
+**HANSEN ENGINE CORPORATION**
+
+/s/ Paul C. Cross
+[[/s/ Paul C. Cross Signatory Email: Identity | Signature]]
+__________________________________________
+{{/s/ Paul C. Cross Entity => By: [[/s/ Paul C. Cross Signatory First Name]] [[/s/ Paul C. Cross Signatory Last Name]]
+Title: [[/s/ Paul C. Cross Signatory Title]]}}
+
+
+\centered *[Signature page to Agreement]*

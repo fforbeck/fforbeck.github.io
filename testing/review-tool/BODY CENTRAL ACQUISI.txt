@@ -1,49 +1,51 @@
-\centered **BODY CENTRAL ACQUISITION CORP.**
+\centered [[Company]]
 
-Jerrold Rosenbaum
+\centered INCENTIVE STOCK OPTION AGREEMENT
 
-[[Address 1: Address]]
+This INCENTIVE STOCK OPTION AGREEMENT, dated as of [[Date 1: Date]], (this “Agreement”), is between [[Company]], a [[Location 1 "Company type and jurisdiction or Residence location of Individual"]] (the “Company”), and [[Optionee]] (the “Optionee”). Capitalized terms used herein without definition shall have the meaning ascribed to such terms in the Company’s 2006 Equity Incentive Plan, a copy of which is attached hereto as Exhibit A (as amended from time to time, the “Plan”).
 
-September , 2010
+^Grant of Option. Pursuant to the Plan, the Company grants to the Optionee, as of the date of this Agreement (the “Grant Date”) an option (the “Option”) to purchase from the Company all or any number of an aggregate of [[Shares 1: Number]] shares, subject to adjustment pursuant to Section 8 of the Plan (the “Option Shares”), of Common Stock, at a price of $25.00 per share (the “Exercise Price”). The Option is being granted to the Optionee in connection with the Optionee’s employment with certain subsidiaries of the Company.
 
-Re: **Body Central Acquisition Corp. Board of Directors**
+^Character of Option. The Option is intended to be treated as an “incentive stock option” within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”).
 
-Dear Jerrold:
+^Duration of Option. Unless subject to earlier expiration or termination pursuant to the terms of the Section 5 hereof or the Plan, the Option shall expire on the tenth anniversary of the Grant Date.
 
-We look forward to your continued service on the Board of Directors (the “Board”) of Body Central Acquisition Corp., a Delaware corporation (the “Company”). By this letter, we would like to confirm our mutual understanding of the terms of your service, including certain details regarding your Board compensation. Assuming the Company completes its contemplated initial public offering (the “IPO”), you have agreed to continue to serve as a member of the Board. Your Board service and fees payable for that service as described below shall continue for so long as you continue to serve as a director of the Company.
+^Exercise of Option.
 
-Going forward, while serving on the Board (and any of its committees), you will receive compensation for your service, contingent upon completion of the IPO, as follows:
+^^Until its expiration or termination, the Option may be exercised, in the manner specified in Section 7.7 of the Plan, and shall vest as follows: (i) [[Percentage 1: Number]]% of the Option Shares shall be vested as of [[Date 2: Date]], the first anniversary of the date of this Agreement, and (ii) the remaining [[Percentage 2: Number]]% of the Option Shares (subject to adjustment pursuant to Section 8 of the Plan) shall vest in a series of twelve (12) equal quarterly installments (the “Remaining Installments”), in portions of whole Option Shares as determined by the Board in its sole discretion, with the first Remaining Installment vesting on [[Date 3: Date]], and an additional Remaining Installment vesting on the last day of each quarterly period thereafter, until all of such Option Shares shall be fully vested on [[Date 4: Date]], provided, that no Option Shares shall vest on any date unless the Optionee is an employee of the Company or its subsidiaries on the date on which such Option Shares are scheduled to vest, and has been an employee of the Company for the period between the Grant Date and such date of vesting. Notwithstanding the foregoing, all of the Option Shares shall vest as of immediately prior to the closing of a Sale of the Company Transaction (as such term is defined in the Plan).
 
-· An annual fee of $[[USD Value 1: Number]] in cash, payable monthly in arrears, for your service as a member of the Board.
+^^The Option may be exercised by the Optionee giving written notice, in the manner provided in Section 15 of the Plan, specifying the number of Option Shares with respect to which the Option is then being exercised; provided, that upon the first exercise of the Option, unless the Optionee is already a party thereto, the Optionee becomes party, as a Subsequent Stockholder, to the Stockholder Agreement, dated as of [[Date 5: Date]], among the Company and certain of its stockholders, as it is then constituted (the “Stockholder Agreement”), by executing an instrument of accession in the form of Exhibit B hereto (a “Stockholder Agreement Instrument of Accession”). The notice shall be accompanied by the Stockholder Agreement Instrument of Accession (in the case
 
-In addition, both before and after the IPO, you will also be reimbursed for your reasonable out-of-pocket expenses associated with your attendance at any meeting of the Board or its committees upon presentation of appropriately itemized documentation of the expenses as the Company may reasonably request.
+of the first exercise) and payment in the form of cash or check payable to the order of the Company in an amount equal to the exercise price of the Option Shares to be purchased. If the Common Stock becomes traded on an established market, payment of any exercise price may also be made through and under the terms and conditions of any formal cashless exercise program authorized by the Company entailing the sale of the Common Stock subject to the Option in a brokered transaction (other than to the Company). Receipt by the Company of such notice and payment shall constitute the exercise of the Option. Within thirty (30) days thereafter but subject to the remaining provisions of the Plan, the Company shall deliver or cause to be delivered to the Optionee or his agent a certificate or certificates for the number of Option Shares then being purchased. Such Option Shares shall be fully paid and nonassessable.
 
-Further, you will also receive compensation for your service to the Company unrelated to your services on the Board, contingent upon completion of the IPO, as follows:
+^^Notwithstanding anything express or implied to the contrary in the foregoing provisions of this Section 4, the Option may, as provided in Section 7.4 of the Plan, at any time be accelerated at the sole discretion of the Committee, provided, that without the consent of the Optionee, such acceleration would not cause the Option to fail to comply with the provisions of Section 422 of the Code.
 
-· An annual fee of $[[USD Value 1]] in cash, payable in monthly arrears, for your assessment and review of potential store locations; and
+^^For purposes of this Agreement, the following terms shall have the respective meanings ascribed to such terms below:
 
-· A per day fee of $[[USD Value 2: Number]] in cash, payable promptly after each visit, for each day that you conduct a real estate visit or visits to assess store locations.
+“Unvested Option Shares” shall mean, at the relevant time of reference thereto, those Option Shares for which the Option have not yet become exercisable at such time pursuant to Section 4(a) above.
 
-This letter contains all the understandings between the parties hereto and supersedes all undertakings and agreements, whether oral or in writing, previously entered into between you and the Company (and its affiliates).
+“Vested Option Shares” shall mean, at the relevant time of reference thereto, those Option Shares for which the Option are fully exercisable at such time pursuant to this Section 4.
 
-We look forward to continuing a mutually rewarding relationship. Please sign below to acknowledge and agree to the terms of this letter.
+^Termination of Association with the Company. If the Optionee’s employment with the Company or any of its subsidiaries is terminated, whether voluntarily or otherwise (other than for death or disability, as determined by the Board), the Option, to the extent the Option is exercisable on the date of termination, may be exercised by the Optionee, but only within ninety (90) days after the Optionee ceases to be an employee of the Company and its subsidiaries, unless terminated earlier by its terms. If the Optionee’s employment with the Company and its subsidiaries is terminated due to the Optionee’s death or disability, as determined by the Board, the Option, to the extent the Option is exercisable on the date of termination, may be exercised by the Optionee, but only within three hundred sixty five (365) days after the Optionee ceases to be an employee of the Company and its subsidiaries. Subject to the following sentence, any Vested Option Shares not exercised within the applicable period after the Optionee ceases to be an employee of the Company shall terminate as of the close of business on the last day of such period.
 
-Very truly yours,
+^Transfer of Option. Other than as expressly permitted by the provisions of Section 7.6 of the Plan, the Option may not be transferred except by will or the laws of descent and distribution and, during the lifetime of the Optionee, may be exercised only by the Optionee.
 
-BODY CENTRAL ACQUISITION CORP.
+^Incorporation of Plan Terms. The Option is granted subject to all of the applicable terms and provisions of the Plan. The Company warrants and represents to the Optionee that this Agreement has been approved by the Committee, and therefore notwithstanding the foregoing sentence, in the event of any conflict between the provisions of the Plan and the provisions of this Agreement, the provisions of this Agreement shall control.
 
-[[BODY CENTRAL ACQUISITION CORP. Signatory Email: Identity | Signature]]
+^Miscellaneous. This Agreement shall be construed and enforced in accordance with the internal, substantive laws of the State of Delaware and shall be binding upon and inure to the benefit of any successor or assign of the Company and any executor, administrator, trustee, guardian, or other legal representative of the Optionee. The prevailing party in any dispute arising out of this Agreement shall be entitled to be paid its reasonable attorneys’ fees and litigation expenses actually incurred in connection with such dispute from the other party to such dispute.
+
+^Arbitration. In the event of any dispute or claim relating to or arising out of this Agreement, such dispute shall be fully, finally and exclusively resolved by a panel of three neutral arbitrators to be mutually agreed upon by the parties. Such arbitration will be decided under the employment dispute resolution rules of the American Arbitration Association and will be held in New York City. If the parties cannot agree upon such arbitrators within twenty (20) days after submission of a party’s request for arbitration in writing, the arbitrators will be selected in accordance with the procedures of the American Arbitration Association. The cost of such arbitration shall be borne equally by the Company and the Optionee. The arbitrators shall have no power or authority to award punitive or special damages. The parties agree that the existence, content and result of any arbitration proceeding shall be confidential, except to the extent that the Company determines it is required to disclose such matters in accordance with applicable laws.
+
+IN WITNESS WHEREOF, the parties have executed this Incentive Stock Option Agreement as a sealed instrument as of the date first above written.
+
+[[Company]]      OPTIONEE
+
+[[Company      OPTIONEE Signatory Email: Identity | Signature]]
 __________________________________________
-{{BODY CENTRAL ACQUISITION CORP. Entity => By: [[BODY CENTRAL ACQUISITION CORP. Signatory First Name]] [[BODY CENTRAL ACQUISITION CORP. Signatory Last Name]]
-Title: [[BODY CENTRAL ACQUISITION CORP. Signatory Title]]}}
+{{Company      OPTIONEE Entity => By: [[Company      OPTIONEE Signatory First Name]] [[Company      OPTIONEE Signatory Last Name]]
+Title: [[Company      OPTIONEE Signatory Title]]}}
 
-^Allen Weinstein, its
+Curtis V. Hill         [[Optionee]]
 President and Chief Executive Officer
 
-Enclosures
-
-cc: The Board of Directors
-
-**ACKNOWLEDGED AND AGREED:**
-
-Jerrold Rosenbaum
+Optionee’s Address:
