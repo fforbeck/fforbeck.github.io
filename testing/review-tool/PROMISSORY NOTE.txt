@@ -1,0 +1,30 @@
+\centered **PROMISSORY NOTE**
+
+**Borrower:**   DRS Inc. of 12900 NE 180th ST #200 - [[Location 1 "Company type and jurisdiction or Residence location of Individual"]]ly and collectively the "Borrower")
+
+**Lender:**   Daniel Mendes 8245 SE 36th St. [[Address 1: Address]]
+
+**Principal Amount:** $[[USD Value 1: Number]]  
+^FOR VALUE RECEIVED, The Borrower promises to pay to Daniel Mendes at such address as may be provided in writing to the Borrower, the principal sum of forty thousand ($[[USD Value 1]]) USD, with no interest payable.
+
+^This Note will be repaid in full on or before due date of [[Date 1: Date]].
+
+^At any time while not in default under this Note, the Borrower may pay the outstanding balance then owing under this Note to Daniel Mendes without further bonus or penalty.
+
+^Notwithstanding anything to the contrary in this Note, if the Borrower defaults in the performance of any obligation under this Note, then Daniel Mendes may declare the principal amount owing under this Note at that time to be immediately due and payable.
+
+^If the Borrower defaults in payment as required under this Note or after demand for ten (10) days, the Security will be immediately provided to Daniel Mendes and Daniel Mendes is granted all rights of repossession as a secured party.
+
+^This Note will be construed in accordance with and governed by the laws of the State of Washington.
+
+^If any term, covenant, condition or provision of this Note is held by a court of competent jurisdiction to be invalid, void or unenforceable, it is the parties' intent that such provision be reduced in scope by the court only to the extent deemed necessary by that court to render the provision reasonable and enforceable and the remainder of the provisions of this Note will in no way be affected, impaired or invalidated as a result.
+
+^All costs, expenses and expenditures including, and without limitation, the complete legal costs incurred by Daniel Mendes in enforcing this Note as a result of any default by the Borrower, will be added to the principal then outstanding and will immediately be paid by the Borrower.
+
+^This Note will enure to the benefit of and be binding upon the respective heirs, executors, administrators, successors and assigns of the Borrower and Daniel Mendes. The Borrower waives presentment for payment, notice of non-payment, protest and notice of protest.
+
+^This Note is secured by the following security (the 'Security'): This loan will be secured by DRS Inc. receivables up to the amount of the loan. DRS Inc. average receivables are roughly 350-450K at any given time.
+
+^The Borrower grants to Daniel Mendes a security interest in the Security until this Note is paid in full. Daniel Mendes will be listed as a lender on the title of the Security whether or not Daniel Mendes elects to perfect the security interest in the Security.
+
+IN WITNESS WHEREOF the parties have duly affixed their signatures under seal on this [[Date 2: Date]].

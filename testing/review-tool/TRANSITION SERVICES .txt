@@ -1,0 +1,454 @@
+\centered **TRANSITION SERVICES AGREEMENT**
+
+This Transition Services Agreement (this “**Services Agreement**”) is entered into and effective as of the [[Date 1: Date]] (the “**Effective Date**”), by and between [[Provider]], a corporation organized under the laws of the State of Delaware (“**Provider**”), and [[Recipient]], Inc., a corporation organized under the laws of the State of Delaware (“**Recipient**”). Provider and Recipient each may be referred to herein as a “**Party**” and collectively, as the “**Parties**.” 
+
+WHEREAS, the Board of Directors of Provider has determined that it is appropriate and desirable to separate Recipient and Provider into two publicly-traded companies by separating Provider from Recipient and transferring to Recipient Provider’s measurement group and foil business (the “**MGF Business**”) (such separation, the “**Separation**”); 
+
+WHEREAS, Provider and Recipient have entered into that certain Master Separation and Distribution Agreement, dated as of the [[Date 2: Date]] (the “**Master Separation** **Agreement**”), in order to carry out, effect and consummate the Separation; and 
+
+WHEREAS, to facilitate the Separation, Provider and Recipient deem it to be appropriate and in the best interests of Provider and Recipient that Provider provide certain services to Recipient pursuant to the terms and conditions set forth herein. 
+
+NOW, THEREFORE, in consideration of the mutual promises, covenants, agreements, representations and warranties contained herein, and for other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the Parties hereby agree as follows: 
+
+^**Services**  
+
+^^**General**. In accordance with the provisions hereof, Provider, through its Subsidiaries (as defined below) and their respective employees, agents or contractors, shall provide to Recipient and its Subsidiaries, and Recipient shall purchase from Provider, the services described in **Schedule A** (each a “**Service**” and collectively, the “**Services**”). In addition to a description of each Service, **Schedule A** shall set forth, where relevant, the maximum level or amount of each Service, applicable performance times and the pricing parameters for each Service. **Schedule A** may be amended from time to time by written agreement of the Parties. For purposes of this Services Agreement, “**Subsidiary**” of any Party means a corporation or other organization whether incorporated or unincorporated of which at least a majority of the securities or interests having by the terms thereof ordinary voting power to elect at least a majority of the board of directors or others performing similar functions with respect to such corporation or other organization is directly or indirectly owned or controlled by such Party or by any one or more of its Subsidiaries, or by such Party and one or more of its Subsidiaries; **provided**, **however**, that no person that is not directly or indirectly wholly-owned by the Party shall be a Subsidiary of such Party unless such Party controls, or has the right, power or ability to control, that person. 
+
+^^**Quality of Services**. Subject to Section 1.3, Provider shall perform each of the Services (i) in a workmanlike and professional manner, (ii) with the same degree of care as it 
+
+exercises in performing its own functions of a like or similar nature, (iii) utilizing individuals of suitable experience, training and skill, and (iv) in a timely manner in accordance with the provisions of this Services Agreement. 
+
+^^**Forecasts**. Recipient shall provide Provider with a monthly forecast of its requested level of Services not less than fifteen (15) days prior to the beginning of each calendar month, unless no change in the existing service levels are forecast for such calendar month. The Service levels, if any, initially requested by Recipient (the “**Initial Service Levels**”) shall be as set forth on **Schedule A**. Service levels may be decreased from the Initial Service Levels upon Recipient’s delivery to Provider of written notice of such decrease specified in reasonable detail at least sixty (60) days in advance of the month to which the decrease forecast relates. Any increase in the scope of Services, including the addition of any new Services, shall be negotiated in good faith by the Parties; **provided** **that** Provider shall not be required to perform additional or enhanced services, except to the extent that it has available resources and receives compensation acceptable in its reasonable discretion. To the extent any Services are mischaracterized in **Schedule A**, Provider and Recipient shall negotiate in good faith to amend **Schedule A** as appropriate. 
+
+^^**Third Party Services**. Each Party acknowledges and agrees that certain of the Services to be provided under this Services Agreement may have been, and may continue to be, provided to Recipient, by third parties designated by Provider. To the extent so provided, Provider shall use commercially reasonable efforts to (i) cause such third parties to provide such Services in accordance with the provisions of this Services Agreement and/or (ii) enable Recipient and its Subsidiaries to avail itself of such Services; **provided**, **however**, that if any such third party is unable or unwilling to provide any such Services, Provider shall use its commercially reasonable efforts to determine the manner in which such Services can best be provided, and, if there is any change to the level or cost of Services provided as a result, Provider and Recipient shall negotiate in good faith to amend Schedule A as appropriate. 
+
+^^**Responsible Personnel**. Each Party shall (i) from time to time designate a senior level manager who shall have overall responsibility for the administration and operation of this Services Agreement (each, a “**Party Representative**”) and (ii) upon reasonable request of the other Party, provide such other Party with a list of key management personnel who may be contacted by such other Party with respect to each Service. 
+
+^^**Consultation**. At either Party’s reasonable request, the Parties shall meet and discuss the nature, quality and level of Services covered by this Services Agreement and any modifications a Party may wish to make to the Services and other matters specified in **Schedule** A. 
+
+^^**Recovery Procedures**. Provider shall maintain, consistent with past practices applicable to the MGF Business immediately prior to the Separation, operational recovery procedures to insure the availability of systems and the integrity of data relating to the Services at all times. In the event of the unavailability of any such system or the loss or destruction of any such data, Provider shall use its commercially reasonable efforts, consistent with past practices applicable to the MGF Business immediately prior to the Separation, to restore such systems and recover or replace such data as quickly and completely as is practicable. 
+
+^^**Monitoring and Reports; Books and Records; Audit Right**.
+
+^^Provider shall maintain books and records in reasonable and customary detail pertaining to the provision of Services pursuant to this Services Agreement. Provider shall make such books and records available for inspection by Recipient or its authorized representatives during normal business hours, upon reasonable notice to Provider, and shall retain such books and records for periods consistent with the retention policies applicable to the MGF Business immediately prior to the Separation.
+
+^^Upon thirty (30) days’ advance notice to Provider, Recipient may audit (or cause an independent third party auditor to audit), during regular business hours and in a manner that complies with the building and security requirements of Provider, the books, records and facilities of Provider pertaining to the provision of Services pursuant to this Services Agreement to the extent necessary to determine Provider’s compliance with this Services Agreement. For any given Service, Recipient shall have the right to audit such books, records and facilities of Provider once for each twelve month period during which payment obligations are due. Any audit under this Section 1.8(b) shall not interfere unreasonably with the operations of Provider. Recipient shall pay the costs of conducting such audit, unless the results of an audit reasonably indicate an overpayment by Recipient of ten percent ([[Percentage 1: Number]]%) or more (such percentage to be determined by reference to the Services which are subject to the specific audit), in which case, Provider shall pay the reasonable out-of-pocket costs of Recipient. 
+
+^^Provider shall provide Recipient, at no cost to Recipient, with customary reports concerning the performance of the Services and as Recipient otherwise reasonably requests from time to time.
+
+^**Compensation; Billing**  
+
+^^**Service Fees**. In consideration of providing the Services, Provider will charge Recipient the monthly fees or time and materials fees indicated for each Service listed on **Schedule A** (each, a “**Service Fee**” and collectively, the “**Service Fees**”). In the event that for any month there shall be an increase or decrease of the level of any Service by [[Percentage 2: Number]]% or more compared to the Initial Service Levels for any Service described on **Schedule A** for which there is a monthly fee, if any, the Service Fee for such Service shall be adjusted proportionately. 
+
+^^**Expenses**. Provider shall also be entitled to charge Recipient for its reasonable documented, out-of-pocket costs and expenses incurred by Provider in providing the Services, as more particularly provided on **Schedule A** (“**Expenses**”). 
+
+^^**Invoices**. Not later than 30 days after the end of each calendar month, Provider shall send Recipient an invoice that includes in reasonable detail the Service Fees and Expenses due for Services provided to Recipient for such month. Payments of invoices shall be made by wire transfer of immediately available United States funds to one or more accounts specified in writing by Provider. Payment shall be made within 30 days after the date of receipt of Provider’s invoice. All amounts payable to Provider hereunder shall be paid without setoff, deduction, abatement or counterclaim. 
+
+^^**Payment Delay**. If Recipient fails to make any payment of a material invoice within 60 days from the date such payment was due, Provider shall have the right, at its sole option, upon 10 business days’ written notice (a “**Suspension** **Notice**”), to suspend performance of the Services until payment has been received.
+
+^^**Finance Charges**. With respect to the unpaid amount of any invoice not paid in full within 30 days of receipt, a finance charge of [[Percentage 3: Number]]% per month, payable from the date of the invoice to the date payment is received, shall be due and payable to Provider. In addition, Recipient shall indemnify Provider for its costs, including reasonable attorneys’ fees and disbursements, incurred to collect any unpaid amount. Recipient shall not be liable for the payment of any finance charges pursuant to this Section 2.5, and Provider shall not be authorized to suspend performance pursuant to Section 2.4, to the extent, but only to the extent, that Recipient in good faith is in the process of disputing the fees or expenses to which such finance charges or performance relates in accordance with Section 13.2. 
+
+^**Cooperation and Consents**  
+
+^^**General**. Each Party shall reasonably cooperate with and provide assistance to the other Party in carrying out the provisions of this Services Agreement. Such cooperation shall include, but not be limited to, exchanging information, providing electronic systems used in connection with the Services, making adjustments and obtaining all consents, licenses, sublicenses or approvals necessary to permit each party to perform its obligations hereunder. 
+
+^^**Transition**. At the request of Recipient in contemplation of the termination of any Services hereunder, in whole or in part, Provider shall cooperate with Recipient, at Recipient’s expense, in transitioning such Services to Recipient or any third-party service provider designated by Recipient. 
+
+^^**Consents**. Provider will obtain any third-party consents necessary to enable it to provide the Services as forth on **Schedule 3.3** (the “**Consents**”), **provided** **that** Provider shall not be required to pay any consideration or incur any liability therefor. If any such consent is not obtained, the parties will reasonably cooperate with one another to achieve a reasonable alternative arrangement with respect thereto. 
+
+^**Confidentiality**  
+
+^^**Generally**. In the course of the performance of the Services, each Party may become aware of confidential and proprietary information of the other Party (“**Confidential** **Information**”). All Confidential Information disclosed by a Party during the term of this Services Agreement shall remain the property of the disclosing Party and shall be used by the receiving Party only in accordance with the provisions of this Services Agreement. 
+
+^^**Identification; Term**. (a) Except in the case of (x) information that is subject to the confidentiality provisions of Section 4.5 of the Master Separation Agreement or (y) information exchanged in furtherance of the performance of the Services hereunder that is of a type that is generally regarded by the Parties to be confidential information (such as pricing, customer and production information), to which this subsection (a) shall not apply, if disclosed in written form, Confidential Information shall be identified as Confidential Information by an appropriate legend. For a period of 5 years from the date of first receipt thereof, the receiving Party shall (i) treat all such information in the same manner as it treats its own confidential information, in any event exercising reasonable precautions to prevent the disclosure of such information to others; (ii) use such information only for the purposes set forth herein; and (iii) disclose such information only to its employees who have a need to know such information in the performance of their duties hereunder. 
+
+^^**Exceptions**. The obligations of confidential treatment under this Article 4 shall not apply to any Confidential Information which (i) is or becomes publicly known through no wrongful act, fault or negligence of the receiving Party; (ii) was known by the receiving Party prior to disclosure or is developed by the receiving Party independently of such disclosure; (iii) was disclosed to the receiving Party by a third party who was not under any obligation of confidentiality; (iv) is approved for release by written authorization of the disclosing Party; or (v) is disclosed pursuant to a requirement of law or by court order, provided that the receiving Party has provided the disclosing Party with reasonable opportunity to prevent or limit such legally required disclosure. 
+
+^^**Injunctive Relief**. Each Party acknowledges and agrees that it would be difficult to measure the damages that might result from any actual or threatened breach of this Article 4 and that such actual or threatened breach by it may result in immediate, irreparable and continuing injury to the other Party and that a remedy at law for any such actual or threatened breach may be inadequate. Accordingly, the Parties agree that the non-breaching Party, in its sole discretion and in addition to any other remedies it may have at law or in equity, shall be entitled to seek temporary, preliminary and permanent injunctive relief or other equitable relief, issued by a court of competent jurisdiction, in case of any such actual or threatened breach (without the necessity of actual injury being proved and with the necessity of posting bond). 
+
+^Intellectual Property  
+
+^^**Recipient Intellectual Property**. Except as otherwise agreed by the Parties, all data, software, or other property or assets owned or created by Recipient shall remain the sole and exclusive property and responsibility of Recipient. Provider shall not acquire any rights in any such data, software or other property or assets pursuant to this Services Agreement. 
+
+^^**Provider Intellectual Property**. Except as otherwise agreed by the Parties, all data, software or other property or assets which are owned by Provider, including without limitation derivative works thereof and new data or software created by Provider at Provider’s expense pursuant to the provision of Services and all intellectual property rights therein (the “**Provider** **Property**”), shall be the sole and exclusive property and responsibility of Provider. Recipient shall not acquire any rights in any Provider Property pursuant to this Services Agreement. 
+
+^**Remedies and Limitation of Liability**
+
+^^In the event that any Service performed by Provider hereunder is not performed in accordance with the provisions of , Recipient’s sole remedy shall be, at the election of Recipient either (i) to require Provider to re-perform such Service in accordance with  without obligation on the part of Recipient to make payment for such performance, (ii) to provide Recipient with a credit in an equivalent amount towards the future purchase of Services, as contemplated by this Services Agreement, or (iii) to require Provider to pay the cost of replacing such Services with a third-party provider, and Provider shall not be liable for any other loss or damage on account of the performance of any Service. 
+
+^^IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT, COLLATERAL, INCIDENTAL OR PUNITIVE DAMAGES OR LOST PROFITS OR FAILURE TO REALIZE EXPECTED SAVINGS OR OTHER COMMERCIAL OR ECONOMIC LOSS OF ANY KIND, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE) ARISING IN ANY WAY OUT OF THIS SERVICES AGREEMENT, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES; PROVIDED, HOWEVER, THAT THE FOREGOING LIMITATIONS SHALL NOT LIMIT EITHER PARTY’S INDEMNIFICATION OBLIGATIONS FOR LIABILITIES WITH RESPECT TO THIRD PARTY CLAIMS, AS SET FORTH IN .
+
+^^In no event, whether as a result of breach of contract, indemnity, warranty, tort (including negligence), strict liability, or otherwise, shall either Party’s liability to the other Party for any loss or damage arising out of, or resulting from, this Services Agreement or the furnishing of Services hereunder, in any month exceed three times the monthly price of the specific Service which gives rise to the claim for such month. 
+
+^**Indemnification**  
+
+^^**General**. Each Party shall indemnify and hold harmless the other Party from all claims, liabilities, damages and expenses payable to third parties arising out of or relating to (i) a breach of this Services Agreement, (ii) gross negligence, or willful misconduct, or (iii) infringement of third party intellectual property in the performance of any Service, in each case, by the indemnifying Party, except to the extent, but only to the extent, that any such claims, liabilities, damages or expenses are the result of a breach of this Services Agreement, gross negligence or willful misconduct, or infringement of third party intellectual property, on the part of the indemnified Party. 
+
+^^**Special Recipient Indemnity**. Notwithstanding anything to the contrary herein, Recipient shall indemnify and hold Provider harmless from and against (i) any tax, penalty, interest, addition to tax, tax surcharge, or other charge payable by Provider as a result of any sales, use or excise taxes levied or based on amounts payable pursuant to this Services Agreement, including privilege or excise taxes based on gross revenues under this Services Agreement or taxes on the Services rendered to Recipient, provided that Recipient shall not be responsible for any taxes levied measured by or based upon the net income of Provider; (ii) claims, liabilities, damages and expenses arising out of or relating to (a) the content of or defects in any inventory, material or other property of the Recipient, or (b) the performance of Services for or on behalf of Recipient hereunder, but only to the extent such Services have been performed in compliance with this Services Agreement or otherwise pursuant to the specific written instructions of Recipient. 
+
+^^**Indemnification Procedures**. Indemnification of Third Party Claims (as that term is defined in the Master Separation Agreement) shall be governed by the definitions and procedures set forth in Section 5.6 of the Master Separation Agreement. Indemnification for direct claims shall be governed by the procedures set forth in Section 5.7 of the Master Separation Agreement. Payment shall be made in accordance with the provision of Section 5.8 of the Master Separation Agreement. For the avoidance of doubt, the provisions of Section 5.5 of the Master Separation Agreement shall not be applicable to claims under this . 
+
+^**Excusable Delays**  
+
+Neither Party shall be held liable for any delay or failure in performance of any part of this Services Agreement by reason of any cause beyond its reasonable control, including, but not limited to, acts of God, acts of civil or military authority, government regulations, embargoes, epidemics, war, terrorist acts, riots, fires, explosions, earthquakes, nuclear accidents, floods, strikes, power blackouts affecting facilities, inability to secure products or services of other persons or transportation facilities, or acts or omissions of transportation common carriers, provided that the Party so affected shall use reasonable commercial efforts to remove such causes of non-performance. Upon the occurrence of any event of force majeure, the Party whose performance is prevented shall promptly give written notice to the other Party and the Parties shall promptly confer in good faith to agree upon reasonable action to minimize the impact of such event on the Parties. 
+
+^**Independent Contractor**  
+
+^^**Relationship**. In its performance of Services hereunder, Provider is an independent contractor to Recipient and nothing in this Services Agreement shall be deemed to make a Party a partner, principal, joint venturer, or fiduciary of the other Party. Neither Provider nor any persons performing any Service on Provider’s behalf shall be deemed to be employees, agents or legal representatives of Recipient. Nothing in this Services Agreement shall confer authority upon any Party to enter into any commitment or agreement binding upon the other Party. 
+
+^^**No Assumption of Obligations**. Nothing in this Services Agreement shall be construed as an assumption by Provider of any financial obligation of Recipient. 
+
+^^**Compensation of Employees**. Provider shall be responsible for payment of compensation to its employees and shall be responsible for payment of all federal, state and local taxes or contributions imposed or required under unemployment insurance, social security and income tax laws with respect to such persons. 
+
+^**Compliance With Laws**  
+
+In the performance of its duties and obligations under this Services Agreement, each Party shall comply with all applicable laws. The Parties shall cooperate fully in obtaining and maintaining in effect all permits and licenses that may be required for the performance of the Services. 
+
+^**Term and Termination**  
+
+^^**Term**. The term of this Services Agreement shall commence on the Effective Date and end on the eighteen (18) month anniversary of the Distribution Date (as defined in the Master Separation Agreement), unless terminated earlier in whole or in part as provided in Section 11.3. 
+
+^^[Intentionally omitted.]   
+
+^^**Termination of this Services Agreement**. This Services Agreement may be terminated: 
+
+^^By written agreement of the Parties; 
+
+^^By Provider in the event an unpaid invoice resulting in delivery to Recipient of a Suspension Notice under Section 2.4 is not satisfied within sixty (60) days of the date of delivery of such notice; 
+
+^^By either Party upon a material breach (other than non-payment of Services Fees or Expenses) by the other that is not cured within thirty (30) days after written notice of such breach from the non-breaching Party, except that where such breach is not capable of being cured within 30 days, the breaching Party shall be accorded thirty (30) additional days to cure such breach if it demonstrates that it is capable of curing such breach within such additional period; 
+
+^^Upon thirty (30) days’ advance written notice by either Party to the other where one Party: (i) commences a voluntary case or other proceeding seeking liquidation, reorganization, or similar relief or seeks the appointment of a trustee, receiver, liquidator or other similar official of it or the taking of possession by any such official in any involuntary case or other proceeding commenced against it, or makes a general assignment for the benefit of creditors, or fails generally to pay its debts as they become due; or (ii) has an involuntary case or other proceeding commenced against it seeking liquidation, reorganization or other relief with respect to it or substantially all of its debts or seeks the appointment of a trustee, receiver, liquidator, custodian or other similar official for such Party or any substantial part of its property, and such involuntary case or other proceeding remains undismissed for a period of sixty (60) days; or 
+
+^^Except as may otherwise be set forth on **Schedule A**, by Recipient upon not less than thirty (30) days’ advance written notice, with respect to all or any part of any Service provided pursuant to this Services Agreement; **provided** **that** neither this Services Agreement nor any Service to performed by Provider hereunder may be terminated earlier than ninety (90) days after the Distribution Date; and **provided** **further** that to the extent there are any break-up costs (including commitments made to or in respect of personnel or third parties due to the requirement to provide the Services and prepaid expenses related to the Services, or costs related to terminating such commitments) incurred by Provider as a result of such termination, Recipient shall be solely responsible for such costs. This Section 11.3(e) shall not limit the application of Section 1.3. 
+
+^^**Effect**. In the event of termination of this Services Agreement in its entirety pursuant to this  or upon the expiration of the term (as the same may be extended pursuant to Section 11.2), this Services Agreement shall cease to have further force or effect and neither Party shall have any liability to the other Party with respect to this Services Agreement, provided that: 
+
+^^Termination or expiration of this Services Agreement for any reason shall not release a Party from any liability or obligation which already has accrued as of the effective date of such termination or expiration, and shall not constitute a waiver or release of, or otherwise be deemed to adversely affect, any rights, remedies or claims, which a Party may have hereunder at law, equity or otherwise or which may arise out of or in connection with such termination or expiration. 
+
+^^As promptly as practicable following termination of this Services Agreement in its entirety or with respect to any Service to the extent applicable, and the payment by Recipient of all amounts owing hereunder, Provider shall return all reasonably available material, inventory and other property of Recipient held by Provider and shall deliver copies of all of Recipient’s records maintained by Provider with regard to the Services in Provider’s standard format and media. Provider shall deliver such property and records to such location or locations as reasonably requested by Recipient. Provider shall be responsible for the packing and preparation for shipping of all such material, inventory and other property. Arrangements for shipping, including the cost of freight and insurance, and the reasonable cost of packing incurred by Provider shall be the responsibility of and shall be paid by Recipient. 
+
+^^, **, ****, ****, ****, ****, ** and **** and this Section 11.4 shall survive any termination or expiration of this Services Agreement and remain in full force and effect. 
+
+^**Notices**  
+
+All notices, demands and other communications required to be given to a Party hereunder shall be in writing and shall be deemed to have been duly given if personally delivered, sent by a nationally recognized overnight courier, transmitted by facsimile, or mailed by registered or certified mail (postage prepaid, return receipt requested) to such Party at the relevant street address, facsimile number or e-mail address set forth below (or at such other street address, facsimile number or e-mail address as such Party may designate from time to time by written notice in accordance with this provision): 
+
+If to Provider, to:
+
+[[Provider]]
+[[Address 1: Address]]-2120
+Attention: Dr. Lior E. Yahalomi, Chief Financial Officer
+Telephone: [[Phone 1]]
+Facsimile: [[Phone 2]]
+
+with a copy to:
+
+Kramer Levin Naftalis & Frankel LLP
+[[Address 2: Address]]
+Attention: Abbe L. Dienstag, Esq.
+Telephone: [[Phone 3]]
+Facsimile: [[Phone 4]]
+
+If to Recipient, to:
+
+[[Recipient]], Inc.
+[[Address 3: Address]]-1307
+Attention: William M. Clancy, Chief Financial Officer
+Telephone: [[Phone 5]]
+Facsimile: [[Phone 5]]
+
+with a copy to:
+
+Pepper Hamilton LLP
+[[Address 4: Address]]-2799
+Attention: [[Address 5: Address]], Esq.
+Telephone: [[Phone 6]]
+Facsimile: [[Phone 7]]
+
+Any notice, demand or other communication hereunder shall be deemed given upon the first to occur of: (i) the fifth (5th) day after deposit thereof, postage prepaid and addressed correctly, in a receptacle under the control of the United States Postal Service; (ii) transmittal by facsimile transmission to a receiver or other device under the control of the party to whom notice is being given; or (iii) actual delivery to or receipt by the party to whom notice is being given or an employee or agent thereof. 
+
+^**Governing Law and Dispute Resolution**
+
+^^**Governing Law**. This Services Agreement and the legal relations between the parties hereto shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflict of laws rules thereof to the extent such rules would require the application of the law of another jurisdiction. 
+
+^^**Dispute Resolution**. The procedures for discussion and negotiation set forth in this Section 13.2 shall apply to all disputes, controversies or claims (whether arising in contract, tort or otherwise) (each, a “**Dispute**”) that may arise out of or relate to, or arise under or in connection with this Services Agreement or the transactions contemplated hereby.
+
+^^It is the intent of the Parties to use their respective reasonable best efforts to resolve expeditiously any Dispute between them with respect to the matters covered hereby that may arise from time to time on a mutually acceptable negotiated basis. In furtherance of the foregoing, if a Dispute arises, the respective Party Representatives shall consider the Dispute for up to seven (7) business days following receipt of a notice from either Party specifying the nature of the Dispute, during which time the Party Representatives shall meet in person at least once, and attempt to resolve the Dispute.
+
+^^If the Dispute is not resolved by the end of the seven (7) day period referred to in Section 13.2(a), or if the Party Representatives agree that the Dispute can not be resolved by them, either Party may deliver a notice (an “**Escalation Notice**”) demanding an in-person meeting involving appropriate representatives of the Parties at a senior level of management of the Parties (or if the Parties agree, of the appropriate strategic business unit or division within such entity) (collectively, “**Senior Executives**”). Thereupon, each of the Party Representatives shall promptly prepare a memorandum stating (i) the issues in Dispute and each Party’s position thereon, (ii) a summary of the evidence and arguments supporting each Party’s positions (attaching all relevant documents), (iii) a summary of the negotiations that have taken place to date, and (iv) the name and title of the Senior Executive who shall represent each Party. The Party Representatives shall each deliver such memorandum to its respective Senior Executive promptly upon receipt of such memorandum from the other Party Representative. The Senior Executives shall meet for negotiations (which may be held telephonically) at a mutually agreed time and place within ten (10) days of the Escalation Notice, and thereafter as often as the Senior Executives deem reasonably necessary to resolve the Dispute. 
+
+^^In the event that the Parties, after complying with the provisions set forth in **Sections 13.2(a)** and **13.2(b)**, are unable to resolve a Dispute that arises out of or relates to, arises under or in connection with this Services Agreement or the transactions contemplated hereby, the Parties shall resolve such Dispute in accordance with the provisions set forth in  of the Master Separation Agreement. 
+
+^**Miscellaneous**  
+
+^^**Amendment**. No provisions of this Services Agreement shall be amended, modified or supplemented by any Party, unless such amendment, supplement or modification is in writing and signed by the authorized representative of the Party against whom it is sought to enforce such amendment, supplement or modification. 
+
+^^**Waiver**.  
+
+^^Any term or provision of this Services Agreement may be waived, or the time for its performance may be extended, by the Party or the Parties entitled to the benefit thereof. Any such waiver shall be validly and sufficiently given for the purposes of this Services Agreement if, as to any Party, it is in writing signed by an authorized representative of such Party. 
+
+^^Waiver by any Party of any default by the other Party of any provision of this Services Agreement shall not be construed to be a waiver by the waiving party of any subsequent or other default, nor shall it in any way affect the validity of this Services Agreement or any Party or prejudice the rights of the other Party thereafter to enforce each and ever such provision. No failure or delay by any Party in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. 
+
+^^**Assignability**. This Services Agreement shall be binding upon and inure to the benefit of the Parties, and their respective successors and permitted assigns; **provided**, **however**, that no Party may assign, delegate or transfer (by merger, operation of law or otherwise) its respective rights or delegate its respective obligations under this Services Agreement without the express prior written consent of the other Party. Notwithstanding the foregoing, either Party may assign its rights and obligations under this Services Agreement to any Wholly-owned Subsidiary; **provided**, **however**, that each Party shall at all times remain liable for the performance of its obligations under this Services Agreement by any such Wholly-owned Subsidiary. Any attempted assignment or delegation in violation of this Section 14.3 shall be void. For purposes of this Services Agreement, “**Wholly-owned Subsidiary**” of a Party means a Subsidiary of that Party substantially all of whose voting securities and outstanding equity interest are owned either directly or indirectly by such Party or one or more of its Subsidiaries or by such Party and one or more of its Subsidiaries. 
+
+^^**No Subcontracting**. Unless otherwise agreed by Recipient, which agreement shall not unreasonably be withheld, and except as provided in Section 1.4, Provider may not subcontract the performances of any Services hereunder. 
+
+^^**Third Parties**. Except for the indemnification rights under this Services Agreement of any Party in their respective capacities as such: (i) the provisions of this Services Agreement are solely for the benefit of the Parties and their respective successors and permitted assigns, and are not intended to confer upon any person, except the Parties and their respective successors and permitted assigns, any rights or remedies hereunder; (ii) there are no third party beneficiaries of this Services Agreement; and (iii) this Services Agreement shall not provide any third party with any remedy, claim, liability, reimbursement, claim of action or other right in excess of those existing without reference to this Services Agreement. 
+
+^^**Severability**. If any provision of this Services Agreement or the application thereof to any person or circumstance is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof, or the application of such provision to persons or circumstances or in jurisdictions other than those as to which it has been held invalid or unenforceable, shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner adverse to any Party. Upon such determination, the Parties shall negotiate in good faith in an effort to agree upon such a suitable and equitable provision to effect the original intent of the Parties. 
+
+^^**Attorneys’ Fees**. In any action hereunder to enforce the provisions of this Services Agreement, the prevailing Party shall be entitled to recover its reasonable attorneys’ fees in addition to any other recovery hereunder. 
+
+^^**Counterparts**. This Services Agreement may be executed in one or more counterparts, each of which when so executed and delivered or transmitted by facsimile, e-mail or other electronic means, shall be deemed to be an original and all of which taken together shall constitute but one and the same instrument. A facsimile or electronic signature is deemed an original signature for all purposes under this Services Agreement. 
+
+^^**DISCLAIMER OF REPRESENTATIONS AND WARRANTIES**. EXCEPT FOR THE REPRESENTATIONS, WARRANTIES AND COVENANTS EXPRESSLY MADE IN THIS SERVICES AGREEMENT, PROVIDER HAS NOT MADE AND DOES NOT HEREBY MAKE ANY EXPRESS OR IMPLIED REPRESENTATIONS, WARRANTIES OR COVENANTS, STATUTORY OR OTHERWISE, OF ANY NATURE, INCLUDING WITH RESPECT TO THE WARRANTIES OF MERCHANTABILITY, QUALITY, QUANTITY, SUITABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THE RESULTS OBTAINED OF THE CONTINUING BUSINESS. ALL OTHER REPRESENTATIONS, WARRANTIES, AND COVENANTS, EXPRESS OR IMPLIED, STATUTORY, COMMON LAW OR OTHERWISE, OF ANY NATURE, INCLUDING WITH RESPECT TO THE WARRANTIES OF MERCHANTABILITY, QUALITY, QUANTITY, SUITABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THE RESULTS OBTAINED OF THE CONTINUING BUSINESS ARE HEREBY DISCLAIMED BY PROVIDER. 
+
+^^**Remedies**. The rights and remedies provided herein shall be cumulative and not exclusive of any rights or remedies provided by law. 
+
+^^**Specific Performance**. The Parties agree that the remedy at law for any breach of this Services Agreement may be inadequate, and that, as between Provider and Recipient, any Party by whom this Services Agreement is enforceable shall be entitled to specific performance in addition to any other appropriate relief or remedy. Such Party may, in its sole discretion, apply to a court of competent jurisdiction for specific performance or injunctive or such other relief as such court may deem just and proper in order to enforce this Services Agreement as between Provider and Recipient, or prevent any violation hereof, and, to the extent permitted by applicable law, as between Provider and Recipient, each Party waives any objection to the imposition of such relief. 
+
+^^**Consent to Jurisdiction**. Subject to the provisions of Section 13.2, each of the Parties irrevocably submits to the jurisdiction of the federal and state courts located in Philadelphia, Pennsylvania and the City of New York, Borough of Manhattan for the purposes of any suit, action or other proceeding to compel arbitration, for the enforcement of any arbitration award or for specific performance or other equitable relief pursuant to Section 14.11 Each of the Parties further agrees that service of process, summons or other document by U.S. registered mail to such parties address as provided in  shall be effective service of process for any action, suit or other proceeding with respect to any matters for which it has submitted to jurisdiction pursuant to this Section 14.12. Each of the Parties irrevocably waives any objection to venue in the federal and state courts located in Philadelphia, Pennsylvania and the City of New York, Borough of Manhattan of any action, suit or proceeding arising out of this Services Agreement or the transactions contemplated hereby for which it has submitted to jurisdiction pursuant to this Section 14.12, and waives any claim that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum. 
+
+^^**Waiver of jury trial**. Subject to Section 13.2 and Section 14.11, each of the Parties hereby waives to the fullest extent permitted by applicable law any right it may have to a trial by jury with respect to any court proceeding directly or indirectly arising out of and permitted under or in connection with this agreement or the transactions contemplated by this agreement. Each of the Parties hereby (a) certifies that no representative, agent or attorney of any other Party has represented, expressly or otherwise, that such other Party would not, in the event of litigation, seek to enforce the foregoing waiver and (b) acknowledges that it has been induced to enter into this agreement and the transactions contemplated by this agreement, as applicable, by, among other things, the mutual waivers and certifications in this Section 14.13. 
+
+^^**Nonrecurring Costs and Expenses**. Notwithstanding anything herein to the contrary, any nonrecurring costs and expenses incurred by the Parties to effect the transactions contemplated hereby which are not allocated pursuant to the terms of this Agreement shall be the responsibility of the Party which incurs such costs and expenses. 
+
+^^**Press Releases; Public Announcements**. Neither Party shall issue any release or make any other public announcement concerning this Agreement or the transactions contemplated hereby without the prior written approval of the other Party, which approval shall not be unreasonably withheld, delayed or conditioned; **provided**, **however**, that either Party shall be permitted to make any release or public announcement that in the opinion of its counsel it is required to make by law or the rules of any national securities exchange of which its securities are listed; **provided** **further** that it has made efforts that are reasonable in the circumstances to obtain the prior approval of the other Party. 
+
+^^**Construction**. Any uncertainty or ambiguity with respect to any provision of this Agreement shall not be construed for or against any party based on attribution of drafting by either party. The headings contained herein are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement. In this Agreement, unless a clear contrary intention appears: 
+
+^^the singular number includes the plural number and vice versa; 
+
+^^reference to any Person includes such Person’s successors and assigns but, if applicable, only if such successors and assigns are not prohibited by this Agreement, and reference to a Person in a particular capacity excludes such Person in any other capacity or individually; 
+
+^^reference to any gender includes each other gender; 
+
+^^reference to any agreement, document or instrument means such agreement, document or instrument as amended, modified, supplemented or restated, and in effect from time to time in accordance with the terms thereof subject to compliance with the requirements set forth herein; 
+
+^^reference to any applicable law means such applicable law as amended, modified, codified, replaced or reenacted, in whole or in part, and in effect from time to time, including rules and regulations promulgated thereunder, and reference to any section or other provision of any applicable law means that provision of such applicable law from time to time in effect and constituting the substantive amendment, modification, codification, replacement or reenactment of such section or other provision; 
+
+^^“herein,” “hereby,” “hereunder,” “hereof,” “hereto” and words of similar import shall be deemed references to this Agreement as a whole and not to any particular article, section or other provision hereof; 
+
+^^“including” (and with correlative meaning “include”) means including without limiting the generality of any description preceding such term; 
+
+^^the Table of Contents and headings are for convenience of reference only and shall not affect the construction or interpretation hereof or thereof; 
+
+^^with respect to the determination of any period of time, “from” means “from and including” and “to” means “to but excluding;” and 
+
+^^references to documents, instruments or agreements shall be deemed to refer as well to all addenda, exhibits, schedules or amendments thereto. 
+
+^^**Entire Agreement**. This Services Agreement and the Schedules hereto, as well as any other agreements and documents referred to herein, constitute the entire agreement between the Parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, understandings, writings, commitments and conversations between the Parties with respect to such subject matter. No agreements or understandings exist between the Parties other than those set forth or referred to herein. 
+
+\centered {Signatures appear on the following page}
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Amended and Restated Transition Services Agreement to be executed by their duly authorized officers or representatives as of the date first written above. 
+
+[[Provider]]
+
+[[Provider Signatory Email: Identity | Signature]]
+__________________________________________
+{{Provider Entity => By: [[Provider Signatory First Name]] [[Provider Signatory Last Name]]
+Title: [[Provider Signatory Title]]}}
+
+
+[[Recipient]], INC.
+
+[[Recipient INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Recipient INC. Entity => By: [[Recipient INC. Signatory First Name]] [[Recipient INC. Signatory Last Name]]
+Title: [[Recipient INC. Signatory Title]]}}
+
+
+\centered **SCHEDULE A TO** **TRANSITION SERVICES AGREEMENT**
+
+This Schedule A is comprised of Schedule A-1, Schedule A-2 and Schedule A-3. The Services to be provided by Provider under Schedule A-1 are referred to generally as the Corporate Website Services, the EDI Services and the Partners Services. The Services to be provided by Provider under Schedule A-2 are referred to generally as the SAP Services. The Services to be provided by Provider under Schedule A-3 are referred to generally as the Finance Support Services. In accordance with the Services Agreement, the Services to be provided hereunder will be provided by Provider through its Subsidiaries and their respective employees, agents or contractors. Capitalized terms used but not defined herein have the meaning given to them in that certain Transition Services Agreement, dated the [[Date 1]], by and between [[Provider]], as Provider, and [[Recipient]], Inc., as Recipient (the “Services Agreement”). 
+
+For the avoidance of doubt, any migration services, whether based on a change of provider, a change of application or otherwise, are considered additional services, the terms of which shall be negotiated in good faith by Provider and Recipient; **provided** **that** Provider shall not be required to perform such migration services, except to the extent that it has available resources and receives compensation acceptable in its reasonable discretion. 
+
+[[Recipient]], Inc., as Recipient may terminate any Service under this Schedule A by giving [[Provider]], as Provider, at least (30) days’ advance written notice. The parties do not anticipate total payments under the Transition Services Agreement and this Schedule A to exceed $[[USD Value 1: Number]] in the first twelve months or $[[USD Value 2: Number]] in the aggregate. 
+
+**Schedule A-1** 
+
+\centered **IT SUPPORT SERVICES FOR CORPORATE WEBSITE, EDI AND PARTNERS**
+
+^**Terms and IT services provided by Vishay Global Web Services**
+
+^**Transition Services for Corporate Website**
+
+^^The subject “Corporate Website” comprises the relevant web applications and components of the Provider’s website which are applicable to the business units transferred to Recipient.
+
+^^Provider will only provide support for website components and applications developed by Provider IT.
+
+^^Provider will not be responsible to support any modification/enhancement performed by or on behalf of Recipient any time after execution of the Services Agreement.
+
+^^Provider will provide Corporate Website support services (“Corporate Website Services”) for a period, not to exceed 18 months, starting on the Distribution Date, subject to extension on the terms set forth in the Services Agreement. Upon expiration or termination of the Services Agreement, all support for the website and related programs will be the sole responsibility of Recipient.
+
+^^The Corporate Website Services cover 80 man-hours per month of maintenance support to include non-core modifications and software bug corrections, constituting the Initial Service Level with respect to the Corporate Website Services. Provider IT will allocate proper programmer resources for the website components turned over to Recipient. Unused hours from the previous month will not be carried over to the succeeding month. In the event the Initial Service Level (i.e. the budgeted 80 man-hours) is exceeded, Recipient will be charged on a time and material basis at the Standard Support Rate set forth in Section III.4 of this Schedule A-1.
+
+^^All of Provider’s website custom programs and applications are proprietary to Provider and are provided to Recipient for Recipient’s use only. Recipient will not copy these programs and will not provide any copy to any third party, unless it is needed to support Recipient’s operation as it and approved in advance in writing by Provider.
+
+\centered 3 of 25
+
+^**Transition Services for EDI Services**
+
+^^The subject “EDI Services” comprises the electronic data interchange services for FOILS sales operation on Recipient’s SAP system hosted in Malvern.
+
+^^The EDI Services will include operational support, setup of new customers on EDI, and setup of new EDI message types.
+
+^^The EDI Services will not include, and Provider will not be responsible to support, any modification or enhancement performed by or on behalf of Recipient any time after execution of the Services Agreement.
+
+^^Provider will provide EDI Services for a period not to exceed 18 months, starting on the Distribution Date, subject to extension on the terms set forth in the Services Agreement. Upon expiration or termination of the Services Agreement, all support for the EDI infrastructure and related programs will be the sole responsibility of Recipient.
+
+^^The EDI Services cover 40 man-hours per month of maintenance support to include non-core modifications and software bug corrections, constituting the Initial Service Level with respect to the EDI Services. Provider IT will allocate proper programmer resources. Unused hours from the previous month will not be carried over to the succeeding month. In the event the Initial Service Level (i.e. the budgeted 40 man-hours) is exceeded, Recipient will be charged on a time and material basis at the Standard Support Rate set forth in Section III.4 of this Schedule A-1.
+
+^**Transition Services for Partners Services**
+
+^^The subject “Partners” comprises the web SAP-based Internet Transaction Services for FOILS sales operation on the Recipient’s SAP system hosted in Malvern. “Internet Transaction Services” means SAP’s method of extending business applications to a web browser.
+
+^^Provider will provide operational support for the seven transactions currently available in Partners (the “Partners Services”). Addition of new transactions other that the seven currently available in Partners is not covered in this Schedule A.
+
+^^The Partners Services will not include, and Provider will not be responsible to support, any modification or enhancement performed by or on behalf of Recipient any time after execution of the Services Agreement. In addition, the
+
+\centered 4 of 25
+
+Partners Services will not include the setup, migration, or preparation for any similar Partners implementation other than the interface with Recipient’s SAP system.
+
+^^Provider will provide Partners Services for a period not to exceed 18 months, starting on the Distribution Date, subject to extension on the terms set forth in the Services Agreement. Upon expiration or termination of the Services Agreement, all support for the Partners infrastructure and related programs will be the sole responsibility of Recipient.
+
+^^The Partners Services cover 40 man-hours per month of maintenance support to include non-core modifications and software bug corrections, constituting the Initial Service Level with respect to the Partners Services. Provider IT will allocate proper programmer resources. Unused hours from the previous month will not be carried over to the succeeding month. In the event the Initial Service Level (i.e. the budgeted 40 man-hours) is exceeded, Recipient will be charged on a time-and-material basis at the Standard Support Rate set forth in Section III.4 of this Schedule A-1.
+
+^^^**Recipient’s Responsibilities**
+
+^^Recipient Marcom will be responsible for concept and content of the Recipient’s website.
+
+^^Recipient, at its sole cost and expense, shall be responsible for the registration and subsequent renewal of its website and Partners domain.
+
+^^Recipient agrees to adopt a key user support community concept, where all issues are first escalated to the assigned Recipient key user for verification and resolution.
+
+^^Recipient at its sole cost and expense, shall be responsible for all operating expenses associated with the operation of all the systems, including but not limited to, hardware maintenance, software maintenance, communication lines, VAN services and usage charges for EDI mailbox , annual license fees where applicable, system supplies etc. This includes the operating expenses during the system setup and testing period after execution of the Services Agreement.
+
+^^Recipient, at its sole cost and expense, shall be responsible for providing necessary secured network access, whether on-site or remote access, to allow Provider to perform the services set forth herein.
+
+\centered 5 of 25
+
+^^^**Services Fees and Costs**
+
+^**Corporate Website Services**
+
+USD 4,000 per month for the Corporate Website Services plus any out of pocket expenses for licenses, equipment, hardware, IT infrastructure additions to support additional hardware at Recipient, transportation of hardware to Recipient sites, and travel-related costs (if required for Provider personnel to travel) if not already paid for directly by Recipient.
+
+^**EDI Services**
+
+USD 3,200 per month for EDI Services plus any out of pocket expenses for licenses, equipment, hardware, IT infrastructure additions to support additional hardware at Recipient, transportation of hardware to Recipient sites, and travel-related costs (if required for Provider personnel to travel) if not already paid for directly by Recipient.
+
+^**Partners Services**
+
+USD 3,200 per month for Partners Services plus any out of pocket expenses for licenses, equipment, hardware, IT infrastructure additions to support additional hardware at Recipient, transportation of hardware to Recipient sites, and travel-related costs (if required for Provider personnel to travel) if not already paid for directly by Recipient.
+
+^**Hourly Support Rates**
+
+Standard Website Support Rate – USD 50/hour
+Standard EDI/Partners Support Rate – USD 80/hour
+The Standard Website Support Rate applies to hours exceeding the Initial Service Level for Corporate Website Services as outlined in III.1.
+
+The Standard EDI/Partners Support Rate applies to hours exceeding the Initial Service Level for EDI Services and Partners Services as outlined in III.2 and III.3 of this Schedule A-1, respectively.
+
+\centered 6 of 25
+
+**Schedule A-2** 
+
+\centered **IT SUPPORT SERVICES FOR SAP SYSTEMS AND APPLICATIONS**
+
+^**Terms and IT services provided by Vishay Global Business Applications Services**
+
+^**Transition Services for FOILS Sales operation on SAP**
+
+^^Provider will provide operating and application maintenance support, including non-core modifications and bug fixes for FOILS sales operation on SAP system/client co-hosted on the platform (all such support, the “SAP Services”). Operational functions within the SAP Services include:
+
+^^^Order Management (three selling companies),
+
+^^^Shipping (three selling companies),
+
+^^^Invoicing (three selling companies),
+
+^^^Finished Goods Inventory Management (one manufacturing company),
+
+^^^Accounts Receivable (three selling companies),
+
+^^^General Ledger (three selling companies), and
+
+^^^Warehousing,
+
+as implemented as of the Distribution Date.
+
+^^The SAP Services will be provided during 8 work-hours on 5 work-days EST for routine work. Emergencies will be attended 24 hours per day, 7 days a week, on a reasonable best efforts basis.
+
+^^The SAP Services cover 160 man-hours per month starting from the Distribution Date. Provider IT will allocate the respective qualified resources for the services, constituting the Initial Service Level with respect to the SAP Services. Unused hours from the previous month will not be carried over to the succeeding month. In the event the Initial Service Level (i.e. the budgeted 160 man-hours) is exceeded, Recipient will be charged on a time and material basis at the Standard Support Rate set forth in Section III.2 of this Schedule A-2.
+
+^^Any additional out of pocket costs incurred by providing the SAP Services will be charged to Recipient. Any costs expected to be above 1000 USD will be sent to Recipient for approval before. Provider assumes no responsibility for service failures due to delayed approvals or rejections.
+
+^^Provider will provide the SAP Services for a period, not to exceed 18 months, starting from the Distribution Date, subject to extension on the terms set forth in the
+
+\centered 7 of 25
+
+Services Agreement. Upon expiration or termination of the Services Agreement, Provider will stop all SAP services.
+
+^^Provider will hand over all business data to Recipient in electronic data files within no later than one week after expiration or termination of the Service Agreement. Recipient shall specify to Provider in writing the business data to be archived within 90 days prior to expiration or termination of the Services Agreement, whichever comes first. In the event Recipient does not so specify the business data to be archived within such 90-day period, Recipient may alternatively receive upon request a complete database copy of the applications listed in Section I.1.g of this Schedule A-2.
+
+^^The application hosting will include a productive and a test environment on non-mirrored IBM servers (ERP instances) and HP servers (warehouse instances) in Vishay corporate datacenter. Backup will be done daily. Service level parameters are:
+
+^^^Annual Uptime: [[Percentage 4: Number]]%
+
+^^^Recovery Time Objective (RTO): 5 work days
+
+^^^Recovery Point Objective (RPO): 24 hours
+
+^^^**Recipient’s Responsibilities**
+
+^^Provider will be able to use its own licenses to operate the SAP systems for FOILS. Recipient will pay the respective license depreciation and maintenance costs on a per user basis. Any additional costs that should be incurred by such a solution will also be charged to Recipient.
+
+^^Recipient will pay any costs for additional third party software that is used for the FOILS interim system. This may include, but is not limited to, the WSW Speedi consignment package.
+
+^^Recipient will provide the specification of the business data to be archived to Provider three months before expiration or termination of the Services Agreement. The specification has to list the required business objects and record formats.
+
+^^^**Services Fees and Costs**
+
+^**SAP Services**
+
+^^USD 8,000.00 per month for the SAP Services outlined in Section I.1.a.-b of this Schedule A-2.
+
+\centered 8 of 25
+
+^^USD 7,400.00 per month for the SAP Services outlined in Section I.1.g of this Schedule A-2.
+
+^^Any time and material and out of pocket expenses as outlined in Section I.1.c.-f of this Schedule A-2.
+
+^^USD 47.00 per month for each active user in FOILS interim system on the first day of such month. Any third party licensing and maintenance costs as outlined in II.a.-b
+
+^**Hourly Support Rates**
+
+^^Standard Support Rate: USD 50/hour
+For purposes of this Schedule A-2, the Standard Support Rate applies to hours exceeding the Initial Service Level for the SAP Services
+
+^^Development support rate USD 80/hour
+The development support rate applies to any development not covered by Section Section I.1.a of this Schedule A-2. This includes but is not limited to any major application change requests, the migration support to another system within the Provider during the term of the Services Agreement, and the archiving of the business data created in the FOILS interim system.
+
+\centered 9 of 25
+
+**Schedule A-3** 
+
+\centered **FINANCE SUPPORT SERVICES**
+
+^**Terms and Finance Support Services to be Provided**
+
+^**Finance Support Services**
+
+^^This Schedule A-3 refers to the provision of finance and accounting support from Provider to support the closing of SAP Foil for the VPG four selling entities located in US, Germany, Israel and Japan (the “Selling Entities”). Provider personnel will sit with the Recipient personnel and assist Recipient in closing the books for the new companies and in recording all accounts and transactions in SAP and otherwise will provide additional financial and accounting support services as may be reasonably requested by the Selling Entities (the “Finance Support Services”).
+
+^^Provider will provide Finance Support Services to the Recipient until the books of the Selling Entities have been closed for the second quarter ending after the Distribution Date.
+
+^^^**Services Fees and Costs :**
+Provider will provide the Finance Support Services at an average of $[[USD Value 4: Number]] per hour per person, $[[USD Value 5: Number]] per person for each half-day (i.e. each 4-hour increment) and $[[USD Value 6: Number]] per person for each full day (i.e. each 8-hour increment), in each case, based upon such person receiving $[[USD Value 3: Number]] in annual compensation, working 200 calendar days per year, or as the parties may otherwise agree. Recipient will reimburse Provider for reasonable business travel expenses incurred by Provider and its personnel in connection with the provision of the Finance Support Services.
+
+\centered 10 of 25

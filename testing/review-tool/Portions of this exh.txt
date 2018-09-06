@@ -1,0 +1,156 @@
+\centered **Portions of this exhibit were omitted and filed separately with the Secretary of the Securities and Exchange Commission pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934. Such portions are marked by [***].** 
+
+\centered **PATENT LICENSE AGREEMENT** 
+
+This non-exclusive Patent License Agreement (“**Agreement**”) is entered into as of [[Date 1: Date]] (the “**Effective Date**”), by and between [[Licensor]], a [[Location 1 "Company type and jurisdiction or Residence location of Individual"]] (“**Licensor**”), and [[Licensee]], Inc. a [[Location 2 "Company type and jurisdiction or Residence location of Individual"]] ("**Licensee**"). 
+
+\centered **RECITALS**: 
+
+WHEREAS, Licensor is the assignee of record to United States Patent No. RE39,660; and 
+
+WHEREAS, in order to effect and consummate the separation (the “**Separation**”) contemplated by that certain Master Separation and Distribution Agreement between Licensee and Licensor’s affiliate dated [[Date 2: Date]] (the “**Master Separation Agreement**”), Licensee desires to secure a non-exclusive license under the Licensed Patent (as defined herein) to manufacture, use and sell Licensed Products (as defined herein) worldwide. 
+
+NOW, THEREFORE, in consideration of the terms and provisions of this Agreement and the Separation, and for other good and valuable consideration, the receipt and sufficiency of which is acknowledged by the execution and delivery hereof, Licensor and Licensee hereby agree as follows:
+
+^**Definitions**.
+
+^^“**Licensed Patent**” shall mean United States Patent No. RE39,660 and any reissues, reexaminations, divisionals, continuations, continuations-in-part, extensions, foreign counterparts and any other patents or patent applications claiming priority to any application in the family of filings leading to the issuance of United States Patent No. RE39,660.
+
+^^“**Licensed Products**” shall mean articles or assemblies listed on **Schedule A**, as it may be amended from time to time in accordance with the terms of this Agreement. 
+
+^**License Grant**. Subject to the terms and conditions set forth in this Agreement, Licensor hereby grants to Licensee, a non-exclusive, royalty-free, worldwide right and license under the Licensed Patent to make, have made, use, sell, offer for sale, export and import Licensed Products.
+
+^**Term**. This Agreement shall commence on the Effective Date, and, so long as this Agreement has not been terminated by its terms, continue in full force and effect until the expiration date of the last to expire patent in the family of the Licensed Patent.
+
+^**Sublicensing**. The license shall be sublicenseable to direct or indirect wholly-owned subsidiaries of Licensee, provided that Licensee shall be responsible for the compliance by its subsidiaries with the terms of this Agreement. Otherwise, the license shall be non-assignable and non-sublicensable. Any purported license or assignment in violation of this Agreement shall be void.
+
+^**Maintenance**. Licensor may in its sole discretion cease the maintenance of any Licensed
+
+Patent; **provided**, **however**, that if Licensor elects not to pay a maintenance fee on the Licensed Patent, it will provide written notice to that effect to Licensee at least three months before due date of the next maintenance fee payment thereon, and thereafter, Licensee may elect to pay the maintenance fee.
+
+^**Patent Marking**. All Licensed Products shall be marked with and display the number of the United States Licensed Patent as described in 35 U.S.C. § 287(a).
+
+^**Enforcement**. Licensee shall, at its own reasonable expense, cooperate fully and promptly with Licensor in the protection of Licensor’s rights in the Licensed Patent, in such manner and to such extent as Licensor may reasonably request.
+
+Each party shall promptly notify the other party in writing of any actual or potential infringement, or any other unauthorized use of or violation of the Licensed Patent of which it becomes aware (each an “**Infringement**”). Licensor may take such action as it, in its sole discretion, deems necessary or advisable to stop any Infringement. Licensee may request in writing that Licensor institute an action to stop an Infringement affecting the Licensed Products. If Licensor receives such a written request and does not institute such action within thirty (30) days, Licensee shall be entitled to institute such action as it deems necessary or advisable to stop such Infringement, in which Licensor shall be entitled to join; **provided** that Licensee shall not compromise or settle any claim or action regarding the Licensed Patent in any manner that would affect the rights of Licensor without the written consent of Licensor, which consent shall not be unreasonably withheld. The party not taking the lead in any action shall cooperate fully with the other party at the other party’s reasonable request and expense, including Licensor joining a suit instituted by Licensee in accordance with this section to the extent necessary for Licensee to have standing.
+
+Any monetary recovery or sums obtained in settlement of any action to stop an Infringement shall be allocated between Licensor and Licensee as shall be fair and equitable, taking into account their actual out-of-pocket costs and expenses, including reasonable attorneys’ fees, and the damages sustained by each of them. Any dispute with respect to the allocation of recoveries shall be resolved in accordance with the resolution procedures referred to in **Section 11(p)**.
+
+^**Warranties of the Parties**. Licensor warrants that it has the right and power to enter into this Agreement, and that there are no outstanding assignments, grants, licenses, encumbrances, obligations or agreements, either written or oral or implied, that prevent it from doing so. Licensee warrants that it has the right and power to enter into this Agreement, and that there are no outstanding assignments, grants, licenses, encumbrances, obligations or agreements, either written or oral or implied, that prevent it from doing so.
+
+^**WARRANTY DISCLAIMER**. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, LICENSOR MAKES NO OTHER REPRESENTATION, GUARANTEE OR WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, UNDER THIS AGREEMENT INCLUDING BUT NOT LIMITED TO REPRESENTATIONS, GUARANTEES OR WARRANTIES AS TO THE RESULTS TO BE EXPECTED FROM USE OF ANY OF THE INVENTION(S) CLAIMED IN THE LICENSED PATENT, OR FROM MANUFACTURE OR SALE OF ANY
+
+PRODUCT. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, LICENSOR SHALL HAVE NO RESPONSIBILITY UNDER ANY LEGAL PRINCIPLE TO LICENSEE OR TO OTHERS FOR THE ABILITY OR INABILITY OF LICENSEE TO USE THE LICENSED PATENT; FOR THE QUALITY OR PERFORMANCE OF ANY PRODUCTS MANUFACTURED OR METHODS PRACTICED UNDER THE LICENSED PATENT; FOR THE CLAIMS OF THIRD PARTIES RELATING TO ANY PRODUCTS MANUFACTURED OR SOLD BY LICENSEE; OR FOR ANY FAILURE IN PRODUCTION, DESIGN OR OPERATION OF ANY PRODUCT MANUFACTURED OR SOLD BY LICENSEE. THE LIMITATIONS OF LIABILITY CONTAINED IN THIS AGREEMENT ARE A FUNDAMENTAL PART OF THE BASIS OF EACH PARTY’S BARGAIN HEREUNDER, AND NEITHER PARTY WOULD ENTER INTO THIS AGREEMENT ABSENT SUCH LIMITATIONS.
+
+^**Termination by Licensor**.
+
+^^This Agreement may be terminated by Licensor if:
+
+^^^Licensee shall (x) willfully, intentionally and in bad faith breach any material provision of this Agreement or (y) willfully, intentionally and in bad faith fail to cure any other breach, and (i) under clause (x), such breach is not capable of cure; or (ii) under either clause (x) or (y), such breach is capable of cure, Licensor has given written notice of such breach to Licensee, and such breach has not been cured within sixty (60) days of such notice; or
+
+^^^Licensee shall willfully and intentionally and in bad faith purport to assign, delegate or otherwise transfer any of its rights, benefits, powers, duties responsibilities or obligations under this Agreement to any person other than a wholly-owned subsidiary of Licensee without the written consent of Licensor; or
+
+^^^Licensee shall abandon the use of the Licensed Patent; or
+
+^^^a bankruptcy of Licensee, or any one or more subsidiaries of Licensee holding more than forty percent ([[Percentage 1: Number]]%) of its consolidated assets shall occur and be continuing.
+
+^^To effect the termination of this Agreement, Licensor shall deliver to Licensee a written notice of termination, which notice shall specify the basis therefor in reasonable detail and an effective date of termination not less than thirty (30) days after the date of delivery to Licensee of the notice. If Licensee in good faith disputes that Licensor has a valid basis for termination, the parties shall resolve such dispute in accordance with the resolution procedures referred to in **Section 11(p)**.
+
+^^Nothing in this Section shall relieve Licensee of liability for breach of this Agreement, whether or not Licensor is entitled to terminate this Agreement on account of such breach.
+
+^^Upon the termination of this Agreement, all rights of Licensee granted hereunder shall terminate. Notwithstanding the foregoing, Licensee shall have the right to continue to dispose of its then existing inventory of Licensee Products for a period of up to six (6) months from the date of termination of this Agreement. All costs associated with the foregoing shall be borne by Licensee.
+
+^^All rights and remedies of the parties in respect of any breach of this Agreement occurring prior to the effective date of its termination shall survive the termination of this Agreement. In addition, the following provisions of this Agreement shall explicitly survive its termination: Section 9 (“WARRANTY DISCLAIMER”); and Section 11 (“Miscellaneous”).
+
+^**Miscellaneous**.
+
+^^**Notices**. All notices, demands and other communications required to be given to a party hereunder shall be in writing and shall be deemed to have been duly given if and when personally delivered; one business day after being sent by a nationally recognized overnight courier; when transmitted by facsimile and actually received; or five (5) days after being mailed by registered or certified mail (postage prepaid, return receipt requested) to such party at the relevant street address or facsimile number set forth below (or at such other street address or facsimile number as such party may designate from time to time by written notice in accordance with this provision):
+
+If to Licensor:   With a copy to:
+
+[[Licensor]]   Kramer Levin Naftalis & Frankel LLP
+c/o Vishay Intertechnology, Inc.   1177 Avenue of the Americas
+^Lancaster Avenue   [[Address 1: Address]]
+[[Address 2: Address]]-2120   Attn: Abbe Dienstag, Esq.
+Attn: Dr. Lior Yahalomi, Chief Financial Officer   Facsimile: [[Phone 1]]
+Facsimile: [[Phone 2]]   Confirm: [[Phone 3]]
+Confirm: [[Phone 4]]
+
+If to Licensee:   With a copy to:
+
+[[Licensee]], Inc.   Pepper Hamilton LLP
+^Great Valley Parkway   3000 Two Logan Square
+[[Address 2: Address]]-1307   Eighteenth and Arch Streets
+Attn: William M. Clancy, Chief Financial   [[Address 3: Address]]-2799
+Officer   Attn: [[Address 4: Address]], Esq.
+Facsimile: [[Phone 5]]   Facsimile: [[Phone 6]]
+Confirm: [[Phone 5]]   Confirm: [[Phone 7]]
+
+^^**Further Assurances**. In addition to the actions specifically provided for elsewhere in this Agreement, Licensor and Licensee agree to execute or cause to be executed and to record or cause to be recorded such other agreements, instruments and other documents, and to take such other action, as reasonably necessary or desirable to fully effectuate the intents and purposes of this Agreement.
+
+^^**Relationship of the Parties**. This Agreement shall not be construed to place the parties in the relationship of legal representatives, partners, joint venturers or agents of or with each other. No party shall have any power to obligate or bind the other party in any manner whatsoever, except as specifically provided herein. 
+
+^^**Third Party Beneficiaries**. Except for the indemnification rights under this Agreement of any Indemnified Parties (as hereafter defined), the provisions of this Agreement are solely for the benefit of the parties hereto and their respective successors and permitted assigns, and are not intended to confer upon any person, except the parties hereto and their respective successors and permitted assigns, any rights or remedies hereunder. 
+
+^^**Assignability**. Subject to Section 4, this Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.
+
+^^**Press Releases; Public Announcements**. Neither party shall issue any release or make any other public announcement concerning this Agreement or the transactions contemplated hereby without the prior written approval of the other party, which approval shall not be unreasonably withheld, delayed or conditioned; **provided**, **however**, that either party shall be permitted to make any release or public announcement that in the opinion of its counsel it is required to make by law or the rules of any national securities exchange of which its securities are listed; **provided** **further** that it has made efforts that are reasonable in the circumstances to obtain the prior approval of the other party. 
+
+^^**Waiver of Defaults**. Waiver by any party hereto of any default by the other party hereto of any provision of this Agreement shall not be construed to be a waiver by the waiving party of any subsequent or other default, nor shall it in any way affect the validity of this Agreement or prejudice the rights of the other party thereafter to enforce each and every such provision. No failure or delay by any party hereto in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. 
+
+^^**Severability**. If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby, as the case may be, is not affected in any manner adverse to any party hereto or thereto. Upon such determination, the parties hereto shall negotiate in good faith in an effort to agree upon a suitable and equitable provision to effect the original intent of the parties hereto. 
+
+^^**Indemnification**. Each of the parties shall indemnify, defend and hold harmless the other party, each of its respective current and former directors, officers and employees, and each of their respective heirs, executors, successors and assigns (“**Indemnified Parties**”), from and against any and all liabilities relating to, arising out of or resulting from any breach of, or failure to perform or comply with, any covenant, undertaking or obligation of, this Agreement by the indemnifying party. In addition, Licensee shall indemnify, defend and hold harmless Licensor and its other Indemnified Parties from and against any and all liabilities relating to, arising out of or resulting from the manufacture, marketing, sale, offer for sale or other activity of or with respect to the Licensed Products or any other products manufactured, sold, offered for sale or otherwise used by Licensee which incorporate any portion of the Licensed Products but only to the extent caused by such Licensed Products. All indemnification procedures and payments shall be governed by Sections 5.6, 5.7 and 5.8 of the Master Separation Agreement, as applicable. 
+
+^^**LIMITATION OF LIABILITY**. IN NO EVENT SHALL LICENSOR OR LICENSEE BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT, COLLATERAL, INCIDENTAL OR PUNITIVE DAMAGES OR LOST PROFITS OR FAILURE TO REALIZE EXPECTED SAVINGS OR OTHER COMMERCIAL OR ECONOMIC LOSS OF ANY KIND, ARISING OUT OF THIS AGREEMENT; PROVIDED, HOWEVER, THAT THE FOREGOING LIMITATIONS SHALL NOT LIMIT EITHER PARTY’S INDEMNIFICATION OBLIGATIONS WITH RESPECT TO THIRD PARTY CLAIMS. 
+
+^^**Confidential Information**. Licensor and Licensee shall hold and shall cause each of their respective affiliates, directors, officers, employees, agents, consultants, advisors and other representatives to hold, in strict confidence and not to disclose or release without the prior written consent of the other party, any and all proprietary or confidential information, material or data of the other party that comes into its possession in connection with the performance by the parties of their rights and obligations under this Agreement. The provisions of Section 4.6 of the Master Purchase Agreement shall govern, mutatis mutandis, the confidentiality obligations of the parties under this Section. 
+
+^^**Attorneys’ Fees**. In any action hereunder to enforce the provisions of this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys’ fees in addition to any other recovery hereunder.
+
+^^**Governing Law**. This Agreement and the legal relations between the parties shall be governed by and construed in accordance with the laws of the State of [[Address 5: Address]] to the conflict of laws rules thereof to the extent such rules would require the application of the law of another jurisdiction. 
+
+^^**Consent to Jurisdiction**. Subject to the provisions referenced in **Section 11(p)**, each of the parties irrevocably submits to the jurisdiction of the federal and state courts located in [[Address 6: Address]] the purposes of any suit, action or other proceeding to compel arbitration, for the enforcement of any arbitration award or for specific performance or other equitable relief pursuant to **Section 11(o)**. Each of the parties further agrees that service of process, summons or other document by U.S. registered mail to such parties address as provided in **Section 11(a)** shall be effective service of process for any action, suit or other proceeding with respect to any matters for which it has submitted to jurisdiction pursuant to this Section. Each of the parties irrevocably waives any objection to venue in the federal and state courts located in [[Address 7: Address]] any action, suit or proceeding arising out of this Agreement or the transactions contemplated hereby. 
+
+^^**Specific Performance**. The parties hereto agree that the remedy at law for any breach of this Agreement may be inadequate, and that any party hereto shall be entitled to specific performance in addition to any other appropriate relief or remedy. Such party may, in its sole discretion, apply to a court of competent jurisdiction for specific performance or injunctive or such other relief as such court may deem just and proper in order to enforce this Agreement. 
+
+^^**Dispute Resolution**. The procedures set forth in Article VIII of the Master Separation Agreement shall apply to the resolution of all disputes arising under this Agreement, except that all proceedings provided for therein shall be conducted in [[Address 8: Address]].
+
+^^**Entire Agreement**. This Agreement and the Schedules hereto, as well as any other agreements and documents referred to herein, constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, understandings, writings, commitments and conversations between the parties with respect to such subject matter. 
+
+^^**Waiver of Jury Trial**. Subject to **Section 11(p)**, EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY COURT PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF AND PERMITTED UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.
+
+^^**Amendments**. No provisions of this Agreement shall be deemed amended, modified or supplemented by any party hereto, unless such amendment, supplement or modification is in writing and signed by the authorized representative of the party against whom it is sought to enforce such amendment, supplement or modification. 
+
+^^**Counterparts**. This Agreement may be executed in any number of counterparts, including by facsimile or electronic signature, and each such counterpart shall be deemed an original instrument, and all of such counterparts together shall constitute but one agreement. A facsimile or electronic signature is deemed an original signature for all purposes under this Agreement. 
+
+\centered [SIGNATURE PAGES FOLLOW] 
+
+IN WITNESS WHEREOF, the parties have caused their duly authorized representatives to execute this Agreement as of the date first above written. 
+
+[[Licensor]]
+
+[[Licensor Signatory Email: Identity | Signature]]
+__________________________________________
+{{Licensor Entity => By: [[Licensor Signatory First Name]] [[Licensor Signatory Last Name]]
+Title: [[Licensor Signatory Title]]}}
+
+Financial Officer
+
+[[Licensee]], INC.
+
+[[Licensee INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Licensee INC. Entity => By: [[Licensee INC. Signatory First Name]] [[Licensee INC. Signatory Last Name]]
+Title: [[Licensee INC. Signatory Title]]}}
+
+Financial Officer
+
+\centered **SCHEDULE A** **LICENSED PRODUCTS** 
+
+**Current Products**   
+[***]   
+**Future Products**   
+[***]   
+
+\centered Portions of this exhibit were omitted and filed separately with the Secretary of the Securities and Exchange Commission pursuant to an application for confidential treatment filed with the Securities and Exchange Commission pursuant to Rule 24b-2 under the Securities Exchange Act of 1934. Such portions are marked by [***].
