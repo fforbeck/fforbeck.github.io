@@ -1,0 +1,47 @@
+\centered Fir Tree Value Master Fund, LP
+
+\centered Fir Tree Capital Opportunity Master Fund, LP
+
+\centered Fir Tree Mortgage Opportunity Master Fund, LP
+
+\centered Fir Tree REOF II Master Fund
+
+\centered c/o Fir Tree, Inc.
+
+\centered 505 Fifth Avenue, 23rd Floor
+
+\centered [[Address 1: Address]]
+
+[[Date 1: Date]]  
+Hampton Roads Bankshares, Inc. 
+[[Address 2: Address]]  
+Attention: Douglas J. Glenn, Esq.  
+Dear Doug:  
+We refer to the Securities Purchase Agreement dated as of [[Date 2: Date]] among Hampton Roads Bankshares, Inc. (the “**Company**”) and the investors party thereto, as amended and restated by the Amended and Restated Securities Purchase Agreement of even date herewith (as amended and restated, the “**Amended and Restated Securities Purchase Agreement**”). Capitalized terms used and not otherwise defined herein shall have the meanings ascribed to such terms in the Amended and Restated Securities Purchase Agreement.
+
+As an inducement to us to (a) enter into the Amended and Restated Securities Purchase Agreement, (b) consent to the Company’s execution of the Investment Agreement between the Company CapGen Capital Group VI LP (the “**CapGen Investment Agreement**”) and CapGen Investor Letter, in each case, of even date herewith, and (c) waive our rights under Section 3.12 of the Amended and Restated Securities Purchase Agreement in respect of the amendment and restatement of the Original Stock Purchase Agreement with respect to CapGen embodied by the CapGen Investment Agreement, the Company hereby agrees to pay to Fir Tree Value Master Fund, LP, Fir Tree Capital Opportunity Master Fund, LP, Fir Tree Mortgage Opportunity Master Fund, LP and Fir Tree REOF I I Master Fund (the “**Fir Tree Investors**”), pro rata in accordance with their respective subscription for Shares, a cash payment in the amount of $[[USD Value 1: Number]] in immediately available funds (the “**Consent Payment**”). The Consent Payment shall be made by the Company to the Fir Tree Investors upon the First Closing to the bank account designated by the Fir Tree Investors not less than two Business Days prior to the First Closing.
+
+Douglas J. Glenn, Esq. 
+[[Date 1]] 
+Page two 
+
+If you are in agreement with the foregoing, kindly countersign this letter where indicated below.
+
+Very truly yours,  
+Fir Tree Value Master Fund, LP 
+Fir Tree Capital Opportunity Master Fund, LP
+
+Fir Tree Mortgage Opportunity Master Fund, LP
+
+Fir Tree REOF II Master Fund   
+[[Fir Tree REOF II Master Fund Signatory Email: Identity | Signature]]
+__________________________________________
+{{Fir Tree REOF II Master Fund Entity => By: [[Fir Tree REOF II Master Fund Signatory First Name]] [[Fir Tree REOF II Master Fund Signatory Last Name]]
+Title: [[Fir Tree REOF II Master Fund Signatory Title]]}}
+
+ACKNOWLEDGED AND AGREED:  
+HAMPTON ROADS BANKSHARES, INC.   
+[[HAMPTON ROADS BANKSHARES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HAMPTON ROADS BANKSHARES INC. Entity => By: [[HAMPTON ROADS BANKSHARES INC. Signatory First Name]] [[HAMPTON ROADS BANKSHARES INC. Signatory Last Name]]
+Title: [[HAMPTON ROADS BANKSHARES INC. Signatory Title]]}}

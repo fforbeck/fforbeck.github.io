@@ -1,0 +1,256 @@
+\centered GUARANTY
+
+This GUARANTY (this “Guaranty”), dated as of [[Date 1: Date]], made severally and not jointly by each of the Guarantors in favor of Administrative Agent for the benefit of Administrative Agent and Lenders.
+
+\centered W I T N E S S E T H:
+
+WHEREAS, each of the Guarantors and/or their respective Affiliates is the beneficial and record owner of issued and outstanding shares of Capital Stock of Body Central Acquisition Corp., a Delaware corporation (“Parent”);
+
+WHEREAS, pursuant to that certain Financing Agreement dated as of [[Date 2: Date]], and amended as of [[Date 3: Date]], as of [[Date 4: Date]], and, pursuant to that certain Waiver and Third Amendment thereto (the “Third Amendment”), as of [[Date 1]], respectively (as so amended and as hereafter further amended, restated, amended and restated, supplemented or otherwise modified and in effect from time to time to the extent permitted hereunder, the “Financing Agreement”), by and among [[Body Shop]], a [[Location 1 "Company type and jurisdiction or Residence location of Individual"]] (“Body Shop”), Catalogue Ventures, [[Loan Parties]], a [[Location 2 "Company type and jurisdiction or Residence location of Individual"]] (“CV,” Body Shop and [[Party 3]], a [[Location 3 "Company type and jurisdiction or Residence location of Individual"]] (“Rinzi,” Parent and Rinzi each a “Financing Guarantor” and, collectively, “Financing Guarantors;” and [[Party 4]], each a “Loan Party” and, collectively, “Loan Parties”), the financial institutions from time to time parties thereto as Lenders thereunder (each a “Lender” and, collectively, “Lenders”), and Dymas Funding Company, as administrative agent (in such capacity, “Administrative Agent”) for the Lenders;
+
+WHEREAS, pursuant to Section 4 of the Third Amendment, the Guarantors are required to (i) execute and deliver to the Administrative Agent this Guaranty, and (ii) provide credit support for the respective obligations hereunder by causing the Letters of Credit to be delivered to Administrative Agent; and
+
+WHEREAS, each Guarantor has determined that (i) such Guarantor will derive substantial benefit and advantage from the Revolving Loans made to Borrowers under the Financing Agreement, and (ii) such Guarantor’s execution, delivery and performance of this Guaranty directly benefit, and are in the best interests of, such Guarantor;
+
+NOW, THEREFORE, in consideration of the premises and the agreements herein and in order to induce the Lenders to make and maintain the Revolving Loans pursuant to the Financing Agreement, each Guarantor hereby agrees with Administrative Agent, for the benefit of Administrative Agent and Lenders, as follows:
+
+^Definitions. Reference is hereby made to the Financing Agreement for a statement of the terms thereof. As used in this Guaranty ([[Loan Parties]]luding, without limitation, the preamble and recitals hereto), the following terms shall have the respective meanings indicated below, such meanings to be applicable equally to both the singular and plural forms of such terms. Capitalized term used but not defined herein shall have the respective meanings ascribed to such terms in the Financing Agreement.
+
+“AIG” means AIG Global Asset Management Holdings Corp.
+
+“AIG Letter of Credit” means that certain Standby Letter of Credit No. 61671700 in the original face amount of $[[USD Value 1: Number]] issued by Citibank, N.A. for the account of AIG and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-1, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereto and modifications or extensions thereof.
+
+“Angelo” means Beth Angelo, an individual.
+
+“Angelo Letter of Credit” means that certain Standby Letter of Credit No. F851678 in the original face amount of $[[USD Value 2: Number]] issued by SunTrust Bank for the account of Angelo and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-3, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereof and modifications or extensions thereof.
+
+“Bauguss” means Laurie E. Bauguss, an individual.
+
+“Bauguss Letter of Credit” means that certain Standby Letter of Credit No. F851676 in the original face amount of $[[USD Value 3: Number]] issued by SunTrust Bank for the account of Bauguss and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-5, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereof and modifications or extensions thereof.
+
+“Guarantor Percentage” means, (i) with respect to AIG, [[Percentage 1: Number]]%, (ii) with respect to WestView, [[Percentage 1]]%, (iii) with respect to Angelo, [[Percentage 2: Number]]%, (iv) (iii) with respect to Bauguss, [[Percentage 2]]%, (v) with respect to Hill, [[Percentage 3: Number]]% and (vi) with respect to Rosenbaum, [[Percentage 4: Number]]%.
+
+“Guarantors” means AIG, WestView, Angelo, Bauguss, Hill and Rosenbaum.
+
+“Hill” means Curtis Hill, an individual.
+
+“Hill Letter of Credit” means that certain Standby Letter of Credit No. F851677 in the original face amount of $[[USD Value 4: Number]] issued by SunTrust Bank for the account of Hill and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-4, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereof and modifications or extensions thereof.
+
+“Letters of Credit” mean the AIG Letter of Credit, the WestView Letter of Credit, the Angelo Letter of Credit, the Bauguss Letter of Credit, the Hill Letter of Credit and the Rosenbaum Letter of Credit.
+
+“Rosenbaum” means Jerrold Rosenbaum, an individual.
+
+“Rosenbaum Letter of Credit” means that certain Standby Letter of Credit No. F851675 in the original face amount of $[[USD Value 5: Number]] issued by SunTrust Bank for the account of Rosenbaum and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-2, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereof and modifications or extensions thereof.
+
+“WestView” means WestView Capital Partners, L.P., a Delaware limited partnership.
+
+“WestView Letter of Credit” means that certain Standby Letter of Credit No. 5647 in the original face amount of $[[USD Value 1]] issued by Sovereign Bank for the account of WestView and naming Administrative Agent as beneficiary thereunder, a copy of which is attached hereto as Exhibit A-6, as such Letter of Credit may be amended, restated, amended and restated, supplemented or otherwise modified and in effect from time, and [[Loan Parties]]luding, without limitation, all substitutions therefor, amendments thereto and modifications or extensions thereof.
+
+^Guaranty.
+
+^^Each Guarantor hereby unconditionally and irrevocably and severally (and not jointly) guarantees the punctual payment, as and when due and payable, whether at stated maturity, by acceleration or otherwise, of any and all Obligations in respect of (without duplication): (i) the outstanding pr[[Loan Parties]]ipal amount of Revolving Loans requested by the Borrowers and advanced by the Revolving Loan Lenders under the Financing Agreement, (ii) accrued and unpaid interest on such Revolving Loans, (iii) unpaid interest on the Term Loans, to the extent such interest accrued during any period of time when an Event of Default shall not have occurred and be continuing (iv) fees payable by the Loan Parties pursuant to Section 2.06(b) (Unused Line Fee), solely as it relates to Revolving Loans, Section 2.06(c) (LIBOR Breakage Fees), and Section 3.03(b) (Letter of Credit Fees) of the Financing Agreement, and (v) amounts charged to any Loan Account pursuant to Section 3.01(c) of the Financing Agreement (collectively, the “Revolving Obligations”), it being understood, for the avoidance of doubt, that Revolving Obligations shall not [[Loan Parties]]lude any amount charged by the Administrative Agent to any Loan Account pursuant to Section 4.01 of the Financing Agreement, other than any such amounts charged in respect of amounts described in the foregoing. clauses (ii), (iii), (iv) and (v), all which amounts may be charged by the Administrative Agent to any Loan Account and shall constitute Revolving Obligations. Without limiting the generality of the foregoing, each Guarantor’s liability shall extend to all amounts that constitute part of the Revolving Obligations and would be owed by the Borrowers or any other Loan Party to the Administrative Agent or the Lenders under any Loan Document but for the fact that they are unenforceable or not allowable due to the existence of a bankruptcy, reorganization or similar proceeding involving any Loan Party; provided, that, notwithstanding the foregoing or anything to the contrary set forth herein, the sole recourse of Administrative Agent and Lenders against any Guarantor in respect of its obligations hereunder shall be (A) in the case of AIG, to the AIG Letter of Credit, (B) in the case of WestView, to the WestView Letter of Credit, (C) in the case of Angelo, to the Angelo Letter of Credit, (D) in the case of Bauguss, to the Bauguss Letter of Credit, (E) in the case of Hill, to the Hill Letter of Credit, and (F) in the case of Rosenbaum, to the Rosenbaum Letter of Credit, and this Guaranty shall not give rise to a general obligation of any Guarantor, it being understood and agreed that, in the event that the proceeds from any Guarantor’s Letter of Credit are insufficient to satisfy the Revolver Obligations in full in cash, such Guarantor shall not be liable for any deficiency. Each Guarantor acknowledges and agrees that such Guarantor has caused such Guarantor’s Letter of Credit to be delivered to Administrative Agent to provide credit support for Guarantor’s obligations hereunder to the extent provided herein and, in the event that Administrative Agent is prevented from making a drawing under such Guarantor’s Letter of Credit that is contemplated hereby as a result of the failure of such Guarantor to cause the timely delivery to Administrative Agent of any required amendments, modifications or supplements to, extensions of, or replacements for such Guarantor’s Letter of Credit, in each case in appropriate form, or as a result of any other circumstance beyond Administrative Agent’s direct control, such Guarantor shall pay on demand to Administrative Agent (without duplication of any amounts drawn by Administrative Agent under such Guarantor’s Letter of Credit) an amount equal to such drawing, which amount shall be held as cash collateral for such Guarantor’s obligations hereunder and shall be applied by Administrative Agent to such obligations at the respective times and in the respective amounts that otherwise would have been applicable to such Letter of Credit pursuant to the terms hereof. In the event of any reduction pursuant to Section 2(c)(C) or (D) hereof in the maximum amount that Administrative Agent could have drawn under such Guarantor’s Letter of Credit had Administrative Agent not been prevented from making a drawing under such Guarantor’s Letter of Credit, Administrative Agent shall return to such Guarantor that portion of such cash collateral that is in the amount of such reduction, at the respective times and in the respective amounts that otherwise would have been applicable to such Letter of Credit pursuant to the terms hereof.
+
+^^If (i) the expiration date of any Letter of Credit is not automatically extended in accordance with its original terms on or prior to the date that is forty-five (45) days before the then current expiration date of such Letter of Credit, or an original replacement letter of credit in lieu thereof (x) in substantially the same form as such Letter of Credit, (y) in an original face amount equal to the amount then available to be drawn under such Letter of Credit, and (z) issued by a Person reasonably satisfactory to Administrative Agent, is not delivered to Administrative Agent, on or prior to the date that is forty-five (45) days before the then current expiration date of such Letter of Credit, or (ii) in the case of the WestView Letter of Credit, either an original amendment to the original WestView Letter of Credit extending the final expiration date thereof to a date that is no later than [[Date 5: Date]], or an original replacement letter of credit in lieu thereof (x) in substantially the same form as such Letter of Credit, except that such Letter of Credit shall have a final expiration date that is no earlier than [[Date 5]], (y) in an original face amount equal to the amount then available to be drawn under such Letter of Credit, and (z) issued by the same Person or another Person reasonably satisfactory to Administrative Agent, is not delivered to Administrative Agent prior to the date that is thirty (30) days after the Third Amendment Effective Date, Administrative Agent may make a draw under such Letter of Credit in the full amount then available to be drawn under such Letter of Credit and such amount so drawn shall be held by Administrative Agent as cash collateral for the applicable Guarantor’s obligations hereunder and shall be applied from time to time by Administrative Agent to such obligations or, in the event of any reduction pursuant to Section 2(c)(C) or (D) hereof in the maximum amount that Administrative Agent could have drawn under such Letter of Credit, returned to the applicable Guarantor in the amount of such reduction, at the respective times and in the respective amounts that otherwise would have been applicable pursuant to the terms hereof to such Letter of Credit; provided, that, in the event that following such draw, the applicable Guarantor shall deliver to Administrative Agent, (x) an original letter of credit in substantially the same form as the Letter of Credit that Administrative Agent made such draw under (except that if such Letter of Credit is the WestView Letter of Credit, such replacement Letter of Credit shall have final expiration date that is no earlier than [[Date 5]]), (y) in an original face amount equal to the amount of collateral then held by Administrative Agent, and (z) issued by a Person reasonably satisfactory to Administrative Agent, then Administrative Agent shall promptly return the remaining unapplied portion of such cash collateral to such Guarantor.
+
+^^Notwithstanding anything to the contrary set forth herein, Administrative Agent for itself and for and on behalf of each of the Lenders hereby agrees that:
+
+^if, at any time after the date hereof, Borrowers shall fail to make any payment in respect of any Obligations when such payment is due and payable pursuant to the terms of the Financing Agreement and the other Loan Documents, Administrative Agent may make a draw under (i) the AIG Letter of Credit in an amount equal to AIG’s Guarantor Percentage of any then outstanding Revolving Obligations, (ii) the WestView Letter of Credit in an amount equal to WestView’s Guarantor Percentage of any then outstanding Revolving Obligations, (iii) the Angelo Letter of Credit in an amount equal to Angelo’s Guarantor Percentage of any then outstanding Revolving Obligations, (iv) the Bauguss Letter of Credit in an amount equal to Bauguss’ Guarantor Percentage of any then outstanding Revolving Obligations, (v) the Hill Letter of Credit in an amount equal to Hill’s Guarantor Percentage of any then outstanding Revolving Obligations, and (vi) the Rosenbaum Letter of Credit in an amount equal to Rosenbaum’s Guarantor Percentage of any then outstanding Revolving Obligations; provided, that, to the extent the Administrative Agent makes a draw under any Letter of Credit, the Administrative Agent agrees to make a ratable draw under all Letters of Credit in an amount equal to each Guarantor’s Guarantor Percentage; provided, further, that, in no event shall the Administrative Agent make a draw under any Letter of Credit at any time in respect of any payment (1) in an amount which exceeds the applicable Guarantor’s Guarantor Percentage of such payment, or (2) in an amount which exceeds the amount the Administrative Agent is permitted to draw hereunder or thereunder at such time ([[Loan Parties]]luding, without limitation, after giving effect to any reductions described in paragraphs (C) and (D) below));
+
+^until such time, after the occurrence and during the continuance of an Event of Default, as Administrative Agent or the Required Lenders shall have directed that such proceeds be applied pursuant to Section 4.03(b) of the Financing Agreement, the proceeds of each drawing made from time to time by Administrative Agent under the Letters of Credit shall be applied promptly by Administrative Agent to reduce the then outstanding Revolving Obligations in accordance with Section 4.03(a) of the Financing Agreement, and, following the giving of any such direction, such proceeds shall be applied pursuant to Section 4.03(b) of the Financing Agreement; and
+
+^(i) if the Senior Leverage Ratio as of the last day of any two (2) consecutive fiscal quarters of Parent and its Subsidiaries ending after the Third Amendment Effective Date is less than 3.00 to 1.00, in each case as determined based on the financial statements and related Compliance Certificate delivered to Administrative Agent and Lenders with respect to each of such fiscal quarters in accordance with the provisions of Sections 7.01(a)(ii) and (iii) of the Financing Agreement, respectively, then, effective as of the later to occur of (x) the date of such delivery and (y) [[Date 6: Date]] (so long as the aggregate outstanding pr[[Loan Parties]]ipal balance of the Revolving Loans on each of the thirty (30) consecutive days immediately preceding the later of such dates was zero Dollars ($[[USD Value 7: Number]])), or the first day following such later date on which the aggregate outstanding pr[[Loan Parties]]ipal balance of the Revolving Loans on each of the thirty (30) consecutive days immediately preceding such date was zero Dollars ($[[USD Value 7]]), the amount that Administrative Agent may draw under each Letter of Credit shall be reduced:
+
+^in the case of the AIG Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal AIG’s Guarantor Percentage of $[[USD Value 6: Number]]
+
+^in the case of the WestView Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal WestView’s Guarantor Percentage of $[[USD Value 6]]
+
+^in the case of the Angelo Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal Angelo’s Guarantor Percentage of $[[USD Value 6]]
+
+^in the case of the Bauguss Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal Bauguss’ Guarantor Percentage of $[[USD Value 6]]
+
+^in the case of the Hill Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal Hill’s Guarantor Percentage of $[[USD Value 6]] and
+
+^in the case of the Rosenbaum Letter of Credit, to the extent necessary to cause the remaining amount available to be drawn thereunder to equal Rosenbaum’s Guarantor Percentage of $[[USD Value 6]]
+
+and Administrative Agent will, at each Guarantor’s request and expense, take such actions as are reasonably requested by such Guarantor to cause the stated amount of the applicable Letter of Credit to be amended or otherwise modified to reflect any such reduction;
+
+^if the Senior Leverage Ratio as of the last day of any two (2) consecutive fiscal quarters of Parent and its Subsidiaries ending after the Third Amendment Effective Date is less than 2.75 to 1.00, in each case as determined based on the financial statements and related Compliance Certificate delivered to Administrative Agent and Lenders with respect to each of such fiscal quarters in accordance with the provisions of Sections 7.01(a)(ii) and (iii) of the Financing Agreement, respectively, then, effective as of the later to occur of (x) the date of such delivery and (y) [[Date 7: Date]] (so long as the aggregate outstanding pr[[Loan Parties]]ipal balance of the Revolving Loans on each of the thirty (30) consecutive days immediately preceding the later of such dates was zero Dollars ($[[USD Value 7]])), or the first day following such later date on which the aggregate outstanding pr[[Loan Parties]]ipal balance of the Revolving Loans on each of the thirty (30) consecutive days immediately preceding such date was zero Dollars ($[[USD Value 7]]), the amount that Administrative Agent may draw under each Letter of Credit shall be reduced to zero Dollars ($[[USD Value 7]]) (and all obligations of each Guarantor under this Guaranty will terminate on such later date and Administrative Agent will, at each Guarantor’s request and expense, return the applicable Letter of Credit to each Guarantor or the issuer thereof for cancellation and return a copy of this Guaranty to each Guarantor marked “cancelled”); and
+
+^So long as this Guaranty remains in effect, any Guarantor has any liability or obligation hereunder or the Administrative Agent has any ability to make any draw under any Letter of Credit or apply any cash collateral held in lieu thereof, Administrative Agent and Lenders will not enter into any written amendment, restatement, supplement or other modification of the Financing Agreement or any of the other Loan Documents without the prior written consent of each Guarantor.
+
+^Guaranty Absolute; Continuing Guaranty; Assignments.
+
+^^Each Guarantor guarantees that the Revolving Obligations will be paid strictly in accordance with the terms of the Loan Documents (but in any event subject to the terms and provisions of Section 2 hereof), regardless of any law, regulation or order now or hereafter in effect in any jurisdiction affecting any of such terms or the rights of the Administrative Agent or the Lenders with respect thereto. Each Guarantor agrees that this Guaranty is a present and continuing guaranty of payment and not of collectibility, and that this Guaranty is and is intended to be independent of and in addition to any other guaranty, endorsement, Collateral or other agreement held by the Administrative Agent or the Lenders therefore or with respect thereto, whether or not furnished by such Guarantor. A separate action or actions may be brought and prosecuted against each Guarantor to enforce the obligations of such Guarantor hereunder (and, without limiting the generality of the foregoing, Administrative Agent may make draws under the Letters of Credit pursuant to Section 2 hereof), in each case irrespective of whether (i) any action for collection, enforcement or other remedies is brought against any Borrower or any other Loan Party, (ii) any Borrower or any other Loan Party is joined in any such action or actions, or (iii) Administrative Agent or any Lender has resorted to any Collateral for satisfaction of the Revolving Obligations. The liability of each Guarantor under this Guaranty shall be irrevocable, absolute and unconditional irrespective of, and each Guarantor hereby irrevocably waives any defenses it may now or hereafter have in any way relating to, any or all of the following:
+
+^^^any lack of validity or enforceability of any Loan Document or any agreement or instrument relating thereto;
+
+^^^subject to Section 2(c)(E) hereof, any change in the time, manner or place of payment of, or in any other term of, all or any of the Obligations, or any other amendment, modification or waiver of or any consent to departure from any Loan Document, [[Loan Parties]]luding, without limitation, any [[Loan Parties]]rease in the Obligations resulting from the extension of additional credit to any Loan Party or otherwise;
+
+^^^any taking, exchange, release, substitution or non-perfection of any Collateral, or any taking, release or amendment or waiver of or consent to departure from any guaranty (other than this Guaranty), for all or any of the Obligations;
+
+^^^any change, restructuring or termination of the corporate, limited liability company, partnership or other structure, as the case maybe, or existence of any Loan Party;
+
+^^^any failure, omission or delay on the part of any Borrower, any other Loan Party, Administrative Agent or any of the Lenders to conform or comply with any term of any of the Loan Documents (other than this Guaranty) or any failure of Administrative Agent or Lenders to give notice of any Default or Event of Default or of any disposition or intended disposition of any Collateral;
+
+^^^any action or inaction by Administrative Agent or any of the Lenders under or in respect of any of the Loan Documents, any failure, lack of diligence, omission or delay on the part of Administrative Agent or any of the Lenders to enforce, assert or exercise any right, power or remedy conferred on them in any of the Loan Documents, or any other action or inaction on the part of Administrative Agent or any of the Lenders;
+
+^^^any dissolution of any Guarantor (other than an Individual Investor) or any voluntary or involuntary bankruptcy, insolvency, reorganization, arrangement, readjustment, assignment for the benefit of creditors, composition, receivership, liquidation, marshaling of assets and liabilities or similar events or proceedings with respect to any Borrower or any other Loan Party, as applicable, or any of their respective property or creditors, or any action taken by any trustee or receiver or by any court in any such proceeding [[Loan Parties]]luding, without limitation, any proceeding under the Bankruptcy Code;
+
+^^^any merger or consolidation of any Borrower or any other Loan Party into or with any Person, or any sale, lease or transfer of any of the assets of any Borrower or any other Loan Party to any other Person;
+
+^^^any change in the ownership of the equity securities of any Borrower or any other Loan Party or any change in the relationship between Borrower or any other Loan Party, or any termination of any such relationship;
+
+^^^any release or discharge by operation of law of any Borrower or any other Loan Party from any obligation or agreement contained in any of the Loan Documents;
+
+^^^Administrative Agent’s or any Lender’s election, in any proceeding instituted under the Bankruptcy Code, of the application of Section 1111(b)(2) of the Bankruptcy Code;
+
+^^^any borrowing or grant of a security interest by any Borrower or any other Loan Party as debtor-in-possession under Section 364 of the Bankruptcy Code;
+
+^^^the inability of Administrative Agent or any Lender to enforce the Obligations of any Borrower or any other Loan Party as a result of the automatic stay provisions of Section 362 of the Bankruptcy Code;
+
+^^^the disallowance, under Section 502 of the Bankruptcy Code, of all or any portion of Administrative Agent’s or any Lender’s claim or claims for repayment of the Obligations; or
+
+^^^any other circumstance ([[Loan Parties]]luding any statute of limitations) or any existence of or reliance on any representation by the Administrative Agent or the Lenders that might otherwise constitute a defense available to, or a discharge of, any Loan Party or any other guarantor or surety.
+
+This Guaranty shall continue to be effective or be reinstated, as the case may be, if at any time any payment of any of the Revolving Obligations by any Loan Party or any Guarantor is rescinded or must otherwise be returned by the Administrative Agent or the Lenders upon the insolvency, bankruptcy or reorganization of any Loan Party, any Guarantor or otherwise, all as though such payment had not been made.
+
+^^This Guaranty is a continuing guaranty and shall (i) remain in full force and effect with respect to each Guarantor until the earlier to occur of (A) the reduction to zero Dollars ($[[USD Value 7]]) of the amount available to be drawn under the applicable Letter of Credit, or of the amount of any cash collateral held by the Administrative Agent in lieu thereof, in each case in accordance with the terms and provisions hereof and thereof, (B) the cash payment in full of all amounts payable under this Guaranty and (C) the repayment in full of all Revolving Obligations and the termination of the Revolving Loan Commitments of all Lenders, (ii) be binding upon each Guarantor, its successors and assigns, heirs, personal representatives and executors, as applicable, and (iii) inure to the benefit of and be enforceable by the Administrative Agent, the Lenders and their successors, pledgees, transferees and assigns, to the extent permitted pursuant to the Financing Agreement.
+
+^Waivers. Each Guarantor hereby unconditionally waives, to the extent permitted by law: (i) demand, presentment and protest, proof of notice of non-payment under any of the Loan Documents, promptness, diligence, notice of acceptance and any other notice with respect to any of the Revolving Obligations ([[Loan Parties]]luding, without limitation, notice of any Default or Event of Default under the Financing Agreement or any other Loan Document) and this Guaranty or that are required by statute, rule of law or otherwise, now or hereafter in effect, to preserve intact any rights against such Guarantor, (ii) notice of any of the matters referred to in Section 3 above, (iii) except as otherwise expressly set forth herein, any requirement that the Administrative Agent or the Lenders exhaust any right or take any action against any Loan Party or any other Person or any Collateral, (iv) any requirement of diligence on the part of any Person, and (v) any notice of any sale, transfer or other disposition of any right, title or interest of Administrative Agent or Lenders under the Financing Agreement or any other Loan Document. Each Guarantor acknowledges that it will receive direct and indirect benefits from the financing arrangements contemplated herein and in the Financing Agreement and that the waivers set forth in this Section 4 are knowingly made in contemplation of such benefits. Each Guarantor hereby waives any right to revoke this Guaranty, and acknowledges that this Guaranty is continuing in nature and applies to all Revolving Obligations, whether existing now or in the future.
+
+^Subrogation. No Guarantor may exercise any rights that such Guarantor may now or hereafter acquire against any Loan Party or any other guarantor that arise from the existence, payment, performance or enforcement of such Guarantor’s obligations under this Guaranty, [[Loan Parties]]luding, without limitation, any right of subrogation, reimbursement, exoneration, contribution or indemnification and any right to participate in any claim or remedy of the Administrative Agent and the Lenders against any Loan Party or any other guarantor or any Collateral, whether or not such claim, remedy or right arises in equity or under contract, statute or common law, [[Loan Parties]]luding, without limitation, the right to take or receive from any Loan Party or any other guarantor, directly or indirectly, in cash or other property or by set-off or in any other manner, payment or security solely on account of such claim, remedy or right, unless and until all of the Obligations, [[Loan Parties]]luding, without limitation, the Revolving Obligations, and all other amounts payable under this Guaranty shall have been paid in full in cash and all commitments to lend under the Financing Agreement have terminated.
+
+^Representations and Warranties. Each Guarantor hereby represents and warrants as follows:
+
+^^This Guaranty is the legal, valid and binding obligation of such Guarantor, enforceable against such Guarantor in accordance with its terms, except as may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or other similar laws.
+
+^^Such Guarantor (i) has read and understands the terms and conditions of the Financing Agreement and the other Loan Documents, and (ii) now has and will continue to have independent means of obtaining information concerning the affairs, financial condition and business of each Borrower and the other Loan Parties, and has no need of, or right to obtain from the Administrative Agent or any Lender, any credit or other information concerning the affairs, financial condition or business of any Borrower or any of the other Loan Parties that may come under the control of the Administrative Agent or any Lender.
+
+^Notices, Etc. All notices and other communications provided for hereunder shall be in writing and shall be mailed, telecopied or delivered, if to any Guarantor, to such Guarantor at its address set forth on the signature page hereto, or if to the Administrative Agent, to it at its address set forth in the Financing Agreement; or as to any such Person at such other address as shall be designated by such Person in a written notice to such other Person complying as to delivery with the terms of this Section 7. All such notices and other communications shall be effective (i) if mailed (by certified mail, postage prepaid and return receipt requested), when received or three Business Days after deposited in the mails, whichever occurs first; (ii) if telecopied, when transmitted and confirmation is received, provided same is on a Business Day and, if not, on the next Business Day; or (iii) if delivered, upon delivery, provided same is on a Business Day and, if not, on the next Business Day.
+
+^CONSENT TO JURISDICTION; SERVICE OF PROCESS AND VENUE. ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS GUARANTY OR ANY OTHER LOAN DOCUMENT MAY BE BROUGHT IN THE COURTS OF THE STATE OF [[Address 1: Address]] COUNTY OF [[Address 2: Address]] THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF [[Address 3: Address]], BY EXECUTION AND DELIVERY OF THIS GUARANTY, EACH GUARANTOR HEREBY IRREVOCABLY ACCEPTS IN RESPECT OF SUCH GUARANTOR’S PROPERTY, GENERALLY AND UNCONDITIONALLY, THE JURISDICTION OF THE
+
+AFORESAID COURTS. EACH GUARANTOR HEREBY IRREVOCABLY APPOINTS THE SECRETARY OF STATE OF THE STATE OF [[Address 4: Address]] AGENT FOR SERVICE OF PROCESS IN RESPECT OF ANY SUCH ACTION OR PROCEEDING AND FURTHER IRREVOCABLY CONSENTS TO THE SERVICE OF PROCESS OUT OF ANY OF THE AFOREMENTIONED COURTS AND IN ANY SUCH ACTION OR PROCEEDING BY THE MAILING OF COPIES THEREOF BY REGISTERED OR CERTIFIED MAIL, POSTAGE PREPAID, TO SUCH GUARANTOR AT SUCH GUARANTOR’S ADDRESS FOR NOTICES SPECIFIED IN SECTION 7 AND TO THE SECRETARY OF STATE OF THE STATE OF [[Address 5: Address]] TO BECOME EFFECTIVE TEN (10) DAYS AFTER SUCH MAILING. NOTHING HEREIN SHALL AFFECT THE RIGHT OF THE ADMINISTRATIVE AGENT AND THE LENDERS TO SERVICE OF PROCESS IN ANY OTHER MANNER PERMITTED BY LAW OR TO COMMENCE LEGAL PROCEEDINGS OR OTHERWISE PROCEED AGAINST ANY GUARANTOR IN ANY OTHER JURISDICTION. EACH GUARANTOR HEREBY EXPRESSLY AND IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY OBJECTION WHICH SUCH GUARANTOR MAY NOW OR HEREAFTER HAVE TO THE JURISDICTION OR LAYING OF VENUE OF ANY SUCH LITIGATION BROUGHT IN ANY SUCH COURT REFERRED TO ABOVE AND ANY CLAIM THAT ANY SUCH LITIGATION HAS BEEN BROUGHT IN AN [[Loan Parties]]ONVENIENT FORUM. TO THE EXTENT THAT ANY GUARANTOR HAS OR HEREAFTER MAY ACQUIRE ANY IMMUNITY FROM JURISDICTION OF ANY COURT OR FROM ANY LEGAL PROCESS (WHETHER THROUGH SERVICE OR NOTICE, ATTACHMENT PRIOR TO JUDGMENT, ATTACHMENT IN AID OF EXECUTION OR OTHERWISE) WITH RESPECT TO SUCH GUARANTOR OR SUCH GUARANTOR’S PROPERTY, SUCH GUARANTOR HEREBY IRREVOCABLY WAIVES SUCH IMMUNITY IN RESPECT OF SUCH GUARANTOR’S OBLIGATIONS UNDER THIS GUARANTY.
+
+^WAIVER OF JURY TRIAL, ETC. EACH GUARANTOR AND ADMINISTRATIVE AGENT EACH HEREBY WAIVES ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM CONCERNING ANY RIGHTS UNDER THIS GUARANTY OR THE OTHER LOAN DOCUMENTS, OR UNDER ANY AMENDMENT, WAIVER, CONSENT, INSTRUMENT, DOCUMENT OR OTHER AGREEMENT DELIVERED OR WHICH IN THE FUTURE MAY BE DELIVERED IN CONNECTION HEREWITH OR THEREWITH, OR ARISING FROM ANY FINANCING RELATIONSHIP EXISTING IN CONNECTION WITH THIS GUARANTY OR THE OTHER LOAN DOCUMENTS, AND AGREES THAT ANY SUCH ACTION, PROCEEDING OR COUNTERCLAIM SHALL BE TRIED BEFORE A COURT AND NOT BEFORE A JURY. EACH GUARANTOR CERTIFIES THAT NO OFFICER, REPRESENTATIVE, AGENT OR ATTORNEY OF THE ADMINISTRATIVE AGENT OR ANY LENDER HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT THE ADMINISTRATIVE AGENT OR ANY LENDER WOULD NOT, IN THE EVENT OF ANY ACTION, PROCEEDING OR COUNTERCLAIM, SEEK TO ENFORCE THE FOREGOING WAIVERS. EACH GUARANTOR HEREBY ACKNOWLEDGES THAT THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE ADMINISTRATIVE AGENT AND THE LENDERS ENTERING INTO THIS AGREEMENT.
+
+^Miscellaneous.
+
+^^No amendment or waiver of any provision of this Guaranty and no consent to any departure by any Guarantor therefrom shall in any event be effective unless the same shall be in writing and signed by such Guarantor and the Administrative Agent, and then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which given.
+
+^^No failure on the part of the Administrative Agent or any Lender to exercise, and no delay in exercising, any right hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right hereunder preclude any other or further exercise thereof or the exercise of any other right. The rights and remedies of the Administrative Agent and the Lenders provided herein are cumulative and are in addition to, and not exclusive of, any rights or remedies provided by law.
+
+^^Any provision of this Guaranty which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining portions hereof or thereof or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+^^This Guaranty shall (i) be binding on each Guarantor and such Guarantor’s successors, assigns, heirs, personal representatives and executors, as applicable, and (ii) inure, together with all rights and remedies of the Administrative Agent and the Lenders hereunder, to the benefit of the Administrative Agent and the Lenders and their respective successors, transferees and assigns, to the extent permitted pursuant to the Financing Agreement.
+
+^^This Guaranty and the respective Letters of Credit represents the entire agreement of each Guarantor, the Administrative Agent and the Lenders with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by the Administrative Agent or any Lender relative to the subject matter thereof not expressly set forth or referred to herein or therein.
+
+^^Section headings herein are [[Loan Parties]]luded for convenience of reference only and shall not constitute a part of this Guaranty for any other purpose.
+
+^^THIS GUARANTY SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF [[Address 6: Address]] CONTRACTS MADE AND TO BE PERFORMED IN THE STATE OF [[Address 7: Address]]
+
+^^Each Investor Guarantor acknowledges that (i) as of the date hereof, such Investor Guarantor has no defenses, claims or set-offs to the enforcement of any liabilities, obligations and agreements owing to Administrative Agent or any Lender, and (ii) Administrative Agent and each Lender have fully performed all such Person’s respective obligations to such Investor Guarantor and each Loan Party that the Administrative Agent or such Lender, as the case may be, may have had or may have on or prior to the date hereof. Each Investor Guarantor hereby irrevocably releases and forever discharges Administrative Agent and each Lender and their respective affiliates, subsidiaries, successors, assigns, directors, officers, employees, agents, consultants and attorneys (each, a “Released Person”) of and from all damages, losses, claims, demands, liabilities, obligations, actions or causes of action whatsoever that such Investor Guarantor may now have or claim to have currently against any Released Person on account of or in any way touching, concerning, arising out of or founded upon the Financing Agreement or any other Loan Document, whether presently known or unknown and of every nature and extent whatsoever, but only to the extent relating to matters arising on or prior to the date hereof.
+
+\centered *[Remainder of this page intentionally left blank; signature page follows]*
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed by an officer thereunto duly authorized, as of the date first above written.
+
+WESTVIEW CAPITAL PARTNERS, L.P.
+[[WESTVIEW CAPITAL PARTNERS L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{WESTVIEW CAPITAL PARTNERS L.P. Entity => By: [[WESTVIEW CAPITAL PARTNERS L.P. Signatory First Name]] [[WESTVIEW CAPITAL PARTNERS L.P. Signatory Last Name]]
+Title: [[WESTVIEW CAPITAL PARTNERS L.P. Signatory Title]]}}
+
+[[Title Body Shop Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Body Shop Signatory Title}} Entity => By: [[Title Body Shop Signatory Title}} Signatory First Name]] [[Title Body Shop Signatory Title}} Signatory Last Name]]
+Title: [[Title Body Shop Signatory Title}} Signatory Title]]}}
+
+
+[[Title Loan Parties Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Loan Parties Signatory Title}} Entity => By: [[Title Loan Parties Signatory Title}} Signatory First Name]] [[Title Loan Parties Signatory Title}} Signatory Last Name]]
+Title: [[Title Loan Parties Signatory Title}} Signatory Title]]}}
+
+
+Address:
+
+One International Place Seventh Floor [[Address 8: Address]]
+Attention:   John Turner
+Facsimile:   [[Phone 1]]
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed by an officer thereunto duly authorized, as of the date first above written.
+
+AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP.
+
+[[AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP. Entity => By: [[AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP. Signatory First Name]] [[AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP. Signatory Last Name]]
+Title: [[AIG GLOBAL ASSET MANAGEMENT HOLDINGS CORP. Signatory Title]]}}
+
+
+Address:
+
+277 Park Avenue 42nd Floor [[Address 9: Address]]
+Attention:   Scott Gallin
+Facsimile:   [[Phone 2]]
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written.
+
+[[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Entity => By: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory First Name]] [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Title]]}}
+
+Beth Angelo, an individual
+
+c/o [[Body Shop]] [[Address 10: Address]]
+Facsimile:   [[Phone 3]]
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written.
+
+/s/ Curtis V. Hill
+Curtis Hill, an individual
+
+c/o [[Body Shop]] [[Address 10: Address]]
+Facsimile:   [[Phone 3]]
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written.
+
+[[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Entity => By: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory First Name]] [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Title]]}}
+
+Laurie E. Bauguss, an individual
+
+c/o [[Body Shop]] [[Address 10: Address]]
+Facsimile:   [[Phone 3]]
+
+IN WITNESS WHEREOF, the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written.
+
+[[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Entity => By: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory First Name]] [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the undersigned Guarantor has caused this Guaranty to be executed as of the date first above written. Signatory Title]]}}
+
+Jerrold Rosenbaum, an individual
+
+c/o [[Body Shop]] [[Address 10: Address]]
+Facsimile:   [[Phone 3]]
+
+ACKNOWLEDGED AND AGREED AS OF JANUARY 25, 2008
+
+DYMAS FUNDING COMPANY, as Administrative Agent
+
+[[DYMAS FUNDING COMPANY as Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{DYMAS FUNDING COMPANY as Administrative Agent Entity => By: [[DYMAS FUNDING COMPANY as Administrative Agent Signatory First Name]] [[DYMAS FUNDING COMPANY as Administrative Agent Signatory Last Name]]
+Title: [[DYMAS FUNDING COMPANY as Administrative Agent Signatory Title]]}}
+
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
