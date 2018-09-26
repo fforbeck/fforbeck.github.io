@@ -1,40 +1,224 @@
 \centered **DEBT CONVERSION AGREEMENT** 
 
-This Debt Conversion Agreement (the “Agreement”) is entered into effective as of as of [[Date 1: Date]] by and between [[Investor]] (“Investor”) and [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), with reference to the following facts: 
+This Debt Conversion Agreement (the “Agreement”) is made as of [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Debt Holder]], II (the “Debt Holder”). 
 
-WHEREAS, Investor has loaned certain funds to the Company as described in the Loan Agreement and Security Agreement dated [[Date 2: Date]] (the “Loan Agreement”), as extended on [[Date 3: Date]], of which the Company and Investor desire to convert $[[USD Value 1: Number]] (the “Debt”) into shares of Common Stock. 
+\centered **RECITALS** 
 
-NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, Investor and the Company agree as follows: 
+^The Company issued to the Debt Holder a Promissory Note dated [[Date 2: Date]] in the original principal amount of $[[USD Value 1: Number]] (the “Note”) pursuant to terms which are described on Schedule 1 hereto (the “Obligation”). 
 
-^Conversion to Common Stock. Effective as of [[Date 1]], $[[USD Value 1]] of the Debt shall be converted into shares of Common Stock at a price per share of $.10 for an aggregate number of shares of [[Shares 1: Number]]. Upon execution of this Agreement, the Company shall instruct its transfer agent to issue a total of 500,000 shares of Common Stock to the Investor, and the Investor shall acknowledge the repayment of $[[USD Value 1]] under the Loan Agreement. 
+^The Company is considering conducting a public offering of shares of the Company’s Common Stock, par value $[[USD Value 3: Number]] per share (the “Common Stock”), to raise additional capital pursuant to an effective shelf registration statement (File No. 333-165445) (the “Registration Statement”) on file with the Securities and Exchange Commission (the “SEC”) and has retained Roth Capital Partners as placement agent for such offering (the “Public Offering”). 
 
-^Investor Representations. The Company is issuing the Common Stock to Investor in reliance upon the following representations made by Investor: 
+^In order to facilitate the Company’s ability to raise additional equity capital in the Public Offering, subject to the occurrence and effective as of the Closing, the Debt Holder and the Company desire that the Debt Holder exchange the Note (including the entire principal balance of the Obligation and the accrued and unpaid interest thereon) for shares of Common Stock on the terms and conditions set forth herein and, in connection therewith, to release all claims held by the Company or the Debt Holder against the other party with respect to the Obligation and the payment of principal and interest thereon. 
 
-^^Investor acknowledges and agrees that the shares of Common Stock are characterized as “restricted securities” under the Securities Act of 1933 (as amended and together with the rules and regulations promulgated thereunder, the “Securities Act”) and that, under the Securities Act and applicable regulations thereunder, such securities may not be resold, pledged or otherwise transferred without registration under the Securities Act or an exemption therefrom. Investor acknowledges and agrees that (i) the shares of Common Stock are being offered in a transaction not involving any public offering in the United States within the meaning of the Securities Act, and the shares of Common Stock have not yet been registered under the Securities Act, and (ii) such shares of Common Stock may be offered, resold, pledged or otherwise transferred only in a transaction registered under the Securities Act, or meeting the requirements of Rule 144, or in accordance with another exemption from the registration requirements of the Securities Act (and based upon an opinion of counsel if the Company so requests) and in accordance with any applicable securities laws of any State of the United States or any other applicable jurisdiction. 
+NOW, THEREFORE, in consideration of the foregoing premises, the mutual covenants, agreements, representations and warranties hereinafter set forth and for other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereto, intending to be legally bound hereby, do agree as follows: 
 
-^^Investor acknowledges and agrees that (i) the registrar or transfer agent for the shares of Common Stock will not be required to accept for registration of transfer any shares except upon presentation of evidence satisfactory to the Company that the restrictions on transfer under the Securities Act have been complied with and (ii) any shares of Common Stock in the form of definitive physical certificates will bear a restrictive legend. 
+\centered **AGREEMENT** 
 
-^^Investor acknowledges and agrees that: (a) the shares of Common Stock have not been registered under the Securities Act, or under any state securities laws, and are being offered and sold in reliance upon federal and state exemptions for transactions not involving any public offering; (b) Investor is acquiring the shares of Common Stock solely for its own account for investment purposes, and not with a view to the distribution thereof in a transaction that would violate the Securities Act or the securities laws of any State of the United States or any other applicable jurisdiction; (c) Investor is a sophisticated purchaser with such knowledge and experience in business and financial matters that it is capable of evaluating the merits and risks of purchasing the shares of Common Stock; (d) Investor has had the opportunity to obtain from the Company such information as desired in order to evaluate the merits and the risks inherent in holding the shares of Common Stock; (e) Investor is able to bear the economic risk and lack of liquidity inherent in holding the shares of Common Stock; (f) Investor is an “accredited investor” within the meaning of Rule 501(a) under the Securities Act; and (g) and (g) Investor either has a pre-existing personal or business relationship with the Company or its officers, directors or controlling persons, or by reason of Investor’s business or financial experience, or the business or financial experience of their professional advisors who are unaffiliated with and who are not compensated by the Company, directly or indirectly, have the capacity to protect their own interests in connection with the purchase of the Common Stock. 
+^Exchange of Note; Release. 
 
-^^Investor’s investment in the Company pursuant to this Common Stock is consistent, in both nature and amount, with Investor’s overall investment program and financial condition. 
+^^Exchange of Note for Common Stock. Subject to the terms and conditions of this Agreement, at the Closing (as defined herein) the Debt Holder agrees to surrender and deliver the Note to the Company in exchange for the issuance to Debt Holder of such number of shares of Common Stock as shall be equal to (a) the sum of (i) the Obligation (including the entire outstanding principal balance of the Obligation) plus (ii) all accrued and unpaid interest thereon through the Closing divided by (b) the public offering price of the Common Stock in the Public Offering (such shares of Common Stock, the “Securities”). By surrendering and delivering the Note in exchange for Common Stock, each party acknowledges and agrees that, subject to and effective upon Closing, (x) neither the Note nor the Obligation will be outstanding, (y) that each party will be deemed to have released all claims held by such party against the other party with respect to the Note and the Obligation and the payment of principal and interest thereon and (z) the Company shall have no further Obligation to the Debt Holder pursuant to the Note. 
 
-^^Investor’s principal residence is in the State of California. 
+^^General Release. It is the intention of the parties hereto that, subject to and effective upon Closing, in executing this instrument, the same shall be effective as a bar to each and every claim, demand and cause of action, known or unknown as of the date hereof solely insofar as such claim, demand or cause of action relates to the Obligation or the Note. Each party expressly agrees that the above release shall be given full force and effect according to each and all of the express terms and provisions in the Note, including those provisions in the Note relating to the unknown and unsuspected claims, demands and causes of action hereinabove specified. 
+
+^^Closing; Deliveries. 
+
+^^The conversion of the Obligation into Common Stock shall take place as soon as reasonably practicable following the satisfaction of the conditions set forth in Sections 5 and below, which closing shall be held in the offices of the Company, or at such other place as may be mutually agreeable to the Company and the Debt Holder (the “Closing”). 
+
+^^At the Closing or as soon as practicable thereafter, and in any event within two weeks after the Closing, the Company shall deliver to the Debt Holder certificates representing the shares of Common Stock. 
+
+^^At the Closing, the Debt Holder shall deliver to the Company each of the Note or other documents evidencing the Obligation listed in Schedule 1 which shall be marked by the Company as “Cancelled”. 
+
+^Representations and Warranties of the Company. The Company hereby represents and warrants to the Debt Holder that: 
+
+^^The Company and each of its subsidiaries has been duly organized and is validly existing as a corporation in good standing under the laws of its jurisdiction of incorporation. The Company and each of its subsidiaries has the corporate power and authority to own its properties and conduct its business as currently being carried on and as described in the Registration Statement, and is duly qualified to do business as a foreign corporation in good standing in each jurisdiction in which it owns or leases real property or in which the conduct of its business makes such qualification necessary and in which the failure to so qualify would have or is reasonably likely to result in a material adverse effect upon the business, properties, operations, condition (financial or otherwise) or results of operations of the Company and its subsidiaries, taken as a whole, or in its ability to perform its obligations under this Agreement (“Material Adverse Effect”). 
+
+^^The Company has the corporate power and authority to enter into this Agreement. This Agreement has been duly authorized by all necessary corporate action (including such action as is required by Section 144 of the General Corporation Law of the State of Delaware (“DGCL”)), executed and delivered by the Company, and constitutes a valid, legal and binding obligation of the Company, enforceable in accordance with its terms, except as rights to indemnity hereunder may be limited by federal or state securities laws and except as such enforceability may be limited by bankruptcy, insolvency, reorganization or similar laws affecting the rights of creditors generally and subject to general principles of equity. 
+
+^^Subject to receipt of those approvals and consummation of the actions contemplated by Sections 6.4, 6.5 and 6.6 below, the execution, delivery and performance of this Agreement and the consummation of the transactions herein contemplated will not (A) result in a breach or violation of any of the terms and provisions of, or constitute a default under, any law, rule or regulation to which the Company or any subsidiary is subject, or by which any property or asset of the Company or any subsidiary is bound or affected, (B) conflict with, result in any violation or breach of, or constitute a default (or an event that with notice or lapse of time or both would become a default) under, or give to others any right of termination, amendment, acceleration or cancellation (with or without notice, lapse of time or both) of, any agreement, lease, credit facility, debt, note, bond, mortgage, indenture or other instrument (the “Contracts”) or obligation or other understanding to which the Company or any subsidiary is a party of by which any property or asset of the Company or any subsidiary is bound or affected, or (C) result in a breach or violation of any of the terms and provisions of, or constitute a default under, the Company’s charter or bylaws, except in the case of clauses (A) and (B) such breaches, violations, defaults, or conflicts which are not, individually or in the aggregate, reasonably likely to result in a Material Adverse Effect. 
+
+^^All consents, approvals, orders, authorizations and filings required on the part of the Company and its subsidiaries in connection with the execution, delivery or performance of this Agreement have been obtained or made other than (i) such as have been made or obtained under the federal securities laws, FINRA rules or NASDAQ rules, (ii) such as may be required under the blue sky laws of any jurisdiction in connection with the purchase and distribution of the Securities in the manner contemplated in the Agreement, (iii) the filing of a Current Report on Form 8-K regarding the Agreement with the SEC, (iv) those approvals and actions contemplated by Sections 6.4, 6.5 and 6.6 below and (v) such consents, approvals, authorizations and filings the failure of which to make or obtain is not reasonably likely to result in a Material Adverse Effect. 
+
+^^All of the issued and outstanding shares of capital stock of the Company are duly authorized and validly issued, fully paid and nonassessable, and have been issued in compliance with all applicable securities laws, and conform to the description thereof in the Registration Statement. Except for the issuances of options or restricted stock in the ordinary course of business, since the respective dates as of which information is provided in the Registration Statement, the Company has not entered into or granted any convertible or exchangeable securities, options, warrants, agreements, contracts or other rights in existence to purchase or acquire from the Company any shares of the capital stock of the Company. The Securities, when issued, will be duly authorized and validly issued, fully paid and nonassessable, issued in compliance with all applicable securities laws, and free of preemptive, registration or similar rights. 
+
+^^Except as set forth in the Registration Statement and except for eDiets, Inc., eDiets, B.V.I., Inc., eDiets, Europe Limited and Nutrio.com, Inc., each of which is a wholly-owned subsidiary the Company, the Company does not own, directly or indirectly, any capital stock or other ownership interest in any partnership, corporation, business trust, limited liability company, limited liability partnership, joint stock company, trust, unincorporated association, joint venture or other entity. 
+
+^^Each of the Company and its subsidiaries has filed all foreign, federal, state and local returns (as hereinafter defined) required to be filed with taxing authorities prior to the date hereof or has duly obtained extensions of time for the filing thereof. Except as individually or in the aggregate would not reasonably be likely to result in a Material Adverse Effect, (a) each of the Company and its subsidiaries has paid all taxes (as hereinafter defined) shown as due on such returns that were filed and has paid all taxes imposed on or assessed against the Company or such respective subsidiary (other than such taxes as the Company or any of its subsidiaries are contesting in good faith and for which adequate reserves have been provided), (b) the provisions for taxes payable, if any, shown on the financial statements filed with or as part of the Registration Statement are sufficient for all accrued and unpaid taxes, whether or not disputed, and for all periods to and including the dates of such consolidated financial statements, and (c) except as disclosed in writing to Debt Holder, (i) no issues have been raised (and are currently pending) by any taxing authority in connection with any of the returns or taxes asserted as due from the Company or its subsidiaries, and (ii) no waivers of statutes of limitation with respect to the returns or collection of taxes have been given by or requested from the Company or its subsidiaries. The term “taxes” mean all federal, state, local, foreign, and other net income, gross income, gross receipts, sales, use, ad valorem, transfer, franchise, profits, license, lease, service, service use, withholding, payroll, employment, excise, severance, stamp, occupation, premium, property, windfall profits, customs, duties or other taxes, fees, assessments, or charges of any kind whatever, together with any interest and any penalties, additions to tax, or additional amounts with respect thereto. The term “returns” means all returns, declarations, reports, statements, and other documents required to be filed in respect to taxes. 
+
+^^Since the respective dates as of which information is given in the Registration Statement, except for the transactions contemplated by this Agreement, the Public Offering and the Private Subscription Agreement and the proposed exchange by Prides Capital Fund I, L.P. of debt for shares of Common Stock, (A) neither the Company nor any of its subsidiaries has incurred any material liabilities or obligations, direct or contingent, required to be reflected on a balance sheet in accordance with generally accepted accounting principles, or entered into any material transactions other than in the ordinary course of business, (B) the Company has not declared or paid any dividends or made any distribution of any kind with respect to its capital stock, (C) there has not been any change in the capital stock of the Company or any of its subsidiaries (other than a change in the number of outstanding shares of Common Stock due to the issuance of shares upon the exercise of outstanding options or warrants or the issuance of restricted stock awards or restricted stock units under the Company’s existing stock awards plan, or any new grants thereof in the ordinary course of business), (D) there has not been any material change in the Company’s long-term or short-term debt, and (E) there has not been the occurrence of any Material Adverse Effect. 
+
+^^There is not pending or, to the Knowledge of the Company, threatened, any action, suit or proceeding to which the Company or any of its subsidiaries is a party or of which any property or assets of the Company is the subject before or by any court or governmental agency, authority or body, or any arbitrator or mediator, which is reasonably likely to result in a Material Adverse Effect. The term “Knowledge” as used in this Agreement shall mean actual knowledge of the Company’s officers after due and reasonable inquiry. 
+
+^^The Company and each of its subsidiaries holds, and is in compliance with, all franchises, grants, authorizations, licenses, permits, easements, consents, certificates and orders (“Permits”) of any governmental or self regulatory agency, authority or body required for the conduct of its business, and all such Permits are in full force and effect, in each case except where the failure to hold, or comply with, any of them is not reasonably likely to result in a Material Adverse Effect. 
+
+^^The Company and its subsidiaries have good and marketable title to all property (whether real or personal) described in the Registration Statement as being owned by them that are material to the business of the Company, in each case free and clear of all liens, claims, security interests, other encumbrances or defects, except as described in the Registration Statement or those that are not reasonably likely to result in a Material Adverse Effect. The property held under lease by the Company and its subsidiaries is held by them under valid, subsisting and enforceable leases with only such exceptions with respect to any particular lease as do not interfere in any material respect with the conduct of the business of the Company or its subsidiaries. 
+
+^^The Company and each of its subsidiaries owns or possesses or has valid right to use all patents, patent applications, trademarks, service marks, trade names, trademark registrations, service mark registrations, copyrights, licenses, inventions, trade secrets and similar rights (“Intellectual Property”) necessary for the conduct of the business of the Company and its subsidiaries as currently carried on and as described in the Registration Statement, except those the absence of which are not reasonably likely to result in a Material Adverse Effect. To the Knowledge of the Company, no action or use by the Company or any of its subsidiaries will involve or give rise to any infringement of, or license or similar fees for, any Intellectual Property of others, except where such action, use, license or fee is not reasonably likely to result in a Material Adverse Effect. Neither the Company nor any of its subsidiaries has received any written notice alleging any such infringement or fee. 
+
+^^The Company and each of its subsidiaries has complied with, is not in violation of, and has not received any written notice of violation relating to any applicable law, rule or regulation relating to the conduct of its business, or the ownership or operation of its property and assets, including, without limitation (to the extent applicable), (A) the Currency and Foreign Transactions Reporting Act of 1970, as amended, or any money laundering laws, rules or regulations, (B) any laws, rules or regulations related to health, safety or the environment, including those relating to the regulation of hazardous substances, (C) the Sarbanes-Oxley Act of 2002 and the rules and regulations of the SEC thereunder, (D) the Foreign Corrupt Practices Act of 1977 and the rules and regulations thereunder, and (E) the Employment Retirement Income Security Act of 1974 and the rules and regulations thereunder, in each case except where the failure to be in compliance is not reasonably likely to result in a Material Adverse Effect. 
+
+^^Neither the Company nor any of its subsidiaries nor, to the Knowledge of the Company, any director, officer, employee, representative, agent or affiliate of the Company or any of its subsidiaries is currently subject to any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”); and the Company will not directly or indirectly use the proceeds of the Public Offering, or lend, contribute or otherwise make available such proceeds to any person or entity, for the purpose of financing the activities of any person currently subject to any U.S. sanctions administered by OFAC. 
+
+^^The Company and each of its subsidiaries carries, or is covered by, insurance in such amounts and covering such risks as is adequate for the conduct of its business and the value of its properties and as is customary for companies engaged in similar businesses in similar industries. 
+
+^^No labor dispute with the employees of the Company or any of its subsidiaries exists or, to the Knowledge of the Company, is imminent that is reasonably likely to result in a Material Adverse Effect. 
+
+^^Neither the Company nor any of its subsidiaries is in violation, breach or default under its certificate of incorporation, bylaws or other equivalent organizational or governing documents, except where the violation is not reasonably likely to result in a Material Adverse Effect. 
+
+^^Neither the Company, its subsidiaries nor, to its Knowledge, any other party is in violation, breach or default of any Contract that is reasonably likely to result in a Material Adverse Effect. 
+
+^^No supplier, customer, distributor or sales agent of the Company has notified the Company that it intends to discontinue or decrease the rate of business done with the Company, except where such decrease is not reasonably likely to result in a Material Adverse Effect. 
+
+^^The Company and its board of directors, or a special committee thereof, have taken all action necessary to exempt this Agreement and the transactions contemplated hereby from the restrictions on business combinations with interested stockholders set forth in Section 203 of the DGCL. 
+
+For the sake of clarity, and without limitation of the Debt Holder’s right to monetary damages for the breach or failure to be true of any representations and warranties, the failure of any representations and warranties in this Section 2 to be true and correct shall not be a condition to the Closing and shall not entitle the Debt Holder not to consummate the exchange of the Note for the Securities and perform its obligations hereunder. 
+
+^Representations and Warranties of the Debt Holder. The Debt Holder hereby represents and warrants to the Company that: 
+
+^^Authorization. The Debt Holder has full power and authority to enter into this Agreement. This Agreement, when executed and delivered by the Debt Holder, will constitute valid and legally binding obligations of the Debt Holder, enforceable in accordance with their terms, except as limited by applicable bankruptcy, insolvency, fraudulent conveyance, or any other laws of general application affecting enforcement of creditors rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies. 
+
+^^Acquiring Securities Entirely for Own Account. The Debt Holder hereby represents that the Securities to be issued to the Debt Holder hereunder will be acquired for investment for the Debt Holder for his own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Debt Holder has no present intention of selling the same. By executing this Agreement, the Debt Holder further represents that the Debt Holder does not presently have any contract, undertaking, agreement or arrangement with any person to sell to any of the Securities to be issued hereunder. 
+
+^^Accredited Investor; Pre-existing Relationship with the Company. The Debt Holder was at the time he was offered the Securities, is as of the date hereof and as of the Closing an “accredited investor” as such term is defined in Rule 501 of Regulation D promulgated pursuant to the Securities Act of 1933, as amended (the “Securities Act”), is knowledgeable, sophisticated and experienced in making, and is qualified to make decisions with respect to, investments in securities presenting an investment decision similar to that involved in the purchase of the Securities, and has requested, received, reviewed and considered all information the Debt Holder deemed relevant in making an informed decision to purchase the Securities and is able to bear the economic risk of an investment in the Securities and, at the present time, is able to afford a complete loss of such investment. The Debt Holder further represents and warrants that the Debt Holder has a pre-existing relationship with the Company and has been in discussions regarding the conversion of the Obligation prior to the commencement of the Public Offering, and Debt Holder is not effecting the conversion contemplated herein in reliance on the Registration Statement or any prospectus supplement filed in connection therewith. 
+
+^^Restricted Stock. The Debt Holder understands that the Securities are “restricted securities” and have not been registered under the Securities Act, or registered or qualified under any state securities law, in reliance on specific exemptions therefrom, which exemptions may depend upon, among other things, the representations made by the Debt Holder in this Agreement; the Debt Holder is acquiring the Securities in the ordinary course of business and for the Debt Holder’s own account for investment only, has no present intention of distributing any of such Securities and has no arrangement or understanding with any other persons regarding the distribution of such Securities. 
+
+^^Transfer Restrictions. The Debt Holder will not, directly or indirectly, offer, sell, pledge, transfer or otherwise dispose of (or solicit any offers to buy, purchase or otherwise acquire or take a pledge of) any of the Securities except in compliance with the Securities Act, applicable state securities laws and the respective rules and regulations promulgated thereunder. 
+
+^^Legend. The Debt Holder understands that the Securities will bear a legend that the Company, in its sole reasonable discretion, deems necessary or advisable under the Securities Act or by the Blue Sky laws of any state to the extent such laws are applicable to the shares represented by the certificate so legended. The Company may instruct its transfer agent not to register the transfer of any Securities until and unless the conditions specified in the legend are satisfied. 
+
+^Further Agreements. 
+
+^^Information Statement and Filings. 
+
+^^As soon as practicable after the date hereof, the Company shall: 
+
+^^^prepare (A) an information statement relating to the approval under NASDAQ Listing Rule 5635(d) of the issuance (the “Issuance”) of shares of Common Stock (i) to certain investors in a private placement pursuant to a Securities Subscription and Purchase Agreement between the Company and the investors named therein, dated as of the date hereof, and (ii) to the Debt Holder pursuant to this Agreement (and to Prides Capital Fund I, L.P. in connection with its exchange of debt for shares of Common Stock) as contemplated by and in accordance with Regulation 14C under the Securities Exchange Act of 1934, as amended (an “Information Statement”; for the sake of clarity, the Authorized Capital Increase will be addressed in the Information Statement) and (B) an amendment to the Company’s definitive proxy statement on Schedule 14A, previously filed with the SEC on [[Date 3: Date]] with respect to proposal 3 contained therein, which relates to the increase in the number of shares of Common Stock authorized for issuance by the Company (the “Proxy Statement Amendment”); 
+
+^^^file the Information Statement and Proxy Statement Amendment with the SEC and use its reasonable best efforts to have the preliminary Information Statement cleared by the SEC as promptly as practicable; and 
+
+(iii)(A) cause the definitive Information Statement and Proxy Statement Amendment to be mailed to the stockholders of the Company in accordance with the provisions of the DGCL and Regulation 14A or 14C, as the case may be, as soon as possible (and in the case of the definitive Information Statement, after the preliminary Information Statement is cleared with the SEC) and (B) use its reasonable best efforts to provide on a timely basis additional information required by NASDAQ with respect to its Listing of Additional Shares notification for the Securities. 
+
+^^Each of the parties hereto shall correct promptly any information provided by it to be used specifically in the Information Statement and Proxy Statement Amendment (the “SEC Documents”), if required, that shall have become false or misleading in any material respect and shall take all steps necessary to file with the SEC and have cleared by the SEC any amendment or supplement to the SEC Documents so as to correct the same and to cause the SEC Documents as so corrected to be disseminated to the stockholders of Company, in each case to the extent required by applicable law. 
+
+^^Voting Agreement. The Debt Holder agrees that he will at any meeting of the Company’s stockholders, however called and any postponement or adjournment thereof, or in connection with any written consent of the Company’s stockholders, vote (or, if applicable, execute consents and approvals in respect of) all of the shares of Common Stock that he owns of record or beneficially as of the date of this Agreement, or that he acquires prior to the Closing, in favor of the Issuance and the Authorized Capital Increase (as defined below), and against any action or agreement that would result in the Issuance or the Authorized Capital Increase not being consummated. The Debt Holder agrees that prior to the Closing, he will not, directly or indirectly sell, transfer, assign, pledge, hypothecate or otherwise dispose of the record or beneficial ownership of, or enter into any other voting arrangement, whether by proxy, voting agreement, voting trust, power-of-attorney or other grant with respect to his shares of Common Stock. 
+
+^^Amendment to Registration Rights Agreement. The Company and the Debt Holder have entered into an amendment to that certain registration rights agreement between the Company and the Debt Holder dated as of [[Date 4: Date]] and as amended on [[Date 5: Date]], in the form of Exhibit A to this Agreement, to become effective concurrently with the Closing. 
+
+^Conditions of the Debt Holder’s Obligations at Closing. The obligations of the Debt Holder to the Company under this Agreement are subject to the fulfillment on or before the Closing of each of the following conditions, unless otherwise waived: 
+
+^^Qualifications. All authorizations, consents, approvals or permits, if any, of any governmental authority or regulatory body of the United States or of any state that are required in connection with the lawful issuance of the shares of Common Stock pursuant to this Agreement shall be obtained and effective as of the Closing. 
+
+^^Information Statement and Filings. The Information Statement and the Proxy Statement Amendment shall have been sent to stockholders of the Company at least 20 calendar days prior to the date of the Closing. 
+
+^^Increase in Authorized Common Stock. The Company’s Certificate of Incorporation shall have been amended to increase the Company’s authorized Common Stock to at least 100,000,000 (the “Authorized Capital Increase”). 
+
+^^Public Offering. The Public Offering shall have been completed and the Company shall have received at least $[[USD Value 2: Number]] in gross proceeds therefrom. 
+
+^Conditions of the Company’s Obligations at Closing. The obligations of the Company to the Debt Holder under this Agreement are subject to the fulfillment on or before the Closing of each of the following conditions, unless otherwise waived: 
+
+^^Representations and Warranties. The representations and warranties of the Debt Holder contained in Section 3 shall be true and correct on and as of the Closing with the same effect as though such representations and warranties had been made on and as of the Closing. 
+
+^^Performance. All covenants, agreements and conditions contained in this Agreement to be performed by the Debt Holder on or prior to the Closing shall have been performed or complied with in all material respects. 
+
+^^Qualifications. All authorizations, consents, approvals or permits, if any, of any governmental authority or regulatory body of the United States or of any state that are required in connection with the lawful issuance and sale of the shares of Common Stock pursuant to this Agreement shall be obtained and effective as of the Closing. 
+
+^^Stockholder Approval. The Company shall have obtained the requisite stockholder approval via written consent for the Issuance in satisfaction of NASDAQ Listing Rule 5635 and all other relevant rules and regulations of The NASDAQ Stock Market and in accordance with the Company’s certificate of incorporation and bylaws and the DGCL. 
+
+^^Information Statement and Filings. The Information Statement and Proxy Statement Amendment shall have been sent to stockholders of the Company at least 20 calendar days prior to the date of the Closing. 
+
+^^Increase in Authorized Common Stock. The Company’s Certificate of Incorporation shall have been amended to effect the Authorized Capital Increase. 
+
+^^Public Offering. The Public Offering for at least $[[USD Value 2]] in gross proceeds shall have been completed. 
+
+^^Litigation. No court or governmental authority or regulatory body of the United States or of any state of competent jurisdiction shall have enacted, issued, promulgated, enforced or entered any statute, law, ordinance, rule, regulation, judgment, decree, injunction or other order that is in effect or taken any other action (whether temporarily, preliminarily or permanently) enjoining, restraining or otherwise prohibiting the consummation of the transactions contemplated by this Agreement or otherwise seeking material damages in connection therewith. 
 
 ^Miscellaneous. 
 
-^^This Agreement shall be construed and enforced in accordance with the laws of the State of California. 
+^^Further Actions. The Company and the Debt Holder agree that in case at any time after the Closing any further action is necessary or desirable to carry out the purposes of this Agreement, each of the parties hereto will take such further action (including without limitation, the execution and delivery of such further instruments and documents) as any other party hereto may reasonably request, provided that no party shall be required to undertake action that would reasonably be expected to result in material liability or (unless reimbursed) expense for such party without its consent. 
 
-^^This Agreement constitutes the entire agreement between the parties and supersedes all prior oral or written negotiations and agreements between the parties with respect to the subject matter hereof. No modification, variation or amendment of this Agreement (including any exhibit hereto) shall be effective unless made in writing and signed by both parties. 
+^^Survival of Warranties. Notwithstanding any investigation made by any party to this Agreement, all covenants, agreements, representations and warranties made by the Company and the Debt Holder herein shall survive the execution of this Agreement, the delivery to the Debt Holder of the Securities being purchased and the payment therefor, and a party’s reliance on such representations and warranties shall not be affected by any investigation made by such party or any information developed thereby. 
 
-^^Each party to this Agreement hereby represents and warrants to the other party that it has had an opportunity to seek the advice of its own independent legal counsel with respect to the provisions of this Agreement and that its decision to execute this Agreement is not based on any reliance upon the advice of any other party or its legal counsel. Each party represents and warrants to the other party that in executing this Agreement such party has completely read this Agreement and that such party understands the terms of this Agreement and its significance. This Agreement shall be construed neutrally, without regard to the party responsible for its preparation. 
+^^Transfer; Successors and Assigns. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. 
 
-^^Each party to this Agreement hereby represents and warrants to the other party that (i) the execution, performance and delivery of this Agreement has been authorized by all necessary action by such party; (ii) the representative executing this Agreement on behalf of such party has been granted all necessary power and authority to act on behalf of such party with respect to the execution, performance and delivery of this Agreement; and (iii) the representative executing this Agreement on behalf of such party is of legal age and capacity to enter into agreements which are fully binding and enforceable against such party. 
+^^Governing Law. This Agreement and all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the State of Delaware, without giving effect to principles of conflicts of law. 
 
-^^This Agreement may be executed in any number of counterparts and may be delivered by facsimile transmission, all of which taken together shall constitute a single instrument. 
+^^Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument. 
 
-This Agreement is entered into and effective as of the date first written above. 
+^^Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
 
-**COMPANY:**      **INVESTOR:**
+^^Notices. Any notice required or permitted hereunder shall be in writing and shall be sufficiently given if personally delivered, delivered by facsimile telephone transmission, delivered by express delivery service (such as Federal Express), or mailed first class U.S. mail, postage prepaid, addressed as follows: 
+
+^^If to the Debt Holder: 
+
+[[Debt Holder]], II 
+
+c/o Prides Capital Partners 
+
+[[Address 1: Address]] 
+
+Tel: [[Phone 1]] 
+
+Fax: [[Phone 2]] 
+
+With a copy to: 
+
+Crowell & Moring LLP 
+
+[[Address 2: Address]] 
+
+Attn: Richard B. Holbrook, Jr., Esq. 
+
+Tel: [[Phone 3]] 
+
+Fax: [[Phone 4]] 
+
+^^If to the Company: 
+
+[[Company]] 
+
+1000 Corporate Drive 
+
+Suite 600 
+
+Ft. Lauderdale, Florida 33334 
+
+Attn: Chief Financial Officer 
+
+Tel: [[Phone 5]] 
+
+Fax: [[Phone 6]] 
+
+with a copy to: 
+
+Holland & Knight LLP 
+
+One East Broward Boulevard, Suite 1300 
+
+[[Address 3: Address]] 
+
+Attn: Kara L. MacCullough 
+
+Tel: [[Phone 7]] 
+
+(or to such other address as any party shall specify by written notice so given), and shall be deemed to have been delivered as of the date so delivered or three (3) days after mailing for domestic mail. 
+
+^^Prevailing Party. In the event that litigation, arbitration or other quasi-judicial proceedings are commenced by any party to this Agreement, the prevailing party shall be entitled to recover all costs and expenses incurred in connection with or arising out of such proceedings (including reasonable attorneys’ fees and expenses incurred in such proceedings and any appeals thereof). 
+
+^^Amendments and Waivers. Any term of this Agreement may be amended or waived only with the written consent of the Company and the Debt Holder. Any amendment or waiver effected in accordance with this Section 7.9 shall be binding upon the Debt Holder and each transferee of the Common Stock, each future holder of all such securities, and the Company. 
+
+^^Severability. If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (a) such provision shall be excluded from this Agreement, (b) the balance of the Agreement shall be interpreted as if such provision were so excluded and (c) the balance of the Agreement shall be enforceable in accordance with its terms. 
+
+^^Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, shall impair any such right, power or remedy of such non-breaching or non-defaulting party nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement or by law or otherwise afforded to any party, shall be cumulative and not alternative. 
+
+^^Entire Agreement. This Agreement constitutes the entire agreement between the parties hereto pertaining to the subject matter hereof, and any and all other written or oral agreements relating to the subject matter hereof existing between the parties hereto are expressly cancelled. 
+
+^^Third Party Beneficiaries. Except as specifically provided in Sections 7.3 and 7.9 hereof, no provision of this Agreement is intended for the benefit of any party other than the parties hereto. 
+
+^^Failure of Public Offering to Occur. In the event that the Public Offering for at least $[[USD Value 2]] in gross proceeds shall not have been consummated within 60 days of the date hereof, either party may terminate this Agreement by written notice to the other party. 
+
+\centered *[Signature Page Follows]* 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the date first written above. 
 
 [[Company]]
 
@@ -43,4 +227,13 @@ __________________________________________
 {{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
 Title: [[Company Signatory Title]]}}
 
-Joseph Merhi, CEO                  [[Investor]]
+
+/s/ [[Debt Holder]], II
+[[Debt Holder]], II**
+
+\centered [*Signature Page to Debt Conversion Agreement*] 
+
+\centered **Schedule 1** 
+
+**Date of Issuance**      **Original** **Principal**      **Maturity Date**      **Accrued Interest Payable as of [[Date 6: Date]]**
+[[Date 2]]      $   500,000      [[Date 7: Date]]      $   1,575

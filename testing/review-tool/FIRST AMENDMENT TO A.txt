@@ -1,54 +1,42 @@
-\centered **FIRST AMENDMENT TO AMENDED AND RESTATED EMPLOYMENT AGREEMENT** 
+\centered FIRST AMENDMENT TO ASSET PURCHASE AND SALE AGREEMENT
 
-This FIRST AMENDMENT TO AMENDED AND RESTATED EMPLOYMENT AGREEMENT (this “First Amendment”) is made as of [[Date 1: Date]], by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Employee]] (the “Employee”). 
+FIRST AMENDMENT TO ASSET PURCHASE AND SALE AGREEMENT, dated [[Date 1: Date]] (the “First Amendment”), by and between [[KeyOn]], a Delaware company (“KeyOn”) on the one hand, and [[RVT]], a Colorado company (“RVT”), on the other hand. Each KeyOn and RVT is hereinafter sometimes referred to as a “Party” and together as the “Parties”. 
 
-\centered W I T N E S S E T H 
+\centered BACKGROUND
 
-WHEREAS, the Employee is currently employed by the Company pursuant to that certain Amended and Restated Employment Agreement dated as of [[Date 2: Date]] (the “Agreement”); 
+WHEREAS, the Parties entered into that certain ASSET PURCHASE AND SALE AGREEMENT dated [[Date 1]] (“The Agreement”) pursuant to which, KeyOn agreed to buy certain assets, and RVT agreed to sell said assets, on the terms and conditions set for in the Agreement; 
 
-WHEREAS, the Company and the Employee desire to extend the term of the Agreement to [[Date 3: Date]], and modify other terms of the Agreement. 
+WHEREAS, as a result of negotiations by and between the Parties, the Parties have agreed to amend the Agreement to restructure certain rights and responsibilities KeyOn and RVT as further provided in this First Amendment;
 
-NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the parties hereto agree as follows: 
+NOW, THEREFORE, for good and valuable consideration, the Parties hereby agree as follow:
 
-^Employment and Term. Section 1 of the Agreement is modified as follows: 
+^Paragraph 3.1 is hereby deleted in its entirety and replaced to read:
 
-The Company hereby employs the Employee, and the Employee hereby accepts employment by the Company, in the capacity and upon the terms and conditions set forth herein. The term of employment under this Agreement shall be for the period commencing [[Date 4: Date]] and ending on [[Date 3]], unless earlier terminated as herein provided (the “Term of Employment”).
+^^Purchase Price. Provided that Seller delivers 443 Qualified Subscribers as of the Closing Date, in full consideration of the sale and purchase of the Assets as set forth herein, Buyer shall pay to Seller an amount equal to $[[USD Value 1: Number]] The Purchase Price is calculated by the number of Qualified Subscribers as of the Closing Date, multiplied by the Individual Qualified Subscriber Value (the “Total Qualified Subscriber Value”). To the extent number of Qualified Subscribers as of the Closing Date exceeds 443, the Purchase Price shall be increased by the number of Qualfied Subscribers greater than 443 multiplied by the Individual Qualified Subscriber Value. However, to the extent the number of Qualified Subscribers as of the Closing Date is less than 443, the Purchase Price shall be reduced by the number of Qualified Subscribers multiplied by the Individual Qualified Subscriber Value. The Total Qualified Subscriber Value shall then be adjusted by the Purchase Price Adjustment as provided in Section 3.2, which final amount shall constitute the “Purchase Price”.The Purchase Price shall be paid in the following manner: 
 
-^Compensation and Benefits. Section 3 of the Agreement is revised as follows: 
+^^Buyer shall pay to Seller the Purchase Price consisting of [[Shares 1: Number]] shares of common stock of the Buyer. The Purchase Price shall be calculated by the number of Qualified Subscribers determined by the Buyer on the day prior to Closing, multiplied by the Individual Qualified Subscriber Value (the “Total Qualified Subscriber Value”), less any Purchase Price Adjustments; and
 
-Section 3 (a) of the Agreement is deleted in its entirety and replaced with the following: 
+^^Buyer and Seller shall determine the Purchase Price, including all Purchase Price Adjustments arising under Section 3.2 and all proration adjustments pursuant to this Agreement, to the extent known or then subject to calculation, on the Closing Date, which estimate shall be provided by Seller to Buyer for Buyer’s review and approval prior to the Closing. On the Closing Date, the Seller shall receive ninety percent ([[Percentage 1: Number]]%) of the Purchase Price. No later than three weeks after the Closing Date, Buyer and Seller shall make any additional net adjustment by payment of one to the other to effect a final adjustment in the Purchase Price, which shall include a true-up of the Purchase Price determination based upon the actual number of Qualified Subscribers and finalization of the Purchase Price Adjustments and the Buyer shall deliver the balance of the Purchase Price, as mutually determined by the Parties.
 
-^^Base Salary. The Company shall pay the Employee a base salary (“Base Salary”) at an annual rate of $[[USD Value 1: Number]] payable at such times and in accordance with the standard payroll practices of the Company until [[Date 5: Date]]. Beginning on [[Date 6: Date]], the Company shall pay the Employee a Base Salary at an annual rate of $[[USD Value 2: Number]] payable at such times and in accordance with the standard payroll practices of the Company. 
+^Paragraph 7.9 is hereby deleted in its entirety and replaced to read:
 
-^^3 (b) and 3 (c) are deleted in their entirety. 
+Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise, and RVT agrees to assign such franchise. 
 
-All other provisions of Section 3 are unmodified. 
-
-^Termination of Employment. Section 5(a)(i) of the Agreement is deleted entirely and replaced with the following: 
-
-^^^^^ 
-^^^On [[Date 3]] (absent the parties having entered into a written agreement for the renewal or extension of this Agreement); provided, however, that the Employee can terminate this Agreement upon 90 days prior written notice to the Company informing the Company of the earlier date upon which this Agreement will terminate (which date would become the Date of Termination). 
-
-The rest of Section 5(a) remains unmodified. 
-
-^Payments Upon Termination of Employment. Section 6 is amended as follows: 
-
-All references to the annual bonus are hereby deleted. Section 6(a) is deleted in its entirety and replaced with the following:
-
-6(a) Termination upon Expiration of Term of Employment. If the Employee’s employment hereunder is terminated pursuant to Section 5(a)(i), the Company shall pay or provide to Employee in a lump sum payment within thirty (30) days following the Date of Termination, all Base Salary pursuant to Section 3(a) hereof and any vacation pay pursuant to Section 3(g) hereof, in each case which has been earned but not been paid as of the Date of Termination. Notwithstanding any other provision regarding benefits, Employee shall be entitled to Cobra as permitted by law after the Date of Termination pursuant to the program guidelines. 
-
-All references in Section 6 to [[Date 5]] are here by replaced with [[Date 3]]. All other provisions of Section 6 remain the same.
-
-^Counterparts. This First Amendment may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which taken together shall constitute one and the same instrument. 
-
-IN WITNESS WHEREOF, the parties hereto have duly executed this First Amendment as of the date first above written. 
-
-[[Company]]
-[[Company Signatory Email: Identity | Signature]]
+[[Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise and RVT agrees to assign such franchise. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
-Title: [[Company Signatory Title]]}}
+{{Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise and RVT agrees to assign such franchise. Entity => By: [[Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise and RVT agrees to assign such franchise. Signatory First Name]] [[Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise and RVT agrees to assign such franchise. Signatory Last Name]]
+Title: [[Franchise Agreement. It is understood by and between the Parties that certain of the assets of the Business are the subject of a franchise agreement entered into by Seller and certain third-parties. KeyOn hereby assumes an assignment of the franchise and RVT agrees to assign such franchise. Signatory Title]]}}
 
+All other terms and the Conditions of the Agreement shall remain unchanged.
 
-/s/ [[Employee]]
-[[Employee]]
+IN WITNESS WHEREOF, the Parties have each approved and executed this First Amendment set forth above. 
+
+[[RVT]]**   [[KeyOn]]
+
+[[RVT   KeyOn Signatory Email: Identity | Signature]]
+__________________________________________
+{{RVT   KeyOn Entity => By: [[RVT   KeyOn Signatory First Name]] [[RVT   KeyOn Signatory Last Name]]
+Title: [[RVT   KeyOn Signatory Title]]}}
+
+**Name:**   **Name: Jason Lazar**
+**Its:**   **Its: Vice President Corporate Development & General Counsel**

@@ -1,0 +1,36 @@
+\centered **FIFTH AMENDMENT TO SERVICE AGREEMENT** 
+
+This Fifth Amendment (the “Fifth Amendment”) dated as of [[Date 1: Date]] (the “Effective Date”), by and between [[Ventiv]], a [[State of Formation: State]] [[Organization: EntityType]] (“Ventiv”) and [[Client]], a [[State of Formation: State]] [[Organization: EntityType]] (“Client”). Ventiv and Client may each be referred to herein as a “Party” and collectively, the “Parties". 
+
+\centered W I T N E S S E T H: 
+
+WHEREAS, Ventiv, as successor in interest to Cardinal Health PTS, and Client are parties to that certain Contract Sales and Service Agreement dated as of [[Date 2: Date]], as amended, by that First Amendment to Contract Sales and Service Agreement dated as of [[Date 3: Date]], a Second Amendment to Contract Sales and Service Agreement dated as of [[Date 4: Date]], a Third Amendment to Contract Sales and Service Agreement dated as of [[Date 5: Date]], and a Fourth Amendment Contract Sales and Service Agreement dated as of [[Date 6: Date]] (collectively, the “Service Agreement”). 
+
+WHEREAS, Ventiv and Client desire to supplement and amend the Service Agreement as set forth herein. 
+
+NOW THEREFORE, in consideration of the premises and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, it is agreed as follows: 
+
+^Except as provided in this Fifth Amendment, the terms and conditions set forth in the Service Agreement shall remain unaffected by execution of this Fifth Amendment. To the extent any provisions or terms set forth in this Fifth Amendment conflict with the terms set forth in the Service Agreement, the terms set forth in this Fifth Amendment shall govern and control. Terms not otherwise defined herein, shall have the meanings set forth in the Service Agreement. 
+
+^Section 14 of the Service Agreement is amended to provide that the Renewal Term shall be extended from the Effective Date through [[Date 7: Date]] (the “Extended Term”). In addition, the Extended Term shall automatically and continuously extend for additional periods of one month each, until such time as one Party provides the other Party with forty-five (45) days prior written notice (it being understood and agreed that the actual termination date shall not be prior to [[Date 7]]). 
+
+^Commencing on the Effective Date, Section I (Fixed Fees) of Schedule 3.1 (Compensation  Implementation Fees, Fixed Fees and Pass-Through Costs and Billing Terms) is amended to provide for Client to pay Ventiv a fixed monthly fee as follows: 
+
+\centered 
+
+**PERIOD**    **FIXED MONTHLY FEE** [[Date 1]] through end of Extended Term (per month)    $[[USD Value 1: Number]]  
+
+^This Fifth Amendment may be executed simultaneously in multiple counterparts, each of which shall be deemed an original, but all of which taken together shall constitute one and the same instrument. Execution and delivery of this Fifth Amendment by exchange of facsimile copies bearing the facsimile signature of a party hereto shall constitute a valid and binding execution and delivery of this Fifth Amendment by such party. Such facsimile copies shall constitute enforceable original documents. 
+
+^The terms of this Fifth Amendment are intended by the Parties to be the final expression of their agreement with respect to the subject matter hereof and may not be contradicted by evidence of any prior or contemporaneous agreement. The Parties further intend that this Fifth Amendment constitute the complete and exclusive statement of its terms and shall supersede any prior agreement with respect to the subject matter hereof. 
+
+WHEREFORE, the Parties hereto have caused this Fifth Amendment to be executed by their duly authorized representatives. 
+
+\centered 
+
+[[Ventiv]] By: /s/ Paul Mignon 
+
+Name: Paul Mignon Title: President, inVentiv Selling Solutions [[Client]]   By: /s/ A.J. Kazimi 
+
+Name: A.J. Kazimi Title: CEO  
+ 

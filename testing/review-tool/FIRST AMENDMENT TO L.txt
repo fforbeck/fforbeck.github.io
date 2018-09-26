@@ -1,83 +1,97 @@
-\centered **FIRST AMENDMENT TO LOAN MODIFICATION AND SETTLEMENT AGREEMENT**
+\centered **FIRST AMENDMENT TO LOAN AGREEMENT**
 
-This FIRST AMENDMENT TO THE LOAN MODIFICATION AND SETTLEMENT AGREEMENT (this “Amendment”) is effective as of the [[Date 1: Date]] (the “Effective Date”), by and between Nexity Bank, an [[State of Formation: State]] [[Organization: EntityType]], (“Nexity”) and [[First National]], a [[State of Formation: State]] [[Organization: EntityType]] (“First National”) and amends that certain Loan Modification and Settlement Agreement between Nexity and First National effective as of [[Date 2: Date]] (the “Modification Agreement”).
+This FIRST AMENDMENT TO LOAN AGREEMENT (this "***Amendment***") is made and entered into effective as of [[Date 1: Date]] (the "***Effective Date***"), by and among [[Borrower]], a [[State of Formation: State]] [[Organization: EntityType]] (the "***Borrower***"), Golden Bridge LLC ("***Golden Bridge***"), W Capital, Inc. ("W Capital"), and [[McDonald]] ("***McDonald***"). 
 
-\centered **RECITALS**
+WHEREAS, Golden Bridge, W Capital and McDonald are each a "Lender Party" and collectively the "Lender" under that certain Loan Agreement dated [[Date 2: Date]] (the "***Loan Agreement***"), with the Borrower and its subsidiary Good Times Drive Thru, Inc., a Colorado corporation (the "***Co-Maker***");
 
-WHEREAS, pursuant to the Loan Documents (as such term is defined in the Modification Agreement), First National borrowed from Nexity a principal amount of up to $[[USD Value 1: Number]];
+WHEREAS, Section 8(b) of the Loan Agreement provides that any provision of the Loan Agreement may be amended, waived or modified only upon the written consent of the Borrower and the Lender; and
 
-WHEREAS, as of the Effective Date, the outstanding balance of such loan is $[[USD Value 2: Number]].
+WHEREAS, the Borrower and the Lender desire to amend the terms of the Loan Agreement as set forth below.
 
-WHEREAS, First National defaulted under the Loan Documents for failure to make payment when due and the parties entered into the Modification Agreement to amend the Loan Documents;
+NOW, THEREFORE, in consideration of the mutual covenants, agreements and for other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties agree as follows:
 
-WHEREAS, under the Modification Agreement, First National was required to obtain regulatory approval and make payment of the Settlement Amount (as such term is defined in the Modification Agreement) of $[[USD Value 3: Number]] plus accrued interest by [[Date 3: Date]];
+^Repayment of Golden Bridge Principal Amount; Liability for Accrued Interest. 
 
-WHEREAS, First National defaulted under the Modification Agreement for failure to obtain regulatory approval to make payment when due on [[Date 3]] and remains in default as of the Effective Date;
+^^On the Effective Date, the Borrower shall pay to Golden Bridge the sum of $[[USD Value 1: Number]] which is equal to the aggregate principal amount which has heretofore been advanced by Golden Bridge to the Borrower pursuant to the Loan Agreement. From and after the Effective Date, Golden Bridge shall cease to be a Lender Party under the Loan Agreement and shall cease to have any rights or obligations thereunder.
 
-WHEREAS, except as provided herein, Nexity does not intend to, and does not, alter, modify or waive any rights available to it by contract or law;
+^^Notwithstanding the foregoing, the Borrower shall remain liable to Golden Bridge for the amount of accrued interest on the aggregate principal amount advanced by Golden Bridge from the date of each advance through the Effective Date at a rate equal to [[Percentage 1: Number]]% per annum, computed on the basis of the actual number of days elapsed and a year of 365 days. Such accrued interest amount shall be payable to Golden Bridge on [[Date 3: Date]]. 
 
-WHEREAS, First National and Nexity desire to amend the Modification Agreement as provided herein; and
+11310954.1 
 
-WHEREAS, each of the Recitals set forth above are expressly incorporated into the Agreement section of this Amendment.
+^Additional Advances by W Capital and McDonald. On the Effective Date, W Capital shall advance to the Borrower an additional principal amount of $[[USD Value 2: Number]] and McDonald shall advance to the Borrower an additional principal amount of $[[USD Value 3: Number]] The additional advances required by this Amendment shall not be constitute an "Additional Closing" under Section 2(b) of the Loan Agreement.
 
-\centered **AGREEMENT**
+^Cancellation of Existing Note; Issuance of New Note. On the Effective Date, the Secured Convertible Promissory Note, dated [[Date 2]], issued by the Borrower and the Co-Maker to Golden Bridge, W Capital and McDonald, shall be cancelled in its entirety. The Borrower and the Co-Maker shall issue a new Secured Convertible Promissory Note to W Capital and McDonald, in substantially the form attached hereto as Exhibit A.
 
-NOW, THEREFORE, in consideration of the foregoing and for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows:
+^Cancellation of Golden Bridge Warrant; Issuance of New Warrants. On the Effective Date, the Warrant, dated [[Date 2]], issued by the Borrower to Golden Bridge, shall be cancelled in its entirety. The Borrower shall issue new warrants to W Capital, with respect to [[Shares 1: Number]] shares of the Borrower's Common Stock, and McDonald, with respect to [[Shares 2: Number]] shares of the Borrower's Common Stock, in substantially the forms attached hereto as Exhibit B and Exhibit C, respectively.
 
-^Paragraph 3 of the Loan Modification is hereby deleted in its entirety and replaced with the following:
+^Issuance of Additional Warrants pursuant to Loan Agreement. The number of "Additional Warrant Shares" issuable to each Lender Party pursuant to Section 1(c) of the Loan Agreement shall be as follows:
 
-On [[Date 4: Date]], First National shall remit to Nexity via wire transfer
+Lender Party Additional Warrant Shares
 
-$[[USD Value 4: Number]] to satisfy interest owed to Nexity as of [[Date 2]].
+^Capital 37,500
 
-^Paragraph 4 of the Loan Modification is hereby amended by deleting the words “[[Date 3]]” and replacing them with the words “[[Date 5: Date]].”
+McDonald 12,500
 
-^Except as expressly modified herein, all terms of the Modification Agreement shall be and shall remain in full force and effect and shall constitute the legal, valid, binding and enforceable obligations of First National to Nexity. This Amendment shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+Schedule I to the Loan Agreement is hereby automatically amended to reflect the foregoing.
 
-\centered [signature pages follow]
+^Effect of this Amendment. Except as specifically amended as set forth herein, each term and condition of the Loan Agreement shall continue in full force and effect.
 
-In witness whereof, the undersigned has executed this Amendment as of the Effective Date.
+11310954.1 
 
+^Counterparts; Facsimile Signatures. This Amendment may be executed or consented to in counterparts, each of which shall be deemed an original and all of which taken together shall constitute one and the same instrument. This Amendment may be executed and delivered by facsimile or electronically and, upon such delivery, the facsimile or electronically transmitted signature will be deemed to have the same effect as if the original signature had been delivered to the other party. 
 
+11310954.1 
 
-[[In witness whereof the undersigned has executed this Amendment as of the Effective Date. Signatory Email: Identity | Signature]]
+The parties have caused this Amendment to be duly executed and delivered effective as of the date and year first written above.
+
+[[Borrower]]
+
+[[Borrower Signatory Email: Identity | Signature]]
 __________________________________________
-{{In witness whereof the undersigned has executed this Amendment as of the Effective Date. Entity => By: [[In witness whereof the undersigned has executed this Amendment as of the Effective Date. Signatory First Name]] [[In witness whereof the undersigned has executed this Amendment as of the Effective Date. Signatory Last Name]]
-Title: [[In witness whereof the undersigned has executed this Amendment as of the Effective Date. Signatory Title]]}}
-
-As its: Executive Vice President
-
-STATE OF ) 
-
-) 
-
-COUNTY)  
-^, the undersigned, a Notary Public in and for said county in said state, hereby certify that , whose name as of Nexity Bank is signed to the foregoing instrument and who is known to me, acknowledged before me on this day that, being fully informed of the contents of the above and foregoing instrument, he, with full authority, executed the same voluntarily for and as the act of said corporation on the day the same bears date.
-
-Given under my hand and seal on this 
-
-the day of , 2010.  
-Notary Public: ____________________ 
-My commission expires: ____________    
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
 
 
-[[My commission expires Signatory Email: Identity | Signature]]
+^CAPITAL, INC.
+
+[[W CAPITAL INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{My commission expires Entity => By: [[My commission expires Signatory First Name]] [[My commission expires Signatory Last Name]]
-Title: [[My commission expires Signatory Title]]}}
+{{W CAPITAL INC. Entity => By: [[W CAPITAL INC. Signatory First Name]] [[W CAPITAL INC. Signatory Last Name]]
+Title: [[W CAPITAL INC. Signatory Title]]}}
 
-As its: President & Chief Executive Officer
 
-STATE OF ) 
+/s/ [[McDonald]] 
 
-) 
+[[McDonald]], an individual
 
-COUNTY)
+**GOLDEN BRIDGE LLC**
 
-^, the undersigned, a Notary Public in and for said county in said state, hereby certify that , whose name as of [[First National]] is signed to the foregoing instrument and who is known to me, acknowledged before me on this day that, being fully informed of the contents of the above and foregoing instrument, he/she, with full authority, executed the same voluntarily for and as the act of said corporation on the day the same bears date.
+[[GOLDEN BRIDGE LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{GOLDEN BRIDGE LLC Entity => By: [[GOLDEN BRIDGE LLC Signatory First Name]] [[GOLDEN BRIDGE LLC Signatory Last Name]]
+Title: [[GOLDEN BRIDGE LLC Signatory Title]]}}
 
-Given under my hand and seal on this 
 
-the day of , 2010.  
-Notary Public: ____________________ 
-My commission expires: ____________
+11310954.1 
+
+\centered **EXHIBIT A**
+
+\centered **NEW SECURED CONVERTIBLE PROMISSORY NOTE**
+
+\centered [Attached]
+
+11310954.1 
+
+\centered **EXHIBIT B**
+
+\centered **NEW WARRANT TO W CAPITAL, INC.**
+
+\centered [Attached]
+
+11310954.1 
+
+\centered **EXHIBIT C**
+
+\centered **NEW WARRANT TO [[McDonald]]
+
+[Attached] 11310954.1

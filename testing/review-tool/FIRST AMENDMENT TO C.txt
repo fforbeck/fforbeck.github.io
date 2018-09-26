@@ -1,191 +1,215 @@
-\centered **FIRST AMENDMENT TO CREDIT AND SECURITY AGREEMENT**
+^^** 
 
-This First Amendment to Credit and Security Agreement (“Amendment”) is entered into as of [[Date 1: Date]], by and between **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“Borrower”) and **City National Bank,** a national banking association (“CNB”).
+\centered **FIRST AMENDMENT TO CREDIT AGREEMENT** 
 
-\centered **RECITALS**
+THIS FIRST AMENDMENT TO CREDIT AGREEMENT (this “**Amendment**”) is executed as of the [[Date 1: Date]], by and among **[[US Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “**US Borrower**”) **EDGEN MURRAY CANADA INC.**, an [[State of Formation: State]] [[Organization: EntityType]] (the “**Canadian Borrower**”) **EDGEN MURRAY EUROPE LIMITED**, a limited company incorporated under the laws of England and Wales with registered number 01241058 (the “**UK Borrower**”), **[[Party 2]]** Agent and the UK Collateral Agent. 
 
-^Borrower and CNB are parties to that certain Credit and Security Agreement, dated as of [[Date 2: Date]] (the “Credit Agreement”).
+\centered W I T N E S S E T H: 
 
-^Borrower and CNB desire to supplement and amend the Credit Agreement as hereinafter set forth.
+WHEREAS, the Borrowers, certain affiliates of the Borrowers, the Lenders, the Agents and the Issuing Bank are parties to that certain Credit Agreement dated as of [[Date 2: Date]] (as amended, supplemented and modified from time to time, the “Credit Agreement;” unless otherwise defined herein, all capitalized terms used herein which are defined in the Credit Agreement shall have the meaning given such terms in the Credit Agreement), pursuant to which the Lenders provide certain financing to the Borrowers in accordance with the terms and conditions set forth therein; and 
 
-**NOW, THEREFORE,** the parties agree as follows:
+WHEREAS, the Borrowers, the Agents and the Lenders on the date hereof desire to amend the Credit Agreement as set forth herein. 
 
-^**Definitions.** Capitalized terms used in this Amendment without definition shall have the meanings set forth in the Credit Agreement.
+NOW THEREFORE, for and in consideration of the mutual covenants and agreements herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged and confirmed, the parties hereto hereby agree as follows: 
 
-^**Amendments.** The Credit Agreement is amended as follows:
+^Amendments to the Credit Agreement. In reliance on the representations, warranties, covenants and agreements contained in this Amendment, but subject to the satisfaction of each condition precedent set forth in Section 2 hereof, the Credit Agreement shall be amended effective as of the date hereof in the manner provided in this Section 1. 
 
-^^Sections 1.3, 1.5, 1.12, 1.18, 1.19.5, 1.37 and 1.54 are deleted in their entirety and reserved for future use.
+^^Definition of 2Applicable Rate. The definition of “Applicable Rate” contained in Section 1.1 of the Credit Agreement shall be amended to replace the contents of the “UK Base Rate Spread” column with the following: 
 
-^^Sections 1.7, 1.17, 1.20, 1.21, 1.23, 1.24, 1.39, 1.47 and 1.53 in the Definitions section are stricken and replaced with the following:
+\centered **UK Base Rate Spread**
+\centered [[Percentage 1: Number]]%
+\centered [[Percentage 2: Number]]%
+\centered [[Percentage 3: Number]]%
 
-^^**“Borrowing Base”** will be in an amount, determined by CNB, equal to the lesser of (a) the sum of (i) seventy five percent ([[Percentage 1: Number]]%) of Eligible Recurring Revenues, plus (ii) fifty percent ([[Percentage 2: Number]]%) of the Paid Admission Based Payments, or (b) the Backlog divided by 3. In no event will the Borrowing Base exceed the lesser of the Revolving Credit Commitment.
+^^Amendment to Section 2.05 of the Credit Agreement. Clause (c) of Section 2.05 of the Credit Agreement shall be amended and restated in its entirety to read in full as follows: 
 
-^^**“EBITDA”** will be determined on a consolidated basis for Borrower and the Subsidiaries, in accordance with GAAP, and means the sum of (a) net income after eliminating extraordinary gains and losses, plus (b) interest expense, plus (c) provisions for income taxes, plus (d) property and use taxes not reimbursed to Borrower, plus (e) depreciation and amortization, plus (f) monitoring fees (in an aggregate amount not to exceed $[[USD Value 1: Number]] per year) paid by Borrower to Shamrock, plus (g) restructuring charges, severance costs and reserves (including restructuring charges relating to acquisitions and the consolidation of facilities), plus (h) impairment of long lived assets, each of such items determined based on the months in the fiscal period ending on the date of determination.
+^^The Administrative Agent, on behalf of the US Swingline Lender, the Canadian Administrative Agent, on behalf of the Canadian Swingline Lender and the UK Administrative Agent on behalf of the UK Swingline Lender, may request settlement (a “**Settlement**”) with the US Revolving Lenders, the Canadian Revolving Lenders and the UK Revolving Lenders, as applicable, on any date that the Applicable Agent elects but on at least a weekly basis, by notifying the Revolving Lenders of the applicable Class of such requested Settlement by facsimile, telephone, or e-mail no later than 12:00 noon, Local Time, on the date of such requested Settlement (each, a “**Settlement Date**”). Each US Revolving Lender (other than the US Swingline Lender, in the case of the US Swingline Loans), each Canadian Revolving Lender (other than the Canadian Swingline Lender, in the case of the Canadian Swingline Loans) and each UK Revolving Lender (other than the UK Swingline Lender, in the case of the UK Swingline Loans), as applicable, shall transfer the amount of the applicable Revolving Lender’s Applicable Percentage of the outstanding principal amount of the applicable Swingline Loan with respect to which the applicable Settlement is requested to the Applicable Agent, to such account of the Administrative Agent as such Agent may designate, not later than 2:00 p.m., Local Time, on such Settlement Date. Settlements may occur during the existence of a Default and whether or not the applicable conditions precedent set forth in Section 4.02 have then been satisfied. Such amounts transferred to the Applicable Agent shall be applied against the amounts of the applicable Swingline Lender’s Swingline Loans and, together with the applicable Swingline Lender’s Applicable Percentage of such Swingline Loan, shall constitute the Revolving Loans of the applicable Revolving Lenders, respectively. If any such amount is not transferred to Applicable Agent by the applicable Revolving Lender on the applicable Settlement Date, the applicable Swingline Lender shall be entitled to recover such amount on demand from such Lender together with interest thereon as specified in Section 2.07(b).
 
-^^**“Eligible Period”** means, for any measurement date, (a) for purposes of calculating the Borrowing Base, the twelve (12) month period beginning on the measurement date, and (b) for purposes of calculating the Backlog, the thirty-six (36) month period beginning on the measurement date.
+^^Amendment to Section 2.18 of the Credit Agreement. The last sentence of each of clauses (b), (c), (d), (e) and (f) of Section 2.18 of the Credit Agreement shall be deleted in their entirety. 
 
-^^**“Eligible Recurring Revenues”** means, for any Eligible Period, the sum of Release Based Payments plus Scheduled License Payments.
+^^Amendment to Section 5.01 of the Credit Agreement. Clause (d) of Section 5.01 of the Credit Agreement shall be amended and restated in its entirety to read in full as follows: 
 
-^^**“Facility Fee”** is $[[USD Value 2: Number]]
+^^concurrently with any delivery of financial statements under clause (a) or (b) above, a certificate of a Financial Officer of the Borrower
 
-^^**“Fixed Charges”** means, as of the date of determination, the sum (without duplication) of (a) the aggregate amount of Current Maturity of Long-Term Debt (“Current Maturity of Long-Term Debt” means that portion Borrower’s consolidated long-term liabilities, determined in accordance with GAAP for borrowed money, which will, by the terms thereof, become due and payable within one (1) year following the date of the balance sheet upon which such calculations are based; provided, however, that the outstanding principal balance of the Loans due and payable within such one (1) year period shall not be included in Fixed Charges), plus (b) all interest incurred on borrowed money, plus (c) provisions for income taxes, plus (d) all capital expenditures for maintenance, other than any costs related to the roll-out of new **[[Borrower]]** 3-D theater systems, each of such items to be determined based on the number of months elapsed in the fiscal period ending on the date of determination. Capital expenditures for maintenance will specifically exclude (i) any replacement of Z Screens with XLs (i.e., upgrades), and (ii) any purchases of Digital Link Projectors and servers. The provision for income taxes will specifically exclude sales and use taxes and property taxes.
+Representative in substantially the form of Exhibit F (i) certifying, in the case of the financial statements delivered under clause (b), as presenting fairly in all material respects the financial condition and results of operations of each Borrower and its consolidated Subsidiaries on a consolidated and consolidating basis in accordance with GAAP consistently applied, subject to normal year-end audit adjustments and the absence of footnotes, (ii) certifying as to whether a Default has occurred and, if a Default has occurred, specifying the details thereof and any action taken or proposed to be taken with respect thereto, (iii) setting forth and certifying to reasonably detailed calculations of the Fixed Charge Coverage Ratio (which calculations shall be provided whether or not Section 6.13 is then applicable, but which calculation will not be required to be certified when Section 6.13 is not applicable), and (iv) in the case of financial statements delivered under clause (a) only, stating whether any change in GAAP or in the application thereof has occurred since the date of the prior fiscal year’s audited financial statements and, if any such change has occurred, specifying the effect of such change on the financial statements accompanying such certificate;
 
-^^**“Paid Admission Based Payments”** means, for an Eligible Period, with respect to those Eligible License Agreements under which royalty payments are based on an admission fee for each paid admission for each Screen for each motion picture the estimated box office receipts shown on the Paid Admission Based Payments Schedule provided by Borrower to CNB.
+^^Amendment to Section 5.16 of the Credit Agreement. Section 5.16 of the Credit Agreement shall be amended to delete each reference to “Egden” in clauses (a), (b) and thereof and to replace them with “Edgen”. 
 
-^^**“Revolving Credit Commitment”** or **“Commitment”** means CNB’s commitment to make the Loans in the aggregate principal amount outstanding at any one time of up to (a) Fifteen Million Dollars ($[[USD Value 3: Number]]) if the minimum number of Screens is less than 3,300, (b) Twenty Million Dollars ($[[USD Value 4: Number]]) if the minimum number of Screens equals or exceeds 3,300 but are less than 3,450, and (c) Twenty Five Million Dollars ($[[USD Value 5: Number]]) if the minimum number of Screens equals or exceeds 3,450.
+^^Amendment to Section 6.04 of the Credit Agreement. Clauses (c) and (d) of Section 6.04 of the Credit Agreement shall be amended and restated in their entirety to read in full as follows: 
 
-^^**“Termination Date”** means the earlier to occur of (a) [[Date 3: Date]], or (b) the Initial Public Offering Date, unless the term of this Agreement is renewed by CNB for an additional period under Section 3, or such earlier terminated date under Section 9.3 upon the occurrence of an Event of Default. Upon any renewal, the Termination Date will be the renewed maturity date determined by CNB.
+^^(i) investments by any Loan Party which is a direct or indirect parent of the US Borrower or UK Borrower in such US Borrower or UK Borrower or in any other direct or indirect parent of the US Borrower or UK Borrower, (ii) investments by the US Borrower in any Subsidiary of the US Borrower which is a US Loan Party, (iii) investments by any Canadian Loan Party or UK Loan Party in any other Canadian Loan Party or UK Loan Party, (iv) investments by any UAE Loan Party or Singapore Loan Party in any other UAE Loan Party or Singapore Loan Party, (v) investments by any UK Loan Party in any UAE Loan Party or Singapore Loan Party, provided, that after giving effect thereto, UK Availability is not less than $[[USD Value 1: Number]] and no Event of Default exists; (vi) investments by any Canadian Loan Party in any UAE Loan Party or Singapore Loan Party; provided that after giving effect thereto, Canadian Availability is not less than $[[USD Value 2: Number]] and no Event of Default exists, (vii) other investments by any Loan Party other than a Singapore Loan Party or a UAE Loan Party; provided, that, after giving effect thereto Aggregate Availability is not less than $[[USD Value 3: Number]] and no Event of Default exists, and (viii) other investments by any Singapore Loan Party or any UAE Loan Party; provided that, after giving effect thereto aggregate Singapore Availability and UAE Availability is not less than $[[USD Value 2]] and no Event of Default exists.
 
-^^New Sections 1.55, 1.56, 1.57, 1.58, 1.59 and 1.60 are added as follows:
+^^loans or advances made by any Loan Party to any other Loan Party or Subsidiary and made by any Subsidiary to any Loan Party or any other Subsidiary, provided that (i) such loans and advances shall be evidenced by the Global Intercompany Note, (ii) after giving effect to any loan or advance by a US Borrower or any Subsidiary of the US Borrower which is a US Loan Party to Holdings or any Loan Party which is not a US Loan Party, US Availability is not less than $[[USD Value 1]] and no Event of Default exists, (iii) after giving effect to any loan or advance by the UK Borrower or Canadian Borrower or any Subsidiary of the UK Borrower or Canadian Borrower which is a UK Loan Party or Canadian Loan Party to any Loan Party which is not a UK Loan Party or Canadian Loan Party, UK Availability is not less than $[[USD Value 4: Number]] Canadian Availability is not less than $[[USD Value 2]] and no Event of Default exists, (iv) after giving effect to any loan or advance by any US Borrower, Canadian Borrower or UK Borrower or any of their Subsidiaries which is a Loan Party to any Subsidiary which is not a Loan Party, Aggregate Availability is not less than $[[USD Value 3]] and no Event of Default exists, and (v) after giving effect to any loan or advance by any Singapore Loan Party or any UAE Loan Party to any Loan Party or Subsidiary which is not a Singapore Loan Party or UAE Loan Party; aggregate Singapore Availability and UAE Availability is not less than $[[USD Value 2]] and no Event of Default exists; 
 
-^^**“Backlog”** means, for an Eligible Period, an amount, determined by CNB, equal to the sum of (a) one hundred percent ([[Percentage 3: Number]]%) of Eligible Recurring Revenues plus (b) fifty percent ([[Percentage 2]]%) of the Paid Admission Based Payments shown on the Paid Admission Based Payments Schedule; provided, however, that the amount of
+^^Amendment to Section 6.11 of the Credit Agreement. Section 6.11 of the Credit Agreement shall be amended to insert the word “any” immediately before the first word of clause (a) of Section 6.11. 
 
-Released Based Payments included in Eligible Recurring Revenues shall be based on a maximum number of 5,000 Screens for any motion picture. For the purposes of this calculation, all 3-D motion pictures that are announced by studios to occur with releases scheduled shall be included, even if the release has been scheduled for a period (e.g. Christmas 2011 or Summer 2012) rather than a specific date, and the related box office receipts (whether estimated or actual) shall include those for both foreign and domestic Screens.
+^^Amendment to Section 6.13 of the Credit Agreement. Section 6.13 of the Credit Agreement shall be amended and restated in its entirety to read in full as follows: 
 
-^^**“Backlog Report”** means a report, in form and substance satisfactory to CNB, executed by Borrower to evidence the Backlog.
+Section 6.13 Fixed Charge Coverage Ratio. Holdings will not permit its Fixed Charge Coverage Ratio to be less than 1.25 to 1.00 for any Fixed Charge Coverage Period; provided, that this covenant shall only be applicable to the extent (a) Aggregate Availability is ever less than $[[USD Value 5: Number]] or (b) the sum of US Availability and Canadian Availability is ever less than $[[USD Value 1]]; provided, further, that once applicable, this covenant will be tested for the Fixed Charge Coverage Period most recently ended for which financial statements have been provided pursuant to Section 5.01(a) or Section 5.01(b) (an **Initial FCCR Test Period**) as of the date Aggregate Availability or sum of US Availability and Canadian Availability is less than the amounts set forth above, as applicable, and this covenant shall continue to be applicable for each Fixed Charge Coverage Period ending thereafter until (x) the date that both (i) Aggregate Availability has been greater than $[[USD Value 6: Number]] and (ii) the sum of US Availability and Canadian Availability has been greater than $[[USD Value 7: Number]] for ninety (90) consecutive calendar days, and (y) no Default or Event of Default then exists or has existed during such ninety (90) consecutive calendar day period. To the extent this covenant shall be applicable as set forth above, within two (2) Business Days of its becoming applicable Holdings shall deliver to the Administrative Agent a certificate of a Financial Officer of the Borrower Representative, in form and substance acceptable to the Administrative Agent, setting forth and certifying to reasonably detailed calculations of the Fixed Charge Coverage Ratio for such Initial FCCR Test Period demonstrating compliance (or non compliance) with this Section 6.13 for such period.
 
-^^**“First Amendment”** means that certain First Amendment to Credit and Security Agreement dated as of [[Date 1]] between CNB and Borrower.
+^^Amendment to Article VII of the Credit Agreement. Clause (n) of Article VII of the Credit Agreement shall be amended and restated in its entirety to read in full as follows: 
 
-^^**“Initial Public Offering Date”** means the date on which Borrower completes an initial public stock offering or a debt offering , either case, in excess of Fifty Million Dollars ($[[USD Value 6: Number]]) in the aggregate to Persons who are not shareholders of Borrower as of the date of the First Amendment.
+^^one or more judgments for the payment of money in an aggregate amount in excess of $[[USD Value 8: Number]] (exclusive of any amounts fully covered by insurance and for which the insurer has accepted coverage (in writing), subject to reservations acceptable to the Administrative Agent in its Permitted Discretion, and evidence of such coverage has been delivered to the Administrative Agent) shall be rendered against any Loan Party or any combination thereof and the same shall remain undischarged for a period of 30 consecutive days during which execution shall not be effectively stayed, or any action shall be legally taken by a judgment creditor to attach or levy upon any material part of the assets of any Loan Party or any Subsidiary of any Loan Party to enforce any such judgment or any Loan Party or any Subsidiary of any Loan Party shall fail within 30 days to discharge one or more non-monetary judgments or orders which, individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, which judgments or orders, in any such case, are not stayed on appeal or otherwise being appropriately contested in good faith by proper proceedings diligently pursued;
 
-^^**“Paid Admission Based Payments Schedule”** means, a schedule, in form and substance satisfactory to CNB, listing of the motion pictures scheduled or tentatively scheduled for release (and whether or not then titled) in the next twelve (12) month and thirty-six (36) month periods from the date of determination, the release date of each such motion picture, and the estimated box office receipts and resulting Paid Admission Based Payments for each such motion picture for such periods; provided, however, that the estimated box office receipts and resulting Paid Admission Based Payments due to Borrower shall be calculated based on an assumed ticket price of $10.00 and a $.50 Paid Admission Based Payment. For the purposes of this calculation, all 3-D motion pictures that are announced by studios to occur with releases scheduled shall be included, even if the release has been scheduled for a period (e.g. Christmas 2011 or Summer 2012) rather than a specific date, and the related box office receipts (whether estimated or actual) shall include those for both foreign and domestic Screens.
+^^Amendment to Section 9.01 of the Credit Agreement. Clause (a)(ii) of Section 9.01 of the Credit Agreement shall be amended to replace the Facsimile No. for the Administrative Agent, the US Collateral Agent and the Swingline Lender with “[[Phone 1]]”. 
 
-^^**“Change in Control”** means (a) that date upon which both Stephen Royer and Andy Howard are no longer members of the Board of Directors of Borrower, or (b) any merger or other acquisition of Borrower with an unrelated third party in circumstances in which those shareholders holding a majority of the outstanding capital stock of Borrower prior to such transaction no longer do so after the closing of such transaction, or a sale of all or substantially all of the assets of Borrower to an unrelated third party.
+^^Amendment to Section 9.02 of the Credit Agreement. Clauses (b) and (d) of Section 9.02 of the Credit Agreement shall be amended and restated in its entirety to read in full as follows: 
 
-^^Section 2.1.1 is stricken and replaced with the following:
+^^Neither this Agreement nor any other Loan Document nor any provision hereof or thereof may be waived, amended or modified except ) (i) in the case of this Agreement, pursuant to an agreement or agreements in writing entered into by the Borrowers and the Required Lenders or, (ii) in the case of any other Loan Document, pursuant to an agreement or agreements in writing entered into by the Administrative Agent and the Loan Party or Loan Parties that are parties thereto, with the consent of the Required Lenders; provided that no such agreement shall (A) increase the Commitment of any Lender without the written consent of such Lender (provided that the Administrative Agent may make
 
-^^**Interest.** The Loans will bear interest from disbursement until due (whether at stated maturity, by acceleration on otherwise) at an annual rate equal to, at Borrower’s option, either (a) for a LIBOR Loan, the LIBOR Interest Rate plus four and one-quarter percent ([[Percentage 4: Number]]%), or (b) for a Prime Loan, the fluctuating Prime Rate plus two and three-quarters percent ([[Percentage 5: Number]]%). Interest on the Loans and other charges incurred under this Agreement will accrue daily and be payable (a) except in respect of a LIBOR Loan, quarterly in arrears, commencing on [[Date 4: Date]], and on the first day of January, April and July thereafter; (b) if a LIBOR Loan, on the last day of each Interest Period therefore and upon any prepayment thereof (to the extent accrued on the amount prepaid); and (c) at the Termination Date. A Loan tied to the LIBOR Interest Rate is called a “LIBOR Loan,” and a Loan tied to the Prime Rate is called a “Prime Loan.” A Loan will be a Prime Loan any time it is not a LIBOR Loan.
+Protective Advances as set forth in Section 2.04), (B) reduce or forgive the principal amount of any Loan or LC Disbursement or reduce the rate of interest thereon, or reduce or forgive any interest or fees payable hereunder, without the written consent of each Lender directly affected thereby, (C) postpone any scheduled date of payment of the principal amount of any Loan or LC Disbursement, or any date for the payment of any interest, fees or other Obligations payable hereunder, or reduce the amount of, waive or excuse any such payment, or postpone the scheduled date of expiration of any Commitment, without the written consent of each Lender directly affected thereby, (D) change Section 2.18(b), (c), (d), (e) or (f), in a manner that would alter the manner in which payments are shared, without the written consent of each Lender directly affected thereby, (E) increase the advance rates set forth in the definitions of Canadian Borrowing Base, UK Borrowing Base or US Borrowing Base or add new categories of eligible assets, without the written consent of the Supermajority Revolving Lenders, (F) change any of the provisions of this Section or the definitions of “**Required Lenders**” or any other provision of any Loan Document specifying the number or percentage of US Revolving Lenders, Canadian Revolving Lenders and UK Revolving Lenders required to waive, amend or modify any rights thereunder or make any determination or grant any consent thereunder, without the written consent of each US Revolving Lender, Canadian Revolving Lender and UK Revolving Lender, (G) release any Loan Guarantor from its obligation under its Loan Guaranty (except as otherwise permitted herein or in the other Loan Documents), without the written consent of each Lender, (H) except as provided in clauses (c) and (d) of this Section or in any Collateral Document, release all or substantially all of the Collateral, without the written consent of each Lender or (I) waive, amend or modify any definition representation, warranty, covenant, event of default or other provision of this Agreement or any other Loan Document which directly affects any UAE Loan Party, any Singapore Loan Party, any UAE Revolving Commitment, any Singapore Revolving Loan Commitment, any UAE Loan, any Singapore Loan, the UAE Borrowing Base, the Singapore Borrowing Base, any UAE Letter of Credit or UAE LC Exposure, any Singapore Letter of Credit of Singapore LC Exposure without the written consent of the Required UAE Lenders and the Required Singapore Lenders; provided that, it is agreed that waivers, amendments and modifications binding on or applicable solely to US Loan Parties, UK Loan Parties, Canadian Loan Parties, US Collateral, UK Collateral and Canadian Collateral are not subject to this clause (J) notwithstanding that such waivers, amendments and modifications may indirectly affect any of the Singapore Revolving Lenders or the UAE Revolving Lenders or components of the credit facilities as a result of the status of the US Loan Parties , the Canadian Loan Parties and the UK Loan Parties as Loan Guarantors and grantors of security securing the UAE Secured Obligations and Singapore Secured Obligations; provided further that no such agreement shall amend, modify or otherwise affect the rights or duties of any Agent, any Issuing Bank or any Swingline Lender hereunder without the prior written consent of Agent, the Issuing Bank or the Swingline Lender affected thereby, as the case may be. The Administrative Agent may also amend the Commitment Schedule to reflect assignments entered into pursuant to Section 9.04.
 
-^^Section 2.3 is stricken and replaced with the following:
+^^If, in connection with any proposed amendment, waiver or consent requiring the consent of “each Lender” or “each Lender affected thereby,” the consent of the Required Lenders or the Required UAE Lenders or Required Singapore Lenders (as applicable) is obtained, but the consent of other necessary Lenders is not obtained (any such Lender whose consent is necessary but not obtained being referred to herein as a “**Non-Consenting Lender**”), then the Borrowers may elect to replace a Non-Consenting Lender as a Lender party to this Agreement within 120 days following such failure to consent, provided that, concurrently with such replacement, (i) another bank or other entity which is reasonably satisfactory to the Borrowers and the Administrative Agent (or the Singapore Administrative Agent or UAE Administrative Agent if such Lender is a Singapore Revolving Lender or UAE Revolving Lender) shall agree, as of such date, to purchase for cash the Loans and other Obligations due to the Non-Consenting Lender pursuant to an Assignment and Assumption and to become a Lender for all purposes under this Agreement and to assume all obligations of the Non-Consenting Lender to be terminated as of such date and to comply with the requirements of clause (b) of Section 9.04, and (ii) the Borrowers shall pay to such Non-Consenting Lender in same day funds on the day of such replacement (A) all interest, fees and other amounts then accrued but unpaid to such Non-Consenting Lender by the Borrowers hereunder to and including the date of termination, including without limitation payments due to such Non-Consenting Lender under Section 2.14 and Section 2.16, and (B) an amount, if any, equal to the payment which would have been due to such Lender on the day of such replacement under Section 2.15 had the Loans of such Non-Consenting Lender been prepaid on such date rather than sold to the replacement Lender. 
 
-^^**Prepayments.**
+^^Amendment of Schedule 6.02 to the Credit Agreement. Schedule 6.02 to the Credit Agreement shall be amended to include the additional information set forth on Exhibit A hereto. 
 
-2.3.1 **Optional Prepayments.** Subject to the provisions of Section 2.6, Borrower will have the right to prepay, without premium or penalty, all or any portion of the Loans; provided, that on each prepayment, Borrower will pay the accrued interest on the prepaid principal, to the date of such prepayment.
+^Conditions Precedent. The effectiveness of the amendments contained in Section 1 hereof is subject to the satisfaction of each of the following conditions precedent: 
 
-2.3.2. **Mandatory Prepayment.** Subject to the provisions of Section 2.6, Borrower agrees that on the Initial Public Offering Date, or in the event of a Change in Control, Borrower will repay in full the Obligations. In addition, if at any time the Backlog is less than three (3) times the outstanding aggregate principal balance of the Loans, Borrower shall prepay to CNB fifty percent ([[Percentage 2]]%) of each Paid Admission Based Payment, Release Based Payment and Scheduled License Payment due and received by Borrower under License Agreements until such time as the Backlog equals or exceeds three (3) times the outstanding aggregate principal balance of the Loans.
+^^Documentation. The Administrative Agent shall have received counterparts of this Amendment executed on behalf of each Loan Party, each Agent and each Lender. 
 
-^^Clause (c) in Section 2.6 is amended by deleting the phrase “the Administrative Agent” contained therein and inserting in its place and stead “CNB”.
+^^Absence of Defaults. After giving effect to this Amendment, no Default or Event of Default shall exist. 
 
-^^Section 6.2 is stricken and replaced with the following:
+^Representations and Warranties. In order to induce the Agents and each Lender to enter into this Amendment, the Loan Parties hereby jointly and severally represent and warrant to the Agents and each Lender that: 
 
-^^**Financial Statements.** Borrower will furnish to CNB on a continuing basis:
+^^Authorization, Enforceability. The execution, delivery and performance of this Amendment are within each Loan Party’s organizational powers and has been duly authorized by all necessary organizational actions and, if required, actions by equity holders. This Amendment has been duly executed and delivered by each Loan Party and constitutes a legal, valid and binding obligation of such Loan Party, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law. 
 
-6.2.1 Within thirty (30) days after the end of each month, or sooner if available, a financial statement consisting of not less than a balance sheet, income statement, reconciliation of net worth and statement of cash flows, prepared consistent with prior periods and in accordance with GAAP, which financial statement may be internally prepared;
+^^Governmental Approvals; No Conflicts. This Amendment (a) does not require any consent or approval of, registration or filing with, or any other action by, any Governmental Authority, except such as have been obtained or made and are in full force and effect, (b) will not violate any Requirement of Law applicable to any Loan Party or any of its Subsidiaries, (c) will not violate or result in a default under any indenture, agreement or other instrument binding upon any Loan Party or any of its Subsidiaries or its assets, or give rise to a right thereunder to require any payment to be made by any Loan Party or any of its Subsidiaries, and (d) will not result in the creation or imposition of any Lien on any asset of any Loan Party or any of its Subsidiaries, except Liens created pursuant to the Loan Documents (in the case of clauses (b) (other than as it relates to the Certificate of Incorporation and Bylaws or other organizational documents of a Loan Party) or (c), which would not reasonably be expected to have a Material Adverse Effect). 
 
-6.2.2 Within one hundred fifty (150) days after the close of Borrower’s fiscal year, a copy of the annual audit report for Borrower and the Subsidiaries, including therein a balance sheet, income statement, reconciliation of net worth and statement of cash flows, with notes thereto, the balance sheet, income statement and statement of cash flows to be audited by a certified public accountant acceptable to CNB, certified by such accountant to have been prepared in accordance with GAAP and accompanied by the following: (a) supporting schedules of costs of goods sold, operating expenses and other income and expense items, and (b) Borrower’s certification as to whether any event has occurred which constitutes an Event of Default or Potential Event of Default, and if so, stating the facts with respect thereto;
+^^Absence of Defaults. After giving effect to this Amendment, neither a Default nor an Event of Default has occurred which is continuing. 
 
-6.2.3 Within forty five (45) days after the end of each quarterly accounting period of each fiscal year, Borrower’s Covenant Compliance Certificate; and
+^Miscellaneous. 
 
-6.2.4 Upon request by CNB, a copy of the Federal Income Tax Return of Borrower.
+^^Limited Waiver of Assignment Provision. Notwithstanding the requirements set forth in Section 9.04(b)(ii)(E) of the Credit Agreement, JPMorgan Chase Bank, N.A. and each of its Related Affiliates shall be permitted to assign any portion of their Revolving Commitments and Revolving Loans to Bank of Scotland and its Related Affiliates, as applicable, without being required to have its/their Related Affiliate(s) assign the same percentage of each of their respective Revolving Commitments and Revolving Loans to Bank of Scotland (or its Related Affiliates). At any time that Bank of Scotland and its Related Affiliates do not collectively have the same percentage of US Revolving Commitments, UK Revolving Commitments, Canadian Revolving Commitments, US Revolving Loans, UK Revolving Loans and Canadian Revolving Loans, Bank of Scotland and its Related Affiliates shall only be permitted to assign all or any part of their Revolving Commitments and Revolving Loans to JPMorgan Chase Bank, N.A. and its Related Affiliates. 
 
-^^Section 6.3.3 is stricken and replaced with the following:
+^^Reaffirmation of Loan Documents; Extension of Liens. Any and all of the terms and provisions of the Credit Agreement and the Loan Documents shall, except as amended or waived hereby, remain in full force and effect. The applicable Loan Parties hereby extend the Liens securing the Secured Obligations until the Secured Obligations have been paid in full, and agree that the amendments and waivers herein contained shall in no manner affect or impair the Secured Obligations or the Liens securing payment and performance thereof, all of which are ratified and confirmed. 
 
-6.3.3 Within thirty (30) days after the end of each month, a Borrowing Base Certificate, together with the Backlog Report, including the Paid Admission Based Payments Schedule.
+^^Parties in Interest. All of the terms and provisions of this Amendment shall bind and inure to the benefit of the parties hereto and their respective successors and assigns. 
 
-^^Sections 6.10 and 6.11 are stricken and replaced with the following:
+^^Counterparts. This Amendment may be executed in counterparts, and all parties need not execute the same counterpart; however, no party shall be bound by this Amendment until this Amendment has been executed by each Loan Party and the Lenders at which time this Amendment shall be binding on, enforceable against and inure to the benefit of the Loan Parties and all Lenders. Facsimiles shall be effective as originals. 
 
-^^**Financial Tests.** Borrower will maintain:
+^^COMPLETE AGREEMENT. THIS AMENDMENT, THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
 
-6.10.1 EBITDA of not less than (a) $[[USD Value 7: Number]] for the fiscal quarter ending [[Date 5: Date]], (b) $[[USD Value 8: Number]] for the six month fiscal period ending [[Date 6: Date]], (c) $[[USD Value 9: Number]] for the nine month fiscal period ending [[Date 7: Date]], and (d) $[[USD Value 10: Number]] for the trailing twelve months ending [[Date 8: Date]] and each trailing twelve months thereafter, measured on a quarterly basis; and
+^^Headings. The headings, captions and arrangements used in this Amendment are, unless specified otherwise, for convenience only and shall not be deemed to limit, amplify or modify the terms of this Amendment, nor affect the meaning thereof. 
 
-6.10.2 A ratio of EBITDA to Fixed Charges of not less than 1.25 at all times, with the measurements of EBITDA and Fixed Charges based on the fiscal periods specified in Section 6.10.1 above.
+^^No Implied Waivers. No failure or delay on the part of the Lenders in exercising, and no course of dealing with respect to, any right, power or privilege under this Amendment, the Credit Agreement or any other Loan Document shall operate as a waiver thereof, nor shall any single or partial exercise of any right, power or privilege under this Amendment, the Credit Agreement or any other Loan Document preclude any other or further exercise thereof or the exercise of any other right, power or privilege. 
 
-^^**Minimum Screens.** Borrower will have Screens subject to License Agreements of not less than (a) 3,200 from the date of the First Amendment through [[Date 9: Date]], and (b) 4,000 on and after [[Date 7]].
+^^Review and Construction of Documents. Each Loan Party hereby acknowledges, and represents and warrants to the Agents and the Lenders, that (a) such Loan Party has had the opportunity to consult with legal counsel of its own choice and have been afforded an opportunity to review this Amendment with its legal counsel, (b) such Loan Party has reviewed this Amendment and fully understands the effects thereof and all terms and provisions contained herein, (c) such Loan Party has executed this Amendment of its own free will and volition, and (d) this Amendment shall be construed as if jointly drafted by the Loan Parties and the Lenders. The recitals contained in this Amendment shall be construed to be part of the operative terms and provisions of this Amendment. 
 
-^^The Covenant Compliance Certificate in Exhibit A is stricken and replaced with the one attached to this Amendment.
+^^Arms-Length/Good Faith. This Amendment has been negotiated at arms- length and in good faith by the parties hereto. 
 
-^**Existing Agreement.** Except as expressly amended herein, the Credit Agreement shall remain in full force and effect, and in all other respects is affirmed.
+^^Interpretation. Wherever the context hereof shall so require, the singular shall include the plural, the masculine gender shall include the feminine gender and the neuter and vice versa. 
 
-^**Conditions Precedent.** This Amendment shall become effective upon the fulfillment of all of the following conditions to CNB’s satisfaction:
+^^Severability. In case any one or more of the provisions contained in this Amendment shall for any reason be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision hereof, and this Amendment shall be construed as if such invalid, illegal, or unenforceable provision had never been contained herein. 
 
-^^CNB shall have received this Amendment duly executed by Borrower;
+^^Confirmation of Loan Guaranty, Assignments; Further Assurances. By signing below where indicated each Loan Party in its capacity as Loan Guarantor, hereby acknowledges and approves the Credit Agreement, as amended by this Amendment, and the Loan Documents (including, without limitation, any and all documents delivered in connection with this Amendment) and the terms thereof, and specifically agrees to comply with all provisions which refer to or affect such Loan Guarantor, the Loan Guaranty and any matter in connection therewith. Without limiting the generality of the foregoing, each Loan Guarantor specifically consents to all of the transactions contemplated in this Amendment and further agrees and confirms that the Loan Guaranty executed and provided to the Agents and Lenders, as applicable, by such Loan Guarantor, continue in full force and effect in favor of the Agents and Lenders, as applicable. The payment of the Guaranteed Obligations (or applicable portion thereof) shall continue to be unconditionally guaranteed by, and Loan Guarantor hereby confirms and ratifies, the Loan Guaranty, and hereby unconditionally guarantees the prompt and full payment of the Guaranteed Obligations to the Agents and Lenders, as applicable, in accordance with the terms of the Loan Guaranty. Each Loan Party shall make, execute or endorse, and acknowledge and deliver or file or cause same to be done, all such documents, notices or other assurances, and take all such other action, as any Agent may, from time to time, deem reasonably necessary or proper in connection with this Amendment and the Credit Agreement, as amended hereby. 
 
-^^CNB shall have received a separate Continuing Guaranty from and executed by each of the Guarantors guarantying repayment of all Obligations of Borrower to CNB; and
+^^**WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AMENDMENT, ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY). EACH PARTY HERETO (a) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (b) ACKNOWLEDGES THAT IT AND THE OTHER** 
 
-^^CNB shall have received an amendment fee equal to $[[USD Value 11: Number]].
+**PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AMENDMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.** 
 
-^**Counterparts.** This Amendment may be executed in any number of counterparts, and all such counterparts taken together shall be deemed to constitute one and the same instrument.
+^^Governing Law. This Amendment and the rights and obligations of the parties hereunder shall be governed by and construed in accordance with the laws of the State of New York, but giving effect to federal laws applicable to national banks. 
 
-^**Governing Law.** This Amendment and the rights and obligations of the parties hereto shall be construed in accordance with, and governed by the laws of the State of California.
+\centered [Signature Pages Follow] 
 
-**IN WITNESS WHEREOF,** the parties have executed this Amendment as of the day and year first above written.
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed by their respective authorized officers on the date and year first above written. 
 
-“Borrower”   **[[Borrower]]**,**
+**THE BORROWERS:**      **[[US Borrower]]**
 
-
-[[“Borrower”   Borrower Signatory Email: Identity | Signature]]
+[[THE BORROWERS      US Borrower Signatory Email: Identity | Signature]]
 __________________________________________
-{{“Borrower”   Borrower Entity => By: [[“Borrower”   Borrower Signatory First Name]] [[“Borrower”   Borrower Signatory Last Name]]
-Title: [[“Borrower”   Borrower Signatory Title]]}}
+{{THE BORROWERS      US Borrower Entity => By: [[THE BORROWERS      US Borrower Signatory First Name]] [[THE BORROWERS      US Borrower Signatory Last Name]]
+Title: [[THE BORROWERS      US Borrower Signatory Title]]}}
 
-**Michael V. Lewis,** Chairman and Chief
-Executive Officer
+Financial Officer and Secretary
 
-“CNB”   **City National Bank,** a national
-banking association
+**EDGEN MURRAY CANADA INC.**
 
-[[Banking association Signatory Email: Identity | Signature]]
+[[EDGEN MURRAY CANADA INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Banking association Entity => By: [[Banking association Signatory First Name]] [[Banking association Signatory Last Name]]
-Title: [[Banking association Signatory Title]]}}
+{{EDGEN MURRAY CANADA INC. Entity => By: [[EDGEN MURRAY CANADA INC. Signatory First Name]] [[EDGEN MURRAY CANADA INC. Signatory Last Name]]
+Title: [[EDGEN MURRAY CANADA INC. Signatory Title]]}}
 
-**Aaron Cohen,** Senior Vice President
 
-EXHIBIT A
+**EDGEN MURRAY EUROPE LIMITED**
 
-\centered **COVENANT COMPLIANCE CERTIFICATE**
+[[EDGEN MURRAY EUROPE LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{EDGEN MURRAY EUROPE LIMITED Entity => By: [[EDGEN MURRAY EUROPE LIMITED Signatory First Name]] [[EDGEN MURRAY EUROPE LIMITED Signatory Last Name]]
+Title: [[EDGEN MURRAY EUROPE LIMITED Signatory Title]]}}
 
-The undersigned, , the of **[[Borrower]]**,** a California corporation (“Borrower”) delivers this certificate pursuant to the Credit and Security Agreement (the “Credit Agreement”) dated as of [[Date 2]], between Borrower and City National Bank (“CNB”), as amended. Terms and Section numbers used herein shall have the same meaning as the Credit Agreement.
 
-The undersigned certifies the accuracy of this Certificate as of , (the “Effective Date”).
+**OTHER LOAN PARTIES:**      **EDGEN MURRAY II, L.P.**
+[[OTHER LOAN PARTIES      EDGEN MURRAY II L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{OTHER LOAN PARTIES      EDGEN MURRAY II L.P. Entity => By: [[OTHER LOAN PARTIES      EDGEN MURRAY II L.P. Signatory First Name]] [[OTHER LOAN PARTIES      EDGEN MURRAY II L.P. Signatory Last Name]]
+Title: [[OTHER LOAN PARTIES      EDGEN MURRAY II L.P. Signatory Title]]}}
 
-^**EBITDA (Section 6.10.1)**
 
-^^EBITDA:
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
 
-1.1.1   Net income (after eliminating extraordinary gains and losses):   $
+Financial Officer and Secretary
 
-1.1.2   All interest on Debt:   $
+\centered Signature Page to First Amendment to Credit Agreement 
 
-1.1.3   Cash paid for income taxes (including property and use taxes not reimbursed to Borrower):   $
+**EDGEN MURRAY LLC**
 
-1.1.4   Depreciation and Amortization:   $
+[[EDGEN MURRAY LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{EDGEN MURRAY LLC Entity => By: [[EDGEN MURRAY LLC Signatory First Name]] [[EDGEN MURRAY LLC Signatory Last Name]]
+Title: [[EDGEN MURRAY LLC Signatory Title]]}}
 
-1.1.5   Monitoring fees (in an aggregate amount not to exceed $[[USD Value 1]] per year) paid by Borrower to Shamrock   $
 
-1.1.6   1.1.1, 1.1.2, 1.1.3, 1.1.4, plus 1.1.5   $
+**EDGEN MURRAY CAYMAN CORPORATION**
 
-**Required:** Not less than $ .. **[In blank space insert figure required in Credit Agreement]**
+[[EDGEN MURRAY CAYMAN CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{EDGEN MURRAY CAYMAN CORPORATION Entity => By: [[EDGEN MURRAY CAYMAN CORPORATION Signatory First Name]] [[EDGEN MURRAY CAYMAN CORPORATION Signatory Last Name]]
+Title: [[EDGEN MURRAY CAYMAN CORPORATION Signatory Title]]}}
 
-^**Ratio of EBITDA to Fixed Charges (Section 6.10.2):**
 
-^^EBITDA (from 1.1.6 above):   $
+**PIPE ACQUISITION LIMITED**
 
-^^Fixed Charges:
+[[PIPE ACQUISITION LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{PIPE ACQUISITION LIMITED Entity => By: [[PIPE ACQUISITION LIMITED Signatory First Name]] [[PIPE ACQUISITION LIMITED Signatory Last Name]]
+Title: [[PIPE ACQUISITION LIMITED Signatory Title]]}}
 
-2.2.1   Current Maturity of Long Term Debt:   $
 
-2.2.2   Interest incurred on borrowed money:   $
+\centered Signature Page to First Amendment to Credit Agreement 
 
-2.2.3   Cash paid for Income Taxes (excluding property and sales and use taxes not reimbursed to Borrower):      $
+**AGENTS/LENDERS:**      **JPMORGAN CHASE BANK, N.A.**, individually, as US Administrative Agent, US Collateral Agent, a US Revolving Lender, Issuing Bank and Swingline Lender
 
-2.2.4   Maintenance Capital Expenditures (excluding (a) any replacement of Z Screens with XLs (i.e. upgrades), (b) purchases of Digital Link projectors and servers and (c) any costs related to the roll-out of new **[[Borrower]]** 3-D theater systems):      $
+[[AGENTS/LENDERS      JPMORGAN CHASE BANK N.A. individually as US Administrative Agent US Collateral Agent a US Revolving Lender Issuing Bank and Swingline Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{AGENTS/LENDERS      JPMORGAN CHASE BANK N.A. individually as US Administrative Agent US Collateral Agent a US Revolving Lender Issuing Bank and Swingline Lender Entity => By: [[AGENTS/LENDERS      JPMORGAN CHASE BANK N.A. individually as US Administrative Agent US Collateral Agent a US Revolving Lender Issuing Bank and Swingline Lender Signatory First Name]] [[AGENTS/LENDERS      JPMORGAN CHASE BANK N.A. individually as US Administrative Agent US Collateral Agent a US Revolving Lender Issuing Bank and Swingline Lender Signatory Last Name]]
+Title: [[AGENTS/LENDERS      JPMORGAN CHASE BANK N.A. individually as US Administrative Agent US Collateral Agent a US Revolving Lender Issuing Bank and Swingline Lender Signatory Title]]}}
 
-2.2.5   Total of 2.2.1, 2.2.2, 2.2.3, and 2.2.4:   $
 
-^^Ratio of 2.1 to 2.2:   to one (1)
+**JPMORGAN CHASE BANK, N.A., TORONTO BRANCH**, individually, as Canadian Administrative Agent, Canadian Collateral Agent and a Canadian Revolving Lender:
 
-**Required:** At least to 1 **[In blank space insert figure required in Credit Agreement]**
+[[JPMORGAN CHASE BANK N.A. TORONTO BRANCH individually as Canadian Administrative Agent Canadian Collateral Agent and a Canadian Revolving Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{JPMORGAN CHASE BANK N.A. TORONTO BRANCH individually as Canadian Administrative Agent Canadian Collateral Agent and a Canadian Revolving Lender Entity => By: [[JPMORGAN CHASE BANK N.A. TORONTO BRANCH individually as Canadian Administrative Agent Canadian Collateral Agent and a Canadian Revolving Lender Signatory First Name]] [[JPMORGAN CHASE BANK N.A. TORONTO BRANCH individually as Canadian Administrative Agent Canadian Collateral Agent and a Canadian Revolving Lender Signatory Last Name]]
+Title: [[JPMORGAN CHASE BANK N.A. TORONTO BRANCH individually as Canadian Administrative Agent Canadian Collateral Agent and a Canadian Revolving Lender Signatory Title]]}}
 
-^**Minimum Screens (Section 6.11)**
 
-**Required:** At least **[In blank space insert figure required in Credit Agreement]**
+**J.P. MORGAN EUROPE LIMITED**, individually, as UK Administrative Agent and UK Collateral Agent
 
-**CERTIFICATION:**
+[[J.P. MORGAN EUROPE LIMITED individually as UK Administrative Agent and UK Collateral Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{J.P. MORGAN EUROPE LIMITED individually as UK Administrative Agent and UK Collateral Agent Entity => By: [[J.P. MORGAN EUROPE LIMITED individually as UK Administrative Agent and UK Collateral Agent Signatory First Name]] [[J.P. MORGAN EUROPE LIMITED individually as UK Administrative Agent and UK Collateral Agent Signatory Last Name]]
+Title: [[J.P. MORGAN EUROPE LIMITED individually as UK Administrative Agent and UK Collateral Agent Signatory Title]]}}
 
-Each of the above stated information is true and correct as of the date hereof and Borrower has met each of the Conditions set forth in Section 4.2 of the Credit Agreement, and no Events of Default or Potential Events of Default presently exist.
 
-^declare under penalty of perjury that the foregoing is true and correct.
+**JPMORGAN CHASE BANK, N.A., LONDON BRANCH**, individually, as a UK Revolving Lender
 
-Date:
-\centered (Signature and Title)
+[[JPMORGAN CHASE BANK N.A. LONDON BRANCH individually as a UK Revolving Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{JPMORGAN CHASE BANK N.A. LONDON BRANCH individually as a UK Revolving Lender Entity => By: [[JPMORGAN CHASE BANK N.A. LONDON BRANCH individually as a UK Revolving Lender Signatory First Name]] [[JPMORGAN CHASE BANK N.A. LONDON BRANCH individually as a UK Revolving Lender Signatory Last Name]]
+Title: [[JPMORGAN CHASE BANK N.A. LONDON BRANCH individually as a UK Revolving Lender Signatory Title]]}}
+
+
+\centered Signature Page to First Amendment to Credit Agreement

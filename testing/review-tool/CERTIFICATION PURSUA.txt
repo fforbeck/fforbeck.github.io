@@ -1,16 +1,24 @@
-^^^^^ \centered CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 135AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 200
+\centered  
 
-In connection with the Quarterly Report of Trim Holding Group (the “Company”) on Form 10-Q for the quarterly period ended [[Date 1: Date]], as filed with the Securities and Exchange Commission on the date hereof (the “Report”),I, Nitin Amersey, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+\centered **CERTIFICATION PURSUANT TO**
 
-^The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+\centered 18 U.S.C. SECTION 1350
 
-^The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. 
+\centered AS ADOPTED PURSUANT TO
 
-[[The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Email: Identity | Signature]]
+\centered SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of ABC Acquisition Corp 1501 (the “Company”) on Form 10-K for the fiscal year ended [[Date 1: Date]], as filed with the Securities and Exchange Commission on the date hereof (the “Report”), I, Nitin Amersey, Chief Financial Officer, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+
+^The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+^The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report.
+
+[[2  The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Email: Identity | Signature]]
 __________________________________________
-{{The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Entity => By: [[The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory First Name]] [[The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Last Name]]
-Title: [[The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Title]]}}
+{{2  The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Entity => By: [[2  The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory First Name]] [[2  The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Last Name]]
+Title: [[2  The information contained in the Report fairly presents in all material respects the financial condition and results of operations of the Company as of the date and for the periods expressed in the Report. Signatory Title]]}}
 
-[[Date 2: Date]] 
+[[Date 2: Date]]
 
-The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350 and is not being filed as part of the Report or as a separate disclosure document.
+\centered The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350 and is not being filed as part of the Report or as a separate disclosure document.

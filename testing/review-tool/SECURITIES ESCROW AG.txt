@@ -1,0 +1,138 @@
+\centered **SECURITIES ESCROW AGREEMENT**
+
+THIS SECURITIES ESCROW AGREEMENT (the “**Agreement**”), dated as of [[Date 1: Date]], is entered into by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”), certain holders of the Company’s warrants as listed on **Schedule A** of the Securities Exchange Agreement (individually, the “**Holder**” or collectively the “**Holders**”), Vision Opportunity Master Fund, [[Holder Representative]], as representative of the Holders (the “**Holder Representative**”), each entity listed on **Schedule A** hereto (collectively, the “**Principal Shareholders**”), and [[Escrow Agent]], [[Address 1: Address]] (the “**Escrow Agent**”). Capitalized terms used but not defined herein shall have the meanings set forth in the Purchase Agreement (as defined below).
+
+\centered **WITNESSETH:**
+
+WHEREAS, the Holders will be exchanging with the Company their Warrants into shares of Common Stock, par value $[[USD Value 2: Number]]0001 per share (the “**Common Stock**”);
+
+WHEREAS, as an inducement to the Holders to enter into the Securities Exchange Agreement, the Principal Shareholders have agreed to place the Escrow Shares (as hereinafter defined) into escrow for the benefit of the Holders in the event the Company fails to achieve the Milestones (as hereinafter defined) by [[Date 2: Date]] (the “Due Date”); and
+
+WHEREAS, the Company, the Holder Representative and the Holders have requested that the Escrow Agent hold the Escrow Shares on the terms and conditions set forth in this Agreement and the Escrow Agent has agreed to act as escrow agent pursuant to the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the covenants and mutual promises contained herein and other good and valuable consideration, the receipt and legal sufficiency of which are hereby acknowledged and intending to be legally bound hereby, the parties agree as follows:
+
+^\centered TERMS OF THE ESCROW
+
+^^The parties hereby agree to establish an escrow account with the Escrow Agent whereby the Escrow Agent shall hold the Escrow Shares as contemplated by this Agreement.
+
+^^Upon the execution of this Agreement, the Principal Shareholders shall deliver to the Escrow Agent stock certificates evidencing an amount of Common Stock equal to one million (1,000,000) shares as set forth on **Schedule A** hereto (the “**Escrow Shares**”), along with updated stock powers executed in blank.
+
+^^The Escrow Shares shall be delivered as set forth below:
+
+^^^**First Milestone**. Upon Company achieving a public listing and trading of its Common Stock on NASDAQ, AMEX or NYSE (each, a “Qualified Exchange”) by Due Date (“First Milestone”), five hundred thousand (500,000) Escrow Shares shall be released back to the Principal Shareholders pro rata. If the Company does not achieve the First Milestone by Due Date, five hundred thousand (500,000) Escrow Shares shall be distributed to the Holders pro rata based on Schedule A of the Securities Exchange Agreement.
+
+^^^**Second Milestone**. If the Company’s stock has traded on a Qualified Exchange with a closing price of $[[USD Value 3: Number]] or more for twenty (20) trading days out of the last thirty (30) trading days with an average daily trading volume of at least [[Shares 1: Number]] shares, measured on [[Date 2]], (“Second Milestone”) five hundred thousand (500,000) Escrow Shares shall be released back to the Principal Shareholders pro rata.
+
+^^^If the Company does not achieve the Second Milestone by Due Date, five hundred thousand (500,000) Escrow Shares shall be distributed to the Holders pro rata based on Schedule A of the Securities Exchange Agreement.
+
+^^If the Company does not achieve the First Milestone or the Second Milestone the Company shall use best efforts, in each case, to promptly cause the Escrow Shares to be delivered to the Holders, including causing its transfer agent promptly to issue the certificates in the names of the Holders and causing its securities counsel to provide any written instruction required by the Escrow Agent in a timely manner so that the issuances and delivery contemplated above can be achieved within five business days following the Due Date to the Holder.
+
+^^Upon the written request of the Company and Holder Representative, the Escrow Agent shall deliver the Escrow Shares, to each Holder and/or each Principal Shareholder pursuant to the written instructions of the Company and Holder Representative.
+
+^\centered REPRESENTATIONS OF THE PRINCIPAL SHAREHOLDERS
+
+^^Each Principal Shareholder hereby represents and warrants to the Holders and the Holder Representative as follows:
+
+^^^The Escrow Shares placed into escrow hereunder by the Principal Shareholder are validly issued, fully paid and nonassessable shares of the Company. The Principal Shareholder is the record and beneficial owner of the Escrow Shares placed into escrow pursuant to this Agreement by the Principal Shareholder and has good title to such Escrow Shares, free and clear of all pledges, liens, claims and encumbrances, except encumbrances created by this Agreement. There are no restrictions on the ability of the Principal Shareholder to transfer the Escrow Shares placed into escrow pursuant to this Agreement by the Principal Shareholder or to enter into this Agreement other than transfer restrictions under applicable federal and state securities laws. Upon any delivery of Escrow Shares placed into escrow pursuant to this Agreement by the Principal Shareholder to the Holders hereunder, the Holders will acquire good and valid title to such Escrow Shares, free and clear of any pledges, liens, claims and encumbrances.
+
+^^^The performance of this Agreement and compliance with the provisions hereof will not violate any provision of any law applicable to the Principal Shareholder and will not conflict with or result in any breach of any of the terms, conditions or provisions of, or constitute a default under, or result in the creation or imposition of any lien, charge or encumbrance upon, any of the properties or assets of the Principal Shareholder pursuant to the terms of the certificate of incorporation or by-laws of the Company or any indenture, mortgage, deed of trust or other agreement or instrument binding upon the Principal Shareholder or affecting the Escrow Shares. No notice to, filing with, or authorization, registration, consent or approval of any governmental authority or other person is necessary for the execution, delivery or performance of this Agreement or the consummation of the transactions contemplated hereby by the Principal Shareholder.
+
+^\centered MISCELLANEOUS
+
+^^The Company will pay Escrow Agent a total of $[[USD Value 1: Number]] for all services rendered by Escrow Agent hereunder.
+
+^^No waiver or any breach of any covenant or provision herein contained shall be deemed a waiver of any preceding or succeeding breach thereof, or of any other covenant or provision herein contained. No extension of time for performance of any obligation or act shall be deemed an extension of the time for performance of any other obligation or act.
+
+All notices, demands, consents, requests, instructions and other communications to be given or delivered or permitted under or by reason of the provisions of this Agreement or in connection with the transactions contemplated hereby shall be in writing and shall be deemed to be delivered and received by the intended recipient as follows: (i) if personally delivered, on the business day of such delivery (as evidenced by the receipt of the personal delivery service), (ii) if mailed certified or registered mail return receipt requested, two (2) business days after being mailed, (iii) if delivered by overnight courier (with all charges having been prepaid), on the business day of such delivery (as evidenced by the receipt of the overnight courier service of recognized standing), or (iv) if delivered by facsimile transmission, on the business day of such delivery if sent by 6:00 p.m. in the time zone of the recipient, or if sent after that time, on the next succeeding business day (as evidenced by the printed confirmation of delivery generated by the sending party’s telecopier machine). If any notice, demand, consent, request, instruction or other communication cannot be delivered because of a changed address of which no notice was given (in accordance with this Section 4), or the refusal to accept same, the notice, demand, consent, request, instruction or other communication shall be deemed received on the second business day the notice is sent (as evidenced by a sworn affidavit of the sender). All such notices, demands, consents, requests, instructions and other communications will be sent to the following addresses or facsimile numbers as applicable.
+
+If to Escrow Agent: Sichenzia Ross Friedman Ference LLP,
+
+Sichenzia Ross Friedman Ference LLP 
+[[Address 2: Address]] 
+Attention: Marc J. Ross, Esq. 
+Tel. No.: [[Phone 1]] 
+Fax No.: [[Phone 2]]  
+If to the Company or the Principal Shareholders:
+
+Tel. No.: 
+Fax No.:  
+With a copy to:  
+If to the Holder Representative: 
+Vision Opportunity Master Fund, Ltd. 
+^W. 55th Street, 5th Floor 
+[[Address 3: Address]] 
+Attention: Carl Kleidman 
+Tel. No.: [[Phone 3]] 
+Fax No.: [[Phone 4]]  
+or to such other address and to the attention of such other person as any of the above may have furnished to the other parties in writing and delivered in accordance with the provisions set forth above.
+
+^^This Escrow Agreement shall be binding upon and shall inure to the benefit of the permitted successors and permitted assigns of the parties hereto.
+
+^^This Escrow Agreement is the final expression of, and contains the entire agreement between, the parties with respect to the subject matter hereof and supersedes all prior understandings with respect thereto. This Escrow Agreement may not be modified, changed, supplemented or terminated, nor may any obligations hereunder be waived, except by written instrument signed by the parties to be charged or by its agent duly authorized in writing or as otherwise expressly permitted herein.
+
+^^Whenever required by the context of this Escrow Agreement, the singular shall include the plural and masculine shall include the feminine. This Escrow Agreement shall not be construed as if it had been prepared by one of the parties, but rather as if both parties had prepared the same. Unless otherwise indicated, all references to Articles are to this Escrow Agreement.
+
+^^The parties hereto expressly agree that this Escrow Agreement shall be governed by, interpreted under and construed and enforced in accordance with the laws of the State of [[Address 4: Address]] to conflicts of law principles that would result in the application of the substantive laws of another jurisdiction. Any action to enforce, arising out of, or relating in any way to, any provisions of this Escrow Agreement shall only be brought in a state or Federal court sitting in [[Address 5: Address]], Borough of Manhattan.
+
+^^The Escrow Agent’s duties hereunder may be altered, amended, modified or revoked only by a writing signed by the Company, the Principal Shareholders, the Holder Representative and the Escrow Agent.
+
+^^The Escrow Agent shall be obligated only for the performance of such duties as are specifically set forth herein and may rely and shall be protected in relying or refraining from acting on any instrument reasonably believed by the Escrow Agent to be genuine and to have been signed or presented by the proper party or parties. The Escrow Agent shall not be personally liable for any act the Escrow Agent may do or omit to do hereunder as the Escrow Agent while acting in good faith and in the absence of gross negligence, fraud and willful misconduct, and any act done or omitted by the Escrow Agent pursuant to the advice of the Escrow Agent’s attorneys-at-law shall be conclusive evidence of such good faith, in the absence of gross negligence, fraud and willful misconduct.
+
+^^The Escrow Agent is hereby expressly authorized to disregard any and all warnings given by any of the parties hereto or by any other person or corporation, excepting only orders or process of courts of law and is hereby expressly authorized to comply with and obey orders, judgments or decrees of any court. In case the Escrow Agent obeys or complies with any such order, judgment or decree, the Escrow Agent shall not be liable to any of the parties hereto or to any other person, firm or corporation by reason of such decree being subsequently reversed, modified, annulled, set aside, vacated or found to have been entered without jurisdiction.
+
+^^The Escrow Agent shall not be liable in any respect on account of the identity, authorization or rights of the parties executing or delivering or purporting to execute or deliver any documents or papers deposited or called for thereunder in the absence of gross negligence, fraud and willful misconduct.
+
+^^The Escrow Agent shall be entitled to employ such legal counsel and other experts as the Escrow Agent may deem necessary properly to advise the Escrow Agent in connection with the Escrow Agent’s duties hereunder, may rely upon the advice of such counsel, and may pay such counsel reasonable compensation therefor which shall be paid by the Escrow Agent. **The Escrow Agent has acted as legal counsel for the Company and may continue to act as legal counsel for the Company from time to time, notwithstanding its duties as the Escrow Agent hereunder. The Company and the Holders consent to the Escrow Agent in such capacity as legal counsel for the Company and waive any claim that such representation represents a conflict of interest on the part of the Escrow Agent. The Company and the Holders understand that the Escrow Agent is relying explicitly on the foregoing provision in entering into this Escrow Agreement.**
+
+^^The Escrow Agent’s responsibilities as escrow agent hereunder shall terminate if the Escrow Agent shall resign by giving written notice to the Company and the Holders. In the event of any such resignation, the Holders and the Company shall appoint a successor Escrow Agent and the Escrow Agent shall deliver to such successor Escrow Agent any escrow funds and other documents held by the Escrow Agent.
+
+^^If the Escrow Agent reasonably requires other or further instruments in connection with this Escrow Agreement or obligations in respect hereto, the necessary parties hereto shall join in furnishing such instruments.
+
+^^It is understood and agreed that should any dispute arise with respect to the delivery and/or ownership or right of possession of the documents or the Escrow Shares held by the Escrow Agent hereunder, the Escrow Agent is authorized and directed in the Escrow Agent’s sole discretion (1) to retain in the Escrow Agent’s possession without liability to anyone all or any part of said documents or the Escrow Shares until such disputes shall have been settled either by mutual written agreement of the parties concerned by a final order, decree or judgment or a court of competent jurisdiction after the time for appeal has expired and no appeal has been perfected, but the Escrow Agent shall be under no duty whatsoever to institute or defend any such proceedings or (2) to deliver the Escrow Shares and any other property and documents held by the Escrow Agent hereunder to a state or Federal court having competent subject matter jurisdiction and located in the City of [[Address 6: Address]] Manhattan, in accordance with the applicable procedure therefor.
+
+^^The Company agrees to indemnify and hold harmless the Escrow Agent and its partners, employees, agents and representatives from any and all claims, liabilities, costs or expenses in any way arising from or relating to the duties or performance of the Escrow Agent hereunder or the transactions contemplated hereby or by the Purchase Agreement other than any such claim, liability, cost or expense to the extent the same shall have been determined by final, unappealable judgment of a court of competent jurisdiction to have resulted from the gross negligence, fraud or willful misconduct of the Escrow Agent.
+
+\centered **[Signature Page Follows]**
+
+\centered [SIGNATURE PAGE TO SECURITIES ESCROW AGREEMENT]
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of this [[Date 3: Date]].
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+**HOLDER REPRESENTATIVE:**
+
+**VISION OPPORTUNITY MASTER FUND, LTD.**
+
+[[VISION OPPORTUNITY MASTER FUND LTD. Signatory Email: Identity | Signature]]
+__________________________________________
+{{VISION OPPORTUNITY MASTER FUND LTD. Entity => By: [[VISION OPPORTUNITY MASTER FUND LTD. Signatory First Name]] [[VISION OPPORTUNITY MASTER FUND LTD. Signatory Last Name]]
+Title: [[VISION OPPORTUNITY MASTER FUND LTD. Signatory Title]]}}
+
+
+**ESCROW AGENT:**
+
+**SICHENZIA ROSS FRIEDMAN FERENCE LLP**
+
+[[SICHENZIA ROSS FRIEDMAN FERENCE LLP Signatory Email: Identity | Signature]]
+__________________________________________
+{{SICHENZIA ROSS FRIEDMAN FERENCE LLP Entity => By: [[SICHENZIA ROSS FRIEDMAN FERENCE LLP Signatory First Name]] [[SICHENZIA ROSS FRIEDMAN FERENCE LLP Signatory Last Name]]
+Title: [[SICHENZIA ROSS FRIEDMAN FERENCE LLP Signatory Title]]}}
+
+
+**PRINCIPAL SHAREHOLDER:**
+
+**RISE ELITE INTERNATIONAL LIMITED**
+
+[[RISE ELITE INTERNATIONAL LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{RISE ELITE INTERNATIONAL LIMITED Entity => By: [[RISE ELITE INTERNATIONAL LIMITED Signatory First Name]] [[RISE ELITE INTERNATIONAL LIMITED Signatory Last Name]]
+Title: [[RISE ELITE INTERNATIONAL LIMITED Signatory Title]]}}
+

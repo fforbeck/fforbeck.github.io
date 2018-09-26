@@ -1,0 +1,103 @@
+**WELLS FARGO BANK, SECOND NOTE MODIFICATION** **NATIONAL ASSOCIATION WITH STINGRAY PROPERTIES**  
+
+**THIS SECOND NOTE MODIFICATION AGREEMENT (the “Modification Agreement”),** effective [[Date 1: Date]] (the “Effective Date”), is between **STINGRAY PROPERTIES** (the “Borrower”) and **WELLS FARGO BANK, NATIONAL ASSOCIATION** (the “Bank”). 
+
+**RECITALS** 
+
+**FIRST:** Pursuant to that Construction  Term Loan Agreement effective [[Date 2: Date]] (the “Loan Agreement”), the Bank granted the Borrower a $[[USD Value 1: Number]] construction  term loan (the “Loan”) to finance the construction of improvements to the property legally described on Exhibit A attached hereto (the “Property”). 
+
+**SECOND:** The Borrower’s obligation to repay the Loan is evidenced by that certain Construction Loan Note dated of even date with the Loan Agreement and in the original principal amount of $[[USD Value 1]], as modified by a Note Modification Agreement dated effective [[Date 3: Date]] (as modified, the “Note”). Payment of the Note, in turn, is secured by that certain Third Party Mortgage, Security Agreement, Fixture Financing Statement, and Assignment of Leases and Rents on the Property from Sylvan Holdings, a Minnesota limited liability company (the “Mortgage”). The Mortgage is dated of even date with the Note and is a lien on the Property. The Note is guaranteed by the individual Guaranty of each of the Guarantors, as defined in the Agreement, Sylvan Holdings, Crystal Blue Properties Ronald Berg, Gary Verkinnes, Dr. Jeffrey Gerdes, Dr. Hector Ho, and Dr. Samir Elghor. 
+
+**THIRD:** The Borrower and the Bank desire to clarify the interest rate stated in the Note. 
+
+**NOW THEREFORE,** for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Borrower and the Bank agree as follows: 
+
+^Note Modification. The section of the Note under the heading “INTEREST” is hereby modified as follows: In subsection (a), the provision stating the interest rate is hereby amended and restated in its entirety to read, “at a floating rate per annum equal to the sum of LIBOR and a margin of one and ten hundredths percent ([[Percentage 1: Number]]%), from and including [[Date 1]].” 
+
+^Miscellaneous. 
+
+^^Except as expressly modified by this Modification Agreement, all terms and conditions of the Note and the Loan Agreement and Loan Documents, as defined in the Loan Agreement, shall remain unchanged and in full force and effect. 
+
+multiple counterparts, each 
+
+^^This Modification Agreement may be executed in of which shall be deemed an original. 
+
+executed this Modification  
+
+**IN WITNESS WHEREOF,** the Bank and the Borrower have Agreement as of the Effective Date. **WELLS FARGO BANK, NATIONAL ASSOCIATION**  
+
+[[IN WITNESS WHEREOF the Bank and the Borrower have Agreement as of the Effective Date. WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF the Bank and the Borrower have Agreement as of the Effective Date. WELLS FARGO BANK NATIONAL ASSOCIATION Entity => By: [[IN WITNESS WHEREOF the Bank and the Borrower have Agreement as of the Effective Date. WELLS FARGO BANK NATIONAL ASSOCIATION Signatory First Name]] [[IN WITNESS WHEREOF the Bank and the Borrower have Agreement as of the Effective Date. WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF the Bank and the Borrower have Agreement as of the Effective Date. WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Title]]}}
+
+
+**STINGRAY PROPERTIES** 
+
+[[STINGRAY PROPERTIES Signatory Email: Identity | Signature]]
+__________________________________________
+{{STINGRAY PROPERTIES Entity => By: [[STINGRAY PROPERTIES Signatory First Name]] [[STINGRAY PROPERTIES Signatory Last Name]]
+Title: [[STINGRAY PROPERTIES Signatory Title]]}}
+
+
+\centered **ACKNOWLEDGMENT AND CONSENT** 
+
+Each of the undersigned Guarantors acknowledges and consents to the foregoing Note Modification Agreement, and agrees that his Guaranty remains in full force and effect and covers the Note, as modified by the foregoing. 
+
+\centered 
+
+/s/ Jeffrey Gerdes Name:    Jeffrey Gerdes  
+
+Dated: [[Date 4: Date]] 
+
+\centered 
+
+/s/ Ronald Berg Name:    Ronald Berg  
+
+Dated: [[Date 4]] 
+
+/s/ Dr. Hector Ho 
+
+Dr. Hector Ho 
+
+Dated: [[Date 4]] 
+
+\centered 
+
+/s/ Gary Verkinnes Name:    Gary Verkinnes  
+
+Dated: [[Date 4]] 
+
+\centered 
+
+/s/ Samir Elghor Name:    Samir Elghor  
+
+Dated: [[Date 4]] 
+
+**SYLVAN HOLDINGS**, 
+
+^^Minnesota limited liability company 
+
+\centered 
+
+[[Party 3 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 Entity => By: [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
+Title: [[Party 3 Signatory Title]]}}
+
+
+Dated: [[Date 4]] 
+
+**CRYSTAL BLUE PROPERTIES**, **LLC** 
+
+^^Minnesota limited liability company 
+
+\centered 
+
+[[Party 4 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 4 Entity => By: [[Party 4 Signatory First Name]] [[Party 4 Signatory Last Name]]
+Title: [[Party 4 Signatory Title]]}}
+
+
+Dated: [[Date 4]]

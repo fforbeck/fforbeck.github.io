@@ -1,0 +1,360 @@
+\centered **NOTE AND SECURITY AGREEMENT** 
+
+FOR VALUE RECEIVED, NON-INVASIVE MONITORING SYTEMS, INC., a Florida corporation with offices at [[Address 1: Address]] (“NIMS” or “Borrower”), pursuant to this Note and Security Agreement (this “Note”) dated as of [[Date 1: Date]], hereby promises to pay to FROST GAMMA INVESTMENTS TRUST (“Frost Gamma”), and HSU GAMMA INVESTMENTS, L.P., a Delaware limited partnership (“Hsu Gamma” and, together with Frost Gamma, “Lender”), at such place as Lender may designate from time to time in writing, in lawful money of the United States of America, the principal amount of $[[USD Value 1: Number]] or such lesser amount as shall equal the outstanding principal balance of the loan (the “Loan”) made to Borrower by Lender pursuant to this Note, and to pay all other amounts due with respect to the Loan on the dates and in the amounts set forth in this Note. Frost Gamma will fund an aggregate amount equal to [[Percentage 1: Number]]% of the Loan, and Hsu Gamma will fund an aggregate amount equal to [[Percentage 1]]% of the Loan; and Borrower shall repay the Loan to each of Frost Gamma and Hsu Gamma in proportion to such funding percentages, respectively. 
+
+^Definitions. The terms set forth below shall have the following meanings: 
+
+^^“Advances” means amounts advanced under the Note upon prior written notice to the Lender by the Borrower not later than 3:00 p.m., Eastern Standard Time, on the third business day prior to the date of any advance of credit pursuant hereto. Any such notice shall be in the form of the Borrowing Notice (as hereafter defined), shall be certified by the president of Borrower and shall set forth the aggregate amount of the requested Advance. Upon receiving a request for an Advance to which Borrower is entitled hereunder, the Lender shall make the requested Advance available to Borrower by wire transfer of immediately available funds to a bank account designated by Borrower. 
+
+^^“Affiliate” means any Person that owns or controls directly or indirectly ten percent ([[Percentage 2: Number]]%) or more of the stock of another entity, any Person that controls or is controlled by or is under common control with such Persons or any Affiliate of such Persons and each of such Person’s officers, directors, joint venturers or partners. 
+
+^^“Available Amount” means One Million Dollars ($[[USD Value 2: Number]]). 
+
+^^“Borrowing Notice” means the Notice of Borrowing set forth as Exhibit A to this Note. 
+
+^^“Code” means the Uniform Commercial Code as adopted and in effect in the State of Florida, as amended from time to time; provided that if by reason of mandatory provisions of law, the creation and/or perfection or the effect of perfection or non-perfection of the security interest in any Collateral is governed by the Uniform Commercial Code as in effect in a jurisdiction other than Florida, then the term “Code” shall also mean the Uniform Commercial Code as in effect from time to time in such jurisdiction for purposes of the provisions hereof relating to such creation, perfection or effect of perfection or non-perfection. 
+
+^^“Default Rate” shall mean a rate that shall be five percent ([[Percentage 3: Number]]%) in excess of the Interest Rate but not more than the maximum rate allowed by law. The Default Rate is imposed as liquidated damages for the purpose of defraying the Lender’s expenses incident to the handling of delinquent payments, but are in addition to, and not in lieu of, the Lender’s exercise of any rights and remedies hereunder or under applicable law, and any fees and expenses of any agents or attorneys which the Lender may employ in respect of such rights and remedies. In addition, the Default Rate reflects the increased credit risk to the Lender of carrying a loan that is in default. Borrower agrees that the Default Rate is a reasonable forecast of just compensation for anticipated and actual harm incurred by the Lender in the event of Borrower’s default hereunder, and that the actual harm incurred by the Lender cannot be estimated with certainty and without difficulty. 
+
+^^“Equity Securities” of Borrower means (1) all common stock, preferred stock, participations, shares, partnership interests, membership interests or other equity interests in and of Borrower (regardless of how designated and whether or not voting or non-voting) and (2) all warrants, options and other rights to acquire any of the foregoing. 
+
+^^“Event of Default” shall mean the occurrence of one or more of the following events: 
+
+^Borrower shall fail to make any payment due to Lender under this Note when the same shall become due and payable, whether at maturity, by acceleration or otherwise, within five (5) days after receipt of written notice from Lender that such payment is due and unpaid. 
+
+^Borrower violates any of the covenants contained in Sections 7 and 8 of this Note and fails to remedy such violation within ten (10) days after receipt of written notice from Lender that such a violation has occurred. 
+
+^Any material portion of Borrower’s assets is attached, seized, subjected to a writ or distress warrant, or is levied upon, or comes into the possession of any trustee, receiver or person acting in a similar capacity and such attachment, seizure, writ or distress warrant or levy has not been removed, discharged or rescinded within ten (10) days, or if Borrower is enjoined, restrained, or in any way prevented by court order from continuing to conduct all or any material part of its business affairs, or if a judgment or other claim becomes a lien or encumbrance upon any material portion of Borrower’s assets, or if a notice of lien, levy, or assessment is filed of record with respect to any of Borrower’s assets by the United States Government, or any department, agency, or instrumentality thereof, or by any state, county, municipal or governmental agency, and the same is not paid within ten (10) days after Borrower receives notice thereof; provided that none of the foregoing shall constitute an Event of Default where such action or event is stayed or an adequate bond has been posted pending a good faith contest by Borrower. 
+
+^One or more defaults shall exist under any agreement with any third party or parties which consists of the failure to pay any Indebtedness at maturity or which results in a right by such third party or parties, whether or not exercised, to accelerate the maturity of Indebtedness in an aggregate amount in excess of One Hundred Fifty Thousand Dollars ($[[USD Value 3: Number]]). 
+
+^A judgment or judgments for the payment of money in an amount, individually or in the aggregate, of at least One Hundred Fifty Thousand Dollars ($[[USD Value 3]]) shall be rendered against Borrower and shall remain unsatisfied and unstayed for a period of ten (10) days or more. 
+
+^Any material misrepresentation or material misstatement that exists now or hereafter in any warranty, representation, statement, certification or report made to Lender by Borrower or any officer, employee, agent or director of Borrower. 
+
+^Any document executed in connection with the Loan ceases to be, or Borrower asserts that such document is not, in any material respect, a legal, valid and binding obligation of Borrower enforceable in accordance with its terms. 
+
+^A proceeding shall have been instituted in a court having jurisdiction in the premises seeking a decree or order for relief in respect of Borrower in an involuntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or for the appointment of a receiver, liquidator, assignee, custodian, trustee (or similar official) of Borrower or for any substantial part of its property, or for the winding-up or liquidation of its affairs, and such proceeding shall remain undismissed or unstayed and in effect for a period of sixty (60) consecutive days or such court shall enter a decree or order granting the relief sought in such proceeding. 
+
+^Borrower commences a voluntary case under any applicable bankruptcy, insolvency or other laws affecting creditors’ rights generally now or hereafter in effect, consents to the entry of an order for relief in an involuntary case under any such law, or consents to the appointment of or taking possession by a receiver, liquidator, assignee, trustee, custodian (or other similar official) of Borrower or for any substantial part of its property, or shall make a general assignment for the benefit of creditors, or shall fail generally to pay its debts as they become due, or shall take any corporate action in furtherance of any of the foregoing. 
+
+^^“Indebtedness” means, with respect to Borrower, the aggregate amount of, without duplication, (a) all obligations of Borrower for borrowed money, (b) all obligations of Borrower evidenced by bonds, debentures, notes or other similar instruments, (c) all obligations of Borrower to pay the deferred purchase price of property or services (excluding trade payables aged less than one hundred eighty (180) days), (d) all capital lease obligations of Borrower, (e) all obligations or liabilities of others secured by a Lien on any asset of Borrower, whether or not such obligation or liability is assumed, (f) all obligations or liabilities of others guaranteed by Borrower, and (g) any other obligations or liabilities which are required by GAAP to be shown as debt on the balance sheet of Borrower. 
+
+^^“Interest Rate” shall be [[Percentage 4: Number]]% per annum. 
+
+^^“Intellectual Property” means all of Borrower’s right, title and interest in and to patents, patent rights (and applications and registrations therefor), trademarks and service marks (and applications and registrations therefor), inventions, copyrights, mask works (and applications and registrations therefor), trade names, trade styles, software and computer programs, source code, object code, trade secrets, methods, processes, know how, drawings, specifications, descriptions, and all memoranda, notes, and records with respect to any research and development, all whether now owned or licensed to, or subsequently acquired or developed by or licensed to Borrower and whether in tangible or intangible form or contained on magnetic media readable by machine together with all such magnetic media (but not including embedded computer programs and supporting information included within the definition of “goods” under the Code) and including all licenses and sublicenses with respect to any of the foregoing granted to or otherwise acquired by Borrower or to which Borrower is a successor or assignee. 
+
+^^“Lender’s Expenses” means all reasonable attorneys’ fees, costs and expenses incurred in amending (except as contemplated hereby), enforcing or defending the Note (including fees and expenses of appeal or review), including the exercise of any rights or remedies afforded under the Note or under applicable law, whether or not suit is brought, whether before or after bankruptcy or insolvency, including without limitation all fees and costs incurred by Lender in connection with Lender’s enforcement of its rights in a bankruptcy or insolvency proceeding filed by or against Borrower or its property. 
+
+^^“Lien” means any voluntary or involuntary security interest, pledge, bailment, lease, mortgage, hypothecation, conditional sales and title retention agreement, encumbrance or other lien with respect to any property of the Borrower in favor of any person. 
+
+^^“Obligations” shall mean actual indebtedness, principal, interest, fees, charges, expenses and reasonable attorneys’ fees and costs and other amounts, obligations, covenants and duties owing by Borrower to the Lender (or any permitted assignee) of any kind and description (whether pursuant to or evidenced by this Note), whether direct or indirect, absolute or contingent, due or to become due, now existing or hereafter arising, including Lender’s Expenses, in each case as then outstanding hereunder. 
+
+^^“Permitted Indebtedness” means and includes: 
+
+^Indebtedness of Borrower to Lender; 
+
+^Indebtedness arising from the endorsement of instruments in the ordinary course of business; 
+
+^Indebtedness existing on the date hereof; 
+
+^Indebtedness of Borrower in an aggregate original principal amount not to exceed $[[USD Value 4: Number]] which is secured by Liens permitted under clause (5) of the definition of Permitted Liens; 
+
+^Other Indebtedness in an aggregate amount not exceeding $[[USD Value 5: Number]] at any time; and 
+
+^Extensions, refinancings, modifications, amendments and restatements of any items of Permitted Indebtedness above, provided that the principal amount thereof is not increased or the terms thereof are not modified to impose more burdensome terms upon Borrower. 
+
+^^“Permitted Investments” means and includes any of the following investments: 
+
+^Deposits and deposit accounts with commercial banks organized under the laws of the United States or a state thereof to the extent: (i) the deposit accounts of each such institution are insured by the Federal Deposit Insurance Corporation up to the legal limit; and (ii) each such institution has an aggregate capital and surplus of not less than One Hundred Million Dollars ($[[USD Value 6: Number]]). 
+
+^Investments in marketable obligations issued or fully guaranteed by the United States and maturing not more than one (1) year from the date of issuance. 
+
+^Investments in open market commercial paper rated at least “A1” or “P1” or higher by a national credit rating agency and maturing not more than one (1) year from the creation thereof. 
+
+^Investments pursuant to or arising under currency agreements or interest rate agreements entered into in the ordinary course of business. 
+
+^Investments, not requiring the use of cash or the assumption of liabilities, in joint ventures, partnerships or similar business arrangements entered into in the ordinary course of business in substantially the same industry and growth stage as Borrower. 
+
+^Other investments aggregating not in excess of Five Hundred Thousand Dollars ($[[USD Value 7: Number]]) at any time. 
+
+^^“Permitted Liens” means: 
+
+^The Lien created by this Note. 
+
+^Liens for fees, taxes, levies, imposts, duties or other governmental charges of any kind which are not yet delinquent or which are being contested in good faith by appropriate proceedings which suspend the collection thereof (provided that such appropriate proceedings do not involve any substantial danger of the sale, forfeiture or loss of any material item of Collateral or Collateral which in the aggregate is material to Borrower and that Borrower has adequately bonded such Lien or reserves sufficient to discharge such Lien have been provided on the books of Borrower). 
+
+^Liens existing as of the date of this Note. 
+
+^Carriers’, warehousemen’s, mechanics’, materialmen’s, repairmen’s or other similar Liens arising in the ordinary course of business and which are not delinquent or remain payable without penalty or which are being contested in good faith and by appropriate proceedings (provided that such appropriate proceedings do not involve any substantial danger of the sale, forfeiture or loss of any material item of Collateral or Collateral which in the aggregate is material to Borrower and that Borrower has adequately bonded such Lien or reserves sufficient to discharge such Lien have been provided on the books of Borrower). 
+
+^Liens upon any equipment or other personal property acquired by Borrower after the date hereof to secure (i) the purchase price of such equipment or other personal property, or (ii) lease obligations or indebtedness incurred solely for the purpose of financing the acquisition of such equipment or other personal property; provided that such Liens are confined solely to the equipment or other personal property so acquired and the proceeds thereof and the amount secured does not exceed the acquisition price thereof. 
+
+^Licenses of Intellectual Property entered into in the ordinary course of business (whether as licensor or licensee); 
+
+^Bankers’ liens, rights of setoff and similar Liens incurred on deposits made in the ordinary course of business and Liens in favor of financial institutions arising in connection with Borrower’s deposit accounts or securities accounts held at such institutions to secure customary fees and charges; 
+
+^Any judgment, attachment or similar Lien not resulting in an Event of Default hereunder; and 
+
+^Liens incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described above but any extension, renewal or replacement Lien must be limited to the property encumbered by the existing Lien and the principal amount of the indebtedness may not increase. 
+
+^^“Person” means and includes any individual, any partnership, any corporation, any business trust, any joint stock company, any limited liability company, any un[[Party 1]] association or any other entity and any domestic or foreign national, state or local government, any political subdivision thereof, and any department, agency, authority or bureau of any of the foregoing. 
+
+^^“Subsidiary” means any corporation or other entity of which a majority of the outstanding equity securities entitled to vote for the election of directors or other governing body (otherwise than as the result of a default) is owned by Borrower directly or indirectly through Subsidiaries. 
+
+^Advances Under the Note and Obligations. From time to time prior to the Maturity Date, subject to the provisions below, the Lender may make Advances to the Borrower, which the Borrower shall repay to the Lender and, the Borrower after such Advances, may reborrow, so long as the aggregate amount of Advances outstanding at any one time shall not exceed the Available Amount, which the Borrower shall again repay to the Lender. Notwithstanding the face amount of the Note, Borrower’s liability under the Note shall include the Obligations. Lender may determine to include Obligations other than interest payable at the Interest Rate in calculating the Available Amount. The obligation of the Lender to make Advances shall be subject to the Lender’s receipt of a completed Borrowing Notice and such documents as the Lender may reasonably request and the absence of any continuing Event of Default. Prior to making the first Advance and as a condition to such Advance, Borrower shall provide Lender with a certificate of the duly authorized Secretary of Borrower as to its Bylaws and resolutions adopted by its board of directors authorizing this Note and the transactions contemplated hereby, and a certified copy of Borrower’s Certificate of Incorporation, as well as any and all third-party consents which are required to be procured by Borrower before it can incur the indebtedness evidenced by this Note and otherwise commit itself to its obligations hereunder. 
+
+^Payments of Obligations, including Principal and Interest. The principal amount of the Loan evidenced hereby, together with any accrued and unpaid interest, and any and all the Obligations, including unpaid costs, fees and expenses accrued, such as Lender’s Expenses, shall be due and payable in full on [[Date 2: Date]] (the “Maturity Date”). 
+
+^Interest. All amounts outstanding from time to time hereunder shall bear interest until such amounts are paid at the Interest Rate. Following any Event of Default (including before or after any judgment is entered) and after the Maturity Date, the principal balance outstanding hereunder, together with all such other amounts outstanding hereunder, shall bear interest at the Default Rate. 
+
+^Prepayments. Borrower may prepay in cash, at any time or from time to time, all or any portion of the amounts due hereunder, without penalty or premium; provided, however, that any prepayment (whether voluntary or involuntary) shall be applied first to accrued and unpaid interest and second to outstanding principal and other Obligations due hereunder. Prepayments of all or any portion of the Obligations shall not reduce the Available Amount, and funds may be reborrowed hereunder up to the Available Amount, subject to the provision hereof and the Note. If Borrower makes a payment or payments and such payment or payments, or any part thereof, are subsequently invalidated, declared to be fraudulent or preferential, set aside or are required to be repaid to a trustee, receiver, or any other person under any bankruptcy act, state, provincial or federal law, common law or equitable cause, then to the extent of such payment or payments, the obligations or part thereof hereunder intended to be satisfied shall be revived and continued in full force and effect as if said payment or payments had not been made. 
+
+^Security Interest. 
+
+^^Grant of Security Interest. Borrower grants to Lender a valid and continuing first priority security interest in all presently existing and hereafter acquired or arising Collateral in order to secure prompt, full and complete payment of the amounts due hereunder and in order to secure prompt, full and complete performance by Borrower of each of its covenants and duties under this Note. “Collateral” shall mean and include all right, title, interest, claims and demands of Borrower in and to all personal property of Borrower, including without limitation, all of the following: 
+
+^All goods (and embedded computer programs and supporting information included within the definition of “goods” under the Code) and equipment now owned or hereafter acquired, including, without limitation, all laboratory equipment, computer equipment, office equipment, machinery, fixtures, vehicles (including motor vehicles and trailers), and any interest in any of the foregoing, and all attachments, accessories, accessions, replacements, substitutions, additions, and improvements to any of the foregoing, wherever located. 
+
+^All inventory now owned or hereafter acquired, including, without limitation, all merchandise, raw materials, parts, supplies, packing and shipping materials, work in process and finished products including such inventory as is temporarily out of Borrower’s custody or possession or in transit and including any returns upon any accounts or other proceeds, including insurance proceeds, resulting from the sale or disposition of any of the foregoing and any documents of title representing any of the above, and Borrower’s books relating to any of the foregoing. 
+
+^All contract rights and general intangibles, now owned or hereafter acquired, including, without limitation, goodwill, license agreements, franchise agreements, blueprints, drawings, purchase orders, customer lists, route lists, infringements, claims, software, computer programs, computer disks, computer tapes, literature, reports, catalogs, design rights, income tax refunds, payment intangibles, commercial tort claims, payments of insurance and rights to payment of any kind. 
+
+^All now existing and hereafter arising accounts, contract rights, royalties, license rights, license fees and all other forms of obligations owing to Borrower arising out of the sale or lease of goods, the licensing of technology or the rendering of services by Borrower (subject, in each case, to the contractual rights of third parties to require funds received by Borrower to be expended in a particular manner), whether or not earned by performance, and any and all credit insurance, guaranties, and other security therefor, as well as all merchandise returned to or reclaimed by Borrower and Borrower’s books relating to any of the foregoing. 
+
+^All documents, cash, deposit accounts, letters of credit (whether or not the letter of credit is evidenced by a writing), certificates of deposit, instruments, promissory notes, chattel paper (whether tangible or electronic) and investment property, including, without limitation, all securities, whether certificated or uncertificated, security entitlements, securities accounts, commodity contracts and commodity accounts, and all financial assets held in any securities account or otherwise, wherever located, now owned or hereafter acquired and Borrower’s books relating to the foregoing. 
+
+^All Intellectual Property of the Borrower. 
+
+^Any and all claims, rights and interests in any of the above and all substitutions for, additions and accessions to and proceeds thereof, including, without limitation, insurance, condemnation, requisition or similar payments and proceeds of the sale or licensing of Intellectual Property to the extent such proceeds no longer constitute Intellectual Property. 
+
+^^After-Acquired Property. If Borrower shall at any time acquire a commercial tort claim, as defined in the Code, Borrower shall immediately notify Lender in writing signed by Borrower of the brief details thereof and grant to Lender in such writing a security interest therein and in the proceeds thereof, all upon the terms of this Note, with such writing to be in form and substance satisfactory to Lender. 
+
+^^Duration of Security Interest. Lender’s security interest in the Collateral shall continue until the payment in full and the satisfaction of all obligations of Borrower under this Note, and the termination of any commitment to fund any Loan, whereupon such security interest shall terminate. Lender shall, at Borrower’s sole cost and expense, execute such further documents and take such further actions as may be reasonably necessary to make effective the release contemplated by this Section 6(c), including duly executing and delivering termination statements for filing in all relevant jurisdictions under the Code. 
+
+^^Location and Possession of Collateral. The Collateral is and shall remain in the possession of Borrower at its location at [[Address 1: Address]] and such other locations that the Borrower shall lawfully occupy in the normal conduct of its business. Borrower shall remain in full possession, enjoyment and control of the Collateral (except only as may be otherwise required by Lender for perfection of its security interest therein) and so long as no Event of Default has occurred and is continuing, shall be entitled to manage, operate and use the same and each part thereof with the rights and franchises appertaining thereto; provided that the possession, enjoyment, control and use of the Collateral shall at all time be subject to the observance and performance of the terms of this Note. 
+
+^^Delivery of Additional Documentation Required. Borrower shall from time to time execute and deliver to Lender, at the request of Lender, all financing statements and other documents Lender may reasonably request, in form satisfactory to Lender, to perfect and continue Lender’s perfected security interests in the Collateral and in order to consummate fully all of the transactions contemplated under this Note. 
+
+^^Right to Inspect. Lender (through any of its officers, employees, or agents) shall have the right, upon reasonable prior notice, from time to time during Borrower’s usual business hours, to inspect Borrower’s books and records and to make copies thereof and to inspect, test, and appraise the Collateral in order to verify Borrower’s financial condition or the amount, condition of, or any other matter relating to, the Collateral. 
+
+^^Protection of Intellectual Property. Borrower shall use its commercially reasonable efforts to (i) protect, defend and maintain the validity and enforceability of its material Intellectual Property and promptly advise Lender in writing of material infringements which become known to Borrower and (ii) not allow any Intellectual Property material to Borrower’s business to be abandoned, forfeited or dedicated to the public except in the ordinary course of Borrower’s business. Specifically but without limitation, Borrower shall cause the Creighton License to remain in full force and effect at all times while this Note is in effect. 
+
+^Affirmative Covenants. Borrower covenants that, so long as any amounts are due and payable hereunder to Lender or any commitment to make any Loan still exists, Borrower shall: 
+
+^^Maintain its corporate existence and its good standing in its jurisdiction of incorporation and maintain qualification in each jurisdiction in which the failure to so qualify could reasonably be expected to have a material adverse effect on the financial condition, operations or business of Borrower. Borrower shall maintain in force all licenses, approvals and agreements, the loss of which could reasonably be expected to have a material adverse effect on its financial condition, operations or business. 
+
+^^Comply with all statutes, laws, ordinances and government rules and regulations to which it is subject, noncompliance with which could reasonably be expected to materially adversely affect the financial condition, operations or business of Borrower. 
+
+^^Deliver to Lender: (i) as soon as available, but in any event within forty five (45) days after the end of each month, a company prepared balance sheet, income statement and cash flow statement covering Borrower’s operations during such period, certified by Borrower’s president, treasurer or chief financial officer (each, a “Responsible Officer”); (ii) as soon as available, but in any event within one hundred twenty (120) days after the end of Borrower’s fiscal year, audited financial statements of Borrower prepared in accordance with GAAP, together with an unqualified opinion on such financial statements of a nationally recognized or other independent public accounting firm reasonably acceptable to Lender; and (iii) as soon as available, but in any event within ninety (90) days after the end of Borrower’s fiscal year or the date of Borrower’s board of directors’ adoption, Borrower’s operating budget and plan for the next fiscal year; and (iv) such other financial information as Lender may reasonably request from time to time. For so long as Borrower is a publicly reporting company, promptly as they are available and in any event: (x) at the time of filing of Borrower’s Form 10-K with the Securities and Exchange Commission after the end of each fiscal year of Borrower, the financial statements of Borrower filed with such Form 10-K; and (y) at the time of filing of Borrower’s Form 10-Q with the Securities and Exchange Commission after the end of each of the first three fiscal quarters of Borrower, the financial statements of Borrower filed with such Form 10-Q. In addition, Borrower shall deliver to Lender: (i) promptly upon becoming available, copies of all statements, reports and notices sent or made available generally by Borrower to its security holders; (ii) immediately upon receipt of notice thereof, a report of any material legal actions pending or threatened against Borrower or the commencement of any action, proceeding or governmental investigation involving Borrower is commenced that is reasonably expected to result in damages or costs to Borrower of One Hundred Fifty Thousand Dollars ($[[USD Value 3]]) or more; and (iii) such other financial information as Lender may reasonably request from time to time. 
+
+^^Each time financial statements are furnished pursuant to Section 7(c) above, deliver to Lender an Officer’s Certificate signed by a Responsible Officer in form satisfactory to Lender, certifying such financial statements, Borrower’s compliance with the terms of this Note and that no default or Event of Default has occurred under this Note. 
+
+^^As soon as possible, and in any event within five (5) days after the discovery of a default or an Event of Default, provide Lender with an Officer’s Certificate setting forth the facts relating to or giving rise to such default or Event of Default and the action which Borrower proposes to take with respect thereto. 
+
+^^Make due and timely payment or deposit of all federal, state, and local taxes, assessments, or contributions required of it by law or imposed upon any property belonging to it, and will execute and deliver to Lender, on demand, appropriate certificates attesting to the payment or deposit thereof; and Borrower will make timely payment or deposit of all tax payments and withholding taxes required of it by applicable laws, including those laws concerning F.I.C.A., F.U.T.A., state disability, and local, state, and federal income taxes, and will, upon request, furnish Lender with proof satisfactory to Lender indicating that Borrower has made such payments or deposits; provided that Borrower need not make any payment if the amount or validity of such payment is contested in good faith by appropriate proceedings which suspend the collection thereof (provided that such proceedings do not involve any substantial danger of the sale, forfeiture or loss of any material item of Collateral or Collateral which in the aggregate is material to Borrower and that Borrower has adequately bonded such amounts or reserves sufficient to discharge such amounts have been provided on the books of Borrower). 
+
+^^Keep and maintain all items of equipment and other similar types of personal property that form any significant portion or portions of the Collateral in good operating condition and repair and shall make all necessary replacements thereof and renewals thereto so that the value and operating efficiency thereof shall at all times be maintained and preserved. Borrower shall not permit any such material item of Collateral to become a fixture to real estate or an accession to other personal property, without the prior written consent of Lender. Borrower shall not permit any such material item of Collateral to be operated or maintained in violation of any applicable law, statute, rule or regulation. With respect to items of leased equipment (to the extent Lender has any security interest in any residual Borrower’s interest in such equipment under the lease), Borrower shall keep, maintain, repair, replace and operate such leased equipment in accordance with the terms of the applicable lease. 
+
+^^Keep its business and the Collateral insured for risks and in amounts as Lender may reasonably request. Insurance policies shall be in a form, with companies, and in amounts that are satisfactory to Lender. All property policies shall have a lender’s loss payable endorsement showing Lender as an additional loss payee and all liability policies shall show Lender as an additional insured and all policies shall provide that the insurer must give Lender at least thirty (30) days notice before canceling its policy. At Lender’s request, Borrower shall deliver certified copies of policies and evidence of all premium payments. Proceeds payable under any policy shall, at Lender’s option, be payable to Lender on account of the Obligations. Notwithstanding the foregoing, so long as no Event of Default has occurred and is continuing, Borrower shall have the option of applying the proceeds of any casualty policy, toward the replacement or repair of destroyed or damaged property; provided that (i) any such replaced or repaired property (a) shall be of equal or like value as the replaced or repaired Collateral and (b) shall be deemed Collateral in which Lender has been granted a security interest and (ii) after the occurrence and during the continuation of an Event of Default all proceeds payable under such casualty policy shall, at the option of Lender, be payable to Lender, on account of the Indebtedness evidenced by this Note. If Borrower fails to obtain insurance as required under this Section 7(h) or to pay any amount or furnish any required proof of payment to third persons and Lender, Lender may make all or part of such payment or obtain such insurance policies required in this Section 7(h) and take any action under the policies Lender deems prudent. On or prior to the Initial Closing Date and prior to each policy renewal, Borrower shall furnish to Lender certificates of insurance or other evidence reasonably satisfactory to Lender that insurance complying with all of the above requirements is in effect. 
+
+^^Assuming the proper filing of one or more financing statement(s) identifying the Collateral with the proper state and/or local authorities, the security interests in the Collateral granted to Lender pursuant to this Note (i) constitute and will continue to constitute first priority security interests (except to the extent any Permitted Liens may have a superior priority to Lender’s Lien under this Note) and (ii) are and will continue to be superior and prior to the rights of all other creditors of Borrower (except to the extent of such Permitted Liens). 
+
+^^At any time and from time to time Borrower shall execute and deliver such further instruments and take such further action as may reasonably be requested by Lender to make effective the purposes of this Note, including without limitation, the continued perfection and priority of Lender’s security interest in the Collateral. 
+
+^Negative Covenants. Borrower covenants that so long as any amounts are due and payable hereunder to Lender or any commitment to make any Loan still exists, without the prior approval of Lender, Borrower shall not: 
+
+^^Change its name, jurisdiction of incorporation or principal place of business without thirty (30) days prior written notice to Lender. 
+
+^^Subject to its rights under Section 8(d), remove any items of Collateral from the Collateral location(s) specified in this Note. 
+
+^^Create, incur, assume or suffer to exist any Lien of any kind upon any of Borrower’s property, whether now owned or hereafter acquired, except Permitted Liens. 
+
+^^Convey, sell, lease or otherwise dispose of all or any part of the Collateral to any Person (collectively, a “Transfer”), except for: (i) Transfers of inventory in the ordinary course of business; or (ii) Transfers of worn-out or obsolete equipment. 
+
+^^(i) Pay any dividends or make any distributions on its Equity Securities; (ii) purchase, redeem, retire, defease or otherwise acquire for value any of its Equity Securities (other than repurchases pursuant to the terms of employee stock purchase plans, employee restricted stock agreements or similar arrangements in an aggregate amount not to exceed One Hundred Thousand Dollars ($[[USD Value 5]])); (iii) return any capital to any holder of its Equity Securities as such; (iv) make any distribution of assets, Equity Securities, obligations or securities to any holder of its Equity Securities as such; or (v) set apart any sum for any such purpose; provided, however, that Borrower may pay dividends payable solely in common stock. 
+
+^^Engage in or permit any of its Subsidiaries to engage in any business other than the businesses currently engaged in by Borrower or reasonably related thereto. 
+
+^^Enter into any contractual obligation with any Affiliate or engage in any other transaction with any Affiliate except upon terms at least as favorable to Borrower as an arms-length transaction with persons who are not Affiliates of Borrower. 
+
+^^(i) Prepay, redeem, purchase, defease or otherwise satisfy in any manner prior to the scheduled repayment thereof any Indebtedness for borrowed money (other than amounts due or permitted to be prepaid under this Note) or lease obligations, (ii) amend, modify or otherwise change the terms of any Indebtedness for borrowed money or lease obligations so as to accelerate the scheduled repayment thereof or (iii) repay any notes to officers, directors or shareholders. 
+
+^^Create, incur, assume or permit to exist any Indebtedness except Permitted Indebtedness. 
+
+^^Make any investment except for Permitted Investments. 
+
+^^Become an “investment company” or a company controlled by an “investment company” under the Investment Company Act of 1940 or undertake as one of its important activities extending credit to purchase or carry margin stock, or use the proceeds of any Loan for that purpose; fail to meet the minimum funding requirements of the Employment Retirement Income Security Act of 1974, and its regulations, as amended from time to time (“ERISA”), permit a Reportable Event or Prohibited Transaction, as defined in ERISA, to occur; fail to comply with the Federal Fair Labor Standards Act or violate any other law or regulation, if the violation could reasonably be expected to have a material adverse effect on Borrower’s business or operations or could reasonably be expected to cause a material adverse change, or permit any of its Subsidiaries to do so. 
+
+^^Create, incur, assume or suffer to exist any Lien of any kind upon any Intellectual Property or Transfer any Intellectual Property, whether now owned or hereafter acquired, other than licenses of Intellectual Property entered into in the ordinary course of business. 
+
+^Lender’s Rights and Remedies. 
+
+^^Rights and Remedies. Upon the occurrence of an Event of Default, while such Event of Default is continuing (provided that an Event of Default shall be continuing at all times after any cure period therefor expires), Lender shall not have any further obligation to advance money or extend credit to or for the benefit of Borrower. In addition, upon the occurrence and during the continuance of an Event of Default, the entire unpaid principal sum hereunder, plus any and all interest accrued thereon, plus all other sums due and payable to Lender hereunder shall, at the option of Lender, become due and payable immediately without presentment, demand, notice of nonpayment, protest, notice of protest, or other notice of dishonor, all of which are hereby expressly waived by Borrower. Lender shall have the rights, options, duties and remedies of a secured party as permitted by applicable law and, in addition to and without limitation of the foregoing, Lender may, at its election, without notice of election and without demand, do any one or more of the following, all of which are authorized by Borrower: 
+
+^Make such payments and do such acts as Lender considers necessary or reasonable to protect Lender’s security interest in the Collateral. Borrower agrees to assemble the Collateral if Lender so requires and to make the Collateral available to Lender as Lender may designate. Borrower authorizes Lender and its designees and agents to enter the premises where the Collateral is located, to take and maintain possession of the Collateral, or any part of it, and to pay, purchase, contest, or compromise any Lien which in Lender’s determination appears or is claimed to be prior or superior to its security interest and to pay all expenses incurred in connection therewith. With respect to any of Borrower’s owned premises, Borrower hereby grants Lender a license to enter into possession of such premises and to occupy the same, without charge, for up to one hundred twenty (120) days in order to exercise any of Lender’s rights or remedies provided herein, at law, in equity, or otherwise; 
+
+^Ship, reclaim, recover, store, finish, maintain, repair, prepare for sale, advertise for sale, and sell (in the manner provided for herein) the Collateral. Lender and its agents and any purchasers at or after foreclosure are hereby granted a non-exclusive, irrevocable, perpetual, fully paid, royalty-free license or other right, solely pursuant to the provisions of this Section 8, to use, without charge, Borrower’s Intellectual Property, including without limitation, labels, patents, copyrights, rights of use of any name, trade secrets, trade names, trademarks, service marks and advertising matter, or any property of a similar nature, now or at any time hereafter owned or acquired by Borrower or in which Borrower now or at any time hereafter has any rights; provided that such license shall only be exercisable in connection with the disposition of Collateral upon Lender’s exercise of its remedies hereunder; 
+
+^Sell the Collateral at either a public or private sale, or both, by way of one or more contracts or transactions, for cash or on terms, in such manner and at such places (including Borrower’s premises) as Lender determines are commercially reasonable; and 
+
+^Credit bid and purchase all or any portion of the Collateral at any public sale. 
+
+Any deficiency that exists after disposition of the Collateral as provided above will be paid immediately by Borrower. 
+
+^^Set Off Right. Lender may set off and apply to the obligations hereunder any and all indebtedness at any time owing to or for the credit or the account of Borrower or any other assets of Borrower in Lender’s possession or control. 
+
+^^Effect of Sale. Upon the occurrence of an Event of Default and during the continuation thereof, to the extent permitted by applicable law, Borrower covenants that it will not at any time insist upon or plead, or in any manner whatsoever claim or take any benefit or advantage of, any stay or extension law now or at any time hereafter in force, nor claim, take nor insist upon any benefit or advantage of or from any law now or hereafter in force providing for the valuation or appraisement of the Collateral or any part thereof prior to any sale or sales thereof to be made pursuant to any provision herein contained, or to the decree, judgment or order of any court of competent jurisdiction; nor, after such sale or sales, claim or exercise any right under any statute now or hereafter made or enacted by any state or otherwise to redeem the property so sold or any part thereof, and, to the full extent legally permitted, except as to rights expressly provided herein, hereby expressly waives for itself and on behalf of each and every Person, except decree or judgment creditors of Borrower, acquiring any interest in or title to the Collateral or any part thereof subsequent to the date of this Note, all benefit and advantage of any such law or laws, and covenants that it will not invoke or utilize any such law or laws or otherwise hinder, delay or impede the execution of any power herein granted and delegated to Lender, but will suffer and permit the execution of every such power as though no such power, law or laws had been made or enacted. Any sale, whether under any power of sale hereby given or by virtue of judicial proceedings, shall operate to divest all right, title, interest, claim and demand whatsoever, either at law or in equity, of Borrower in and to the property sold, and shall be a perpetual bar, both at law and in equity, against Borrower, its successors and assigns, and against any and all Persons claiming the property sold or any part thereof under, by or through Borrower, its successors or assigns. 
+
+^^Power of Attorney in Respect of the Collateral. Borrower does hereby irrevocably appoint Lender (which appointment is coupled with an interest), the true and lawful attorney in fact of Borrower with full power of substitution, for it and in its name to file any notices of security interests, financing statements and continuations and amendments thereof pursuant to the Code or federal law, as may be necessary to perfect, or to continue the perfection of Lender’s security interests in the Collateral. Borrower does hereby irrevocably appoint Lender (which appointment is coupled with an interest) on the occurrence of an Event of Default and during the continuation thereof, the true and lawful attorney in fact of Borrower with full power of substitution, for it and in its name: (a) to ask, demand, collect, receive, receipt for, sue for, compound and give acquittance for any and all rents, issues, profits, avails, distributions, income, payment draws and other sums in which a security interest is granted under Section 6 with full power to settle, adjust or compromise any claim thereunder as fully as if Lender were Borrower itself; (b) to receive payment of and to endorse the name of Borrower to any items of Collateral (including checks, drafts and other orders for the payment of money) that come into Lender’s possession or under Lender’s control; (c) to make all demands, consents and waivers, or take any other action with respect to, the Collateral; (d) in Lender’s discretion to file any claim or take any other action or proceedings, either in its own name or in the name of Borrower or otherwise, which Lender may reasonably deem necessary or appropriate to protect and preserve the right, title and interest of Lender in and to the Collateral; (e) endorse Borrower’s name on any checks or other forms of payment or security; (f) sign Borrower’s name on any invoice or bill of lading for any account or drafts against account debtors; (g) make, settle, and adjust all claims under Borrower’s insurance policies; (h) settle and adjust disputes and claims about the accounts directly with account debtors, for amounts and on terms Lender determines reasonable; (i) transfer the Collateral into the name of Lender or a third party as the Code permits; and (j) to otherwise act with respect thereto as though Lender were the outright owner of the Collateral. 
+
+^Remedies Cumulative, Etc. 
+
+^^No right or remedy conferred upon or reserved to Lender hereunder or now or hereafter existing at law or in equity is intended to be exclusive of any other right or remedy, and each and every such right or remedy shall be cumulative and concurrent, and in addition to every other such right or remedy, and may be pursued singly, concurrently, successively or otherwise, at the sole discretion of Lender, and shall not be exhausted by any one exercise thereof but may be exercised as often as occasion therefor shall occur. 
+
+^^Borrower hereby waives presentment, demand, notice of nonpayment, protest, notice of protest, notice of dishonor and any and all other notices in connection with any default in the payment of, or any enforcement of the payment of, all amounts due under this Note. To the extent permitted by law, Borrower waives the right to any stay of execution and the benefit of all exemption laws now or hereafter in effect. 
+
+^^Costs and Expenses. Following the occurrence of any Event of Default, Borrower shall pay upon demand all costs and expenses (including reasonable attorneys’ fees and expenses) incurred by Lender in the exercise of any of its rights, remedies or powers under this Note and any amount thereof not paid promptly following demand therefor shall be added to the principal sum hereunder and shall bear interest at the Default Rate from the date of such demand until paid in full. 
+
+^Indemnification and Waiver. Whether or not the transactions contemplated hereby shall be consummated: 
+
+^^General Indemnity. Borrower agrees upon demand to pay or reimburse Lender for all liabilities, obligations and out-of-pocket expenses, including Lender’s expenses and reasonable fees and expenses of counsel for Lender from time to time arising in connection with the enforcement or collection of sums due under this Note, and in connection with any amendment or modification of such documents or any “work-out” in connection with such documents. Borrower shall indemnify, reimburse and hold Lender and each of its respective successors, assigns, agents, attorneys, officers, directors, shareholders, servants, agents and employees (each an “Indemnified Person”) harmless from and against all liabilities, losses, damages, actions, suits, demands, claims of any kind and nature (including claims relating to environmental discharge, cleanup or compliance), all costs and expenses whatsoever to the extent they may be incurred or suffered by such Indemnified Person in connection therewith (including reasonable attorneys’ fees and expenses), fines, penalties (and other charges of any applicable governmental authority), licensing fees relating to any item of Collateral, damage to or loss of use of property (including consequential or special damages to third parties or damages to Borrower’s property), or bodily injury to or death of any person (including any agent or employee of Borrower) (each, a “Claim”), directly or indirectly relating to or arising out of the use of the proceeds of the Loans or otherwise, the falsity of any representation or warranty of Borrower or Borrower’s failure to comply with the terms of this Note. The foregoing indemnity shall cover, without limitation, (i) any Claim in connection with a design or other defect (latent or patent) in any item of equipment or product included in the Collateral, (ii) any Claim for infringement of any patent, copyright, trademark or other intellectual property right, (iii) any Claim resulting from the presence on or under or the escape, seepage, leakage, spillage, discharge, emission or release of any Hazardous Substances on the premises owned, occupied or leased by Borrower, including any Claims asserted or arising under any environmental law, or (iv) any Claim for negligence or strict or absolute liability in tort; provided, however, Borrower shall not indemnify Lender for any liability incurred by Lender as a direct and sole result of Lender’s gross negligence or willful misconduct. Such indemnities shall continue in full force and effect, notwithstanding the expiration or termination of this Note. Upon Lender’s written demand, Borrower shall assume and diligently conduct, at its sole cost and expense, the entire defense of Lender, each of its partners, and each of their respective, agents, employees, directors, officers, shareholders, successors and assigns against any indemnified Claim described in this Section. Borrower shall not settle or compromise any Claim against or involving Lender without first obtaining Lender’s written consent thereto, which consent shall not be unreasonably withheld. 
+
+^Notices 1.1 . All notices required or permitted under this Note shall be in writing, reference this Note and be deemed given when: (i) delivered personally; (ii) when sent and received by confirmed telex, confirmed electronic mail or facsimile; or (iii) seven (7) days after having been sent by registered or certified air mail, return receipt requested, postage prepaid with verification of receipt. All communications will be sent to the addresses set forth below or such other address designated pursuant to this Section **Error! Reference source not found.**:  
+
+**NIMS:** 
+
+Non-Invasive Monitoring Systems, Inc. 
+
+[[Address 2: Address]] 
+
+Attention: Steven B. Mrha, Chief Operating Officer 
+
+Electronic Mail: [[Email 1]] 
+
+Fax: [[Phone 1]] 
+
+With a copy to: 
+
+Non-Invasive Monitoring Systems, Inc. 
+
+[[Address 2: Address]] 
+
+Attention: Joshua Weingard Chief Legal Officer 
+
+Electronic Mail: [[Email 2]] 
+
+Fax: [[Phone 2]] 
+
+**Frost Gamma:** 
+
+Frost Gamma Investments Trust 
+
+[[Address 2: Address]] 
+
+Attention: Steven D. Rubin 
+
+Electronic Mail: [[Email 3]] 
+
+Fax: [[Phone 2]] 
+
+With a copy to: 
+
+Frost Administrative Services, Inc. 
+
+[[Address 2: Address]] 
+
+Attention: AnneMarie Pascual, Controller 
+
+Electronic Mail: [[Email 4]] 
+
+Fax: [[Phone 3]] 
+
+**Hsu Gamma:** 
+
+Hsu Gamma Investments, L.P. 
+
+[[Address 2: Address]] 
+
+Attention: Jane H. Hsiao, General Partner 
+
+Electronic Mail: [[Email 5]] 
+
+Fax: [[Phone 4]] 
+
+Such notice shall be deemed to be given when received. Any notice of any change in such address shall also be given in the manner set forth above. Whenever the giving of notice is required, the giving of such notice may be waived in writing by the party entitled to receive such notice. 
+
+^Severability. In the event that any provision of this Note is held to be invalid, illegal or unenforceable in any respect or to any extent, such provision shall nevertheless remain valid, legal and enforceable in all such other respects and to such extent as may be permissible. Any such invalidity, illegality or unenforceability shall not affect any other provisions of this Note, but this Note shall be construed as if such invalid, illegal or unenforceable provision had never been contained herein. 
+
+^Successors and Assigns. This Note inures to the benefit of Lender and binds Borrower, and their respective successors and assigns, and the words “Borrower” and “Lender” whenever occurring herein shall be deemed and construed to include such respective successors and assigns; provided, however, neither this Note nor any rights hereunder may be assigned by Borrower without Lender’s prior written consent, which consent may be granted or withheld in Lender’s sole discretion. 
+
+^Governing Law. This Note shall be governed by and construed in accordance with the laws of the State of Florida. Borrower agrees that any action or proceeding against it to enforce the Note may be commenced in state or federal court in any county in the State of Florida, and Borrower waives personal service of process and agrees that a summons and complaint commencing an action or proceeding in any such court shall be properly served and shall confer personal jurisdiction if served by registered or certified mail in accordance with the notice provisions set forth herein. 
+
+^Entire Agreement; Construction; Amendments and Waivers. 
+
+^^Entire Agreement. This Note and each of the related loan documents dated as of the date hereof, taken together, constitute and contain the entire agreement between Borrower and Lender with respect to the subject matter hereof and supersede any and all prior agreements, negotiations, correspondence, understandings and communications between the parties, whether written or oral, with respect to such subject matter. Borrower acknowledges that it is not relying on any representation or agreement made by Lender or any employee, attorney or agent thereof, other than the specific agreements set forth in this Note and the related loan documents. 
+
+^^Construction. This Note is the result of negotiations between and has been reviewed by each of Borrower and Lender as of the date hereof and their respective counsel; accordingly, this Note shall be deemed to be the product of the parties hereto, and no ambiguity shall be construed in favor of or against Borrower or Lender. Borrower and Lender agree that they intend the literal words of this Note and the related loan documents and that no parol evidence shall be necessary or appropriate to establish Borrower’s or Lender’s actual intentions. 
+
+^^Amendments and Waivers. Any and all amendments, modifications, discharges or waivers of, or consents to any departures from any provision of this Note or of any of the related loan documents shall not be effective without the written consent of Lender and Borrower. Any waiver or consent with respect to any provision of such loan documents shall be effective only in the specific instance and for the specific purpose for which it was given. No notice to or demand on Borrower in any case shall entitle Borrower to any other or further notice or demand in similar or other circumstances. Any amendment, modification, waiver or consent affected in accordance with this Section shall be binding upon Lender and on Borrower. 
+
+^Reliance by Lender. All covenants, agreements, representations and warranties made herein by Borrower shall be deemed to be material to and to have been relied upon by Lender, notwithstanding any investigation by Lender. 
+
+^No Set-Offs by Borrower. All sums payable by Borrower pursuant to this Note or any of the related loan documents shall be payable without notice or demand and shall be payable in United States Dollars without set-off or reduction of any manner whatsoever. 
+
+^Survival. All covenants, representations and warranties made in this Note shall continue in full force and effect so long as any obligations hereunder or commitment to fund remain outstanding. The obligations of Borrower to indemnify Lender with respect to the expenses, damages, losses, costs and liabilities described in Section 11 shall survive until all applicable statute of limitations periods with respect to actions that may be brought against Lender have run. 
+
+^WAIVER OF TRIAL BY JURY. EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO TRIAL BY JURY. 
+
+\centered **[SIGNATURE PAGE FOLLOWS]** 
+
+**IN WITNESS WHEREOF**, Borrower has duly executed this Note and Security Note as of the day and year first above written. 
+
+\centered 
+
+**NON-INVASIVE MONITORING SYSTEMS, INC.** By: /s/ Adam S. Jackson 
+
+Name: Adam S. Jackson Title: Chief Financial Officer **Agreed and Accepted:** **FROST GAMMA INVESTMENTS TRUST** By: /s/ Phillip Frost, M.D. 
+
+Name: Phillip Frost, M.D. Title: Trustee **HSU GAMMA INVESTMENTS, L.P.** By: /s/ Jane H. Hsiao, Ph.D. 
+
+Name: Jane H. Hsiao, Ph.D. Title: General Partner  
+
+\centered **NOTICE OF BORROWING** 
+
+, 2010 
+
+*FROST GAMMA INVESTMENTS TRUST* *[[Address 3: Address]]*  
+
+*HSU GAMMA INVESTMENTS, L.P.* 
+
+*[[Address 4: Address]]* 
+
+**RE: NOTICE OF BORROWING**  
+
+Dear All: 
+
+Pursuant to the terms of the Note and Security Agreement (the “Note”) dated as of [[Date 1]] by and between Non-Invasive Monitoring Systems, Inc. (“NIMS”) and the creditors listed above (collectively, the “Lender”), NIMS hereby requests an advance from the Lender in the amount of $. ( Dollars and  cents). Such aggregate advance shall be funded as follows in accordance with the terms of the Note: 
+
+\centered 
+
+Frost Gamma Investments Trust ([[Percentage 1]]%):    $    Hsu Gamma Investments, L.P. ([[Percentage 1]]%):    $     
+
+Funding instructions are attached herewith. 
+
+This notice constitutes a reaffirmation by the undersigned that the representations and warranties in the Note are true, correct and accurate in all material respects as if the date hereof was the date the Note was executed and that it is in compliance with the Note in all material respects as of the date of this Notice of Borrowing. 
+
+Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Note. 
+
+Very Truly Yours, 
+
+**NON-INVASIVE MONITORING SYSTEMS, INC.** 
+
+\centered 
+
+[[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+ 

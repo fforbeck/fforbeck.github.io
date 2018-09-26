@@ -1,0 +1,111 @@
+\centered **ESCROW AGREEMENT**
+
+THIS AGREEMENT made as of [[Date 1: Date]]
+
+BETWEEN: 
+**HELIX WIND CORP., a Nevada corporation** 
+[[Address 1: Address]]
+
+(the “Company”)  
+AND: 
+**KENNETH O. MORGAN** 
+[[Address 2: Address]] 
+(“Morgan”)  
+AND: 
+**LAW OFFICES OF WILLIAM M. AUL** 
+[[Address 3: Address]] 
+(the “Escrowholder”)  
+WHEREAS:  
+^The Company has entered into that certain Note and Warrant Purchase Agreement and issued a Convertible Secured Promissory Note in the principal amount of seven hundred seventy nine thousand five hundred dollars ($[[USD Value 1: Number]]), each dated [[Date 1]] (the “Financing Documents”) with St. George Investments (the “Lender”).
+
+^The Financing Documents require that as a condition to closing the financing under the Financing Documents, that Morgan pledge four million eight hundred thousand (4,800,000) shares (the “Pledged Shares”) of his Company common stock to the Lender under the terms of the Stock Pledge Agreement dated [[Date 1]] (the “Pledge Agreement”) between Morgan and the Lender, to secure the Company’s obligations under the Financing Documents.
+
+^Morgan has agreed to the terms of Stock Pledge Agreement and the deliver the Pledged Shares in accordance with the Pledge Agreement, so long that the Company agrees to issue Morgan an aggregate of six million (6,000,000) shares of Company’s common stock (the “Replacement Shares”) in the event that Morgan forfeits the Pledged Shares subject to the default provisions of the Pledge Agreement (the “Forfeiture Event”)
+
+^The Company, Morgan, and the Escrowholder agree that simultaneous with the closing under the Financing Documents, the Company and Morgan entered into that certain Settlement Agreement and Mutual Release dated [[Date 1]] (the “Settlement Agreement”) pursuant to which the parties thereto agree to settle and dismiss the Action (as defined in the Settlement Agreement) in exchange for the Company’s payment in the amount of $[[USD Value 2: Number]] to Morgan.
+
+^The Company has issued that certain Irrevocable Instructions to Transfer Agent, dated [[Date 2: Date]] (the “Instructions”) wherein the Company, Morgan, and the Lender have agreed that upon default under the Note (as defined in the Instructions) and as set forth in the Default Notice (attached as Exhibit B to the Instructions), the Company provides instructions to Island Stock Transfer, the Company’s stock transfer agent, to transfer the Pledged Shares to the Lender upon its receipt of a properly completed and executed Default Notice (the “Default Notice”) as set forth in Section 2 of the Instructions.
+
+^The Company, Morgan, and the Escrowholder hereby enter into this Escrow Agreement in furtherance of the Pledge Agreement and the Settlement Agreement.
+
+NOW THEREFORE WITNESSETH that for and in consideration of the covenants and agreements herein contained, the parties hereto declare and agree as follows:
+
+^The Company hereby delivers to the Escrowholder the following documents which shall be held by the Escrowholder in escrow subject to the terms and conditions of this Escrow Agreement:
+
+^^Two Common Stock Certificates representing an aggregate of six million (6,000,000) Replacement Shares registered in the name of Kenneth O. Morgan;
+
+^^A copy of the following Issuance Resolutions, each signed by Kevin K. Claudio, the Chief Financial Officer of the Company and submitted to Island Stock Transfer, the Company’s duly appointed stock transfer agent with instructions to issue and deliver the Replacement Shares to the Escrowholder;
+
+^^A copy of the resolutions adopted by the Company’s Board of Directors wherein and showing that the issuance of the Replacement Shares have been approved at a duly constituted meeting or written action of the Company’s Board of Directors in conformity with the requirements of the Company’s By-laws and the Nevada General Corporation Law; and
+
+\centered (c)   An opinion of Steven J. Davis, Esq. addressed to Morgan and opining: (i) that all of the Replacement Shares, have been validly issued, fully paid-for, and are non-assessable shares of the capital stock of the Company; and (ii) that in the event of a Forfeiture Event, all of the Replacement Shares are not and will not be subject to any claims or interests of the Company, and that at all times immediately following any Forfeiture Event, Morgan will acquire and hold the Replacement Shares free of any claims or interests of the Company.  
+
+(which documents are hereinafter called the “Escrow Documents”).
+
+^For the purposes of the Pledge Agreement, the Escrowholder holds the Escrow Documents on behalf of Morgan and shall deliver the Escrow Documents in accordance with this paragraph 2. The Escrowholder shall:
+
+^^deliver the Escrow Documents to Morgan within five (5) business days after Escrowholder’s receipt of: (i) a copy of the Default Notice from the Company or upon any reasonable notice that the Lender has exercised its rights and remedies (as defined in Section 11 of the Pledge Agreement) stating (i) there is an Event of Default under the Pledge Agreement or (ii) the Company has received notice from the Lender that an Event of Default has occurred under the Convertible Secured Promissory Note issued by the Company to the Lender and in the original principal amount of Seven Hundred Seventy-Nine Thousand Dollars ($[[USD Value 3: Number]]) (the “Secured Note”) (both, as “Written Notice”) unless then prohibited by an order of a court of competent jurisdiction.
+
+^The Company agrees that in furtherance of the intent and purposes of this Escrow Agreement, it shall, upon receipt of any notice from the Lender, the Transfer Agent, or any third party that the Lender has exercised its rights to the Collateral or that an Event of Default has occurred under the Secured Note, promptly and within one (1) business day give written notice to the Escrowholder of the same and include in said notice reasonable additional details together a copy of all documents it has received relating to or arising out of any said exercise of the Lender’s rights, the occurrence of an Event of Default, or both of them. If Morgan receives the Escrow Documents under the provisions of paragraph 2 hereof, Morgan shall acquire and hold all rights to the Replacement Shares as the sole and exclusive stockholder of all the Replacement Shares. If Morgan receives the Escrow Documents under the provisions of paragraph 2 hereof, Morgan shall be deemed to have assigned to the Company, without the requirement of any further action by any party, any and all rights Morgan may have in the Pledged Shares or any proceeds from the Pledged Shares which may inure to Morgan under the Pledge Agreement. Morgan agrees to execute any and all documents reasonably required by the Company to evidence such assignment.
+
+^In the event that the Escrowholder does not receive any Default Notice or Written Notice, and Escrowholder receives reasonable written notice from the Company that the Secured Note and all obligations to the Lender under the terms of the Secured Note have been satisfied then the Escrowholder shall return the Replacement Shares to the Company. All of the parties hereto agree that any notice to be given under this Escrow Agreement shall be deemed to have been duly and sufficiently given if mailed by prepaid registered mail, telexed or telecopied to, or delivered at, the address of the other party as hereinafter set forth:
+
+^^To Morgan: (then to the address on the first page above)
+
+^^To the Company: (then to the address on the first page above)
+
+^^To the Escrowholder: (then to the address on the first page above)
+
+or at such other address as the other party may from time to time direct in writing, and any such notice shall be deemed to have been received, if mailed, telexed or telecopied, 48 hours after the time of mailing, telexing or telecopying, and, if delivered, upon the date of delivery. If normal mail service, telex service or telecopy services is interrupted by strike, slowdown, force majeure or other case, a notice send by the impaired means of communication will not be deemed to be received until actually received, and the party sending the notice shall utilize any other such services which have not been so interrupted or shall deliver such notice in order to ensure prompt receipt thereof.
+
+^Morgan shall pay from time to time the reasonable fees and expenses of the Escrowholder in connection with the performance of its duties hereunder, and the Company and Morgan shall jointly and severally indemnify and save harmless the Escrowholder of and from all other claims, demands, damage, loss and expense arising out of its performance of its duties hereunder.
+
+^The Escrowholder will incur no liability hereunder except for its willful misconduct or gross negligence so long as it has acted in good faith. The Escrowholder shall have no responsibility in respect of loss of the Escrow Documents except the duty to exercise such care in the safekeeping thereof as it would exercise if the Escrow Documents were the property of the Escrowholder.
+
+^The Escrowholder will not be required to defend any legal proceedings which may be instituted against it in respect of or arising out of anything herein contained unless requested to do so by a party hereto and indemnified to its reasonable satisfaction against the costs and expense of such defense.
+
+^The Escrowholder may seek and obtain the advice of legal counsel in the event of any question or dispute as to any of the provisions hereof or its duties hereunder, and it shall incur no liability and shall be fully protected in acting in good faith in accordance with the opinion, advice and instructions of such legal counsel (the reasonable costs of such legal services shall be added to and be part of the Escrowholder’s expenses hereunder).
+
+^The Escrowholder is not responsible or liable for the sufficiency, form or manner of making any notice or demand or direction provided for under this Escrow Agreement or of the identity of the persons executing the same, but it shall be sufficient in any writing purporting to be such a notice, demand, protest or direction is served under the Escrowholder in any manner sufficient to bring it to its attention. The Escrowholder shall not be liable for any error of judgment, for any act done or omitted by it in good faith, or for anything which it may in good faith do or refrain from doing in connection herewith.
+
+^Nothing contained herein shall be construed as limiting the duties of the Escrowholder to Morgan in its capacity as counsel to Morgan.
+
+^This Escrow Agreement shall be governed by and construed in accordance with the laws of the state of California as if this Agreement were fully performed and fully executed within the State of California. Any dispute or claim arising to or in any way related to this Agreement shall be settled by binding arbitration in San Diego, California. All arbitration shall be conducted in accordance with the rules and regulations of the American Arbitration Association ("AAA"). AAA shall designate an arbitrator from an approved list of arbitrators following both parties' review and deletion of those arbitrators on the approved list having a conflict of interest with either party. Each party shall pay its own expenses associated with such arbitration. A demand for arbitration shall be made within a reasonable time after the claim, dispute or other matter has arisen and in no event shall such demand be made after the date when institution of legal or equitable proceedings based on such claim, dispute or other matter in question would be barred by the applicable statutes of limitations. The decision of the arbitrators shall be rendered within 60 days of submission of any claim or dispute, shall be in writing and mailed to all the parties included in the arbitration. The decision of the arbitrator shall be binding upon the parties and judgment in accordance with that decision may be entered in any court having jurisdiction thereof.
+
+^This Escrow Agreement, after full execution, acknowledgment and delivery, memorializes and constitutes the entire agreement and understanding between the parties and supersedes and replaces all prior negotiations and agreements of the parties, whether written or unwritten. Each of the parties to this Escrow Agreement acknowledges that no other party, nor any agent or attorney of any other party has made any promises, representations, or warranty whatsoever, express or implied, which is not expressly contained in this Escrow Agreement; and each party further acknowledges that he or it has not executed this Escrow Agreement in reliance upon any belief as to any fact not expressly recited hereinabove.
+
+^This Escrow Agreement shall enure to the benefit of and be binding upon the parties hereto and their respective heirs, successors, administrators and assigns.
+
+^Time shall be of the essence of this Escrow Agreement.
+
+^This Escrow Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original and all of which taken together shall constitute one and the same instrument.
+
+^The obligations of the Escrowholder shall terminate at the earlier of: (a) the delivery of the Escrow Documents to Morgan; or (b) the return of the Replacement Shares to the Company. At all times hereunder, the Escrowholder shall be entitled to reasonably rely upon the information and documents it receives in exercising its obligations under this Escrow Agreement.
+
+\centered [The remainder of this page has been left intentionally blank.]
+
+IN WITNESS WHEREOF the parties hereto have duly executed this Escrow Agreement as of the date first above written.
+
+**KENNETH O. MORGAN**
+
+[[KENNETH O. MORGAN Signatory Email: Identity | Signature]]
+__________________________________________
+{{KENNETH O. MORGAN Entity => By: [[KENNETH O. MORGAN Signatory First Name]] [[KENNETH O. MORGAN Signatory Last Name]]
+Title: [[KENNETH O. MORGAN Signatory Title]]}}
+
+Kenneth O. Morgan   
+**HELIX WIND CORP.**
+
+[[HELIX WIND CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HELIX WIND CORP. Entity => By: [[HELIX WIND CORP. Signatory First Name]] [[HELIX WIND CORP. Signatory Last Name]]
+Title: [[HELIX WIND CORP. Signatory Title]]}}
+
+Kevin K. Claudio, Chief Financial Officer
+
+**LAW OFFICES OF WILLIAM M. AUL**
+
+Per: **/s/ William M. Aul**  
+William M. Aul      
+
+\centered **[SIGNATURE PAGE TO ESCROW AGREEMENT]**

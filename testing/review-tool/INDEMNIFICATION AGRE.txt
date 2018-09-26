@@ -1,91 +1,355 @@
-\centered **INDEMNIFICATION AGREEMENT** 
+\centered INDEMNIFICATION AGREEMENT 
 
-THIS INDEMNIFICATION AGREEMENT (this “Agreement”) is made and entered into as of this ___day of [[Date 1: Date]] by and among [[Indemnitor]] (the “Indemnitor”), [[Indemnitees]] (each, an “Indemnitee” and collectively, the “Indemnitees”), as indemnitee. 
+\centered among 
 
-\centered RECITALS: 
+\centered ASSURED GUARANTY CORP., 
 
-WHEREAS, in connection with an initial public offering of its common stock, WELSH PROPERTY TRUST, INC., a Maryland corporation (the “REIT”), desires to consolidate the ownership of a portfolio of properties (the “Properties”) currently owned, directly or indirectly, by various entities and individuals through certain entities managed by affiliates of WelshCo (the “Existing Entities”), as more particularly described in the Confidential Offering Memorandum dated [[Date 2: Date]], as supplemented by that certain Supplement dated [[Date 3: Date]] (the “PPM”), and to own and operate such Properties as a self-administered and self-managed real estate investment trust within the meaning of Section 856 of the Internal Revenue Code of 1986, as amended; and 
+\centered AFS SENSUB CORP., 
 
-WHEREAS, the consolidation of the Existing Entities (hereinafter referred to as the “Formation Transactions”) will be accomplished by a series of contributions by the owners of equity interests in such Existing Entities to the Indemnitor in exchange for units of limited partner interest in the Indemnitor (“OP Units”) pursuant to one or more contribution agreements substantially in the form of contribution agreement accompanying the PPM (collectively, the “Contribution Agreements”); and 
+\centered CREDIT SUISSE SECURITIES (USA) LLC 
 
-WHEREAS, each Indemnitee is party to one or more Contribution Agreements pursuant to which such Indemnitee has agreed to contribute the ownership interest of such Indemnitee in one or more of the Existing Entities (each, a “Contributed Entity”) to the Indemnitor in exchange for OP Units; and 
+\centered and 
 
-WHEREAS, pursuant to the agreements listed on Schedule I hereto (each such agreement, as the same may be amended, supplemented, restated, replaced or otherwise modified from time to time, a “Covered Agreement”), the Indemnitees have guaranteed or agreed to guaranty the payment and performance of certain indebtedness, liabilities, claims and other obligations of one or more Contributed Entities (collectively, whether now existing or hereafter arising or incurred, and whether or not subject to any contingency, the “Guaranty Obligations”), and/or to protect, defend, indemnify, release and hold certain third parties harmless from and against certain losses, damages, costs, fees, expenses, claims, suits, judgments, awards, liabilities, judgments and other amounts arising out of or relating to one or more Contributed Entities and/or the use, maintenance and operation of the real property and other assets owned by one or more Contributed Entities (collectively, whether now existing or hereafter arising or incurred, and whether or not subject to any contingency, the “Indemnity Obligations”; herein, the 
+\centered RBS SECURITIES INC. 
 
-^^^^^ 
-Guaranty Obligations and the Indemnity Obligations are sometimes referred to collectively as the “Covered Obligations”); and 
+\centered Dated as of [[Date 1: Date]] 
 
-WHEREAS, to induce each Indemnitee to enter into each Contribution Agreement to which such Indemnitee is a party, the Indemnitor has agreed to enter into this Agreement and to indemnify each Indemnitee as herein provided. 
+\centered $[[USD Value 1: Number]] Class A-1 [[Percentage 1: Number]]% Asset Backed Notes, Series 2010-A 
 
-\centered AGREEMENTS: 
+\centered $[[USD Value 2: Number]] Class A-2 [[Percentage 2: Number]]% Asset Backed Notes, Series 2010-A 
 
-NOW, THEREFORE, in consideration of the foregoing premises, the mutual covenants and agreements of the parties set forth herein and of other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows: 
+\centered $[[USD Value 3: Number]] Class A-3 [[Percentage 3: Number]]% Asset Backed Notes, Series 2010-A 
 
-Section 1.  Indemnification. The Indemnitor hereby agrees to indemnify and hold each Indemnitee and, with respect to any Indemnitee that is not a natural person, its officers, directors, employees, agents, representatives and attorneys (hereinafter collectively referred to as “ Indemnified Parties”), harmless from and against, and shall reimburse the Indemnified Parties for, any and all losses, claims, damages, liabilities, fines, penalties, costs, expenses, judgments and settlements (each, a “ Loss”) of any threatened, pending or completed civil, criminal, administrative or investigative inquiry, claim, action, suit, proceeding, hearing, investigation, mediation, arbitration or other alternative dispute resolution mechanism (each, a “ Proceeding”) which are actually and reasonably paid or incurred, directly or indirectly, by one or more of the Indemnified Parties as a result of, in connection with or in any way relating to any Covered Obligation arising under or pursuant to any Covered Agreement to which such Indemnitee is a party, except to the extent such Covered Obligation arises or otherwise exists by reason of (i) the bad faith, fraud, gross negligence or willful misconduct of such Indemnified Party or (ii) an act or omission by such Indemnified Party which directly or indirectly causes a violation of any non-recourse carve-out guaranty, limited recourse guaranty or other so-called “bad boy” guaranty, or similar provisions contained in any mortgage, guaranty or other finance document to which the Covered Obligation relates. Notwithstanding the foregoing, the Indemnitor shall not be obligated to provide any indemnification or reimbursement hereunder in respect of any Loss arising under or pursuant to any Covered Agreement that is amended, supplemented, restated, replaced, or otherwise modified after the date of this Agreement without the prior written consent of the Indemnitor to the extent such Loss exceeds the Loss for which the Indemnitor would have been obligated to provide indemnification or reimbursement hereunder had such Covered Agreement not been so amended, supplemented, restated, replaced or otherwise modified. 
+\centered **TABLE OF CONTENTS** 
 
-Section 2.  Procedures for Indemnification. 
+\centered **Page**
+^Definitions     
 
-^^In the event an Indemnified Party seeks indemnification under this Agreement, the Indemnified Party shall promptly give notice hereunder to the Indemnitor upon obtaining notice of any demand for payment of any Covered Obligation, or any claim, investigation, or service of a summons or other initial or continuing legal or administrative process or proceeding in any Proceeding instituted, or threatened to be instituted, against the Indemnified Party as to which recovery or other action may be sought against the Indemnified Party because of the indemnification provided for herein, 
+Section 2.      Representations, Warranties and Agreements of Assured Guaranty     
 
-^^^^^ 
-and the Indemnified Party shall be required to permit the Indemnitor to assume the defense of any such Proceeding. The right to indemnification hereunder shall not be affected by any failure of the Indemnified Party to give such notice (or by delay by the Indemnified Party in giving such notice) unless, and only to the extent that, the rights and remedies of the Indemnitor shall have been prejudiced as a result of the failure to give, or the delay in giving, such notice. Failure by the Indemnitor to notify the Indemnified Party of its affirmative intent to defend any such Proceeding within thirty (30) days after notice thereof shall have been given to the Indemnitor shall be deemed a waiver by the Indemnitor of its right to defend such Proceeding. 
+Section 3.      Representations, Warranties and Agreements of the Underwriters     
 
-^^If the Indemnitor assumes the defense of any such Proceeding, the obligations of the Indemnitor hereunder as to such Proceeding shall include taking all steps reasonably necessary in the defense or settlement of such Proceeding and holding the Indemnified Party harmless from and against any and all Losses caused by or arising out of any settlement approved by the Indemnitor or any judgment entered in connection with such Proceeding except where, and only to the extent that, the Indemnitor has been prejudiced by the actions or omissions of the Indemnified Party. The Indemnitor shall not, in the defense of any such Proceeding, consent to entry of any judgment (other than a judgment of dismissal on the merits without cause) except with the written consent of the Indemnified Party (which consent shall not be unreasonably withheld, delayed or conditioned), or enter into any settlement (except with the written consent of the Indemnified Party, which consent shall not be unreasonably withheld, delayed or conditioned) unless (i) there is no finding or omission of any violation of law and no material effect on any claims that could reasonably be expected to be made against the Indemnified Party, (ii) the sole relief provided is monetary damages, and (iii) the settlement shall include the giving by the claimant or the plaintiff to the Indemnified Party a release from all liability in respect of such Proceeding. Upon the Indemnitor’s assumption of the defense of any such Proceeding, the Indemnified Party shall be entitled to participate in the defense of the Proceeding, but solely by observation and comment to the Indemnitor, and the counsel selected by the Indemnified Party shall not appear on its behalf in any Proceeding arising hereunder. The Indemnified Party shall bear the fees and expenses of any additional counsel retained by it to participate in its defense unless any of the following shall apply: (i) the employment of such counsel and the payment of fees by the Indemnitor shall have been authorized in advance in writing by the Indemnitor; or (ii) the Indemnitor’s legal counsel shall advise the Indemnitor in writing, with a copy to the Indemnified Party, that there is a conflict of interest that would make it inappropriate under applicable standards of professional conduct to have common counsel. If clause (i) or (ii) in the immediately preceding sentence is applicable, then the Indemnified Party may employ separate counsel at the expense of the Indemnitor to represent the Indemnified Party, but in no event shall the Indemnitor be obligated to pay the costs and expenses of more than one such separate counsel for any one Proceeding in any one jurisdiction. The Indemnitor shall not be liable for any settlement of any Proceeding effected without its written consent, but if settled with such consent or if there be a final judgment for the plaintiff, the Indemnitor agrees to indemnify the Indemnified Party against any Loss by reason of such settlement or judgment. 
+Section 4.      Indemnification     
 
-^^^^^ 
-^^Each party hereto shall cooperate in good faith and in all respects with the Indemnitor and its representatives (including without limitation its counsel) in the investigation, negotiation, settlement, trial and/or defense of any Proceedings (and any appeal arising therefrom). The parties shall cooperate with each other and any notifications to and information requests of any insurers. No individual representative of any party hereto or the respective affiliates shall be personally liable for any loss, claim or other amount under this Agreement, except as specifically agreed to by said individual representative. 
+Section 5.      Indemnification Procedures     
 
-Section 3.  Indemnification for Expenses of a Witness. To the extent an Indemnified Party is a witness in any Proceeding to which the Indemnified Party is not a party, such Indemnified Party shall be indemnified against and reimbursed for all costs and expenses actually and reasonably paid or incurred by such Indemnified Party in connection therewith. 
+Section 6.      Contribution     
 
-Section 4.  Non-Exclusivity. The rights of indemnification as provided by this Agreement shall not be deemed exclusive of any other rights to which the Indemnified Party may at any time be entitled under any other agreement, under applicable law, or otherwise. No amendment, alteration or repeal of this Agreement or of any provision hereof shall limit or restrict any right of Indemnified Party under this Agreement in respect of any action taken or omitted by such Indemnified Party prior to such amendment, alteration or repeal. No right or remedy herein conferred is intended to be exclusive of any other right or remedy, and every other right and remedy shall be cumulative and in addition to every other right and remedy given hereunder or now or hereafter existing at law or in equity or otherwise. The assertion or employment of any right or remedy hereunder, or otherwise, shall not prevent the concurrent assertion or employment of any other right or remedy. 
+Section 7.      Miscellaneous     
 
-Section 5.  Subrogation; Limitation of Liability. Except as otherwise provided herein, in the event of any payment under this Agreement, the Indemnitor shall be subrogated to the extent of such payment to all of the rights of recovery of the Indemnified Party, who shall execute all papers required and take all action necessary to secure such rights, including execution of such documents as are necessary to enable the Indemnitor to bring suit to enforce such rights. The Indemnitor shall not be liable under this Agreement to make any payment of amounts otherwise indemnifiable hereunder if and to the extent that the Indemnified Party has otherwise actually received such payment under any insurance policy, contract, agreement or otherwise. 
+EXHIBIT A  Opinion of Counsel
 
-Section 6.  Duration of Agreement. All agreements and obligations of the Indemnitor contained herein shall continue so long as an Indemnified Party has or may have any liability with respect to a Covered Obligation arising under any Covered Agreement. 
+\centered INDEMNIFICATION AGREEMENT 
 
-Section 7.  Entire Agreement; Binding Effect; Modification and Waiver. Except as stated herein, this Agreement constitutes the entire agreement between the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings, oral, written and implied, between the parties hereto with respect to the subject matter hereof. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the parties hereto and their respective successors (including any direct or indirect successor by purchase, merger, consolidation or otherwise to all or substantially all of the business or assets of the 
+INDEMNIFICATION AGREEMENT dated as of [[Date 1]], among ASSURED GUARANTY CORP. (“Assured Guaranty”), AFS SENSUB CORP., (the “Seller”) and CREDIT SUISSE SECURITIES (USA) LLC (“CSS”) and RBS SECURITIES INC. (“RBS”), as the Underwriters (as defined below): 
 
-^^^^^ 
-Indemnitor), assigns, spouses, heirs, executors and personal and legal representatives. No supplement, modification, termination or amendment of this Agreement shall be binding unless executed in writing by the parties hereto. No waiver of any of the provisions of this Agreement shall be deemed or shall constitute a waiver of any other provisions hereof (whether or not similar) nor shall such waiver constitute a continuing waiver unless explicitly so stated. 
+^Definitions. For purposes of this Agreement, the following terms shall have the meanings provided below: 
 
-Section 8.  Severability. If any provision or provisions of this Agreement shall be held to be invalid, void, illegal or otherwise unenforceable for any reason whatsoever: (a) the validity, legality and enforceability of the remaining provisions of this Agreement (including without limitation, each portion of any section of this Agreement containing any such provision held to be invalid, illegal or unenforceable, that is not itself invalid, illegal or unenforceable) shall not in any way be affected or impaired thereby and shall remain enforceable to the fullest extent permitted by law; and (b) to the fullest extent possible, the provisions of this Agreement (including, without limitation, each portion of any section of this Agreement containing any such provision held to be invalid, illegal or unenforceable, that is not itself invalid, illegal or unenforceable) shall be construed so as to give effect to the intent manifested thereby. 
+“Agreement” means this Indemnification Agreement, as amended from time to time. 
 
-Section 9.  Notices. All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given if (a) delivered by hand (with receipt) to the party to whom said notice or other communication shall have been directed, or (b) mailed by certified or registered mail with postage prepaid, on the third business day after the date on which it is so mailed, to the applicable parties at their respective addresses set forth on the execution page(s) hereto or, as to each party, at such other address as shall be designated by such party in a written notice to the other parties complying with the terms of this  Section 9. 
+“Assured Guaranty Agreements” means this Agreement, the Spread Account Agreement and the Insurance Agreement. 
 
-Section 10.  Miscellaneous. This Agreement may be executed in one or more counterparts, each of which shall for all purposes be deemed to be an original but all of which together shall constitute one and the same Agreement. Only one such counterpart signed by the party against whom enforceability is sought needs to be produced to evidence the existence of this Agreement. The headings of the paragraphs of this Agreement are inserted for convenience only and shall not be deemed to constitute part of this Agreement or to affect the construction thereof. The parties agree that this Agreement shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware without application of the conflict of laws principles thereof. This Agreement and the obligations of the parties hereunder shall survive termination of the Covered Agreements. 
+“Assured Guaranty Information” has the meaning provided in Section 2(g) hereof. 
 
-^^^^^ 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement on and as of the day and year first above written. 
+“Assured Guaranty Party” means any of Assured Guaranty, its parent, subsidiaries and affiliates, and any shareholder, director, officer, employee, agent or “controlling person” (as such term is used in the Securities Act) of any of the foregoing. 
 
-\centered 
+“Closing Date” means [[Date 2: Date]]. 
 
-INDEMNITOR:    WELSH PROPERY TRUST, L.P., a Delaware limited partnership 
+“Federal Securities Laws” means the Securities Act, the Securities Exchange Act of 1934, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940 and the Public Utility Holding Company Act of 1935, each as amended from time to time, and the rules and regulations in effect from time to time under such Acts. 
 
-[[INDEMNITOR    WELSH PROPERY TRUST L.P. a Delaware limited partnership Signatory Email: Identity | Signature]]
+“Final Prospectus Supplement” means the final Prospectus Supplement dated [[Date 1]] relating to the Securities. 
+
+“Indemnified Party” means any party entitled to any indemnification pursuant to Section 4 hereof. 
+
+“Indemnifying Party” means any party required to provide indemnification pursuant to Section 4 hereof. 
+
+“Insurance Agreement” means the Insurance and Indemnity Agreement, dated as of [[Date 3: Date]] among Assured Guaranty, the Trust, AmeriCredit Financial Services, Inc., AmeriCredit Corp. and the Seller. 
+
+“Losses” means (a) any actual out-of-pocket damages incurred by the party entitled to indemnification or contribution hereunder, (b) any actual out-of-pocket costs or expenses incurred by such party, including reasonable fees or expenses of its counsel and other expenses incurred in connection with investigating or defending any claim, action or other proceeding which entitle such party to be indemnified hereunder (subject to the limitations set forth in Section 5 hereof), to the extent not paid, satisfied or reimbursed from funds provided by any other Person other than an affiliate of such party (provided that the foregoing shall not create or imply any obligation to pursue recourse against any such other Person), plus (c) interest on the amount paid by the party entitled to indemnification or contribution from the date of such payment to the date of payment by the party who is obligated to indemnify or contribute hereunder at the statutory rate applicable to judgments for breach of contract. 
+
+“Notes Policy” means the financial guaranty insurance policy, including any endorsements thereto, issued by Assured Guaranty with respect to the Securities, substantially in the form attached as Annex I to the Insurance Agreement. 
+
+“Offering Document” means the Prospectus and any other material or documents delivered by the Underwriters or any Underwriter Party to any Person in connection with the offer or sale of the Securities. 
+
+“Person” means any individual, partnership, joint venture, corporation, trust, unincorporated organization or other organization or entity (whether governmental or private). 
+
+“Preliminary Prospectus Supplement” means the preliminary Prospectus Supplement subject to completion dated [[Date 3]] relating to the Securities. 
+
+“Prospectus” means, collectively, the Prospectus dated [[Date 4: Date]] relating to the Securities and the Prospectus Supplement. 
+
+“Prospectus Supplement” means, collectively, the Preliminary Prospectus Supplement and the Final Prospectus Supplement. 
+
+“Securities” means the Trust’s $[[USD Value 1]] Class A-1 [[Percentage 1]]% Asset Backed Notes, $[[USD Value 2]] Class A-2 [[Percentage 2]]% Asset Backed Notes and $[[USD Value 3]] Class A-3 [[Percentage 3]]% Asset Backed Notes issued pursuant to the Series 2010-A Indenture. 
+
+“Securities Act” means the Securities Act of 1933, as amended from time to time. 
+
+“Seller Party” means any of the Seller, its parent, subsidiaries and affiliates and any employee, agent or “controlling person” (as such term is used in the Securities Act) of any of the foregoing. 
+
+“Spread Account Agreement” means the Spread Account Agreement dated as of [[Date 3]], among Assured Guaranty, the Trust, the Collateral Agent and the Trustee, as the same may be amended, supplemented or otherwise modified in accordance with the terms thereof. 
+
+“Time of Sale” means 3:30pm (New York time) on [[Date 1]]. 
+
+“Trust” means AmeriCredit Automobile Receivables Trust 2010-A. 
+
+“Underwriter Information” has the meaning provided in Section 3(c) hereof. 
+
+“Underwriter Party” means any of the Underwriters, its respective parent, subsidiaries and affiliates and any shareholder, director, officer, employee, agent or “controlling person” (as such item is used in the Securities Act) of any of the foregoing. 
+
+“Underwriters” means CSS and RBS. 
+
+“Underwriting Agreement” means the Underwriting Agreement, dated as of [[Date 1]] among the Seller, AmeriCredit Financial Services, Inc. and the Underwriters. 
+
+^Representations, Warranties and Agreements of Assured Guaranty. Assured Guaranty represents, warrants and agrees as follows: 
+
+^^Organization, Etc. Assured Guaranty is an insurance company duly organized, validly existing and authorized to transact financial guaranty insurance business under the laws of the State of Maryland. 
+
+^^Authorization, Etc. The Notes Policy and the Assured Guaranty Agreements have been duly authorized, executed and delivered by Assured Guaranty. 
+
+^^Validity, Etc. The Notes Policy and the Assured Guaranty Agreements constitute valid and binding obligations of Assured Guaranty, enforceable against Assured Guaranty in accordance with their terms, subject, as to the enforcement of remedies, to bankruptcy, insolvency, reorganization, rehabilitation, moratorium and other similar laws affecting the enforceability of creditors’ rights generally applicable in the event of the bankruptcy or insolvency of Assured Guaranty and to the application of general principles of equity and subject, in the case of this Agreement, to principles of public policy limiting the right to enforce the indemnification provisions contained herein. 
+
+^^Exemption From Registration. The Notes Policy is exempt from registration under the Securities Act. 
+
+^^No Conflicts. Neither the execution or delivery by Assured Guaranty of the Notes Policy or the Assured Guaranty Agreements, nor the performance by Assured Guaranty of its obligations thereunder, will conflict with any provision of the certificate of incorporation or the bylaws of Assured Guaranty nor result in a breach of, or constitute a default under, any material agreement or other instrument to which Assured Guaranty is a party or by which any of its property is bound nor violate any judgment, order or decree applicable to Assured Guaranty of any governmental or regulatory body, administrative agency, court or arbitrator having jurisdiction over Assured Guaranty (except that, in the published opinion of the Securities and Exchange Commission, the indemnification provisions of this Agreement, insofar as they relate to indemnification for liabilities arising under the Securities Act, are against public policy as expressed in the Securities Act and are therefore unenforceable). 
+
+^^Financial Information. The consolidated balance sheets of Assured Guaranty as of [[Date 5: Date]] and [[Date 6: Date]] and the related consolidated statements of income, changes in shareholder’s equity and cash flows for each of the three years in the period ended [[Date 5]], which are incorporated by reference in the Prospectus, fairly present in all material respects the financial condition of Assured Guaranty as of such dates and for such periods in accordance with generally accepted accounting principles consistently applied (subject as to interim statements to normal year-end adjustments) and since the date of the most current consolidated balance sheet referred to above there has been no change in the financial condition of Financial Security which would materially and adversely affect its ability to perform its obligations under the Notes Policy. 
+
+^^Assured Guaranty Information. The information in the Prospectus Supplement set forth or incorporated by reference under the caption “The Insurer” (as revised from time to time in accordance with the provisions hereof or as described in the Prospectus, the “Assured Guaranty Information”) is limited and does not purport to provide the scope of disclosure required to be included in a prospectus with respect to a registrant in connection with the offer and sale of securities of such registrant registered under the Securities Act. Assured Guaranty has provided the Assured Guaranty Information in its role as credit enhancer, which consists solely of the obligation to pay claims, if any, under and in accordance with the express terms of the Notes Policy. Within such limited scope of disclosure, however, with respect to (i) the Preliminary Prospectus Supplement, as of the Time of Sale, and (ii) the Final Prospectus Supplement, as of its date and the Closing Date, the Assured Guaranty Information did not and does not, as applicable, contain any untrue statement of a material fact, or omit to state a material fact necessary to make the statements contained therein, in the light of the circumstances under which they were made, not misleading. 
+
+^^Additional Information. Assured Guaranty will furnish to the Underwriters or the Seller, upon request of the Underwriters or the Seller, as the case may be, copies of Assured Guaranty’s most recent financial statements (annual or interim, as the case may be) which fairly present in all material respects the financial condition of Assured Guaranty as of the dates and for the periods indicated, in accordance with generally accepted accounting principles consistently applied except as noted therein (subject, as to interim statements, to normal year-end adjustments). In addition, if the delivery of a Prospectus relating to the Securities is required at any time prior to the expiration of nine months after the time of issue of the Prospectus in connection with the offering or sale of the Securities, the Seller or the Underwriters will notify Assured Guaranty of such requirement to deliver a Prospectus and Assured Guaranty will promptly provide the Underwriters and the Seller with any revisions to the Assured Guaranty Information that are in the judgment of Assured Guaranty necessary to prepare an amended Prospectus or a supplement to the Prospectus. 
+
+^^Opinion of Counsel. Assured Guaranty will furnish to the Underwriters and the Seller on the closing date for the sale of the Securities an opinion of its Counsel or Deputy General Counsel to the effect set forth in Exhibit A attached hereto, dated such closing date and addressed to the Seller and the Underwriters. 
+
+^^Consents and Reports of Independent Accountants. Assured Guaranty will furnish to the Underwriters and the Seller, upon request, as comfort from its independent accountants in respect of its financial condition at the expense of the Person specified in the Insurance Agreement, a copy of the Prospectus, including either a manually signed consent or a manually signed report of Assured Guaranty’s independent accountants. 
+
+^^As of the date hereof, no “Insurer Default”, as such term is defined in the related sale and servicing agreement with respect to the related “Securitization” (as such term is defined in the Spread Account Agreement), to which Assured Guaranty, or an affiliate of Assured Guaranty, is the note insurer, has occurred and is continuing. 
+
+Nothing in this Agreement shall be construed as a representation or warranty by Assured Guaranty concerning the rating of its insurance financial strength by Moody’s Investors Service, Inc., Standard & Poor’s or any other rating assigned by a rating agency (collectively, the “Rating Agencies”). The Rating Agencies, in assigning such ratings, take into account facts and assumptions not described in the Prospectus and the facts and assumptions that are considered by the Rating Agencies, and the ratings issued thereby, are subject to change over time. Assured Guaranty has not attempted to disclose in the Offering Document all facts and assumptions that the Rating Agencies may deem relevant in assigning a rating within a particular rating category to Assured Guaranty’s Financial Strength. 
+
+^Representations, Warranties and Agreements of the Underwriters. Each of the Underwriters represents, warrants and agrees as follows: 
+
+^^Compliance With Laws. Such Underwriter will comply in all material respects with all legal requirements in connection with offers and sales of the Securities and make such offers and sales in the manner provided in the Prospectus Supplement. 
+
+^^Offering Document. Such Underwriter will not use, or distribute to other broker-dealers for use, any Offering Document in connection with the offer and sale of the Securities unless such Offering Document includes such information as has been furnished by Assured Guaranty for inclusion therein and the information therein concerning Assured Guaranty has been approved by Assured Guaranty in writing (other than any such written communication that consists solely of postings that are initially made by such Underwriter on the Bloomberg system or otherwise via e-mail and that contains only identifying information regarding the Trust and the Notes, the expected closing date and first payment date for the Notes, the expected principal amount, expected weighted average life, expected ratings, expected periods for payments of principal, expected final payment date, expected legal final payment date and expected interest rate index for each class of Notes; preliminary guidance as to the interest rate and/or yield for each class of Notes (but not final interest rate or yield information); information regarding the principal amount of the Notes being offered by each Underwriter; other similar or related information such as expected pricing parameters, status of subscriptions and Underwriter’s retentions and ERISA eligibility; and/or any legends regarding the contents of such written communication). Assured Guaranty hereby consents to the information in respect of Assured Guaranty included in the Prospectus. Each Offering Document that describes the Notes Policy will include the following statement: 
+
+“The Notes Policy is not covered by the Property/Casualty Insurance Security Fund specified in Article 76 of the New York Insurance Law”. 
+
+Each Offering Document including financial statements with respect to Assured Guaranty prepared in accordance with generally accepted accounting principles (but excluding any Offering Document in which such financial statements are incorporated by reference) will include the following statement immediately following such financial statements: 
+
+“The Maryland Insurance Administration recognizes only statutory accounting practices for determining and reporting the financial condition and results of operations of an insurance company, for determining its solvency under the Maryland Insurance Code, and for determining whether its financial condition warrants the payment of a dividend to its stockholders. No consideration is given by the Maryland Insurance Administration to financial statements prepared in accordance with generally accepted accounting principles in making such determinations.” 
+
+^^Underwriter Information. All material provided by the Underwriters for inclusion in the Prospectus (as revised from time to time, the “Underwriter Information”), insofar as such information relates to the Underwriters, is true and correct in all material respects, with respect to the Preliminary Prospectus Supplement, as of the Time of Sale, and with respect to the Prospectus Supplement, as of its date and the Closing Date. The Underwriter Information is limited to the information set forth (i) on the cover page of the Prospectus Supplement the information in the table under the headings entitled “Price to Public”, “Underwriting Discounts” and “Proceeds to Seller”; (ii) in the body and within the “Underwriting” section of the Prospectus Supplement, as applicable, the second paragraph immediately following the Class A-3 Notes Underwriter commitment table; and (iii) in the body and within the “Underwriting” section of the Prospectus Supplement, as applicable, except for statements therein relating to the issuing entity, the fourth paragraph under the sub-heading “European Economic Area”. 
+
+^Indemnification. 
+
+^^Assured Guaranty agrees, upon the terms and subject to the conditions provided herein, to indemnify, defend and hold harmless each Seller Party and each Underwriter Party against (i) any and all Losses incurred by them with respect to the offer and sale of the Securities and resulting from Assured Guaranty’s breach of any of its representations, warranties or agreements set forth in Section 2 hereof and (ii) any and all Losses to which any Seller Party or Underwriter Party may become subject, under the Securities Act or otherwise, insofar as such Losses arise out of or result from an untrue statement of a material fact contained in any Offering Document or the omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, in each case to the extent, but only to the extent, that such untrue statement or omission was made in the Assured Guaranty Information included therein in accordance with the provisions hereof. 
+
+^^Each of the Underwriters, agrees, severally but not jointly, upon the terms and subject to the conditions provided herein, to indemnify, defend and hold harmless each Assured Guaranty Party against (i) any and all Losses incurred by them with respect to the offer and sale of the Securities and resulting from the Underwriters’ breach of any of its representations, warranties or agreements set forth in Section 3 hereof and (ii) any and all Losses to which any Assured Guaranty Party may become subject, under the Securities Act or otherwise, insofar as such Losses arise out of or result from an untrue statement of a material fact contained in any Offering Document or the omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, in each case to the extent, but only to the extent, that such untrue statement or omission was made in the Underwriter Information of the Underwriter included therein. 
+
+^^Upon the incurrence of any Losses for which a party is entitled to indemnification hereunder, the Indemnifying Party shall reimburse the Indemnified Party promptly upon establishment by the Indemnified Party to the Indemnifying Party of the Losses incurred. 
+
+^Indemnification Procedures. Except as provided below in Section 6 with respect to contribution, the indemnification provided herein by an Indemnifying Party shall be the exclusive remedy of any and all Indemnified Parties for the breach of a representation, warranty or agreement hereunder by an Indemnifying Party; provided, however, that each Indemnified Party shall be entitled to pursue any other remedy at law or in equity for any such breach so long as the damages sought to be recovered shall not exceed the Losses incurred thereby resulting from such breach. In the event that any action or regulatory proceeding shall be commenced or claim asserted which may entitle an Indemnified Party to be indemnified under this Agreement, such party shall give the Indemnifying Party written or telegraphic notice of such action or claim reasonably promptly after receipt of written notice thereof. The Indemnifying Party shall be entitled to participate in and, upon notice to the Indemnified Party, assume the defense of any such action or claim in reasonable cooperation with, and with the reasonable cooperation of, the Indemnified Party. The Indemnified Party will have the right to employ its own counsel in any such action in addition to the counsel of the Indemnifying Party, but the fees and expenses of such counsel will be at the expense of such Indemnified Party, unless (a) the employment of counsel by the Indemnified Party at its expense has been authorized in writing by the Indemnifying Party, (b) the Indemnifying Party has not in fact employed counsel to assume the defense of such action within a reasonable time after receiving notice of the commencement of the action, or (c) the named parties to any such action or proceeding (including any impleaded parties) include both the Indemnifying Party and one or more Indemnified Parties, and the Indemnified Parties shall have been advised by counsel that (A) there may be one or more legal defenses available to them which are different from or additional to those available to the Indemnifying Party and (B) the representation of the Indemnifying Party and such Indemnified Parties by the same counsel would be inappropriate or contrary to prudent practice (in which case, if such Indemnified Parties notify the Indemnifying Party in writing that they elect to employ separate counsel at the expense of the Indemnifying Party, the Indemnifying Party shall not have the right to assume the defense of such action or proceeding on behalf of such Indemnified Parties, it being understood, however, that the Indemnifying Party shall not, in connection with any one such action or proceeding or separate but substantially similar or related actions or proceedings in the same jurisdiction arising out of the same general allegations or circumstances, be liable for the reasonable fees and expenses of more than one separate firm of attorneys at any time for all Seller Parties, one such firm for all Underwriter Parties and one such firm for all Assured Guaranty Parties, as the case may be, which firm shall be designated in writing by the Seller in respect of the Seller Parties, by the Underwriters in respect of the Underwriter Parties and by Assured Guaranty in respect of the Assured Guaranty Parties), in each of which cases the fees and expenses of counsel will be at the expense of the Indemnifying Party and all such fees and expenses will be reimbursed promptly as they are incurred. The Indemnifying Party shall not be liable for any settlement of any such claim or action unless the Indemnifying Party shall have consented thereto or be in default in its obligations hereunder. Any failure by an Indemnified Party to comply with the provisions of this Section shall relieve the Indemnifying Party of liability only if such failure is prejudicial to the position of the Indemnifying Party and then only to the extent of such prejudice. 
+
+^Contribution. 
+
+^^To provide for just and equitable contribution if the indemnification provided by any Indemnifying Party is determined to be unavailable or insufficient for any Indemnified Party (other than due to application of this Section), each Indemnifying Party (severally and not jointly in the case of the Underwriters) shall contribute toward the satisfaction of the Losses arising from any breach of any of its representations, warranties or agreements contained in this Agreement on the basis of the relative fault of each of the parties as set forth in Section 6(b) below; provided, however, that an Indemnifying Party shall in no event be required to contribute to all Indemnified Parties an aggregate amount in excess of the Losses incurred by such Indemnified Parties resulting from the breach of representations, warranties or agreements contained in this Agreement. 
+
+^^The relative fault of each Indemnifying Party, on the one hand, and of each Indemnified Party, on the other, shall be determined by reference to, among other things, whether the breach of, or alleged breach of, any representations, warranties or agreements contained in this Agreement relates to information supplied by, or action within the control of, the Indemnifying Party or the Indemnified Party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such breach. 
+
+^^The parties agree that Assured Guaranty shall be solely responsible for the Assured Guaranty Information and the Underwriters shall be solely responsible for the Underwriter Information and that the balance of each Offering Document shall be the responsibility of the Seller. 
+
+^^Notwithstanding anything in this Section 6 to the contrary, the Underwriters shall not be required to contribute an amount in excess of the amount by which the total price of the Securities underwritten by the Underwriters exceeds the amount of any damages that the Underwriters have otherwise been required to pay in respect of such untrue statement or omission. 
+
+^^No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. 
+
+^^Upon the incurrence of any Losses entitled to contribution hereunder, the contributor shall reimburse the party entitled to contribution promptly upon establishment by the party entitled to contribution to the contributor of the Losses incurred. 
+
+^Miscellaneous. 
+
+^^Notices. All notices and other communications provided for under this Agreement shall be delivered to the address set forth below or to such other address as shall be designated by the recipient in a written notice to the other party or parties hereto. 
+
+If to Assured Guaranty:      Assured Guaranty Corp.
+^West 52nd Street
+New York, NY 10019
+Attention: Structured Surveillance
+Re: Policy No. D-2010-66
+Americredit Automobile Receivables
+Trust 2010-A
+Confirmation: [[Phone 1]]
+Telecopy Nos.: [[Phone 2]]
+With a copy to the General Counsel at the above address and telecopier number.
+In each case in which a demand, notice or other communication to Assured Guaranty refers to a Default, an Event of Default, Servicer Termination Event, a claim on the Notes Policy or any event with respect to which failure on the part of Assured Guaranty to respond shall be deemed to constitute consent or acceptance, then such demand, notice or other communication shall be marked to indicate “URGENT MATERIAL ENCLOSED”.
+If to the Seller:      AFS SenSub Corp.
+2265 B Renaissance Drive, Suite 17
+Las Vegas, Nevada, 89119
+Attn: Chief Financial Officer
+
+With a copy to:      AmeriCredit Financial Services, Inc.
+801 Cherry Street, Suite 3500
+Fort Worth, TX 76102
+Attn: Chief Financial Officer
+Confirmation: [[Phone 3]]
+Telecopy No.: [[Phone 4]]
+
+If to the Underwriters:      Credit Suisse Securities (USA) LLC
+^Madison Ave., 5th Floor
+New York, NY 10010
+RBS Securities Inc.
+600 Washington Blvd.,
+Stamford, CT 06901
+
+^^Governing Law. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH, AND THIS AGREEMENT AND ALL MATTERS ARISING OUT OF OR RELATING IN ANY WAY TO THIS AGREEMENT SHALL BE GOVERNED BY, THE LAW OF THE STATE OF NEW YORK. 
+
+^^Assignments. This Agreement may not be assigned by any party without the express written consent of each other party. Any assignment made in violation of this Agreement shall be null and void. 
+
+^^Amendments. Amendments of this Agreement shall be in writing signed by each party hereto. 
+
+^^Survival, Etc. The indemnity and contribution agreements contained in this Agreement shall remain operative and in full force and effect, regardless of (i) any investigation made by or on behalf of any Indemnifying Party, (ii) the issuance of the Securities or (iii) any termination of this Agreement or the Notes Policy. The indemnification provided in this Agreement will be in addition to any liability which the parties may otherwise have and shall in no way limit any obligations of the Seller under the Underwriting Agreement or the Insurance Agreement. 
+
+^^Counterparts. This Agreement may be executed in counterparts by the parties hereto, and all such counterparts shall constitute one and the same instrument. 
+
+\centered [THE REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK] 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Indemnification Agreement to be duly executed and delivered as of the date first above written. 
+
+ASSURED GUARANTY CORP.
+
+[[ASSURED GUARANTY CORP. Signatory Email: Identity | Signature]]
 __________________________________________
-{{INDEMNITOR    WELSH PROPERY TRUST L.P. a Delaware limited partnership Entity => By: [[INDEMNITOR    WELSH PROPERY TRUST L.P. a Delaware limited partnership Signatory First Name]] [[INDEMNITOR    WELSH PROPERY TRUST L.P. a Delaware limited partnership Signatory Last Name]]
-Title: [[INDEMNITOR    WELSH PROPERY TRUST L.P. a Delaware limited partnership Signatory Title]]}}
+{{ASSURED GUARANTY CORP. Entity => By: [[ASSURED GUARANTY CORP. Signatory First Name]] [[ASSURED GUARANTY CORP. Signatory Last Name]]
+Title: [[ASSURED GUARANTY CORP. Signatory Title]]}}
 
 
-[[Title Indemnitor Signatory Title}} Signatory Email: Identity | Signature]]
+AFS SENSUB CORP.
+
+[[AFS SENSUB CORP. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Title Indemnitor Signatory Title}} Entity => By: [[Title Indemnitor Signatory Title}} Signatory First Name]] [[Title Indemnitor Signatory Title}} Signatory Last Name]]
-Title: [[Title Indemnitor Signatory Title}} Signatory Title]]}}
+{{AFS SENSUB CORP. Entity => By: [[AFS SENSUB CORP. Signatory First Name]] [[AFS SENSUB CORP. Signatory Last Name]]
+Title: [[AFS SENSUB CORP. Signatory Title]]}}
 
 
-Address:    4350 Baker Road, Suite 400, Minnetonka MN 55343  
+CREDIT SUISSE SECURITIES (USA) LLC
 
-^^^^^ 
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement on and as of the day and year first above written. 
+[[CREDIT SUISSE SECURITIES USA LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{CREDIT SUISSE SECURITIES USA LLC Entity => By: [[CREDIT SUISSE SECURITIES USA LLC Signatory First Name]] [[CREDIT SUISSE SECURITIES USA LLC Signatory Last Name]]
+Title: [[CREDIT SUISSE SECURITIES USA LLC Signatory Title]]}}
 
-INDEMNITEE:  
 
-^^^^^ 
+RBS SECURITIES INC.
+
+[[RBS SECURITIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBS SECURITIES INC. Entity => By: [[RBS SECURITIES INC. Signatory First Name]] [[RBS SECURITIES INC. Signatory Last Name]]
+Title: [[RBS SECURITIES INC. Signatory Title]]}}
+
+
+\centered [INDEMNITY AGREEMENT SIG. PAGE] 
+
 \centered EXHIBIT A 
 
-\centered Indemnitees 
+\centered OPINION OF COUNSEL 
 
-\centered 
+\centered A-1 
 
-Dennis J. Doyle Scott T. Frederiksen Jean V. Kane Wayzata Village Shoppes, LLP Arlington Collins Rosewood Apartments, L.P. Stanford M. Baratz Stanford M. Baratz Revocable Trust Robert Angleson Robert Mitsch Alvin S. Zelickson Welsh Midwest Real Estate Fund Roseridge Holdings Westval Ventures Doyle Security Fund  
- 
+\centered [[Date 2]] 
+
+To the Addressees listed on Annex A hereto 
+
+**Re:**   **Financial Guaranty Insurance Policy No. D-2010-66 and the Assured Documents (as defined below) relating to $[[USD Value 4: Number]] Automobile Receivables Backed Notes (the “Notes”) issued by AmeriCredit Automobile Receivables Trust 2010-A (the “Trust”)**
+
+Ladies and Gentlemen: 
+
+This opinion letter has been requested of the undersigned, in the capacity of the undersigned as a Counsel of Assured Guaranty Corp., a Maryland corporation (“***Assured Guaranty***”), in connection with (i) the issuance by Assured Guaranty of its financial guaranty insurance policy number D-2010-66, effective as of the date hereof (such financial guaranty insurance policy hereinafter, the “***Policy***”), (ii) the execution and delivery of the Insurance and Indemnity Agreement, dated as of [[Date 3]], by and among Assured Guaranty, the Trust, AFS SenSub Corp., AmeriCredit Financial Services, Inc. and AmeriCredit Corp. (the “***Insurance Agreement***”), and (iii) the execution and delivery of an Indemnification Agreement, dated as of [[Date 1]], by and among Assured Guaranty, AFS SenSub Corp., Credit Suisse Securities (USA) LLC and RBS Securities Inc. (the “***Indemnification Agreement***” and, together with the Insurance Agreement, the “***Assured Documents***”). 
+
+In connection with this opinion letter, I have examined an  of the Policy and the Assured Documents and such documents, certificates, agreements and instruments and proceedings as I have considered necessary or appropriate under the circumstances to render the following opinion letter, including certain statements contained in the preliminary Prospectus Supplement for the Notes dated [[Date 3]] (the “***Preliminary Prospectus Supplement***”) and the final Prospectus Supplement for the Notes dated [[Date 1]] (the “***Final Prospectus Supplement***”) under the heading “THE INSURER.” I have assumed that each party to the Assured Documents, other than Assured Guaranty, has the power and authority to execute and to deliver, and to perform and to observe, the provisions of the Assured Documents and has duly authorized, executed, and delivered the Assured Documents and that the Assured Documents constitute the legal, valid, and binding obligation of each such party. As to all questions of fact material to this opinion letter, which have not been independently established by me, I have relied upon certificates or comparable documents of public officials or of officers and representatives of Assured Guaranty. In addition, I have assumed the genuineness of all signatures other than those of representatives of Assured Guaranty, the authenticity of all documents submitted to me as originals, the conformity to the original document of certified or photostatic copies thereof, and the authenticity of the originals of such latter documents. 
+
+**Assured Guaranty Corp.** 
+
+^West 52nd Street      main [[Phone 5]]      [[Email 1]]      www. assuredguaranty.com
+New York, NY 10019      fax [[Phone 6]]
+
+Based upon the foregoing, and subject to the limitations and qualifications hereinafter set forth, I am of the opinion that: 
+
+^Assured Guaranty is a corporation duly incorporated and validly existing under the laws of the State of Maryland and has all requisite corporate power and authority to issue and to perform its obligations under the Policy and to execute and perform its obligations under the Assured Documents, in each case in accordance with the terms thereof. 
+
+^The execution and delivery by Assured Guaranty of the Policy and the Assured Documents, and the performance by Assured Guaranty of its obligations thereunder, have been duly authorized by all necessary corporate action on the part of Assured Guaranty. 
+
+^The Policy and the Assured Documents have been validly executed and delivered by Assured Guaranty, and constitute the legal, valid and binding obligations of Assured Guaranty, enforceable against Assured Guaranty in accordance with their terms, subject to applicable bankruptcy, reorganization, insolvency, liquidation, rehabilitation, moratorium, arrangement, or similar laws or enactments now or hereafter enacted affecting the enforcement of creditors’ rights generally, as well as to equitable principles of general application limiting the availability of equitable remedies and the discretion of the court before which any proceeding therefor may be brought (regardless, in each case, of whether enforcement is sought in a proceeding in equity or at law) and, in the case of the Indemnification Agreement, subject also to applicable law, equitable principles, or principles of public policy limiting the right to enforce the indemnification and contribution provisions contained therein. 
+
+^To the extent that the Policy constitutes a security within the meaning of Section 2(a)(1) of the Securities Act of 1933, as amended (the “***Act***”), it is a security that is exempt from the registration requirements of the Act. 
+
+^The execution and delivery of the Policy and the Assured Documents, and the compliance with the terms and provisions thereof, do not conflict with or result in the breach of the terms of the articles of incorporation or by-laws, as amended, of Assured Guaranty. The execution and delivery of the Policy and the Assured Documents, and the compliance with the terms and provisions thereof, do not, to my knowledge without inquiry, conflict with or result in the breach of (i) any material restriction on Assured Guaranty contained in any material contract, agreement, or instrument to which Assured Guaranty is a party or by which any of its property is bound or (ii) any judgment, order, or decree of a governmental authority having jurisdiction over Assured Guaranty, in the case of each of (i) and (ii), to the extent such conflict or breach would impair the enforceability of the Policy or materially impair the enforceability of the Assured Documents (except that in the published opinion of the Securities and Exchange Commission the indemnification provisions of the Indemnification Agreement, insofar as they relate to indemnification for liabilities arising under the Act, are against public policy as expressed in the Act and are therefore unenforceable). 
+
+^am licensed to practice law in the State of New York, and do not purport to be an expert as to, or to express any opinion concerning the laws of any other jurisdiction other than the laws of the State of New York and the federal laws of the United States of America to the extent specifically referred to herein. To the extent that the opinions set forth herein purport to deal with matters of Maryland law, the statements made therein are based solely upon my review of the corporate documents of Assured Guaranty, my reading of the Maryland General Corporation Law and, in respect of the opinion set forth in paragraph (1) above, my reading of the Maryland Insurance Code. 
+
+The opinions expressed herein are limited to the matters expressly set forth herein, and no opinion is implied or may be inferred beyond the matters expressly set forth herein. The opinions expressed herein are based solely on factual matters in existence as of the date hereof and laws and regulations in effect on the date hereof. I assume no obligation to revise or supplement this opinion letter should such factual matters change or should such laws or regulations be changed by legislative or regulatory action, judicial decision or otherwise, and I hereby express no opinion as to the effect any such changes may have on the foregoing opinions. 
+
+This opinion letter is being delivered to you solely for your benefit in connection with the issuance of the Policy and the execution and delivery of the Assured Documents, and may not be used, circulated, quoted or otherwise referred to or relied upon for any other purpose by any other person, in each case without my express prior written consent. 
+
+Very truly yours,
+
+/s/ Brian H. Mellstrom
+
+Brian H. Mellstrom
+
+Annex A 
+
+AmeriCredit Financial Services, Inc. 
+
+801 Cherry Street, Suite 3500 
+
+Fort Worth, Texas 76102 
+
+AFS SenSub Corp. 
+
+2265 B Renaissance Drive, Suite 17 
+
+Las Vegas, Nevada 89119 
+
+AmeriCredit Automobile Receivables Trust 2010-A 
+
+c/o Wilmington Trust Company 
+
+as Owner Trustee 
+
+1100 North Market Street 
+
+Wilmington, Delaware 19890 
+
+Credit Suisse Securities (USA) LLC 
+
+Eleven Madison Avenue, 5th Floor 
+
+New York, New York 10010 
+
+RBS Securities Inc. 
+
+600 Washington Boulevard 
+
+Stamford, Connecticut 06901 
+
+Wells Fargo Bank, National Association 
+
+Sixth Street and Marquette Avenue 
+
+MAC N9311-161 
+
+Minneapolis, Minnesota 55479 
+
+Moody’s Investors Service Inc. 
+
+^World Trade Center at 
+
+250 Greenwich Street 
+
+Asset Finance Group  24th Floor 
+
+New York, New York 10007 
+
+Standard & Poor’s Ratings Services 
+
+^^Standard & Poor’s Financial Services LLC business 
+
+^Water Street 
+
+New York, New York 10041 

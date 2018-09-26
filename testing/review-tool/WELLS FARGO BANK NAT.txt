@@ -1,0 +1,453 @@
+\centered 
+
+**WELLS FARGO BANK, NATIONAL ASSOCIATION**    **CONSTRUCTION TERM LOAN AGREEMENT**  
+
+**THIS AGREEMENT,** effective [[Date 1: Date]] (the “Effective Date”), is between **STINGRAY PROPERTIES** (the “Borrower”) and **WELLS FARGO BANK, NATIONAL ASSOCIATION** (the “Bank”).  
+
+**RECITALS** 
+
+**FIRST:** The Borrower has requested a $[[USD Value 1: Number]] construction  term loan from the Bank to finance the construction of improvements to the property legally described on Exhibit A attached hereto (the “Land”). 
+
+**SECOND:** The Bank has agreed to the Borrower’s request, subject to the terms and conditions of this Agreement. 
+
+**NOW, THEREFORE,** for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Borrower and the Bank agree as follows: 
+
+^ DEFINITIONS 
+
+Except as otherwise defined in context, each capitalized term in this Agreement shall be defined as follows: 
+
+**Advance:** A disbursement by the Bank pursuant to Section 4 below. 
+
+**Borrower Authority** Documents: The following documents: 
+
+^A copy of the Borrower’s Articles of Organization, certified by the Minnesota Secretary of State;  
+
+^A current Certificate of Good Standing of the Borrower, issued by the Minnesota Secretary of State; and  
+
+^A Certificate of Authority executed by such person or persons authorized by the Borrower’s operating agreement, certifying the incumbency and signatures of the officers or other persons authorized to execute the Loan Documents and containing a copy of resolutions of the Borrower’s governing body authorizing the execution and delivery of the foregoing documents. 
+
+**Company Guarantors:** Sylvan Holdings and Crystal Blue Properties. 
+
+**Completion Date:** The earlier of (a) the date twelve months from the Effective Date; or (b) the date on which the Improvements are substantially completed pursuant to the Plans and Specifications. 
+
+**Construction Loan:** The loan facility extended by the Bank to the Borrower pursuant to Section 2.1 below. 
+
+**Construction Loan Note:** An executed promissory note evidencing the Borrower’s obligation to repay Advances made pursuant to the Construction Loan, stating the interest rate and repayment requirements, and otherwise in form and content acceptable to the Bank. 
+
+**Construction Documents:** The following documents, each in form and content acceptable to the Bank: 
+
+^The final plans and specifications for the construction and installation of 
+
+the Improvements (the “Plans and Specifications”); 
+
+^Certificates of insurance described in the Mortgage; 
+
+^A preliminary sworn construction statement executed by the Borrower and the General Contractor, showing all “hard” costs to be incurred regarding the Improvements; 
+
+^A certificate of total project costs and owner’s equity contribution, 
+
+executed by the Borrower and showing all costs in the foregoing sworn construction statement, plus itemized “soft” costs, including, without limitation, land acquisition costs, survey costs, architect’s fees, appraisal fees, financing fees, environmental assessment costs, attorneys’ fees, insurance premiums and closing costs; and 
+
+^A copy of the Borrower’s executed contracts with the General Contractor 
+
+and each subcontractor relating to the Improvements, together an executed assignment of the contract with the General Contractor, in form and content acceptable to the Bank; 
+
+^All building permits and such other evidence as the Bank shall request to 
+
+establish that all permits and approvals have been obtained, and that the improvements will comply with all applicable restrictions in prior conveyances and all applicable laws. 
+
+**Draw Request:** The form, in form and content acceptable to the Bank and to Title, to be submitted to the Bank and Title when an Advance is requested and which is referred to in Section 4.1. 
+
+**Financing Statement:** A UCC-1 covering the personal property described in the Mortgage. 
+
+**General Contractor:** Cornerstone Construction, Inc. 
+
+**Guarantor Authority Documents:** For each of the Company Guarantors, the following documents: 
+
+^A copy of the Company Guarantor’s Articles of Organization, certified by the Minnesota Secretary of State;  
+
+^A current Certificate of Good Standing of the Company Guarantor, issued by the Minnesota Secretary of State; and  
+
+^A Certificate of Authority executed by such person or persons authorized by the Borrower’s operating agreement, certifying the incumbency and signatures of the officers or other persons authorized to execute the Guaranty and the Indemnity of the Company Guarantor (and the Mortgage, in the case of Sylvan Holdings) and containing a copy of resolutions of the Company Guarantor’s governing body authorizing the execution and delivery of the foregoing- referenced Guaranty and Indemnity Agreement (and the Mortgage, in the case of Sylvan Holdings). 
+
+**Guarantors:** Together, the Company Guarantors and the Individual Guarantors. 
+
+**Indemnity Agreement:** An indemnity agreement in form and content acceptable to the Bank, whereby the Borrower and each of the Guarantors indemnifies the Bank against any and all damages arising from the environmental condition of the Land. 
+
+**Individual Guarantors:** Ronald Berg, Gary Verkinnes, Dr. Jeffrey Gerdes, Dr. Hector Ho and Dr. Samir Elghor. 
+
+**Guaranties:** With respect to each of the Company Guarantors, an executed guaranty, in form and content acceptable to the Bank, whereby each of the Company Guarantors guarantees payment of the Construction Note, and with respect to the Individual Guarantors, a limited joint guaranty of the Individual Guarantors, whereby the Individual Guarantors each guarantees payment of a portion the Construction Note, and collectively, the Individual Guarantors guarantee payment of the entire Construction Note. 
+
+**Improvements:** The improvements to be constructed on the Land pursuant to the Plans and Specifications. 
+
+**Inspecting Architect:** John Luce. 
+
+**Leases:** Executed leases of the Project. 
+
+**Loan Documents:** This Agreement, the Construction Loan Note, and the Indemnity Agreement. 
+
+Mortgage: An executed combination third-party mortgage, security agreement, fixture financing statement and assignment of leases and rent, from Sylvan Holdings, securing repayment of the Construction Loan Note, creating a first and prior lien on the Project in favor of the Bank, and otherwise in form and content acceptable to the Bank. 
+
+**Project:** The Land and the Improvements.  
+
+**Reserve Account:** A demand deposit account established in the Borrower’s name at the Bank, for deposits required under Section 4.8. 
+
+**SNOAs:** Executed subordination, non-disturbance and attornment agreements, one by each lessee under the Leases, in form and content acceptable to the Bank. 
+
+**Survey:** A current ALTA/ACSM land title survey certified to the Bank and to Title, containing a legal description conforming to the legal description in the Title Commitment and the legal description in the Mortgage and including the following “Table A” items; (a) flood zone designation; (b) location of the Improvements; (c) indication of access to a public way, such as curb cuts and driveways; and (d) location of utilities existing on or serving the Land, as determined by observed evidence together with plans and markings provided by utility companies. 
+
+**Title:** Tri-Country Abstract and Title Guaranty, Inc., as agent for Chicago Title Insurance Company. 
+
+**Title Commitment:** A commitment for a mortgagee’s ALTA insurance policy issued by Title (the “Commitment”), in an amount equal to the combined amount of the Construction Loan (a) insuring (i) the Mortgage as a first lien on the Project, subject only to “ Permitted Encumbrances” (as defined in the Mortgage); (ii) against claims for mechanics’ liens and rights of parties in possession; and (iii) that the proposed improvements and use of the Project do not violate zoning or use restrictions; and (b) including real estate tax and special assessment searches, UCC searches, tax lien and judgment searches. 
+
+^ THE CONSTRUCTION LOAN 
+
+^^**Construction Loan.** Subject to the procedures in Section 4 and the condition 
+
+precedent in Section 5, the Bank shall make monthly advances in the aggregate amount of $[[USD Value 1]] to the Borrower from the Effective Date to the Completion Date. 
+
+^^**The Permanent Loan.** Upon the Completion Date, the Construction Loan shall be converted to a term loan with a maturity date of [[Date 2: Date]], ***PROVIDED THAT*** no Event of Default (as defined in Section 8), and no occurrence that would become an Event of Default with the giving of notice or the lapse of time or both, has and is continuing and that all representations and warranties made by the in Section 6 continue to be true and correct as of the Completion Date. 
+
+^^**Payments.** All principal, interest and fees due under the Construction Loan will be paid by the direct debit of available funds deposited in the Borrower’s with the Bank. The Bank shall debit the account on the dates the payments due. If a due date does not fall on a day on which the Bank is open for ally all of its business (a “Banking Day”, except as otherwise provided), the ill debit the account on the next Banking Day, and interest shall continue to accrue during the extended period. if there are insufficient funds in the account on the day the Bank enters any debit authorized by this Agreement, the debit will be reversed and the payment shall be due immediately without necessity of demand by direct remittance of immediately available funds.  
+
+^ FEES AND EXPENSES 
+
+^^**Origination Fee.** The Borrower shall pay the Bank a loan origination fee of **[WAIVED],** which shall be deemed fully earned upon payment. 
+
+^^**Loan Expenses.** The Borrower shall pay all expenses relating to the 
+
+Construction Loan, including, without limitation, appraisal fees, search fees, title insurance premiums, mortgage registry tax, recording fees, environment assessment costs, survey costs, and reasonable attorneys’ fees for preparation of the Loan Documents, the Mortgage, the Guaranties and related documents. 
+
+^^**Enforcement Expense.** The Borrower shall pay all costs of enforcing the Bank’s rights and remedies under the Loan Documents and the Mortgage, including, without limitation, attorneys’ fees, whether or not suit is commenced. 
+
+^ PROCEDURES FOR DRAW REQUESTS AND DISBURSEMENTS 
+
+^^Draw Requests  General. Each request for an Advance under the Construction Loan shall be made pursuant to a fully executed Draw Request, certified by the Borrower and the Inspecting Architect to the Bank and to Title and conforming to the terms and conditions of this Agreement. 
+
+^^**Frequency.** Draw Requests shall not be submitted more often than monthly. 
+
+^^**Inspections.** At the Bank’s sole discretion, each Draw Request shall be subject 
+
+to a satisfactory inspection of the Project by the Bank, which inspection shall be conducted within three business days of the submittal of the Draw Request. The Bank’s failure to inspect the Project with respect to any Draw Request(s) shall not be deemed a waiver of the Bank’s rights under this provision with respect to subsequent Draw Requests. 
+
+^^**Accompanying Submissions.** With each Draw Request, the Borrower shall submit:
+
+^A written lien waiver from each contractor who worked on or supplied
+
+materials to the Project; and 
+
+^Other documentation requested by the Bank or Title with respect to the 
+
+Draw Request. 
+
+^^**Construction Loan Advances and Disbursements by Bank.** Within five business days of the inspection conducted under Section 4.2, if such inspection is satisfactory and the Draw Request is otherwise in strict accordance with this 
+
+Agreement, or, if no inspection is conducted, within five business days of the date on which each Draw Request is submitted in strict accordance with this Agreement, the Bank shall make an advance on the Construction Loan by disbursing the requested amount to Title by wire transfer or check payable to Title. 
+
+^^**Disbursements by Title.** Upon receiving the funds transmitted by the Bank pursuant to Section 4.4, Title shall disburse the funds to the Borrower or, in Title’s sole discretion, directly to the General Contractor, sub-contractors or sub-sub-contractors, ***ON THE CONDITION*** that the payee’s acceptance of the payment shall be a waiver of all payee’s mechanics’ liens claims against the Project for work and materials covered by such payment. If funds on deposit in Title’s account are not disbursed by Title by the close of business on the fifth business day following receipt of the Bank’s wire transfer or check, Title shall remit to the Bank upon the Bank’s request, in immediately available funds, the amount of funds in such account that were not disbursed. Title shall not be liable to the Bank for interest on funds deposited with it, except and to the extent that Title fails to remit to the Bank undisbursed funds deposited with it, in which case, interest at the Construction Loan Note rate shall be due and payable on demand from the date such funds were deposited with Title. 
+
+^^**Books and Records of Title.** Title shall keep and maintain, at all times, full, 
+
+true and accurate books and records, in sufficient detail to reflect disbursements made. During normal business hours, the Bank may examine all books and records of Title pertaining to disbursements made by it under this Agreement. 
+
+\centered 
+
+^^**Fees of Title.** Title’s fee shall be $200.00 per Draw Request, payable as part of 
+
+each Draw Request. 4.8       **Additional Deposits.** If the Bank determines in goad faith that the aggregate 
+
+undisbursed amount of the Construction Loan is less than the amount required to pay all costs and expenses that might be anticipated in connection with the completion of the Project, the Borrower shall, within ten calendar days after notice, deposit with the Bank the amount of funds specified in the Bank’ s notice. In lieu of making such deposit the Borrower may pay, from sources other than the proceeds of the Construction Loan, the costs and expenses specified in the notice and present lien waivers and receipts to the Bank in the amount of such costs and expenses. 
+
+^^**Advances Without Receipt of Draw Requests.** Bank may at any time, without receipt of a Draw Request, make an Advance to pay interest on the Construction Loan Note. 
+
+^CONDITION PRECEDENT 
+
+^^**Condition Precedent to Initial Advance.** The condition precedent to 
+
+disbursement of the initial Advance on the Construction Loan shall be delivery of the following: 
+
+^This Agreement, executed; 
+
+^7  
+
+The executed Construction Loan Note;  
+
+^The executed Mortgage;  
+
+^The executed Construction Documents;  
+
+^The Borrower Authority Documents;  
+
+^The Guarantor Authority Documents;  
+
+^The executed Guaranties;  
+
+^A copy of each of the executed Leases;  
+
+^[Reserved];  
+
+^The Title Commitment, together with the Survey;  
+
+^Lien waivers and other receipts of payment showing that the Borrower has paid expenses with respect to the Project equal to the difference between the Total Project Cost and the Construction Loan OR deposit in the Reserve Account, funds equal to such difference;  
+
+^An environmental assessment of the Land, in form and substance acceptable to the Bank, together with the fully executed Indemnity Agreement;  
+
+^An appraisal of the Project by an appraiser acceptable to the Bank, showing a fair market value (after completion of the Improvements according to the Plans and Specifications) of not less than $[[USD Value 2: Number]];  
+
+^An executed Agreement to Provide Property/Flood Plain Insurance, in form and content acceptable to the Bank;  
+
+^Evidence of insurance required by the Mortgage and the Security Agreement, issued by an insurer acceptable to the Bank, showing the Bank as mortgagee (secured party)  additional insured and in form and content acceptable to the Bank; and  
+
+^Payment of the fees and expenses described in Sections 3.1 and 3.2. 
+
+^^**Further Conditions Precedent to any Advance.** Conditions precedent to any Advance, including the initial Advance, shall be that on the date of the Advance: 
+
+^No Event of Default, and no occurrence that would become an Event of 
+
+Default with the giving of notice or the lapse of time or both, has occurred and is continuing and all representations and warranties made by the Borrower in Section 6 continue to be true and correct as of the date of the Advance; 
+
+^8  
+
+No determination has been made under Section 4,8 that additional funds are to be deposited with the Bank or, if such a determination has been made and notice sent to the Borrower, the Borrower has deposited the additional funds in the Reserve Account; and  
+
+^No license or permit necessary for the construction and installation of the Improvements has been revoked.  
+
+^ REPRESENTATIONS AND WARRANTIES 
+
+^^**Representations and Warranties.** The Borrower represents and warrants that: 
+
+^The Borrower is a duly formed and validly existing limited liability company under the laws of the State of Minnesota;  
+
+^The Loan Documents are valid and binding in accordance with their terms, and the execution, delivery and performance of the Loan Documents are within the powers of the Borrower, are not in contravention of law or of any undertaking to which the Borrower is bound;  
+
+^The Borrower has not made any loans or transferred any interest in any property or asset to any person, except in the ordinary course of business;  
+
+^No consent, approval, or authorization of or declaration or filing with any governmental authority on the part of the Borrower is required in connection with the execution and delivery of the Loan Documents or the consummation of any transaction contemplated hereby;  
+
+^The Borrower and the Guarantors have filed all federal, state and local tax returns and other reports that are required by law to be filed prior to the Effective Date and have paid all taxes, assessments and other governmental charges that are due and payable prior to the Effective Date and have made adequate provision for the payment of such taxes, assessments or other charges accruing but not yet payable;  
+
+^The Borrower possesses adequate licenses, certificates, permits, franchises, patents, copyrights, trademarks and trade names, or rights thereto, to conduct their respective businesses substantially as now conducted and as presently proposed to be conducted;  
+
+^The Project and its intended use are permitted by and will comply in all material respects with all applicable law and with all applicable use or other restrictions and requirements in prior conveyances;  
+
+^There is no suit, action or proceeding pending or, to the knowledge of the Borrower, threatened against or affecting the Borrower, that, if adversely determined, would materially and adversely affect his/her or its financial condition or the ability of the Borrower to perform its obligations under the Loan Documents; and  
+
+^The Borrower has furnished the Bank with financial statements of Ronald 
+
+Berg dated [[Date 3: Date]], Gary Verkinnes dated [[Date 4: Date]], Dr. Jeffrey Gerdes dated [[Date 5: Date]], Dr. Hector Ho dated [[Date 6: Date]], and Dr. Samir Elghor dated [[Date 7: Date]], which financial statements fairly present the financial condition of each of the Individual Guarantors as of such date, and since then, that there have been no material changes in the financial condition of any of the Individual Guarantors. 
+
+^ AFFIRMATIVE COVENANTS 
+
+The Borrower shall: 
+
+^^**Project Completion.** Complete the Project in a good workmanlike manner in 
+
+accordance with the Construction Documents, without material change thereto, and shall complete the Phase I Improvements by the Phase I Completion Date and complete the Phase II Improvements by the Phase II Completion Date; 
+
+^^**Contractor Compliance.** Ensure that the General Contractor and each subcontractor comply with all rules, regulations, ordinances and laws bearing on their work on the Improvements; 
+
+^^**Taxes/Assessments.** Pay, when due, all taxes, assessments and other governmental charges assessed against it or any of its property, and cause each of the Guarantors to due the same; 
+
+^. 4 **Existence and Legal Compliance.** Maintain its existence and its current 
+
+management structure, operate its business in the ordinary course, retain substantially all of its assets and comply with all laws and regulations applicable to the Borrower’s business and organizational status; 
+
+**7..5** **Financial Reporting.** 
+
+^Personal Financial Statements  Individual Guarantors. Provide the Bank within 120 days of each fiscal year end, beginning with the fiscal year ending [[Date 8: Date]], the current personal financial statements of each of the Individual Guarantors, certified as correct and in form acceptable to the Bank;  
+
+^Annual Income Tax Return  Borrower. Provide the Bank within 10 days after filing, a copy of the Borrower’s annual federal income tax return, including all schedules;  
+
+^Annual Income Tax Return  Guarantors. Provide the Bank within 10 days after filing, a copy of annual federal income tax return, including all schedules, of each of the Guarantors;  
+
+^Notices. Provide the Bank prompt written notice of: (1) any event of default or any event that would, after the lapse of time or the giving of notice, or both, constitute an event of default under the Agreement; or (2) any future event that would cause the representations and warranties contained in this Agreement to be untrue when applied to the Borrower’s circumstances as of the date of such event; and (5) Additional Information. Provide the Bank with such other information as it may reasonably request, and permit the Bank to visit and inspect its properties and examine its books and records.  
+
+^^**Financial Covenant.** 
+
+Comply with the financial covenant described below, which shall be calculated using generally accepted accounting principles consistently applied, except as they may be otherwise modified by the following capitalized definitions: 
+
+“Current Maturities of Long Term Debt” means that portion of the Borrower’s long term debt and capital leases due during the 12 months preceding the determination date. 
+
+“Interest Expense” means accrued interest due during the 12 months preceding the determination date. 
+
+“Traditional Cash Flow” means the aggregate amount of the following: (1) (a) net income after taxes; (b) amortization expense; (c) depreciation and depletion expense; (d) deferred tax expense; (e) interest Expense; and (f) similar non-cash items against income that the Bank determines in its discretion to be appropriate “add-backs” MINUS distributions to members. 
+
+Debt Service Coverage Ratio. Maintain a ratio of Traditional Cash Flow TO (Current Maturities of Long Term Debt PLUS Interest Expense) of at least 1.25 to 1.0 as of the end of each fiscal year, beginning with the fiscal year ending [[Date 8]]. 
+
+^^**Access.** Grant to representatives of the Bank at reasonable times, access to the 
+
+financial records of the Borrower and access to the Project; 
+
+^^**GAAP.** Maintain the financial records of the Borrower in accordance with 
+
+generally accepted accounting principles; and 
+
+^^**Deposit Accounts.** Maintain at the Bank, the primary deposit accounts of the 
+
+Borrower. 
+
+^^**Additional Covenants.** 
+
+^Other Liens, Assignments, and Subordinations. Refrain from allowing any security interest or lien on property now owned or hereafter acquired, or assign any interest in any assets or subordinate any rights in any assets now or in the future, except with the prior written consent of the Bank;  
+
+^Insurance. Cause its properties to be adequately insured by a reputable insurance company against loss or damage and to carry such other insurance (including business interruption, flood, or environmental risk insurance) as is required of or usually carried by persons engaged in the same or similar business. Such insurance must, with respect to the Bank’s collateral security, include a lender’s loss payable endorsement in favor of the Bank in form acceptable to the Bank:  
+
+^Change of Ownership. Refrain from permitting or suffering any change in the capital ownership of the Borrower that (1) results in any one person or entity from obtaining a controlling interest in the Borrower who is not currently a member of the Borrower, or that (2) results in persons or entities not currently members of the Borrower obtaining on an aggregate basis a controlling interest in the Borrower. Notwithstanding these limitations, inter-partner or inter-member transfers or transfers of interests to any revocable or irrevocable trust for estate or tax planning purposes are expressly permitted;  
+
+^Nature of Business. Refrain from engaging in any line of business materially different from that presently engaged in by the Borrower;  
+
+^Guaranties. Refrain from assuming, guaranteeing, endorsing or otherwise becoming contingently liable (and cause each of the Guarantors to so refrain) for any obligations of any other person, except for those guaranties outstanding *as* of the Effective Date and disclosed to the Bank in writing;  
+
+^Deposit Accounts. Maintain at the Bank, its principal deposit account with the Bank;  
+
+^Form of Organization and Mergers, Refrain from changing its legal form of organization, or consolidating, merging, pooling, syndicating or otherwise combining with any other entity;  
+
+^Books and Records. Maintain adequate books and records, refrain from making any material changes in its accounting procedures for tax or other purposes, and permit the Bank to inspect same upon reasonable notice;  
+
+^Compliance with Laws. Comply in all material respects with all laws applicable to its form of organization, business, and the ownership of its property;  
+
+^Preservation of Rights. Maintain and preserve all permits, licenses, rights, privileges, charters and franchises that it now owns; and  
+
+^Limited Distributions. Refrain from making annual distributions to members in excess of its after-tax net.  
+
+^SNDAs. Deliver the fully executed SNDAs to the Bank within 30 days after the Effective Date.  
+
+^ EVENTS OF DEFAULT 
+
+Any of the following shall be an event of default (“Event of Default”): 
+
+^Failure by the Borrower to make any payment of principal or interest due under the Construction Loan Note, which continues for five (6) days after its due date.  
+
+^Default by the Borrower in the observance or performance of any covenant or agreement contained in this Agreement and continuance for more than fifteen (15) days, taking into account any applicable grace periods.  
+
+^An Event of Default under the Mortgage;  
+
+^Default by the Borrower or any of the Guarantors with respect to any indebtedness or obligation owed to the Bank, which is unrelated to any loan or facility subject to the terms of this Agreement, or to any third party creditor, which would allow the maturity of any such indebtedness or obligation to be accelerated.  
+
+^Any representation or warranty made by the Borrower to the Bank in this Agreement, or any financial statement or report submitted to the Bank by or on behalf of the Borrower before or after the Effective Date is untrue or misleading in any material respect.  
+
+^Any litigation or governmental proceeding against the Borrower or any of the Guarantors seeking an amount that would have a material adverse effect on the Borrower and its operations which is not insured or subject to indemnity by a solvent third party either (a) results in a judgment in an amount that would have a material adverse effect on the Borrower or any of the Guarantors, respectively, or (b) remains unresolved one year following the date of service on the Borrower or any of the Guarantors, respectively.  
+
+^A garnishment, levy or writ of attachment, or any local, state, or federal notice of tax lien or levy is made or issues against the Borrower or any of the Guarantors any post judgment process or procedure is commenced or any supplementary remedy for the enforcement of a judgment is employed against the Borrower or any of the Guarantors, or the property of any of the foregoing.  
+
+^With or without the consent of the Borrower or any of the Guarantors, as the case may be, a trustee or receiver is appointed for any of the properties of any of the foregoing, or a petition is filed by or against any of them under the United States Bankruptcy Code, or the Borrower is dissolved, liquidated, or winds up its business, or any of the Individual Guarantors dies.  
+
+^A material adverse change occurs in the financial condition of the Borrower or ability to repay its obligations to the Bank. 
+
+^ RIGHTS AND REMEDIES 
+
+At any time after an Event of Default, the Bank may, at its option and without notice, exercise any and all of the following rights and remedies: 
+
+**9..1** **No Further Advances.** Refrain from making any further advance on the 
+
+Construction Loan, ***EXCEPT THAT*** the Bank may, in its sole discretion, make advances after an Event of Default, without waiver of any rights or remedies. 
+
+^^**Acceleration of the Construction Loan Note.** Accelerate payment of the Construction Loan Note; 
+
+^^**Foreclosure, etc.** Enforce its rights and remedies under the Mortgage, the 
+
+Guaranties and applicable law, including, without limitation, foreclosure of the Mortgage, application for the appointment of a receiver and enforcement of the assignment of leases and rents. 
+
+^^**Enter Project to Complete Improvements.** Enter the Project and proceed either in its own name or in the name of the Borrower (which authority is coupled with an interest and is irrevocable by the Borrower) to complete the Improvements, at the Borrower’s expense. 
+
+**9.4.1** **Bank’s Option to Change Plans and Specifications.** If the Bank elects to complete the Project, it may do so according to the Plans and Specifications, with or without changes, as the Bank, in its sole discretion, deems appropriate. 
+
+**9.4.2** **Assignment and Delivery of Plans and Specifications, etc.** On demand, the Borrower shall assign and deliver to the Bank, the Plans and Specifications and all contracts, blueprints, shop drawings, bonds, building permits, bills and statements of accounts pertaining to the Improvements, whether paid or not, and any other instruments or records in the possession of the Borrower pertaining to the Improvements. 
+
+**9.4.3** **Bank’s Enforcement or Cancellation of Contracts.** The Bank may enforce or cancel all contracts let by the Borrower relating to the Improvements and/or let other contracts that the Bank, in its sole discretion, deems appropriate. 
+
+**9.4.4** **Borrower’s Obligation for Completion Expenses.** The Bank shall have the right to apply the undisbursed amount of the Construction Loan and funds in the Reserve Account to completion of the Improvements. In addition to its obligation evidenced by the Construction Loan. Note, the Borrower shall be liable, on demand, for all costs and expenses in excess of the Construction Loan and funds in the Reserve Account, that the Bank incurs in completing the Improvements, together with interest at the rate in the Construction Loan Note, all of which shall be secured by the Mortgage and guaranteed by the Guaranties. 
+
+^ ARBITRATION 
+
+^^**Arbitration.** The parties hereto agree, upon demand by any party, to submit to binding arbitration all claims, disputes and controversies between or among them (and their respective employees, officers, directors, attorneys, and other agents), whether in tort, contract or otherwise arising out of or relating to in any way (i) the loan and related Loan Documents which are the subject of this Agreement and its negotiation, execution, col collateralization, administration, repayment, modification, extension, substitution, formation, inducement, enforcement, default or termination; or (ii) requests for additional credit. 
+
+^^**Governing Rules.** Any arbitration proceeding will (i) proceed in a location in Minneapolis, Minnesota selected by the American Arbitration Association (“AAA”); (ii) be governed by the Federal Arbitration Act (Title 9 of the United States Code), notwithstanding any conflicting choice of law provision in any of the documents between the parties; and (iii) be conducted by the AAA, or such other administrator as the parties shall mutually agree upon, in accordance with the AAA’s commercial dispute resolution procedures, unless the claim or counterclaim is at least $[[USD Value 3: Number]] exclusive of claimed interest, arbitration fees and costs in which case the arbitration shall be conducted in accordance with the AAA’s optional procedures for large, complex commercial disputes (the commercial dispute resolution procedures or the optional procedures for large, complex commercial disputes to be referred to, as applicable, as the “Rules”). If there is any inconsistency between the terms hereof and the Rules, the terms and procedures set forth herein shall control. Any party who fails or refuses to submit to arbitration following a demand by any other party shall bear all costs and expenses incurred by such other party in compelling arbitration of any dispute. Nothing contained herein shall be deemed to be a waiver by any party that is a bank of the protections afforded to it under 12 U.S.C. §91 or any similar applicable state law. 
+
+^^**No Waiver of Provisional Remedies, Self Help and Foreclosure.** The arbitration requirement does not limit the right of any party to (i) foreclose against real or personal property collateral; (ii) exercise self-help remedies relating to collateral or proceeds of collateral such as setoff or repossession; or (iii) obtain provisional or ancillary remedies such as replevin, injunctive relief, attachment or the appointment of a receiver, before during or after the pendency of any arbitration proceeding. This exclusion does not constitute a waiver of the right or obligation of any party to submit any dispute to arbitration or reference hereunder, including those arising from the exercise of the actions detailed in sections (i), (ii) and (iii) of this paragraph. 
+
+^^**Arbitrator Qualifications and Powers.** Any arbitration proceeding in which the amount in controversy is $[[USD Value 4: Number]] or less will be decided by a single arbitrator selected according to the Rules, and who shall not render an award of greater than $[[USD Value 4]]. Any dispute in which the amount in controversy exceeds $[[USD Value 4]] shall be decided by majority vote of a panel of three arbitrators; provided however, that all three arbitrators must actively participate in all hearings and deliberations. The arbitrator will be a neutral attorney licensed in the State of Minnesota or a neutral retired judge of the state or federal judiciary of Minnesota, in either case with a minimum of ten years experience in the substantive law applicable to the subject matter of the dispute to be arbitrated. The arbitrator will determine whether or not an issue is arbitratable and will give effect to the statutes of limitation in determining any claim. In any arbitration proceeding the arbitrator will decide (by documents only or with a hearing at the arbitrator’s discretion) any pre-hearing motions which are similar to motions to dismiss for failure to state a claim or motions for summary adjudication. The arbitrator shall resolve all disputes in accordance with the substantive law of Minnesota and may grant any remedy or relief that a court of such state could order or grant within the scope hereof and such ancillary relief as is necessary to make effective any award. The arbitrator shall also have the power to award recovery of all costs and fees, to impose sanctions and to take such other action as the arbitrator deems necessary to the same extent a judge could pursuant to the Federal Rules of Civil Procedure, the Minnesota Rules of Civil Procedure or other applicable law, Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction. The institution and maintenance of an action for judicial relief or pursuit of a provisional or ancillary remedy shall not constitute a waiver of the right of any party, including the plaintiff, to submit the controversy or claim to arbitration if any other party contests such action for judicial relief. 
+
+^^**Discovery.** In any arbitration proceeding discovery will be permitted in accordance with the Rules. All discovery shall be expressly limited to matters directly relevant to the dispute being arbitrated and must be completed no later than 20 days before the hearing date and within 180 days of the filing of the dispute with the AAA. Any requests for an extension of the discovery periods, or any discovery disputes, will be subject to final determination by the arbitrator upon a showing that the request for discovery is essential for the party’s presentation and that no alternative means for obtaining information is available. 
+
+^^**Class Proceedings and Consolidations.** The resolution of any dispute arising pursuant to the terms of this Agreement shall be determined by a separate arbitration proceeding and such dispute shall not be consolidated with other disputes or included in any class proceeding. 
+
+^^**Payment Of Arbitration Costs And Fees.** The arbitrator shall award all costs and expenses of the arbitration proceeding. 
+
+^ MISCELLANEOUS 
+
+^^**Indemnification by Borrower.** The Borrower indemnifies and holds harmless the Bank, its officers, agents and employees, against and from any and all losses, claims, damages or liability, including attorneys’ fees, relating to the construction and installation of the Improvements. 
+
+^^**No Third Party Beneficiaries.** This Agreement is intended exclusively for the benefit of the Bank and the Borrower, and no third parties may rely on it. 
+
+^^**Not Joint Venturers.** The Bank is not, and shall not by reason of any provision of any of the Loan Documents be deemed **to** be, a joint venturer with or partner or agent of the Borrower. 
+
+^^**Documents Complementary.** This Agreement and the other Loan Documents shall be construed as complementary to one another, but in the case of any inconsistency, this Agreement shall prevail. 
+
+^^**Additional Documents, Information.** From time to time, the Borrower shall execute and deliver to the Bank, additional documents and shall provide additional information as the Bank may reasonably request to carry out the terms of this Agreement. ‘ 
+
+^^**Severability.** If any provision of the Loan Documents shall be held invalid under any applicable law, the invalidity shall not affect any other provision of this Agreement that can be given effect without the invalid provision. 
+
+^^**No Effect to Delay.** No failure or delay of the Bank in exercising any right or remedy under the Loan Documents shall affect the right, nor shall any single or partial exercise preclude, any further exercise or the exercise or any other right or remedy. The rights and remedies of the Bank under the Loan Documents are cumulative and not exclusive of any rights and remedies that it may otherwise have. 
+
+^^**Other Notes, Agreements Amended.** Each promissory note and agreement of the Borrower in favor of the Bank that is not documented in this Agreement, and regardless of whether delivered before or after the Effective Date, shall hereby be amended on a supplementary basis to provide that an Event of Default under this Agreement shall be an event of default under such other promissory note and agreement. 
+
+^^**Amendments.** Any amendment or modification of this Agreement must be in writing and signed by the Bank and Borrower. 
+
+^^**Successors and Assigns.** This Agreement and the Loan Documents are binding on the successors and assigns of the Borrower and Bank. The Borrower may not assign its rights under this Agreement and the Loan Documents without the Bank’s prior written consent. The Bank may sell participations in or assign this Agreement and the Loan Documents and exchange financial information about the Borrower with actual or potential participants or assignees. 
+
+^^**Time is of the Essence.** Time is of the essence in performance under this Agreement. 
+
+^^**Counterparts.** This Agreement may be executed in several counterparts, each of which shall be deemed an original. 
+
+^^**Notices.** All notices required or given under this Agreement shall be in writing and shall be deemed given when delivered personally or when deposited in the United States Mail, registered or certified, postage prepaid, addressed as follows: 
+
+To Bank: 
+
+Wells Fargo Bank, National Association 
+
+400-1st Street South 
+
+St cloud, MN 56301 
+
+Attention: Todd Mather 
+
+To Borrower: 
+
+Stingray Properties 
+
+P.O. Box 402 
+
+[[Address 1: Address]] 
+
+**IN WITNESS WHEREOF**, the Bank and the Borrower have executed this Agreement as of the Effective Date. 
+
+**WELLS FARGO BANK, NATIONAL ASSOCIATION** 
+
+[[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{WELLS FARGO BANK NATIONAL ASSOCIATION Entity => By: [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory First Name]] [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Last Name]]
+Title: [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Title]]}}
+
+
+**STINGRAY PROPERTIES** 
+
+[[STINGRAY PROPERTIES Signatory Email: Identity | Signature]]
+__________________________________________
+{{STINGRAY PROPERTIES Entity => By: [[STINGRAY PROPERTIES Signatory First Name]] [[STINGRAY PROPERTIES Signatory Last Name]]
+Title: [[STINGRAY PROPERTIES Signatory Title]]}}
+
+
+**AGREED AS TO DISBURSEMENT PROVISION UNDER SECTION 4 CHICAGO TITLE INSURANCE COMPANY** 
+
+**By: Tri-County Abstract and Title Guaranty, Inc.** 
+
+**Its: Agent** 
+
+[[Its Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{Its Agent Entity => By: [[Its Agent Signatory First Name]] [[Its Agent Signatory Last Name]]
+Title: [[Its Agent Signatory Title]]}}
+
+
+Date: 9/16/2005

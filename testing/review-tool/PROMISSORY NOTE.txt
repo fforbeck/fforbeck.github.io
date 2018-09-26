@@ -1,64 +1,37 @@
-\centered  
+\centered PROMISSORY NOTE 
 
-\centered **PROMISSORY NOTE**
+$[[USD Value 1: Number]]      [[Date 1: Date]]
 
-$[[USD Value 1: Number]]   [[Date 1: Date]]
+FOR VALUE RECEIVED, the undersigned MDRNA, INC., a Delaware corporation (the “Borrower”), hereby promises to pay to the order of CEQUENT PHARMACEUTICALS, INC. (the “Lender”) the principal amount of Three Million and 00/100 ($[[USD Value 1]]) Dollars or such portion thereof as may be advanced by the Lender pursuant to §1.2 of that certain loan agreement of even date herewith between the Lender and the Borrower (as the same may be amended, restated or otherwise modified from time to time, the “Loan Agreement”) and which remains outstanding from time to time hereunder (“Principal”), with interest, at the rate hereinafter set forth, on the daily balance of all unpaid Principal, from the date hereof until payment in full of all Principal and interest hereunder. 
 
-FOR VALUE RECEIVED, C2 Global Technologies Inc., a Florida corporation formerly known as Acceris Communications Inc. and I-Link Incorporated (the “Maker”) promises to pay to Counsel Corporation, an [[State of Formation: State]] [[Organization: EntityType]], or its assigns (the “Payee”), in the lawful money of the United States of America (“Dollars” or “$”) the principal sum of Ninety Thousand and 00/100ths Dollars ($[[USD Value 1]]), together with interest thereon as set forth herein, on or before the Maturity Date as provided below and in accordance with the provisions of the management services agreement between the Payee and ACRS Capital Corp. (formerly Acceris Capital Corporation) (“ACC”) dated [[Date 2: Date]] as assigned by ACC to the Payee, and that certain Loan Agreement dated as of [[Date 3: Date]] between the Maker and Payee as the same may be amended, modified, extended or restated, the “Loan Agreement.” Capitalized terms used herein but not defined shall have the meanings ascribed to them in the Loan Agreement.
+Interest on all unpaid Principal shall be due and payable monthly in arrears, on the fifteenth day of each month, commencing on the [[Date 2: Date]] and continuing on the fifteenth day of each month thereafter and on the date of payment of this note in full, at a fixed rate per annum (computed on the basis of a year of three hundred sixty (360) days for the actual number of days elapsed) which shall at all times (except as described in the next sentence) be equal to ten percent ([[Percentage 1: Number]]%) per annum (but in no event in excess of the maximum rate permitted by then applicable law). After the occurrence and during the continuance of any Event of Default (as defined in the Loan Agreement) interest will, at the option of the Lender, accrue and be payable under this note at a rate per annum which at all times shall be equal to the sum of (i) four ([[Percentage 2: Number]]%) percent per annum plus (ii) the per annum rate otherwise payable under this note (but in no event in excess of the maximum rate permitted by then applicable law). If the entire amount of any required Principal and/or interest is not paid within fifteen (15) days after the same is due, the Borrower shall pay to the Lender a late fee equal to five percent ([[Percentage 3: Number]]%) of the required payment. 
 
-^**Time and Place of Payment**. The Indebtedness shall be due and payable in full on demand (the “Maturity Date”); provided, further, however, that notwithstanding the above, the Maturity Date shall be accelerated to the date ten (10) calendar days following closing under or conclusion of an equity investment or investments in the Maker by a third party unrelated to Counsel Corp through the capital markets, whether pursuant to a registered offering or unregistered offering or other transaction (an “Equity Investment”); provided, further, however, that the Maturity Date shall be accelerated with respect only to the portion of the unpaid Indebtedness equal to the net amount received by the Maker from any such Equity Investment.
+Principal of this note shall be repaid by the Borrower to the Lender as follows: Principal hereof will be repaid in three (3) equal consecutive monthly installments (each in an amount equal to 1/3rd of the aggregate principal amount of the Term Loans (as defined in the Loan Agreement) outstanding at the close of business on [[Date 3: Date]]), such installments to commence [[Date 2]] and to continue on [[Date 4: Date]], plus a third and final payment due and payable on [[Date 5: Date]] in an amount equal to all then remaining Principal and all interest accrued but unpaid thereon. 
 
-^The Indebtedness, including that portion of the Indebtedness represented by this Note, is secured pursuant to that Amended and Restated Stock Pledge Agreement between the Maker and Payee dated as of [[Date 3]], executed and delivered concurrent herewith as the same has been amended, modified, extended or restated, the “Stock Pledge Agreement.”
+The Borrower may at any time and from time to time upon five (5) days’ prior written notice to Lender prepay all or any portion of the Principal of this note, without premium or penalty. Each Principal prepayment shall be accompanied by payment of all interest on the prepaid amount accrued but unpaid to the date of payment. Any partial prepayment of Principal will be applied against Principal installments in inverse order of normal maturity. 
 
-^**Events of Default**. The occurrence of any of the following events or conditions shall constitute an event of default (each an “Event of Default”):
+Payments of both Principal and interest shall be made, in lawful money of the United States in immediately available funds, at the office of the Lender located at One Kendall Square, 
 
-^^Maker shall fail to pay any of the Indebtedness pursuant to terms of this Note;
+Building 700, [[Address 1: Address]], or at such other address as the Lender may from time to time designate. 
 
-^^Maker shall fail to comply with any term, obligation, covenant, or condition contained in any agreement between Maker and Payee (each, an “Agreement”);
+The undersigned Borrower irrevocably authorizes the Lender to make or cause to be made, on a schedule attached to this note or on the books of the Lender, at or following the time of making any Term Loan and of receiving any payment of Principal, an appropriate notation reflecting such transaction and the then aggregate unpaid balance of Principal. Failure of the Lender to make any such notation shall not, however, affect any obligation of the Borrower hereunder or under the Loan Agreement. The unpaid Principal amount of this note, as recorded by the Lender from time to time on such schedule or on such books, shall constitute presumptive evidence of the aggregate unpaid principal amount of the Term Loans. 
 
-^^Any warranty or representation made to Payee by Maker under any Agreement proves to have been false when made or furnished;
+The Borrower hereby (a) waives notice of and consents to any and all advances, settlements, compromises, favors and indulgences (including, without limitation, any extension or postponement of the time for payment), any and all receipts, substitutions, additions, exchanges and releases of collateral, and any and all additions, substitutions and releases of any person primarily or secondarily liable, (b) waives presentment, demand, notice, protest and all other demands and notices generally in connection with the delivery, acceptance, performance, default or enforcement of or under this note, and (c) agrees to pay all costs and expenses, including, without limitation, reasonable attorneys’ fees, incurred or paid by the Lender in enforcing this note and any collateral or security therefor, all whether or not litigation is commenced. 
 
-^^If Maker voluntarily files a petition under the federal Bankruptcy Act, as such Act may from time to time be amended, or under any similar or successor federal statute relating to bankruptcy, insolvency, arrangements or reorganizations, or under any state bankruptcy or insolvency act, or files an answer in an involuntary proceeding admitting insolvency or inability to pay debts, or if Maker is adjudged a bankrupt, or if a trustee or receiver is appointed for Maker’s property, or if Maker makes an assignment for the benefit of its creditors, or if there is an attachment, receivership, execution or other judicial seizure, then Payee may, at Payee’s option, declare all of the Indebtedness to be immediately due and payable without prior notice to Maker, and Payee may invoke any remedies permitted by this Note. Any attorneys’ fees and other expenses incurred by Payee in connection with Maker’s bankruptcy or any of the other events described in this Section 3 shall be additional Indebtedness of Maker secured by this Note.
+This note is the Term Note referred to in, and is entitled to the benefits of, the Loan Agreement and is also entitled to the benefits of the Security Agreement and the Patent Security Agreements (each as defined in the Loan Agreement). The maturity of this note may be accelerated upon the occurrence of an Event of Default, as provided in the Loan Agreement. 
 
-^^There exists a material breach by Maker under (or a termination by any party of) a material contract of Maker (for purposes of this Section 3 a material contract shall mean any contract resulting in revenues of in excess of $[[USD Value 2: Number]] per annum);
+THE BORROWER HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVES THE RIGHT TO A TRIAL BY JURY IN RESPECT OF ANY CLAIM BASED ON THIS NOTE OR ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS NOTE OR ANY RELATED DOCUMENTS OR OUT OF ANY COURSE OF CONDUCT, COURSE OF DEALING, STATEMENTS (WHETHER ORAL OR WRITTEN) OR ACTIONS OF ANY PERSON. THIS WAIVER CONSTITUTES A MATERIAL INDUCEMENT FOR THE LENDER TO ACCEPT THIS NOTE AND TO MAKE THE TERM LOANS AS CONTEMPLATED IN THE LOAN AGREEMENT. 
 
-^^Maker is in default under any funded indebtedness, including but not limited to indebtedness evidenced by notes or capital leases, of Maker other than the amounts loaned pursuant to this Note; or
+\centered ***The next page is the signature page*.** 
 
-^^If Maker’s business undergoes a material adverse change in Payee’s reasonable opinion.
+Executed, as an instrument under seal, as of the day and year first above written. 
 
-If an Event of Default specified in Section 3(d) hereof occurs and is continuing, the principal amount of the Indebtedness, together with all accrued and unpaid interest thereon, shall automatically become and be immediately due and payable, without any declaration or other act on the part of Payee.
+MDRNA, INC.
 
-^**Acceleration**. Upon an Event of Default, the Payee may give written notice to the Maker of the occurrence of such Event of Default and Maker shall have the shorter of (i) thirty (30) days or (ii) such remedy period as set forth in the applicable provisions of Section 3 within which to cure such Event of Default. If the Event of Default is not cured within the applicable cure period, then, at the option of the Payee, Payee may declare the Maker in default (a “Default”) and all sums due hereunder shall become immediately due and payable.
-
-Any written notification from Payee to Maker hereunder shall be deemed to be written notification of an Event of Default, or Default, or rescission of Acceleration (as provided below), respectively, only if such notification, communication or other election shall (a) be clearly and distinctly identified as such a Notice of Event of Default, Notice of Default, or Notice of Rescission of Acceleration, respectively, and (b) be given by certified mail, return receipt requested or overnight delivery requiring acknowledgement of receipt, and any communication between the parties not so designated and delivered shall not be construed or deemed to be effective notice under this Section 4.
-
-^**Interest**. In the Event of Default, the outstanding principal amount of this Promissory Note (the “Note”), together with unpaid interest, shall bear interest with effect from [[Date 4: Date]] at the rate of ten percent ([[Percentage 1: Number]]%) per annum, which interest shall accrue and be compounded quarterly and shall result in a corresponding increase in the principal amount of the Indebtedness.
-
-^**Waivers**. The Maker hereby waives presentment, demand for payment, notice of dishonor and any and all other notices or demands in connection with the delivery, acceptance, performance, default or enforcement of this Note and hereby consents to any waivers or modifications that may be granted or consented to by the Payee of this Note. No waiver by the Payee or any breach of any covenant of the Maker herein contained or any term or condition hereof shall be construed as a waiver of any subsequent breach of the same or of any other covenant, term or condition whatsoever.
-
-^**Enforcement**. In the event that any Payee of this Note shall institute any action for the enforcement or the collection of this Note, there shall be immediately due and payable, in addition to the unpaid balance of this Note, all late charges, and all costs and expenses of such action including reasonable attorney’s fees. The Maker waives the right to interpose any setoff, counterclaim or defense of any nature or description whatsoever.
-
-^**Replacement of Note**. Upon receipt by the Maker of evidence satisfactory to it of the loss, theft, destruction or mutilation of this Note, and (in case of loss, theft or destruction) of an indemnity reasonably satisfactory to it, and upon reimbursement to the Maker of all reasonable expenses incidental thereto, and upon surrender and cancellation of this Note if mutilated, the Maker will make and deliver a new Note of like tenor in lieu of this Note.
-
-^**Amendments**. This Note may not be changed, modified, amended, or terminated except by a writing duly executed by the Maker and the Payee.
-
-^**Governing Law**. This Note shall be governed by, and construed in accordance with, the laws of the State of New York.
-
-^**Assignment**. This Note may not be assigned, in whole or in part, by operation of law or otherwise, by the Maker without the prior written consent of the Payee in its sole and absolute discretion, and any purported assignment without the express prior written consent of the Payee shall be void ab initio. The Payee may assign any or all of its rights and interests hereunder to any party. Subject to the foregoing, this Note shall be binding upon, and inure to the benefit of, the successors and assigns of the Payee and the Maker.
-
-\centered [See attached Signature Page]
-
-\centered **Signature Page**
-
-\centered **to Promissory Note**
-
-\centered **dated as of [[Date 1]]**
-
-IN WITNESS WHEREOF, the Maker has executed this Promissory Note by its duly authorized officer as of the [[Date 5: Date]].
-
-C2 GLOBAL TECHNOLOGIES INC.
-
-[[C2 GLOBAL TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+[[MDRNA INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{C2 GLOBAL TECHNOLOGIES INC. Entity => By: [[C2 GLOBAL TECHNOLOGIES INC. Signatory First Name]] [[C2 GLOBAL TECHNOLOGIES INC. Signatory Last Name]]
-Title: [[C2 GLOBAL TECHNOLOGIES INC. Signatory Title]]}}
+{{MDRNA INC. Entity => By: [[MDRNA INC. Signatory First Name]] [[MDRNA INC. Signatory Last Name]]
+Title: [[MDRNA INC. Signatory Title]]}}
+
+
+\centered Signature Page to Term Note

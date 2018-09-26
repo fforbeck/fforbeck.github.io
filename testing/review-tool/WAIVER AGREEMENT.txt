@@ -1,188 +1,84 @@
-\centered **WAIVER AGREEMENT** 
+\centered **WAIVER AGREEMENT**
 
-This WAIVER AGREEMENT (“Agreement”) dated as of [[Date 1: Date]], but effective as of [[Date 2: Date]] (the “Effective Date”) is among Willbros United States Holdings, Inc., a Delaware corporation (the “Borrower”), the guarantors party hereto (the “Guarantors”), the undersigned Lenders (as defined below), and Crédit Agricole Corporate and Investment Bank (formerly known as Calyon New York Branch), as administrative agent for the Lenders (the “Administrative Agent”). 
+**THIS WAIVER AGREEMENT** is made as of [[Date 1: Date]] by and among [[NEXX]], a [[State of Formation: State]] [[Organization: EntityType]] (“NEXX”) with a principal address of 900 Middlesex Turnpike, Building #6, [[Principal Stockholders]] (each a “Principal Stockholder” and collectively the “Principal Stockholders”) with the addresses set forth on Schedule 1 attached hereto.
 
-\centered **PRELIMINARY STATEMENTS** 
+\centered RECITAL
 
-WHEREAS, reference is made to the Credit Agreement dated as of [[Date 3: Date]] among the Borrower, the Guarantors, the lenders party thereto from time to time (the “Lenders”), and the Administrative Agent (as amended on or before the date hereof, the “Credit Agreement”; the defined terms of which are used herein unless otherwise defined herein). 
+NEXX desires to conduct an initial public offering (the “IPO”) during 2010 and has entered into a term sheet with Canaccord Adams, Inc. to serve as a lead underwriter of the IPO. The cost, time and efforts to be expended in the IPO are substantial. Currently, NEXX’s Certificate of Incorporation (the “Charter”) provides that shares of NEXX’s Series A Preferred Stock, Series B Preferred Stock, Series C Preferred Stock and Series D Preferred Stock (collectively, the Preferred Stock”) automatically convert to NEXX Common Stock provided that certain conditions are met, including NEXX raising a certain minimum amount of funds in the public offering. NEXX’s Board of Directors seeks to avoid a situation where NEXX may undertake a ll of the cost, time and expenses to effect the IPO but the IPO fails to meet the funding criteria set forth in the Charter. NEXX’s Board of Directors has determined that it is in the best interest of all of NEXX’s stockholders that NEXX obtain a waiver from the holders of Preferred Stock allowing the IPO to proceed if approved by the terms of the IPO are approved by the holders of a majority of the Board of Directors, regardless of the sums raised in the financing. NEXX’s Principal Stockholders have agreed to waive their rights under the Charter as regards these minimum threshold requirements. As consideration for this waiver, certain of these Principal Stockholders have requested that NEXX modify other provisions in the Charter and other agreements in effect as consideration for the waiver. NEXX’s Board of Directors retained a highly qualified independent third party appraisal firm, SVB Analytics, to determine appropriate compensatio n for the waiver. After review of a report by SVB Analytics, the Board of Directors negotiated more favorable terms for NEXX than suggested by SVB Analytics, consisting of an increase to the Common Stock equivalents issuable for NEXX’s preferred stock 
 
-WHEREAS, the Borrower, the Majority Lenders and the Administrative Agent wish to, subject to the terms and conditions of this Agreement, provide for a waiver of certain requirements under the Credit Agreement. 
+upon the effectiveness of the IPO. The Charter provides that any term of the Charter and certain other agreements between NEXX and the holders of its Preferred Stock may be modified provided that the modification is approved by the holders of a majority of the Preferred Stock. The Principal Stockholders executing this Waiver Agreement constitute a majority of the holders of each series of NEXX’s Preferred Stock.
 
-\centered **AGREEMENTS** 
+For good and valuable consideration, the sufficiency and receipt whereof are hereby acknowledged, the parties agree as follows:
 
-NOW THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows: 
+^**Modification of Charter and Related Investment Agreements**. (a) The parties hereby agree to amend, effective immediately subclause (i) of Section 5(i) of Article Fourth of NEXX s Charter to read as follows: “(i) the closing of an underwritten, firm commitment public offering of shares of the capital stock of the Corporation pursuant to an effective registration statement under the Securities Act of 1933, as amended or…”
 
-^Waiver. The Borrower hereby acknowledges the existence of a Default as a result of the Borrower’s failure to comply with Section 6.17 of the Credit Agreement for the fiscal quarter ended [[Date 2]] (such Default shall be referred to herein as the “ Existing Default”). The Majority Lenders hereby agree, subject to the terms of this Agreement and satisfaction of the conditions precedent set forth below, (a) to waive the Existing Default and (b) that the Existing Default shall not constitute a Default or Event of Default under the Credit Agreement or the other Loan Documents. The foregoing waiver by the Majority Lenders is limited to the Existing Default and shall not be construed to be a waiver of the Borrower’s noncompliance with any other terms, provisions, covenants, warranties or agreements contained in the Credit Agreement or in any of the other Loan Documents or as a waiver of any other present or future Default or Event of Default. The Lenders reserve the right to exercise any rights and remedies available to them in connection with any other present or future defaults with respect to the Credit Agreement or any other provision of any Loan Document. 
+^^The Parties hereby amend (i) the Investor Rights Agreement dated as of [[Date 2: Date]] by and among NEXX and the Investors named therein, (ii) the Right of First Refusal and Co-Sale Agreement dated as of [[Date 2]] between NEXX, the Investors and the Key Holders named therein, and (iii) the Voting Rights Agreement by and among NEXX, the Investors and the Key Holders named therein to provide that a “Qualified IPO” shall consist of “any initial public offering on any stock exchange approved by a majority of the Board of Directors”
 
-^Effectiveness. This Agreement and the waiver set forth in Section 1 above shall be effective as of the Effective Date, but only upon the satisfaction of the following conditions precedent: 
+^**Modification of Conversion Shares.** As consideration for the waiver granted in Section 1 above, immediately prior to the effectiveness of the IPO, NEXX shall increase the following number of Common Stock share equivalents for each series of Preferred Stock as set forth below and such additional common share equivalents shall be allocated pro rata among the then outstanding shares of each series of the Preferred Stock as set forth below:
 
-^^The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Agreement, duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Administrative Agent, and the Majority Lenders. 
+\centered **Series of Preferred Stock**   \centered **Additional Common Share Equivalents** Series A Preferred Stock   \centered 793,176 Series B Preferred Stock and Warrant   \centered 7,270,864 Series C Preferred Stock   \centered 7,063,923 Series D Preferred Stock and Warrants   \centered 14,872,037 TOTAL   
 
-^^^^^ 
-^^No Default, other than the Existing Default, shall have occurred and be continuing as of the Effective Date. 
+\centered 30,000,000  
 
-^^The representations and warranties in this Agreement shall be true and correct in all material respects. 
+^**Further Adjustment to Conversion Shares**. The Conversion Shares, as set forth in Section 2, shall be subject to further adjustment in accordance with the terms of the Charter, as then in effect, for future stock splits and reorganizations. The Principal Stockholders agree that the issuance of the Conversion Shares, and any shares of NEXX’s Common Stock issuable by means of this Waiver, shall not be deemed to constitute “Additional Stock” as defined in Section 5 of Article Fourth of the Charter. All of the Conversion Shares shall be subject to any reverse stock split effected immediately prior to the effectiveness of t he IPO.
 
-^Representations and Warranties. Each Loan Party represents and warrants that (a) except for the representations and warranties which are made only as of a prior date, the representations and warranties set forth in the Credit Agreement and in the other Loan Documents are true and correct in all respects as of the Effective Date as if made on and as of such date; (b) the execution, delivery and performance of this Agreement are within the power and authority of each Loan Party and have been duly authorized by appropriate action and proceedings; (c) this Agreement constitutes a legal, valid, and binding obligation of each Loan Party enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (d) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement; and (e) other than the Existing Default, no Default or Event of Default has occurred and is continuing. 
+^**Further Actions.** Each of the Parties agrees to take all actions necessary to carry out the actions contemplated by this Waiver. If for any reason the IPO is declared effective by the Securities and Exchange Commission but the IPO closing is not consummated, then the modification of the Conversion Rates for the Preferred Stock shall be cancelled.
 
-^Reaffirmation of Guaranty and Liens. 
+^**Tax Liability of the Principal Stockholders and Payment of Taxes**. The Principal Stockholders acknowledge and agree that any income or other taxes (if any) due from the Principal Stockholders with respect to the Waiver, shall be the Principal Stockholders’ responsibility.
 
-^^Each Guarantor (i) has consented and agreed to the Credit Agreement, as amended hereby, (ii) has reviewed this Agreement, (iii) waives any defense arising by reason of any disability, lack of organizational authority or power, or other defense of the Borrower or any other guarantor of the Obligations, and (iv) agrees that according to and subject to its terms the guaranty by such Guarantors, as amended hereby, will continue in full force and effect to guaranty the Obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified, and such other amounts in accordance with the terms of the Article VIII of the Credit Agreement. 
+^**Equitable Relief**. The Principal Stockholders specifically acknowledge and agree that in the event of a breach or threatened breach of the provisions of this Agreement, monetary damages may not be adequate to compensate NEXX, and, therefore, in the event of such a breach or threatened breach, in addition to any right to damages, NEXX shall be entitled to equitable relief in any court having competent jurisdiction. Nothing herein shall be construed as prohibiting NEXX from pursuing any other remedies available to it for any such breach or threatened breach.
 
-^^The Loan Parties (i) are party to certain Security Documents securing and supporting the Obligations, (ii) have reviewed this Agreement, (iii) waive any defense arising by reason of any disability, lack of organizational authority or power, or other defense of such Loan Party, and agrees that according to their terms the Security Documents to which the applicable Loan Party is a party will continue in full force and effect to secure the Obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified, and (iv) acknowledge, represent, and warrant that the liens and security interests created by the Security Documents are valid and subsisting and create a first priority perfected security interest subject to Permitted Liens as amended herein. 
+^**Notices**. Any notices required or permitted by the terms of this Agreement shall be given by recognized courier service, facsimile, registered or certified mail, return receipt requested, addressed as follows:
 
-^Effect on Loan Documents; Acknowledgments. 
+If to NEXX at the address indicated above
 
-^^Except for the waiver of the Existing Default granted herein, the Credit Agreement (including the guaranty set forth in Article VIII thereof) and the other Loan Documents, as heretofore amended, remain in full force and effect as originally executed, and nothing herein shall act as a waiver of any of the Administrative Agent’s or Lenders’ rights under the Loan Documents, as amended. 
+With a copy to:   Gennari Aronson, LLP First [[Address 1: Address]] First Avenue [[Address 2: Address]] Attn: Neil H. Aronson, Esq.
 
-^^^^^ 
-^^This Amendment is a Loan Document for the purposes of the provisions of the other Loan Documents. Without limiting the foregoing, any breach of representations, warranties, and covenants under this Amendment may be a Default or Event of Default under other Loan Documents. 
+If to the Principal Stockholders at the addresses indicated on Schedule 1 attached hereto, or to such other address or addresses of which notice in the same manner has previously been given. Any such notice shall be deemed to have been given on the earliest of receipt, one business day following delivery by the sender to a recognized courier service, or three business days following mailing by registered or certified mail.
 
-^^Upon and after the execution of this Amendment by each of the parties hereto, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as modified hereby. 
+^**Benefit of Agreement**. This Agreement shall be for the benefit of and shall be binding upon the heirs, executors, administrators, successors and assigns of the parties hereto.
 
-^Counterparts. This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument. This Agreement may be executed by facsimile or other electronic signature and all such signatures shall be effective as originals. 
+^.**Governing Law**. This Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without giving effect to the conflict of law principles thereof. For the purpose of litigating any dispute that arises under this Agreement, whether at law or in equity, the parties hereby consent to exclusive jurisdiction in Massachusetts and agree that such litigation shall be conducted in the courts of Middlesex County, Massachusetts or the federal courts of the United States for the District of Massachusetts.
 
-^Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement. 
+^**Severability**. If any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, then such provision or provisions shall be modified to the extent necessary to make such provision valid and enforceable, and to the extent that this is impossible, then such provision shall be deemed to be null and void, and the validity, legality and enforceability of the rest of this Agreement shall not be affected thereby.
 
-^Counterparts. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. Transmission by facsimile or other electronic transmission of an executed counterpart of this Amendment shall be deemed to constitute due and sufficient delivery of such counterpart. 
+^.**Entire Agreement**. This Agreement constitutes the entire agreement and understanding between the parties hereto with respect to the subject matter hereof and supersedes all prior oral or written agreements and understandings relating to the subject matter hereof. No statement, representation, warranty, covenant or agreement not expressly set forth in this Agreement shall affect or be used to interpret, change or restrict the express terms and provisions of this Agreement.
 
-^Governing Law. **THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.** 
+^**Modifications and Amendments; Waivers and Consents**. The terms and provisions of this Agreement may be waived, or consent for the departure therefrom granted, only by written document executed by the party entitled to the benefits of such terms or provisions. No such waiver or consent shall be deemed to be or shall constitute a waiver or consent with respect to any other terms or provisions of this Agreement, whether or not similar. Each such waiver or consent shall be effective only in the specific instance and for the purpose for which it was given, and shall not constitute a continuing waiver or consent.
 
-^Waiver of Jury Trial. **EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT IT MAY EFFECTIVELY DO SO UNDER APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO ANY LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY**. 
+^**Counterparts**. This Agreement may be executed in one or more counterparts, and by different parties hereto on separate counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
 
-^Entire Agreement. This Agreement, the Credit Agreement, as modified by this Agreement, and the other Loan Documents constitute the entire understanding among the parties hereto with respect to the subject matter hereof and supersede any prior agreements, written or oral, with respect thereto. 
+^**Opportunity to Obtain Independent Advice**. Each of the Principal Stockholders acknowledges and agrees that he has been advised to seek the advice of his own independent legal, tax and financial advisors and has not relied on NEXX or NEXX’s counsel, Gennari Aronson, LLP, for any advice with regard to the subject matter of this Agreement.
 
-^^^^^ 
-In Witness Whereof, the parties hereto have caused this Agreement to be duly executed and delivered by their respective duly authorized representatives as of the Effective Date. 
+\centered [THIS SPACE INTENTIONALLY LEFT BLANK]
 
-**BORROWER****:**  WILLBROS UNITED STATES HOLDINGS, INC.
-[[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Email: Identity | Signature]]
+IN WITNESS WHEREOF, the Parties have executed this Waiver as of the date first set forth above.
+
+\centered [[NEXX]] [[NEXX Signatory Email: Identity | Signature]]
 __________________________________________
-{{BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Entity => By: [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory First Name]] [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Last Name]]
-Title: [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Title]]}}
+{{NEXX Entity => By: [[NEXX Signatory First Name]] [[NEXX Signatory Last Name]]
+Title: [[NEXX Signatory Title]]}}
 
-[[Party 1]]
-Vice President, Corporate Development and Treasurer
 
-**GUARANTORS**:  WILLBROS GROUP, INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES, L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA, INC. WILLBROS ENGINEERS (U.S.) (f/k/a Willbros Engineers, Inc.). WILLBROS GOVERNMENT SERVICES (U.S.) (f/k/a Willbros Government Services, Inc.) WILLBROS GOVERNMENT HOLDINGS (U.S.) WILLBROS PROJECT SERVICES (U.S.) (f/k/a Willbros Project Services, Inc.) WILLBROS REFINERY AND MAINTENANCE SERVICES (U.S.) WILLBROS CONSTRUCTION (U.S.) (f/k/a Willbros RPI, Inc.) WINK ENGINEERING (f/k/a Wink Companies)
-[[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Email: Identity | Signature]]
+\centered SIGMA PARTNERS 6, L.P, By: Sigma Management 6 as General Partner By: [[Principal Stockholders Signatory Email: Identity | Signature]]
 __________________________________________
-{{GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Entity => By: [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory First Name]] [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Last Name]]
-Title: [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Title]]}}
+{{Principal Stockholders Entity => By: [[Principal Stockholders Signatory First Name]] [[Principal Stockholders Signatory Last Name]]
+Title: [[Principal Stockholders Signatory Title]]}}
 
 
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+\centered EXHIBIT A
 
-^^^^^ 
+\centered **Addresses of Principal Stockholders**
 
-**ADMINISTRATIVE AGENT:**  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
-[[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Email: Identity | Signature]]
-__________________________________________
-{{ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Entity => By: [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory First Name]] [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Last Name]]
-Title: [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Title]]}}
-
-
-[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
-
-
-**LENDERS:**  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
-[[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Email: Identity | Signature]]
-__________________________________________
-{{LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Entity => By: [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory First Name]] [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Last Name]]
-Title: [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Title]]}}
-
-
-[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-CREDIT SUISSE, CAYMAN ISLANDS BRANCH as a Lender
-[[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Entity => By: [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory First Name]] [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Last Name]]
-Title: [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Title]]}}
-
-
-[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-UBS LOAN FINANCE LLC as a Lender
-[[UBS LOAN FINANCE LLC as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{UBS LOAN FINANCE LLC as a Lender Entity => By: [[UBS LOAN FINANCE LLC as a Lender Signatory First Name]] [[UBS LOAN FINANCE LLC as a Lender Signatory Last Name]]
-Title: [[UBS LOAN FINANCE LLC as a Lender Signatory Title]]}}
-
-
-[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-NATIXIS as a Lender
-[[NATIXIS as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{NATIXIS as a Lender Entity => By: [[NATIXIS as a Lender Signatory First Name]] [[NATIXIS as a Lender Signatory Last Name]]
-Title: [[NATIXIS as a Lender Signatory Title]]}}
-
-
-[[Title Party 11 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 11 Signatory Title}} Entity => By: [[Title Party 11 Signatory Title}} Signatory First Name]] [[Title Party 11 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 11 Signatory Title}} Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-AMEGY BANK N.A. as a Lender
-[[AMEGY BANK N.A. as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{AMEGY BANK N.A. as a Lender Entity => By: [[AMEGY BANK N.A. as a Lender Signatory First Name]] [[AMEGY BANK N.A. as a Lender Signatory Last Name]]
-Title: [[AMEGY BANK N.A. as a Lender Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-BANK OF TEXAS, N.A. as a Lender
-[[BANK OF TEXAS N.A. as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{BANK OF TEXAS N.A. as a Lender Entity => By: [[BANK OF TEXAS N.A. as a Lender Signatory First Name]] [[BANK OF TEXAS N.A. as a Lender Signatory Last Name]]
-Title: [[BANK OF TEXAS N.A. as a Lender Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
-
-^^^^^ 
-
-THE BANK OF NOVA SCOTIA as a Lender
-[[THE BANK OF NOVA SCOTIA as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{THE BANK OF NOVA SCOTIA as a Lender Entity => By: [[THE BANK OF NOVA SCOTIA as a Lender Signatory First Name]] [[THE BANK OF NOVA SCOTIA as a Lender Signatory Last Name]]
-Title: [[THE BANK OF NOVA SCOTIA as a Lender Signatory Title]]}}
-
-
-\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc.
+**Newport Corporation** 
+[[Address 3: Address]]  
+**Richard S. Post, Ph.D.** 
+[[Address 4: Address]]  
+**Enterprise Partners V, L.P. and** 
+**Enterprise Partners VI, L.P.** 
+[[Address 5: Address]]  
+**Sigma Partners 6, L.P.** 
+**Sigma Associates 6, L.P.** 
+**Sigma Investors 6, L.P.** 
+[[Address 6: Address]] 
+ 

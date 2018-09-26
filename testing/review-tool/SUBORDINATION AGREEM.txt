@@ -1,129 +1,139 @@
-\centered **SUBORDINATION AGREEMENT**
+\centered SUBORDINATION AGREEMENT (MORTGAGE) 
 
-\centered **Laird Q. Cagan**  
+NOTICE: THIS SUBORDINATION AGREEMENT RESULTS IN YOUR SECURITY INTEREST IN THE REAL PROPERTY DESCRIBED HEREIN BECOMING SUBJECT TO AND OF LOWER PRIORITY THAN THE LIEN OF SOME OTHER OR LATER SECURITY INSTRUMENT. 
 
-THIS SUBORDINATION AGREEMENT (this “**Agreement**”), dated as of [[Date 1: Date]] is entered into among LAIRD Q. CAGAN, an individual with an address of 200 Alamos Road, Portola Valley, California 94028 (“**Junior Creditor**”), AE BIOFUELS, INC., a Nevada corporation (“**AEB**”), AE ADVANCED FUELS KEYES, INC., a Delaware corporation (“**AEAFK**,” and together with AEB, individually and collectively, the "**Company**") and THIRD EYE CAPITAL CORPORATION, as Agent (in such capacity (“ ;**Agent**”).
+THIS SUBORDINATION AGREEMENT (this “Agreement”) is entered into as of [[Date 1: Date]], by and among [[Mortgagee]], a [[State of Formation: State]] [[Organization: EntityType]], the present holder of the Subordinated Mortgage defined below (“Mortgagee”), and WELLS FARGO BANK, NATIONAL ASSOCIATION (“Bank”). 
 
-**WHEREAS**, AEB and/or its wholly owned subsidiary, International Biodiesel, Inc., are indebted to Junior Creditor pursuant to a Revolving Line of Credit, dated [[Date 2: Date]] which is secured by a lien on all assets of AEB pursuant to a Security Agreement, dated [[Date 2]];
+\centered RECITALS 
 
-**WHEREAS**, AEB has entered into that certain Note and Warrant Purchase Agreement, dated as of [[Date 3: Date]] with Agent and the Purchasers a party thereto (as amended, supplemented or otherwise modified from time to time, the “**AEB Purchase Agreement**”) pursuant to which the Purchasers a party thereto have made loans and other financial accommodations to AEB;
+^Sylvan Holdings granted Bank that certain Mortgage, Security Agreement, Fixture Financing Statement and Assignment of Leases and Rents dated [[Date 2: Date]], and recorded in the office of the County Recorder for Stearns County, Minnesota on [[Date 3: Date]], as Document No. 1169890 which was assumed (as mortgagor) by Mortgagee under a Consent and Assumption Agreement dated [[Date 4: Date]] recorded in the office of the County Recorder for Stearns County, Minnesota on [[Date 5: Date]], as Document No. 1207487 and is being assumed (as mortgagor) by Owner under a Consent and Assumption Agreement dated on or about there date hereof and is being amended by a Modification of Third-Party Mortgage, Security Agreement, Fixture Financing Statement and Assignment of Leases and Rents dated on or about the date hereof, as the same may be amended, restated or replaced from time to time (collectively, the “Bank Mortgage”), to secure repayment of a loan evidenced by a promissory note by Borrower dated as of [[Date 2]], in the principal amount of $[[USD Value 1: Number]] to Bank as amended (the “Bank Loan”) which Bank Mortgage covers the real property described on Exhibit A attached hereto and incorporated herein by this reference (the “Property”). 
 
-**WHEREAS**, AEAFK has entered into that certain Note Purchase Agreement, dated as of [[Date 4: Date]] with Agent and the Purchasers a party thereto (as amended, supplemented or otherwise modified from time to time, the “**AEAFK Purchase Agreement,**” and together with the AEB Purchase Agreement, collectively, the “**Purchase Agreements**”) pursuant to which the Purchasers a party thereto have made loans and other financial accommodations to AEAFK;
+^Owner has assumed certain obligations to Mortgagee under a Performance of Loan Obligations and Indemnity Agreement which obligations are or will be secured by a Mortgage, Security Agreement and Assignment of Leases and Rents dated on or about the date hereof covering the Property (the “Subordinated Mortgage”). 
 
-**WHEREAS**, the AEB Purchase Agreement is secured by a first priority security interest in all working capital assets of AEB, and the AEAFK Purchase Agreement is secured by a first priority security interest in all assets of AEAFK, and all collateral and guarantees for the Purchase Agreements are cross-collateralized, cross-secured and cross-defaulted;
+^It is a condition of Bank continuing the Bank Loan that the security of the Bank Mortgage be and at all times remain a lien or charge on the Property prior and superior to the lien or charge of the Subordinated Mortgage. 
 
-**WHEREAS**, AEB has requested that Agent and Purchasers consent to further modifications and waivers under the AEB Purchase Agreement; and
+^Under the Mortgage, Bank’s consent is required for the Subordinated Mortgage to be granted and recorded and Bank so consents on condition that this Agreement be executed and recorded. 
 
-**WHEREAS**, it is a condition to Agent and Purchasers entering into the AEAFK Purchase Agreement and granting the modifications and waivers to the AEB Purchase Agreement that the Company and Junior Creditor execute and deliver this Agreement to evidence the subordination of all obligations of the Company to Junior Creditor to all obligations of the Company to Agent and Purchasers and to set forth the relative priorities of any liens in any assets of the Company and its subsidiaries securing such obligations, as more fully set forth below;
+NOW, THEREFORE, for valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agrees as follows: 
 
-**NOW, THEREFORE**, for good and valuable consideration, receipt whereof is hereby acknowledged, the undersigned agrees as follows:
+^SUBORDINATION. 
 
-^All obligations of the Company, howsoever created, arising or evidenced, whether direct or indirect, absolute or contingent, now or hereafter existing, or due or to become due, are called "**Liabilities**". All Liabilities of the Company to Agent and/or Purchasers under or in connection with the Purchase Agreements are called "**Senior Liabilities**"; and all Liabilities of the Company to Junior Creditor are called "**Junior Liabilities**"; it being expressly understood and agreed that the term "Senior L iabilities," as used herein, shall include, without limitation, any and all interest accruing on any of the Senior Liabilities after the commencement of any proceedings referred to in Section 4, notwithstanding any provision or rule of law which might restrict the rights of Agent and/or Purchasers, as against the Company or anyone else, to collect such interest.
+^^Subordination. The Bank Mortgage and any and all extensions, renewals, modifications or replacements thereof shall be and at all times remain a lien or charge on the Property prior and superior to the Subordinated Mortgage. Mortgagee intentionally and unconditionally waives, relinquishes and subordinates the priority and superiority of the lien or charge of the Subordinated Mortgage to the lien or charge on the Property of the Bank Mortgage (including liens and charges thereunder securing all future advances of the Bank Loan and other advances contemplated thereunder). 
 
-^Notwithstanding any financing statements or other instruments perfecting liens securing any of the Junior Liabilities, the Agent’s liens and security interests in any and all assets of the Company and any of its subsidiaries and affiliates (collectively, the “**Collateral**”), shall at all times be prior and senior to each and every lien and security interest in any such Collateral held by Junior Creditor or otherwise securing the Junior Liabilities regardless of the time, manner or order of perfection or attachment of any such security interest or other lien, the time or order of the filing of any financing statemen t or any other matter whatsoever, and whether any such security interest or other lien of Agent or any Purchaser is set aside, avoided or unperfected, and Junior Creditor hereby expressly subordinates all of its liens and security interests on any Collateral securing the Junior Liabilities to each and every lien and security interest in the Collateral now or hereafter held by Agent. In furtherance of the foregoing, the Junior Creditor agrees not to contest the validity, perfection, priority or enforceability of the Senior Liabilities or any of the documents evidencing such Senior Liabilities or any collateral securing such Senior Liabilities, or, without the prior written consent of Agent, take any action to perfect any security interest in or other lien on any Collateral. In the event that Agent releases or agrees to release any security interest or other lien in any such Collateral in connection with the sale or other disposition thereof or any such Collateral is sold, disposed of or retained pursuant to a foreclosure or similar action, the Junior Creditor shall promptly deliver or execute and deliver (as appropriate) such termination statements and releases as Agent shall request to release any security interest or other lien of the Junior Creditor covering any of such Collateral that is the subject of such release, sale, disposition or retention. In furtherance of the foregoing, the Junior Creditor hereby appoints Agent as attorney-in-fact for Junior Creditor, with full authority in the place and stead of Junior Creditor and in the name of Junior Creditor or otherwise, to deliver or execute and deliver (as appropriate) any document, agreement, instrument or other writing which the Junior Creditor may be requested to deliver pursuant to this Section 2. Agent shall have the exclusive right as to the exercise and enforcement of all privileges and rights with respect to the Collateral in its sole discretion, including, without limitation, the exclusive right to take or retake co ntrol or possession of such Collateral and to hold, prepare for sale, process, sell, lease, dispose of, or liquidate such Collateral or settle or adjust insurance claims with respect thereto.
+^^Reliance. Mortgagee acknowledges that Bank, in continuing to extend credit secured by the Property, including the Bank Loan, is doing so in material reliance on this Agreement. 
 
-^Except as expressly otherwise provided herein or as Agent and Purchasers may hereafter otherwise expressly consent in writing, the payment of all Junior Liabilities shall be postponed and subordinated to the payment in full in cash of all Senior Liabilities, and no payment or other distribution whatsoever in respect of any Junior Liabilities shall be made, nor shall any property or assets of any Company be applied to the purchase or other acquisition or retirement of any Junior Liabilities until all Senior Liabilities have been paid in full in cash **provided** that there are excepted from the terms of the foregoing provisions of this Section 3 those payments to the undersigned by the Company that are listed as exceptions on **Schedule I** hereto. Except as expressly permitted under **Schedule I**, each of the Company and the Junior Creditor agree that until all Senior Liabilities are indefeasibly paid in full in cash to Agent and Purchasers, neither Company nor any of its subsidiaries or affiliates shall, directly or indirectly, make any payment of any Junior Liabilities and that no Collateral or guarantees or proceeds thereof will be enforced or applied to any Junior Liabilities, except in favor of Agent and Purchasers as provided herein or as expressly permitted under this Agreement.
+^^Acknowledgments of Mortgagee. Mortgagee acknowledges that it has such information with respect to the Bank Loan, and any promissory note and other loan documents executed in connection therewith, as Mortgagee deems necessary in order to grant this subordination. 
 
-^The Junior Creditor shall not take any Enforcement Action with respect to any Junior Liabilities, the Company, its subsidiaries and affiliates or any of the obligors of the Junior Liabilities or the Collateral until the Senior Liabilities have been indefeasibly paid in full in cash and the Purchase Agreement has been terminated. “Enforcement Action” shall mean any action, whether legal, equitable, judicial, non-judicial or otherwise, to collect or receive any amounts under or with respect to the Junior Liabilities or to enforce or realize upon any lien, security interest, restriction, encumbrance, charge, claim, right or other interest or arrangement now or in the future existing, including, without limitation, any repossession, foreclosure, public sale, private sale, collection, receipt, obtaining of a receiver or retention of all or any part of amounts paid pursuant to the Junior Liabilities or the Collateral, or any acceleration of the Junior Liabilities or the exercise or enforcement of any other right, power or remedy with respect to the Junior Liabilities or the Collateral.
+^^Entire Agreement. This Agreement constitutes the whole and only agreement between the parties hereto with regard to the subordination of the Subordinated Mortgage to the lien or charge of the Bank Mortgage; there are no agreements (written or oral) outside or separate from this Agreement with respect to the subject matter hereof; and all prior negotiations with respect thereto, if any, are merged into this Agreement. This Agreement shall supersede and cancel, but only insofar as would affect the priority between the Subordinated Mortgage and the Bank Mortgage, any prior agreements as to such subordination, including without limitation those provisions, if any, contained in the Subordinated Mortgage which provide for the subordination thereof to the lien of a deed of trust or mortgage affecting all or any portion of the Property. 
 
-^Junior Creditor and the Company will, from time to time, (a) promptly notify Agent and Purchasers of the creation of any Junior Liabilities of the Company, and of the issuance of any promissory note or other instrument to evidence any Junior Liabilities, and (b) upon request by Agent and Purchasers, cause any Junior Liabilities which are not evidenced by a promissory note or other instrument of any Company to be so evidenced.
+^MISCELLANEOUS. 
 
-^In the event of any dissolution, winding up, liquidation, reorganization or other similar proceeding relating to any Company or to its creditors, as such, or to its property (whether voluntary or involuntary, partial or complete, and whether in bankruptcy, insolvency or receivership, or upon an assignment for the benefit of creditors, or any other marshalling of the assets and liabilities of any Company, or any sale of all or substantially all of the assets of any Company, or otherwise), all Senior Liabilities shall first be paid in full in cash before the undersigned shall be entitled to receive and to retain any payment or distribution in respect of any of the Junior Liabilities, and, in orde r to implement the foregoing:
+^^Notices. All notices, requests and demands which any party is required or may desire to give to any other party under any provision of this Agreement must be in writing delivered to each party at the address set forth below its signature, or to such other address as any party may designate by written notice to all other parties. Each such notice, request and demand shall be deemed given or made as follows: (i) if sent by hand delivery, upon delivery; (ii) if sent by mail, upon the earlier of the date of receipt or three (3) days after deposit in the U.S. mail, first class and postage prepaid; and (iii) if sent by telecopy, upon receipt. 
 
-^^all payments and distributions of any kind or character in respect of the Junior Liabilities to which the undersigned would be entitled if the Junior Liabilities were not subordinated pursuant to this Agreement shall be made directly to Agent and Purchasers until all Senior Liabilities shall first be paid in full,
+^^Costs, Expenses and Attorneys’ Fees. If any party hereto institutes any arbitration or judicial or administrative action or proceeding to enforce any provisions of this Agreement, or alleging any breach of any provision hereof or seeking damages or any remedy, the losing party or parties shall pay to the prevailing party or parties all costs and expenses, including reasonable attorneys’ fees (to include outside counsel fees and all allocated costs of such prevailing party’s in-house counsel), expended or incurred by the prevailing party or parties in connection therewith, whether incurred at the trial or appellate level, in an arbitration proceeding or otherwise, and including any of the foregoing incurred in connection with any bankruptcy proceeding (including without limitation, any adversary proceeding, contested matter or motion brought by Bank or any other person) relating to Owner, Mortgagee or any other person or entity. 
 
-^^the undersigned shall promptly file a claim or claims, in the form required in such proceeding, for the full outstanding amount of the Junior Liabilities, and shall cause said claim or claims to be approved and all payments and other distributions in respect thereof to be made directly to Agent and Purchasers until all Senior Liabilities shall first be paid in full, and
+^^Further Assurances. At the request of any party hereto, each other party shall execute, acknowledge and deliver such other documents and/or instruments as may be reasonably required by the requesting party in order to carry out the purpose of this Agreement, provided that no such document or instrument shall modify the rights and obligations of the parties set forth herein. 
 
-^^the undersigned hereby irrevocably agrees that Agent and Purchasers may, at its sole discretion, in the name of the undersigned or otherwise, demand, sue for, collect, receive and receipt for any and all such payments or distributions, and file and prove, and vote or consent in any such proceedings with respect to, any and all claims of the undersigned relating to the Junior Liabilities until all Senior Liabilities shall first be paid in full.
+^^Successors; Assigns; Amendment. This Agreement shall be binding upon and inure to the benefit of the heirs, executors, administrators, legal representatives, successors and assigns of the parties. This Agreement may be amended or modified only in writing signed by all parties hereto. 
 
-^In the event that the undersigned receives any payment or other distribution of any kind or character from any Company or from any other source whatsoever in respect of any of the Junior Liabilities, other than as expressly permitted by the terms of this Agreement, such payment or other distribution shall be received in trust for Agent and Purchasers and promptly turned over by the undersigned to Agent and Purchasers. The undersigned will cause to be clearly inserted in any promissory note or other instrument which at any time evidences any of the Junior Liabilities a statement to the effect that the payment thereof is subordinated in accordance with the terms of this Agreement. ; The undersigned will execute such further documents or instruments and take such further action as Agent and Purchasers may reasonably from time to time request to carry out the intent of this Agreement.
+^^Severability of Provisions. If any provision of this Agreement shall be held to be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such waiver or other provision or any remaining provisions of this Agreement. 
 
-^All payments and distributions received by Agent and Purchasers in respect of the Junior Liabilities, to the extent received in or converted into cash, may be applied by Agent and Purchasers first to the payment of any and all expenses (including reasonable attorneys' fees and legal expenses) paid or incurred by Agent and Purchasers in enforcing this Agreement or in endeavoring to collect or realize upon any of the Junior Liabilities or any security therefor, and any balance thereof shall be applied by Agent and Purchasers, in such order of application as Agent and Purchasers may from time to time select, toward the payment of the Senior Liabilities remaining unpaid; but, as between the Company and its creditors, no such payment or distribution of any kind or character shall be deemed to be a payment or distribution in respect of the Senior Liabilities; and, notwithstanding any such payment or distribution received by Agent and Purchasers in respect of the Junior Liabilities and so applied by Agent and Purchasers toward the payment of the Senior Liabilities, the undersigned shall be subrogated to the then existing rights of Agent and Purchasers in respect of the Senior Liabilities only at such time as this Agreement shall have been discounted and the Senior Liabilities shall have been finally paid in full in cash.
+^^Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute and be construed as one and the same instrument. 
 
-^The undersigned hereby waives:  
-^^notice of acceptance by Agent and Purchasers of this Agreement;
+^^Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota. 
 
-^^notice of the existence or creation or non-payment of all or any of the Senior Liabilities; and
+\centered [The remainder of this page is intentionally blank. Signature page follows.] 
 
-^^all diligence in collection or protection of or realization upon the Senior Liabilities or any thereof or any security therefor.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. 
 
-^The undersigned will not without the prior written consent of Agent and Purchasers:
+**BANK:** 
 
-^^cancel, waive, forgive, transfer or assign, or attempt to enforce or collect, or subordinate to any Liabilities other than the Senior Liabilities, any Junior Liabilities or any rights in respect thereof;
+**WELLS FARGO BANK, NATIONAL ASSOCIATION** 
 
-^^convert any Junior Liabilities into stock or other equity interests; or
-
-^^commence, or join with any other creditor in commencing, any bankruptcy, reorganization or insolvency proceeding with respect to any Company.
-
-^This Agreement shall in all respects be a continuing agreement and shall remain in full force and effect (notwithstanding, without limitation, the dissolution of the undersigned or that at any time or from time to time all Senior Liabilities may have been paid in full) until all Senior Liabilities shall have been finally paid in full in cash and all commitments under and as defined in the Purchase Agreement shall have terminated.
-
-^Agent and Purchasers may, from time to time, at its sole discretion and without notice to the undersigned take any or all of the following actions:
-
-^^retain or obtain security interest in any property to secure any of the Senior Liabilities,
-
-^^retain or obtain the primary or secondary obligation of any other obligor or obligors with respect to any of the Senior Liabilities,
-
-^^extend or renew for one or more periods (whether or not longer than the original period), alter or exchange any of the Senior Liabilities, or release or compromise any obligation of any nature of any obligor with respect to any of the Senior Liabilities, and
-
-^^release its security interest in, or surrender, release or permit any substitution or exchange for, all or any part of any property securing any of the Senior Liabilities, or extend or renew for one or more periods (whether or not longer than the original period) or release, compromise, alter or exchange any obligation of any nature of any obligor with respect to any such property.
-
-^Agent and Purchasers may, from time to time, without notice to the undersigned, assign or transfer its interest in any or all of the Senior Liabilities; and, notwithstanding any such assignment or transfer or any subsequent assignment or transfer thereof, such Senior Liabilities shall be and remain Senior Liabilities for the purposes of this Agreement, and every immediate and successive assignee or transferee of any of the Senior Liabilities or of any interest therein shall, to the extent of the interest of such assignee or transferee in the Senior Liabilities, be entitled to the benefits of this Agreement to the same extent as the applicable assignor or transferor.
-
-^Agent and Purchasers shall not be prejudiced in its rights under this Agreement by any act or failure to act of the Company or the undersigned, or any noncompliance of the Company or the undersigned with any agreement or obligation, regardless of any knowledge thereof which Agent and Purchasers may have or with which Agent and Purchasers may be charged; and no action of Agent and Purchasers permitted hereunder shall in any way affect or impair the rights of Agent and Purchasers and the obligations of Junior Creditor or any Company under this Agreement.
-
-^No delay on the part of Agent and Purchasers in the exercise of any right or remedy shall operate as a waiver thereof, and no single or partial exercise by Agent and Purchasers of any right or remedy shall preclude other or further exercise thereof or the exercise of any other right or remedy; nor shall any modification or waiver of any provision of this Agreement be binding upon Agent and Purchasers except as expressly set forth in a writing duly signed and delivered on behalf of Agent and Purchasers.
-
-^This Agreement shall be binding upon the undersigned and upon the successors and assigns of the undersigned; and all references herein to the Company and to Junior Creditor, respectively, shall be deemed to include their respective heirs, successors or assigns.
-
-^This Agreement shall be construed in accordance with and governed by the laws of the State of New York. Wherever possible each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement shall be prohibited by or invalid under such law, such provision shall be ineffective to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement.
-
-^The undersigned (and, by accepting the benefits hereof, Agent and Purchasers) expressly waive any right to a trial by jury in any action or proceeding to enforce or defend any rights under this Agreement or under any amendment, instrument, document or agreement delivered or which may in the future be delivered in connection herewith or arising from any banking relationship existing in connection with this Agreement and agree that any such action or proceeding shall be tried before a court and not before a jury.
-
-**IN WITNESS WHEREOF**, the undersigned have executed this Agreement as of the date first above written.
-
-**JUNIOR CREDITOR:**
-
-[[JUNIOR CREDITOR Signatory Email: Identity | Signature]]
+[[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Email: Identity | Signature]]
 __________________________________________
-{{JUNIOR CREDITOR Entity => By: [[JUNIOR CREDITOR Signatory First Name]] [[JUNIOR CREDITOR Signatory Last Name]]
-Title: [[JUNIOR CREDITOR Signatory Title]]}}
+{{WELLS FARGO BANK NATIONAL ASSOCIATION Entity => By: [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory First Name]] [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Last Name]]
+Title: [[WELLS FARGO BANK NATIONAL ASSOCIATION Signatory Title]]}}
 
-LAIRD Q. CAGAN
 
-**COMPANY:**
+Address: St. Cloud Office
 
-**AE BIOFUELS, INC.**
+P.O. Box 967 
 
-[[AE BIOFUELS INC. Signatory Email: Identity | Signature]]
+400 South First Street 
+
+St. Cloud, MN 56302-0967 
+
+Attn: Todd Mather 
+
+\centered 
+
+STATE OF MINNESOTA     ) ) *ss*  
+
+COUNTY OF Sterns) 
+
+The foregoing instrument was acknowledged before me this [[Date 6: Date]] by Roxanne Muehebauer, the Assistant Vice President of Wells Fargo Bank, National Association, a national banking association, on behalf of the association. 
+
+/s/ Nancy L. Spaeth 
+
+Notary Public 
+
+**OWNER:** 
+
+[[Party 2]],** 
+
+^^Delaware limited liability company 
+
+[[A Delaware limited liability company Signatory Email: Identity | Signature]]
 __________________________________________
-{{AE BIOFUELS INC. Entity => By: [[AE BIOFUELS INC. Signatory First Name]] [[AE BIOFUELS INC. Signatory Last Name]]
-Title: [[AE BIOFUELS INC. Signatory Title]]}}
+{{A Delaware limited liability company Entity => By: [[A Delaware limited liability company Signatory First Name]] [[A Delaware limited liability company Signatory Last Name]]
+Title: [[A Delaware limited liability company Signatory Title]]}}
 
-CEO
 
-**AE ADVANCED FUELS KEYES, INC.**
+Address: c/o Grubb & Ellis Equity Advisors 
 
-[[AE ADVANCED FUELS KEYES INC. Signatory Email: Identity | Signature]]
+[[Address 1: Address]] 
+
+Attn: Danny Prosky 
+
+\centered 
+
+STATE OF CALIFORNIA     ) ) *ss* COUNTY OF ORANGE     )  
+
+The foregoing instrument was acknowledged before me this [[Date 7: Date]] by Danny Prosky in his capacity as the Authorized Signatory of [[Party 2]], a Delaware limited liability company. 
+
+/s/ P.C. Han 
+
+Notary Public 
+
+**MORTGAGEE:** 
+
+**STINGRAY PROPERTIES,** 
+
+^^Minnesota limited liability company 
+
+[[A Minnesota limited liability company Signatory Email: Identity | Signature]]
 __________________________________________
-{{AE ADVANCED FUELS KEYES INC. Entity => By: [[AE ADVANCED FUELS KEYES INC. Signatory First Name]] [[AE ADVANCED FUELS KEYES INC. Signatory Last Name]]
-Title: [[AE ADVANCED FUELS KEYES INC. Signatory Title]]}}
+{{A Minnesota limited liability company Entity => By: [[A Minnesota limited liability company Signatory First Name]] [[A Minnesota limited liability company Signatory Last Name]]
+Title: [[A Minnesota limited liability company Signatory Title]]}}
 
-CEO
 
-**AGENT:**
+Address: 697 Saukview Drive St. Cloud, MN 56303  
 
-**THIRD EYE CAPITAL CORPORATION**
+\centered 
 
-[[THIRD EYE CAPITAL CORPORATION Signatory Email: Identity | Signature]]
-__________________________________________
-{{THIRD EYE CAPITAL CORPORATION Entity => By: [[THIRD EYE CAPITAL CORPORATION Signatory First Name]] [[THIRD EYE CAPITAL CORPORATION Signatory Last Name]]
-Title: [[THIRD EYE CAPITAL CORPORATION Signatory Title]]}}
+STATE OF MINNESOTA     ) ) *ss* COUNTY OF STEARNS     )  
 
-Arif N,. Bhalwani
-Managing Director
+The foregoing instrument was acknowledged before me this [[Date 8: Date]] by Gary W. Verkinnes in his capacity as the Chief Manager of Stingray Properties, a Minnesota limited liability company.  
 
-\centered **SCHEDULE I**
+/s/ Trudy M. Wiechmann 
 
-\centered **EXCEPTIONS**
+Notary Public 
 
-So long an no default or event of default has occurred and is continuing under the Purchase Agreement, Junior Creditor may receive regularly scheduled payments of interest at the non-default rate of interest.
+This Instrument was drafted by: 
+
+Nilsson Midness, P.A. 
+
+900 Flour Exchange Building 
+
+[[Address 2: Address]] 

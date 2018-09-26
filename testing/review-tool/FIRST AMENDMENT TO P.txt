@@ -1,243 +1,174 @@
-\centered FIRST AMENDMENT TO  PURCHASE AND SALE AGREEMENT 
+\centered **FIRST AMENDMENT TO PIPELINE SYSTEMS OPERATING AGREEMENT** 
 
-THIS FIRST AMENDMENT TO PURCHASE AND SALE AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is entered into among the VARIOUS ORIGINATORS PARTY TO THE AGREEMENT (as defined below) (each an “Originator”; and collectively, the “Originators”), and ARCH COAL, INC., (the “Company”). 
+**THIS FIRST AMENDMENT TO PIPELINE SYSTEMS OPERATING AGREEMENT** (this “Amendment”) is made and entered into as of this [[Date 1: Date]] by and among [[Navajo Refining]], a [[State of Formation: State]] [[Organization: EntityType]] (“Navajo Refining”), [[Party 2]] Company, a [[State of Formation: State]] [[Organization: EntityType]] (“[[Party 2]]”), [[Party 3]] Company, L.L.C., a [[State of Formation: State]] [[Organization: EntityType]] (“[[Party 3]]”), [[Holly Entities]], a [[State of Formation: State]] [[Organization: EntityType]] (“Holly Refining Tulsa” and, together with Navajo Refining, [[Party 2]], and [[Party 3]], the “Holly Entities”), and Holly Energy PartnersOperating, L.P., a Delaware limited partnership (“Operator”). Each of the Holly Entities and the Operator are sometimes individually referred to herein as a “Party” and collectively as the “Parties.” 
 
-\centered RECITALS 
+**WHEREAS**, the Parties entered into that certain Pipeline Systems Operating Agreement on [[Date 2: Date]], to be effective as of [[Date 3: Date]] (the “Agreement”), and now desire to amend certain provisions of such Agreement, as set forth herein in connection with the acquisition of certain assets by certain of the subsidiaries of Operator from certain of the Holly Entities. Capitalized terms used, but not defined, herein shall have the meanings given to them in the Agreement. 
 
-^The parties hereto are parties to the Purchase and Sale Agreement, dated as of [[Date 2: Date]] (as amended, restated, supplemented or otherwise modified through the date hereof, the “Agreement”); and 
+**NOW**, **THEREFORE**, in consideration of the foregoing recitals and the agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto, intending to be legally bound, do hereby agree as follows: 
 
-^The parties hereto desire to amend the Agreement as hereinafter set forth. 
+^Amendment to Exhibit A. Exhibit A is hereby amended and restated in its entirety as set forth on Exhibit A-1 hereto. 
 
-NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
+^Amendment to Exhibit B. Exhibit B is hereby amended and restated in its entirety as set forth on Exhibit B-1 hereto. 
 
-SECTION 1.  *Certain Defined Terms*. Capitalized terms that are used but not defined herein shall have the meanings set forth in the Agreement. 
+^No Further Amendment; Miscellaneous. Except as amended hereby, all of the terms and conditions of the Agreement shall remain in full force and effect. The “General Conditions; Miscellaneous” provisions set forth in Sections 13.1, 13.2, 13.3, 13.4, 13.5, 13.8, 13.12, 13.13, 13.15, and 13.16 of the Agreement, are hereby incorporated herein by reference. 
 
-SECTION 2.  *Amendments to the Agreement*.  
-
-^^Each reference in the Agreement to the defined term the “Closing Date” shall be deemed to be a reference to “[[Date 3: Date]]”. 
-
-^^Section 5.10 of the Agreement is hereby amended by inserting at the end thereof the following new sentence: 
-
-Each such financing statement, if filed as an as-extracted collateral filing, includes a complete and correct description of the real property related to such collateral, as contemplated by the UCC, and names the record owner of the real property. 
-
-^^The following new Section 5.22 is added to the Agreement immediately following existing Section 5.21: 
-
-^Location of Mining Operations. The location of each Originator’s mining operations and names of each minehead relating thereto are as set forth on  Schedule V hereto. 
-
-^^Section 6.1(i) of the Agreement is replaced in its entirety with the following: 
-
-^^Data Records. Place and maintain on its summary master control data processing records the following legend (or the substantive equivalent thereof): “THE RECEIVABLES DESCRIBED HEREIN HAVE BEEN SOLD TO ARCH COAL, INC. PURSUANT TO A PURCHASE AND SALE 
+\centered [S*ignature Page Follows*] 
 
 ^^^^^ 
-AGREEMENT, DATED AS OF FEBRUARY 3, 2006, BETWEEN THE ORIGINATORS NAMED THEREIN AND ARCH COAL, INC.; AND AN INTEREST IN THE RECEIVABLES DESCRIBED HEREIN HAS BEEN GRANTED TO PNC BANK, NATIONAL ASSOCIATION, FOR THE BENEFIT OF THE PURCHASERS UNDER THE AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT, DATED AS OF FEBRUARY 24, 2010, BY AND AMONG ARCH RECEIVABLE COMPANY, ARCH COAL SALES COMPANY, INC., THE VARIOUS CONDUIT PURCHASERS, RELATED COMMITTED PURCHASERS, LC PARTICIPANTS AND PURCHASER AGENTS FROM TIME TO TIME PARTY THERETO AND PNC BANK, NATIONAL ASSOCIATION, AS ADMINISTRATOR AND AS LC BANK.” 
+IN WITNESS WHEREOF, the Parties hereto have executed this First Amendment to Pipeline Systems Operating Agreement as of the date first above written. 
 
-^^The following new Section 6.1(j) is added to the Agreement immediately following existing Section 6.1(i): 
-
-^^Mining Operations and Mineheads. The Company shall (and shall cause each applicable Originator to) promptly, and in any event within 30 days of any change, deletion or addition to the location of any Originator’s mining operations or mineheads set forth on Schedule V hereto, (i) notify the Administrator and each Purchaser Agent of such change, deletion or addition, (ii) cause the filing or recording of such financing statements and amendments and/or releases to financing statements, mortgages or other instruments, if any, necessary to preserve and maintain the perfection and priority of the security interest of the Transferor, Seller and Administrator (for the benefit of the Purchasers) in the Pool Assets pursuant to this Agreement, in each case in form and substance satisfactory to the Administrator and (iii) deliver to the Administrator and each Purchaser Agent an updated Schedule V hereto reflecting such change, deletion or addition; it being understood that no Receivable, the related location of mining operations and/or mineheads of which is not as set forth on Schedule V hereto as of such date of determination shall be an Eligible Receivable until such time as each condition under this clause (j) shall have been satisfied (and upon such satisfaction, this Agreement shall be deemed amended to reflect such updated Schedule V hereto). 
-
-^^The following new Section 6.1(k) is added to the Agreement immediately following new Section 6.1(j): 
-
-Additional Mortgages Under Credit Agreement. The Company shall (and shall cause each applicable Originator to) (x) provide written notice promptly, and in any event within 30 days, to the Seller, the Administrator and each Purchaser Agent of each new Mortgage or amendment or modification of an existing Mortgage under the Credit Agreement covering as-extracted collateral, (y) cause to be delivered to the Administrator a letter, in form and substance satisfactory to the Administrator, addressed to the Administrator and duly executed by the related grantee or beneficiary releasing such party’s security interest, lien or other rights under such new Mortgage or amended or modified Mortgage in the Receivables, Contracts and Related Security subject thereto and (z) file or record 
-
-^^^^^ 
-all amendments and/or releases to such new, amended or modified Mortgages necessary to release and remove of record any such security interest, lien or other interest of the related grantee or beneficiary in the Receivables, Contracts and Related Security, in each case in form and substance satisfactory to the Administrator. 
-
-^^Schedule I of the Agreement is replaced in its entirety with Schedule I attached hereto. 
-
-^^Schedule V attached hereto is added to the Agreement as Schedule V thereto, immediately following existing Schedule IV. 
-
-^^The parties hereto hereby agree that on and after the date hereof, each of Arch of Wyoming, Ashland Terminal, Inc., Catenary Coal Holdings, Inc., Mountain Mining, Inc. and Triton Coal Company (collectively, the “Released Originators”) shall no longer be a party to the Agreement or any other Transaction Document and no Released Originator shall have any rights or obligations thereunder (other than such obligations which by their express terms survive termination of the Agreement). 
-
-SECTION 3.  *Representations and Warranties*. Each of the Originators hereby represents and warrants as follows: 
-
-^^Representations and Warranties. The representations and warranties made by it in the Transaction Documents are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date). 
-
-^^Enforceability. The execution and delivery by such Person of this Amendment, and the performance of each of its obligations under this Amendment and the Agreement, as amended hereby, are within each of its corporate powers and have been duly authorized by all necessary organizational action on its part. This Amendment and the Agreement, as amended hereby, are such Person’s valid and legally binding obligations, enforceable in accordance with their respective terms. 
-
-^^No Default. Both before and immediately after giving effect to this Amendment and the transactions contemplated hereby, no Purchase and Sale Termination Event, Unmatured Purchase and Sale Termination Event, Termination Event or Unmatured Termination Event exists or shall exist. 
-
-SECTION 4.  *Effect of Amendment*. All provisions of the Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Agreement (or in any other Transaction Document) to “this Agreement”, “hereof”, “herein” or words of similar effect referring to the Agreement shall be deemed to be references to the Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Agreement other than as set forth herein. 
-
-^^^^^ 
-^*Effectiveness*. This Amendment shall become effective as of the date hereof upon receipt by the Administrator of duly executed counterparts of this Amendment. 
-
-SECTION 6.  *Counterparts*. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof. 
-
-SECTION 7.  *Governing Law*. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of New York. 
-
-SECTION 8.  *Section Headings*. The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Agreement or any provision hereof or thereof. 
-
-\centered *[Signatures begin on next page]* 
-
-^^^^^ 
-IN WITNESS WHEREOF, the parties have caused this First Amendment to Purchase and Sale Agreement to be executed by their respective officers thereunto duly authorized as of the date first above written. 
-
-ARCH COAL, INC.
-[[ARCH COAL INC. Signatory Email: Identity | Signature]]
+**OPERATOR:**   HOLLY ENERGY PARTNERS-OPERATING, L.P.
+[[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Email: Identity | Signature]]
 __________________________________________
-{{ARCH COAL INC. Entity => By: [[ARCH COAL INC. Signatory First Name]] [[ARCH COAL INC. Signatory Last Name]]
-Title: [[ARCH COAL INC. Signatory Title]]}}
+{{OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Entity => By: [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory First Name]] [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Last Name]]
+Title: [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Title]]}}
 
+David G. Blair
+Senior Vice President
 
-*First Amendment to PSA (Arch Coal)*  
+**HOLLY ENTITIES:**   [[Navajo Refining]]
+[[HOLLY ENTITIES   Navajo Refining Signatory Email: Identity | Signature]]
+__________________________________________
+{{HOLLY ENTITIES   Navajo Refining Entity => By: [[HOLLY ENTITIES   Navajo Refining Signatory First Name]] [[HOLLY ENTITIES   Navajo Refining Signatory Last Name]]
+Title: [[HOLLY ENTITIES   Navajo Refining Signatory Title]]}}
 
-\centered S-1 
+David L. Lamp
+Executive Vice President
+
+[[Party 2]] COMPANY
+[[Party 2 COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 COMPANY Entity => By: [[Party 2 COMPANY Signatory First Name]] [[Party 2 COMPANY Signatory Last Name]]
+Title: [[Party 2 COMPANY Signatory Title]]}}
+
+David L. Lamp
+Vice President
+
+[[Party 3]] COMPANY, L.L.C.
+[[Party 3 COMPANY L.L.C. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 COMPANY L.L.C. Entity => By: [[Party 3 COMPANY L.L.C. Signatory First Name]] [[Party 3 COMPANY L.L.C. Signatory Last Name]]
+Title: [[Party 3 COMPANY L.L.C. Signatory Title]]}}
+
+David L. Lamp
+President
+
+\centered Signature Page 1 of 1 to First Amendment to Pipeline Systems Operating Agreement 
 
 ^^^^^ 
 
-ORIGINATORS:  ARCH COAL SALES COMPANY, INC., as an Originator
-[[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Email: Identity | Signature]]
+HOLLY REFINING & MARKETING  TULSA LLC
+[[HOLLY REFINING & MARKETING  TULSA LLC Signatory Email: Identity | Signature]]
 __________________________________________
-{{ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Entity => By: [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory First Name]] [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Last Name]]
-Title: [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Title]]}}
+{{HOLLY REFINING & MARKETING  TULSA LLC Entity => By: [[HOLLY REFINING & MARKETING  TULSA LLC Signatory First Name]] [[HOLLY REFINING & MARKETING  TULSA LLC Signatory Last Name]]
+Title: [[HOLLY REFINING & MARKETING  TULSA LLC Signatory Title]]}}
+
+David L. Lamp
+President
 
 
-ARCH COAL TERMINAL, INC., as an Originator
-[[ARCH COAL TERMINAL INC. as an Originator Signatory Email: Identity | Signature]]
+[[President Signatory Email: Identity | Signature]]
 __________________________________________
-{{ARCH COAL TERMINAL INC. as an Originator Entity => By: [[ARCH COAL TERMINAL INC. as an Originator Signatory First Name]] [[ARCH COAL TERMINAL INC. as an Originator Signatory Last Name]]
-Title: [[ARCH COAL TERMINAL INC. as an Originator Signatory Title]]}}
+{{President Entity => By: [[President Signatory First Name]] [[President Signatory Last Name]]
+Title: [[President Signatory Title]]}}
 
+David L. Lamp
+President
 
-ARCH ENERGY RESOURCES, as an Originator
-[[ARCH ENERGY RESOURCES as an Originator Signatory Email: Identity | Signature]]
+**ACKNOWLEDGED AND AGREED:**  HOLLY ENERGY PARTNERS, L.P.
+[[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Email: Identity | Signature]]
 __________________________________________
-{{ARCH ENERGY RESOURCES as an Originator Entity => By: [[ARCH ENERGY RESOURCES as an Originator Signatory First Name]] [[ARCH ENERGY RESOURCES as an Originator Signatory Last Name]]
-Title: [[ARCH ENERGY RESOURCES as an Originator Signatory Title]]}}
+{{ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Entity => By: [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory First Name]] [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Last Name]]
+Title: [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Title]]}}
 
 
-*First Amendment to PSA (Arch Coal)*  
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
 
-\centered S-2 
+
+[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
+
+David G. Blair
+President
+
+\centered Signature Page 2 of 2 to First Amendment to Pipeline Systems Operating Agreement 
 
 ^^^^^ 
+\centered **EXHIBIT A-1** 
 
-ARCH WESTERN RESOURCES, as an Originator
-[[ARCH WESTERN RESOURCES as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{ARCH WESTERN RESOURCES as an Originator Entity => By: [[ARCH WESTERN RESOURCES as an Originator Signatory First Name]] [[ARCH WESTERN RESOURCES as an Originator Signatory Last Name]]
-Title: [[ARCH WESTERN RESOURCES as an Originator Signatory Title]]}}
+\centered **Basic Description of Systems and Management Fee** 
 
+**Management Fee**   
+The Management Fee for 2009 will be the “Total Management Fee” as set forth in the table below and will be allocated among the Systems as set forth in the table below. 
 
-CANYON FUEL COMPANY, as an Originator
-[[CANYON FUEL COMPANY as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{CANYON FUEL COMPANY as an Originator Entity => By: [[CANYON FUEL COMPANY as an Originator Signatory First Name]] [[CANYON FUEL COMPANY as an Originator Signatory Last Name]]
-Title: [[CANYON FUEL COMPANY as an Originator Signatory Title]]}}
+**Systems**  
 
+**Amount of Management** **Owner of Asset**    **Fee Allocated to the Asset** **General Systems Management** N/A    $   150,000.00 **Insurance Reimbursement** N/A    $   15,000.00 **Artesia System** (None)    N/A       N/A **Lovington System** Ponderosa Junction to Lovington - LPG/Natural Gasoline Pipeline having a diameter of 8” and extending approximately 11 / miles and a diameter of 6” extending approximately 8 miles    [[Navajo Refining]]    $   0.00 **Woods Cross System** Woods Cross 12” Plains Crude Oil Delivery Pipeline extending approximately 700 feet    [[Party 3]] Company, L.L.C.    $   25,000.00 Woods Cross 6” Hydrogen Pipeline extending approximately 4 miles    [[Party 3]] Company, L.L.C.    $   25,000.00 **Total Management Fee:**    $   **215,000.00**  
 
-COAL-MAC, INC., as an Originator
-[[COAL-MAC INC. as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{COAL-MAC INC. as an Originator Entity => By: [[COAL-MAC INC. as an Originator Signatory First Name]] [[COAL-MAC INC. as an Originator Signatory Last Name]]
-Title: [[COAL-MAC INC. as an Originator Signatory Title]]}}
-
-
-*First Amendment to PSA (Arch Coal)*  
-
-\centered S-3 
+\centered Exhibit A-1 
 
 ^^^^^ 
+\centered **EXHIBIT B-1** 
 
-CUMBERLAND RIVER COAL COMPANY, as an Originator
-[[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{CUMBERLAND RIVER COAL COMPANY as an Originator Entity => By: [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory First Name]] [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Last Name]]
-Title: [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Title]]}}
+\centered **Services included in Management Fee** 
 
+PART I       Management services and costs included in the Management Fee, as contemplated by Section 8.2 of the foregoing Agreement are the following:
 
-LONE MOUNTAIN PROCESSING, INC., as an Originator
-[[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{LONE MOUNTAIN PROCESSING INC. as an Originator Entity => By: [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory First Name]] [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Last Name]]
-Title: [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Title]]}}
+Operator’s central office costs
 
+General administration of Pipeline operations by Operator’s senior management personnel
 
-MINGO LOGAN COAL COMPANY, as an Originator
-[[MINGO LOGAN COAL COMPANY as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{MINGO LOGAN COAL COMPANY as an Originator Entity => By: [[MINGO LOGAN COAL COMPANY as an Originator Signatory First Name]] [[MINGO LOGAN COAL COMPANY as an Originator Signatory Last Name]]
-Title: [[MINGO LOGAN COAL COMPANY as an Originator Signatory Title]]}}
+General administration of Pipeline operations by Operator’s operations management personnel
 
+Supervision of the Pipeline Control Center
 
-*First Amendment to PSA (Arch Coal)*  
+Environmental, health and safety management
 
-\centered S-4 
+Administrative services relating to DOT compliance
 
-^^^^^ 
+Preparation and submission of FERC Reports
 
-MOUNTAIN COAL COMPANY, L.L.C., as an Originator
-[[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{MOUNTAIN COAL COMPANY L.L.C. as an Originator Entity => By: [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory First Name]] [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Last Name]]
-Title: [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Title]]}}
+Pipeline Scheduling
 
+Purchasing
 
-THUNDER BASIN COAL COMPANY, L.L.C., as an Originator
-[[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Email: Identity | Signature]]
-__________________________________________
-{{THUNDER BASIN COAL COMPANY L.L.C. as an Originator Entity => By: [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory First Name]] [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Last Name]]
-Title: [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Title]]}}
+Right of Way services after the In-Service Date (excluding new projects)
 
+Travel and meeting expenses for necessary meetings
 
-*First Amendment to PSA (Arch Coal)*  
+Crisis Communications
 
-\centered S-5 
+Ordinary course administration of contracts between the Holly Entities and customers of the Holly Entities (excluding outside counsel services deemed necessary by Operator)
 
-^^^^^ 
-CONSENT TO:  
-PNC BANK, National Association  
+Normal operating activities of the Facilities
 
-[[PNC BANK National Association Signatory Email: Identity | Signature]]
-__________________________________________
-{{PNC BANK National Association Entity => By: [[PNC BANK National Association Signatory First Name]] [[PNC BANK National Association Signatory Last Name]]
-Title: [[PNC BANK National Association Signatory Title]]}}
+PART II       For avoidance of doubt, the following work and services are specifically excluded from the Management Fee and shall be paid to Operator by the Holly Entities, along with other costs, under Section 8.3 of the foregoing Agreement:
 
+Operations personnel to the extent performing services in connection with activities outside the normal operation of the Systems
 
-*First Amendment to PSA (Arch Coal)*  
+All direct operating costs incurred outside the normal operation of the Systems
 
-\centered S-6 
+Services obtained from third-parties
 
-^^^^^ 
-Schedule I  
+Travel and meal expenses for Operator’s personnel while performing work on the assets set forth on Exhibit A
 
-\centered LIST OF ORIGINATORS 
+Pipeline measurement including contract proving
 
-Arch Coal Sales Company, Inc.
+Insurance
 
-Arch Coal Terminal, Inc.
+All project management, engineering and other services related to any expansion project
 
-Arch Energy Resources
+Compliance and other costs or expenses incurred in connection with any regulatory program to the extent directly applicable to the Systems, including, but not limited to, compliance with governmental requirements and guidelines for public awareness, contractor awareness, one-call, operator qualification, facility response plans, drug and alcohol testing and other requirements and guidelines of any governmental authority with jurisdiction
 
-Arch Western Resources
+Annual DOT fees
 
-Canyon Fuel Company
+Procurement, maintenance and replacement of safety equipment and materials
 
-Coal-Mac, Inc.
+Preparation and filing of required reports and permit applications with governmental entities with jurisdiction (other than FERC and DOT), including, but not limited to environmental permit reporting and permit renewals (third party contract costs only)
 
-Cumberland River Coal Company
-
-Lone Mountain Processing, Inc.
-
-Mingo Logan Coal Company
-
-Mountain Coal Company, L.L.C.
-
-Thunder Basin Coal Company, L.L.C. 
-
-\centered 
-
-Schedule 1-1    *Purchase and Sale Agreement* *(Arch Coal)*  
-
-^^^^^ 
-Schedule V  
-
-\centered LOCATION OF MINING OPERATIONS 
-
-\centered 
-
-**ORIGINATOR**    **MINEHEAD**    **STATE**    **COUNTY** Arch Coal Sales Company, Inc.    -N/A    West Virginia    Mingo Arch Coal Terminal, Inc.    -N/A    Kentucky    Boyd Arch Western Resources    -N/A    Wyoming    Campbell Canyon Fuel Company    - Dugout - - Skyline    Utah    Carbon Canyon Fuel Company    -Sufco    Utah    Sevier Coal-Mac, Inc.    -Holden - -Ragland / Phoenix    West Virginia    Logan Coal-Mac, Inc.    -Ragland / Phoenix    West Virginia    Mingo Cumberland River Coal Company    -Cumberland River (aka Pardee)    Kentucky    Letcher Cumberland River Coal Company    -Cumberland River (aka Pardee)    Virginia    Wise Lone Mountain Processing, Inc.    -Lone Mountain    Kentucky    Harlan Lone Mountain Processing, Inc.    -N/A    Virginia    Lee Mingo Logan Coal Company    -Mountain Laurel    West Virginia    Logan Mountain Coal Company, L.L.C.    - West Elk    Colorado    Gunnison Thunder Basin Coal Company, L.L.C.    - Black Thunder - - Coal Creek    Wyoming    Campbell  
-
-\centered 
-
-Schedule V-1    *Purchase and Sale Agreement* *(Arch Coal)*
+\centered Exhibit B-1

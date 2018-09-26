@@ -1,0 +1,137 @@
+\centered **CUSTODIAN AGREEMENT** 
+
+\centered **among** 
+
+\centered **AMERICREDIT FINANCIAL SERVICES, INC.,** 
+
+\centered **as Custodian,** 
+
+\centered **ASSURED GUARANTY CORP.,** 
+
+\centered **as Insurer** 
+
+\centered **and** 
+
+\centered **WELLS FARGO BANK, NATIONAL ASSOCIATION,** 
+
+\centered **as Trust Collateral Agent** 
+
+\centered **Dated as of [[Date 1: Date]]** 
+
+THIS CUSTODIAN AGREEMENT, dated as of [[Date 1]], is made with respect to the issuance of Notes and a Certificate by AmeriCredit Automobile Receivables Trust 2010-A (the “Issuer”), and is between AMERICREDIT FINANCIAL SERVICES, INC., as custodian (in such capacity, the “Custodian”), ASSURED GUARANTY CORP. (the “Insurer”) and WELLS FARGO BANK, NATIONAL ASSOCIATION, a national banking association, as trust collateral agent (the “Trust Collateral Agent”). Capitalized terms used herein which are not defined herein shall have the meanings set forth in the Sale and Servicing Agreement as hereinafter defined. 
+
+\centered W I T N E S S E T H: 
+
+WHEREAS, AmeriCredit Financial Services, Inc. (“AFS”) and AFS SenSub Corp. (“AFS SenSub”) have entered into a Purchase Agreement dated as of [[Date 1]] (the “Purchase Agreement”), pursuant to which AFS has sold, transferred and assigned to AFS SenSub all of its right, title and interest in and to the Receivables; 
+
+WHEREAS, the Issuer, AFS, as Servicer (the “Servicer”), AFS SenSub and Wells Fargo Bank, National Association, as Trust Collateral Agent and as Backup Servicer, have entered into a Sale and Servicing Agreement, dated as of [[Date 1]] (the “Sale and Servicing Agreement”), pursuant to which AFS SenSub has sold, transferred and assigned to the Issuer all of AFS SenSub’s right, title and interest in and to the Receivables; 
+
+WHEREAS, in connection with such sales, transfers and assignments, AFS and AFS SenSub have made certain representations and warranties regarding the Receivable Files, upon which the Insurer has relied in issuing the Note Policy; and 
+
+WHEREAS, the Trust Collateral Agent wishes to appoint the Custodian to hold the Receivable Files as the custodian on behalf of the Issuer and the Trust Collateral Agent; 
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained and other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the parties agree as follows: 
+
+^Appointment of Custodian; Acknowledgement of Receipt. Subject to the terms and conditions hereof, the Trust Collateral Agent hereby revocably appoints the Custodian, but shall not be responsible for the acts or omissions of the Custodian, and the Custodian hereby accepts such appointment, as custodian and bailee on behalf of the Issuer and the Trust Collateral Agent, to maintain exclusive custody of the Receivable Files relating to the Receivables from time to time pledged to the Trust Collateral Agent as part of the Other Conveyed Property. In performing its duties hereunder, the Custodian agrees to act with reasonable care, using that degree of skill and attention that a commercial bank acting in the capacity of a custodian would exercise with respect to files relating to comparable automotive or other receivables that it services or holds for itself or others. The Custodian hereby, as of the Closing Date acknowledges receipt of the Receivable File for each Receivable listed in the Schedule of Receivables attached as Schedule A to the Sale and Servicing Agreement subject to any exceptions noted on the Custodian’s Acknowledgement (as defined below). As evidence of its acknowledgement of such receipt of such Receivables, the Custodian shall execute and deliver on the Closing Date, the Custodian’s Acknowledgement attached hereto as Exhibit A (the “Custodian’s Acknowledgement”). 
+
+^Maintenance of Receivables Files at Office. The Custodian agrees to maintain the Receivable Files at its office located at 4001 Embarcadero, Suite 200, [[Address 1: Address]] or, subject to the prior written consent of the Insurer (so long as no Insurer Default shall have occurred and be continuing), at such other office as shall from time to time be identified to the Trust Collateral Agent and the Insurer, and the Custodian will hold the Receivable Files in such office on behalf of the Issuer and the Trust Collateral Agent, clearly identified as being separate from any other instruments and files on its records, including other instruments and files held by the Custodian and in compliance with Section 3(b) hereof. 
+
+^Duties of Custodian. 
+
+^^Safekeeping. The Custodian shall hold the Receivable Files on behalf of the Trust Collateral Agent clearly identified as being separate from all other files or records maintained by the Custodian at the same location and shall maintain such accurate and complete accounts, records and computer systems pertaining to each Receivable File as will enable the Trust Collateral Agent to comply with the terms and conditions of the Sale and Servicing Agreement. Each Receivable representing tangible chattel paper (as such term is defined in the UCC) shall be stamped on both of the first page and the signature page (if different) in accordance with the instructions from time to time provided by the Insurer, and the form and content of the stamp shall be acceptable to the Insurer, to indicate the assignment and/or pledge of each such Receivable. Each Receivable shall be identified on the books and records of the Custodian in a manner that (i) is consistent with the practices of a commercial bank acting in the capacity of custodian with respect to similar receivables, (ii) indicates that the Receivables are held by the Custodian on behalf of the Trust Collateral Agent and (iii) is otherwise necessary, as reasonably determined by the Custodian, to comply with the terms of this Custodian Agreement. The Custodian shall conduct, or cause to be conducted, periodic physical inspections of the Receivable Files held by it under this Custodian Agreement, and of the related accounts, records and computer systems, in such a manner as shall enable the Trust Collateral Agent, the Insurer and the Custodian to verify the accuracy of the Custodian’s inventory and recordkeeping. Such inspections shall be conducted at such times, in such manner and by such persons including, without limitation, independent accountants, as the Insurer or the Trust Collateral Agent may request and the cost of such inspections shall be borne directly by the Custodian and not by the Trust Collateral Agent. The Custodian shall promptly report to the Insurer and the Trust Collateral Agent any failure on its part to hold the Receivable Files and maintain its accounts, records and computer systems as herein provided and promptly take appropriate action to remedy any such failure. Upon request, the Custodian shall make copies or other electronic file records (e.g., diskettes, CD’s, etc.) (the “Copies”) of the Receivable Files and shall deliver such Copies to the Trust Collateral Agent and the Trust Collateral Agent shall hold such Copies on behalf of the Noteholders and the Insurer. Subject to Section 3(c) hereof, the Custodian shall at all times (i) maintain the original or with respect to “electronic chattel paper”, as such term is defined in the UCC, an authoritative copy of the fully executed original retail installment sales contract or promissory note and (ii) maintain the original of the Lien Certificate or application therefore (if no such Lien Certificate has yet been issued), in each case relating to each Receivable in a fireproof vault; provided, however, the Lien Certificate may be maintained electronically by the Registrar of Titles of the applicable state pursuant to applicable state laws, with confirmation thereof maintained by the Custodian or a third-party service provider. 
+
+^^Access to Records. The Custodian shall, subject only to the Custodian’s security requirements applicable to its own employees having access to similar records held by the Custodian, which requirements shall be consistent with the practices of a commercial bank acting in the capacity of custodian with respect to similar files or records, and at such times as may be reasonably imposed by the Custodian, permit only the Noteholders, the Insurer and the Trust Collateral Agent or their duly authorized representatives, attorneys or auditors to inspect, at the Servicer’s expense, the Receivable Files and the related accounts, records, and computer systems maintained by the Custodian pursuant hereto at such times as the Noteholders, the Insurer or the Trust Collateral Agent may reasonably request. 
+
+^^Release of Documents. Consistent with the practices of a commercial bank acting in the capacity of custodian with respect to similar files or records, the Custodian may release any Receivable in the Receivable Files to the Servicer, if appropriate, under the circumstances provided in Section 3.3(b) of the Sale and Servicing Agreement. 
+
+^^Administration; Reports. The Custodian shall, in general, attend to all non-discretionary details in connection with maintaining custody of the Receivable Files on behalf of the Trust Collateral Agent. In addition, the Custodian shall assist the Trust Collateral Agent generally in the preparation of any routine reports to Noteholders or to regulatory bodies, to the extent necessitated by the Custodian’s custody of the Receivable Files. 
+
+^^Review of Lien Certificates. On or before the Closing Date, the Custodian shall deliver to the Trust Collateral Agent a listing in the form attached hereto as Schedule II of Exhibit A, of all Receivables with respect to which a Lien Certificate, showing AFS (or an Originating Affiliate or a Titled Third-Party Lender) as secured party, was not included in the related Receivable File as of such date. In addition, the Custodian shall deliver to the Trust Collateral Agent and the Insurer an exception report in the form attached hereto as Schedule II of Exhibit A (i) no later than the last Business Day of the calendar month during which the 90th day after the Closing Date occurred, (ii) no later than the last Business Day of the calendar month during which the 180th day after the Closing Date occurred and (iii) no later than the last Business Day of the calendar month during which the 240th day after the Closing Date occurred. 
+
+^Instructions; Authority to Act. The Custodian shall be deemed to have received proper instructions with respect to the Receivable Files upon its receipt of written instructions signed by a Responsible Officer of the Trust Collateral Agent. Such instructions may be general or specific in terms. A copy of any such instructions shall be furnished by the Trust Collateral Agent to the Trustee, the Issuer and the Insurer. 
+
+^Custodian Fee. For its services under this Agreement, the Custodian shall be entitled to reasonable compensation to be paid by the Servicer. 
+
+^Indemnification by the Custodian. The Custodian agrees to indemnify the Issuer, the Owner Trustee, the Trust Collateral Agent, the Backup Servicer, the Insurer and the Trustee for any and all liabilities, obligations, losses, damage, payments, costs or expenses of any kind whatsoever (including the fees and expenses of counsel) that may be imposed on, incurred or asserted against the Issuer, the Owner Trustee, the Trust Collateral Agent, the Backup Servicer and the Insurer and the Trustee and their respective officers, directors, employees, agents, attorneys and successors and assigns as the result of any act or omission in any way relating to the maintenance and custody by the Custodian of the Receivable Files; provided, however, that the Custodian shall not be liable for any portion of any such liabilities, obligations, losses, damages, payments or costs or expenses due to the willful misfeasance, bad faith or gross negligence of the Issuer, the Owner Trustee, the Trust Collateral Agent, the Collateral Agent, the Backup Servicer, the Insurer or the Trustee or the officers, directors, employees and agents thereof. In no event shall the Custodian be liable to any third party for acts or omissions of the Custodian. 
+
+^Advice of Counsel. The Custodian and the Trust Collateral Agent further agree that the Custodian shall be entitled to rely and act upon advice of counsel with respect to its performance hereunder as custodian and shall be without liability for any action reasonably taken pursuant to such advice, provided that such action is not in violation of applicable Federal or state law. 
+
+^Effective Period, Termination, and Amendment; Interpretive and Additional Provisions. This Custodian Agreement shall become effective as of the date hereof and shall continue in full force and effect until terminated as hereinafter provided. Prior to an Insurer Default, this Custodian Agreement may be amended at any time by mutual agreement of the Insurer, the Trust Collateral Agent and the Custodian with the prior written consent of the Backup Servicer and may be terminated by either the Insurer or the Custodian by giving written notice to the other parties, such termination to take effect no sooner than thirty (30) days after the date of such notice; provided, however, that the Insurer may terminate this Custodian Agreement at any time in its sole discretion and any termination by the Insurer shall take effect immediately. So long as AFS is serving as Custodian, any termination of AFS as Servicer under the Sale and Servicing Agreement shall terminate AFS as Custodian under this Agreement. If an Insurer Default shall have occurred and be continuing, with the prior written consent of the Note Majority, this Custodian Agreement may be amended at any time by mutual agreement of the parties hereto and may be terminated by any party by giving written notice to the other parties, such termination to take effect no sooner than thirty (30) days after the date of such notice. Upon any termination or amendment of this Custodian Agreement, the Trust Collateral Agent, in the case of amendments, and the party seeking termination, in the case of terminations, shall give written notice to Standard & Poor’s Ratings Services, a Standard & Poor’s Financial Services LLC business (“Standard & Poor’s”) and Moody’s Investors Service, Inc. (“Moody’s”) (together, the “Rating Agencies”). Immediately after receipt of notice of termination of this Custodian Agreement, the Custodian shall deliver the Receivable Files to the Trust Collateral Agent on behalf of the Noteholders, and at the Custodian’s expense, at such place or places as the Trust Collateral Agent, or the Insurer in the case of a termination by the Insurer, may designate, and the Trust Collateral Agent, or its agent, as the case may be, shall act as custodian for such Receivables Files on behalf of the Noteholders until such time as a successor custodian, approved by the Insurer, has been appointed. If, within seventy-two (72) hours after the termination of this Custodian Agreement, the Custodian has not delivered the Receivable Files in accordance with the preceding sentence, the Insurer or, if an Insurer Default shall have occurred and be continuing, the Trust Collateral Agent, may enter the premises of the Custodian and remove the Receivable Files from such premises. In connection with the administration of this Agreement, the parties may agree from time to time upon the interpretation of the provisions of this Agreement as may in their joint opinion be consistent with the general tenor and purposes of this Agreement, any such interpretation to be signed by all parties and annexed hereto. 
+
+^Governing Law. This Custodian Agreement shall be governed by and construed in accordance with the laws of the State of [[Address 2: Address]] to the conflict of law provisions thereof (other than Sections 5-1401 and 5-1402 of the [[Address 3: Address]] Law). 
+
+^Notices. All demands, notices and communications hereunder shall be in writing, electronically delivered or mailed, and shall be deemed to have been duly given upon receipt (a) in the case of the Custodian, at the following address: AmeriCredit Financial Services, Inc., [[Address 4: Address]], Attention: Chief Financial Officer, (b) in the case of the Trust Collateral Agent, at the following address: Wells Fargo Bank, National Association, Sixth and Marquette Avenue, MAC N9311161, [[Address 5: Address]] (facsimile number [[Phone 1]]), Attention: Corporate Trust Services/Asset Backed Administration, (c) in the case of the Insurer, at the following address: Assured Guaranty Corp., 31 West 52nd Street, [[Address 6: Address]] 10019, Attention: Transaction Oversight Department, (d) in the case of Moody’s, at the following address: 7 World Trade Center at 250 Greenwich Street, Asset Finance Group  24th Floor, [[Address 7: Address]] and (e) in the case of Standard & Poor’s via electronic delivery to [[Email 1]]; for any information not available in electronic format, hard copies should be sent to the following address: 55 Water Street, 41st floor, [[Address 6: Address]] 10041-0003, Attention: ABS Surveillance Group, or at such other address as shall be designated by such party in a written notice to the other parties. 
+
+^Binding Effect. This Custodian Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and assigns. Concurrently with the appointment of a successor trustee under the Sale and Servicing Agreement, the parties hereto shall amend this Custodian Agreement to make said successor trustee, the successor to the Trust Collateral Agent hereunder. 
+
+\centered [Remainder of page intentionally left blank] 
+
+IN WITNESS WHEREOF, each of the parties hereto has caused this Custodian Agreement to be executed in its name and on its behalf by a duly authorized officer on the day and year first above written. 
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION,
+as Trust Collateral Agent
+
+[[As Trust Collateral Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Trust Collateral Agent Entity => By: [[As Trust Collateral Agent Signatory First Name]] [[As Trust Collateral Agent Signatory Last Name]]
+Title: [[As Trust Collateral Agent Signatory Title]]}}
+
+
+AMERICREDIT FINANCIAL SERVICES, INC.,  as Custodian
+
+[[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Email: Identity | Signature]]
+__________________________________________
+{{AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Entity => By: [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory First Name]] [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Last Name]]
+Title: [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Title]]}}
+
+
+ASSURED GUARANTY CORP.
+
+[[ASSURED GUARANTY CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ASSURED GUARANTY CORP. Entity => By: [[ASSURED GUARANTY CORP. Signatory First Name]] [[ASSURED GUARANTY CORP. Signatory Last Name]]
+Title: [[ASSURED GUARANTY CORP. Signatory Title]]}}
+
+
+The foregoing Custodian Agreement  is hereby confirmed and accepted  as of the date first above written.
+
+AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A,  as Issuer
+
+[[AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A  as Issuer Signatory Email: Identity | Signature]]
+__________________________________________
+{{AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A  as Issuer Entity => By: [[AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A  as Issuer Signatory First Name]] [[AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A  as Issuer Signatory Last Name]]
+Title: [[AMERICREDIT AUTOMOBILE RECEIVABLES TRUST 2010-A  as Issuer Signatory Title]]}}
+
+not in its individual capacity but solely  as Owner Trustee on behalf of the Trust
+
+[[Not in its individual capacity but solely  as Owner Trustee on behalf of the Trust Signatory Email: Identity | Signature]]
+__________________________________________
+{{Not in its individual capacity but solely  as Owner Trustee on behalf of the Trust Entity => By: [[Not in its individual capacity but solely  as Owner Trustee on behalf of the Trust Signatory First Name]] [[Not in its individual capacity but solely  as Owner Trustee on behalf of the Trust Signatory Last Name]]
+Title: [[Not in its individual capacity but solely  as Owner Trustee on behalf of the Trust Signatory Title]]}}
+
+
+\centered [Custodian Agreement] 
+
+**EXHIBIT A** 
+
+\centered **CUSTODIAN’S ACKNOWLEDGEMENT** 
+
+AmeriCredit Financial Services, Inc. (the “Custodian”), acting as Custodian under a Custodian Agreement, dated as of [[Date 1]], among the Custodian, Wells Fargo Bank, National Association, as Trust Collateral Agent and Assured Guaranty Corp., pursuant to which the Custodian holds on behalf of the Trust Collateral Agent for the benefit of the Noteholders certain “Receivable Files,” as defined in the Sale and Servicing Agreement, dated as of [[Date 1]] (the “Sale and Servicing Agreement”), among AmeriCredit Automobile Receivables Trust 2010-A, as Issuer, AFS SenSub Corp., as Seller, AmeriCredit Financial Services, Inc., as Servicer, and Wells Fargo Bank, National Association, as Trust Collateral Agent and as Backup Servicer, hereby acknowledges receipt of the Receivable File for each Receivable listed in the Schedule of Receivables attached as Schedule A to said Sale and Servicing Agreement except as noted in the Custodian Exception List attached as Schedule I and the Lien Perfection Exception List attached as Schedule II hereto. 
+
+IN WITNESS WHEREOF, AmeriCredit Financial Services, Inc. has caused this acknowledgement to be executed by its duly authorized officer as of this [[Date 2: Date]]. 
+
+AMERICREDIT FINANCIAL SERVICES, INC.,  as Custodian
+
+[[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Email: Identity | Signature]]
+__________________________________________
+{{AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Entity => By: [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory First Name]] [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Last Name]]
+Title: [[AMERICREDIT FINANCIAL SERVICES INC.  as Custodian Signatory Title]]}}
+
+
+\centered **SCHEDULE I** 
+
+\centered Custodian Exception List 
+
+\centered **SCHEDULE II** 
+
+\centered Lien Perfection Exception List 

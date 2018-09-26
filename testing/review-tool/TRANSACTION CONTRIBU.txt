@@ -1,0 +1,425 @@
+\centered TRANSACTION, CONTRIBUTION AND PURCHASE AGREEMENT 
+
+\centered among 
+
+\centered RHAPSODY AMERICA LLC, 
+
+\centered REALNETWORKS, INC., 
+
+\centered REALNETWORKS DIGITAL MUSIC OF CALIFORNIA, INC., 
+
+\centered VIACOM INTERNATIONAL INC. 
+
+\centered and 
+
+\centered DMS HOLDCO INC. 
+
+\centered Dated as of [[Date 1: Date]] 
+
+^^^^^ 
+\centered TABLE OF CONTENTS 
+
+ARTICLE I
+Definitions and Usage
+^Definitions    
+^Restructuring Transactions
+^Preceding the Conversion    
+^Conversion    
+^MTVN Contributions    
+^Termination of LLC Agreement    
+^Termination of Original Stockholder Agreement    
+^Ownership of Capital Stock Following Conversion    
+^Closing    
+^Representations and Warranties
+^Representations and Warranties of RN Parent    
+^Representations and Warranties of MTVN Parent    
+^Closing; Closing Conditions
+^Conditions Precedent to Obligations of the Parties    
+^Conditions Precedent to Obligations of RN Parent and RN Sub    
+^Conditions Precedent to Obligations of MTVN Parent MTVN Sub    
+^Commercially Reasonable Efforts    
+^Covenants
+^Tax Treatment    
+^Employee Matters    
+^Further Assurances    
+
+\centered -i- 
+
+^^^^^ 
+
+ARTICLE VI
+Indemnification
+^Indemnification    
+^Company Claims.    
+^Company Claims    
+^Indemnification Procedures    
+^Cooperation    
+^Termination
+^Termination    
+^Effect of Termination    
+^Miscellaneous
+^Survival    
+^Notices    
+^No Third Party Beneficiaries    
+^Waiver    
+^Integration    
+^Headings    
+^Counterparts    
+^Severability    
+^Amendments and Modifications    
+^Governing Law; Consent to Jurisdiction    
+^Waiver of Jury Trial    
+^Absence of Presumption    
+Schedules
+Schedule 1  RN Contributions
+Schedule 2  MTVN Contributions
+Schedule 3  Equity Interests
+Schedule 4  Third Party Contracts
+Schedule 5  Transferred Employees
+Schedule 6  Incentive Compensation Plan
+Schedule 7  Company Indemnified Claims
+
+\centered -ii- 
+
+^^^^^ 
+\centered 
+
+Schedule 8  Existing Claims Schedule 9  Excluded Claims Schedule 10  Notices Exhibits Exhibit A  Stockholder Agreement Exhibit B  Amendment No. 1 to URGE Brand and Content License Agreement Exhibit C  Amendment No. 3 to Audio Music Service Brand and Content License, Distribution and Advertising Agreement Exhibit D  Amendment No. 1 to Audio Music Service Brand and Content License and Distribution Agreement Exhibit E  Amended and Restated RN  Venture License and Services Agreement Exhibit F  Amendment No. 2 to MTVN  Venture Rhapsody Web Services Agreement Exhibit G  Amendment No. 1 to Viacom-Venture Services Agreement Exhibit H  Trademark Assignment Agreement Exhibit I  Preference Side Letter Agreement  
+
+\centered -iii- 
+
+^^^^^ 
+TRANSACTION, CONTRIBUTION AND PURCHASE AGREEMENT (this “Agreement”) dated as of [[Date 1]], among Rhapsody America LLC, a Delaware limited liability company (the “Company”), RealNetworks, Inc., a Washington corporation (“RN Parent”), RealNetworks Digital Music of California, Inc., a California corporation (“RN Sub”), Viacom International Inc., a Delaware corporation (“MTVN Parent”), on behalf of its MTV Networks Division (“MTVN”), and DMS Holdco Inc., a Delaware corporation (“MTVN Sub”). 
+
+WHEREAS, on [[Date 2: Date]], the Company was formed as a limited liability company under Delaware law under the name “Rhapsody America LLC”; 
+
+WHEREAS, RN Parent, RN Sub, MTVN Parent and MTVN Sub entered into a Limited Liability Company Agreement (the “LLC Agreement”), dated as of [[Date 3: Date]], for the Company, pursuant to which RN Parent and MTVN Parent launched a joint venture to be operated through the Company; 
+
+WHEREAS, the parties hereto entered into the Transaction, Contribution and Purchase Agreement dated as of [[Date 3]] (the “Original Contribution Agreement”), pursuant to which (i) RN Sub Contributed (as defined below) certain assets to the Company in consideration for a [[Percentage 1: Number]]% membership interest in the Company and (ii) MTVN Sub Contributed certain assets to the Company and issued the Note (as defined below) to the Company in consideration for an aggregate [[Percentage 2: Number]]% interest in the Company; and 
+
+WHEREAS, certain of the parties hereto have agreed to (i) enter into the Transaction Documents (as defined below) substantially in the forms attached hereto as Exhibits A through J; (ii) convert the Company to a corporation under the name “Rhapsody International Inc.” by the filing of its Certificate of Conversion and Certificate of Incorporation with the Secretary of State of the State of Delaware (the “Conversion”); (iii) convert the outstanding membership interests of the Company to capital stock of the corporation to which it is converted; (iv) terminate the LLC Agreement and terminate and declare null and void the Stockholder Agreement dated as of [[Date 3]], between MTVN Parent and RN Parent (the “Original Stockholder Agreement”); and (v) Contribute certain assets to the Company on the terms and conditions set forth herein (collectively, the “Restructuring Transactions”); 
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+^^^^^ 
+^\centered Definitions and Usage 
+
+SECTION 1.01.  Definitions. (a) The following terms shall have the meanings set forth below for purposes of this Agreement: 
+
+“Affiliate” of any specified Person means any other Person directly or indirectly Controlling, Controlled by or under direct or indirect common Control with such specified Person; provided that the Company and its subsidiaries shall not be deemed to be an Affiliate of any of RN Parent, RN Sub, MTVN Parent or MTVN Sub, and provided, further, that “Affiliate”, when used with respect to MTVN or MTVN Parent or any of their Affiliates, shall only mean Viacom Inc., a Delaware corporation, and any direct or indirect subsidiaries of Viacom Inc. and shall not include any direct or indirect stockholder of Viacom Inc. or any of their Affiliates other than Viacom Inc. and any direct or indirect subsidiaries of Viacom Inc. 
+
+“Business Day” means any day other than a Saturday, a Sunday or a U.S. Federal holiday. 
+
+“Code” means the Internal Revenue Code of 1986, as amended. 
+
+“Contribute” means to contribute, assign, transfer, convey and deliver, and “Contributing”, “Contribution” and “Contributed” shall have correlative meanings. 
+
+“Consent” means any consent, approval, license, permit, order or authorization. 
+
+“Control” means, with respect to any Person, the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such Person, whether through ownership of securities or partnership, membership, limited liability company, or other ownership interests, by contract or otherwise, and the terms “Controlling” and "Controlled” have meanings correlative to the foregoing. 
+
+“Governmental Entity” means any Federal, state, local or foreign government or any court of competent jurisdiction, regulatory or administrative agency or commission or other governmental authority or instrumentality, domestic or foreign. 
+
+“Governmental Authorizations” means all licenses, permits, certificates and other authorizations and approvals related to the business of the Company and issued by or obtained from a Governmental Entity. 
+
+“Judgment” means any judgment, order or decree. 
+
+“Law” means any law, statute, ordinance, rule, regulation, code, Order, Judgment, injunction or decree enacted, issued, promulgated, enforced or entered by a Governmental Entity (including, for the sake of clarity, any policy statement or 
+
+^^^^^ 
+interpretation that has the force of law with respect to any of the foregoing, and including common law). 
+
+“Lien” means any pledge, encumbrance, security interest, purchase option, call or similar right. 
+
+“Losses” means any loss, liability, claim, damage, costs, or expense (including reasonable legal fees and expenses). 
+
+“Mark” has the meaning assigned to such term in the Trademark Assignment Agreement attached hereto as Exhibit I. 
+
+“MTVN Contributions” means the right, title and interest of MTVN Parent (and its subsidiaries and divisions) in, to and under the assets, properties and agreements set forth in Schedule 2 hereto. 
+
+“Order” means any order, injunction, Judgment, decree, writ or other enforcement action of a Governmental Entity. 
+
+“Organizational Documents” means, with respect to any Person at any time, such Person’s certificate or articles of incorporation, corporate statutes, by-laws, memorandum and articles of association, certificate of formation of limited liability company, limited liability company agreement and other similar organizational or constituent documents, as applicable, in effect at such time. 
+
+“Person” means any individual, firm, corporation, partnership, limited liability company, trust, joint venture, governmental authority or other entity. 
+
+“Proceeding” means any claim, action, suit, proceeding, arbitration, investigation, or hearing or notice of hearing. 
+
+“Rhapsody Service” means the business, activities and operations of the Company, including the branded consumer digital music service, including “Rhapsody,” “Rhapsody 25 Service”, Rhapsody.com, worldwide, free and premium radio services in the United States and territories and possessions thereof, and any and all assets, rights and interests contributed to the Company by RN Parent or MTVN Parent and/or by any of their respective Affiliates and any and all obligations and liabilities assumed by the Company from RN Parent, MTVN Parent and/or any of their respective Affiliates prior to, on or after the date hereof, including the RN Contributions and the MTVN Contributions as well as the “RN Contribution Assets” and “MTVN Contribution Assets” as such terms are defined in the Original Contribution Agreement. 
+
+“RN Contributions” means the right, title and interest of RN Parent (and its subsidiaries and divisions) in, to and under the assets, properties and agreements set forth in Schedule 1 hereto. 
+
+“RN Included Liabilities” means the liabilities, obligations and commitments contained in or arising out of (i) the RN Contributions and (ii) all RN 
+
+^^^^^ 
+Parent employees transferred to the Company to the extent such liabilities, obligations and commitments arise on or after the Closing. 
+
+“Third Party Claim” means a claim in respect of, arising out of or involving a claim made by any Person against any party indemnified pursuant to Article VI. 
+
+“Transaction Documents” means, collectively, (i) Stockholder Agreement, by and among the Company, RN Parent, MTVN Parent, MTVN Sub and RN Sub, substantially in the form attached hereto as Exhibit A (the “Stockholder Agreement”); (ii) Amendment No. 1 to URGE Brand and Content License Agreement by and between MTVN and the Company, substantially in the form attached hereto as Exhibit B; (iii) Amendment No. 3 to Audio Music Service Brand and Content License, Distribution and Advertising Agreement, by and between MTVN and the Company, substantially in the form attached hereto as Exhibit C (the “MTVN License Agreement”); (iv) Amendment No. 1 to Audio Music Service Brand and Content License and Distribution Agreement, by and between RN Parent and the Company, substantially in the form attached hereto as Exhibit D; (v) Amended and Restated RN  Venture License and Services Agreement, by and between RN Parent and the Company, substantially in the form attached hereto as Exhibit E (the “Venture License Agreement”); (vi) Amendment No. 2 to MTVN  Venture Rhapsody Web Services Agreement, by and between MTVN and the Company, substantially in the form attached hereto as Exhibit F; (vii) Amendment No. 1 to Viacom-Venture Services Agreement, by and between MTVN Parent and the Company, substantially in the form attached hereto as Exhibit G; (viii) Trademark Assignment Agreement, by and among RN Parent, RN Sub, Listen.com, Inc. and the Company, substantially in the form attached hereto as Exhibit H (the “Trademark Assignment Agreement”); and (ix) Preference Side Letter Agreement, by and between MTVN Parent, MTVN Sub, RN Parent and RN Sub, substantially in the form attached hereto as Exhibit I. 
+
+“Transfer Tax” means any liabilities, obligations or commitments for transfer, documentary, sales, use, registration, value-added and other similar taxes, governmental fees or other like assessments or charges of any kind whatsoever and related amounts (including any penalties, interest and additions thereto). 
+
+^^The following terms are defined in the Section of this Agreement set forth below. 
+
+\centered 
+
+Defined in Term    Section “Agreement”    Preamble “Allocation Agreement”       6.03   (a) “Business Contracts”       5.04   (b) “Closing”       2.07 “Closing Date”       2.07 “Company”    Preamble “Company Indemnified Claim”       6.02   (a)  
+
+^^^^^ 
+\centered 
+
+Defined in Term    Section “Conversion”    Recitals “Indemnified Party”       6.02   (a) “Litigation Costs”       6.03   (a) “LLC Agreement”    Recitals “MTVN”    Preamble “MTVN Sub”    Preamble “MTVN Parent”    Preamble “MTVN Party”       6.03   (b) “Note”       2.01   (b) “Original Contribution Agreement”    Recitals “Original Stockholder Agreement”    Recitals “Pass-Through Services”       5.04   (b) “Restructuring Transactions”    Recitals “RN Counsel”       6.03   (a) “RN Parent”    Preamble “RN Party”       5.04   (c) “RN Sub”    Preamble “Transferred Employee”       5.02   (a)  
+
+^^Terms and Usage Generally. The definitions in Section 1.01 shall apply equally to both the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. All references herein to Articles, Sections, Exhibits and Schedules shall be deemed to be references to Articles and Sections of, and Exhibits and Schedules to, this Agreement unless the context shall otherwise require. All Exhibits and Schedules attached hereto shall be deemed incorporated herein as if set forth in full herein. The words “include”, “includes” and “including” shall be deemed to be followed by the phrase “without limitation”. The words “hereof”, “herein” and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The word “or” shall not be exclusive. The word “extent” in the phrase “to the extent” shall mean the degree to which a subject or other thing extends, and such phrase shall not mean simply “if”. References to a Person are also to its permitted successors and permitted assigns. Unless otherwise expressly provided herein, any agreement, instrument or statute defined or referred to herein or in any agreement or instrument that is referred to herein means such agreement, instrument or statute as from time to time amended, modified or supplemented, including (in the case of agreements or instruments) by waiver or Consent and (in the case of statutes) by succession of comparable successor statutes and references to all attachments thereto and instruments incorporated therein. 
+
+^^Original Contribution Agreement. The Original Contribution Agreement shall remain in full force and effect and shall be unaffected hereby, except as otherwise expressly provided herein. 
+
+^^^^^ 
+^\centered Restructuring Transactions 
+
+SECTION 2.01.  Preceding the Conversion. 
+
+^^Execution and Delivery of Transaction Documents. At the Closing and preceding the Conversion, each of the parties hereto shall execute and deliver each Transaction Document to which it is a party. 
+
+^^Promissory Note Termination. At the Closing and preceding the Conversion, the Promissory Note dated [[Date 3]], from MTVN Sub and MTVN Parent to the Company (the “Note”), shall be distributed to MTVN Sub and canceled by MTVN Sub. 
+
+^^Purchase of International Radio Business. At the Closing and preceding the Conversion, RN Sub shall purchase from the Company, for a price of $[[USD Value 2: Number]] million, the SKUs for all revenue streams from end-user subscription agreements for international radio subscriptions from any and all countries, as more specifically described in Section 24 of Schedule 2 to the Original Contribution Agreement, and in Section 1.01 of Amendment No. 1 to the Original Contribution Agreement, dated as of [[Date 4: Date]]. 
+
+^^RN Contributions. At the Closing and immediately preceding the Conversion, RN Sub or RN Parent, as may be applicable, shall unconditionally and irrevocably Contribute (or cause to be Contributed) to the Company, and the Company shall unconditionally and irrevocably accept from RN Sub or RN Parent, as may be applicable, the RN Contributions and the parties shall execute appropriate bills of sale and assignments to reflect the foregoing. 
+
+^^Company Assumption of RN Included Liabilities. At the Closing and immediately preceding the Conversion, the Company shall assume the RN Included Liabilities. 
+
+^^Filing of Certificate of Conversion. At the Closing, the Certificate of Conversion effecting the Conversion shall be filed with the Secretary of State of the State of Delaware, together with the Company’s Certificate of Incorporation. 
+
+SECTION 2.02.  Conversion. At the Closing, the Conversion shall become effective and the outstanding membership interests of the Company shall be converted to capital stock of the corporation to which the Company is converted. Each of the Transaction Documents shall become effective upon the Conversion.
+
+SECTION 2.03.  MTVN Contributions. At the Closing and immediately following the Conversion, MTVN Sub shall unconditionally and irrevocably Contribute (or cause to be Contributed) to the Company, and the Company shall unconditionally and irrevocably accept from MTVN Sub, the MTVN Contributions.
+
+^^^^^ 
+^Termination of LLC Agreement. Each party hereby acknowledges and agrees that, immediately following the Conversion, the LLC Agreement shall terminate provided that for the avoidance of doubt, all duties, obligations, claims and liabilities of the parties arising thereunder that relate to a time on or before the Closing shall continue to be governed thereby.
+
+SECTION 2.05.  Termination of Original Stockholder Agreement. Each party hereby acknowledges and agrees that, immediately following the Conversion, the Original Stockholder Agreement shall be terminated and deemed null and void.
+
+SECTION 2.06.  Ownership of Capital Stock Following Conversion. Each party hereby acknowledges and agrees that, at the Closing immediately following (i) the Conversion and (ii) the Contributions of the RN Contributions and MTVN Contributions:
+
+^^RN Sub shall own capital stock of the Company in the amounts set forth opposite its name in Schedule 3 hereto; and 
+
+^^MTVN Sub shall own capital stock of the Company in the amounts set forth opposite its name in Schedule 3 hereto. 
+
+SECTION 2.07.  Closing. The closing of the transactions set forth in this Article II (the “ Closing”) shall take place at the offices of Cravath, Swaine & Moore LLP, [[Address 1: Address]], at 10:00 a.m. within ten (10) Business Days after the date upon which all of the conditions set forth in Article IV have been satisfied or waived in accordance with Article IV (other than those conditions that by their terms are to be satisfied at the Closing, but subject to the satisfaction or waiver of those conditions), or at such other place and time as the parties hereto shall agree;  provided, that, if all conditions set forth in Article IV are satisfied or waived on or prior to [[Date 5: Date]], the Closing shall occur on [[Date 5]] (the “ Closing Date”).
+
+^\centered Representations and Warranties 
+
+SECTION 3.01.  Representations and Warranties of RN Parent. RN Parent represents and warrants to MTVN Parent as follows:
+
+^^Organization, Standing and Power. Each of RN Parent and RN Sub (i) is duly organized or formed, validly existing and in good standing (with respect to jurisdictions which recognize such concept) under the Laws of the jurisdiction in which it is so organized or formed and (ii) has full corporate power and authority to perform and comply with all the terms and conditions of this Agreement and each Transaction Document to which it is specified to be a party. Each of RN Parent and RN Sub is duly qualified to do business as a foreign corporation and is in good standing (with respect to jurisdictions which recognize such concept) in all material respects in each jurisdiction in which the nature of the business transacted by it or the character or location of the properties owned or leased by it requires such qualification. 
+
+^^^^^ 
+^^Authority; Execution and Delivery; Enforceability. Each of RN Parent and RN Sub has full power and authority to execute and deliver this Agreement and the Transaction Documents to which it is specified to be a party, and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by each of RN Parent and RN Sub of this Agreement and each Transaction Document to which it is specified to be a party and the consummation by each of RN Parent and RN Sub of the transactions contemplated hereby and thereby to which it is specified to be a party have been duly authorized by all necessary corporate action and no other corporate proceedings on the part of RN Parent or RN Sub are necessary to authorize this Agreement, the Transaction Documents or the consummation of the transactions contemplated hereby and thereby. Each of RN Parent and RN Sub has duly executed and delivered this Agreement and this Agreement constitutes, and each Transaction Document to which it is specified to be a party will constitute (when executed and delivered by each party thereto), its legal, valid and binding obligations, enforceable against it in accordance with its terms. 
+
+^^No Conflicts; Consents. The execution and delivery by RN Parent and RN Sub of this Agreement do not, the execution and delivery by RN Parent and RN Sub of each Transaction Document to which it is specified to be a party will not, and the consummation of the transactions contemplated hereby and thereby and compliance by RN Parent and RN Sub with the terms of this Agreement and the Transaction Documents to which it is specified to be a party will not, conflict with, or result in any violation of or default (with or without notice or lapse of time, or both) under, or give rise to a right of termination, cancellation or acceleration of any obligation or to loss of a material benefit under, or to increased, additional, accelerated or guaranteed rights or entitlements of any Person under, or result in the creation of any Lien upon any of the RN Contributions under, any provision of (i) the Organizational Documents of RN Parent or its subsidiaries or (ii) any Judgment or Law applicable to RN Parent or its subsidiaries or their respective properties or assets, other than, in the case of clause (ii) above, any such items that, individually or in the aggregate, have not had, and would not reasonably be expected to have, a material adverse effect on the business of RN Parent. No Consent of, or registration, declaration or filing with any Governmental Entity is required to be obtained or made by or with respect to RN Parent or its subsidiaries in connection with the execution, delivery and performance of this Agreement or any Transaction Document or the consummation of the transactions contemplated hereby and thereby. 
+
+^^Investment Intent. Each of RN Parent and RN Sub understands that (i) the capital stock of the Company has not been, and will not be, registered under the Securities Act of 1933, as amended, or under any state securities Laws and (ii) to the extent it acquires any additional capital stock of the Company, it will be acquiring such capital stock solely for its own account for investment purposes, and not with a view to the distribution thereof. 
+
+^^Rhapsody Brand. RN Parent (i) owns all right, title and interest in and to the Mark, (ii) has full power and authority to execute and deliver the Trademark 
+
+^^^^^ 
+Assignment Agreement, (iii) and to the knowledge of RN Parent, no other Person has any claim of ownership or right of use with respect to the Mark. 
+
+SECTION 3.02.  Representations and Warranties of MTVN Parent. MTVN Parent represents and warrants to RN Parent as follows:
+
+^^Organization, Standing and Power. Each of MTVN Parent and MTVN Sub (i) is duly organized or formed, validly existing and in good standing (with respect to jurisdictions which recognize such concept) under the Laws of the jurisdiction in which it is so organized or formed and (ii) has full corporate power and authority to perform and comply with all the terms and conditions of this Agreement and each Transaction Document to which it is specified to be a party. Each of MTVN Parent and MTVN Sub is duly qualified to do business as a foreign corporation and is in good standing (with respect to jurisdictions which recognize such concept) in all material respects in each jurisdiction in which the nature of the business transacted by it or the character or location of the properties owned or leased by it requires such qualification. 
+
+^^Authority; Execution and Delivery; Enforceability. Each of MTVN Parent and MTVN Sub has full power and authority to execute and deliver this Agreement and the Transaction Documents to which it is specified to be a party, and to consummate the transactions contemplated hereby and thereby. The execution, delivery and performance by each of MTVN Parent and MTVN Sub of this Agreement and each Transaction Document to which it is specified to be a party and the consummation by each of MTVN Parent and MTVN Sub of the transactions contemplated hereby and thereby to which it is specified to be a party have been duly authorized by all necessary corporate action and no other corporate proceedings on the part of MTVN Parent or MTVN Sub are necessary to authorize this Agreement, the Transaction Documents or the consummation of the transactions contemplated hereby and thereby. Each of MTVN Parent and MTVN Sub has duly executed and delivered this Agreement and this Agreement constitutes, and each Transaction Document to which it is specified to be a party will constitute (when executed and delivered by each party thereto), its legal, valid and binding obligations, enforceable against it in accordance with its terms. 
+
+^^No Conflicts; Consents. The execution and delivery by MTVN Parent and MTVN Sub of this Agreement do not, the execution and delivery by MTVN Parent and MTVN Sub of each Transaction Document to which it is specified to be a party will not, and the consummation of the transactions contemplated hereby and thereby and compliance by MTVN Parent and MTVN Sub with the terms of this Agreement and the Transaction Documents to which it is specified to be a party will not, conflict with, or result in any violation of or default (with or without notice or lapse of time, or both) under, or give rise to a right of termination, cancellation or acceleration of any obligation or to loss of a material benefit under, or to increased, additional, accelerated or guaranteed rights or entitlements of any Person under, or result in the creation of any Lien upon any of the MTVN Contributions under, any provision of (i) the Organizational Documents of MTVN Parent or its subsidiaries or (ii) any Judgment or Law applicable to MTVN Parent or its subsidiaries or their respective properties or assets, other than, in the case of clause (ii) above, any such items that, individually or in 
+
+^^^^^ 
+the aggregate, have not had, and would not reasonably be expected to have, a material adverse effect on the business of MTVN Parent. No Consent of, or registration, declaration or filing with any Governmental Entity is required to be obtained or made by or with respect to MTVN Parent or its subsidiaries in connection with the execution, delivery and performance of this Agreement or any Transaction Document or the consummation of the transactions contemplated hereby and thereby. 
+
+^^Investment Intent. Each of MTVN Sub Parent and MTVN understands that (i) the capital stock of the Company has not been, and will not be, registered under the Securities Act of 1933, as amended, or under any state securities Laws and (ii) to the extent it acquires any additional capital stock of the Company, it will be acquiring such interests solely for its own account for investment purposes, and not with a view to the distribution thereof. 
+
+^\centered Closing; Closing Conditions 
+
+SECTION 4.01.  Conditions Precedent to Obligations of the Parties. The obligations of RN Parent and RN Sub, on the one hand, and MTVN Parent and MTVN Sub, on the other hand, to effect the Closing are subject to the satisfaction or waiver prior to the Closing of the following conditions: 
+
+^^Third Party Licenses. With respect to each of the contracts set forth on Schedule 4, either (i) RN Parent shall have entered into an amendment with, or shall have obtained a waiver or consent from, each of the counterparties to the contracts set forth on Schedule 4, in each case in form and substance that are reasonably satisfactory to RN Parent and the Company, or (ii) the Company shall have obtained licenses or other rights or means to use or obtain the products and services that are the subject of such contracts. 
+
+^^Independent Director. The parties hereto shall have selected an Independent Director (as such term is defined in the Stockholder Agreement) to serve on the board of directors of the Company for a term of six (6) months, pursuant to the terms of the Stockholder Agreement. 
+
+^^Regulatory Approvals. The parties shall have obtained any approvals from any applicable Governmental Entity, including any Governmental Authorizations, necessary to effect the transactions contemplated by this Agreement. 
+
+^^No Prohibition; Other Matters. No Governmental Entity shall have commenced any legal action or Proceeding against MTVN Parent or RN Parent or their respective Affiliates to enjoin or otherwise prohibit the consummation of the transactions contemplated by this Agreement, which legal action or Proceeding has a reasonable probability of succeeding on the merits. No Law shall be in effect enjoining or otherwise prohibiting the consummation of such transactions. 
+
+^^^^^ 
+^Conditions Precedent to Obligations of RN Parent and RN Sub. The obligations of RN Parent and RN Sub to consummate the transactions contemplated by this Agreement are subject to the fulfillment, on or prior to the Closing Date, of each of the following conditions (any or all of which may be waived by RN Parent and RN Sub in whole or in part to the extent permitted by applicable Law): 
+
+^^The representations and warranties of MTVN Parent set forth in this Agreement shall be true and correct in all material respects at and as of the Closing, except to the extent such representations and warranties relate to an earlier date (in which case such representations and warranties shall be true and correct in all material respects on and as of such earlier date); and RN Parent shall have received a certificate signed by an authorized officer of MTVN Parent, dated the Closing Date, to the foregoing effect. 
+
+^^MTVN Parent and MTVN Sub shall have performed and complied in all material respects with all obligations and agreements required by this Agreement to be performed or complied with by it on or prior to the Closing Date, and RN Parent shall have received a certificate signed by an authorized officer of MTVN Parent, dated the Closing Date, to the foregoing effect. 
+
+SECTION 4.03.  Conditions Precedent to Obligations of MTVN Parent MTVN Sub. The obligations of MTVN Parent and MTVN Sub to consummate the transactions contemplated by this Agreement are subject to the fulfillment, on or prior to the Closing Date, of each of the following conditions (any or all of which may be waived by MTVN Parent and MTVN Sub in whole or in part to the extent permitted by applicable Law): 
+
+^^The representations and warranties of RN Parent set forth in this Agreement shall be true and correct in all material respects at and as of the Closing, except to the extent such representations and warranties relate to an earlier date (in which case such representations and warranties shall be true and correct in all material respects on and as of such earlier date); and MTVN Parent shall have received a certificate signed by an authorized officer of RN Parent, dated the Closing Date, to the foregoing effect. 
+
+^^RN Parent and RN Sub shall have performed and complied in all material respects with all obligations and agreements required by this Agreement to be performed or complied with by it on or prior to the Closing Date, and MTVN Parent shall have received a certificate signed by an authorized officer of RN Parent, dated the Closing Date, to the foregoing effect. 
+
+^^Amendment of Verizon Agreement. The Company shall have entered into an amendment to the Joint Music Service Agreement dated as of [[Date 3]], by and between Verizon Corporate Services, Inc. and Cellco Partnership d/b/a Verizon Wireless, on the one hand, and the Company, on the other hand, which amendment will provide for the Company’s remaining advertising commitment; provided, that as of the Closing Date, such advertising commitment, together with the Company’s other advertising commitments to third parties which together require use of 
+
+^^^^^ 
+the MTVN advertising commitment made available to the Company pursuant to the MTVN License Agreement, shall not exceed $[[USD Value 1: Number]] in the aggregate. 
+
+SECTION 4.04.  Commercially Reasonable Efforts. Subject to the terms and conditions herein provided, each party agrees to cooperate and use commercially reasonable efforts to cause the Closing to occur as promptly as practicable,  provided, that RN Parent and MTVN Parent shall not be required to incur additional third-party costs or expenses in connection with efforts to obtain an amendment, consent or waiver pursuant to Section 4.01(a) or Section 5.04, to obtain approvals from any applicable Governmental Entity pursuant to Section 4.01(c) or to effect the transfer of Transferred Employees pursuant to Section 5.02. 
+
+^\centered Covenants 
+
+SECTION 5.01.  Tax Treatment. RN Parent, RN Sub, MTVN Parent and MTVN Sub hereby agree that, for Federal income tax purposes, (a) the transactions referred to in Sections 2.01, 2.02 and 2.03 of this Agreement shall be treated as occurring in the manner and in the sequence specified therein, (b) the termination of the Note pursuant to Section 2.01(b) of this Agreement shall be treated as a distribution of the Note by the Company to MTVN Sub under Section 731(a) of the Code, (c) the purchase of the international radio business by RN Sub under Section 2.01(c) of this Agreement shall be treated as a purchase under which the gain, if any, to the Company is allocated pursuant to Section 704(c) of the Code and Treasury Regulation Section 1.704-3(b)(1), (d) the Contribution of the RN Contributions and assumption of RN Included Liabilities under Section 2.01(d) and (e) of this Agreement shall be treated as a contribution of property to a partnership under Section 721(a) of the Code, (e) the Conversion under Section 2.02 shall be treated as a contribution of property by a partnership to a corporation under Section 351 of the Code in exchange for common and preferred stock followed by a liquidation of the partnership and distribution of the preferred stock to RN Sub and the common stock to MTVN Sub under Section 731(a) of the Code, (f) the Contribution of the MTVN Contributions under Section 2.03 shall be treated as a taxable prepaid purchase of advertising inventory by the Company from MTVN Sub for its own stock having a value equal to the value specified in  Schedule 2, (g) the stock to be held by RN Sub under Section 2.06(a) shall be treated as received by RN Sub under clause (e) hereof, (h) after completion of the steps in Section 2.01 and immediately before the Conversion, the preferred stock held by RN Sub shall represent sixty-nine percent ([[Percentage 3: Number]]%) of the capital stock of the Company and the common stock held by MTVN Sub shall represent thirty-one percent ([[Percentage 4: Number]]%) of the capital stock of the Company (in each case taking the preferred stock into account on the basis of the common stock into which it is convertible), and (i) upon the Contribution of the MTVN Contributions, the Company shall issue to MTVN Sub newly issued common stock in exchange therefor in a sufficient number of shares so that RN Sub and MTVN Sub each hold fifty percent ([[Percentage 5: Number]]%) of the capital stock of the Company. None of RN Parent, RN Sub, MTVN Parent or MTVN Sub shall take any position inconsistent with such characterizations on any tax return unless otherwise required by Law. 
+
+^^^^^ 
+^Employee Matters. (a) Prior to the Closing, the Company shall offer employment consistent with the terms set forth on  Schedule 6 hereto, to be effective as of the Closing Date to the employees of RN Parent set forth on  Schedule 5 hereto (an employee who accepts such offer of employment is hereinafter referred to as a “ Transferred Employee”). RN Parent, RN Sub, MTVN Parent and MTVN Sub agree to exercise commercially reasonable efforts to effect the transfer of Transferred Employees to the Company;  provided that none of RN Parent, RN Sub, MTVN Parent or MTVN Sub shall be required to incur material costs in connection with such transfer of employees. 
+
+^^RN Parent, RN Sub, MTVN Parent and MTVN Sub and their respective Affiliates shall not, without the prior written Consent of RN Parent (in the case of MTVN Parent, MTVN Sub and their respective Affiliates) or MTVN Parent (in the case of RN Parent, RN Sub and their respective Affiliates), solicit for employment or hire any Transferred Employee for a period of twelve (12) months commencing on the Closing Date. Notwithstanding the foregoing, RN Parent, RN Sub, MTVN Parent and MTVN Sub and their respective Affiliates shall not be precluded from soliciting or hiring any Transferred Employee who (i) responds to any public announcement or general solicitation not directed specifically to employees of the Company or (ii) has been involuntarily terminated by the Company. 
+
+^^The Company shall not, without the prior written Consent of RN Parent or MTVN Parent, as applicable, solicit for employment or hire any employee (other than Transferred Employees) of RN Parent, RN Sub or any other subsidiary of RN Parent, on the one hand, or MTVN Parent, MTVN Sub or any other subsidiary of MTVN Sub, on the other hand, for a period of twelve (12) months commencing on the Closing Date. Notwithstanding the foregoing, the Company shall not be precluded from soliciting or hiring any such employee who (i) responds to any public announcement or general solicitation not directed specifically to employees of RN Parent, RN Sub or any other subsidiary of RN Parent, on the one hand, or MTVN Parent, MTVN Sub or any other subsidiary of MTVN Parent, on the other hand, or (ii) has been involuntarily terminated by RN Parent, RN Sub or any other subsidiary of RN Parent, or MTVN Parent, MTVN Sub or any other subsidiary of MTVN Parent, as applicable. 
+
+^^RN Parent, RN Sub, MTVN Parent, MTVN Sub and their respective Affiliates shall cooperate following the date hereof to establish as of the Closing employee benefit plans, a stock option plan and all other related employee programs that are reasonably necessary to enable the Company to operate its business. 
+
+^^Except to the extent required by applicable Law, effective as of the Closing, (i) RN Parent, RN Sub and their respective Affiliates (other than the Company) shall assume and retain liability and responsibility for all potential or actual employment and employee-benefits related liabilities, claims and losses that arise as a result of an event or events that occurred prior to the Closing that relate to Transferred Employees (and any dependent or beneficiary of any Transferred Employee), (ii) the Company shall assume and be solely responsible for all potential or actual employment and employee-benefits related liabilities, claims and losses that arise as a result of an event or events 
+
+^^^^^ 
+that occurred on or after the Closing that relate to Transferred Employees (and any dependent or beneficiary of any Transferred Employee), and (iii) none of MTVN Parent, MTVN Sub or any of their respective Affiliates (other than the Company) shall have any liability with respect to any potential or actual employment and employee-benefits related liabilities, claims and losses that relate to Transferred Employees (and any dependent or beneficiary of any Transferred Employee). 
+
+^^The Company, RN Parent, RN Sub, MTVN Parent, MTVN Sub and their respective Affiliates shall cooperate following the date hereof to establish as of the Closing a compensation plan (including base salary, annual bonus and long-term incentives) reflecting the terms set forth on Schedule 6. 
+
+^^Without limiting the generality of Section 8.03, no provision of this Section 5.02 shall create any third-party beneficiary rights in any employee or former employee (including any beneficiary or dependent thereof) of RN Parent, RN Sub, MTVN Parent, MTVN Sub, the Company or any of their respective Affiliates in any respect, including in respect of continued employment (or resumed employment) with the Company, and no provision of this Section 5.02 shall create such rights in any such Persons in respect of any benefits that may be provided, directly or indirectly, under any employee program or any plan or arrangement of the Company. No provision of this Agreement shall constitute a limitation on the rights to amend, modify or terminate after the Closing any such plans or arrangements of the Company. 
+
+SECTION 5.03.  Expenses; Transfer Taxes. (a) All costs and expenses incurred in connection with the preparation of this Agreement and the Transaction Documents and the consummation of the transactions contemplated hereby and thereby shall be paid by the party incurring such costs and expenses. 
+
+^^Each of RN Parent and MTVN Parent shall pay all Transfer Taxes on the RN Contributions and the MTVN Contributions, respectively, Contributed to the Company pursuant to Section 2.01 and Section 2.03, as applicable. 
+
+SECTION 5.04.  Further Assurances. (a) From time to time after the date hereof, as and when reasonably requested by another party, each party shall execute and deliver, or cause to be executed and delivered, all such documents and instruments and shall take, or cause to be taken, all such further or other actions as the parties reasonably deem necessary to give effect to the Restructuring Transactions. RN Parent and its Affiliates will settle intercompany accounts and outstanding cash balances between them and the Company in the ordinary course of business and consistent with past practice. 
+
+^^Prior to the Closing Date, with respect to any contracts of RN Parent (other than the contracts set forth on Schedule 4) (the “Business Contracts”) under which services or technology are provided to the Company pursuant to the Venture License Agreement (the “Pass-Through Services”), RN Parent and the Company shall mutually determine (i) any such Business Contracts that require an amendment, consent or waiver in order to continue to provide the Pass-Through Services after the Closing 
+
+^^^^^ 
+Date and (ii) the timing and method of obtaining any such amendment, consent or waiver (whether before or after the Closing Date). 
+
+^^With respect to any Business Contract identified as falling under Section 5.04(b) for which no amendment, consent or waiver has been received prior to the Closing Date, RN Parent shall use its reasonable best efforts to arrange for the continued provision of the Pass-Through Services pursuant to the Venture License Agreement, and the Company shall use its reasonable best efforts to assist RN Parent in obtaining any such amendment, consent or waiver. If MTVN Parent, RN Parent and the Company agree that certain Pass-Through Services shall be provided after the Closing Date without the consent to or approval of the Pass-Through Services from the counterparties to such Business Contracts, then the Company shall indemnify and hold harmless RN Parent, and its Affiliates and each of its officers, directors, employees, stockholders, agents and representatives (each, an “RN Party”) against any Losses related to the provision of such Pass-Through Services. 
+
+^\centered Indemnification 
+
+SECTION 6.01.  Indemnification. (a) The indemnification obligations of RN Parent and MTVN Parent set forth in Article V of the Original Contribution Agreement shall also apply to Losses arising out of any breaches of such parties’ covenants and agreements contained in this Agreement as if set forth herein. Such obligations and the related terms and conditions shall apply on an aggregate basis to both this Agreement and the Original Contribution Agreement as if both were the same agreement, including the indemnification minimum and cap amounts set forth therein. 
+
+^^In furtherance of the foregoing, the indemnification procedures set forth in Section 5.06 of the Original Contribution Agreement shall apply to any Third Party Claim arising out of this Agreement, other than claims described in Sections 6.02 and 6.03. 
+
+SECTION 6.02.  Company Claims.  
+
+^^The Company shall indemnify RN Parent and its Affiliates, MTVN Parent and its Affiliates and each of their respective officers, directors, employees, stockholders, agents and representatives (each, an “Indemnified Party”) against, and hold them free and harmless from, any and all Losses arising from or relating to (i) any failure by the Company to perform or fulfill any of its covenants or agreements contained in this Agreement, including without limitation with respect to any of the MTVN Contributions, RN Contributions or RN Included Liabilities, (ii) the Rhapsody Service, or (iii) those claims set forth on Schedule 7, in each case, arising prior to, on or after the date hereof (each, a “Company Indemnified Claim”); provided, that the Company shall not be required to indemnify an Indemnified Party against any claim arising out of the fraud, gross negligence or willful misconduct of the Indemnified Party 
+
+^^^^^ 
+and; provided further, that any Losses arising solely out of or relating to any breach of Section 3.01(e) hereof shall not be deemed Company Indemnified Claims. If and to the extent that the foregoing undertaking may be unavailable or unenforceable for any reason, the Company will make the maximum contribution to the payment and satisfaction of each of the Company Indemnified Claims which is permissible under applicable law. The rights of any Indemnified Party to indemnification hereunder will be in addition to any other rights any such party may have under any other agreement or instrument referenced above or any other agreement or instrument to which such Indemnified Party is or becomes a party or is or otherwise becomes a beneficiary under Law. 
+
+^^The Company shall control the defense of any Company Indemnified Claim (except claims set forth on Schedule 7 for which RN Parent shall control the defense, provided, the Company shall be entitled, at its option, to control the defense of any such claim upon notification to RN Parent of such election), provided, however, if at any time, in the reasonable opinion of an Indemnified Party, notice of which shall be given in writing to the Company, (i) the Indemnified Party has been advised in writing by counsel that a reasonable likelihood exists of a conflict of interests between the Company and the Indemnified Party with respect to the Company Indemnified Claim, or (ii) upon petition by the Indemnified Party, a court rules that the Company failed or is failing to vigorously prosecute or defend such claim, the Indemnified Party shall have the right in its sole discretion to control or assume (as the case may be) the defense of any such Company Indemnified Claim and the amount of any judgment or settlement and the reasonable costs and expenses of defense shall be included as part of the indemnification obligations of the Company hereunder. If the Indemnified Party should elect to exercise such right, the Company shall have the right to monitor and participate in, but not control, the defense of such Company Indemnified Claim or claim set forth on Schedule 7, as applicable, at the sole cost and expense of the Company. In the event that the Indemnified Party exercises its right to control the defense of a claim set forth on Schedule 7, any Litigation Costs (as defined below) incurred by the Indemnified Party in connection with the defense of such claim shall be included in the Losses indemnified by the Company pursuant to Section 6.02(a) The Indemnified Party shall not admit any liability with respect to, or settle, compromise or discharge, any Company Indemnified Claim, irrespective of whether it controls or has assumed the defense of such claim, without the Company’s prior written consent (which consent shall not be unreasonably withheld). Notwithstanding anything to the contrary in the foregoing, the Indemnified Party may elect to control the defense of any Company Indemnified Claim not included in clauses (i) and (ii) above, it being understood that the Indemnified Party shall thereby relinquish any right to seek indemnification hereunder. 
+
+SECTION 6.03.  Company Claims. (a) With respect to any claim set forth on  Schedule 8 in which an RN Party is named as a party, RN Parent and the Company each agree that it shall bear that portion of all litigation costs and expenses (including reasonable legal fees and expenses arising out of or relating to such claims (collectively, “ Litigation Costs”) allocated to such party on  Schedule 8, subject to, and giving retroactive effect to, any allocation of Litigation Costs or the relative responsibility of each party as determined by the applicable court or tribunal. The 
+
+^^^^^ 
+parties shall negotiate in good faith to enter into an agreement providing for the allocation of Losses (excluding Litigation Costs) associated with such claims based on the relative responsibility assigned to each party by the applicable court or tribunal presiding over such claims (an “Allocation Agreement”). Each of RN Parent and the Company hereby agrees that it shall pay for any Litigation Costs so allocated, and that each of the Company and RN Parent shall have the right to enforce such obligation in a court of law. The parties agree that the applicable RN Party shall control the defense of the matters set forth on Schedule 8, provided, that the Company shall be entitled, at its option, to control the defense of any such claim or a portion thereof (to the extent such claim or a portion thereof relates solely to the Company and not to an RN Party) upon notification to RN Parent of such election. If the Company exercises its option to control the defense of any claim set forth on Schedule 8 or portion thereof pursuant to the preceding sentence, then (i) the Company shall bear the Litigation Costs associated with such defense, and RN Parent shall bear the Litigation Costs associated with the portion of such claim of which RN Parent controls the defense (if any), in each case, without regard to the Allocation Agreement (if any), and (ii) any Losses arising out of such claim shall be borne by RN Parent and the Company, respectively, based on the ruling of the applicable court or tribunal. Each of the Company and RN Parent hereby waives any claim or defense that any conflict of interests exists between the Company and RN Parent or any RN Party with respect to the matters set forth on Schedule 8, and further consents to and authorizes RN Parent’s engagement of outside and internal counsel (collectively, “RN Counsel”) to represent both RN Parent and the Company in connection with such claims for which RN Party controls the defense, and further agrees to execute any agreement necessary to secure engagement of counsel or otherwise facilitate the joint representation described herein. Each of the Company and RN Parent also agrees that it will not, for itself or any other entity or person, assert that either (a) RN Counsel’s representation of the Company in any matter set forth on Schedule 8 or (b) RN Parent’s actual, or possible, possession of confidential information belonging to the Company or any affiliate is a basis to disqualify RN Counsel from representing the Company in connection with the matters set forth on Schedule 8. The Company and RN Parent agree that in the event that the Company and RN Parent share or disclose to one another any confidential or privileged information in connection with the defense of the matters set forth on Schedule 8, such disclosure shall be made subject to joint defense and/or common interest privileges and accordingly shall not result in a waiver of any applicable rules of privilege and confidentiality vis-à-vis potentially adverse parties. It is the intention and understanding of each of the Company and RN Parent that (x) the fact that particular communications may be made between them relating to the matters set forth on Schedule 8, (y) the contents of such communications and (z) any part of memoranda or other work product containing or referring to such communications shall remain confidential and protected from disclosure to any third party. 
+
+^^With respect to any claim which may arise from or relate to, in whole or in part, products of any MTVN Parent, any of its Affiliates or their respective officers, directors, employees, stockholders, agents and representatives (each, a “MTVN Party”) or RN Party or services of a MTVN Party or RN Party that are not among the MTVN Contributions, RN Contributions or the RN Contributed Assets or MTVN Contributed Assets (each, as defined in the Original Contribution Agreement) (excluding 
+
+^^^^^ 
+any claim otherwise indemnified under Sections 6.02 and 6.03(a)), the parties shall negotiate in good faith to enter into an agreement within twenty (20) Business Days of the date upon which such claim is made known to MTVN Party, RN Party or the Company, which shall provide for (a) the allocation of costs associated with such claim and (b) the management of any litigation arising out of such claim. 
+
+^^Notwithstanding anything to the contrary set forth herein, nothing in this Article VI or any other Transaction Agreement shall in any way affect or apply to any of the pending litigation matters set forth on Schedule 9 hereto. 
+
+SECTION 6.04.  Indemnification Procedures. With respect to any claim described in Sections 6.02 and 6.03, in order for an Indemnified Party to be entitled to any indemnification provided for under this Agreement in respect of, arising out of or involving any claim, such Indemnified Party must notify the Company in writing (and in reasonable detail) of the claim within a reasonable time after receipt by such Indemnified Party of written notice of the claim;  provided,  however, that failure to give such notification shall not affect the indemnification provided hereunder unless the Company shall have been actually and materially prejudiced as a result of such failure. After providing notice to the Company, the Indemnified Party shall deliver to the Company, within a reasonable time after the Indemnified Party’s receipt thereof, copies of all notices and documents (including court papers) received by the indemnified party relating to the claim. The provisions of this Section 6.04 shall not apply to any claim for indemnification made under Section 6.01. 
+
+SECTION 6.05.  Cooperation. If the Company defends or prosecutes a claim, all Indemnified Parties shall cooperate in the defense or prosecution thereof. Such cooperation shall include the retention and (upon the Company’s request) the provision to the Company of records and information that are reasonably relevant to such claim, and making employees available on a mutually convenient basis to provide additional information and explanation of any material provided hereunder;  provided, that in connection with any claim arising out of Section 6.03, including any claim set forth on Schedule 8, in the event that the Company assumes the defense or a portion thereof, RN Parent and MTVN Parent shall, and shall cause their respective Affiliates to, transfer any information relevant to such defense to the Company as promptly as practicable after the Company’s delivery of notice to RN Parent or MTVN Parent, or any of their respective Affiliates, of its intent to assume the defense of the claim; and  provided further, that at the request of either RN Parent or MTVN Parent, the parties agree that prior to exchanging any information that has been reasonably determined to be privileged information by RN Parent or MTVN Parent, the parties shall agree to discuss in good faith the appropriateness of entering into a joint defense and cooperation agreement with respect to such information but the Company shall not be obligated to enter into any such joint defense agreement. 
+
+^^^^^ 
+^\centered Termination 
+
+SECTION 7.01.  Termination. This Agreement may be terminated at any time prior to the Closing: 
+
+^^by written agreement of MTVN Parent and RN Parent; 
+
+^^by either MTVN Parent or RN Parent, by giving written notice of such termination to RN Parent or MTVN Parent, respectively, if the Closing shall not have occurred on or before the date that is one hundred eighty (180) days after the date hereof so long as the terminating party is not in material breach of its obligations under this Agreement; or 
+
+^^by either MTVN Parent or RN Parent if any state or Federal court of competent jurisdiction or other state or Federal Governmental Entity of competent jurisdiction shall have issued an Order or taken any other action permanently enjoining or otherwise prohibiting the consummation of the transactions contemplated hereby and such Order or other action shall have become final and non-appealable. 
+
+SECTION 7.02.  Effect of Termination. In the event of the termination of this Agreement in accordance with Section 7.01, this Agreement shall thereafter become void and have no effect, and no party hereto shall have any liability to any other party or their respective Affiliates, or their respective directors, officers or employees, except for the obligations of the parties hereto contained in this Section 7.02 and in Article VIII (and any related definitional provisions set forth in Article I), as applicable;  provided,  however, that nothing in this Section 7.02 shall relieve any party hereto from liability for any breach of this Agreement that arose prior to such termination. 
+
+^\centered Miscellaneous 
+
+SECTION 8.01.  Survival. The representations and warranties contained in Sections 3.01 and 3.02 of this Agreement shall terminate upon the Closing. The covenants and agreements in this Agreement shall survive in accordance with their terms or, if no term is stated, then shall survive indefinitely. 
+
+SECTION 8.02.  Notices. Except as otherwise expressly provided in this Agreement, all notices, requests and other communications to any party hereunder shall be in writing (including a facsimile or similar writing) and shall be given to such party at the address or facsimile number set forth for such party in  Schedule 10 hereto or as such party shall hereafter specify for the purpose by notice to the other parties. Each such notice, request or other communication shall be effective (a) if given by facsimile, at the time such facsimile is transmitted and the appropriate confirmation is received (or, if such time is not during a Business Day, at the beginning of the next such Business Day), (b) if given by mail, five (5) Business Days (or (i) if by overnight courier, one (1) Business 
+
+^^^^^ 
+Day, or (ii) if to an address outside the United States, seven (7) Business Days) after such communication is deposited in the mails with first-class postage prepaid, addressed as aforesaid, or (c) if given by any other means, when delivered at the address specified pursuant to this Section 8.02. 
+
+SECTION 8.03.  No Third Party Beneficiaries. This Agreement shall be binding upon and inure to the benefit of all the parties hereto and their successors and assigns, and their legal representatives. No party may assign this Agreement or any of its rights, interests or obligations in connection with the Restructuring Transactions. This Agreement is not intended to confer any rights or remedies hereunder upon, and shall not be enforceable by, any Person other than the parties hereto. 
+
+SECTION 8.04.  Waiver. No failure by any party to insist upon the strict performance of any covenant, agreement, term or condition of this Agreement or to exercise any right or remedy consequent upon a breach of such or any other covenant, agreement, term or condition shall operate as a waiver of such or any other covenant, agreement, term or condition of this Agreement. Any party by notice given in accordance with Section 8.02 may, but shall not be under any obligation to, waive any of its rights or conditions to its obligations hereunder, or any duty, obligation or covenant of any other party. No waiver shall affect or alter the remainder of this Agreement but each and every covenant, agreement, term and condition hereof shall continue in full force and effect with respect to any other then existing or subsequent breach. The rights and remedies provided by this Agreement are cumulative and the exercise of any one right or remedy by any party shall not preclude or waive its right to exercise any or all other rights or remedies. 
+
+SECTION 8.05.  Integration. This Agreement and the Transaction Documents and all other written agreements contemporaneously entered into herewith by the parties constitute the entire agreement among the parties pertaining to the subject matter hereof and supersede all prior agreements and understandings of the parties in connection herewith, and no covenant, representation or condition not expressed in this Agreement shall affect, or be effective to interpret, change or restrict, the express provisions of this Agreement. For the avoidance of doubt, the Original Contribution Agreement shall remain in full force and effect and shall be unaffected hereby, except as otherwise expressly provided herein. 
+
+SECTION 8.06.  Headings. The titles of Articles and Sections of this Agreement are for convenience only and shall not be interpreted to limit or amplify the provisions of this Agreement. 
+
+SECTION 8.07.  Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original and all of which, taken together, shall constitute one and the same instrument and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties. 
+
+^^^^^ 
+^Severability. Each provision of this Agreement shall be considered separable and if for any reason any provision or provisions hereof are determined to be invalid and contrary to any existing or future Law, such invalidity shall not impair the operation of or affect those portions of this Agreement which are valid;  provided,  however, that in such case the parties shall endeavor to amend or modify this Agreement to achieve to the extent reasonably practicable the purpose of the invalid provision or provisions. 
+
+SECTION 8.09.  Amendments and Modifications. This Agreement may be amended or modified at anytime and from time to time with the written Consent of each party. 
+
+SECTION 8.10.  Governing Law; Consent to Jurisdiction. (a) This Agreement and the Original Contribution Agreement shall be governed by and construed in accordance with the Laws of the State of New York without giving effect to the conflicts of law principles thereof. The Company and each of the parties hereto, by its execution hereof, (i) hereby irrevocably submit to the exclusive jurisdiction of the state and Federal courts located within the borough of Manhattan of the City, County and State of New York for the purposes of any claim or action arising out of or based upon this Agreement, the Original Contribution Agreement or relating to the subject matter hereof or thereof, (ii) hereby waive, to the extent not prohibited by applicable Law, and agree not to assert by way of motion, as a defense or otherwise, in any such claim or action, any claim that it or he is not subject personally to the jurisdiction of the above-named courts, that its, his or her property is exempt or immune from attachment or execution, that any such Proceeding brought in the above-named court is improper or that this Agreement or the subject matter hereof may not be enforced in or by such court and (iii) hereby agree not to commence any claim or action arising out of or based upon this Agreement, the Original Contribution Agreement or relating to the subject matter hereof or thereof other than before the above-named courts nor to make any motion or take any other action seeking or intending to cause the transfer or removal of any such claim or action to any court other than the above-named courts whether on the grounds of inconvenient forum or otherwise. The Company and each of the parties hereto hereby consent to service of process in any such Proceeding, and agree that service of process by registered or certified mail, return receipt requested, at its address specified pursuant to Section 8.02 is reasonably calculated to give actual notice. 
+
+^^The provisions of Sections 6.09 and 6.10 of the Original Contribution Agreement are hereby deleted and superseded by Section 8.10(a) of this Agreement. 
+
+SECTION 8.11.  Waiver of Jury Trial. Each of the parties irrevocably waives any and all right to trial by jury in any legal Proceeding arising out of or relating to this Agreement or the transactions contemplated by this Agreement. 
+
+SECTION 8.12.  Absence of Presumption. The parties have participated jointly in the negotiation and drafting of this Agreement and, in the event of ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted 
+
+^^^^^ 
+jointly by such parties and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement. 
+
+^^^^^ 
+IN WITNESS WHEREOF, this Agreement has been duly executed by the parties hereto as of the day and year first above written. 
+
+RHAPSODY AMERICA LLC
+[[RHAPSODY AMERICA LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{RHAPSODY AMERICA LLC Entity => By: [[RHAPSODY AMERICA LLC Signatory First Name]] [[RHAPSODY AMERICA LLC Signatory Last Name]]
+Title: [[RHAPSODY AMERICA LLC Signatory Title]]}}
+
+
+REALNETWORKS, INC.
+[[REALNETWORKS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{REALNETWORKS INC. Entity => By: [[REALNETWORKS INC. Signatory First Name]] [[REALNETWORKS INC. Signatory Last Name]]
+Title: [[REALNETWORKS INC. Signatory Title]]}}
+
+
+REALNETWORKS DIGITAL MUSIC OF CALIFORNIA, INC.
+[[REALNETWORKS DIGITAL MUSIC OF CALIFORNIA INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{REALNETWORKS DIGITAL MUSIC OF CALIFORNIA INC. Entity => By: [[REALNETWORKS DIGITAL MUSIC OF CALIFORNIA INC. Signatory First Name]] [[REALNETWORKS DIGITAL MUSIC OF CALIFORNIA INC. Signatory Last Name]]
+Title: [[REALNETWORKS DIGITAL MUSIC OF CALIFORNIA INC. Signatory Title]]}}
+
+
+VIACOM INTERNATIONAL INC.
+[[VIACOM INTERNATIONAL INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{VIACOM INTERNATIONAL INC. Entity => By: [[VIACOM INTERNATIONAL INC. Signatory First Name]] [[VIACOM INTERNATIONAL INC. Signatory Last Name]]
+Title: [[VIACOM INTERNATIONAL INC. Signatory Title]]}}
+
+
+DMS HOLDCO INC.
+[[DMS HOLDCO INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DMS HOLDCO INC. Entity => By: [[DMS HOLDCO INC. Signatory First Name]] [[DMS HOLDCO INC. Signatory Last Name]]
+Title: [[DMS HOLDCO INC. Signatory Title]]}}
+

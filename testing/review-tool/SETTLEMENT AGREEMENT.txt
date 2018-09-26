@@ -1,94 +1,41 @@
-\centered **SETTLEMENT AGREEMENT AND**
+\centered **SETTLEMENT AGREEMENT**
 
-\centered **MUTUAL RELEASE OF ALL CLAIMS**
+Parties:
 
-This Settlement Agreement and Mutual Release of All Claims (the “Agreement”) is entered into by and between, Metabolic Research, Inc., a Nevada corporation (“Metabolic”), Robert Bakker (“Bakker”), K. C. Quintana (“Quintana”), and T. W. Owen (“Owen”), (sometimes collectively the “Parties”).
+Tara Minerals Corp. (the “Company”)
 
-The term “Releasee,” as used herein, shall refer to Owen.
+Lyons Gate Capital (the “Consultant”).
 
-The term “Releasor,” as used herein, shall refer to Metabolic, Bakker, and Quintana, collectively.
+Effective Date:
 
-\centered I.
+[[Date 1: Date]].
 
-\centered **Recitals**
+The parties agree as follows:
 
-^**Settlement**. In order to facilitate furtherance of Metabolic’s business, including exploration of supplemental funding, renegotiation of debt, introduction of new products, enhanced marketing, streamlined administrative procedures, and in acknowledgement of Releasee’s contributions to the development of Metabolic, the Releasor and Releasee desire to enter into this Agreement, which, among other things, provides for the settlement and mutual release of Releasor and Releasee for every aspect of Releasee’s claims and related to the above-referenced contributions to the development of Metabolic, and any and all other matters and potential matters by and between R eleasor and Releasee, on the terms and conditions set forth herein.
+^The parties entered into a Consulting Agreement dated [[Date 2: Date]]. Pursuant to Section 2 of the Consulting Agreement the Company agreed to pay the Consultant cash, warrants and contingent consideration for services provided by the Consultant.
 
-\centered II.
+^The parties agree that the Consulting Agreement terminated on [[Date 3: Date]].
 
-\centered **Agreement**
+^The parties agree that the cash compensation referred to in Section 2(a) of the Consulting Agreement has not been paid and the Warrant referred to in Section 2(b) of the Consulting Agreement has not been issued. In lieu of the cash compensation and Warrant referred to above, the Consultant agrees to accept [[Shares 1: Number]] shares of the Company’s restricted common stock.
 
-NOW, THEREFORE, in consideration of the mutual promises and agreements herein and other good and valuable consideration, the receipt and sufficiency of which the Parties hereto acknowledge, Releasor and Releasee agree as follows:
+^Except for the obligation to issue the shares referred to above, each party releases the other from any and all claims, known or unknown, which each party may have against the other.
 
-^**Release of Releasee**. Releasor hereby fully releases and forever discharges Releasee, her agents, representatives, employers, employees, attorneys, insurers, successors, and assigns, and their parent, affiliated, and subsidiary companies, corporations, and business entities, of and from (a) any and all claims, asserted or unasserted, of whatever nature relating in any way to Metabolic; (b) any and all claims against the Releasee arising out of or in any way related to any transaction between Releasor and Releasee; (c) any claim arising out of or in any way related to any agreement, whether written or oral, between Releasor and Releasee; and (d) any damages suffered by Releasor including, but not limited to, contractual or extra-contractual damages suffered at any time.
+DATED: M ay 1, 2009
 
-^**Release of Releasor**. Releasee hereby fully releases and forever discharges Releasor, his managers, members, directors, officers, agents, representatives, employers, employees, attorneys, insurers, successors, and assigns, and their parent, affiliated, and subsidiary companies, corporations, and business entities, of and from (a) any and all claims, asserted or unasserted, of whatever nature relating in any way to Metabolic; (b) any and all claims against the Releasor arising out of or in any way related to any transaction between Releasor and Releasee; (c) any claim arising out of or in any way related to any agreement, whether written or oral, between Releasor and Releasee; and (d) any damages suffered by Releasee including, but not limited to, contractual or extra-contractual damages suffered at any time.
+TARA MINERALS CORP.
 
-^^**Settlement Consideration**. The releases stated above in sections 2.01 and 2.02 are made and given for and in consideration of each and all of the following:
-
-^^transfer by Metabolic to Owen of securities with a current tradable value of $[[USD Value 1: Number]] against and any and all past, current, and future royalty claims pursuant to and in full settlement and release of that certain License Agreement dated [[Date 1: Date]] by and amongst David Summers, Owen and Partners In Science Holdings, Inc. (the “Royalty Agreement”, a copy of which is attached hereto as Exhibit A);
-
-^^payment by Metabolic to Owen of $[[USD Value 2: Number]] in full consideration of any and all personal funds loaned to Metabolic and in full consideration of personal Metabolic shares Owen transferred to lenders as consideration for loans made to Metabolic. Said $[[USD Value 2]] to be paid in three $[[USD Value 3: Number]] payments at fifteen (15) day intervals, the first payment herewith received;
-
-^^resignation by Owen as an officer and director of Metabolic effective [[Date 2: Date]];
-
-^^resignation by Owen and mutual termination of the Employment Agreement and between Owen and Metabolic research, Inc. effective immediately upon execution of this Agreement; and;
-
-^^engagement of Owen as a consultant to Metabolic until [[Date 3: Date]] to facilitate the administrative transition. Said engagement to be compensated in the form of two $[[USD Value 4: Number]] payments to on [[Date 4: Date]], and [[Date 5: Date]]. Owen shall be reimbursed for reasonable expenses on a preapproved basis;
-
-^^Owen shall retain a certain laptop computer;
-
-^**No Liability**. By entering into this Agreement, neither Releasor nor Releasee shall be deemed to admit: (a) any liability for any claim, cause of action, or demand; (b) any wrongdoing or fault; or (c) any violation of any law, precedent, rule, regulation, or statute. Further, nothing contained in this Agreement may be construed as an admission against the interest of any party.
-
-^^**Acknowledgements**. Releasor and Releasee mutually understand and expressly agree and warrant:
-
-^^That no promise or inducement has been offered except as herein set forth.
-
-^^That this settlement is made in good faith and is equitable and fair.
-
-^^That the Parties are legally competent and have the valid and existing authority to execute this Agreement and to accept full responsibility therefore.
-
-^^That this Agreement and the releases set forth herein have been carefully read in their entirety by the Parties, who have had the benefit and advice of counsel of their choosing, and that this Agreement and the releases set forth herein are known by the Parties to be in full and final and complete compromise, settlement, release, accord and satisfaction, and discharge of all claims and actions as above stated.
-
-^^That in entering into this Agreement and the settlement and releases that are encompassed herein, Releasor and Releasee are acting freely and voluntarily and without influence, compulsion, or duress of any kind from any source, including, but not limited to, any other party or parties, their attorneys, representatives, or anyone acting or purporting to act on behalf of any of the Parties.
-
-^^That Metabolic is duly organized, validly existing, and in good standing under the laws of the state of the Nevada and has the requisite corporate power and authority to perform their obligations under this Agreement.
-
-^**Taxes**. Releasor agrees that Releasee shall have no responsibility whatsoever to any federal, state, or local taxing authority for the tax liability, or consequences, if any, arising from the payment of the Settlement Consideration recited herein, and that all such responsibility is exclusively that of Releasor.
-
-^**Integration**. This Agreement represents the full and complete integration of the agreement between the Parties and is the complete expression thereof. All other agreements, negotiations, and representations between the Parties pertaining to the subject matter of this Agreement, and to the extent not expressly set forth herein, are void and of no force or effect whatsoever. This Agreement may not be amended or modified except in writing and signed by each of the Parties.
-
-^^**Governing Law and Forum Selection**. This Agreement shall be governed by and construed in accordance with the laws of the State of Nevada. Any suit or motion to enforce this Agreement, to prosecute any claim for breach of this Agreement shall be brought in the Eighth Judicial District Court, Clark County, Nevada.
-
-^^**Counterparts**. This Agreement may be executed in any number of counterparts confirmed by facsimile signatures transmitted by telephone, each of which shall be deemed a duplicate original.
-
-^^**Severability**. If any provision of this Agreement or the application thereof to any person, entity, or circumstance shall be invalid, illegal, or unenforceable to any extent, the remainder of this Agreement and the application thereof shall not be affected and shall be enforceable to the fullest extent permitted by law.
-
-^^**Successors and Assigns**. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors, or assigns, as the case may be.
-
-^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
-
-_____________________________ 
-Tianna W. Owen 
-Dated: _______________________   
-^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
-
-_____________________________ 
-
-
-[[Party 1 Signatory Email: Identity | Signature]]
+[[TARA MINERALS CORP. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
-Title: [[Party 1 Signatory Title]]}}
+{{TARA MINERALS CORP. Entity => By: [[TARA MINERALS CORP. Signatory First Name]] [[TARA MINERALS CORP. Signatory Last Name]]
+Title: [[TARA MINERALS CORP. Signatory Title]]}}
 
-Dated: _______________________   
-^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
+Francis R. Biscan, Jr., President
 
-_____________________________ 
-Robert Bakker 
-Dated: _______________________   
-^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
+LIONS GATE CAPITAL
 
-_____________________________ 
-^C. Quintana 
-Dated: _______________________  
+[[LIONS GATE CAPITAL Signatory Email: Identity | Signature]]
+__________________________________________
+{{LIONS GATE CAPITAL Entity => By: [[LIONS GATE CAPITAL Signatory First Name]] [[LIONS GATE CAPITAL Signatory Last Name]]
+Title: [[LIONS GATE CAPITAL Signatory Title]]}}
+
+&nb sp; Jim Braseth, Authorized Officer

@@ -1,0 +1,141 @@
+$[[USD Value 1: Number]] 160; [[Date 1: Date]] 
+
+\centered **QUICK-MED TECHNOLOGIES, INC.**
+
+\centered **SENIOR CONVERTIBLE PROMISSORY NOTE**
+
+FOR VALUE RECEIVED, the undersigned, QUICK-MED TECHNOLOGIES, INC. (the “Borrower”), promises unconditionally to pay to the order of PHRONESIS PARTNERS, L.P., its successors or assigns (the “Lender”), at the Lender’s office at 130 E. Chestnut Street, Suite 403, [[Address 1: Address]], or at such other place as the Lender may from time to time designate, the principal amount of ONE MILLION FIFTY-THREE THOUSAND DOLLARS ($[[USD Value 1]]) (the “Principal Amount”), together with interest on the unpaid Principal Amount outstanding from time to time at the rate or rates hereafter specified and any and all other sums which may be owing to the Lender by the Borrower pursuant to this Senior Convertible Promissory Note (the “Note”). Thi s Note evidences (i) the Borrower’s obligations under the Prior Note (defined below) in the principal amount of Three Hundred Seventy-Five Thousand Dollars ($[[USD Value 2: Number]]), together with unpaid accrued interest thereon of Seventy-Seven Thousand Eight Hundred Thirty Six Dollars ($[[USD Value 3: Number]]), and (ii) an additional loan made by the Lender to the Borrower on the date hereof in the principal amount of Six Hundred Thousand One Hundred Sixty-Four Dollars ($[[USD Value 4: Number]]). The following terms shall apply to this Note:
+
+^**Amendment of Prior Note**. This Note amends, restates and replaces the promissory note previously issued by the Borrower to the Lender on [[Date 2: Date]], in the principal amount of Three Hundred Seventy-Five Thousand Dollars ($[[USD Value 2]]) (the "Prior Note"). Accordingly, the terms of the Prior Note are superseded in their entirety by the terms of this Note.
+
+^**Interest Rate**. Interest shall accrue on the outstanding Principal Amount at the rate of eight percent ([[Percentage 1: Number]]%) per annum. Interest shall be calculated on the basis of a year of three hundred sixty-five (365) days applied to the actual days on which there exists an unpaid balance under this Note.
+
+^**Interest Payments**. The Borrower shall pay accrued and unpaid interest on the Maturity Date, as the case may be and as hereinafter defined, and thereafter on demand until all sums due under this Note, whether principal, interest, or other sums, have been paid in full.
+
+^**Principal**. Unless sooner paid or converted, the entire outstanding Principal Amount as well as all other sums under this Note that remain unpaid shall be due and payable on [[Date 3: Date]] (the “Maturity Date”); provided that, the Borrower shall make amortized payments on the outstanding principal plus interest during the term of this Note depending on the free cash flow from operations in excess of anticipated cost from operations as determined in the discretion of the Borrower’s Board of Directors.
+
+^**Prepayment**. Borrower may prepay any portion of the outstanding principal amount of this Promissory Note with 30 days’ prior written notice.
+
+^**Conversion**. This Note shall be convertible into shares of Common Stock of the Borrower, on the terms and conditions set forth in this Section 6.
+
+^^**Conversion Right**. Subject to the provisions of Section 6(c), at any time or times on or after the first date of this Note, the Lender shall be entitled to convert any portion of the outstanding and unpaid Conversion Amount (as defined below) into validly issued, fully-paid and nonassessable shares of Common Stock in accordance with Section 6(c), at the Conversion Rate (as defined below).
+
+^^**Conversion Rate**. The number of shares of Common Stock issuable upon conversion of any Conversion Amount pursuant to Section 6(a) shall be determined by dividing (x) such Conversion Amount by (y) the Conversion Price (the “Conversion Rate”).
+
+^^^“Conversion Amount” means the portion of the Principal and interest to be converted, redeemed or otherwise with respect to which this determination is being made.
+
+^^^“Conversion Price” means $[[USD Value 7: Number]] per share of Common Stock.
+
+^^**Mechanics of Conversion**.  
+^^^**Optional Conversion**. To convert any Conversion Amount into shares of Common Stock on any date (a “Conversion Date”), the Lender shall (A) transmit by facsimile (or otherwise deliver), for receipt on or prior to 5:00 p.m., Eastern Time, on such date, a copy of an executed notice of conversion in the form attached hereto as **Exhibit B** (the “Conversion Notice”) to the Borrower and (B) if required by Section 6(c)(iii), surrender this Note to a common carrier for delivery to the Borrower as soon as practicable on or following such date (or an indemnific ation undertaking with respect to this Note in the case of its loss, theft or destruction). The Borrower shall transmit by facsimile a confirmation of receipt of such Conversion Notice to the Lender and the Borrower’s transfer agent (the “Transfer Agent”). The Transfer Agent shall issue and deliver to the address as specified in the Conversion Notice, a certificate or certificates, registered in the name of the Lender or its designee, for the number of shares of Common Stock to which the Lender shall be entitled. If this Note is physically surrendered for conversion as required by Section 6(c)(iii) and the outstanding Principal of this Note is greater than the principal portion of the Conversion Amount being converted, then the Borrower shall as soon as practicable and in no event later than ten (10) Business Days after receipt of this Note and at its own expense, issue and deliver to the holder a new Note in accordance with Section 6(c)(ii) representing the outstanding Principal not converted. The Person or Persons entitled to receive the shares of Common Stock issuable upon a conversion of this Note shall be treated for all purposes as the record holder or holders of such shares of Common Stock on the Conversion Date.
+
+^^^**Book-Entry**. Notwithstanding anything to the contrary set forth herein, upon conversion of any portion of this Note in accordance with the terms hereof, the Lender shall not be required to physically surrender this Note to the Borrower unless (A) the full Conversion Amount represented by this Note is being converted or (B) the Lender has provided the Borrower with prior written notice (which notice may be included in a Conversion Notice) requesting physical surrender and reissue of this Note. The Lender and the Borrower shall maintain records showing the Principal converted and the dates of such conversions or shall use such other method, rea sonably satisfactory to the Lender and the Borrower, so as not to require physical surrender of this Note upon conversion.
+
+^^^**Legend**. The Converted Shares shall bear a legend that reads:
+
+THE SECURITIES EVIDENCED BY THIS STOCK CERTIFICATE MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (B) AN OPINION OF COUNSEL, IN A GENERALLY ACCEPTABLE FORM, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT.
+
+^**Adjustment**. If the Borrower at any time on or after the date of this Note subdivides (by any stock split, stock dividend, recapitalization or otherwise) one or more classes of its outstanding shares of Common Stock into a greater number of shares, the Conversion Price in effect immediately prior to such subdivision will be proportionately reduced. If the Borrower at any time on or after the Closing Date combines (by combination, reverse stock split or otherwise) one or more classes of its outstanding shares of Common Stock into a smaller number of shares, the Conversion Price in effect immediately prior to such combination will be proportionatel y increased.
+
+^**Negative Covenants.** During the term of this Promissory Note and until all obligations hereunder are satisfied, Borrower shall not, without first obtaining the affirmative written consent of the Lender, which shall not be unreasonably withheld: (i) pay or declare any dividend or distribution on any common stock or preferred stock (“Capital Stock”), or apply any of its assets to the redemption, purchase or acquisition, directly or indirectly, through subsidiaries or otherwise, of any share capital or assets of another entity; (ii) sell, transfer, lease, offer as collateral or otherwise dispose of any of its Capital Stock, assets o r properties other than in the ordinary course of business transactions or as unanimously approved by the Board of Directors; (iii) enter into any joint venture, business combination, merger, consolidation, recapitalization or other reorganization or permit any subsidiary to enter into any merger, consolidation, recapitalization or other reorganization; (iv) enter into any agreement, or allow any subsidiary, to enter any agreement to issue or offer any security, including, without limitation, any equity security, convertible note, secured note or promissory note and (v) amend or repeal any provision of, or add any provision to, the Borrower's certificate of incorporation or by-laws other than for subject matters not involving the items subject to Lender’s prior written consent listed above; provided however, Lender shall not be obligated to provide affirmative written consent, if in Lender’s reasonable opinion, consent to any of the foregoing actions would: (a) impair Lender’s ability to be repaid under this Note or (b) impair Borrower’s ability to perform its obligations under the Share Exchange Agreement. Without the prior written consent of the Lender, the Borrower shall not amend any of the Other Senior Notes (defined below), and the Borrower shall treat the indebtedness evidenced thereby as if it were Senior Indebtedness (as defined in the Intercreditor Agreement) under the Intercreditor Agreement.
+
+^**Repayment Extension**. If any payment of principal or interest shall be due on a Saturday, Sunday or any other day on which banking institutions in the State of Florida are required or permitted to be closed, such payment shall be made on the next succeeding business day and such extension of time shall be included in computing interest under this Note.
+
+^**Manner and Application of Payments**. All payments due hereunder shall be paid in lawful money of the United States of America which shall be legal tender in payment of all debts and dues, public and private, in immediately available funds, without offset, deduction or recoupment. Any payment by check or draft shall be subject to the condition that any receipt issued therefore shall be ineffective unless the amount due is actually received by the Lender.
+
+^**Collateral; Security Interest**. The Borrower hereby grants to the Lender as collateral security for its obligations hereunder a security interest in and to all right, title and interest of the Borrower in and to all of the Borrower’s personal property assets of each and every type more specifically identified in Article 9 of the Uniform Commercial Code as in effect in the State of Florida, whether now owned or hereafter acquired, wherever located. The Lender is hereby authorized to file a financing statement naming the Borrower, as debtor, and the Lender, as secured party, in respect of all such collateral. Lender’s intere st in the collateral security shall be limited to the outstanding principal and interest under this Note. Notwithstanding the foregoing, the Lender shall not unreasonably withhold the Borrower’s request to restructure the security interest in case of a future debt or equity financing.
+
+^**No Other Outstanding Notes**. The Borrower represents to the Lender that it has no outstanding obligations for borrowed monies except as previously disclosed to the Lender and that this Note shall rank senior to all outstanding obligations of the Borrower; provided, however, that (i) this Note shall rank pari passu with certain debt obligations owed to Michael Granito in accordance with the provisions of the Intercreditor Agreement dated as of [[Date 4: Date]] among Michael Granito, the Lender and the Borrower, as amended (the “Intercreditor Agreement”), and (ii) this Note shall rank pari passu in right of payment with the $[[USD Value 5: Number]] senior convertible note issued to 2849232 CANADA INC and the $[[USD Value 6: Number]] senior convertible note issued to Peter L. Berry Holdings, Inc. (collectively, the “Other Senior Notes”) to the same extent as if the debt evidenced by such Other Senior Notes was included in the Senior Indebtedness (as defined in the Intercreditor Agreement) under the Intercreditor Agreement..
+
+^**Events of Default**. The occurrence of any one or more of the following events shall constitute an “Event of Default” under this Note:
+
+^^the failure of the Borrower to pay any sum due under this Note within three (3) days after such payment was first due, whether by demand or otherwise;
+
+^^the occurrence or commencement of a liquidation or bankruptcy or similar proceeding in respect of the Borrower or any of its assets; and
+
+^^the breach by Lender of any of the Negative Covenants set forth in Section 8 of this Note.
+
+^**Rights and Remedies Upon Default**. Upon the occurrence of an Event of Default hereunder, the Lender, in the Lender’s sole discretion and without notice to the Borrower, may: (a) declare the entire outstanding Principal Amount, together with all accrued interest and all other sums due under this Note to be immediately due and payable, and the same shall thereupon become immediately due and payable without presentment, demand or notice which are hereby expressly waived; (b) exercise its right of setoff against any money, funds, credits or other property of any nature whatsoever of the Borrower now or at any time hereafter in the possession of, in trans it to or from, under the control or custody of, or on deposit with, the Lender in any capacity whatsoever, including without limitation, any balance of any deposit account and any credits with the Lender; (c) terminate any outstanding commitments of the Lender to the Borrower; (d) exercise all rights and remedies of a secured party in respect of the collateral referred to above as provided under Article 9 of the Uniform Commercial Code as in effect on the date hereof in the State of Florida; and (e) exercise any or all rights, powers, and remedies now or hereafter existing at law, in equity, by statute or otherwise.
+
+^**Remedies Cumulative**. Each right, power and remedy of the Lender hereunder, or now or hereafter existing at law, in equity, by statute or otherwise shall be cumulative and concurrent, and the exercise or beginning of the exercise of any one or more of them shall not preclude the simultaneous or later exercise by the Lender of any or all such other rights, powers or remedies. No failure or delay by the Lender to insist upon the strict performance of any one or more provisions of this Note or to exercise any right, power or remedy consequent upon a breach thereof or default hereunder shall constitute a waiver thereof or preclude the Lender from exercising an y such right, power or remedy. By accepting full or partial payment after the due date of any amount of principal of or interest on this Note, or other amounts payable on demand, the Lender shall not be deemed to have waived the right either to require prompt payment when due and payable of all other amounts of principal of or interest on this Note or other amounts payable on demand, or to exercise any rights and remedies available to it in order to collect all such other amounts due and payable under this Note.
+
+^**Maximum Rate of Interest**. Notwithstanding any provision of this Note to the contrary, the Borrower shall not be obligated to pay interest pursuant to this Note in excess of the maximum rate of interest permitted by the laws of any state determined to govern this Note or the laws of the United States applicable to loans in such state. If any provisions of this Note shall ever be construed to require the payment of any amount of interest in excess of that permitted by applicable law, then the interest to be paid pursuant to this Note shall be held subject to reduction to the amount allowed under applicable law and any sums paid in excess of the interest rat e allowed by law shall be applied in reduction of the principal balance outstanding pursuant to this Note. The Borrower acknowledges that it has been contemplated at all times by the Borrower that the laws of the State of Florida will govern the maximum rate of interest that it is permissible for the Lender to charge the Borrower pursuant to this Note.
+
+^**Waiver of Presentment**. The Borrower waives demand, presentment, protest, and notice of demand, of non-payment, of dishonor, protest and all other demands in connection with the delivery, acceptance, performance or enforcement of this Note.
+
+^**Choice of Law; Forum Selection; Consent to Jurisdiction**. This Note shall be governed by, construed and interpreted in accordance with the laws of the State of Florida. The Borrower hereby (a) agrees that all disputes and matters whatsoever arising under, in connection with, or incident to this Note shall be litigated, if at all, in and before a court located in the State of Florida to the exclusion of the courts of any other state or country and (b) irrevocably submits to the non-exclusive jurisdiction of any Florida court or federal court sitting in the State of Florida in any action or proceeding arising out of or relating to this Note, and hereby irrev ocably waives any objection to the laying of venue of any such action or proceeding in any such court and any claim that any such action or proceeding has been brought in an inconvenient forum. A final judgment in any such action or proceeding shall be conclusive and may be enforced in any other jurisdiction by suit on the judgment or in any other manner provided by law.
+
+^**Service of Process**. The Borrower hereby consents to process being served in any suit, action or proceeding instituted in connection with this Note by the mailing of a copy thereof to the Borrower by certified mail, postage prepaid, return receipt requested. The Borrower hereby irrevocably agrees that such service shall be deemed to be service of process upon the Borrower in any such suit, action or proceeding. Nothing in this Note shall affect the right of the Lender to serve process in any other manner otherwise permitted by law, and nothing in this Note will limit the right of the Lender otherwise to bring proceedings against the Borrower in the courts of any other jurisdiction or jurisdictions.
+
+^**Notice**. Any notice, demand, request or other communication which the Lender or the Borrower may be required to give hereunder shall be in writing and shall be effective when delivered and at the address provided below:
+
+^^if to the Lender, to Phronesis Partners, L.P. at 130 E. Chestnut Street, Suite 403, [[Address 1: Address]]; and
+
+^^if to the Borrower, to it at Quick-Med Technologies, Inc., [[Address 2: Address]], Attention: Chief Financial Officer.
+
+Notwithstanding anything to the contrary, all notices and demands for payment from the Lender actually received in writing by the Borrower shall be considered to be effective upon the receipt thereof by the Borrower regardless of the procedure or method utilized to accomplish delivery thereof to the Borrower.
+
+^**Miscellaneous**. Time is of the essence under this Note. The paragraph headings of this Note are for convenience only, and shall not limit or otherwise affect any of the terms hereof. This Note and the Exhibits hereto, if any, constitute the entire agreement between the parties with respect to their subject matter and supersede all prior letters, representations, or agreements, oral or written, with respect thereto. The Lender may, without notice to or consent of the Borrower, sell, assign, pledge or transfer this Note or sell, assign, transfer or grant participations in all or any part of the obligations evidenced by this Note to othe rs at any time and from time to time, and the Lender may divulge to any potential assignee, transferee or participant all information, reports, financial statements and documents obtained in connection with this Note or otherwise. No modification, release, or waiver of this Note shall be deemed to be made by the Lender unless in writing signed by the Lender, and each such waiver, if any, shall apply only with respect to the specific instance involved. No course of dealing or conduct shall be effective to modify, release or waive any provisions of this Note. This Note shall inure to the benefit of and be enforceable by the Lender and the Lender’s successors and assigns and any other person to whom the Lender may grant an interest in the obligations evidenced by this Note and shall be binding upon and enforceable against the Borrower and the Borrower’s successors and assigns. Whenever used herein, the singular number shall include the plural, the plural the singular, and the u se of the masculine, feminine, or neuter gender shall include all genders. This Note may be executed in any number of counterparts, all of which, when taken together shall constitute one Note.
+
+\centered [signature page follows]
+
+**IN WITNESS WHEREOF**, the Borrower has duly executed this Note in Concord, Massachusetts as of the day and year first hereinabove set forth.
+
+**BORROWER:**
+
+**QUICK-MED TECHNOLOGIES, INC.**
+
+[[QUICK-MED TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{QUICK-MED TECHNOLOGIES INC. Entity => By: [[QUICK-MED TECHNOLOGIES INC. Signatory First Name]] [[QUICK-MED TECHNOLOGIES INC. Signatory Last Name]]
+Title: [[QUICK-MED TECHNOLOGIES INC. Signatory Title]]}}
+
+
+**LENDER:**
+
+**PHRONESIS PARTNERS, L.P.**
+
+[[PHRONESIS PARTNERS L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{PHRONESIS PARTNERS L.P. Entity => By: [[PHRONESIS PARTNERS L.P. Signatory First Name]] [[PHRONESIS PARTNERS L.P. Signatory Last Name]]
+Title: [[PHRONESIS PARTNERS L.P. Signatory Title]]}}
+
+
+\centered **EXHIBIT A**
+
+\centered **QUICK-MED TECHNOLOGIES, INC.**
+
+\centered **CONVERSION NOTICE**
+
+Reference is made to the Senior Convertible Note (the “**Note**”) issued to the undersigned by Quick-Med Technologies, Inc. (the “**Company**”). In accordance with and pursuant to the Note, the undersigned hereby elects to convert the Conversion Amount (as defined in the Note) of the Note indicated below into shares of Common Stock (as defined in the Note), as of the date specified below.
+
+Date of Conversion:
+Aggregate Conversion Amount to be converted:
+Please confirm the following information:
+Conversion Price:
+Number of shares of Common Stock to be issued:
+Please issue the Common Stock into which the Note is being converted in the following name and to the following address:
+Issue to:
+
+Facsimile Number:
+Authorization:
+[[Authorization Signatory Email: Identity | Signature]]
+__________________________________________
+{{Authorization Entity => By: [[Authorization Signatory First Name]] [[Authorization Signatory Last Name]]
+Title: [[Authorization Signatory Title]]}}
+
+Dated:
+Account Number:
+(if electronic book entry transfer)
+Transaction Code Number:
+(if electronic book entry transfer)
+
+\centered **ACKNOWLEDGMENT**
+
+The Company hereby acknowledges this Conversion Notice and hereby directs **[Insert Name of Transfer Agent]** to issue the above indicated number of shares of Common Stock from the Company and acknowledged and agreed to by **[Insert Name of Transfer Agent]**.
+
+QUICK-MED TECHNOLOGIES, INC.
+[[QUICK-MED TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{QUICK-MED TECHNOLOGIES INC. Entity => By: [[QUICK-MED TECHNOLOGIES INC. Signatory First Name]] [[QUICK-MED TECHNOLOGIES INC. Signatory Last Name]]
+Title: [[QUICK-MED TECHNOLOGIES INC. Signatory Title]]}}

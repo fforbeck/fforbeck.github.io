@@ -1,75 +1,33 @@
-\centered **TO**
+\centered 
 
-\centered **OF**
+\centered **OF ONSTREAM MEDIA CORPORATION**
 
-\centered **GREEN OASIS ENVIRONMENTAL, INC.**
+Pursuant to Section 607.1006 of the Florida Business Corporation Act, the undersigned, being the President of ONSTREAM MEDIA CORPORATION, a Florida corporation (the “Corporation”), bearing Document Number P93000035279, does hereby submit these Articles of Amendment for the purpose of amending the Corporation’s Articles of Incorporation as follows:
+
+FIRST: The effective time of these Articles of Amendment to the Articles of Incorporation is [[Date 1: Date]], at 5:00 p.m. (the “Effective Time”).
+
+SECOND: The 1st Paragraph of Article IV of the Corporation's Articles of Incorporation shall be deleted in its entirety and replaced with the following:
+
+\centered **“ARTICLE IV**
+
+\centered **CAPITAL STOCK**
+
+The maximum number of shares that this Corporation shall be authorized to issue and have outstanding at any one time shall be One Hundred Million (100,000,000) shares of common stock, par value $[[USD Value 1: Number]]1 per share (the “Common Stock”) and Five Million (5,000,000) shares of preferred stock, par value $[[USD Value 1]]1 per share (the “Preferred Stock”), and further, the Board of Directors of the Corporation is authorized, by resolution or resolutions, at any time and from time to time, to divide and establish any or all of the shares of Preferred Stock into one or more series and, without limiting the generality of the foregoing, to fix and determine the designation of each such share, and its preferences, conversion rights, cumulative, relative, participating, optional, or other rights, including voting rights, qualifications, limitations, or restrictions thereof.
+
+Each share of Common Stock issued and outstanding immediately prior to the Effective Time (the “Old Common Stock”), will be automatically reclassified as and converted into one-sixth (0.166666) of a share of common stock, $[[USD Value 1]]1 par value per share, of the Corporation (the “New Common Stock”). Any stock certificate that immediately prior to the Effective Time represented shares of the Old Common Stock will, from and after the Effective Time, automatically and without the necessity of presenting the same for exchange, represent the number of shares of the New Common Stock as equals the product obtained by multiplying the number of shares of Old Common Stock represented by such certificate immediately prior to the Effective Time by one-sixth (0.166666) (the “Reverse Stock Split”). The Corporation shall not issue fractional shares in connection with the Reverse Stock Split, rather, each holder of a fractional share shall be entitled to receive one full share.
+
+All preferred stock designations as of the Effective Time shall continue pursuant to terms thereof.” 
+
+THIRD: These Articles of Amendment to the Articles of Incorporation were approved by the Corporation’s shareholders at a meeting held on [[Date 2: Date]], and by the Corporation’s Board of Directors at a meeting held on [[Date 3: Date]], in compliance with all applicable provisions of the Florida Business Corporation Act.
+
+IN WITNESS WHEREOF, the undersigned, being the President of this Corporation, has executed these Articles of Amendment to the Corporation’s Articles of Incorporation as of [[Date 3]].
 
 
 
-\centered I
-
-Paragraph I of the Articles of Incorporation of the Corporation to be deleted and be amended to now read as follows:
-
-**FIRST. NAME**  
-The name of the corporation is: GLOBAL ENVIRO SOLUTIONS, INC. The mailing address of the Corporation shall be 17310-106 Avenue NW, Edmonton, Alberta, Canada, T5S 1H9.
-
-\centered II
-
-Paragraph IV of the Articles of Incorporation of the Corporation to be deleted and be amended to now read as follows:
-
-**FOURTH. CAPITAL STOCK**  
-The aggregate number of shares of stock which the Corporation shall have the authority to issue is [[Shares 1: Number]] shares of the par value of $[[USD Value 1: Number]] per share designated as Common Stock and [[Shares 2: Number]] shares of the par value of $[[USD Value 1]] per share designated as Preferred Stock. The Board of Directors is expressly authorized, prior to issuance, to prescribe the classes, series and the number of each class or series of stock and the voting powers, designations, preferences, limitations, restrictions and relative rights of each class or series of stock, as follows:
-
-^^The Preferred Stock may be issued from time to time by the Board of Directors, as shares of one or more series of Preferred Stock, and the board of Directors is expressly authorized, prior to issuance, to prescribe the following in the resolution or resolutions providing for the issuance of shares of each particular series:
-
-^^^The distinctive serial designation of such series which shall distinguish it from other series;
-
-^^^The number of shares included in such series, which number may be increased or decreased From time to time unless otherwise provided by the Board of Directors in creating the series;
-
-(iii)The annual dividend rate (or method of determining such rate) for shares of such series and the date or dates upon which such dividends shall be payable;
-
-^^^Whether dividends on the shares of such series shall be cumulative, and, in the case of shares of any series having cumulative dividend rights, the date or dates or method of determining the date or dates from which dividends on the shares of such series shall be cumulative;
-
-^^^The amount or amounts which shall be paid out of the assets of the Corporation to the holders of the shares of such series upon voluntary or involuntary liquidation, dissolution or winding up of the Corporation;
-
-^^^The price or prices at which, the period or periods within which, and the terms and conditions upon which the shares of such series may be redeemed, in whole or in part, at the option of the Corporation;
-
-^^^The obligation, if any, of the Corporation to purchase or redeem shares of such series pursuant to a sinking fund or otherwise and the price or prices at which, the period or periods within which, and the terms and conditions upon which the shares of such series shall be redeemed, in whole or in part, pursuant to such obligation;
-
-^^^The period or periods within which and the terms and conditions, if any, including the price or prices or the rate or rates of conversion and their terms and conditions of any adjustments thereof, upon which the shares of such series shall be convertible at the option of the holder into shares of any class of stock or into shares of any other series of Preferred Stock or other securities;
-
-^^^The voting rights, if any, of the shares of such series in addition to those required by law, including the number of votes per share and any requirement for the approval by the holders of a certain percentage of all Preferred Stock, or of the shares of one or more series, or of both, as a condition to specified corporate action or amendments to the articles of incorporation;
-
-^^^The ranking of the shares of the series as compared with shares of other series of the Preferred Stock in respect of the right to receive dividends; and
-
-^^^Any other voting powers, designations, preferences, limitations, restrictions and relative rights of each class or series of stock not inconsistent herewith or with applicable law.
-
-^^All shares of Preferred Stock shall rank senior to the Common Shares in respect of the right to receive dividends and the right to receive payments out: of the assets of the Corporation upon voluntary or involuntary liquidation, dissolution or winding up of the Corporation. Shares of any class or series may he issued as a share dividend in respect of shares of another class or series. The Corporation may issue uncertificated shares of some or all of the shares of any or all of its classes or series. All shares of Preferred Stock redeemed, purchased or otherwise acquired by the Corporation (including shares surrendered for conversion) shall be canceled and thereupon restored to the status of authorized but unissued shares of Preferred Stock undesignated as to series.
-
-^^Except as otherwise provided by the Hoard of Directors in accordance with paragraph a, above in respect of any series of the Preferred Stock, all voting rights of the Corporation shall be vested in the holders of the Common and Preferred Stock who shall he entitled to one vote per share.
-
-\centered III
-
-All other Articles set forth in the Articles of Incorporation shall remain unchanged.
-
-\centered IV
-
-The foregoing Amendments were adopted on [[Date 2: Date]]. 2009
-
-The Amendments were adopted by the Board of Directors without shareholder action and shareholder action was not required.
-
-**IN WITNESS HEREOF,** Green Oasis Environmental, Inc. has caused the Articles of Amendment to be executed by its duly authorized Director and CEO on this [[Date 3: Date]].
-
-**GREEN OASIS ENVIRONMENTAL, INC.**
-
-[[GREEN OASIS ENVIRONMENTAL INC. Signatory Email: Identity | Signature]]
+/s/ Randy S. Selman
+[[/s/ Randy S. Selman Signatory Email: Identity | Signature]]
 __________________________________________
-{{GREEN OASIS ENVIRONMENTAL INC. Entity => By: [[GREEN OASIS ENVIRONMENTAL INC. Signatory First Name]] [[GREEN OASIS ENVIRONMENTAL INC. Signatory Last Name]]
-Title: [[GREEN OASIS ENVIRONMENTAL INC. Signatory Title]]}}
+{{/s/ Randy S. Selman Entity => By: [[/s/ Randy S. Selman Signatory First Name]] [[/s/ Randy S. Selman Signatory Last Name]]
+Title: [[/s/ Randy S. Selman Signatory Title]]}}
 
-Peter Margiotta, President and Director
-
-**Acknowledged by:**
-
-**/s/ Frank Pellizarri**
-Frank Pellizarri, Secretary and Director
+\centered 3.1-1
