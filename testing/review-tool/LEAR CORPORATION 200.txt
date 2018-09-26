@@ -1,0 +1,93 @@
+\centered LEAR CORPORATION  2009 LONG-TERM STOCK INCENTIVE PLAN 
+
+\centered FORM OF PERFORMANCE UNIT TERMS AND CONDITIONS 
+
+^DEFINITIONS. Any term capitalized herein, but not defined, shall have the meaning set forth in the Lear Corporation 2009 Long-Term Stock Incentive Plan (the “Plan”). 
+
+^GRANT. In accordance with the terms of the Plan, the Company hereby grants to the Participant identified above a Performance Unit Award (in the amount set forth in Section 6 hereof) subject to the terms and conditions set forth herein (the “Terms”). Each Performance Unit shall have a notional value of $70.00, provided, however, that no amounts will be paid or payable hereunder unless the Participant earns Performance Units pursuant to Section 5 hereof. 
+
+^PERFORMANCE PERIOD AND SUB-PERIODS. The Performance Period for this Award shall be: 
+
+The three-year period commencing on [[Date 1: Date]] and ending on [[Date 2: Date]]. The Performance Period shall be divided into three sub-periods (each a “Performance Sub-Period”), each commencing on [[Date 1]] and ending on [[Date 3: Date]], [[Date 4: Date]], and [[Date 2]], respectively. 
+
+^PERFORMANCE MEASURE. The performance measure shall be: 
+
+Adjusted Return on Invested Capital (“ROIC”) for the 2010 Performance Sub-Period. This performance measure is the Company’s adjusted return on invested capital based on adjusted operating income for the 2010 fiscal year or as otherwise approved by the Compensation Committee. 
+
+The performance measure(s) for the 2010-2011 and 2010-2012 Performance Sub-Periods will be determined by the Compensation Committee in its discretion. 
+
+^PERFORMANCE GOALS.  
+
+**Period** **Level**      2010-2011    2010-2012 Maximum    [ROIC goal]    [TBD]    [TBD] Target    [ROIC goal]    [TBD]    [TBD] Threshold    [ROIC goal]    [TBD]    [TBD]  
+
+^^^^^ 
+^PERFORMANCE UNITS.  
+
+^^The number of Performance Units earned by a Participant during each Performance Sub-Period shall be as follows: 
+
+\centered 
+
+**Number of Performance Units** **Performance At**    2010 ([[Percentage 1: Number]]%)    2010-2011 ([[Percentage 1]]%)    2010-2012 ([[Percentage 2: Number]]%) Maximum ([[Percentage 3: Number]]% of Target) Target Threshold ([[Percentage 2]]% of Target)  
+
+^^The Company’s actual performance for the Performance Sub-Periods that span more than one year will be determined by calculating the average of the actual performance for the years in the Performance Sub-Period, as applicable. 
+
+^^In the event that the Company’s actual performance does not meet threshold, Performance Units shall not be earned. 
+
+^^If the Company’s actual performance is between “threshold” and “target,” the Performance Units earned shall equal the Performance Units for threshold plus the number of Performance Units determined under the following formula: 
+
+\centered 
+
+(TAS - TS)    x    AP - TP  TAP - TP  
+
+TAS = The Performance Units for target.  
+
+TS = The Performance Units for threshold. 
+
+AP = The Company’s actual performance.  
+
+TP = The threshold performance goal.  
+
+TAP = The target performance goal.  
+
+^^If the Company’s actual performance is between “target” and “maximum,” the Performance Units earned shall equal the Performance Units for target plus the number of Performance Units determined under the following formula: 
+
+\centered 
+
+(MS - TAS)    x    AP - TAP  MP - TAP  
+
+MS = The Performance Units for maximum.  
+
+TAS = The Performance Units for target.  
+
+^^^^^ 
+AP = The Company’s actual performance.  
+
+TAP = The target performance goal.  
+
+MP = The maximum performance goal.  
+
+^^If the Company’s actual performance exceeds “maximum,” the Performance Units earned shall equal the Performance Units for maximum. 
+
+^TIMING AND FORM OF PAYOUT. Except as hereinafter provided, after the end of each Performance Sub-Period, the Participant shall be entitled to receive a dollar amount equal to the product of (i) the value per Performance Unit of $70.00 multiplied by (ii) his or her total number of Performance Units for the Performance Sub-Period determined under Sections 5 and 6. Payment of such amount shall be made in the calendar year next following the end of the Performance Sub-Period, as soon as administratively feasible after the ROIC or other performance measure result is approved by the Compensation Committee, but in no event later than [[Date 5: Date]] of that year. 
+
+^TERMINATION OF EMPLOYMENT DUE TO END OF SERVICE, DEATH, DISABILITY, BY THE COMPANY WITHOUT CAUSE, OR BY THE PARTICIPANT FOR GOOD REASON. If a Participant ceases to be an employee prior to the end of a Performance Sub-Period by reason of End of Service, death, Disability, termination by the Company for any reason other than Cause, or, for a Participant who is a party to an employment or severance agreement with the Company, termination by the Participant for Good Reason (as defined in the Participant’s employment or severance agreement, as applicable), the Participant (or in the case of the Participant’s death, the Participant’s beneficiary) shall be entitled to receive a cash amount equal the product of (i) the value per Performance Unit of $70.00 multiplied by (ii) the number of Performance Units the Participant would have been entitled to under Section 6 if he or she had remained employed until the last day of each such Performance Sub-Period multiplied by a fraction, the numerator of which shall be the number of full calendar months during the period of [[Date 1]] through the date the Participant’s employment terminated and the denominator of which shall be the total number of months in each such Performance Sub-Period. The payment of such amount shall be made in the calendar year next following the end of each such Performance Sub-Period, as soon as administratively feasible after the ROIC or other performance measure result is approved by the Compensation Committee, but in no event later than [[Date 5]] of that year. For each Participant who is a party to an employment or severance agreement with the Company, for purposes of this Section 8, the term “Disability” shall mean “Incapacity” as defined in such Participant’s employment or severance agreement, as applicable. “End of Service” shall mean the date of a Participant’s retirement after attaining age 55 and completing ten years of service. 
+
+Any distribution made with respect to a Participant who has died shall be paid to the beneficiary designated by the Participant pursuant to Article 11 of the Plan to receive amounts payable under this Award. If the Participant’s beneficiary predeceases the Participant or no beneficiary has been properly designated, distribution of any amounts payable to the Participant under this Award shall be made to the Participant’s surviving spouse and if none, to the Participant’s estate. 
+
+^^^^^ 
+^TERMINATION OF EMPLOYMENT FOR ANY OTHER REASON. Except as provided in Section 8, the Participant must be an employee of the Company and/or an Affiliate continuously from the date of this Award until the last day of the Performance Sub-Period to be entitled to receive any amounts with respect to any Performance Units he or she may have earned hereunder. 
+
+^ASSIGNMENT AND TRANSFERS. The rights and interests of the Participant under this Award may not be assigned, encumbered or transferred except, in the event of the death of the Participant, by will or the laws of descent and distribution. 
+
+^WITHHOLDING TAX. The Company and any Affiliate shall have the right to retain any amounts that are distributable to the Participant hereunder to the extent necessary to satisfy the minimum required withholding taxes, whether federal, state or local, triggered by the payment of any amounts under this Award. 
+
+^NO LIMITATION ON RIGHTS OF THE COMPANY. The grant of this Award shall not in any way affect the right or power of the Company to make adjustments, reclassification, or changes in its capital or business structure, or to merge, consolidate, dissolve, liquidate, sell or transfer all or any part of its business or assets. 
+
+^PLAN AND TERMS NOT A CONTRACT OF EMPLOYMENT. Neither the Plan nor these Terms is or are a contract of employment, and no terms of employment of the Participant shall be affected in any way by the Plan, these Terms or related instruments except as specifically provided therein. Neither the establishment of the Plan nor these Terms shall be construed as conferring any legal rights upon the Participant for a continuation of employment, nor shall it interfere with the right of the Company or any Affiliate to discharge the Participant and to treat him or her without regard to the effect that such treatment might have upon him or her as a Participant. 
+
+^NOTICE. Any notice or other communication required or permitted hereunder shall be in writing and shall be delivered personally, or sent by certified, registered or express mail, postage prepaid. Any such notice shall be deemed given when so delivered personally or, if mailed, three days after the date of deposit in the United States mail, in the case of the Company to 21557 Telegraph Road, [[Address 1: Address]], 48033, Attention: General Counsel and, in the case of the Participant, to its address set forth on the signature page hereto or, in each case, to such other address as may be designated in a notice given in accordance with this Section. 
+
+^GOVERNING LAW. These Terms shall be construed and enforced in accordance with, and governed by, the laws of the State of Michigan, determined without regard to its conflict of law rules. 
+
+^PLAN DOCUMENT CONTROLS. The rights herein granted are in all respects subject to the provisions set forth in the Plan to the same extent and with the same effect as if set forth fully herein. In the event that the terms of these Terms conflict with the terms of the Plan document, the Plan document shall control. 
+ 

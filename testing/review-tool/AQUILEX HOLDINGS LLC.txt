@@ -1,0 +1,60 @@
+\centered **AQUILEX HOLDINGS LLC** 
+
+\centered **AMENDMENT TO EMPLOYMENT AGREEMENT** 
+
+This Amendment to Employment Agreement (the “*Amendment*”) is entered into as of [[Date 1: Date]] (the “*Effective Date*”), between [[Executive]], Jr. (the “*Executive*”), Aquilex Corporation (the “*Company*”) and Aquilex Acquisition Sub III LLC (the “*Acquirer*”). Capitalized terms that are not defined in this Amendment shall have the meaning ascribed to them in the Unit Purchase Agreement (hereafter defined). 
+
+\centered **RECITALS** 
+
+WHEREAS, on [[Date 2: Date]], the Executive and the Company entered into an employment agreement (the “*Predecessor Employment Agreement*”) which set forth the terms of the Executive’s employment with the Company; 
+
+WHEREAS, on [[Date 3: Date]], the Executive and the Company amended and restated the Predecessor Employment Agreement (the “*Employment Agreement*”); 
+
+WHEREAS, Section 12.8 of the Employment Agreement provides that the Employment Agreement may be modified by a writing signed by each of the parties thereto; 
+
+WHEREAS the Acquirer, Harvest Partners V L.P., Harvest Partners LLC (solely in its capacity as Sellers’ Representative thereunder), Aquilex Holdings LLC, and other persons signatory thereto including the Executive entered into a unit purchase agreement dated [[Date 4: Date]] (the “*Unit Purchase Agreement*”); 
+
+WHEREAS, as a condition and inducement to the Acquirer entering into the Unit Purchase Agreement, the Executive executed and delivered the Binding MOU (as defined in the Unit Purchase Agreement) dated [[Date 4]]; and 
+
+WHEREAS the Binding MOU provides for and the parties wish to amend certain provisions of the Employment Agreement regarding the term of employment of the Executive and payments to the Executive upon a change of control pursuant to the terms and conditions set forth below. 
+
+\centered **AGREEMENT** 
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual agreements contained herein and intending to be legally bound hereby, the parties hereby agree that the Employment Agreement shall be amended effective as of the Effective Date to the extent necessary to give effect to this Amendment as follows: 
+
+^Section 1.1 of the Employment Agreement shall be amended and restated in its entirety with the following language: 
+
+“Unless earlier terminated pursuant to Section 3.1 hereof, Executive’s term of employment hereunder shall commence on [[Date 3]] and shall continue through the 3rd 
+
+anniversary of the “*Closing Date*” (as defined in the Unit Purchase Agreement) (the “*Term*”), subject to the terms and conditions of this Agreement. The Term may be extended for successive one year periods upon mutual agreement of the parties prior to the end of the then current Term, unless either party provides written notice at least 90 days’ prior to the end of the then current Term of such party’s election not to extend the Term.” 
+
+^With respect to Section 2.3 of the Employment Agreement, Executive shall be entitled to receive the single lump sum change of control payment from the Sellers (as defined in the Unit Purchase Agreement) in respect of the Closing (as defined in the Unit Purchase Agreement), but shall not be entitled to any further change of control payments after the Closing Date (irrespective of whether Employer undergoes a subsequent “*Change of Control*” (as defined in the Employment Agreement) after the Closing Date). 
+
+^Except as set forth herein, all other terms and conditions of the Employment Agreement shall remain in full force and effect. 
+
+^If the Unit Purchase Agreement is terminated pursuant to its terms prior to the Closing, then this Amendment will be null and void and of no further force or effect. 
+
+\centered **[signature page follows]** 
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above. 
+
+**AQUILEX CORPORATION**
+
+[[AQUILEX CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{AQUILEX CORPORATION Entity => By: [[AQUILEX CORPORATION Signatory First Name]] [[AQUILEX CORPORATION Signatory Last Name]]
+Title: [[AQUILEX CORPORATION Signatory Title]]}}
+
+
+**AQUILEX ACQUISITION SUB III LLC**
+
+[[AQUILEX ACQUISITION SUB III LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{AQUILEX ACQUISITION SUB III LLC Entity => By: [[AQUILEX ACQUISITION SUB III LLC Signatory First Name]] [[AQUILEX ACQUISITION SUB III LLC Signatory Last Name]]
+Title: [[AQUILEX ACQUISITION SUB III LLC Signatory Title]]}}
+
+
+**EXECUTIVE**
+
+/s/ [[Executive]], Jr.
+[[Executive]], Jr.

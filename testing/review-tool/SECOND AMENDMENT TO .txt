@@ -1,246 +1,29 @@
-[PEABODY] 
+\centered SECOND AMENDMENT TO EMPLOYMENT AGREEMENT
 
-\centered **SECOND AMENDMENT TO THE THIRD AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT** 
+This Amendment to Employment Agreement (“Amendment”) is by and between Unico American Corporation (“Company”) and [[Emp1oyee]] (“Emp1oyee”):
 
-THIS SECOND AMENDMENT TO THE THIRD AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is entered into by and among [[Seller]], a [[State of Formation: State]] [[Organization: EntityType]], as seller (the “Seller”), PEABODY ENERGY CORPORATION, a [[State of Formation: State]] [[Organization: EntityType]], as initial servicer (the “Servicer”), the various Sub-Servicers listed on the signature pages hereto (the “Sub-Servicers”), the Purchaser Agents (the “Purchaser Agents”) and the LC Participants listed on the signature pages hereto, and PNC BANK, NATIONAL ASSOCIATION, as Administrator (the “Administrator”) and as LC Bank. 
+^Paragraph 3.1 of the Employment Agreement between the Company and Employee which was effective as of [[Date 1: Date]] and amended effective [[Date 2: Date]] is amended in its entirety to read as follows:
 
-\centered RECITALS 
+^^**SALARY.** As compensation for the services provided by Employee under this Agreement, Company will pay Employee an annual salary of no less than $[[USD Value 1: Number]] payable in accordance with Company’s usual payroll procedures. The annual salary shall be subject to increase from time to time at the discretion of the Board of Directors of Company.
 
-^The parties hereto are parties to that certain Third Amended and Restated Receivables Purchase Agreement, dated as of [[Date 2: Date]] (as amended, amended and restated, supplemented or otherwise modified through the date hereof, the “Agreement”). 
+^Paragraph 6 of the Employment Agreement between the Company and Employee which was effective as of [[Date 1]] and amended effective [[Date 2]] is amended in its entirety to read as follows:
 
-^Concurrently herewith, the Fee Letter for each Purchaser Group is being amended and restated by the parties thereto (each such amended and restated Fee Letter, an “A&R Fee Letter”). 
+^**TERM/TERMINATION.** Employee’s employment under this Agreement shall be for a term beginning on [[Date 3: Date]] and ending [[Date 4: Date]]. Notwithstanding the foregoing, this Agreement may be terminated at any time by Company for Cause or by Employee for other than breach of this Agreement by the Company upon thirty days written notice. This Agreement may also be terminated by Company without Cause upon thirty days written notice or by the Employee at any time on account of the breach of this Agreement by Company; however, in either of such events, subject to the limitation described in Section 3.6, the Company shall pay Employee, as and in the manner provided in Section 3.4, all salary, bonuses and benefits as provided herein for the remainder of the term of this Agreement.
 
-^The parties hereto desire to amend the Agreement as hereinafter set forth. 
+^This Amendment is effective [[Date 3]].
 
-NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
+^All other terms and conditions of the Employment Agreement remain unchanged.
 
-^*Certain Defined Terms*. Capitalized terms that are used but not defined herein shall have the meanings set forth in the Agreement. 
-
-^*Amendments to the Agreement*. The Agreement is hereby amended as follows: 
-
-^^Section 5.3 of the Agreement is amended by adding thereto the following new clause (g) immediately following existing clause (f) thereof: 
-
-^^In addition to the foregoing and notwithstanding any otherwise applicable limitations on, or requirements for, pledges, assignments and participations set forth in this Section 5.3, any Purchaser may pledge, participate or assign any of its rights (including, without limitation, rights to payment of Capital and Discount) under this Agreement or the other Transaction Documents to any Federal Reserve Bank (including any grant of a security interest in such rights to secure such Purchaser’s obligations to such Federal Reserve Bank) without notice to or consent of any other party to this Agreement or to the other Transaction Documents; provided that no such pledge, participation or assignment shall release such Purchaser from any of its obligations hereunder or substitute any such pledge, participant or assignee for such Purchaser as a party hereto. 
-
-^^Clause (a) of the definition of “Eligible Receivable” set forth in Exhibit I of the Agreement is amended by replacing the percentage “[[Percentage 1: Number]]%” where it appears in sub-clause (i)(C) thereof with the percentage “[[Percentage 2: Number]]%”. 
-
-^^Pursuant to Section 1.12 of the Agreement, the Facility Termination Date scheduled to occur on [[Date 1]] pursuant to the clause (d) of the definition thereof is hereby extended to [[Date 3: Date]], and the definition of “Facility Termination Date” set forth in Exhibit I of the Agreement is amended by replacing the date “[[Date 1]]” where it appears in clause (d) thereof with the date “[[Date 3]]”. 
-
-^^Existing Schedule II to the Agreement is replaced in its entirety with new Schedule II attached hereto. 
-
-^*Representations and Warranties*. Each of the Seller, the Servicer and the Sub-Servicers hereby represents and warrants to the Administrator and the Purchasers as follows: 
-
-^^Representations and Warranties. Both immediately prior to, and immediately after, giving effect to this Amendment, the representations and warranties made by such Person in the Agreement and the other Transaction Documents to which it is a party are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date). 
-
-^^Enforceability. The execution and delivery by such Person of this Amendment, and the performance of each of its obligations under this Amendment and the Agreement, as amended hereby, are within each of its corporate powers and have been duly authorized by all necessary corporate action on its part. This Amendment and the Agreement, as amended hereby, are such Person’s valid and legally binding obligations, enforceable in accordance with its terms. 
-
-^^No Default. Both immediately prior to, and immediately after, giving effect to this Amendment, no Termination Event or Unmatured Termination Event has occurred and is continuing. 
-
-^*Effect of Amendment*. All provisions of the Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Agreement (or in any other Transaction Document) to “this Agreement”, “hereof”, “herein” or words of similar effect referring to the Agreement shall be deemed to be references to the Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Agreement other than as set forth herein. 
-
-^*Conditions to Effectiveness*. This Amendment shall become effective as of the date hereof upon satisfaction of all of the following conditions precedent: 
-
-^^the Administrator shall have received counterparts of this Amendment executed by each of the parties hereto; 
-
-^^each Purchaser Agent shall have received counterparts of its Purchaser Group’s A&R Fee Letter duly executed by each of the parties thereto; 
-
-^^the Administrator shall have received counterparts to that certain Fourth Amendment to Lock-Box Agreement being entered into by the parties hereto and the Lock-Box Bank concurrently herewith duly executed by each of the parties thereto; and 
-
-^^to the extent required by the program documents governing the issuance of its Notes, each Conduit Purchaser (or its Purchaser Agent on its behalf) shall have received from each rating agency then rating such Notes written confirmation that the effectiveness of this Amendment will not cause the credit ratings of such Notes to be downgraded or withdrawn. 
-
-^*Counterparts*. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof. 
-
-^*Governing Law*. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of Illinois. 
-
-^*Section Headings*. The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Agreement or any provision hereof or thereof. 
-
-\centered *[Signature pages follow.]* 
-
-IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above. 
-
-[[Seller]], 
-
-as Seller 
-
-[[As Seller Signatory Email: Identity | Signature]]
+**COMPANY:** 
+Unico American Corporation  
+[[Unico American Corporation Signatory Email: Identity | Signature]]
 __________________________________________
-{{As Seller Entity => By: [[As Seller Signatory First Name]] [[As Seller Signatory Last Name]]
-Title: [[As Seller Signatory Title]]}}
+{{Unico American Corporation Entity => By: [[Unico American Corporation Signatory First Name]] [[Unico American Corporation Signatory Last Name]]
+Title: [[Unico American Corporation Signatory Title]]}}
 
+Lester A. Aaron, Treasurer & Chief Financial Officer
 
-PEABODY ENERGY CORPORATION, 
+**EMPLOYEE:**  
+**/s/ [[Emp1oyee]] Date: [[Date 5]]
 
-as initial Servicer 
-
-[[As initial Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As initial Servicer Entity => By: [[As initial Servicer Signatory First Name]] [[As initial Servicer Signatory Last Name]]
-Title: [[As initial Servicer Signatory Title]]}}
-
-
-PEABODY ARCLAR MINING, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PEABODY MIDWEST MINING, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-TWENTYMILE COAL, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-CABALLO COAL, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-COALSALES II, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PEABODY WESTERN COAL COMPANY, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-POWDER RIVER COAL, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PEABODY HOLDING COMPANY, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PEABODY COALTRADE, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PEABODY COALSALES, 
-
-as Sub-Servicer 
-
-[[As Sub-Servicer Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
-Title: [[As Sub-Servicer Signatory Title]]}}
-
-
-PNC BANK, NATIONAL ASSOCIATION, 
-
-as Purchaser Agent for the Market Street Purchaser Group 
-
-[[As Purchaser Agent for the Market Street Purchaser Group Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Purchaser Agent for the Market Street Purchaser Group Entity => By: [[As Purchaser Agent for the Market Street Purchaser Group Signatory First Name]] [[As Purchaser Agent for the Market Street Purchaser Group Signatory Last Name]]
-Title: [[As Purchaser Agent for the Market Street Purchaser Group Signatory Title]]}}
-
-
-PNC BANK, NATIONAL ASSOCIATION, 
-
-as the LC Bank and as an LC Participant 
-
-[[As the LC Bank and as an LC Participant Signatory Email: Identity | Signature]]
-__________________________________________
-{{As the LC Bank and as an LC Participant Entity => By: [[As the LC Bank and as an LC Participant Signatory First Name]] [[As the LC Bank and as an LC Participant Signatory Last Name]]
-Title: [[As the LC Bank and as an LC Participant Signatory Title]]}}
-
-
-PNC BANK, NATIONAL ASSOCIATION, 
-
-as Administrator 
-
-[[As Administrator Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Administrator Entity => By: [[As Administrator Signatory First Name]] [[As Administrator Signatory Last Name]]
-Title: [[As Administrator Signatory Title]]}}
-
-
-CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK NEW 
-
-YORK BRANCH, 
-
-as Purchaser Agent for the Atlantic Purchaser Group 
-
-[[As Purchaser Agent for the Atlantic Purchaser Group Signatory Email: Identity | Signature]]
-__________________________________________
-{{As Purchaser Agent for the Atlantic Purchaser Group Entity => By: [[As Purchaser Agent for the Atlantic Purchaser Group Signatory First Name]] [[As Purchaser Agent for the Atlantic Purchaser Group Signatory Last Name]]
-Title: [[As Purchaser Agent for the Atlantic Purchaser Group Signatory Title]]}}
-
-
-[[Title Seller6 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Seller6 Signatory Title}} Entity => By: [[Title Seller6 Signatory Title}} Signatory First Name]] [[Title Seller6 Signatory Title}} Signatory Last Name]]
-Title: [[Title Seller6 Signatory Title}} Signatory Title]]}}
-
-
-CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK NEW 
-
-YORK BRANCH, 
-
-as an LC Participant 
-
-[[As an LC Participant Signatory Email: Identity | Signature]]
-__________________________________________
-{{As an LC Participant Entity => By: [[As an LC Participant Signatory First Name]] [[As an LC Participant Signatory Last Name]]
-Title: [[As an LC Participant Signatory Title]]}}
-
-
-[[Title Seller7 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Seller7 Signatory Title}} Entity => By: [[Title Seller7 Signatory Title}} Signatory First Name]] [[Title Seller7 Signatory Title}} Signatory Last Name]]
-Title: [[Title Seller7 Signatory Title}} Signatory Title]]}}
-
-
+[[Emp1oyee]]

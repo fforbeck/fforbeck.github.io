@@ -1,0 +1,313 @@
+\centered **ADMINISTRATION AGREEMENT** 
+
+\centered **among** 
+
+\centered **BANK OF AMERICA AUTO TRUST 20[ ]-[ ],** 
+
+\centered **as Issuer** 
+
+\centered **BANK OF AMERICA, NATIONAL ASSOCIATION,** 
+
+\centered **as Administrator** 
+
+\centered **and** 
+
+\centered **[ ],** 
+
+\centered **as Indenture Trustee** 
+
+\centered **Dated as of [ ]** 
+
+\centered **TABLE OF CONTENTS** 
+
+**Page**
+
+^Duties of the Administrator     
+
+^Records     
+
+^Compensation; Payment of Fees and Expenses; Indemnification     
+
+^Independence of the Administrator     
+
+^No Joint Venture     
+
+^Other Activities of the Administrator     
+
+^Representations and Warranties of the Administrator     
+
+^Administrator Replacement Events; Termination of the Administrator     
+
+^Action upon Termination or Removal     
+
+^Liens     
+
+^Notices     
+
+^[RESERVED.]     
+
+^Amendments     
+
+^Governing Law; Submission to Jurisdiction; Waiver of Jury Trial     
+
+^Headings     
+
+^Counterparts     
+
+^Severability of Provisions     
+
+^Not Applicable to BANA in Other Capacities; Merger of Administrator     
+
+^Benefits of the Administration Agreement     
+
+^Assignment     
+
+^Nonpetition Covenant     
+
+^Limitation of Liability i      *Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+**THIS ADMINISTRATION AGREEMENT** (as amended, modified or supplemented from time to time, this “Agreement”) dated as of [ ], is among **BANK OF AMERICA AUTO TRUST 20[ ]-[ ]**, a Delaware statutory trust (the “Issuer”), **BANK OF AMERICA, NATIONAL ASSOCIATION**, a national banking association, as administrator (“BANA” or in its capacity as administrator, the “Administrator”), and **[ ]**, a [ ], as indenture trustee (the “Indenture Trustee”). Capitalized terms used herein and not otherwise defined herein shall have the meanings assigned such terms in Appendix A to the Sale Agreement dated as of [[Date 1: Date]] (as amended, modified or supplemented from time to time, the “Sale Agreement”) by and between Bank of America Auto Receivables Securitization, as seller, and the Issuer. 
+
+\centered W I T N E S S E T H : 
+
+WHEREAS, the Issuer has issued the Notes pursuant to the Indenture and the Certificate pursuant to the Trust Agreement and has entered into certain agreements in connection therewith, including, (i) the Sale Agreement, (ii) the Indenture, (iii) the Note Depository Agreement[, (iv) the Interest Rate Swap Agreement] and (v) the Trust Agreement (the agreements referred to in clauses (i) through (v), together with any other Transaction Documents to which the Issuer is a party, are referred to herein collectively as the “Issuer Documents”); 
+
+WHEREAS, to secure payment of the Notes [and payments owed by the Issuer to the Swap Counterparty], the Issuer has pledged the Collateral to the Indenture Trustee pursuant to the Indenture; 
+
+WHEREAS, pursuant to the Issuer Documents, the Issuer and the Owner Trustee are required to perform certain duties; 
+
+WHEREAS, the Issuer and the Owner Trustee desire to have the Administrator perform certain of the duties of the Issuer and the Owner Trustee (in its capacity as owner trustee under the Trust Agreement), and to provide such additional services consistent with this Agreement and the Issuer Documents as the Issuer may from time to time request; 
+
+WHEREAS, the Administrator has the capacity to provide the services required hereby and is willing to perform such services for the Issuer and the Owner Trustee on the terms set forth herein; 
+
+NOW, THEREFORE, in consideration of the mutual terms and covenants contained herein, and other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties agree as follows: 
+
+^Duties of the Administrator. 
+
+^^Duties with Respect to the Issuer Documents. The Administrator shall perform all of its duties specifically enumerated herein as Administrator under this Agreement and the Issuer Documents and the duties and obligations of the Issuer and the Owner Trustee (in its capacity as owner trustee under the Trust Agreement) under the Issuer Documents and no additional duties shall be read to be included herein; *provided*, *however*, except as otherwise provided in the Issuer Documents, that the Administrator 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+shall have no obligation to make any payment required to be made by the Issuer under any Issuer Document; *provided*, *further*, *however*, that the Administrator shall have no obligation and the Owner Trustee shall be required to fully perform its duties, with respect to the obligations of the Owner Trustee under [Sections 11.9, 11.13, 11.14 and 11.15] of the Trust Agreement and to otherwise comply with the requirements of the Owner Trustee pursuant to or related to Regulation AB . The Administrator shall monitor the performance of the Issuer and the Owner Trustee and shall advise the Issuer and the Owner Trustee in writing when action is necessary to comply with the Issuer’s and the Owner Trustee’s duties and obligations under the Issuer Documents. The Administrator shall perform such calculations, and shall prepare for execution by the Issuer or the Owner Trustee or shall cause the preparation by other appropriate Persons of all such documents, reports, filings, instruments, certificates and opinions as it shall be the duty of the Issuer or the Owner Trustee (in its capacity as owner trustee under the Trust Agreement) to prepare, file or deliver pursuant to the Issuer Documents. In furtherance of the foregoing, the Administrator shall take all appropriate action that is the duty of the Issuer or the Owner Trustee (in its capacity as owner trustee under the Trust Agreement) to take pursuant to the Issuer Documents, including, without limitation, such of the foregoing as are required with respect to the following matters under the Indenture, the First Purchase Agreement, the Second Purchase Agreement, the Third Purchase Agreement, the Sale Agreement, the Trust Agreement and the Servicing Agreement: 
+
+^^^(x) the appointment of a successor Note Registrar and (y) giving the Indenture Trustee notice of any appointment of a new Note Registrar and the location, or change in location, of the Note Registrar (Section 2.4 of the Indenture); 
+
+^^^the delivery for cancellation of any Note delivered to the Issuer for cancellation, and the direction to destroy or return such Note (Section 2.8 of the Indenture); 
+
+^^^the preparation of Definitive Notes in accordance with the instructions of the Clearing Agency (Section 2.12 of the Indenture); 
+
+^^^the preparation of an Issuer Order directing the Paying Agent to deposit with the Indenture Trustee all sums held in trust by such Paying Agent (Sections 3.3 and 4.3 of the Indenture); 
+
+^^^upon actual knowledge, the preparation of an Issuer Request directing the Indenture Trustee to provide notification of any unclaimed monies and repayments with respect to the Notes (Section 3.3 of the Indenture); 
+
+^^^upon its actual knowledge, the delivery of written notice to the Indenture Trustee and the Rating Agencies of each Event of Default under the Indenture (Section 3.12 of the Indenture), Servicer Termination Event under the Servicing Agreement (Section 6.1 of the Servicing Agreement); 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+^^^upon its actual knowledge of such, the delivery to the Indenture Trustee of written notice in the form of an Officer’s Certificate of any event that with the giving of notice and the lapse of time would become an Event of Default under clause (c) or (d) of Section 5.1 of the Indenture (Section 3.12 of the Indenture); 
+
+^^^the preparation and delivery of notice to Noteholders of the removal of the Indenture Trustee and the appointment of a successor Indenture Trustee (Section 6.8 of the Indenture); 
+
+^^^upon request, the notification to the Indenture Trustee if and when the Notes are listed on any stock exchange (Section 7.3 of the Indenture); 
+
+^^^the delivery of new Notes conforming to any supplemental indenture (Section 9.5 of the Indenture); 
+
+^^^the duty to cause the Issuer to provide notice of redemption of the Trust Estate pursuant to Section 10.1 of the Indenture to the Certificateholders (Section 10.1 of the Indenture); 
+
+^^^the duty to cause the Indenture Trustee to provide notification to Noteholders of redemption of the Notes (Section 10.2 of the Indenture); 
+
+^^^notification to the Certificateholders of the substance of any amendment to the Sale Agreement, the Servicing Agreement or the Indenture (Section 4.1 of the Sale Agreement, Section 7.1 of the Servicing Agreement and Section 9.1 of the Indenture); 
+
+^^^the maintenance of the books and records of the Issuer, the delivery to each Certificateholder of information required to enable such Certificateholder to prepare certain tax returns, upon request the preparation and filing of the Issuer’s tax returns, the execution of the Issuer’s tax returns and the collection of any withholding tax relating to distributions to any Certificateholder (Section 5.4 of the Trust Agreement); 
+
+^^^the preparation and delivery of notice to the Certificateholders of any termination of, or appointment of a successor to, the Servicer (Section 6.3 of the Servicing Agreement); and 
+
+^^^the maintenance, at its office referred to in Section 2.2 of the Trust Agreement or such other office as approved in writing by the Certificateholders, of a register for the registration and transfer of any Certificate (Section 3.4 of the Trust Agreement). 
+
+^^No Action by Administrator. Notwithstanding anything to the contrary in this Agreement, the Administrator shall not be obligated to, and shall not, take any action that the Issuer directs the Administrator not to take nor which would result in a violation 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+or breach of the Issuer’s covenants, agreements or obligations under any of the Issuer Documents. 
+
+^^Non-Ministerial Matters; Exceptions to Administrator Duties. 
+
+^^^Notwithstanding anything to the contrary in this Agreement, with respect to matters that in the reasonable judgment of the Administrator are non-ministerial, the Administrator shall not take any action unless, within a reasonable time before the taking of such action, the Administrator shall have notified the Issuer of the proposed action and the Issuer shall not have withheld consent or provided an alternative direction. For the purpose of the preceding sentence, “non-ministerial matters” shall include, without limitation: 
+
+^the initiation of any claim or lawsuit by the Issuer and the compromise of any action, claim or lawsuit brought by or against the Issuer; 
+
+^the appointment of successor Note Registrars, successor Paying Agents, successor Indenture Trustees, successor Administrators, successor Servicers, or the consent to the assignment by the Note Registrar, the Paying Agent, the Securities Administrator or the Indenture Trustee of its obligations under the Indenture; and 
+
+^the removal of the Indenture Trustee or the Securities Administrator. 
+
+^^^Notwithstanding anything to the contrary in this Agreement, the Administrator shall not be obligated to, and shall not, (x) make any payments to the Noteholders under the Transaction Documents, (y) except as provided in the Transaction Documents, sell the Trust Estate or (z) take any other action that the Issuer directs the Administrator not to take on its behalf. 
+
+^Records. The Administrator shall maintain appropriate books of account and records relating to services performed hereunder, which books of account and records shall be accessible for inspection upon reasonable written request by the Issuer, the Depositor and the Indenture Trustee at any time during normal business hours. 
+
+^Compensation; Payment of Fees and Expenses; Indemnification. As compensation for the performance of the Administrator’s obligations under this Agreement and as reimbursement for its expenses related thereto, including, but not limited to, costs incurred in connection with the engagement of third parties to perform any tax preparation duties hereunder, the Issuer shall cause the Servicer to pay to the Administrator such reasonable amounts agreed between the Servicer and the Administrator, which shall be solely an obligation of the Servicer. The Administrator and any director, officer, employee or agent of the Administrator shall be entitled to indemnification by the Servicer and held harmless against any loss, liability or expense (including reasonable attorney’s fees) incurred in connection with (i) any claim or legal action relating to this Agreement or (ii) the performance of any of the Administrator’s duties under this Agreement, unless the loss, liability or expense was incurred by reason of its own 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+grossly negligent actions, its own grossly negligent failure to act or its own willful misconduct in the performance of any of the Administrator’s duties under this Agreement. 
+
+^Independence of the Administrator. For all purposes of this Agreement, the Administrator shall be an independent contractor and shall not be subject to the supervision of the Issuer with respect to the manner in which it accomplishes the performance of its obligations hereunder. Unless expressly authorized by the Issuer, the Administrator shall have no authority to act for or to represent the Issuer in any way (other than as permitted hereunder) and shall not otherwise be deemed an agent of the Issuer. 
+
+^No Joint Venture. Nothing contained in this Agreement (i) shall constitute the Administrator and the Issuer as members of any partnership, joint venture, association, syndicate, unincorporated business or other separate entity, (ii) shall be construed to impose any liability as such on any of them or (iii) shall be deemed to confer on any of them any express, implied or apparent authority to incur any obligation or liability on behalf of the other. 
+
+^Other Activities of the Administrator. Nothing herein shall prevent the Administrator or its Affiliates from engaging in other businesses or, in its sole discretion, from acting in a similar capacity as an Administrator for any other Person even though such Person may engage in business activities similar to those of the Issuer, the Owner Trustee or the Indenture Trustee. 
+
+^Representations and Warranties of the Administrator. The Administrator represents and warrants to the Issuer and the Indenture Trustee as follows: 
+
+^^Existence and Power. The Administrator is a national banking association validly existing and in good standing under the laws of the United States and has, in all material respects, all power and authority to carry on its business as now conducted. The Administrator has obtained all necessary licenses and approvals in each jurisdiction where the failure to do so would materially and adversely affect the ability of the Administrator to perform its obligations under the Transaction Documents or affect the enforceability or collectibility of the Receivables or any other part of the Collateral. 
+
+^^Authorization and No Contravention.The execution, delivery and performance by the Administrator of the Transaction Documents to which it is a party (i) have been duly authorized by all necessary action on the part of the Administrator and (ii) do not contravene or constitute a default under (A) any applicable law, rule or regulation, (B) its organizational documents or (C) any material agreement, contract, order or other instrument to which it is a party or its property is subject (other than violations which do not affect the legality, validity or enforceability of any of such agreements and which, individually or in the aggregate, would not materially and adversely affect the transactions contemplated by, or the Administrator’s ability to perform its obligations under, the Transaction Documents). 
+
+^^No Consent Required. No approval or authorization by, or filing with, any Governmental Authority is required in connection with the execution, delivery and performance by the Administrator of any Transaction Document other than (i) UCC 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+filings, (ii) approvals and authorizations that have previously been obtained and filings that have previously been made and (iii) approvals, authorizations or filings which, if not obtained or made, would not have a material adverse effect on the enforceability or collectibility of the Receivables or any other part of the Collateral or would not materially and adversely affect the ability of the Administrator to perform its obligations under the Transaction Documents. 
+
+^^Binding Effect. Each Transaction Document to which the Administrator is a party constitutes the legal, valid and binding obligation of the Administrator enforceable against the Administrator in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, receivership, conservatorship or other similar laws affecting the enforcement of creditors’ rights generally and, if applicable, the rights of creditors of national banking associations from time to time in effect or by general principles of equity. 
+
+^Administrator Replacement Events; Termination of the Administrator. 
+
+^^Subject to clauses (d) and (e) below, the Administrator may resign its duties hereunder by providing the Issuer with at least sixty (60) days’ prior written notice. 
+
+^^Subject to clauses (d) and (e) below, the Issuer may remove the Administrator without cause by providing the Administrator with at least sixty (60) days’ prior written notice; *provided*, that, for so long as any Notes are Outstanding, the Rating Agency Condition shall have been satisfied in connection therewith. 
+
+^^The occurrence of any one of the following events (each, an “Administrator Replacement Event”) shall also entitle the Issuer, subject to Section 20 hereof, to terminate and replace the Administrator: 
+
+^^^any failure by the Administrator to deliver or cause to be delivered any required payment to the Securities Administrator for distribution to the Noteholders, which failure continues unremedied for a period of ten (10) Business Days after discovery thereof by a Responsible Officer of the Administrator or receipt by the Administrator of written notice thereof from the Securities Administrator or Noteholders evidencing at least a majority of the Outstanding Note Balance; 
+
+^^^any failure by the Administrator to duly observe or perform in any material respect any other of its covenants or agreements in this Agreement, which failure materially and adversely affects the rights of the Issuer or the Noteholders, and which continues unremedied for ninety (90) days after discovery thereof by a Responsible Officer of the Administrator or receipt by the Administrator of written notice thereof from the Indenture Trustee or Noteholders evidencing at least a majority of the Outstanding Note Balance; 
+
+^^^any representation or warranty of the Administrator made in any Transaction Document to which the Administrator is a party or by which it is bound or any certificate delivered pursuant to this Agreement proves to have been 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+incorrect in any material respect when made, which failure materially and adversely affects the rights of the Issuer or the Noteholders, and which failure continues unremedied for ninety (90) days after discovery thereof by a Responsible Officer of the Administrator or receipt by the Administrator of written notice thereof from the Indenture Trustee or Noteholders evidencing at least a majority of the Outstanding Note Balance; or 
+
+^^^the Administrator suffers a Bankruptcy Event; 
+
+*provided, however*, that if a delay in or failure of performance referred to under clauses (i), (ii) or (iii) above was caused by *force majeure* or other similar occurrence the grace period in the applicable clause will be extended for an additional thirty (30) days. The existence or occurrence of any “material instance of noncompliance” (within the meaning of Item 1122 of Regulation AB) shall not create any presumption that any event in clauses (i), (ii) or (iii) above has occurred. 
+
+^^If an Administrator Replacement Event shall have occurred, the Issuer may, subject to Section 20 hereof, by notice given to the Administrator and the Owner Trustee, terminate all or a portion of the rights and powers of the Administrator under this Agreement, including the rights of the Administrator to receive the annual fee for services hereunder for all periods following such termination; *provided*, *however*, that such termination shall not become effective until such time as the Issuer, subject to Section 20 hereof, shall have appointed a successor Administrator with the consent of the Indenture Trustee in the manner set forth below. Upon any such termination, all rights, powers, duties and responsibilities of the Administrator under this Agreement shall vest in and be assumed by any successor Administrator appointed by the Issuer, subject to Section 20 hereof, pursuant to a management agreement between the Issuer and such successor Administrator, containing substantially the same provisions as this Agreement (including with respect to the compensation of such successor Administrator), and the successor Administrator is hereby irrevocably authorized and empowered to execute and deliver, on behalf of the Administrator, as attorney-in-fact or otherwise, all documents and other instruments, and to do or accomplish all other acts or things necessary or appropriate to effect such vesting and assumption. Further, in such event, the Administrator shall use its commercially reasonable efforts to effect the orderly and efficient transfer of the administration of the Issuer to the new Administrator. 
+
+^^The Issuer, subject to Section 20 hereof, may waive in writing any Administrator Replacement Event by the Administrator in the performance of its obligations hereunder and its consequences. Upon any such waiver of a past Administrator Replacement Event, such Administrator Replacement Event shall cease to exist, and any Administrator Replacement Event arising therefrom shall be deemed to have been remedied for every purpose of this Agreement. No such waiver shall extend to any subsequent or other Administrator Replacement Event or impair any right consequent thereon. 
+
+^Action upon Termination or Removal. Promptly upon the effective date of termination of this Agreement pursuant to Section 8, or the removal of the Administrator 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+pursuant to Section 8, the Administrator shall be entitled to be paid by the Servicer all fees and reimbursable expenses accruing to it to the date of such termination or removal. If the Administrator is removed without cause, the Servicer will be responsible for any costs, expenses or indemnities incurred by the Administrator in connection with its removal. 
+
+^Liens. The Administrator will not directly or indirectly create, allow or suffer to exist any Lien on the Collateral other than Permitted Liens. 
+
+^Notices. All demands, notices and communications hereunder shall be in writing and shall be delivered or mailed by registered or certified first-class United States mail, postage prepaid, hand delivery, prepaid courier service, or by facsimile, and addressed in each case as specified on Schedule I to the Sale Agreement or at such other address as shall be designated by any of the specified addressees in a written notice to the other parties hereto. Delivery shall occur only upon receipt or reported tender of such communication by an officer of the recipient entitled to receive such notices located at the address of such recipient for notices hereunder. 
+
+^[RESERVED.] 
+
+^Amendments. 
+
+^^Any term or provision of this Agreement may be amended by the Administrator with prior written notice to each Rating Agency but without the consent of the Indenture Trustee, the Securities Administrator, any Noteholder, the Issuer, the Owner Trustee, the Depositor, the First Tier Purchaser, the Second Tier Purchaser or any other Person subject to subsection (d) of this Section 13; *provided* that (i) such amendment shall not, as evidenced by an Officer’s Certificate of the Depositor or an Opinion of Counsel delivered to the Indenture Trustee, the Securities Administrator and the Owner Trustee materially and adversely affect the interests of the Noteholders or (ii) the Rating Agency Condition shall have been satisfied with respect to such amendment; *provided further*, that in the case of any amendment pursuant to this Section 13(a), such amendment shall not, as evidenced by an Opinion of Counsel, (i) affect the treatment of the Notes as indebtedness for federal income tax purposes, (ii) be deemed to cause, for federal income tax purposes, a taxable exchange of the Notes or (iii) cause the Issuer (or any part thereof) to be treated as an association or publicly traded partnership taxable as a corporation for federal income tax purposes. 
+
+^^Subject to subsection (d) of this Section 13, this Agreement may also be amended from time to time by the Issuer, the Administrator and the Indenture Trustee, with the consent of the Holders of Notes evidencing not less than a majority of the Outstanding Note Balance of the Controlling Class, voting as a single class, for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions of this Agreement or of modifying in any manner the rights of the Noteholders. It will not be necessary for the consent of Noteholders to approve the particular form of any proposed amendment or consent, but it will be sufficient if such consent approves the substance thereof. The manner of obtaining such consents (and any other consents of Noteholders provided for in this Agreement) and of evidencing the authorization of the execution thereof by Noteholders will be subject to such reasonable 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+requirements as the Indenture Trustee may prescribe, including the establishment of record dates pursuant to the Note Depository Agreement. 
+
+^^Prior to the execution of any such amendment, the Administrator shall provide written notification of the substance of such amendment to each Rating Agency and the Owner Trustee; and promptly after the execution of any such amendment or consent, the Administrator shall furnish a copy of such amendment or consent to each Rating Agency, the Owner Trustee and the Indenture Trustee. 
+
+^^Prior to the execution of any amendment to this Agreement, the Issuer, the Owner Trustee and the Indenture Trustee shall be entitled to receive and conclusively rely upon an Opinion of Counsel stating that the execution of such amendment is authorized or permitted by this Agreement and that all conditions precedent to the execution and delivery of such amendment have been satisfied. The Owner Trustee and the Indenture Trustee may, but shall not be obligated to, enter into any such amendment which adversely affects the Owner Trustee’s or the Indenture Trustee’s, as applicable, own rights, duties or immunities under this Agreement. Furthermore, notwithstanding anything to the contrary herein, this Agreement may not be amended in any way that would materially and adversely affect the Owner Trustee’s, [the Swap Counterparty’s] or the Indenture Trustee’s rights, privileges, indemnities, duties or obligations under this Agreement, the Transaction Documents or otherwise without the prior written consent of such party. 
+
+^Governing Law; Submission to Jurisdiction; Waiver of Jury Trial. 
+
+^^**THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, INCLUDING SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW BUT EXCLUDING TO THE MAXIMUM EXTENT PERMITTED BY LAW ALL OTHER CONFLICT OF LAW PROVISIONS, AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS**. 
+
+^^Each of the parties hereto hereby irrevocably and unconditionally: 
+
+^^^submits for itself and its property in any legal action or Proceeding relating to this Agreement or any documents executed and delivered in connection herewith, or for recognition and enforcement of any judgment in respect thereof, to the nonexclusive general jurisdiction of the courts of the State of New York, the courts of the United States of America for the Southern District of New York and appellate courts from any thereof; 
+
+^^^consents that any such action or Proceeding may be brought in such courts and waives any objection that it may now or hereafter have to the venue of such action or Proceeding in any such court or that such action or Proceeding was brought in an inconvenient court and agrees not to plead or claim the same; 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+^^^agrees that service of process in any such action or Proceeding may be effected by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, to such Person at its address determined in accordance with Section 11 of this Agreement; 
+
+^^^agrees that nothing herein shall affect the right to effect service of process in any other manner permitted by law or shall limit the right to sue in any other jurisdiction; and 
+
+^^^**to the extent permitted by applicable law, each party hereto irrevocably waives all right of trial by jury in any action, Proceeding or counterclaim based on, or arising out of, under or in connection with this Agreement, any other Transaction Document, or any matter arising hereunder or thereunder.** 
+
+^Headings. The section headings hereof have been inserted for convenience of reference only and shall not be construed to affect the meaning, construction or effect of this Agreement. 
+
+^Counterparts. This Agreement may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all of such counterparts shall together constitute but one and the same instrument. 
+
+^Severability of Provisions. If any one or more of the covenants, agreements, provisions or terms of this Agreement shall be for any reason whatsoever held invalid, then such covenants, agreements, provisions or terms shall be deemed severable from the remaining covenants, agreements, provisions or terms of this Agreement and shall in no way affect the validity or enforceability of the other provisions of this Agreement. 
+
+^Not Applicable to BANA in Other Capacities; Merger of Administrator. 
+
+^^Nothing in this Agreement shall affect any obligation BANA may have in any other capacity. 
+
+^^Any entity into which the Administrator may be merged or converted or with which it may be consolidated, to which it may sell or transfer its corporate trust business and assets as a whole or substantially as a whole or any entity resulting from any merger, sale, transfer, conversion or consolidation to which the Administrator shall be a party, or any entity succeeding to the business of the Administrator, shall be the successor of the Administrator hereunder without the execution or filing of any paper of any further act on the part of any of the parties hereto, anything herein to the contrary notwithstanding. 
+
+^Benefits of the Administration Agreement. Nothing in this Agreement, expressed or implied, shall give to any Person other than the parties hereto and their successors hereunder, the Owner Trustee, any separate trustee or co-trustee appointed under Section 6.10 of the Indenture[, the Swap Counterparty] and the Noteholders, any benefit or any legal or equitable right, remedy or claim under this Agreement. For the avoidance of doubt, the Owner Trustee is a 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+third party beneficiary of this Agreement and is entitled to the rights and benefits hereunder and may enforce the provisions hereof as if it were a party hereto. 
+
+^Assignment. Each party hereto hereby acknowledges and consents to the mortgage, pledge, assignment and Grant of a security interest by the Issuer to the Indenture Trustee pursuant to the Indenture for the benefit of the Noteholders of all of the Issuer’s rights under this Agreement. In addition, the Administrator hereby acknowledges and agrees that for so long as any Notes are outstanding, the Indenture Trustee will have the right to exercise all waivers and consents, rights, remedies, powers, privileges and claims of the Issuer under this Agreement pursuant to the Grant of such security interest. 
+
+^Nonpetition Covenant. Each party hereto agrees that, prior to the date which is one year and one day after payment in full of all obligations of each Bankruptcy Remote Party in respect of all securities issued by any Bankruptcy Remote Party (i) such party shall not authorize any Bankruptcy Remote Party to commence a voluntary winding-up or other voluntary case or other Proceeding seeking liquidation, reorganization or other relief with respect to such Bankruptcy Remote Party or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect in any jurisdiction or seeking the appointment of an administrator, a trustee, receiver, liquidator, custodian or other similar official with respect to such Bankruptcy Remote Party or any substantial part of its property or to consent to any such relief or to the appointment of or taking possession by any such official in an involuntary case or other Proceeding commenced against such Bankruptcy Remote Party, or to make a general assignment for the benefit of, its creditors generally, any party hereto or any other creditor of such Bankruptcy Remote Party, and (ii) none of the parties hereto shall commence or join with any other Person in commencing any Proceeding against such Bankruptcy Remote Party under any bankruptcy, reorganization, liquidation or insolvency law or statute now or hereafter in effect in any jurisdiction. 
+
+^Limitation of Liability. Notwithstanding anything contained herein to the contrary, this Agreement has been executed and delivered by [ ], not in its individual capacity but solely as Owner Trustee, and in no event shall it have any liability for the representations, warranties, covenants, agreements or other obligations of the Issuer hereunder or under the Notes or any of the other Transaction Documents or in any of the certificates, notices or agreements delivered pursuant thereto, as to all of which recourse shall be had solely to the assets of the Issuer. Under no circumstances shall the Owner Trustee be personally liable for the payment of any indebtedness or expense of the Issuer or be liable for the breach or failure of any obligations, representation, warranty or covenant made or undertaken by the Issuer under the Transaction Documents. For the purposes of this Agreement, in the performance of its duties or obligations hereunder, the Owner Trustee shall be subject to, and entitled to the benefits of, the terms and provisions of Articles VI, VII and VIII of the Trust Agreement. 
+
+^[Limitation of Rights. All of the rights of the Swap Counterparty in, to and under this Agreement (including, but not limited to, all of the Swap Counterparty’s rights as a third party beneficiary of this Agreement and all of the Swap Counterparty’s rights to receive notice of any action hereunder and to give or withhold consent to any action hereunder) shall terminate upon the termination of the Interest Rate Swap Agreement in accordance with the terms thereof 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+and the payment in full of all amounts owing to the Swap counterparty under such Interest Rate Swap Agreement.] 
+
+\centered [SIGNATURES ON NEXT PAGE] 
+
+*Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered as of the day and year first above written. 
+
+**BANK OF AMERICA AUTO TRUST 20[ ]-[ ]**
+
+[[BANK OF AMERICA AUTO TRUST 20 - Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA AUTO TRUST 20 - Entity => By: [[BANK OF AMERICA AUTO TRUST 20 - Signatory First Name]] [[BANK OF AMERICA AUTO TRUST 20 - Signatory Last Name]]
+Title: [[BANK OF AMERICA AUTO TRUST 20 - Signatory Title]]}}
+
+
+[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
+
+
+S-1      *Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+**BANK OF AMERICA, NATIONAL ASSOCIATION**, as Administrator
+
+[[BANK OF AMERICA NATIONAL ASSOCIATION as Administrator Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA NATIONAL ASSOCIATION as Administrator Entity => By: [[BANK OF AMERICA NATIONAL ASSOCIATION as Administrator Signatory First Name]] [[BANK OF AMERICA NATIONAL ASSOCIATION as Administrator Signatory Last Name]]
+Title: [[BANK OF AMERICA NATIONAL ASSOCIATION as Administrator Signatory Title]]}}
+
+
+S-2      *Administration Agreement*  *(BAAT 20[ ]-[ ])*
+
+**[** **]**, not in its individual capacity but solely as Indenture Trustee
+
+[[not in its individual capacity but solely as Indenture Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{not in its individual capacity but solely as Indenture Trustee Entity => By: [[not in its individual capacity but solely as Indenture Trustee Signatory First Name]] [[not in its individual capacity but solely as Indenture Trustee Signatory Last Name]]
+Title: [[not in its individual capacity but solely as Indenture Trustee Signatory Title]]}}
+
+
+S-3      *Administration Agreement*  *(BAAT 20[ ]-[ ])*

@@ -1,124 +1,413 @@
-\centered **EMPLOYMENT AGREEMENT**
+\centered **EMPLOYMENT AGREEMENT** 
 
-**This Employment Agreement (“Agreement”)** is entered into as of [[Date 1: Date]] **(“Effective Date”),** by and between [[Vitesse]], a [[State of Formation: State]] [[Organization: EntityType]] **(“Vitesse”)**, and [[Executive]] (the “**Executive**”) and is intended to supersede and replace the Amended and Restated Employment Agreement dated as of [[Date 2: Date]] between Vitesse and Executive (“**Amended Agreement**”) and the Amendment to the Amended Agreement dated as of [[Date 3: Date]].
+This **EMPLOYMENT AGREEMENT** (this “**Employment Agreement**”) is effective as of [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”), and [[Executive]] (the “**Executive**”). 
 
-\centered **RECITALS**
+**WHEREAS**, the Company and its subsidiaries are engaged in the business of (i) manufacturing, marketing and distributing long-handled tools, wheelbarrows, hose reels, striking tools, pruning implements, pots and planters, snow tools, lawn carts, repair handles, garden hoses, and decorative accessories for the lawn and garden, and (ii) conducting such other activities as are undertaken from time to time by the Company and each of its Affiliates, as defined in **Section 9(f)**, as a result of future acquisitions, or otherwise; and 
 
-^Executive serves as Vitesse’s Chief Executive Officer as of the date of this Agreement.
+**WHEREAS**, the Company desires to employ Executive, and Executive desires to be employed by the Company, as Senior Vice President- Operations, in accordance with the terms and conditions set forth herein. 
 
-^Vitesse and Executive desire to set forth in this Agreement the terms and conditions upon which the Executive shall continue to serve as Vitesse’s Chief Executive Officer.
+**NOW**, **THEREFORE**, in consideration of the foregoing and the mutual covenants and promises in this Employment Agreement, the parties agree as follows: 
 
-**NOW, THEREFORE,** in consideration of the foregoing and other good and valuable consideration, the receipt and sufficiency of which hereby are acknowledged, Vitesse and Executive hereby agree as follows:
+^**Employment**. The Company hereby agrees to employ Executive as Senior Vice President - - Operations, and Executive hereby agrees to accept such employment, all in accordance with the terms and conditions of this Employment Agreement. Executive hereby represents and warrants that neither Executive’s entry into this Employment Agreement nor Executive’s performance of Executive’s obligations hereunder will conflict with or result in a breach of the terms, conditions or provisions of any other agreement or obligation of any nature to which Executive is a party or by which Executive is bound, including, without limitation, any development agreement, non-competition agreement or confidentiality agreement entered into by Executive. 
 
-1.**POSITION AND COMPENSATION**
+^**Term of Employment and Automatic Renewal**. The term of Executive’s employment under this Employment Agreement will commence on the date of this Employment Agreement and will continue until the first (1st) anniversary of the date of this Employment Agreement (the **“Initial Employment Period"**). **THE INITIAL EMPLOYMENT PERIOD AND ANY RENEWAL EMPLOYMENT PERIOD (AS DEFINED HEREIN) SHALL AUTOMATICALLY BE RENEWED AND EXTENDED ON THE SAME TERMS AND CONDITIONS CONTAINED HEREIN FOR CONSECUTIVE ONE-YEAR PERIODS (EACH, A “RENEWAL EMPLOYMENT PERIOD”), UNLESS NOT LATER THAN SIXTY (60) DAYS PRIOR TO THE END OF THE INITIAL EMPLOYMENT PERIOD OR ANY RENEWAL EMPLOYMENT PERIOD, AS THE CASE MAY BE, EITHER PARTY SHALL GIVE WRITTEN NOTICE TO THE OTHER PARTY OF ITS ELECTION TO TERMINATE THIS EMPLOYMENT AGREEMENT.** The Initial Employment Period and the Renewal Employment Periods are hereinafter referred to as the “**Employment Period**.” For purposes of this Employment Agreement, any notice of termination electing not to renew this Employment Agreement pursuant to this Section 2 shall be deemed: (i) a termination without Due Cause pursuant to **Section** **9(d)** if such notice is delivered by the Company; or (ii) a voluntary resignation without Good Reason pursuant to **Section** **9(e)** if such 
 
-It is hereby agreed that Executive shall continue to be employed by Vitesse in the position of Chief Executive Officer at a base salary of $[[USD Value 1: Number]] per year. Vitesse and Executive further agree that Executive’s base salary shall be reviewed not less than once per year from the Effective Date of this Agreement. Changes in Executive’s compensation shall be recorded in a Compensation Adjustment form signed and dated by Vitesse and Executive. In addition to salary, Executive shall also participate in a bonus program which will provide him with the opportunity to earn a target bonus equal to [[Percentage 1: Number]]% of Executive’s base salary (“Target Bonus”) and a maximum bonus equal to [[Percentage 2: Number]]% of Executive’s base salary (“Maximum Bonus”). Executive’s bonus, if any, shall be determined by the Board of Directors of Vitesse or any duly authorized committee thereof (“**Board**”) in its sole discretion, taking into account Executive’s performance during the year and such other factors as the Board deems appropriate. The determination and payment of the amount of Executive’s bonus for a fiscal year would be made at approximately the same time as the determination of fiscal year performance bonuses for the Company’s other executive officers, but not later than [[Date 4: Date]] of the following fiscal year.
+^^^^^ 
+notice is delivered by Executive. Notwithstanding anything to the contrary contained herein, the Employment Period is subject to termination pursuant to Section 9 below. 
 
-2.**EMPLOYEE STOCK INCENTIVE PLAN**
+^**Position and Responsibilities**. Executive shall report to and be subject to the direction of the Chief Executive Officer. Executive shall perform and discharge such duties and responsibilities for the Company as the Chief Executive Officer may from time to time reasonably assign Executive. Executive understands and acknowledges that such duties shall be subject to revision and modification by the Chief Executive Officer and/or the Board of Directors (the "**Board**”) of CHATT Holdings LLC (“**CHATT**”), as appropriate, upon reasonable notice to Executive. During the Employment Period, Executive shall devote Executive’s full business time, attention, skill and efforts to the faithful performance of Executive’s duties herein, and shall perform the duties and carry out the responsibilities assigned to Executive, to the best of Executive’s ability, in a diligent, trustworthy and businesslike manner for the purpose of advancing the Company. Executive acknowledges that Executive’s duties and responsibilities will require Executive’s full-time business efforts and agrees that during the Employment Period, Executive will not engage in any outside business activities that conflict with the Executive’s obligations under this Employment Agreement. 
 
-Executive shall be eligible to receive equity compensation grants under the [[Vitesse]] 2001 Stock Incentive Plan (“**SIP**”) or any successor equity compensation program approved by the Board, with the amount of any such compensation to be determined by the Board and consistent with his position as Chief Executive Officer.
+^**Compensation**.  
 
-Concurrent with the execution of this Agreement, a grant of 1,800,000 options (“**Option**”) and 1,800,000 restricted stock units (“**RSU**”) is being made under the Vitesse
+^^Base Salary. During the Employment Period, the Company shall pay to Executive a minimum base salary at the rate of $[[USD Value 1: Number]] per year (the “**Base Salary**”), less applicable tax withholding, subject to increase from time to time, solely at the Company’s discretion, payable at the Company’s regular employee payroll intervals. Executive’s performance shall be reviewed annually and the Base Salary may be increased, effective [[Date 2: Date]] of each year, at the Company’s sole discretion. 
 
-Amended and Restated 2001 Stock Incentive Plan. The terms and conditions of the Option and RSU grant shall be as set forth in Vitesse’s Amended and Restated 2001 Stock Incentive Plan and the grant documents and agreements associated therewith.
+^^Bonus. The Executive shall be eligible to receive an annual bonus for each year during the Employment Period. The target annual bonus is [[Percentage 1: Number]]% of the Executive’s Base Salary, and he is eligible to receive up to a maximum of [[Percentage 2: Number]]% of his Base Salary. Two thirds (2/3) of the annual bonus will be based on the Company’s achievement of annual EBITDA and cash flow targets approved by the Board of CHATT (or a committee thereof) and one third (1/3) will be based on individual performance objectives approved by the Chief Executive Officer or the Board of CHATT. The parties agree that with respect to Executive’s bonus for the fiscal year ending [[Date 3: Date]] (“**Fiscal 2010**”), the Employment Period will be deemed to have commenced on the first day of Fiscal 2010; it being acknowledged that Executive has been an employee of the Company since [[Date 4: Date]]. 
 
-3.**BENEFITS**
+^^Car Allowance. During the Employment Period, the Company shall provide the Executive with a monthly car allowance of $825.00. 
 
-Employment benefits shall be provided to Executive in accordance with the programs of Vitesse then available to its senior executives, as amended from time to time.
+^**Benefit Plans**. During the Employment Period, Executive will be entitled to receive traditional employment benefits comparable to those benefits provided to other senior executive officers of the Company (subject to any applicable waiting periods, eligibility requirements, or other restrictions), which may include insurance (medical, dental, life, disability, directors and officers, etc.), retirement plans, and profit sharing plans. Notwithstanding the foregoing, the Company may, at any time or from time to time, amend, modify, suspend or terminate any benefit plan or program contemplated hereunder in this Section 5 for any reason and without the Executive’s prior written consent; provided that such 
 
-4.**VACATION**
+^^^^^ 
+amendment, modification, suspension or termination does not disproportionately impact the Executive as compared to the other participants under such plan or program. 
 
-Executive shall be entitled to five weeks of paid vacation per year. Unused vacation time may be carried forward only to the extent consistent with Vitesse’s then current policy with respect to vacation time and in accordance with law.
+^**Business Expenses**. The Company, in accordance with policies and practices established by the Board from time to time, will pay or reimburse Executive for all expenses (including travel and cell phone expenses) reasonably incurred by Executive during the Employment Period in connection with the performance of Executive’s duties under this Employment Agreement, provided that Executive shall provide to the Company documentation or evidence of expenses for which Executive seeks reimbursement in accordance with the policies and procedures established by the Board or the Company from time to time. 
 
-5.**TERMINATION OF EMPLOYMENT**
+^**Vacation**. Executive shall be entitled to vacation at the rate of four (4) weeks per calendar year in accordance with the Company’s vacation policy (pro rated for partial years); it being acknowledged that Executive’s vacation for calendar year 2010 shall begin to accrue as of [[Date 5: Date]]. Executive shall make good faith efforts to schedule vacations so as to least conflict with the conduct of the Company’s business and will give the Company adequate advance notice of Executive’s planned absences. Up to half of Executive’s unused vacation time may be carried over to subsequent years; provided, however, that in no event shall Executive be entitled to greater than six (6) weeks vacation per year. 
 
-Vitesse and Executive understand and agree that Executive’s employment may be terminated under the circumstances and in accordance with the terms set forth below:
+^**Confidentiality, Inventions, Non-Competition and Non-Solicitation**  **Agreement**. Prior to the date hereof, Executive has entered into a confidentiality, inventions, non-competition and non-solicitation agreement, in the form of **Exhibit A** attached hereto and made a part hereof (the “**Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement**”). 
 
-^By mutual agreement at any time with or without notice; provided that such agreement must be stated in writing and signed and dated by Executive and an authorized agent of Vitesse.
+^**Termination**.  
 
-^By either Vitesse or Executive at any time and for any reason, with or without prior notice.
+^^Death. The Employment Period will terminate immediately upon the death of Executive. If the Employment Period is terminated pursuant to this **Section 9(a)**, the Company shall have no further obligation to Executive (or the Executive’s estate) except for salary and benefits accrued through the date of termination (the “**Accrued Benefits**”). 
 
-^By Vitesse For Cause. A termination of employment **“For Cause”** is defined as termination by reason of (i) Executive’s conviction of a felony or plea of guilty or *nolo contendere* to a felony; (ii) Executive’s intentional failure or refusal to perform his employment duties and responsibilities; (iii) Executive’s intentional misconduct that injures Vitesse’s business; (iv) Executive’s intentional violation of any other material provision of this Agreement or Vitesse’s code of business conduct and ethics; or (v) as provided in Section 8 of this Agreement. Executive’s inability to perform his duties because of death or Disability shall not constitute a basis for Vitesse’s termination of Executive’s employment For Cause. Notwithstanding the foregoing, Executive’s employment shall not be subject to termination For Cause without Vitesse’s delivery to Executive of a written notice of intention to terminate. Such notice must describe the reasons for the proposed employment termination For Cause, and must be delivered to Executive at least fifteen (15) days prior to the proposed termination date (the “**Notice Period**”). Executive shall be provided an opportunity within the Notice Period to cure any such breach (if curable) giving rise to the proposed termination, and shall be provided an opportunity to be heard before the Board. Thereafter, the Board shall deliver to Executive a written notice of termination after the expiration of the Notice Period stating that a majority of the members of the Board have found that Executive engaged in the conduct described in this Paragraph 5.C.
+^^Due Cause. The Company may terminate the Employment Period immediately upon written notice to Executive for a material breach of this Employment Agreement by Executive. The following events constitute the exclusive list of events that will be deemed a material breach of this Employment Agreement (each of which shall constitute “**Due Cause**”): 
 
-^Vitesse may terminate Executive’s employment immediately upon his death or upon Vitesse’s provision to Executive of not less than fifteen (15) days written notice to Executive that Vitesse has determined that Executive is unable to continue to perform his job duties due to Disability. **“Disability”** means a physical or mental impairment of Executive as certified in a written statement from a licensed physician selected or approved by the Board that renders Executive unable to perform his duties under this Agreement (after reasonable accommodation, if necessary, by Vitesse that does not impose an undue hardship on Vitesse) for one hundred and fifty (150) consecutive days or for at least two hundred and ten (210) days (regardless of whether such days are consecutive) during any period of three hundred sixty-five (365) consecutive days. In conjunction with determining the existence of a Disability, Executive consents to any reasonable medical examinations (at Vitesse’s expense) that the Board determines are relevant to a determination of Executive’s Disability, and agrees that Vitesse is entitled to receive the written results of such examinations. Executive agrees to waive any applicable physician-patient privilege which may arise with respect to such examinations.
+^^^Executive’s material breach of any of Executive’s obligations under (a) the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement, (b) this Employment Agreement, (c) any Subscription Agreement pursuant to which Executive is issued or acquires equity interests in CHATT, (d) to the extent party thereto, the Amended and Restated Unitholders Agreement of CHATT, dated as of [[Date 6: Date]], as in effect from time to time, (e) to the extent party thereto, the Limited Liability Company Agreement of CHATT, dated as of [[Date 6]], by and among the parties thereto, as in effect from time to time or (f) to the extent party thereto, the Registration Rights Agreement of CHATT, dated
 
-^By Executive for Good Reason. A termination of employment for **“Good Reason”** is defined as being without Executive’s written consent, the occurrence of any of the following actions unless the action is fully corrected (if possible) within fifteen (15) days after the Board receives written notice from Executive of such action (which notice shall have been provided by Executive within thirty (30) days of the occurrence of such action), and provided that Executive actually terminates employment within thirty (30) days following the end of such fifteen (15) day period: (a) Vitesse’s material reduction in Executive’s base salary; (b) Vitesse’s failure to pay Executive any material amount that is expressly required to be paid under this Agreement; (c) Vitesse’s material and adverse reduction of the nature of Executive’s duties and responsibilities, disregarding mere changes in title; or (d) Vitesse’s requirement that Executive perform his principal employment duties at an office that is more than thirty-five (35) miles from Camarillo, California.
+^^^^^ 
+as of [[Date 6]], by and among the parties thereto, as in effect from time to time; or
+^^^Executive’s continued and deliberate neglect of, willful misconduct in connection with the performance of, or refusal to perform Executive’s duties in accordance with Section 3 of this Employment Agreement, which, in the case of neglect or failure to perform, has not been cured within thirty (30) days after Executive has been provided notice of the same; or
 
-6.**SEVERANCE PAY**
+^^^Executive’s engagement in any conduct which injures the integrity, character, financial position or financial performance of the business or reputation of the Company or which impugns Executive’s own integrity, character or reputation so as to cause Executive to be unfit to act in the capacity of the Senior Vice President  Operations of the Company; or
 
-If Executive’s employment is terminated (i) by mutual agreement, (ii) by Vitesse For Cause, (iii) by Executive for other than Good Reason (as defined below) or (iv) because of Executive’s Disability or death, Executive (or Executive’s estate in the case of Executive’s death) shall receive Executive’s base salary earned through Executive’s final day of employment, but shall not be eligible to receive any Severance Pay (as defined below) or any other compensation, unless agreed upon by both parties. For purposes of clarification, it is agreed that under this Agreement, neither termination by Vitesse other than For Cause nor termination by Executive for Good Reason includes termination of employment because of Executive’s Disability or death. Executive’s right to receive any of the benefits under this Section 6 shall be conditioned upon Executive’s execution of Vitesse’s standard form of waiver and release of claims.
+^^^the Board’s good faith determination that Executive has committed an act or acts constituting a felony, or other act involving dishonesty, disloyalty or fraud against the Company.
 
-If Executive’s employment is terminated other than on or within 24 months after a Change of Control Event by Vitesse other than For Cause or by Executive for Good Reason, Executive shall receive (i) his base salary earned through Executive’s final day of employment, (ii) a pro-rata portion (based upon the portion of the fiscal year occurring prior to Executive’s final day of employment) of Executive’s Target Bonus and (iii) Severance Pay.
+If the Employment Period is terminated pursuant to this **Section 9(b)**, the Company shall have no further obligation to Executive except for the Accrued Benefits. 
 
-If Executive’s employment is terminated on or within 24 months after a Change of Control Event by Vitesse other than For Cause or by Executive for Good Reason, Executive shall receive (i) his base salary earned through Executive’s final day of employment, (ii) a pro-rata portion (based upon the portion of the fiscal year occurring prior to Executive’s final day of employment) of the greater of (a) Executive’s Target Bonus or (b) the bonus the Executive actually received for the fiscal year ending immediately prior to Executive’s final day of employment and (iii) Severance Pay. In addition, upon a termination of Executive’s employment on or within 24 months after a Change of Control Event by Vitesse other than For Cause or by Executive for Good Reason, all outstanding options and restricted stock units which are subject solely to time-based vesting shall become fully vested. Furthermore, if a Change of Control Event occurs and if the Executive’s employment with Vitesse is terminated within one year prior to the date on which the Change of Control Event occurs by Vitesse other than For Cause, and if it is reasonably demonstrated by the Executive that such termination of employment (i) was at the request of a third party which had taken steps reasonably calculated to effect such Change of Control Event or (ii) otherwise arose in connection with or anticipation of such Change of Control Event, then all restricted stock units which are subject solely to time-based vesting and were outstanding immediately prior to Executive’s final day of employment shall become fully vested as of the Change of Control Event and to the extent such Change of Control Event occurs prior to 6 months after Executive’s termination of employment, all options outstanding immediately prior to Executive’s final day of employment which are subject solely to time-vesting shall become fully vested as of the Change of Control Event and subject to the other terms of the equity compensation plan applicable upon a Change of Control Event, shall have a remaining exercise period of the lesser of (i) the period remaining until 6 months after the Executive’s termination of employment or (ii) 90 days after such Change of Control Event, provided such exercise period does not extend beyond the maximum term of the options applicable if the Executive had remained employed with the Company.
+^^Permanent Disability. The Company may terminate the Employment Period upon the Permanent Disability (as defined below) of the Executive. If the Employment Period is terminated pursuant to this **Section 9(c)**, then Executive will be entitled to receive the Accrued Benefits, and such benefits, if any, as may be provided Executive pursuant to the Company’s disability insurance policy. Except as set forth in the immediately preceding sentence, if the Employment Period is terminated pursuant to this **Section 9(c)**, the Company shall have no further obligation to Executive. For purposes of this Employment Agreement, the term “**Permanent Disability**” shall mean that Executive is unable to perform, with or without reasonable accommodation, by reason of physical or mental incapacity, the essential functions of the Executive’s position for ninety (90) or more days in any one hundred twenty (120) day period. The Board shall determine, according to the facts then available, whether and when a Permanent Disability has occurred. Such determination shall not be arbitrary or unreasonable. 
 
-“**Change of Control Event”** shall have the same meaning as in Vitesse’s SIP.
+^^Termination by the Company without Due Cause. The Company may terminate the Employment Period without Due Cause upon thirty (30) days’ prior written notice. If the Employment Period is terminated pursuant to this **Section 9(d)**, then Executive will be entitled to receive (i) the Accrued Benefits and (ii) the Executive’s Base Salary plus benefits pursuant to the Consolidated Omnibus Budget Reconciliation Act, as amended (“COBRA”) (at the same cost to the Executive as in effect immediately prior to such termination of employment) for a period of twelve (12) months, payable at the Company’s regular payroll intervals. Notwithstanding the above, Executive shall receive such severance payment only if Executive is not in material breach of any of the provisions of the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement. Except as set forth in this **Section 9(d)**, if the Employment Period is terminated pursuant to this **Section 9(d)**, the Company shall have no further obligation to Executive. 
 
-“**Severance Pay**” means twenty four (24) months of Executive’s base salary plus two times the Maximum Bonus (whether earned or not) payable in a lump sum on the date of termination of employment, and payment of the cost of continuation of group medical and dental benefits pursuant to the Vitesse’s standard programs in effect on the termination of employment date for a period of the lesser of twelve (12) months or the date on which Executive obtains other employment.
+^^^^^ 
+^^Voluntary Resignation by Executive. Executive may terminate the Employment Period at any time for any reason upon thirty (30) days’ prior written notice. If the Employment Period is terminated pursuant to this **Section 9(e)**, the Company shall have no further obligation to Executive except for the Accrued Benefits; provided, however, that if Executive is terminating the Employment Period for Good Reason (as defined below), then Executive will also be entitled to receive as severance pay the Executive’s Base Salary plus benefits pursuant to COBRA (at the same cost to the Executive as in effect immediately prior to such termination of employment) for a period of twelve (12) months, payable at the Company’s regular payroll intervals. Notwithstanding the above, Executive shall receive such amounts only if Executive is not in material breach of any of the provisions of the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement. The following events will be deemed “**Good Reason**” for which Executive may terminate the Employment Period and receive the severance payments set forth in this **Section 9(e)**: 
 
-7.**EMPLOYMENT DUTIES**
+^^^a material diminution of the Executive’s responsibilities after notice to the Company and a thirty (30) day opportunity to cure; or
 
-Executive will report to Vitesse’s Board and shall perform all duties assigned to him by the Board. Executive’s duties may be conveyed to him through a job description, or through other written or verbal instructions from Vitesse’s Board. Executive’s duties are expected to involve travel from time to time to various locations and events, and are expected to involve significant unpaid overtime.
+^^^any material breach of this Employment Agreement on the part of the Company (including, but not limited to, any decrease in the Base Salary without the consent of the Executive or relocation of Executive’s place of employment to a location that is greater than fifty (50) miles from the Harrisburg, Pennsylvania metropolitan area), after notice to the Board, and a thirty (30) day opportunity to cure; provided, however, that Executive is not in material breach of any of the terms of this Employment Agreement.
 
-^**COMPLIANCE WITH VITESSE POLICIES AND PROCEDURES**
+^^General Release. The receipt of any severance payment as set forth in this **Sections 9** above shall be contingent upon Executive’s execution of a general release of all claims against the Company and its Affiliates (as defined below) within 30 days following Executive’s termination of employment that is not revoked, substantially in the form attached hereto as **Exhibit B**. For purposes of this Employment Agreement, the term “**Affiliates**” means all persons or entities that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, the Company, all companies or entities in which the Company owns an equity interest, and all predecessors, successors and assigns of such affiliates. 
 
-As a member of Vitesse management, Executive will be expected to comply with all provisions of the Vitesse Policies and Procedures Manual and Employee Handbook, as amended from time to time. Executive acknowledges, by signature on this Agreement, that failure to comply with and ensure enforcement of Vitesse’s policies, procedures and all federal/state laws relating to business operations may result in immediate termination of employment For Cause.
+^^Mitigation. Notwithstanding anything herein to the contrary, to the extent Executive obtains employment at any time during the entire twelve (12) months of any severance period, the Company’s severance obligations under this Employment Agreement, including, without limitation, the continuation of Executive’s benefits hereunder, shall be reduced by the amount of any compensation or benefits received (or accrued) by the Executive, including without limitation any equity or other incentive compensation and any bonus, under such new employment arrangement. Executive agrees that if Executive accepts other employment at any time during the entire twelve (12) months of the severance period, Executive shall notify the Company in writing within two (2) business days of such acceptance. Executive acknowledges that the Executive’s failure to abide by this provision shall entitle the Company to recoup all severance pay previously paid to Executive pursuant to this Employment Agreement. 
 
-^**CONFLICT OF INTEREST**
+^^Survival. Termination of the Employment Period in accordance with this Section 9, or expiration of the Employment Period, will not affect the provisions of this 
 
-Executive acknowledges that his position is a full-time position and agrees to devote his entire productive time, ability and attention to Vitesse’s business. Executive further agrees that while employed by Vitesse, he will not directly or indirectly engage in outside employment, consulting or other business activities unless he has obtained written consent from the Vitesse Board.
+^^^^^ 
+Employment Agreement that survive such termination, including without limitation, the provisions in the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement and will not limit either party’s ability to pursue remedies at law or equity. 
 
-10.**NO SOLICITATION OF CUSTOMERS**
+^**Attorney’s Fees**. If either party prevails in a legal action to enforce or protect its rights under this Employment Agreement, then that party shall be entitled to recover reasonable attorneys’ fees, costs, and expenses, in addition to all other relief, including but not limited to damages and injunctive relief. 
 
-Executive promises and agrees that during the term of this Agreement, Executive will not, directly or indirectly, individually or as a consultant to, or as an employee, officer, stockholder, director or other owner or participant in any business, influence or attempt to influence customers, vendors, suppliers, joint venturers, associates, consultants, agents, or partners of Vitesse, either directly or indirectly, to divert their business away from Vitesse, to any individual, partnership, firm, corporation or other entity then in competition with the business of Vitesse, and he will not otherwise materially interfere with any business relationship of Vitesse. Executive also promises and agrees that for a period of two (2) years after termination of employment he will not utilize trade secrets of Vitesse to directly or indirectly, individually or as a consultant to, or as an employee, officer, stockholder, director or other owner or participant in any business, influence or attempt to influence customers, vendors, suppliers, joint venturers, associates, consultants, agents, or partners of Vitesse, either directly or indirectly, to divert their business away from Vitesse, to any individual, partnership, firm, corporation or other entity then in competition with the business of Vitesse, and he will not otherwise materially interfere with any business relationship of Vitesse.
+^**Executive Assistance**. Both during the Employment Period and for two (2) years after the end of the Employment Period, Executive shall, upon reasonable notice, furnish the Company with such information as may be in Executive’s possession or control, and cooperate with the Company, as the Company may reasonably request (with due consideration to Executive’s business activities and obligations after the Employment Period), in connection with any litigation, claim, or other dispute in which the Company or any of its Affiliates is or may become a party. The Company shall reimburse Executive for all reasonable out-of-pocket expenses incurred by Executive in fulfilling Executive’s obligations under this Section 11. In addition, to the extent that the Executive provides such assistance at any time after six months from the date that Executive’s employment with the Company has terminated, and Executive is required to be absent from employment for one or more days in order to provide such assistance, the Company shall pay the Executive for each such day an amount equal to the daily rate of the Executive’s Base Salary as in effect as of the date of termination. 
 
-11.**SOLICITATION OF EMPLOYEES**
+^**Effect of Prior Agreements**. This Employment Agreement and the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement, contain the entire understanding among the Company, CHATT and Executive relating to the subject matter hereof and supersede any prior agreements, arrangements, and understandings between Executive, CHATT, ATT Holding Co., and the Company relating to the subject matter hereof. 
 
-Executive promises and agrees that during the term of this Agreement and for a period of two (2) years thereafter, Executive will not, directly or indirectly, individually or as a consultant to, or as an employee, officer, stockholder, director or other owner of or participant in any business, solicit (or assist in soliciting) any person who is then, or at any time within six (6) months prior thereto was, an employee of Vitesse who earned annually $[[USD Value 2: Number]] or more as an employee of Vitesse during the last six (6) months of his or her own employment to work for (as an employee, consultant or otherwise) any business, individual, partnership, firm, corporation, or other entity whether or not engaged in competitive business with Vitesse.
+^**Modification and Waiver**. This Employment Agreement may not be modified or amended, nor may any provisions of this Employment Agreement be waived, except by an instrument in writing signed by the parties. No written waiver will be deemed to be a continuing waiver unless specifically stated therein, and each such waiver will operate only as to the specific term or condition waived and shall not constitute a waiver of such term or condition for the future or as to any act other than that specifically waived. 
 
-12.**OBLIGATION TO RETURN** **BONUS PAYMENTS**
+^**Severability**. If, for any reason, any provision of this Employment Agreement is held invalid, such invalidity will not affect any other provision of this Employment Agreement, and each provision will to the full extent consistent with law continue in full force and effect. If any provision of this Employment Agreement is held invalid in part, such invalidity will in no way affect the rest of such provision, and the rest of such provision, together with all other provisions of this Employment Agreement, will, to the full extent consistent with law, continue in full force and effect. 
 
-Executive agrees to disgorge to the Company certain bonus payments and profits if the Company is required to prepare an accounting restatement to correct an accounting error on an interim or annual financial statement included in a report on Form 10-Q or Form 10-K, due to material noncompliance with any financial reporting requirement under the federal securities laws, and the Board determines that misconduct by the Executive has occurred and caused such restatement. ‘Misconduct’ shall refer to any definition included in the applicable statute(s) or applicable judicial precedents. The amounts that shall be disgorged shall be (i) any bonus or other incentive-based or equity-based compensation received by Executive from the Company during the 12-month period following the first public issuance or filing with the SEC (whichever first occurs) of the financial document embodying such error; and (ii) any net profits realized by Executive from the sale of the Company’s stock during that 12-month period. In any dispute between the Company and Executive regarding such misconduct, Executive will continue to be entitled to any indemnification or reimbursement for legal representation available to Executive pursuant to any statute, charter provision, By-law, contract or other arrangement that insures or indemnifies Executive.
+^**Notices**. Any notice, consent, waiver and other communications required or permitted pursuant to the provisions of this Employment Agreement must be in writing and will be deemed to have been properly given (a) when delivered by hand; (b) when sent by telecopier (with acknowledgment of complete transmission), provided that a copy is mailed by U.S. certified mail, return receipt requested; (c) three (3) days after sent by certified mail, return 
 
-13.**LIMITATION ON PAYMENTS**
+^^^^^ 
+receipt requested; or (d) one (1) day after deposit with a nationally recognized overnight delivery service, in each case to the appropriate addresses and telecopier numbers set forth below: 
 
-In the event that the severance and other benefits provided for in this Agreement or otherwise payable to Executive (i) constitute “parachute payments” within the meaning of Section 280G of the Internal Revenue Code of 1986, as amended (the “**Code”),** and (ii) would be subject to the excise tax imposed by Section 4999 of the Code (the “**Excise Tax**”), then Executive’s benefits under this Agreement shall be either (a) delivered in full, or (b) delivered as to such lesser extent which would result in no portion of such benefits being subject to the Excise Tax, whichever of the foregoing amounts, taking into account the applicable federal, state and local income taxes and the Excise Tax, results in the receipt by Executive on an after-tax basis, of the greatest amount of benefits, notwithstanding that all or some portion of such benefits may be taxable under Section 4999 of the Code. The payments or benefits subject to any such reduction shall be reduced by Vitesse in its reasonable discretion in the following order: (i) reduction of any payments and benefits otherwise payable to Executive that are exempt from Section 409A of the Code, and (ii) reduction of any other payments and benefits otherwise payable to Executive on a pro-rata basis or such other manner that complies with Section 409A of the Code, as determined by Vitesse.
+If to the Company:  
+Castle Harlan, Inc.
 
-Unless Vitesse and Executive otherwise agree in writing, any determination required under this section shall be made in writing by Vitesse’s independent public accountants (the **“Accountants”),** whose determination shall be conclusive and binding upon Executive and Vitesse for all purposes. For purposes of making the calculations required by this section, the Accountants may make reasonable assumptions and approximations concerning applicable taxes and may rely on reasonable, good faith interpretations concerning the application of Section 280G and 4999 of the Code. Vitesse and Executive shall furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make a determination under this section. Vitesse shall bear all costs the Accountants may reasonably incur in connection with any calculations contemplated by this section.
+[[Address 1: Address]]
 
-14.**SECTION 409A**
+Attn: Justin Wender
 
-Vitesse makes no representations or warranties to Executive with respect to any tax, economic or legal consequences of this letter or any payments or other benefits provided hereunder, including without limitation under Section 409A of the Code. However, the parties intend that this Agreement and the payments and other benefits provided hereunder be exempt from the requirements of Section 409A of the Code to the maximum extent possible, whether pursuant to the short-term deferral exception described in Treasury Regulation Section 1.409A-1(b)(4), the involuntary separation pay plan exception described in Treasury Regulation Section 1.409A-1(b)(9)(iii), or otherwise. To the extent Section 409A of the Code is applicable to this Agreement (and such payments and benefits), the parties intend that this Agreement (and such payments and benefits) comply with the deferral, payout and other limitations and restrictions imposed under Section 409A of the Code. Notwithstanding any other provision of this Agreement to the contrary, this Agreement shall be interpreted, operated and administered in a manner consistent with such intentions. Without limiting the generality of the foregoing, and notwithstanding any other provision of this Agreement to the contrary, with respect to any payments and benefits under this letter to which Section 409A of the Code applies, all references in this letter to the termination of Executive’s employment are intended to mean Executive’s “separation from service,” within the meaning of Section 409A(a)(2)(A)(i) of the Code. In addition, if Executive is a “specified employee,” within the meaning of Section 409A(a)(2)(B)(i) of the Code, then to the extent necessary to avoid subjecting Executive to the imposition of any additional tax under Section 409A of the Code, amounts that would otherwise be payable under this Agreement during the six-month period immediately following Executive’s “separation from service,” within the meaning of Section 409A(a)(2)(A)(i) of the Code, will not be paid to Executive during such period, but will instead be accumulated and paid to Executive (or, in the event of Executive’s death, Executive’s estate) in a lump sum on the first business day following the earlier of (a) the date that is six months after Executive’s separation from service or (b) Executive’s death. It is intended that each installment, if any, of any severance payments shall be treated as a separate “payment” for purposes of Section 409A. Likewise to the extent required for payments under this Agreement to comply with or be exempt from Section 409A of the Code (with the intention to comply with Treasury Regulation §1.409A-3(d) with the treatment of the 38th day after termination of employment as the designated payment date), payments shall be made no sooner than the 8th day after termination of employment nor later than the 38th day after termination of employment based on when the waiver and release provided in the first paragraph of Section 6 is executed and becomes non-revocable and if such 30-day period spans two calendar years, payment shall be made in the later calendar year. In addition, to the extent required for payments under this Agreement (including, without limitation, the treatment of restricted stock units) to comply with or be exempt from Section 409A of the Code, an event shall not be treated as a Change of Control Event unless it also constitutes a change in the ownership or effective control of Vitesse or in the ownership of a substantial portion of the assets of Vitesse as determined under Section 409A of the Code.
+Fax: [[Phone 1]] 
 
-15.**ARBITRATION**
+and  
+[[Company]]
 
-Any controversy arising out of or relating to Executive’s employment, any termination of Executive’s employment, this Agreement or because of an alleged breach, default, or misrepresentation in connection with any of the provisions of this Agreement, including (without limitation) any state or federal statutory claims, shall be submitted to final and binding arbitration, to be held in Ventura County, California before a sole neutral arbitrator. The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures. Judgment on the award may be entered in any court having jurisdiction. The parties acknowledge and agree that they are hereby waiving any rights to trial by jury in any action, proceeding or counterclaim brought by either of the parties against the other in connection with any matter whatsoever arising out of or in any way connected with any of the matters referenced in this Section 15. The parties agree that in any proceeding with respect to such matters, each party shall bear its own attorney’s fees and costs.
+[[Address 2: Address]]
 
-16.**TERM**
+Attn: President and Chief Executive Officer
 
-Subject to the provisions of Section 5 of this Agreement, the term of this Agreement shall end on [[Date 5: Date]].
+Fax: [[Phone 2]] 
 
-17.**PARTIAL INVALIDITY**
+With a copy to:  
+Schulte Roth & Zabel LLP
 
-It is the desire and intent of Vitesse and Executive that the provisions of this Agreement be enforced to the fullest extent permissible under applicable federal, state and municipal laws. Accordingly, if any specific provision or portion of this Agreement are determined to be invalid or unenforceable within the particular jurisdiction in which enforcement is sought, that portion of the Agreement will be considered as deleted for the purposes of adjudication. All other portions of this Agreement will be considered valid and enforceable within that jurisdiction.
+[[Address 3: Address]]
 
-18.**ENTIRE AGREEMENT**
+Attn.: Robert Goldstein, Esq.
 
-Vitesse and Executive understand and agree that this Agreement constitutes the full and complete understanding and agreement between them regarding the terms of Executive’s employment and supersedes all prior understandings, representations, and agreements with respect to the employment. Vitesse and Executive understand that the Vitesse SIP and the Compensation Adjustment forms (if any) referred to in this Agreement shall be fully incorporated into this Agreement by reference. The parties rights and obligations hereunder may not be assigned without the consent of each party hereto, except that Vitesse may assign its rights and obligations hereunder to any successor entity. Executive agrees that following a Change in Control Event, “Vitesse” shall refer to any successor entity.
+Fax: [[Phone 3]] 
 
-\centered *[Remainder of Page Intentional Left Blank]*
+If to Executive:  
+To the address set forth in the personnel records of the Company. 
 
-19.**EXECUTIVE** **ACKNOWLEDGEMENT**
+Each party will be entitled to specify a different address for the receipt of subsequent notices by giving written notice thereof to the other party in accordance with this Section 15. 
 
-Executive acknowledges that he has read and understands this Employment Agreement and agrees to the terms and conditions contained herein. Executive agrees that he has had the opportunity to confer with legal counsel of his choosing regarding this Agreement. Executive further acknowledges that this Agreement has not been executed by Executive in reliance upon any representation or promise except those contained herein, and that Vitesse has made no guarantee regarding Executive’s employment other than those specified in this Agreement.
+^**Third Party Beneficiaries**. Nothing herein expressed or implied is intended or shall be construed to confer upon or give to any person or entity, other than the parties to this Employment Agreement and their respective permitted successors and assigns, any rights or remedies under or by reason of this Employment Agreement. 
 
-**“Executive”**
+^**Headings**. The headings and other captions in this Employment Agreement are included solely for convenience of reference and will not control the meaning and interpretation of any provision of this Employment Agreement. 
 
-Dated   2/25/10      /s/ [[Executive]]
-[[Executive]]
+^**Governing Law; Arbitration**. This Employment Agreement has been executed in the State of Pennsylvania, and its validity, interpretation, performance, and enforcement will be governed by the laws of such state, except with respect to conflicts of laws principles. Except 
+
+^^^^^ 
+for disputes arising out of an alleged violation of the covenants set forth in the Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement, any controversy or claim arising out of or relating to any provision of this Employment Agreement or any other document or agreement referred to herein shall be resolved by arbitration. The arbitration process shall be instigated by either party giving written notice to the other of the desire for arbitration and the factual allegations underlying the basis for the dispute. The arbitration shall be conducted by such alternative dispute resolution service as is agreed to by the parties, or, failing such agreement within thirty (30) days after such dispute arises, by arbitrators selected as described below in accordance with the rules and procedures established by the American Arbitration Association. Only a person who is a practicing lawyer admitted to a state bar may serve as an arbitrator. Each party shall select one arbitrator, and those arbitrators shall choose a third arbitrator; these arbitrators shall constitute the panel. The American Arbitration Association rules for employment arbitration shall control any discovery conducted in connection with the arbitration. The expenses of arbitration (other than attorneys’ fees) shall be shared as determined by arbitration. Each side to the claim or controversy shall pay their own attorneys’ fees. Any result reached by the panel shall be binding on all parties to the arbitration, and no appeal may be taken. It is agreed that any party to any award rendered in such arbitration proceeding may seek a judgment upon the award and that judgment may be entered thereon by any court having jurisdiction. The arbitration shall be conducted in the State of Pennsylvania. 
+
+^**Non-Assignabilitv/Binding Effect**. This Employment Agreement shall not be assignable by either party without the prior written consent of the other party. This Employment Agreement will be binding upon and inure to the benefit of Executive, the Company, and their respective successors and permitted assigns. 
+
+^**No Strict Construction**. The language used in this Employment Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction will be applied against any person. 
+
+^**Conformance with Code Section 409A**. The parties hereto agree to negotiate in good faith should any amendment to this Employment Agreement be required in order to comply with Section 409A of the Internal Revenue Code (“**Section 409A**”). If any expense reimbursement or recovery of any attorney’s fees, cost and expenses by Executive under this Agreement is determined to be “deferred compensation” within the meaning of Section 409A, including, without limitation any reimbursement or recovery under Section 6 and 10, then the reimbursement or recovery shall be made to Executive as soon as practicable after submission of the reimbursement or recovery request, but no later than [[Date 7: Date]] of the year following the year during which such expense was incurred. 
+
+\centered [Remainder of Page Intentionally Blank; Signature Page to Follow] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Company has caused this Employment Agreement to be executed by its duly authorized officer and Executive has signed this Employment Agreement, as of [[Date 1]]. 
+
+\centered 
+
+[[Company]] 
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
 
 
+**EXECUTIVE** 
 
-Dated   2/25/10      By   /s/ Grant Lyon
-Grant Lyon
-Chairman of the Compensation Committee
+/s/ [[Executive]] 
+
+[[Executive]]  
+
+^^^^^ 
+\centered **EXHIBIT A** 
+
+\centered **CONFIDENTIALITY, INVENTIONS,**  **NON-COMPETITION AND NON-SOLICITATION AGREEMENT** 
+
+This Confidentiality, Inventions, Non-Competition and Non-Solicitation Agreement (the “Agreement”) is entered into this ___day of  by and between CHATT Holdings LLC, its successors or assigns (the “Company”) and [[Executive]] (the “Executive”). This Agreement sets forth the entire agreement between the parties hereto concerning the subject matter hereof and supersedes all prior agreements and understandings concerning the subject matter hereof. In consideration of employment by the Company and/or its Affiliates (as defined in Section 2(b) below) of Executive, which Executive acknowledges to be good and valuable consideration for the Executive’s obligations hereunder, the Company and Executive agree as follows: 
+
+^The Business.
+
+Executive acknowledges that the Company and its Affiliates are engaged in the business of (i) manufacturing, marketing and distributing long-handled tools, wheelbarrows, hose reels, striking tools, pruning implements, pots and planters, snow tools, lawn carts, repair handles, garden hoses, and decorative accessories for the lawn and garden, and (ii) conducting such other activities as are undertaken (or are proposed or contemplated to be undertaken) from time to time by the Company and each of its Affiliates as a result of future acquisitions or otherwise (collectively, the “Business”).
+
+^Confidential Information.
+
+^^Executive acknowledges that the Confidential Information (as defined below) constitutes a protectible business interest of the Company and its Affiliates, and covenants and agrees that at all times during the period of Executive’s employment, and at all times after termination of such employment, Executive will not, directly or indirectly, disclose, furnish, make available or utilize any Confidential Information other than in the course of performing duties as an employee of the Company and/or its Affiliates. Executive will abide by Company policies and rules as may be established from time to time by it for the protection of its Confidential Information. Executive agrees that in the course of employment with the Company, Executive will not bring to the Company’s offices or use, disclose to the Company, or induce the Company to use, any confidential information or documents belonging to others. Executive’s obligations under this Section 2(a) with respect to Confidential Information will survive termination of Executive’s employment with the Company, and will terminate only at such time (if any) as the Confidential Information in question becomes generally known to the public other than through a breach of Executive’s obligations under this Agreement.
+
+^^^^^ 
+^^As used in this Agreement, the term “Confidential Information” means any and all confidential, proprietary or trade secret information, whether disclosed, directly or indirectly, verbally, in writing or by any other means in tangible or intangible form, including that which is conceived or developed by Executive, applicable to or in any way related to: (i) the present or future business of the Company or any of its Affiliates (as defined below); (ii) the research and development of the Company or any of its Affiliates; or (iii) the business of any client, vendor, supplier or distributor of the Company or any of its Affiliates. Such Confidential Information includes the following property or information of the Company and its Affiliates, by way of example and without limitation, trade secrets, processes, formulas, data, program documentation, customer lists, designs, drawings, algorithms, source code, object code, know-how, improvements, inventions, licenses, techniques, all plans or strategies for marketing, development and pricing, business plans, financial statements, profit margins and all information concerning existing or potential clients, suppliers or vendors. Confidential Information also means all similar information disclosed to the Company or any Affiliate by third parties which is subject to confidentiality obligations. The term “Affiliates” means (i) all persons or entities controlling, controlled by or under common control with the Company, (ii) all companies or entities in which the Company owns an equity interest and (iii) all predecessors, successors and assigns of the those Affiliates identified in (i) and (ii).
+
+^Return of Materials.
+
+Upon termination of employment with the Company, and regardless of the reason for such termination, Executive will leave with, or promptly return to, the Company all documents, records, notebooks, magnetic tapes, disks or other materials, including all copies, in Executive’s possession or control which contain Confidential Information or any other information concerning the Company, any of its Affiliates or any of their respective products, services or clients, whether prepared by the Executive or others. Notwithstanding the foregoing, Executive shall be entitled to retain the Executive’s personal effects provided any Confidential Information is removed therefrom.
+
+^Inventions as Sole Property of the Company.
+
+^^Executive covenants and agrees that all Inventions (as defined below) shall be the sole and exclusive property of the Company.
+
+^^As used in this Agreement, the term “Inventions” means any and all inventions, developments, discoveries, improvements, works of authorship, concepts or ideas, or expressions thereof, whether or not subject to patents, copyright, trademark, trade secret protection or other intellectual property right protection (in the United States or elsewhere), and whether or not reduced to practice, conceived or developed by Executive while employed with the Company and/or any Affiliate of the Company or within one (1) year following termination of such employment which relate to or result from the actual or anticipated business, work, research or
+
+\centered A-2 
+
+^^^^^ 
+investigation of the Company or any of its Affiliates or which are suggested by or result from any task assigned to or performed by Executive for the Company or any of its Affiliates.
+
+^^Executive acknowledges that all original works of authorship which are made by the Executive (solely or jointly) are works made for hire under the United States Copyright Act (17 U.S.C., et seq.).
+
+^^Executive agrees to promptly disclose to the Company all Inventions, all original works of authorship and all work product relating thereto. This disclosure will include complete and accurate copies of all source code, object code or machine-readable copies, documentation, work notes, flow-charts, diagrams, test data, reports, samples and other tangible evidence or results (collectively, “Tangible Embodiments”) of such Inventions, works of authorship and work product. All Tangible Embodiments of any Invention, work of authorship or work product related thereto will be deemed to have been assigned to the Company as a result of the act of expressing any Invention or work of authorship therein.
+
+^^Executive hereby assigns to the Company (together with the right to prosecute or sue for infringements or other violations of the same) the entire worldwide right, title and interest to any such Inventions or works made for hire, and Executive agrees to perform, during and after employment, all acts deemed necessary or desirable by the Company to permit and assist it, at the Company’s expense, in registering, recording, obtaining, maintaining, defending, enforcing and assigning Inventions or works made for hire in any and all countries. Executive hereby irrevocably designates and appoints the Company and its duly authorized officers and agents as Executive’s agents and attorneys-in-fact to act for and on Executive’s behalf and instead of Executive, to execute and file any documents and to do all other lawfully permitted acts to further the above purposes with the same legal force and effect as if executed by Executive; this designation and appointment constitutes an irrevocable power of attorney and is coupled with an interest.
+
+^^Without limiting the generality of any other provision of this Section 4, Executive hereby authorizes the Company and each of its Affiliates (and their respective successors) to make any desired changes to any part of any Invention, to combine it with other materials in any manner desired, and to withhold Executive’s identity in connection with any distribution or use thereof alone or in combination with other materials.
+
+^^This Agreement does not apply to any invention for which no equipment, supplies, facility or trade secret information of the Company or any Affiliate was used and which was developed entirely on Executive’s own time, unless (1) the invention relates (a) to the business of the Company or any Affiliate or (b) to the Company’s or any Affiliate’s actual demonstrably anticipated research or development; or (2) the invention results from any work performed by Executive for the Company or any Affiliate.
+
+\centered A-3 
+
+^^^^^ 
+^^The obligations of Executive set forth in this Section 4 (including, but not limited to, the assignment obligations) will continue beyond the termination of Executive’s employment with respect to Inventions conceived or made by Executive alone or in concert with others during Executive’s employment with the Company and during the one (1) year thereafter, whether pursuant to this Agreement or otherwise. These obligations will be binding upon Executive and Executive’s executors, administrators and other representatives.
+
+^List of Prior Inventions.
+
+All Inventions which Executive has made prior to employment by the Company or any Affiliate (including without limitation [[Company]]) are excluded from the scope of this Agreement. As a matter of record, Executive has set forth on Annex I hereto a complete list of those Inventions which might relate to the Company’s Business and which have been made by Executive prior to employment with the Company. Executive represents that such list is complete. If no list is attached, Executive represents that there are no prior Inventions.
+
+^Non-Competition.
+
+^^Executive acknowledges that: (i) the Company and its Affiliates are and will be engaged in the Business during the term of the Executive’s employment and thereafter; (ii) the Company and its Affiliates are and will be actively engaged in the Business throughout the world; (iii) Executive is one of a limited number of persons who will be developing the Business; (iv) Executive has and will continue to occupy a position of trust and confidence with the Company after the date hereof and during the term of the Executive’s employment Executive will become familiar with the Company’s (and its Affiliates’) trade secrets and with other proprietary and confidential information concerning the Company (and its Affiliates) and the Business; (v) the agreements and covenants contained in this Agreement are essential to protect the Company, its Affiliates and the goodwill of the Business; (vi) Executive’s employment with the Company and/or its Affiliates has special, unique and extraordinary value to the Company and its Affiliates and the Company would be irreparably damaged if Executive were to provide services to any person or entity in violation of the provisions of this Section 6; and (vii) Executive has means to support Executive and Executive’s dependents other than by engaging in the Business, and the provisions of this Section 6 will not impair such ability.
+
+^^Executive will not, during the Restricted Period (as defined below), anywhere in the world (the “Restricted Territory”), directly or indirectly (whether as an owner, partner, shareholder, agent, officer, director, employee, independent contractor, consultant, or otherwise) own, operate, manage, control, invest in, perform services for, or engage or participate in any manner in, or render services to (alone or in association with any person or entity) or otherwise assist any person or entity that engages in, or owns, invests in, operates, manages or controls any venture or enterprise that engages in, the Business. The term “Restricted Period” means the
+
+\centered A-4 
+
+^^^^^ 
+period of time from the date hereof until two (2) years after the termination for any reason of Executive’s employment relationship with the Company and/or any Affiliate or any successor thereto (including any termination based on non-renewal of any employment agreement or arrangement). The Restricted Period shall be extended for a period equal to any time period that Executive is in violation of this Section 6. Nothing contained in this Section 6 shall be construed to prevent Executive from investing in the stock of any competing corporation listed on a national securities exchange or traded in the over-the-counter market, but only if Executive is not involved in the business of said corporation and if Executive and Executive’s associates (as such term is defined in Regulation 14(A) promulgated under the Securities Exchange Act of 1934, as in effect on the date hereof), collectively, do not own more than an aggregate of one percent ([[Percentage 3: Number]]%) of the stock of such corporation.
+
+^^Scope/Severability. The parties acknowledge that the business of the Company and its Affiliates is and will be national and international in scope and thus the covenants in this Section 6 would be ineffective if the covenants were to be limited to a particular geographic area. If any court of competent jurisdiction at any time deems the Restricted Period unreasonably lengthy, or the Restricted Territory unreasonably extensive, or any of the covenants set forth in this Section 6 not fully enforceable, the other provisions of this Section 6, and this Agreement in general, will nevertheless stand and, to the full extent consistent with law, continue in full force and effect, and it is the intention and desire of the parties that the court treat any provisions of this Agreement which are not fully enforceable as having been modified to the extent deemed necessary by the court to render them reasonable and enforceable and that the court enforce them to such extent (for example, that the Restricted Period be deemed to be the longest period permissible by law, but not in excess of the length provided for in Section 6(b), and the Restricted Territory be deemed to comprise the largest territory permissible by law under the circumstances but not in excess of the territory provided for in Section 6(b))*.*
+
+\centered A-5 
+
+^^^^^ 
+^Non-Solicitation.
+
+^^Executive will not, during the Restricted Period, directly or indirectly (whether as an owner, partner, shareholder, agent, officer, director, employee, independent contractor, consultant, or otherwise) with or through any individual or entity:
+
+^^^employ, engage or explicitly solicit for employment any individual who is, or was at any time during the twelve-month period immediately prior to the termination of Executive’s employment with the Company and/or any Affiliate for any reason, an employee of the Company or any of its Affiliates or otherwise seek to adversely influence or alter such individual’s relationship with the Company or any of its Affiliates; or 
+
+^^^solicit or encourage any individual or entity that is, or was during the twelve-month period immediately prior to the termination of Executive’s employment with the Company or any Affiliate for any reason, a customer, supplier or vendor of the Company or any Affiliate to terminate or otherwise alter his, her or its relationship with the Company or any Affiliate. 
+
+^^The Restricted Period shall be extended for a period equal to any time period that Executive is in violation of this Section 7.
+
+^Equitable Remedies.
+
+Executive acknowledges and agrees that the agreements and covenants set forth in this Agreement are reasonable and necessary for the protection of the Company’s and its Affiliates’ business interests, that irreparable injury will result to the Company and its Affiliates if Executive breaches any of the terms of said covenants, and that in the event of Executive’s actual or threatened breach of any such covenants, the Company and its Affiliates will have no adequate remedy at law. Executive accordingly agrees that, in the event of any actual or threatened breach by Executive of any of said covenants, the Company and its Affiliates will be entitled to immediate injunctive and other equitable relief, without posting bond or other security and without the necessity of showing actual monetary damages. Nothing in this Section 8 will be construed as prohibiting the Company or any Affiliate from pursuing any other remedies available to them for such breach or threatened breach, including the recovery of any damages that they are able to prove.
+
+^Breach.
+
+^^Executive’s breach of any of the Executive’s obligations under this Agreement will be deemed a material breach of any employment agreement or arrangement Executive has with the Company or any of its Affiliates and will constitute cause or due cause or the like for termination by the Company and/or its Affiliates, as appropriate.
+
+\centered A-6 
+
+^^^^^ 
+^^In the event that the Company and/or its Affiliates, as appropriate, terminates Executive without cause or due cause or the like or Executive voluntarily resigns, Executive will receive severance payments, to the extent entitled under any employment agreement or arrangement, only if Executive is not in breach of any of the provisions in this Agreement.
+
+^No Right to Employment.
+
+No provision of this Agreement shall give Executive any right to continue in the employ of the Company or any of its Affiliates, create any inference as to the length of employment of Executive, affect the right of the Company or its Affiliates to terminate the employment of Executive, with or without cause, or give Executive any right to participate in any welfare or benefit plan or other program of the Company or any of its Affiliates.
+
+^Modification and Waiver.
+
+This Agreement may not be modified or amended or terminated except by an instrument in writing signed by the parties. No term or condition of this Agreement will be deemed to have been waived, except by written instrument of the party charged with such waiver. No such written waiver will be deemed to be a continuing waiver unless specifically stated therein, and each such waiver will operate only as to the specific term or condition waived and shall not constitute a waiver of such term or condition for the future or as to any act other than that specifically waived.
+
+^Severability.
+
+Executive acknowledges that the agreements and covenants contained in this Agreement are essential to protect the Company and its Affiliates and their goodwill. Each of the covenants in this Agreement will be construed as independent of any other covenants or other provisions of this Agreement. It is the intention and desire of the parties that the court treat any provisions of this Agreement which are not fully enforceable as having been modified to the extent deemed necessary by the court to render them reasonable and enforceable and that the court enforce them to such extent.
+
+^Notices.
+
+Any notice, consent, waiver and other communications required or permitted pursuant to the provisions of this Agreement must be in writing and will be deemed to have been properly given (a) when delivered by hand; (b) when sent by telecopier (with acknowledgment of complete transmission), provided that a copy is mailed by U.S. certified mail, return receipt requested; (c) three (3) days after sent by certified mail, return receipt requested; or (d) one (1) day after deposit with a nationally recognized overnight delivery service, in each case to the appropriate addresses and telecopier numbers set forth below:
+
+\centered A-7 
+
+^^^^^ 
+If to the Company:
+
+CHATT Holdings LLC
+
+c/o Castle Harlan, Inc.
+
+[[Address 1: Address]]
+
+Attn: Justin Wender
+
+Fax: [[Phone 1]] 
+
+and  
+[[Company]]
+
+[[Address 2: Address]]
+
+Attn: President and Chief Executive Officer
+
+Fax: [[Phone 2]] 
+
+With a copy to:
+
+Schulte Roth & Zabel LLP
+
+[[Address 3: Address]]
+
+Attn.: Robert Goldstein, Esq.
+
+Fax: [[Phone 3]] 
+
+If to Executive:
+
+Each party will be entitled to specify a different address for the receipt of subsequent notices by giving written notice thereof to the other party in accordance with this Section 13.
+
+^Headings.
+
+The headings and other captions in this Agreement are included solely for convenience of reference and will not control the meaning and interpretation of any provision of this Agreement.
+
+^Governing Law.
+
+This Agreement has been executed in the State of Pennsylvania, and its validity, interpretation, performance, and enforcement will be governed by the laws of such state, except with respect to conflicts of laws principles.
+
+^Binding Effect.
+
+This Agreement will be binding, upon and inure to the benefit of Executive, the Company, and their respective successors and permitted assigns; provided, however, that Executive may not assign this Agreement or any part hereof.
+
+\centered A-8 
+
+^^^^^ 
+^Survival.
+
+The provisions in this Agreement shall survive the termination of Executive’s employment with the Company.
+
+^Compliance.
+
+In order to monitor compliance with the terms of this Agreement, Executive agrees to give written notice, including a pertinent description, to the Company of each position of employment, ownership of more than one percent ([[Percentage 3]]%) of the stock of any corporation, participation with another entity or organization (except for religious institutions or charitable organizations not related to the Business) which Executive obtains during the Restricted Period.
+
+^No Strict Construction.
+
+The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction will be applied against any person.
+
+\centered A-9 
+
+^^^^^ 
+**IN WITNESS WHEREOF**, the Company has caused this Agreement to be executed by its duly authorized officer and Executive has signed this Agreement, as of the date written below. 
+
+\centered 
+
+**EXECUTIVE:** 
+
+**CHATT HOLDINGS LLC** 
+
+\centered A-10 
+
+^^^^^ 
+\centered **EXHIBIT B** 
+
+\centered **SEPARATION AGREEMENT AND GENERAL RELEASE** 
+
+[[Company]] (“**Company**”), and [[Executive]] (“Executive”), agree that this Separation Agreement and General Release (“**Agreement**”) sets forth their complete agreement and understanding regarding the termination of Executive’s employment with Company. 
+
+^Separation Date. Executive’s employment with Company will terminate effective  (the “**Separation Date**”). Executive agrees to return all Company property to Company no later than the Separation Date. Except as specifically provided below, Executive shall not be entitled to receive any benefits of employment following the Separation Date. 
+
+^Consideration of Company. In consideration for the releases and covenants by Executive in this Agreement, Company will provide Executive with the following: **insert consideration as set forth in Employment Agreement** 
+
+^Executive Release of Rights. Executive (defined for the purpose of this Paragraph 3 as Executive and Executive’s agents, representatives, attorneys, assigns, heirs, executors, and administrators) irrevocably, fully, and unconditionally releases the Released Parties (defined as the Company, ATT Holding Co., CHATT Holdings, Inc., CHATT Holdings LLC, Castle Harlan Partners IV, L.P., and each of their affiliated companies, parents, subsidiaries, predecessors, successors, assigns, divisions, related entities and any of their past or present employees, officers, agents, insurers, attorneys, administrators, officials, directors, shareholders, employee benefit plans, and the sponsors, fiduciaries, or administrators of the Company’s employee benefit plans) from any and all liability, claims, demands, actions, causes of action, suits, grievances, debts, sums of money, agreements, promises, damages, back and front pay, costs, expenses, attorneys’ fees, and remedies of any type, arising or that may have arisen out of or in connection with Executive’s employment with or termination of employment from the Company, from the beginning of time to the date hereof, including but not limited to claims, actions or liability under: (1) Title VII of the Civil Rights Act of 1964, 42 U.S.C. §2000 et seq., the Civil Rights Act of 1991, the Civil Rights Act of 1866, the Age Discrimination in Employment Act, the Americans with Disabilities Act of 1990, 42 U.S.C. §12101 et seq., the Fair Labor Standards Act, 29 U.S.C. §201 et seq., the Family and Medical Leave Act of 1993, 29 U.S.C. §2601 et seq., the Workers’ Adjustment and Retraining Notification Act, the Employee Retirement Income Security Act of 1974, 29 U.S.C. §1001 et seq., Pennsylvania Human Relations Act Pa., Stat. Ann. tit.43, §§ 951 et seq., all as amended; (2) any other federal, state or local statute, ordinance, or regulation regarding employment, termination of employment, or discrimination in employment, and (3) the common law relating to employment contracts, wrongful discharge, defamation, or any other matter. 
+
+^Waiver of Reinstatement. Executive waives any reinstatement or future employment with Company and agrees never to apply for employment or otherwise seek to be hired, rehired, employed, re-employed, or reinstated by Company or any of its affiliated companies or corporations. 
+
+^No Disparagement or Encouragement of Claims. Executive agrees not to make any oral or written statement that disparages or places any Released Party in a false or negative 
+
+\centered B-1 
+
+^^^^^ 
+light. Executive further agrees not to encourage or assist any person who files a lawsuit, charge, claim or complaint against the Released Parties unless Executive is required to render such assistance pursuant to a lawful subpoena or other legal obligation. The Board of Directors (and each of its individual members) and the Chief Executive Officer of the Company agree not to make (outside the Company; or within the Company, except as may be reasonably necessary to conduct the business of the Company) any oral or written statement that disparages or places Executive in a false or negative light; and these individuals further agree not to encourage or assist any person who files a lawsuit, charge, claim or complaint against Executive unless such individuals are required to render such assistance pursuant to a lawful subpoena or other legal obligation. 
+
+^Cooperation of Executive. Executive agrees to cooperate with Company in any reasonable manner as Company may request, including but not limited to furnishing information to and otherwise consulting with the Company; and assisting Company in any litigation or potential litigation or other legal matters, including but not limited to meeting with and fully answering the questions of Company or its representatives or agents, and testifying and preparing to testify at any deposition or trial. Company agrees to compensate Executive for any reasonable out of pocket expenses incurred as a result of such cooperation. 
+
+^Non-admission/Inadmissibility. This Agreement does not constitute an admission by Company that any action it took with respect to Executive was wrongful, unlawful or in violation of any local, state, or federal act, statute, or constitution, or susceptible of inflicting any damages or injury on Executive, and Company specifically denies any such wrongdoing or violation. This Agreement is entered into solely to resolve fully all matters related to or arising out of Executive’s employment with and termination from Company, and its execution, and implementation may not be used as evidence, and shall not be admissible in a subsequent proceeding of any kind, except one alleging a breach of this Agreement. 
+
+^Severability. The provisions of this Agreement shall be severable and the invalidity of any provision shall not affect the validity of the other provisions. 
+
+^Governing Law. This Agreement shall be governed by and construed in accordance with laws and judicial decisions of the State of Pennsylvania, without regard to its principles of conflicts of laws. 
+
+^Scope of Agreement. Executive understands that he remains bound to those provisions in the Executive’s Employment Agreement, signed on  ___, 2010, which survive the termination of the Executive’s employment, including but not limited to, those provisions in Paragraphs 9-11, 14, 19 and 20 of such Employment Agreement. Except as specifically set forth in such provisions, this Agreement contains the entire agreement and understanding between Executive and Company concerning the matters described herein, and supersedes all prior agreements, discussions, negotiations, understandings and proposals of the parties. The terms of this Agreement cannot be changed except in a subsequent document signed by both parties. 
+
+^Revocation Period. Executive has the right to revoke this Agreement for up to seven days after he signs it. In order to revoke this Agreement, Executive must sign and send a written notice of the decision to do so, addressed to **[name]** at **[**insert title, and address**]**, and that written notice must be received by Company no later than the eighth day after Executive 
+
+\centered B-2 
+
+^^^^^ 
+signed this Agreement. If Executive revokes this Agreement, Executive will not be entitled to any of the consideration from Company described in paragraph 2 above. 
+
+^Voluntary Execution of Agreement. Executive acknowledges that: 
+
+^^Executive has carefully read this Agreement and fully understands its meaning;
+
+^^Executive had the opportunity to take up to 21 days after receiving this Agreement to decide whether to sign it;
+
+^^Executive understands that the Company is hereby advising him, in writing, to consult with an attorney before signing it;
+
+^^Executive is signing this Agreement, knowingly, voluntarily, and without any coercion or duress; and
+
+^^everything Executive is receiving for signing this Agreement is described in the Agreement itself, and no other promises or representations have been made to cause Executive to sign it.
+
+^Nondisclosure. Executive shall not disclose the contents or substance of this Agreement to any third parties, other than the Executive’s attorneys, accountants, or as required by law and shall instruct each of the foregoing not to disclose the same. 
+
+\centered 
+
+COMPANY 
+
+[[COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{COMPANY Entity => By: [[COMPANY Signatory First Name]] [[COMPANY Signatory Last Name]]
+Title: [[COMPANY Signatory Title]]}}
+
+Executive Signature 
+
+Title: 
+
+Dated:            Dated: 
+
+\centered B-3

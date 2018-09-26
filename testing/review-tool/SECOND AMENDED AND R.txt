@@ -1,268 +1,100 @@
-\centered **SECOND AMENDED AND RESTATED EMPLOYMENT AGREEMENT**
+\centered **SECOND AMENDED AND RESTATED CERTIFICATE**
 
-This Second Amended and Restated Employment Agreement (the “Agreement”) amends and restates, effective as of this [[Date 1: Date]], that certain Amended and Restated Employment Agreement made and entered into as of the [[Date 2: Date]], as amended by that certain Amendment No. 1 entered into as of the [[Date 3: Date]], and that certain Amendment No. 2 entered into as of the [[Date 4: Date]] (collectively, the “Original Agreement”) by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (together with its successors and assigns, the “Company”), and [[Executive]] (the “Executive”).
+\centered **OF INCORPORATION**
 
-\centered W IT N E S S E T H
+\centered **OF**
 
-WHEREAS, the Company has employed the Executive as the General Counsel and a Senior Vice President of the Company since the date of the Original Agreement; and
+\centered **CHINA FOR-GEN CORP.**
 
-WHEREAS, the Company and the Executive desire to amend the Original Agreement.
+\centered Under Section 245
 
-NOW, THEREFORE, in consideration of the promises and mutual covenants contained herein and for other good and valuable consideration, the receipt of which is mutually acknowledged, the Company and the Executive (each individually a “Party”, and together the “Parties”) agree as follows:
+\centered of the
 
-^DEFINITIONS.
+\centered General Corporation Law of the State of Delaware
 
-^^“Base Salary” shall mean the Executive’s base salary in accordance with SECTION 4 below.
+**CHINA FOR-GEN CORP****.** (the "Corporation'') does hereby certify as follows:
 
-^^“Board” shall mean the Board of Directors of the Company.
+**First****:** The name of the Corporation is China For-Gen Corp. which is the name by which it was originally incorporated.
 
-^^“Cause” shall mean (i) the Executive is convicted of a crime involving moral turpitude, or (ii) the Executive commits a material breach of any provision of this Agreement, or (iii) the Executive, in carrying out his duties, acts or fails to act in a manner which is determined, in the sole discretion of the Board, to be (A) willful gross neglect or (B) willful gross misconduct resulting, in either case, in material harm to the Company unless such act, or failure to act, was believed by the Executive, in good faith, to be in the best interests of the Company.
+**Second****:** The Certificate of Incorporation of the Corporation was filed with the Secretary of the State of Delaware, on the [[Date 1: Date]] and an Amended and Restated Certificate of Incorporation of the Corporation was filed with the Secretary of the State of Delaware on [[Date 2: Date]].
 
-^^“Change of Control” shall be deemed to have occurred if:
+**Third:** This Second Amended and Restated Certificate of Incorporation was duly adopted in accordance with Section 245 of the General Corporation Law of Delaware and restates and amends the provisions of the Corporations Certificate of Incorporation.
 
-^^^any “person” or “group” as such terms are used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934 (the “Act”), becomes a beneficial owner, as such term is used in Rule 13d-3 promulgated under the Act, of securities of the Company representing more than [[Percentage 1: Number]]% of the combined voting power of the outstanding securities of the Company, having the right to vote in the election of directors (any such owner being herein referred to as an “Acquiring Person”);
+**Fourth:** The text of the Second Amended and Restated Certificate of Incorporation of the Corporation is hereby restated and amended to read in full as follows:
 
-^^^a majority of the Company’s Board at any time during the Term of this Agreement consists of individuals other than individuals nominated or approved by a majority of the Disinterested Directors; or
+**FIRST:** The name of the Corporation is **China For-Gen Corp.**
 
-^^^all or substantially all the business or assets of the Company are sold or disposed of, or the Company or a Subsidiary of the Company combines with another company pursuant to a merger, consolidation, or other similar transaction, other than (1) a transaction solely for the purpose of reincorporating the company in a different jurisdiction or recapitalizing or reclassifying the Company’s stock, or (2) a merger or consolidation in which the shareholders of the Company immediately prior to such merger or consolidation continue to 
+**SECOND:** The address of the registered agent and registered office of this Corporation in this state is 1811 Silverside Road, in the City of Wilmington, County of New Castle, State of Delaware 19810; and the name of the registered agent at said address is Vcorp Services.
 
-own at least a majority of the outstanding voting securities of the Company or the surviving entity immediately after the merger or consolidation.
+**THIRD:** The purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
 
-^^“Common Stock” shall mean the common stock of the Company.
+**FOURTH:** (a) The total number of shares of all classes of capital stock which the Corporation shall have authority to issue is FIFTY-TWO MILLION SHARES (52,000,000), of which (i) TWO MILLION (2,000,000) shares shall be shares of preferred stock of the par value of $.001 per share (hereinafter called "Preferred Stock”), of which FIVE HUNDRED THOUSAND (500,000) shares of preferred stock shall be designated as Series A Convertible Preferred Stock and shall have the rights attached hereto as **Exhibit A**; and (ii) FIFTY MILLION (50,000,000) shares shall be shares of common stock of the par value of $.001 per share (hereinafter called "Common Stock”). Any amendment to this Second Amended and Restated Certificate of Incorporation which shall increase or decrease the authorized capital stock of the Corporation may be adopted by the affirmative vote of the holders of capital stock representing not less than a majority of the voting power represented by the outstanding shares of capital stock of the Corporation entitled to vote. Except as otherwise required by law or as otherwise provided in any preferred stock designation, the holders of the Common Stock shall exclusively posses all voting power, and each share of Common Stock shall have one vote.
 
-^^“Competitive Activity” shall mean engagement directly or indirectly, individually or through any corporation, partnership, joint venture, trust, limited liability company or person, as an officer, director, employee, agent, consultant, partner, proprietor, shareholder or otherwise, in any business associated with the biopharmaceutical or pharmaceutical industry(other than a business which is an independent general practice law firm which is so “associated” only by reason of the business of one or more of its clients), which, in the sole discretion of the Company, is determined to compete with the business and/or interests or future interests of the Company, or any of its affiliates, at any place in which it, or any such affiliate, is then conducting its business, or at any place where products manufactured or sold by it, or any such affiliate, are offered for sale, or any place in the United States or any possessions or protectorates thereof, provided, however, that ownership of five percent ([[Percentage 2: Number]]%) or less of the outstanding voting securities or equity interests of any company shall not in itself be deemed to be competition with the Company.
+^^The designations and the power, preferences and rights, and the qualifications, limitations or restrictions thereof of the Preferred Stock (other than the Series A Convertible Preferred Stock) shall be as follows:
 
-^^“Disability” or “Disabled” shall mean a disability as determined under the Company’s long-term disability plan or program in effect at the time the disability first occurs, or if no such plan or program exists at the time of disability, then a “disability” as defined under Internal Revenue Code Section 22(e)(3). Notwithstanding the foregoing, to the extent that any payments under this Agreement that are payable upon disability constitute nonqualified deferred compensation subject to Section 409A of the Code, “DISABILTY” or “DISABLED” shall mean, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than [[Shares 1: Number]] months, the Executive is either (a) unable to engage in any substantial gainful activity or (b) receiving income replacement benefits for a period of not less than three months under any disability plan covering employees of the Company. For purposes of the immediately foregoing sentence, the existence of a disability will be determined in all respects in accordance with the provisions of Section 409A(a)(2)(C) of the Code.
+The Board of Directors is expressly authorized at any time, and from time to time, to provide for the issuance of shares of Preferred Stock in one or more series, voting powers and with such designations, preferences and relative, participating, optional or other special rights and qualifications, limitations or restrictions thereof, as shall be stated and expressed in the resolution or resolutions providing for the issue thereof adopted by the Board of Directors, and as are not stated and expressed in this Second Amended and Restated Certificate of Incorporation, or any amendment thereto, including (but without limiting the generality of the foregoing) the following:
 
-^^“Disinterested Director” shall mean any member of the Company’s Board (i) who is not an officer or employee of the Company or any of their subsidiaries, (ii) who is not an Acquiring Person or an affiliate or associate of an Acquiring Person or of any such affiliate or associate and (iii) who was a member of the Company’s Board prior to the date of this Agreement or was recommended for election or elected by a majority of the Disinterested Directors on the Company’s Board at the time of such recommendation or election.
+^^the designation of such series;  
+^^the dividend rate of such series, the conditions and dates upon which such dividends shall be payable, the preference or relation which such dividends shall bear to the dividends payable on any other class or classes or on any other series of any class or classes of capital stock and whether such dividends shall be cumulative or non- cumulative;
 
-^^“Effective Date” shall mean the first date written above.
+^^whether the shares of such series shall be subject to redemption by the Corporation, and, if made subject to such redemption, the times, prices and other terms and conditions of such redemption;
 
-^^“Good Reason” shall mean that, without the Executive’s consent, one or more of the following events occurs during the Term of this Agreement:
+^^the terms and amount of any sinking fund provided for the purchase or redemption of the shares of such series;
 
-^^^The Executive is assigned to any material duties or responsibilities that are inconsistent, in any significant respect, with the scope of duties and responsibilities customarily associated with the Executive’s position and office as described in SECTION 3, provided that such reassignment of duties or responsibilities is not for Cause, or due to Executive’s Disability, and is not at the Executive’s request;
+^^whether or not the shares of such series be convertible into or exchangeable for shares of any other class or classes or of any other series of any class or classes of capital stock of the Corporation, and if provision be made for conversion or exchange, the times, prices, rates, adjustments and other terms and conditions of such conversion or exchange;
 
-^^^The Executive suffers a reduction in the authorities, duties, and responsibilities customarily associated with his position and office as described in SECTION 3 on the basis of which Executive makes a determination in good faith that Executive can no longer carry out such position or office in the manner contemplated at the time this Agreement was entered into, 
+^^the extent, if any, to which the holders of the shares of such series shall be entitled to vote as a class or otherwise with respect to the election of the directors or otherwise;
 
-provided that such reduction in the authorities, duties or responsibilities is not for Cause, or due to Executive’s Disability, and is not at the Executive’s request;
+^^the restrictions, if any, on the issue or reissue of any additional Preferred Stock; and
 
-^^^The Executive’s Base Salary is decreased;
+^^The rights of the holders of the shares of such series upon the dissolution of, or upon the distribution of assets of, the Corporation.
 
-^^^The principal executive office of the Company, or the Executive’s own office location as assigned to him by the Company at the Effective Date is relocated to a place thirty-five (35) or more miles away, without the Executive’s agreement; or
+**FIFTH:** The by-laws may be made altered amended or repealed by the Board of Directors. The books of the Corporation (subject to the provisions of the laws of the State of Delaware) may he kept outside of the State of Delaware at such places as from time to time may be designated by the Board of Directors.
 
-^^^Failure of the Company’s successor, in the event of a Change of Control, to assume all obligations and liabilities of this Agreement; or
+**SIXTH:** (a) No director of the Corporation shall be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director to the fullest extent that the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended permits the limitation or elimination of the liability of directors.
 
-^^^The Company shall materially breach any of the terms of this Agreement;
+^^The Corporation shall have the power to indemnify any director, officer, employee or agent of the Corporation or any other person who is serving at the request of the Corporation in any such capacity with another corporation, partnership, joint venture, trust or other enterprise (including, without limitation, any employee benefit plan) to the fullest extent permitted by the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended, and any such indemnification may continue as to any person who has ceased to be director, officer, employee or agent and may inure to the benefit of the heirs, executors and administrators of such a person.
 
-provided that Good Reason shall not exist unless and until within 30 days after the event giving rise to Good Reason under any of (i) through (vi) above has occurred, the Executive delivers a written termination notice to the Company stating that an event giving rise to Good Reason has occurred and identifying with reasonable detail the event that the Executive asserts constitutes Good Reason under any of (i) through (vi) above and the Company fails or refuses to cure or eliminate the event giving rise to Good Reason on or within 30 days after receiving such notice. To avoid doubt, the termination of the Executive’s employment would become effective at the close of business on the thirtieth day after the Company receives the Executive’s termination notice, unless the Company cures or eliminates the event giving rise to Good Reason prior to such time.
+^^By action of its Board of Directors. notwithstanding any interest of the directors in the action, the Corporation may purchase and maintain insurance in such amounts as the Board of Directors deems appropriate, to protect any director, officer, employee or agent of the Corporation or any other person who is serving at the request of the Corporation in any such capacity with another corporation, partnership, joint venture, trust or other enterprise (including, without limitation any employee benefit plan) against any liability asserted against him or incurred by him in any such capacity or arising out of his status as such (including. without limitation, expenses, judgments, fines and amounts paid in settlement) to the fullest extent permitted by the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended, and whether or not the Corporation would have the power or would be required to indemnify any such person under the terms of any agreement or by-law or the General Corporation Law of the State of Delaware. For purposes of this paragraph (c), "fines" shall include any excise taxes assessed on a person with respect to any employee benefit plan.
 
-^^“Pro-Rata Share of Restricted Stock” for any period shall mean, for any grant of restricted stock as to which the Company’s repurchase right lapses ratably over a specified period (e.g. in equal annual increments over four years), that number of shares as to which the Company’s repurchase right with respect to those shares would have lapsed if the Executive’s employment by the Company had continued for such period. For any other shares of restricted stock, “Pro-Rata Share of Restricted Stock” shall mean, as to any shares of restricted stock which were granted on the same date and as to which the Company’s repurchase right lapses on the same date, that portion of such shares calculated by multiplying the number of shares by a fraction, the numerator of which is the number of days that have passed since the date of grant, plus the number of days in the period in question, and the denominator of which is the total number of days from the date of the grant until the date (without regard to any provisions for earlier vesting upon achievement of a specified goal) on which the Company’s repurchase right would lapse under the terms of the grant.
+**SEVENTH**: Whenever the vote of holders of shares of any class or series at a meeting thereof is required or permitted to be taken for or in connection with any corporate action by any provision of the General Corporation Law of the State of Delaware, the meeting and vote of such stockholders may be dispensed with if such action is taken with the written consent of such holders representing not less than a majority of the voting power of all the capital stock of such class or series entitled to be voted upon such action if a meeting were held; provided that in no case shall the written consent be by such holders having less than the minimum percentage of the vote required by statute for such action and provided that prompt notice is given in writing to all such stockholders entitled to vote thereon of the taking of corporate action without a meeting and by less than unanimous written consent.
 
-^^“Severance Pay” shall mean an amount equal to the sum of the Base Salary in effect on the date of termination of Executive’s employment, plus the amount of the Target Bonus for the Executive for the year in which the Executive’s employment is terminated, divided by twelve (12) (each of the 12 shares to constitute a “month’s” Severance Pay); PROVIDED, HOWEVER, that in the event Executive terminates his employment for Good Reason based on a reduction in Base Salary, then the Base Salary to be used in calculating Severance Pay shall be the Base Salary in effect immediately prior to such reduction in Base Salary.
+**EIGHTH**: The number of directors of the Corporation shall be such as from time to time shall be fixed by or in the manner provided in the by-laws. Election of directors need not be by ballot unless the by-laws so provide.
 
-^^“Subsidiary” shall mean a corporation of which the Company owns [[Percentage 1]]% or more of the combined voting power of the outstanding securities having the right to vote in an election of directors, or any other business entity in which the Company directly or indirectly has an ownership interest of [[Percentage 1]]% or more.
+**NINTH:** The Board of Directors shall have power without the assent or vote of the stockholders:
 
-^^“Target Bonus” shall mean a bonus for which the Executive is eligible on an annual basis, at a level consistent with his title and responsibilities, under the Company’s bonus program then in effect and 
+^^to fix and vary the amount of capital to be reserved for any proper purpose;
 
-applicable to the Company’s senior executives generally, in such amount as may be determined in the sole discretion of the Board.
+^^to authorize and cause to be executed mortgages and liens upon all or any part of the property of the Corporation;
 
-^TERM OF EMPLOYMENT.
+^^to determine the use and disposition of any surplus or net profits;
 
-The Company hereby employs the Executive, and the Executive hereby accepts such employment, for the period commencing on the Effective Date and ending on the fourth anniversary of the Effective Date, subject to earlier termination in accordance with the terms of this Agreement. Thereafter, the Term of Employment shall automatically renew on each anniversary of the Effective Date for additional one-year period(s), UNLESS (i) the Company notifies the Executive in writing in accordance with SECTION 23 below, at least 90 days prior to the expiration of the then-current Term that it does not want the Term of Employment to so renew, or (ii) the Executive has notified the Company in writing in accordance with SECTION 23 below that Executive does not want the Term of Employment to so renew. The initial four year Term of Employment hereunder is referred to herein as the “Initial Term”, and the Initial Term plus all additional one-year renewal periods (if any), are collectively referred to herein as the “Term of Employment” or the “Term of the Agreement”.
+^^to fix the times for the declaration and payment of dividends;
 
-^POSITION, DUTIES AND RESPONSIBILITIES.
+^^to determine from time to time whether, and to what times and places, and under what conditions the accounts and books of the Corporation (other that the stock ledger) or any of them, shall be open to the inspection of the stockholders:
 
-On the Effective Date and continuing for the remainder of the Term of Employment, the Executive shall be employed as the General Counsel and Senior Vice President of the Company, and shall be responsible for duties customarily associated with the position of chief legal officer of the Company. The Executive shall represent and serve the Company faithfully, conscientiously and to the best of the Executive’s ability and shall promote the interests, reputation and current and long term plans, objectives and policies of the Company. The Executive shall devote all of the Executive’s time, attention, knowledge, energy and skills, during normal working hours, and at such other times as the Executive’s duties may reasonably require, to the duties of the Executive’s employment, provided, however, nothing set forth herein shall prohibit the Executive from engaging in other activities to the extent such activities do not impair the ability of the Executive to perform his duties and obligations under this Agreement, nor are contrary to the interests, reputation, current and long term plans, objectives and policies of the Company. The Executive, in carrying out his duties under this Agreement, shall report to the President of the Company.
+^^the directors in their discretion may submit any contract or act for approval or ratification at any annual meeting of the stockholders, at any meeting of the stockholders called for the purpose of considering any such act or contract, or through a written consent in lieu of a meeting in accordance with the requirements of the General Corporation Law of Delaware as amended from time to time and any contract or act that shall be so approved or be so ratified by the vote of the holders of a majority of the stock of the Corporation which is represented in person or by proxy at such meeting (or by written consent whether received directly or through a proxy) and entitled to vote thereon (provided that a lawful quorum of stockholders be represented in person or by proxy) shall be as valid and as binding upon the Corporation and upon all the stockholders as though it had been approved, ratified or consented to by every stockholder of the Corporation, whether or not the contract or act would otherwise be open to legal attack because of any directors’ interest or for any other reason.
 
-^BASE SALARY.
+^^in addition to the powers and authorities hereinafter or by statute expressly conferred upon them, the directors are hereby empowered to exercise all such powers and do all such acts and things as may be exercised or done by the Corporation; subject, nevertheless, to the provisions of the statutes of Delaware, of this Certificate of Incorporation, and to any by-laws from time to time made by the stockholders; provided, however, that no by-law so made shall invalidate any prior act of the directors which would have been valid if such by-law had not been made.
 
-During the Term of this Agreement, the Executive shall be paid an annualized Base Salary of $[[USD Value 1: Number]] payable in accordance with the regular payroll practices of the Company. The Base Salary shall be reviewed no less frequently than annually, and any increase thereto (which shall thereafter be deemed the Executive’s Base Salary) shall be solely within the discretion of the Board.
+**TENTH:** The Corporation reserves the right to amend, alter, change or repeal any provision contained in this Second Amended and Restated Certificate of Incorporation, in the manner now or hereafter prescribed by statute, and all rights conferred upon stockholders herein are granted subject to this reservation.
 
-^TARGET BONUS/INCENTIVE COMPENSATION PROGRAM.
+**ELEVENTH:** This Second Amended and Restated Certificate of Incorporation his been duly approved by the Board of Directors of the Corporation.
 
-^^TARGET BONUS PROGRAM: The Executive shall participate in the Company’s Target Bonus program (and other incentive compensation programs) applicable to the Company’s senior executives, as any such programs are established and modified from time to time by the Board in its sole discretion, and in accordance with the terms of such program.
+**TWELFTH:** This Second Amended and Restated Certificate of Incorporation has been duly adopted in accordance with the provisions of Sections 228, 242 and 245 of the General Corporation Law of the State of Delaware by the stockholders of the Corporation. The required percentage of the outstanding shares of Common Stock approved this Second Amended and Restated Certificate of Incorporation by written consent in accordance with Section 228 or the General Corporation Law of the State of Delaware and written notice of such was given by the Corporation in accordance with said Section 228.
 
-^^SIGN-ON CASH BONUS: The Executive shall receive a sign-on cash bonus in the amount of $[[USD Value 2: Number]] payable to the Executive on the Effective Date. In the event the Executive terminates this Agreement without “Good Reason” during the period commencing on the Effective Date and ending on the first anniversary of the Effective Date, then the Executive shall repay the sign-on cash bonus to the Company within thirty (30) days of such termination.
+**THIRTEENTH**: Whenever a compromise or arrangement is proposed between this Corporation and its creditors or any class of them and/or between this Corporation and its stockholders or any class of them, any court of equitable jurisdiction within the State of [[State of Formation: State]] [[Organization: EntityType]] or of any creditor or stockholder thereof or on the application of any receiver or receivers appointed for this Corporation under Section 291 of Title 8 of the [[State of Formation: State]] [[Organization: EntityType]] under Section 279 of Title 8 of the [[State of Formation: State]] [[Organization: EntityType]], as the case may be, to be summoned in such manner as said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this Corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this Corporation as a consequence of such compromise or arrangement, said compromise or arrangement and said reorganization shall, if sanctioned by the court to which said application has been made, be binding on all the creditors or class of creditors, and/or on all the stockholders or class of stockholders, of this Corporation, as the case may be, and also on this Corporation.
 
-^^SIGN-ON STOCK OPTION GRANT: An initial stock option grant shall be awarded to the Executive pursuant to the terms of the Company’s stock option plan. The initial stock option grant shall be for [[Shares 2: Number]] shares of Company capital stock, the option for which will vest and become exercisable in equal amounts quarterly over the five (5) year period commencing on the Effective Date, and as otherwise specified herein and in the Company’s stock option plan, and shall be subject to the other terms and conditions specified in a separate grant agreement.
+IN WITNESS WHEREOF, the Corporation has caused this certificate to be signed by its authorized officer as of this [[Date 3: Date]].
 
-^LONG-TERM INCENTIVE COMPENSATION PROGRAMS.
+**CHINA FOR-GEN CORP.**
 
-During the Term of Employment, the Executive shall be eligible to participate in the Company’s long-term incentive compensation programs applicable to the Company’s senior executives, as such programs may be established and modified from time to time by the Board in its sole discretion.
+[[CHINA FOR-GEN CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{CHINA FOR-GEN CORP. Entity => By: [[CHINA FOR-GEN CORP. Signatory First Name]] [[CHINA FOR-GEN CORP. Signatory Last Name]]
+Title: [[CHINA FOR-GEN CORP. Signatory Title]]}}
 
-^EMPLOYEE BENEFIT PROGRAMS.
 
-During the Term of Employment, the Executive shall be entitled to participate in all employee welfare and pension benefit plans, programs and/or arrangements offered by the Company from time to time to its senior executives, to the same extent and on the same terms applicable to other senior executives.
+\centered **EXHIBIT A**
 
-^REIMBURSEMENT OF BUSINESS EXPENSES.
-
-During the Term of Employment, the Executive is authorized to incur reasonable business expenses in carrying out his duties and responsibilities under this Agreement, and the Company shall reimburse him for all such reasonable business expenses reasonably incurred in connection with carrying out the business of the Company, subject to documentation in accordance with the Company’s policy. Any reimbursement in one calendar year shall not affect the amount that may be reimbursed in any other calendar year, and a reimbursement (or right thereto) may not be exchanged or liquidated for another benefit or payment. Any expense reimbursements subject to Section 409A of the Code shall be made no later than the end of the calendar year following the calendar year in which such business expense is incurred by the Executive.
-
-^VACATION.
-
-During the Term of Employment, the Executive shall be entitled to paid vacation days each calendar year in accordance with the Company’s vacation policy.
-
-^TERMINATION OF EMPLOYMENT.
-
-^^TERMINATION DUE TO DEATH OR DISABILITY. In the event Executive’s employment is terminated due to Executive’s death or Disability, the Term of Employment shall end as of the date of the Executive’s death or termination of employment due to Disability, and Executive, his estate and/or beneficiaries, as the case may be, shall be entitled to the following:
-
-^^^Base Salary earned by Executive but not paid through the date of termination under this SECTION 10(a);
-
-^^^all long-term incentive compensation awards earned by Executive but not paid prior to the date of termination under this SECTION 10(a);
-
-^^^a pro rata Target Bonus award for the year in which termination under this SECTION 10(a) occurs, as determined in its sole discretion by the Board of Directors;
-
-^^^all stock options held by the Executive as of the date of the termination under this SECTION 10(a) that are not exercisable as of that date shall be deemed to have been held by the
-
-Executive for an additional 12 months, for purposes of vesting and exercise rights, and any unexercisable stock options which are deemed exercisable as a result thereof shall remain exercisable as provided in SECTION 10(a)(v) below;
-
-^^^all exercisable stock options held by the Executive as of the date of termination under this SECTION 10(a) shall remain exercisable until the earlier of (1) the end of the 1-year period following the date of termination, or (2) the date the option would otherwise expire;
-
-^^^any amounts earned, accrued or owing to the Executive but not yet paid under SECTIONS 6, 7, 8, or 9 above, and in the event of termination due to Disability, benefits due to Executive under the Company’s then-current disability program;
-
-^^^six months of Severance Pay, payable in accordance with the regular payroll practices of the Company, commencing on the first day of the month following the month in which termination under this SECTION 10(a) occurred; and
-
-^^^the Company’s lapsing repurchase right with respect to shares of restricted stock held by the Executive shall lapse with respect to the Pro-Rata Share of Restricted Stock. The “period” referenced in the first sentence of the definition of “Pro-Rata Share of Restricted Stock,” and the “period in question” referenced in the second sentence of that definition shall be 12 months.
-
-^^TERMINATION BY THE COMPANY FOR CAUSE; TERMINATION BY THE EXECUTIVE WITHOUT GOOD REASON; OR NONRENEWAL OF THE AGREEMENT BY THE EXECUTIVE. In the event the Company terminates the Executive’s employment for Cause, or if Executive terminates his employment without Good Reason, or if the Executive gives notice of nonrenewal of this Agreement, the Term of Employment shall end as of the date specified below, and the Executive shall be entitled to the following:
-
-^^^Base Salary earned by Executive but not paid through the date of termination of Executive’s employment under this SECTION 10(b);
-
-^^^any amounts earned, accrued or owing to the Executive but not yet paid under SECTIONS 6, 7, 8, or 9 above; and
-
-^^^a pro rata Target Bonus award for the year in which termination under this SECTION 10(b) occurs, as determined in its sole discretion by the Board of Directors.
-
-Termination by Company for Cause shall be effective as of the date noticed by the Company. Termination by Executive without Good Reason shall be effective upon 90 days’ prior written notice to the Company, and shall not be deemed a breach of this Agreement. In the event that the Executive gives notice of non-renewal in accordance with SECTION 2 above, the Term of Employment shall end on the last day of the then-current Term.
-
-^^TERMINATION BY THE COMPANY WITHOUT CAUSE; TERMINATION BY THE EXECUTIVE FOR GOOD REASON OR NONRENEWAL OF THE AGREEMENT BY THE COMPANY. If the Executive’s employment is terminated by the Company without Cause (other than due to death or Disability), is terminated by the Executive for Good Reason (in accordance with the notice and cure provisions set forth in the definition of “Good Reason” above), or if the Company gives notice of nonrenewal of this Agreement, the Executive shall be entitled to the following:
-
-^^^Base Salary earned by Executive but not paid through the date of termination of Executive’s employment under this SECTION 10(c);
-
-^^^all long-term incentive compensation awards earned by Executive but not paid prior to the date of termination of Executive’s employment under this SECTION 10(c);
-
-^^^Twelve months of Severance Pay, payable in accordance with the regular payroll practices of the Company, commencing on the first day of the month following the month during which the Executive’s employment is terminated under this SECTION 10(c); PROVIDED, HOWEVER, that if the Executive dies while receiving benefits under this Section, all payments shall immediately cease, but in no event shall the Executive or his estate or beneficiaries receive less than a total of six months of Severance Pay.
-
-^^^a pro rata Target Bonus award for the year in which the termination of the Executive’s employment occurs under this SECTION 10(c), as determined in its sole discretion by the Board of Directors;
-
-^^^all exercisable stock options held by the Executive as of the date of the termination of his employment under this SECTION 10(c) shall remain exercisable until the earlier of (1) the end of the one-year period following the date of the termination of his employment or (2) the date the stock option would otherwise expire;
-
-^^^all stock options held by the Executive as of the date of the termination under this SECTION 10(c) that are not exercisable as of that date shall be deemed to have been held by the Executive for an additional 18 months, for purposes of vesting and exercise rights, and any stock options which become exercisable as a result thereof shall remain exercisable as provided in SECTION 10(c)(v) above;
-
-^^^any amounts earned, accrued or owing to the Executive but not yet paid under SECTIONS 6, 7, 8, or 9 above;
-
-^^^until the earlier of (a) the expiration of the term of the Severance Pay paid under Section 10(c)(iii) above or (b) the date the Executive receives equivalent coverage and benefits under the plan of a subsequent employer, the Company shall provide the Executive with medical and dental insurance benefits substantially similar to those which the Executive was receiving immediately prior to the termination of his employment, including any employer paid portion of the premium, subject to the Executive’s election of benefits under the Consolidated Omnibus Budget Reconciliation Act of 1985 (“COBRA”) in accordance with the applicable plan procedures. During such time that the Executive is receiving such continued medical and dental benefits from the Company, the Company shall also provide Executive with life insurance benefits substantially similar to those which the Executive was receiving immediately prior to the termination of his employment;
-
-^^^the Company’s lapsing repurchase right with respect to shares of restricted stock held by the Executive shall lapse with respect to the Pro-Rata Share of Restricted Stock . The “period” referenced in the first sentence of the definition of “Pro-Rata Share of Restricted Stock,” and the “period in question” referenced in the second sentence of that definition shall be 18 months; and
-
-^^if the termination of employment to which this Section 10(c) applies occurs within 90 days prior to a Change of Control or within 12 months after a Change of Control:
-
-^^all stock options that are not exercisable upon the application of the provisions of Section 10(c)(vi) shall immediately become exercisable in full and the options to which this provision applies shall remain exercisable until the earlier of (1) the end of the 90-day period immediately following the later of the date of employment 
-
-termination or the date of the Change of Control and (2) the date the stock option(s) would otherwise expire; and
-
-^^the Company’s lapsing repurchase right with respect to shares of restricted stock held by the Executive shall lapse in full (subject to the Executive making satisfactory arrangements with the Company providing for payment to the Company of all required withholding taxes).
-
-Notwithstanding anything to the contrary in this Section 10, the terms of any Option Agreement or Restricted Stock Agreement shall govern the acceleration, if any, of vesting or lapsing of the Company’s repurchase rights, as applicable, except to the extent that the terms of this Employment Agreement are more favorable to the Executive.
-
-If the Company gives notice of nonrenewal in accordance with Section 2 above, the Term of Employment shall end on the last day of the then current term.
-
-^MITIGATION.
-
-In the event of any termination of this Agreement, Company is hereby authorized to offset against any Severance Pay due the Executive during the period for which Severance Pay is due under SECTION 10 any remuneration earned by the Executive during that period and attributable to any subsequent employment or engagement that the Executive may obtain. Executive shall provide Company written notice of subsequent employment or engagement no later than five (5) business days after commencement by Executive of such employment or engagement.
-
-^CONFIDENTIALITY; ASSIGNMENT OF RIGHTS.
-
-^^During the Term of Employment and thereafter, the Executive shall not disclose to anyone or make use of any trade secret or proprietary or confidential information of the Company, including such trade secret or proprietary or confidential information of any customer of the company or other entity that has provided such information to the Company, which Executive acquires during the Term of Employment, including but not limited to records kept in the ordinary course of business, except (i) as such disclosure or use may be required or appropriate in connection with his work as an employee of the Company, (ii) when required to do so by a court of law, by any governmental agency having supervisory authority over the business of the Company or by any administrative or legislative body (including a committee thereof) with apparent jurisdiction to order him to divulge, disclose or make accessible such information, or (iii) as to such confidential information that becomes generally known to the public or trade without violation of this SECTION 12(a).
-
-^^The Executive hereby sells, assigns and transfers to the Company all of his right, title and interest in and to all inventions, discoveries, improvements and copyrightable subject matter (the “rights”) which during the Term of Employment are made or conceived by him, alone or with others, and which are within or arise out of any general field of the Company’s business or arise out of any work Executive performs or information Executive receives regarding the business of the Company while employed by the Company. The Executive shall fully disclose to the Company as promptly as available all information known or possessed by him concerning the rights referred to in the preceding sentence, and upon request by the Company and without any further remuneration in any form to him by the Company, but at the expense of the Company, execute all applications for patents and for copyright registration, assignments thereof and other instruments and do all things which the Company may deem necessary to vest and maintain in it the entire right, title and interest in and to all such rights.
-
-^NONCOMPETITION; NONSOLICITATION.
-
-^^Notwithstanding any of the provisions herein to the contrary, in the event that the Executive’s employment with the Company is terminated for any reason other than due to Executive’s death or termination by Executive for Good Reason, the Executive shall not engage in Competitive Activity for a period not to exceed the lesser of 12 months from the date of termination under such applicable provision listed above or the maximum length of time allowed under then current Massachusetts State law. The Company may, at its election, waive its rights of enforcement under this SECTION 13(a).
-
-^^The Parties acknowledge that in the event of a breach or threatened breach of SECTIONS 12 or 13(a), the Company shall not have an adequate remedy at law. Accordingly, in the event of any breach or threatened breach of SECTIONS 12 OR 13(a), the Company shall be entitled to such equitable and injunctive relief as may be available to restrain the Executive and any business, firm, partnership, individual, corporation or entity participating in the breach or threatened breach from the violation of the provisions of SECTIONS 12 or 13(a) above. Nothing in this Agreement shall be construed as prohibiting the Company from pursuing any other remedies available at law or in equity for breach or threatened breach of SECTIONS 12 or 13(a) including the recovery of damages.
-
-^ASSIGNABILITY; BINDING NATURE.
-
-This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors, heirs (in the case of the Executive) and assigns. No rights or obligations of the Company under this Agreement may be assigned or transferred by the Company except that such rights or obligations may be assigned or transferred pursuant to a merger or consolidation in which the Company is not the continuing entity, or the sale or liquidation of all or substantially all of the assets of the Company; PROVIDED, HOWEVER, that the assignee or transferee is the successor to all or substantially all of the assets of the Company and such assignee or transferee assumes the liabilities, obligations and duties of the Company, as contained in this Agreement, either contractually or as a matter of law.
-
-^REPRESENTATIONS.
-
-The Company represents and warrants that it is fully authorized and empowered to enter into this Agreement and that the performance of its obligations under this Agreement will not violate any agreement between it and any other person, firm or organization. The Executive represents and warrants that no agreement exists between him and any other person, firm or organization that would be violated by the performance of his obligations under this Agreement.
-
-^ENTIRE AGREEMENT.
-
-This Agreement contains the entire understanding and agreement between the Parties concerning the subject matter hereof and supersedes all prior agreements, understandings, discussions, negotiations and undertakings, whether written or oral, between the Parties with respect thereto.
-
-^AMENDMENT OR WAIVER.
-
-No provision in this Agreement may be amended unless such amendment is agreed to in writing and signed by the Executive and an authorized officer of the Company. No waiver by either Party of any breach by the other Party of any condition or provision contained in this Agreement to be performed by such other Party shall be deemed a waiver of a similar or dissimilar condition or provision at the same or any prior or subsequent time. Any waiver must be in writing and signed by the Executive or an authorized officer of the Company, as the case may be.
-
-^SEVERABILITY.
-
-In the event that any provision or portion of this Agreement shall be determined to be invalid or unenforceable for any reason, in whole or in part, the remaining provisions of this Agreement shall be unaffected thereby and shall remain in full force and effect to the fullest extent permitted by law.
-
-^SURVIVORSHIP.
-
-The respective rights and obligations of the Parties hereunder shall survive any termination of the Executive’s employment to the extent necessary to the intended preservation of such rights and obligations.
-
-^BENEFICIARIES/REFERENCES.
-
-The Executive shall be entitled, to the extent permitted under any applicable law, to select and change a beneficiary or beneficiaries to receive any compensation or benefit payable hereunder following the Executive’s death by giving the Company written notice thereof. In the event of the Executive’s death or a judicial determination of his incompetence, reference in this Agreement to the Executive shall be deemed, where appropriate, to refer to his beneficiary, estate or other legal representative.
-
-^GOVERNING LAW/JURISDICTION.
-
-This Agreement shall be governed by and construed and interpreted in accordance with the laws of The Commonwealth of Massachusetts without reference to principles of conflict of laws.
-
-^RESOLUTION OF DISPUTES.
-
-Any disputes arising under or in connection with this Agreement may, at the election of the Executive or the Company, be resolved by binding arbitration, to be held in Massachusetts in accordance with the Rules and Procedures of the American Arbitration Association. If arbitration is elected, the Executive and the Company shall mutually select the arbitrator. If the Executive and the Company cannot agree on the selection of an arbitrator, each Party shall select an arbitrator and the two arbitrators shall select a third arbitrator, and the three arbitrators shall form an arbitration panel which shall resolve the dispute by majority vote. Judgment upon the award rendered by the arbitrator or arbitrators may be entered in any court having jurisdiction thereof. Costs of the arbitrator or arbitrators and other similar costs in connection with an arbitration shall be shared equally by the Parties; all other costs, such as attorneys’ fees incurred by each Party, shall be borne by the Party incurring such costs.
-
-^NOTICES.
-
-All notices that are required or permitted hereunder shall be in writing and sufficient if delivered personally, sent by facsimile (and promptly confirmed by personal delivery, registered or certified mail or overnight courier), sent by nationally-recognized overnight courier or sent by registered or certified mail, postage prepaid, addressed as follows:
-
-If to the Company:   [[Company]]
-[[Address 1: Address]]-4242
-Attn: Chairman of the Board
-with a copy to:
-Vice President of HR
-
-If to the Executive:   [[Executive]]
-
-[[Address 2: Address]]
-
-Any such notice shall be deemed to have been given: (a) when delivered if personally delivered or sent by facsimile on a business day: (b) on the business day after dispatch if sent by nationally-recognized overnight courier; and/or (c) on the fifth business day following the date of mailing if sent by mail.
-
-^HEADINGS.
-
-The headings of the sections contained in this Agreement are for convenience only and shall not be deemed to control or affect the meaning or construction of any provision of this Agreement.
-
-^COUNTERPARTS.
-
-This Agreement may be executed in two or more counterparts.
-
-^CERTAIN ADDITIONAL PAYMENTS BY THE COMPANY.
-
-If any payment or benefit received by Executive pursuant to this Agreement, but determined without regard to any additional payments required under this Agreement, would be subject to the excise tax imposed by Section 4999 of the Internal Revenue Code of 1986, as amended (the “Code”), or any interest or penalties are incurred by the Executive with respect to such excise tax, the Company will pay to Executive an additional amount in cash (the “Additional Amount”) equal to the amount necessary to cause the aggregate payments and benefits received by Executive, including such Additional Amount (net of all federal, state, and local income and payroll taxes and all taxes payable as a result of the application of Sections 280G and 4999 of the Code and including any interest and penalties with respect to such taxes) to be equal to the aggregate payments and benefits Executive would have received, excluding such Additional Amount (net of all federal, state and local income and payroll taxes) as if Sections 280G and 4999 of the Code (and any successor provisions thereto) had not been enacted into law. The Company will pay to Executive the Additional Amount within 10 days after the Executive delivers to the Company a calculation of the Additional Amount, together with such supporting documentation as the Company may reasonably require, provided that the Company does not object to such calculation.
-
-If the Company and the Executive do not agree on the calculation of the amount of any such Additional Amount, Executive may submit to the Company a written opinion (the “Opinion”) of a nationally recognized accounting firm, employment consulting firm, or law firm selected by Executive setting forth a statement and a calculation of the Additional Amount. The determination of such firm concerning the extent of the Additional Amount (which determination need not be free from doubt), shall be final and binding on both Executive and the Company. The Company will pay to Executive the Additional Amount not later than ten (10) business days after such firm has rendered the Opinion. The Company agrees to pay the reasonable fees and expenses of such firm in preparing and rendering the Opinion.
-
-If, following the payment to Executive of the Additional Amount, Executive’s liability for the excise tax imposed by Section 4999 of the Code on the payments and benefits received by Executive is finally determined (at such time as the Internal Revenue Service is unable to make any further adjustment to the amount of such liability) to be less than the amount thereof set forth in the Opinion, the Executive shall promptly file for a refund with respect thereof, and the Executive shall promptly pay to the Company the amount of such refund when received (together with any interest paid or credited thereon after taxes applicable thereto). If, following the payment to Executive of the Additional Amount, Executive’s liability for the excise tax imposed by Section 4999 of the Code on the payments and benefits received by Executive is finally determined (at such time as the Internal Revenue Service is unable to 
-
-make any further adjustment to the amount of such liability) to be more than the amount thereof set forth in the Opinion and the Executive thereafter is required to make a further payment of any such excise tax, the Company shall promptly pay to or for the benefit of the Executive an additional Additional Amount in respect of such underpayment. Notwithstanding the foregoing, no payments under this Section 26 from the Company to Executive shall be made after the end of the calendar year immediately following the calendar year in which the Executive remits the related taxes to the applicable taxing authority.
-
-^409A.
-
-Any severance payment to the Executive under this Agreement shall be bifurcated into two portions, consisting of a portion that does not constitute “nonqualified deferred compensation” within the meaning of Section 409A of the Code and a portion, if any, that does constitute nonqualified deferred compensation. If the Executive is a “specified employee” as defined in Section 409A(a)(2)(B)(i) of the Code, the commencement of the delivery of any such payments that constitute nonqualified deferred compensation payable upon a “separation from service” under Section 409A(a)(2)(A)(i) of the Code will be delayed until the later of (i) the first business day that is more than six months after the employment termination date and (ii) the date such payments would otherwise be payable hereunder. The determination of whether, and the extent to which, any of the payments to be made to the Executive hereunder are nonqualified deferred compensation shall be made after the application of all applicable exclusions, including those set forth under Treasury Reg. § 1.409A-1(b)(9). Any payments that are intended to qualify for the exclusion for separation pay due to involuntary separation from service set forth in Reg. §1.409A-1(b)(9)(iii) must be paid no later than the last day of the second taxable year following the taxable year in which the employment termination date occurs. To the extent that the termination of the Executive’s employment does not constitute a separation of service under Section 409A(a)(2)(A)(i) of the Code (as the result of further services that are reasonably anticipated to be provided by the Executive to the Company at the time the Executive’s employment is terminated), the payment of any non-qualified deferred compensation will be further delayed until the later of (i) date the first business day that is more than six months after the date of a subsequent event constituting a separation of service under Section 409A(a)(2)(A)(i) of the Code and (ii) the date such payments would otherwise be payable hereunder. Any portion of a payment that constitutes nonqualified deferred compensation under Section 409A of the Code payable as a result of a termination of employment may only be paid upon a “separation from service” under Section 409A(a)(2)(A)(i) of the Code. For purposes of clarification, the foregoing sentence shall not cause any forfeiture of benefits on the part of the Executive, but shall only act as a delay until such time as a “separation from service” occurs.
-
-IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first written above.
-
-[[Company]]
-
-/s/Matthew W. Emmens
-Matthew W. Emmens, President, Chairman
-and Chief Executive Officer
-
-/s/[[Executive]]
-[[Executive]]
+\centered **Certificate of Designation**s of Series A Convertible Preferred Stock

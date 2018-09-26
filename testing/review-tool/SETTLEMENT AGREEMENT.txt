@@ -1,211 +1,94 @@
-\centered **SETTLEMENT AGREEMENT AND RELEASE**
+\centered **SETTLEMENT AGREEMENT AND**
 
-This Settlement Agreement and Release (“Agreement”), dated as of the [[Date 1: Date]], is entered into by and among [[Empire Resorts]] (collectively, “Empire Resorts”), [[Kien Huat]] (collectively, “Kien Huat”), [[Parties]], [[Party 5]], [[Party 6]], and Defendant [[Releasor]] (collectively, Plaintiff, Third-Party Defendants, and Defendant are sometimes referred to herein as the “Parties”).
+\centered **MUTUAL RELEASE OF ALL CLAIMS**
 
-WHEREAS, Empire Resorts has commenced an action, captioned **Empire Resorts, Inc., v. Joseph E. Bernstein**, (the “Empire Resorts Action”) in the United States District Court for the Southern District of [[Address 1: Address]](the “Court”);
+This Settlement Agreement and Mutual Release of All Claims (the “Agreement”) is entered into by and between, Metabolic Research, Inc., a Nevada corporation (“Metabolic”), Robert Bakker (“Bakker”), K. C. Quintana (“Quintana”), and T. W. Owen (“Owen”), (sometimes collectively the “Parties”).
 
-WHEREAS, [[Releasor]] has filed counterclaims against Empire Resorts and a third-party claim against Kien Huat, [[Parties]], [[Party 5]], and [[Party 6]] in the Empire Resorts Action;
+The term “Releasee,” as used herein, shall refer to Owen.
 
-WHEREAS, the Parties on behalf of themselves and their predecessors, assignors, successors, agents, related companies, subsidiaries, affiliates, divisions, officers, employees, representatives, heirs, executors, administrators and assigns, desire to settle and terminate all of their disputes with each other, including without limitation all claims that are or could be asserted in the Empire Resorts Action or in any other proceeding involving the Parties;
+The term “Releasor,” as used herein, shall refer to Metabolic, Bakker, and Quintana, collectively.
 
-WHEREAS, in entering into this Agreement, none of the Parties concedes the sufficiency or validity of any claims, cross claims, third-party claims, or defenses that were asserted or could be asserted by any of the Parties, or any other persons;
+\centered I.
 
-NOW THEREFORE, in consideration of the mutual promises, releases and covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged by the Parties, the Parties enter into this Agreement, and it is hereby agreed by and between them as follows:
+\centered **Recitals**
 
-^**Settlement Value**
+^**Settlement**. In order to facilitate furtherance of Metabolic’s business, including exploration of supplemental funding, renegotiation of debt, introduction of new products, enhanced marketing, streamlined administrative procedures, and in acknowledgement of Releasee’s contributions to the development of Metabolic, the Releasor and Releasee desire to enter into this Agreement, which, among other things, provides for the settlement and mutual release of Releasor and Releasee for every aspect of Releasee’s claims and related to the above-referenced contributions to the development of Metabolic, and any and all other matters and potential matters by and between R eleasor and Releasee, on the terms and conditions set forth herein.
 
-Within three (3) business days after receipt by Empire Resorts’ counsel of this Agreement executed by [[Releasor]], and as a condition of [[Releasor]]’s obligations under this Agreement becoming effective, Empire Resorts shall:
+\centered II.
 
-^^pay to [[Releasor]] the sum of One Million, Five Hundred Thousand Dollars ($[[USD Value 1: Number]]) by wire transfer to: [[Releasor]], Account # , Routing # , J.P. Morgan Chase Bank, N.A., [[Address 2: Address]].Y. 10028, Tel. [[Phone 1]]; and
+\centered **Agreement**
 
-^^issue to [[Releasor]] Common Stock Purchase Warrants to purchase three million two hundred fifty thousand shares (3,250,000) at $[[USD Value 3: Number]] per share, as follows: (i) two million (2,000,000) shares in the form annexed hereto as Exhibit A, with an expiration date of [[Date 2: Date]]; (ii) two hundred fifty thousand (250,000) shares in the form annexed hereto as Exhibit B, with an expiration date of [[Date 3: Date]]; and (iii) one million (1,000,000) shares in the form annexed hereto as Exhibit C, with an expiration date of [[Date 3]].
+NOW, THEREFORE, in consideration of the mutual promises and agreements herein and other good and valuable consideration, the receipt and sufficiency of which the Parties hereto acknowledge, Releasor and Releasee agree as follows:
 
-The Parties agree that the Settlement Value set forth above relates to the claims and counterclaims in the Empire Resorts Action and each Party will allocate the Settlement Value as they deem appropriate according to their own respective assessments of the values of the claims and counterclaims asserted.
+^**Release of Releasee**. Releasor hereby fully releases and forever discharges Releasee, her agents, representatives, employers, employees, attorneys, insurers, successors, and assigns, and their parent, affiliated, and subsidiary companies, corporations, and business entities, of and from (a) any and all claims, asserted or unasserted, of whatever nature relating in any way to Metabolic; (b) any and all claims against the Releasee arising out of or in any way related to any transaction between Releasor and Releasee; (c) any claim arising out of or in any way related to any agreement, whether written or oral, between Releasor and Releasee; and (d) any damages suffered by Releasor including, but not limited to, contractual or extra-contractual damages suffered at any time.
 
-Empire Resorts shall have no defense or offset, for any reason whatsoever, to the exercise of any of the options provided for in paragraph 1(b)(ii) and (iii), other than the failure of [[Releasor]] to pay the exercise price after an exercise within the applicable exercise period and as otherwise stated in the Common Stock Purchase Warrants annexed hereto as Exhibits B and C.
+^**Release of Releasor**. Releasee hereby fully releases and forever discharges Releasor, his managers, members, directors, officers, agents, representatives, employers, employees, attorneys, insurers, successors, and assigns, and their parent, affiliated, and subsidiary companies, corporations, and business entities, of and from (a) any and all claims, asserted or unasserted, of whatever nature relating in any way to Metabolic; (b) any and all claims against the Releasor arising out of or in any way related to any transaction between Releasor and Releasee; (c) any claim arising out of or in any way related to any agreement, whether written or oral, between Releasor and Releasee; and (d) any damages suffered by Releasee including, but not limited to, contractual or extra-contractual damages suffered at any time.
 
-^**Reaffirmation of Prior Options**
+^^**Settlement Consideration**. The releases stated above in sections 2.01 and 2.02 are made and given for and in consideration of each and all of the following:
 
-Nothing in this Agreement shall be deemed to affect the options previously issued to [[Releasor]] to purchase [[Shares 1: Number]] shares of Empire Resorts’ common stock, and the parties hereby reaffirm that such options remain vested, in full force and effect, and unaltered by this Agreement, as follows: Options to purchase five hundred thousand (500,000) shares granted on [[Date 4: Date]], pursuant to an Employment Agreement dated as of [[Date 5: Date]], at an exercise price of $[[USD Value 4: Number]], expiring [[Date 6: Date]]; and, options to acquire, pursuant to a stock option agreement dated as of [[Date 7: Date]], two hundred fifty thousand shares (250,000) shares at an exercise price of $[[USD Value 5: Number]], expiring on [[Date 8: Date]]. Empire Resorts shall have no defense or offset, for any reason whatsoever, to the exercise of any of the foregoing options, other than the failure of [[Releasor]] to pay the exercise price after an exercise within the applicable exercise period.
+^^transfer by Metabolic to Owen of securities with a current tradable value of $[[USD Value 1: Number]] against and any and all past, current, and future royalty claims pursuant to and in full settlement and release of that certain License Agreement dated [[Date 1: Date]] by and amongst David Summers, Owen and Partners In Science Holdings, Inc. (the “Royalty Agreement”, a copy of which is attached hereto as Exhibit A);
 
-^**Dismissal of the Empire Resorts Action**
+^^payment by Metabolic to Owen of $[[USD Value 2: Number]] in full consideration of any and all personal funds loaned to Metabolic and in full consideration of personal Metabolic shares Owen transferred to lenders as consideration for loans made to Metabolic. Said $[[USD Value 2]] to be paid in three $[[USD Value 3: Number]] payments at fifteen (15) day intervals, the first payment herewith received;
 
-The Parties will file with the Court the Stipulation and Order, attached as Exhibit D hereto and executed by counsel for all Parties, dismissing the Empire Resorts Action, including all claims, counterclaims, and third-party claims, with prejudice and without costs or attorneys fees.
+^^resignation by Owen as an officer and director of Metabolic effective [[Date 2: Date]];
 
-^**Release of Empire Resorts, Kien Huat, [[Parties]], [[Party 5]] and [[Party 6]]
+^^resignation by Owen and mutual termination of the Employment Agreement and between Owen and Metabolic research, Inc. effective immediately upon execution of this Agreement; and;
 
-^^[[Releasor]] for himself and for his heirs, executors, affiliates, and assigns, whether as an employee, stockholder or otherwise (hereinafter collectively referred to in this paragraph as the “Releasor”), hereby releases, discharges and acquits forever Empire Resorts and Kien Huat, the direct or indirect beneficial owners of Kien Huat, and each of their respective present and former officers, directors, employees, agents, employee benefit and/or pension plans or funds, trustees, administrators, attorneys, successors, agents, and each of their affiliates and assigns, and [[Parties]], [[Party 5]], and [[Party 6]] and each of their attorneys, successors, agents, and assigns (here inafter collectively referred to in this paragraph as the “Releasees”) from any and all claims, demands, rights, causes of action, liabilities, and damages whatsoever (“Claims”), whether such Claims are known or unknown, suspected or unsuspected, fixed or contingent, that the Releasor ever had, or now has, from the beginning of the world to the date of execution of this Agreement against the Releasees, including without limitation any Claims based in any way upon, related in any way to, or arising in any way from, out of or in connection with any agreement (including without limitation the Employment Agreement by and between Empire Resorts and [[Releasor]], dated as of [[Date 5]] (the “Employment Agreement”), the Option Agreement dated as of [[Date 7]] between Empire Resorts and [[Releasor]] (the “Option Agreement”) and the Investment Agreement, dated as of [[Date 9: Date]] between Empire Resorts and Kien Huat), understanding, arrangement, transact ion, investment, or any other matter that in any way involved, concerned, related to or touched upon Empire Resorts (or its business) or any person or entity affiliated in any way with Releasees and any and all Claims that have been asserted or could have been asserted in the Empire Resorts Action, or arising from or relating to its subject matter. The releases set forth in this Agreement are not intended to and do not release Releasees from any of their obligations under this Agreement, including without limitation Empire Resorts’ obligations concerning the Common Stock Purchase Warrants and the previously issued stock options reference in paragraph 2 above, nor does this Agreement release Empire Resorts from any indemnification obligations to [[Releasor]] deriving from his services as a director or officer of Empire Resorts, other than those related to the dispute settled by this Agreement.
+^^engagement of Owen as a consultant to Metabolic until [[Date 3: Date]] to facilitate the administrative transition. Said engagement to be compensated in the form of two $[[USD Value 4: Number]] payments to on [[Date 4: Date]], and [[Date 5: Date]]. Owen shall be reimbursed for reasonable expenses on a preapproved basis;
 
-^^Without limiting the generality of the foregoing Paragraph 4(a), this Agreement is intended to and shall release the Releasees from any and all Claims arising out of [[Releasor]]’s employment with Empire Resorts and/or the expiration of [[Releasor]]’s employment, including but not limited to any Claim(s) under or arising out of (i) Title VII of the Civil Rights Act of 1964, as amended; (ii) the Americans with Disabilities Act, as amended; (iii) the Employee Retirement Income Security Act of 1974, as amended (“ERISA”) (excluding claims for accrued, vested benefits under any employee benefit plan of Empire Resorts in accordance with the terms of such plan and applicable law); (iv) the Age Discrimination in Employment Act, as amended, or the Older Workers Benefit Protection Act; (v) the WARN Act; (vi) the [[Address 4: Address]] City Human Rights Laws; (vii) the Delaware Fair Employment Practices Act; (viii) Section 806 of the Sarbanes Oxley Act of 2002; (ix) alleged discrimination or retaliation in employment (whether based on federal, state or local law, statutory or decisional); (x) the terms and conditions of [[Releasor]]’s employment with Empire Resorts, the expiration of such employment, and/or any of the events relating directly or indirectly to or surrounding that expiration, including Claims arising out of or in connection with the Employment Agreement or Option Agreement; (xi) [[Address 5: Address]] Laws; and (xii) any law (statutory or decisional) providing for attorneys’ fees, costs, disbursements and/or the like. The releases set forth in this Agreement are not intended to and do not release Empire Resorts from any of its obligations under this Agreement.
+^^Owen shall retain a certain laptop computer;
 
-^^Notwithstanding the foregoing, nothing in this Agreement shall be construed to prevent [[Releasor]] from cooperating in an investigation conducted by the [[Address 6: Address]] and Wagering Board, to the extent required or permitted by law. Nevertheless, [[Releasor]] understands and agrees that he is waiving any right to relief (including, for example, monetary damages, reimbursement of attorney’s fees or reinstatement) with respect to any such investigation.
+^**No Liability**. By entering into this Agreement, neither Releasor nor Releasee shall be deemed to admit: (a) any liability for any claim, cause of action, or demand; (b) any wrongdoing or fault; or (c) any violation of any law, precedent, rule, regulation, or statute. Further, nothing contained in this Agreement may be construed as an admission against the interest of any party.
 
-^**Release of [[Releasor]]
+^^**Acknowledgements**. Releasor and Releasee mutually understand and expressly agree and warrant:
 
-Empire Resorts, Kien Huat, [[Parties]], [[Party 5]], and [[Party 6]] (hereinafter collectively referred to in this paragraph as the “Releasors”) hereby release, discharge and acquit forever [[Releasor]], his heirs and executors (hereinafter collectively referred to in this paragraph as the “Releasee”) from any and all Claims, whether such Claims are known or unknown, suspected or unsuspected, fixed or contingent, that the Releasors ever had, or now have, from the beginning of the world to the date of execution of this Agreement against the Releasee, including from any and all Claims, whether such Claims are known or unknown, suspected or unsuspected, fixed or contingent, that the Releasors ever had, or now have, from the beginning of the world to the date of execution of this Agreement against the Releasee, including without limitation any Claims based in any way upon, related in any way to, or arising in any way from, out of, or in connection with any agreement (including without limitation the Employment and the Option Agreement), understanding, arrangement, transaction, investment, or any other matter that in any way involved, concerned, related to or touched upon Empire Resorts (or its business) or any person or entity affiliated in any way with Releasees and any and all Claims that have been asserted or could have been asserted in the Empire Resorts Action, or arising from or relating to its subject matter; provided, however, that nothing in this paragraph is intended to release [[Releasor]] from his continuing obligations under Section 4 of the Employment Agreement except as specifically set forth in paragraph 6 below.
+^^That no promise or inducement has been offered except as herein set forth.
 
-^**Release of Certain Future Obligations of [[Releasor]] and Rights of Empire Resorts under the Employment Agreement**
+^^That this settlement is made in good faith and is equitable and fair.
 
-Notwithstanding anything contrary to this Agreement, Empire Resorts hereby releases [[Releasor]] from all of his obligations under the Employment Agreement, except that
+^^That the Parties are legally competent and have the valid and existing authority to execute this Agreement and to accept full responsibility therefore.
 
-^^[[Releasor]] shall not be released from and shall continue to be obligated to comply with Section 4 of the Employment Agreement relating to confidentiality. With respect to Section 4(B) of the Employment Agreement, counsel for [[Releasor]] will continue to hold the images made by the third party vendor of [[Releasor]]’s laptop, iPhone and backup drive for a period of three (3) years, after which they may be destroyed, and, in the event the need arises (including, without limitation, in order to comply with its legal obligations in litigation or to governmental regulatory authorities), shall cooperate with counsel for Empire Resorts to determine a protocol for delivery to Empire Resorts of all materials contained therein that Empire Resorts i s entitled to have returned under Section 4(B) of the Employment Agreement and deletion of the same from Mr. Bernstein’s computer and iPhone and any other computer, phone or electronic device used by Mr. Bernstein during his employment by Empire Resorts. Nothing herein shall require Mr. Bernstein to retain any such information.
+^^That this Agreement and the releases set forth herein have been carefully read in their entirety by the Parties, who have had the benefit and advice of counsel of their choosing, and that this Agreement and the releases set forth herein are known by the Parties to be in full and final and complete compromise, settlement, release, accord and satisfaction, and discharge of all claims and actions as above stated.
 
-^^For a period of ten (10) years, [[Releasor]] may not, directly or indirectly, perform services within the Territory (as that term is defined in the Employment Agreement), for the St. Regis Mohawk Tribe, whether as an employee, consultant, agent or contractor or in any capacity, and [[Releasor]] also may not hold office as an officer or director or like positions in the St. Regis Mohawk Tribe.
+^^That in entering into this Agreement and the settlement and releases that are encompassed herein, Releasor and Releasee are acting freely and voluntarily and without influence, compulsion, or duress of any kind from any source, including, but not limited to, any other party or parties, their attorneys, representatives, or anyone acting or purporting to act on behalf of any of the Parties.
 
-^**Confidentiality of Settlement and Non-Disparagement**
+^^That Metabolic is duly organized, validly existing, and in good standing under the laws of the state of the Nevada and has the requisite corporate power and authority to perform their obligations under this Agreement.
 
-^^Promptly after execution of this Agreement, Empire Resorts will issue a press release in the form annexed hereto as Exhibit E. Subject to Paragraph 4(c) above, no party will issue or make any public statement about the Empire Resorts Action, the underlying dispute, or its settlement other than releasing Exhibit E and will respond to any inquiries solely by referring to the press release.
+^**Taxes**. Releasor agrees that Releasee shall have no responsibility whatsoever to any federal, state, or local taxing authority for the tax liability, or consequences, if any, arising from the payment of the Settlement Consideration recited herein, and that all such responsibility is exclusively that of Releasor.
 
-^^Other than as provided for in Paragraph 4(c) above, and provided that he shall not be prohibited from responding to any legal subpoena or other judicially enforceable written request from any court or governmental agency of competent jurisdiction and testifying truthfully pursuant to such subpoena or other request, [[Releasor]] will not make any statement, written or verbal, or release information, that is injurious to the reputation of Empire Resorts, Kien Huat, the direct or indirect beneficial owners of Kien Huat, [[Parties]], [[Party 5]], or [[Party 6]], and expressly agrees that he shall not, and shall instruct his agents or representatives not to, directly or indirectly, in any capacity or manner, make, express, transmit, speak, write, verbalize or otherwise communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing) to any person not a Party, any remark, comment, message, information, declaration, communication or other statement of any kind, whether oral, in writing, electronically transferred or otherwise, that might reasonably be construed to be derogatory or critical of, or negative toward Empire Resorts, Kien Huat, the direct or indirect beneficial owners of Kien Huat, [[Parties]], [[Party 5]], or [[Party 6]]
+^**Integration**. This Agreement represents the full and complete integration of the agreement between the Parties and is the complete expression thereof. All other agreements, negotiations, and representations between the Parties pertaining to the subject matter of this Agreement, and to the extent not expressly set forth herein, are void and of no force or effect whatsoever. This Agreement may not be amended or modified except in writing and signed by each of the Parties.
 
-^^[[Releasor]] further agrees not to make any public statements or encourage others to make any public statements regarding or relating to the business or business practices of Empire Resorts, Kien Huat or the direct or indirect beneficial owners of Kien Huat (including each of their present and former officers, directors, shareholders, direct or indirect beneficial owners, employees, agents, trusts, administrators or affiliates), or regarding or relating to [[Parties]], [[Party 5]], or [[Party 6]], except as required by law.
+^^**Governing Law and Forum Selection**. This Agreement shall be governed by and construed in accordance with the laws of the State of Nevada. Any suit or motion to enforce this Agreement, to prosecute any claim for breach of this Agreement shall be brought in the Eighth Judicial District Court, Clark County, Nevada.
 
-^^Each of Empire Resorts, Kien Huat, [[Parties]], [[Party 5]], and [[Party 6]] shall not make any public statement or release information, that is injurious to the reputation of [[Releasor]], and expressly agrees that they shall not, and shall instruct their respective agents or representatives, if any, not to, directly or indirectly, in any capacity or manner, publicly make, express, transmit, speak, write, verbalize or otherwise communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing) to any person not a Party, any remark, comment, message, information, declaration, communication or other statement of any kind, whether oral, in writing, electronically transferred or otherwise, that might reaso nably be construed to be derogatory or critical of, or negative toward [[Releasor]], provided that they shall not be prohibited from responding to any legal subpoena or other judicially enforceable written request from any court or governmental agency of competent jurisdiction, testifying truthfully pursuant to such subpoena or other request, and disclosing such information as is required by any securities laws or rules or regulations promulgated from time to time by the SEC or applicable state securities agencies or as otherwise required by law.
+^^**Counterparts**. This Agreement may be executed in any number of counterparts confirmed by facsimile signatures transmitted by telephone, each of which shall be deemed a duplicate original.
 
-^^Except as otherwise required by law, the Parties (including, but not limited to, their respective attorneys) agree to keep and represent that they have kept confidential: (i) any and all of the terms of this Agreement, (ii) any and all of the terms proposed during the negotiation process (whether or not accepted), and (iii) the discussions and negotiations that led to this Agreement. Notwithstanding anything in this paragraph to the contrary, no provision of this Agreement shall prohibit any party from disclosing or having disclosed the terms of this Agreement to their attorneys, to a tax accountant for purposes of seeking tax advice, or to their spouse, children, significant other, or executive assistant; and nothing shall prohibit any party from (i) filing any documents required by the Securities and Exchange Commission (the “SEC”) or applicable state securities agencies or making any other public disclosure required by the federal or state securities law or other applicable law, provided that the content of any document so filed does not violate any of the other terms and conditions of this Agreement unless such content constitutes disclosure required by any securities laws or rules or regulations promulgated from time to time by the SEC or applicable state securities agencies or other applicable law; (ii) filing any documents or disclosing any information required to be filed or disclosed pursuant to the Internal Revenue Code of 1986, as amended, the rules and regulations thereunder, any applicable state or local tax code, or the rules and regulations under such state or local code; (iii) responding to any legal subpoena or other judicially enforceable written request from any court or governmental agency of competent jurisd iction and testifying truthfully pursuant to such subpoena or other request; or (iv) enforcing any rights of such party under this Agreement. To the extent any information concerning this Agreement is publicly disclosed pursuant to (i)-(iv) of this paragraph, the obligation of confidentiality as to that information shall no longer apply. In the event any Party receives any legal subpoena or other judicially enforceable written request from any court or governmental agency of competent jurisdiction concerning any matter covered in this Agreement, the party receiving such subpoena or written request shall promptly notify all other parties hereto. A party shall not produce or disclose any material until a reasonable period of time after such notice is given to counsel for the other parties, to allow the other parties to seek relief from such subpoena or other written request. In all events in which a party can practically do so without risking contempt or similar sanc tions, such party shall provide the other parties with at least seven business days’ notice of such subpoena or written request.
+^^**Severability**. If any provision of this Agreement or the application thereof to any person, entity, or circumstance shall be invalid, illegal, or unenforceable to any extent, the remainder of this Agreement and the application thereof shall not be affected and shall be enforceable to the fullest extent permitted by law.
 
-^**Non-Interference**
+^^**Successors and Assigns**. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors, or assigns, as the case may be.
 
-^^[[Releasor]] agrees not to serve as a named plaintiff in any class action suit against Empire Resorts or Kien Huat, or against each of their present and former officers, directors, stockholders, direct or indirect beneficial owners, employees, agents, employee benefit and/or pension plans or funds, trustees, administrators, attorneys, successors, and each of their affiliates and assigns, or against Kien Huat, [[Parties]], [[Party 5]], or [[Party 6]] and each of their successors, agents, or assigns, and except as required by law, agrees not to investigate or assist in any such class action suit.
+^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
 
-^^[[Releasor]] further agrees to not to serve as legal counsel in any legal action or proceeding against Empire Resorts or Kien Huat, or against each of their present and former officers, directors, employees, agents, employee benefit and/or pension plans or funds, trustees, administrators, attorneys, successors, and each of their affiliates and assigns, where doing so would conflict with his continuing obligations under Section 4 of the Employment Agreement.
+_____________________________ 
+Tianna W. Owen 
+Dated: _______________________   
+^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
 
-^^For a period of ten (10) years from the date of this Agreement, [[Releasor]] shall not initiate, directly or indirectly, any communication of any kind with any member of the St. Regis Mohawk Tribe (the “Tribe”) or its counsel. If a member of the Tribe initiates contact with [[Releasor]], he will advise the individual that he cannot communicate with them and will promptly end the communication. It will not be a violation of this paragraph for [[Releasor]] to communicate with members of the Tribe with whom he has a personal relationship, including Barbara Lazore or Lorraine White, provided however, that any such communications shall be limited to personal, non-business matters, and [[Releasor]] expressly agrees to not have any communication with any member of the Tribe that refers or relates to Empire Resorts, Kien Huat, [[Parties]], [[Party 5]], and [[Party 6]], and any of the present or former officers, directors, shareholders, employees, agents of Empire Resorts or Kien Huat. Provided, however, that nothing in this Paragraph shall inhibit communication with any federal or state governmental official acting in that capacity who is a member of the Tribe.
+_____________________________ 
 
-^**Remedies for Breach**
 
-^^The Parties agree that any breach of any of the provisions in Paragraphs 7 and 8 of this Agreement will cause irreparable injury for which there is no adequate remedy at law, and agree that the non-breaching parties, in addition to all other remedies available to them, will be entitled to equitable relief, including but not limited to, injunctive relief to enforce these provisions of the Agreement, without the requirement to post a bond or other security.
-
-^^Without in any way limiting any of the additional remedies available against him, [[Releasor]] agrees that in the event he materially breaches any provision of this Agreement: (i) he will be obligated to immediately return to Empire Resorts $[[USD Value 2: Number]] of the Settlement Sum paid to him pursuant to paragraph 1(a) of this Agreement; and (ii) all Common Stock Purchase Warrants issued to [[Releasor]] pursuant to paragraph 1(b)(i) (Exhibit A hereto) that have not been exercised will terminate immediately. The remedies provided for in this subparagraph 9(b) are only available if Empire Resorts provides notice to [[Releasor]] as specified in Paragraph 9(c) below. Empire Resorts shall be the sole entity entitled to exercise its right to the remedy in this s ubparagraph with respect to a breach of this Agreement by [[Releasor]] and may do so with respect to a breach as against any other party. The Parties expressly agree that the remedies set forth herein are not a penalty, but rather a reasoned amount taking into consideration the anticipated minimum actual harm that may be caused by such a material breach.
-
-^^In the event of a material breach of this Agreement by [[Releasor]], and an election by Empire Resorts to assert the remedies provided for under paragraph 9(b), Empire Resorts will provide written notice to [[Releasor]] within fifteen (15) business days of learning of the material breach. The written notice provided for herein shall be deemed to have been given if sent by nationally recognized overnight courier to: Joseph E. Bernstein, [[Address 7: Address]], with a copy to Henry P. Bubel, Esq., Patterson Belknap Webb & Tyler LLP, 1133 Avenue of the Americas, [[Address 3: Address]]Y 10036-6710. Copies of said written notice shall also be sent by nationally recognized overnight courier as follows:
-
-If to Kien Huat or [[Parties]], to: 
-[[Party 3]] Limited 
-c/o Kien Huat Realty Sdn Bhd. 
-22nd Floor Wisma Genting 
-Jalan Sultan Ismail 
-50250 [[Address 9: Address]] 
-Attention: Gerard Lim  
-with a copy (which copy alone shall not constitute notice):
-
-Cleary Gottlieb Steen & Hamilton LLP 
-One Liberty Plaza 
-[[Address 10: Address]] 
-Attention: Steven L. Wilner  
-The Parties may designate alternate addresses for delivery of notices by sending notice thereof to the addresses set forth above.
-
-^^If, within 45 (forty-five) days after receiving notice from Empire Resorts pursuant to paragraph 9(c) above, [[Releasor]] initiates an action to seek a declaration from a court of competent jurisdiction that he has not materially breached this Agreement, the provisions of paragraph 9(b) above will be stayed pending resolution of litigation; provided, however, that the Common Stock Purchase Warrants issued pursuant to paragraph 1(b)(i) (Exhibit A hereto) shall remain unexercisable pending resolution of such action.
-
-^^Without in any way limiting any of the additional remedies available to [[Releasor]], the Parties agree that in the event that any of the Releasees as defined in paragraph 4(a) above materially breaches any provision of this Agreement, then paragraph 9(b) above shall become null, void, and of no effect. The remedies provided for in this subparagraph 9(e) are only available if [[Releasor]] provides notice to Empire Resorts as specified in Paragraph 9(f) below. [[Releasor]] may exercise his right to the remedy in this subparagraph with respect to a material breach of this Agreement by any of the Releasees as defined in paragraph 4(a) above. The Parties expressly agree that the remedies set forth herein are not a penalty, but rather a rea soned amount taking into consideration the anticipated minimum actual harm that may be caused by such a material breach.
-
-^^In the event of a material breach of this Agreement by any of the Releasees as defined in paragraph 4(a) above, and an election by [[Releasor]] to assert the remedies provided for under paragraph 9(e), [[Releasor]] will provide written notice to Empire Resorts within fifteen (15) business days of learning of the material breach. The written notice provided for herein shall be deemed to have been given if sent by nationally recognized overnight courier as follows:
-
-Empire Resorts, Inc. 
-P.O. Box 5013 
-[[Address 11: Address]]-5193 
-Attn: Chief Executive Officer  
-with copies to the following (which alone shall not constitute notice):
-
-Robert H.Friedman, Esq. 
-Olshan Grundman Frome Rosenzweig & Wolosky, LLP
-
-[[Address 12: Address]]    
-[[Party 3]] Limited 
-c/o Kien Huat Realty Sdn Bhd. 
-22nd Floor Wisma Genting 
-Jalan Sultan Ismail 
-50250 [[Address 9: Address]] 
-Attention: Gerard Lim  
-Cleary Gottlieb Steen & Hamilton LLP 
-One Liberty Plaza 
-[[Address 10: Address]] 
-Attention: Steven L. Wilner  
-The Parties may designate alternate addresses for delivery of notices by sending notice thereof to the addresses set forth above.
-
-^^If, within 45 (forty-five) days after receiving notice from [[Releasor]] pursuant to paragraph 9(f) above, Empire Resorts initiates an action to seek a declaration from a court of competent jurisdiction that there has been no material breach of this Agreement, the provisions of paragraph 9(e) above will be stayed pending resolution of litigation.
-
-^**Miscellaneous**
-
-^^In the event any action suit or other proceeding is instituted to remedy, prevent or obtain relief relating to this Agreement, arising out of a breach of this Agreement, involving claims within the scope of the releases contained in this Agreement, or pertaining to a declaration of rights under this Agreement, the prevailing party shall recover all of such party’s reasonable attorneys’ fees and costs incurred in each and every such action, suit or other proceeding, including any and all appeals or petitions therefrom. As used herein, reasonable attorneys’ fees shall be deemed to mean the full and actual reasonable costs of any legal services actually performed in connection with the mat ters involved, calculated on the basis of the usual fee charged by the attorneys performing such services.
-
-^^The Parties hereto represent and warrant that they have made no assignment, transfer, conveyance or other disposition of any of the Claims released herein and they are fully authorized and entitled to give their full and complete release of all such claims.
-
-^^In the event that any provision of this Agreement is declared void and unenforceable by a court of competent jurisdiction, all other provisions shall nonetheless remain in full force and effect.
-
-^^The failure of any Party to this Agreement to insist upon strict adherence to any term of this Agreement will not be considered a waiver of any right arising thereunder or deprive that Party of the right thereafter.
-
-^^This Agreement shall be in all respects governed by the laws of the State of [[Address 14: Address]] rules on conflict or choice of laws that might apply the substantive law of another jurisdiction.
-
-^^This Agreement shall be binding upon and inure to the benefit of the heirs, devisees, legatees, executors, administrators, successors, agents, assigns, officers, directors, trustees, agents, partners, employees and affiliates of each of the Parties hereto.
-
-^^The Parties to this Agreement represent and warrant to each other that they have read and understood its terms, that they have been represented by counsel with respect to this Agreement and all matters covered by and relating to it, that they have been fully advised by counsel with respect to their rights and with respect to the execution of this Agreement and that the Parties have entered into this Agreement for reasons of their own and not based upon the representations of any Party hereto except as contained in this Agreement. Each Party has participated in, or contributed to, the drafting and preparation of this Agreement, and in the construction of this Agreement, the provisions shall not be construed for, or against, any Party, but shall be construed ac cording to their plain meaning.
-
-^^The Parties understand and agree that this is a compromise settlement of disputed claims and that the furnishing of the consideration for this settlement and release of claims shall not be deemed or construed as an admission of liability. The making of this Agreement is not intended, and shall not be construed, as an admission that any of the Parties have violated any federal, state, or local law (statutory or decisional), ordinance or regulation, breached any contract, or committed any wrong whatsoever. The Parties further agree and understand that this Agreement is being entered into solely for the purpose of avoiding further expense and litigation and that this Agreement may not be used as evidence in a subsequent proceeding except in a proceedi ng to enforce the terms of this Agreement.
-
-^^This Agreement constitutes the entire agreement between the Parties and it is expressly understood and agreed that this Agreement may not be altered, amended, modified or otherwise changed in any respect or particular whatsoever except by a writing duly executed by all authorized representatives of all the Parties, and the Parties acknowledge and agree that they will make no claim at any time or place that this Agreement has been orally altered or modified in any respect whatsoever, and the Parties further acknowledge and agree that all other agreements, representations and warranties of any kind are suspended and merged into this Agreement. This Agreement is not effective until it has been fully executed and delivered by all Parties.
-
-^^This Agreement may be executed electronically and in one or more counterparts, each of which shall constitute a duplicate original.
-
-\centered Signature Page to Agreement and Release
-
-Dated:   [[Date 10: Date]]      /s/ [[Releasor]]
-[[Releasor]]
-
-Dated:   [[Date 11: Date]]      /s/ [[Parties]]
-[[Parties]]
-
-Dated:   [[Date 11]]      /s/ [[Party 5]]
-[[Party 5]]
-
-Dated:   [[Date 12: Date]]      /s/ [[Party 6]]
-[[Party 6]]
-
-EMPIRE RESORTS, INC.
-
-[[EMPIRE RESORTS INC. Signatory Email: Identity | Signature]]
+[[Party 1 Signatory Email: Identity | Signature]]
 __________________________________________
-{{EMPIRE RESORTS INC. Entity => By: [[EMPIRE RESORTS INC. Signatory First Name]] [[EMPIRE RESORTS INC. Signatory Last Name]]
-Title: [[EMPIRE RESORTS INC. Signatory Title]]}}
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
 
+Dated: _______________________   
+^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
 
-[[Party 3]], LIMITED
+_____________________________ 
+Robert Bakker 
+Dated: _______________________   
+^HAVE READ, UNDERSTAND, AND AGREE TO THE FOREGOING
 
-[[Party 3 LIMITED Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 3 LIMITED Entity => By: [[Party 3 LIMITED Signatory First Name]] [[Party 3 LIMITED Signatory Last Name]]
-Title: [[Party 3 LIMITED Signatory Title]]}}
-
-
-\centered **Exhibit D**
-
-UNITED STATES DISTRICT COURT 
-SOUTHERN DISTRICT OF [[Address 15: Address]] 
-EMPIRE RESORTS, INC., Plaintiff/Counterclaim-Defendant, v. JOSEPH E. BERNSTEIN, Defendant/Counterclaim Plaintiff..   Case No. 1:10-cv-00110-SHS
-JOSEPH E. BERNSTEIN, Third-Party Plaintiff, v. AU FOOK YEW, LIM KOK THAY, [[Party 6]], [[Party 3]], LIMITED, AND JOHN DOES NO. 1-10. Third-Party Defendants.
-
-\centered **STIPULATION AND ORDER OF DISMISSAL WITH PREJUDICE**
-
-IT IS HEREBY STIPULATED AND AGREED by and between the undersigned counsel for plaintiff Empire Resorts, Inc. (“Empire Resorts”), defendant [[Releasor]], third-party defendants [[Party 3]], Limited (“Kien Huat”), [[Parties]], [[Party 5]], and [[Party 6]] (collectively, the “Parties”) that, pursuant to Federal Rule of Civil Procedure 41(a)(1), the Parties, by their undersigned counsel, hereby stipulate to the dismissal with prejudice of the claims asserted by plaintiff Empire Resorts against defendant [[Releasor]] and to the counter claims and third-party claims asserted by [[Releasor]] against Empire Resorts, Kien Huat, [[Parties]], [[Party 5]] and [[Party 6]], without costs.
-
-Dated: [[Address 13: Address]]
-May __, 2010
-
-Lori Marks-Esterman
-**OLSHAN GRUNDMAN FROME ROSENZWEIG & WOLOSKY LLP**
-**Attorney for Empire Resorts, Inc., [[Party 6]] and [[Party 5]]
-Park Avenue Tower 65 East 55th Street [[Address 13: Address]] 10022 [[Phone 2]]
-
-Kim J. Landsman
-**PATTERSON BELKNAP WEBB & TYLER LLP**
-**Attorney for [[Releasor]]
-1133 Avenue of the Americas [[Address 8: Address]]-6710 [[Phone 3]]
-
-Howard Zelbo
-**CLEARY GOTTLIEB STEEN & HAMILTON LLP**
-**Attorney for Kien Huat & [[Parties]]
-[[Address 16: Address]]-6710 [[Phone 3]]
-
-**SO ORDERED on May , 2010,**
-
-The Honorable Sidney H. Stein United States District Judge
+_____________________________ 
+^C. Quintana 
+Dated: _______________________  

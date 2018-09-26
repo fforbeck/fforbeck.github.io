@@ -1,660 +1,184 @@
-\centered FORM OF 
+\centered **FORM OF AMENDED AND RESTATED WARRANT** 
 
-\centered AMENDED AND RESTATED 
+THE SECURITIES EVIDENCED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND MAY NOT BE SOLD, TRANSFERRED, ASSIGNED OR HYPOTHECATED UNLESS THERE IS AN EFFECTIVE REGISTRATION STATEMENT UNDER SUCH ACT COVERING SUCH SECURITIES, THE SALE IS MADE IN ACCORDANCE WITH RULE 144 UNDER THE SECURITIES ACT OR THE COMPANY RECEIVES AN OPINION OF COUNSEL TO THE HOLDER OF THESE SECURITIES REASONABLY SATISFACTORY TO THE COMPANY, STATING THAT SUCH SALE, TRANSFER, ASSIGNMENT OR HYPOTHECATION IS EXEMPT FROM THE REGISTRATION AND PROSPECTUS DELIVERY REQUIREMENTS OF SUCH ACT, AND THERE IS APPLICABLE APPROVAL OR PERMISSION FROM THE BERMUDA MONETARY AUTHORITY. 
 
-\centered STOCKHOLDERS AGREEMENT 
+IN ADDITION, THE SECURITIES EVIDENCED BY THIS CERTIFICATE ARE SUBJECT TO CERTAIN TRANSFER RESTRICTIONS IN THE COMPANY’S BYE-LAWS. A COPY OF SUCH BYE-LAWS WILL BE FURNISHED WITHOUT CHARGE BY THE COMPANY TO THE HOLDER HEREOF UPON WRITTEN REQUEST. 
 
-\centered OF 
+\centered **ALTERRA CAPITAL HOLDINGS LIMITED** 
 
-\centered [[BAH]] HOLDING CORPORATION 
+\centered **AMENDED AND RESTATED SHARE PURCHASE WARRANT** 
 
-This Amended and Restated Stockholders Agreement (this “Agreement”) is entered into as of this [] day of [], 2010, by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] f/k/a Explorer Holding Corporation (the “Company”), [[Initial Carlyle Stockholder]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Initial Carlyle Stockholder”), (c) each Individual Stockholder that as of the date hereof is a party to the Original Agreement and (d) each other Person who subsequently becomes a party to this Agreement pursuant to the terms hereof. Certain capitalized terms used herein have the meanings ascribed to them in Section 14 hereof. 
+**Certificate No.: []**      **Date: May [], 2010**
 
-\centered RECITALS: 
+**FOR VALUE RECEIVED**, ALTERRA CAPITAL HOLDINGS LIMITED, a Bermuda exempted company (the “Company”) hereby grants to [] (the “Warrant Holder”) this warrant certificate (this “Warrant”) to purchase, in accordance with the terms set forth herein, [] shares of the Company’s common shares, initially having a par value of US$[[USD Value 1: Number]] per share (the “Common Shares”), at a price per share equal to US$[] as adjusted from time to time pursuant to Section 2 hereof (the “Exercise Price”) but at no time shall the Exercise Price be less than the then current par value of any share to be issued pursuant hereto. 
 
-WHEREAS, upon the terms and conditions set forth in the Agreement and Plan of Merger, dated as of [[Date 1: Date]] (as the same may be from time to time amended, modified, supplemented or restated, the “Merger Agreement”), among [[BAH]] Inc., a [[State of Formation: State]] [[Organization: EntityType]] (“BAH”), Booz Allen Investor Corporation, a Delaware corporation f/k/a Explorer Investor Corporation (“Buyer”), Explorer Merger Sub Corporation, a Delaware corporation (“Merger Sub”), Booz & Company Inc., a Delaware corporation, as Seller Representative, and the Company, at the Effective Time (as defined in the Merger Agreement), Merger Sub merged with and into BAH, with BAH as the surviving corporation (the “Merger”); 
+This Warrant was originally issued pursuant to that certain Exchange Agreement, dated as of [[Date 1: Date]], by and between the Company and the Warrant Holder, and has been amended and restated in accordance with Section 5.14(b)(i) of that certain Agreement and Plan of Amalgamation (the “Amalgamation Agreement”), dated as of [[Date 2: Date]], by and among [[Amalgamation Sub]] (the “Amalgamation Sub”) and Harbor Point Limited, a Bermuda exempted company (“Harbor Point”), [[Amalgamation]] (the “Amalgamation”) and the amalgamated company will continue as a wholly-owned subsidiary of the Company. 
 
-WHEREAS, in connection with the Merger, the Company entered into a Stockholders Agreement, dated as of [[Date 2: Date]], with its stockholders as of that date (the “Original Agreement”); 
+This Warrant replaces that certain warrant (Certificate No. [·]) for the purchase of [·] Common Shares, issued by the Company in favor of the Warrant Holder and dated [·], which is hereby cancelled. 
 
-WHEREAS, concurrently with the effectiveness of this Agreement, the Company has registered shares of its common stock pursuant to an effective registration statement as part of an initial public offering of its common stock (the “IPO”); 
+This Warrant is subject to the following provisions: 
 
-WHEREAS, the Initial Carlyle Stockholder has entered into and may continue to enter into Proxy and Tag-Along Agreements with Individual Stockholders (collectively, the “Proxy and Tag-Along Agreements”); 
+^Warrant Terms. 
 
-WHEREAS, in accordance with Section 16(k) of the Original Agreement, the Individual Stockholders holding a majority of the Securities held by Individual Stockholders and each of the current Executive Stockholders have provided their prior written consent to this amendment and restatement of the Original Agreement, effective upon the effectiveness of the registration statement relating to the IPO; and 
+^^This Warrant is for the purchase of [·] Common Shares at the Exercise Price, as such price may be adjusted from time to time under the terms hereof. 
 
-^^^^^ 
-WHEREAS, the board of directors of the Company (the “Board”) has approved this amendment and restatement of the Original Agreement; 
+^^This Warrant shall expire at 5:00 p.m., [[Address 1: Address]], N.Y., U.S.A. time, on [·] (the “Expiration Date”). 
 
-NOW, THEREFORE, in consideration of the mutual promises, covenants, representations and warranties made herein and of the mutual benefits to be derived herefrom, the parties hereto agree as follows: 
+^Anti-dilution Provisions. In order to prevent dilution of the purchase rights granted under Section 1 hereof, the Exercise Price shall be subject to adjustment from time to time pursuant to this Section 2. 
 
-Section 1.    Board Representation.
+^^Effect on Exercise Price of Certain Events. For purposes of determining the adjusted Exercise Price, the following shall be applicable: 
 
-^^Each Executive Stockholder and Carlyle Stockholder shall vote all of the Voting Shares over which such Executive Stockholder or such Carlyle Stockholder has voting control and shall take all other necessary or desirable actions within such Executive Stockholder’s or such Carlyle Stockholder’s control (whether in such Executive Stockholder’s or such Carlyle Stockholder’s capacity as a stockholder, director, member of a Board committee or officer of the Company or otherwise, and including, without limitation, attendance at meetings in person or by proxy for purposes of obtaining a quorum, execution of written consents in lieu of meetings, and approval of amendments and/or restatements of the Company’s certificate of incorporation or by-laws) so that (i) the authorized number of directors (the “Directors”) on the Board shall be at least six and no greater than nine and (ii) the Directors shall be the persons nominated or designated in accordance with this Section 1. The smallest number of Directors as shall constitute a majority of the total number of Directors from time to time authorized to serve on the Board shall be designated for nomination for election by the Carlyle Stockholders; provided, however, that not more than three of such designees of the Carlyle Stockholders at any time may be full-time employees of the Carlyle Stockholders or any of their respective Affiliates (other than the Company and its subsidiaries), and any additional such designees of the Carlyle Stockholders at any time shall be designated for nomination for election after consultation with the Chief Executive Officer of the Company. Two of the Directors shall be designated for nomination for election by the Chief Executive Officer of the Company and shall be full-time employees of BAH; provided, however, that at any time when the Chief Executive Officer of the Company is a natural person who has not been a full-time employee of BAH for at least five years, such two Directors shall instead be designated for nomination for election by the Executive Stockholders holding a majority of the Voting Shares held by all Executive Stockholders (in either case, the individuals designated pursuant to this sentence shall be referred to as the “Executive Directors”). Any remaining Directors shall be jointly designated for nomination for election by the Chief Executive Officer and the Carlyle Stockholders; provided, however, that if (x) the Chief Executive Officer of the Company is a natural person who has not been a full-time employee of BAH for at least five years, (y) such Chief Executive Officer of the Company has not been designated as a Executive Director, and (z) the Carlyle Stockholders determine that such Chief Executive Officer of the Company should serve as a Director, such Chief Executive Officer shall be so designated for nomination for election and shall constitute one of such remaining Directors. Any Directors (other than the Chief Executive Officer of the Company) designated pursuant to the immediately preceding sentence, and any Directors designated by the Carlyle Stockholders who are not full-time employees of the Carlyle Stockholders or any of their respective Affiliates (other than the Company and its subsidiaries) and were designated after 
+^In case the Company shall at any time while this Warrant is outstanding (i) declare a dividend or make a distribution on Common Shares payable in Common Shares, (ii) subdivide or split the outstanding Common Shares, (iii) combine or reclassify the outstanding Common Shares into a smaller number of shares or (iv) issue any shares of its capital stock in a reclassification of Common Shares (including any such reclassification in connection with a consolidation, scheme of arrangement or amalgamation in which the Company is the surviving entity), the Exercise Price in effect at the time of the record date for such dividend or distribution or of the effective date of such subdivision, split, combination or reclassification shall be proportionately adjusted so that, giving effect to Section 2(a)(9), the exercise of this Warrant after such time shall entitle the holder to receive the aggregate number of Common Shares or other securities of the Company (or shares of any security into which such Common Shares have been reclassified) which, if this Warrant had been exercised immediately prior to such time, the Warrant Holder would have owned upon such exercise and been entitled to receive by virtue of such dividend, distribution, subdivision, split, combination, amalgamation, scheme of arrangement or reclassification. Such adjustment shall be made successively whenever any event listed above shall occur. 
 
-^^^^^ 
-consultation with the Chief Executive Officer of the Company are hereinafter sometimes referred to as the “Unaffiliated Directors”. 
+^In case the Company shall issue or sell any Common Shares (other than Common Shares issued (i) upon exercise of any Pre-existing Company Warrants (as defined below), (ii) upon exercise of any Harbor Point Warrants (as defined below), (iii) pursuant to the Company’s stock incentive and stock purchase plans or pursuant to any similar equity compensation arrangement, program or plan of the Company approved by the board of directors of the Company or (iv) upon exercise or conversion of any security the issue of which previously caused an adjustment under Sections 2(a)(3) or 2(a)(4) of this Warrant) without consideration or for a consideration per share less than the Current Market Price Per Common Share immediately preceding such issue or sale or immediately preceding the announcement thereof, if earlier, the Exercise Price to be in effect after such issue or sale shall be determined by multiplying the Exercise Price in effect immediately prior to such issue or sale or immediately preceding the announcement thereof, if earlier, as the case may be, by a fraction, (A) the numerator of which shall be the sum of (x) the number of Common Shares outstanding immediately prior to the time of such issue or sale multiplied by the Current Market Price Per Common Share immediately prior to such issue or sale or immediately preceding the announcement thereof, as the case may be, and (y) the aggregate consideration, if any, to be received by the Company upon such issue or sale, and (B) the denominator of which shall be the product of the number of Common Shares outstanding immediately after such issue or sale and the Current Market Price Per Common Share immediately prior to such issue or sale or immediately preceding the announcement thereof, as the case may be. In case any portion of the consideration to be received by the Company shall be in a form other than cash, the fair market value of such non-cash consideration shall be utilized in the foregoing computation. Such fair market value shall be determined by the board of directors of the Company in good faith; provided, that if the Warrant Holder shall object to any such determination, the board of directors of the Company shall retain an independent appraiser reasonably satisfactory to the Warrant Holder to determine such fair market value with the cost to be borne by the Company. The Warrant Holder shall be notified promptly of any consideration other than cash to be received by the Company and furnished with a reasonable description of the consideration and the fair market value thereof, as determined by the board of directors of the Company. For the purposes of this Section 2(a), (i) “Pre-existing Company Warrants” shall mean the warrants of the Company (other than any Harbor Point Warrant) exercisable for Common Shares outstanding on the date of consummation of the Amalgamation, and (ii) “Harbor Point Warrants]” shall mean each warrant to purchase Common Shares issued in connection with the Amalgamation Agreement in respect of warrants of Harbor Point formerly exercisable for Class A voting common shares, par value $[[USD Value 1]] per share, of Harbor Point that were outstanding at the close of business on the day immediately preceding the date of consummation of the Amalgamation. 
 
-^^The Company shall cause the individuals designated in accordance with Section 1(a) to be nominated for election to the Board, shall solicit proxies in favor thereof, and at each meeting of the stockholders of the Company at which directors of the Company are to be elected, shall recommend that the stockholders of the Company elect to the Board each such individual nominated for election at such meeting. 
+^In case the Company shall fix a record date for the issue of rights, options or warrants to the holders of its Common Shares or other securities entitling such holders to subscribe for or purchase for a period expiring within 60 days of such record date Common Shares (or securities convertible into Common Shares) at a price per Common Share (or having a conversion price per Common Share, if a security convertible into Common Shares) less than the Current Market Price Per Common Share on such record date or immediately preceding the announcement thereof, if earlier, the maximum number of Common Shares issuable upon exercise of such rights, options or warrants (or conversion of such convertible securities) shall be deemed to have been issued and outstanding as of such record date and the Exercise Price shall be adjusted pursuant to Section 2(a)(2) of this Warrant, as though such maximum number of Common Shares had been so issued for an aggregate consideration payable, if any, by the holders of such rights, options, warrants or convertible securities prior to their receipt of such Common Shares. In case any portion of such consideration shall be in a form other than cash, the fair market value of such noncash consideration shall be determined as set forth in Section 2(a)(2) of this Warrant. Such adjustment shall be made successively whenever such record date is fixed; and in the event that any such rights, options, warrants or convertible securities are not so issued or expire unexercised, or in the event of a change in the number of Common Shares to which the holders of such rights, options or warrants are entitled (other than pursuant to adjustment provisions therein comparable to those contained in this Section 2(a)), the Exercise Price shall again be adjusted to be the Exercise Price which would then be in effect if such record date had not been fixed with respect to any rights, options, warrants or convertible securities so unexercised or unconverted, in the former event, or the Exercise Price which would then be in effect if such holder had initially been entitled to such changed number of Common Shares, in the latter event. 
 
-^^Except as would be contrary to any applicable law, rule or regulation (including any rule or regulation of any exchange upon which securities of the Company or any of its subsidiaries may be listed), each committee of the Board, and each committee of the board of directors of Buyer, BAH and, unless otherwise determined by the Board, each other subsidiary of the Company, shall include at least one Executive Director; provided, however that following an IPO no Executive Director shall serve on any audit or compensation committee of any of the foregoing. 
+^In case the Company shall issue rights, options (other than options issued pursuant to a plan described in Section 2(a)(2)(iii) above) or warrants (other than warrants described in Sections 2(a)(2)(i) of 2(a)(2)(ii) above) entitling the holders thereof to subscribe for or purchase Common Shares (or securities convertible into Common Shares) or shall issue convertible securities, and the price per share of Common Shares of such rights, options, warrants or convertible securities (including, in the case of rights, options or warrants, the price at which they may be exercised) is less than the Current Market Price Per Common Share immediately preceding such issue of rights, options, warrants or convertible securities or immediately preceding the announcement thereof, if earlier, the maximum number of Common Shares issuable upon exercise of such rights, options or warrants or upon conversion of such convertible securities shall be deemed to have been issued and outstanding as of the date of such sale or issue, and the Exercise Price shall be adjusted pursuant to Section 2(a)(2) of this Warrant as though such maximum number of Common Shares had been so issued for an aggregate consideration equal to the aggregate consideration paid, if any, for such rights, options, warrants or convertible securities and the aggregate consideration payable by the holders of such rights, options, warrants or convertible securities prior to their receipt of such Common Shares. In case any portion of such consideration shall be in a form other than cash, the fair market value of such noncash consideration shall be determined as set forth in Section 2(a)(2) of this Warrant. Such adjustment shall be made successively whenever such rights, options, warrants or convertible securities are issued; and in the event that such rights, options or warrants expire unexercised, or in the event of a change in the number of Common Shares to which the holders of such rights, options, warrants or convertible securities are entitled (other than pursuant to adjustment provisions therein comparable to those contained in this Section 2(a)), the Exercise Price shall again be adjusted to be the Exercise Price which would then be in effect if such rights, options, warrants or convertible securities had not been issued with respect to any rights, options, warrants or convertible securities unexercised or unconverted, in the former event, or the Exercise Price which would then be in effect if such holders had initially been entitled to such changed number of Common Shares, in the latter event. No adjustment of the Exercise Price shall be made pursuant to this Section 2(4) to the extent that the Exercise Price shall have been adjusted pursuant to Section 2(a)(3) of this Warrant upon the setting of any record date relating to such rights, options, warrants or convertible securities and such adjustment fully reflects the number of Common Shares to which the holders of such rights, options, warrants or convertible securities are entitled and the price payable therefor. 
 
-^^Subject to the provisions of the Company’s certificate of incorporation, a Director may be removed from the Board upon the request of the Person or group of Persons that designated such Director, and not otherwise; provided that nothing in this Agreement shall be construed to impair any rights that the Stockholders of the Company may have to remove any Director for cause; provided, further, that any Executive Director shall be removed automatically from the Board upon such Executive Director’s Termination of Service. 
+^In case the Company shall fix a record date for the making of a distribution to holders of Common Shares (including any such distribution made in connection with a consolidation, scheme of arrangement or amalgamation in which the Company is the surviving entity) of evidences of indebtedness, assets (including cash) or other property (other than dividends payable in Common Shares or rights, options or warrants referred to in, and for which an adjustment is made pursuant to Sections 2(a)(1) or 2(a)(2) of this Warrant), the Exercise Price to be in effect after such record date shall be determined by multiplying the Exercise Price in effect immediately prior to such record date or immediately preceding the announcement thereof, by a fraction, the numerator of which shall be the Current Market Price Per Common Share on such record date, less the fair market value (determined as set forth in Section 2(a)(2) of this Warrant) of the portion of the assets, other property or evidence of indebtedness so to be distributed which is applicable to one Common Share, and the denominator of which shall be such Current Market Price Per Common Share. Such adjustments shall be made successively whenever such a record date is fixed; and in the event that such distribution is not so made, the Exercise Price shall again be adjusted to be the Exercise Price which would then be in effect if such record date had not been fixed. 
 
-^^In the event that any Director for any reason ceases to serve as a member of the Board during his term of office, the Person or group of Persons who designated such Director shall have the right to designate for appointment by the remaining Directors of the Company an individual to fill the vacant directorship. Each of the Company, the Carlyle Stockholders and the Executive Stockholders agrees to take such actions as will result in the appointment as soon as practicable of any individual so designated by each such Person or group of Persons. 
+^For the purpose of any computation under this Section 2(a), on any determination date, the “Current Market Price Per Common Share” shall mean the average (weighted by daily trading volume) of the Daily Prices (as defined below) per Common Share for the 20 consecutive trading days immediately prior to such date. “Daily Price” means (i) if the Common Shares are then listed and traded on the National Market of the National Association of Securities Dealers, Inc. Automated Quotation System (“NASDAQ”), the last reported sale price on such day on the NASDAQ Global Select Market; (ii) if the shares of Common Shares are then not listed and traded on the NASDAQ, the closing price on such day as reported by the principal national securities exchange on which the shares are listed and traded; or (iii) if the shares of such class of Common Shares are then not listed and traded on a national securities exchange, the last reported sale price on such day on a nationally or regionally recognized automated quotation system. If on any determination date the shares of such class of Common Shares are not quoted by any such organization, the Current Market Price Per Common Share shall be the fair market value of such shares on such determination date as reasonably determined by the board of directors of the Company. If the Warrant Holder shall object to any determination by the Company’s board of directors of the Current Market Price Per Common Share, the Current Market Price Per Common Share shall be the fair market value per share of the applicable class of Common Shares as determined by an independent appraiser retained by the Company at its expense and reasonably acceptable to the Warrant Holder. For purposes of any computation under this Section 2(a), the number of Common Shares outstanding at any given time shall not include shares owned or held by or for the account of the Company. 
 
-^^At such time as the Carlyle Stockholders cease collectively to own and have the power to dispose of Company Common Stock, Company Non-Voting Common Stock and Company Restricted Common Stock representing at least forty percent ([[Percentage 1: Number]]%) of the interests in the Company represented by all issued and outstanding shares of Company Common Stock, Company Non-Voting Common Stock and Company Restricted Common Stock, the Carlyle Stockholders and the Executive Stockholders shall discuss and use commercially reasonable efforts to agree upon, and, subject to Section 16(k), shall amend this Agreement to effect, appropriate amendments to this Section 1 and such other provisions of this Agreement as shall be appropriate, in each case to be consistent with the ownership position of the Carlyle Stockholders at that time. 
+^No adjustment in the Exercise Price shall be required unless such adjustment would require an increase or decrease of at least one-quarter of one percent in such price; provided, that any adjustments which by reason of this paragraph are not required to be made shall be carried forward and taken into account in any subsequent adjustment or upon exercise, if sooner. All calculations under this Section 2(a) shall be made to the nearest one tenth of a cent or to the nearest hundredth of a share, as the case may be. Notwithstanding anything to the contrary, if any adjustment pursuant to this Section 2(a) would result in an exercise price of less than zero, then the Exercise Price shall be zero. 
 
-^^For so long as the Company qualifies as a “controlled company” under the applicable listing standards then in effect, the Company will elect to be a “controlled company” for purposes of such applicable listing standards, and will disclose in its annual meeting proxy 
+^In the event that, at any time as a result of the provisions of this Section 2(a), the holder of this Warrant upon subsequent exercise shall become entitled to receive any shares of capital stock of the Company other than Common Shares, the number of such other shares so receivable upon exercise of this Warrant shall thereafter be subject to adjustment from time to time in a manner and on terms as nearly equivalent as practicable to the provisions contained herein. 
 
-^^^^^ 
-statement that it is a “controlled company” and the basis for that determination. The Company, the Carlyle Stockholders and the Executive Stockholders acknowledge and agree that, as of the date of this Agreement, the Company is a “controlled company.” After the Company ceases to qualify as a “controlled company” under applicable listing standards then in effect, each of the Carlyle Stockholders and the Executive Stockholders acknowledges that a sufficient number of their designees will be required to qualify as “independent directors” to ensure that the Board complies with such applicable listing standards in the time periods required by the applicable listing standards then in effect, and shall discuss and use commercially reasonable efforts to agree upon appropriate changes to their designees consistent with the foregoing. 
+^Upon each adjustment of the Exercise Price as a result of the calculations made in this Section 2(a), the number of Warrant Shares for which this Warrant is exercisable immediately prior to the making of such adjustment shall thereafter evidence the right to purchase, at the adjusted Exercise Price, that number of Warrant Shares obtained by (i) multiplying the number of Warrant Shares covered by this Warrant immediately prior to such adjustment by the Exercise Price in effect immediately prior to such adjustment of the Exercise Price and (ii) dividing the product so obtained by the Exercise Price in effect immediately after such adjustment. 
 
-Section 2.    Restrictions on Transfer.
+^Notwithstanding anything to the contrary contained herein, no adjustment in the Exercise Price or number of Warrant Shares for which this Warrant is exercisable shall be made to the extent that such adjustment would cause this Warrant to become subject to Section 409A of the Internal Revenue Code and the rules and regulations promulgated thereunder without the consent of the holder hereof. Any adjustments which by reason of this paragraph are not made shall be carried forward and taken into account in any subsequent adjustment or upon exercise, if sooner, subject, in each case, to the first sentence of this Section 2(a)(10). 
 
-Except for (a) Transfers following the day that is one hundred eighty (180) days (or such shorter or longer period as agreed upon by the underwriters and the Company to be appropriate) after the consummation of the IPO; (b) Transfers effected by the Executive Stockholders pursuant to the exercise of Bring-Along Rights by the Carlyle Stockholders pursuant to Section 4 below; (c) Transfers effected pursuant to the Proxy and Tag-Along Agreements; (d) Transfers effected pursuant to Section 6 below, and (e) any Permitted Transfer (as defined in Section 5), no Individual Stockholder shall Transfer any Securities without the prior written approval of the Company. Each Individual Stockholder further agrees that in connection with any Permitted Transfer, such Individual Stockholder shall, if requested by the Company, deliver to the Company an opinion of counsel, in form and substance reasonably satisfactory to the Company and counsel for the Company, to the effect that such Transfer is not in violation of the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder (the “Securities Act”), or the securities laws of any state. Any purported Transfer in violation of the provisions of this Section 2 shall be null and void and shall have no force or effect. It shall be a condition to any Permitted Transfer and (unless waived by the Company) any Transfer by any Individual Stockholder approved by the Company, that the transferee shall (i) agree to become a Party to this Agreement as a “Management Stockholder” or an “Other Stockholder”, as the case may be, (ii) execute a signature page in the form attached as Exhibit A hereto acknowledging that such transferee agrees to be bound by the terms hereof and (iii) if such transferee is a natural person and a resident of a state with a community or marital property system, cause such transferee’s spouse to execute a spousal waiver in the form attached as Exhibit B. Notwithstanding anything to the contrary in this Agreement, the Company agrees that any Management Stockholder may pledge or otherwise use Company Common Stock, vested Company Restricted Common Stock or Company Non-Voting Common Stock to secure financing from a lender (a “Lender”) in connection with payment of the exercise price with respect to any Company Option or the payment of any withholding or other taxes due in connection with any Security issued under the Equity Incentive Plan, Company Rollover Stock Plan or any similar equity-based plan approved by the Board; provided, however, that the Lender shall be acceptable to the Company and the terms of any such pledge or other financing shall (i) provide that the Lender or any Person (a “Foreclosure Transferee”) to whom ownership of the pledged Company Common Stock or Company Non-Voting Common Stock is transferred upon default, foreclosure or like events (the “Foreclosed Securities”) shall upon taking ownership of any such Foreclosed Securities become a party to this Agreement and be subject to the terms and 
+^The Warrant Holder shall, at its option, be entitled to receive, in lieu of the adjustment pursuant to Section 2(a)(5) otherwise required, on the date of exercise of the Warrant, the evidences of indebtedness, assets (including cash) or other property which such Warrant Holder would have been entitled to receive if it had exercised its Warrant for Common Shares immediately prior to the record date with respect to such distribution. The Warrant Holder may exercise its option under this Section 2(a)(11) by written notice to the Company within fourteen days of its receipt of the written notice required pursuant to Section 2(b) of this Warrant to be delivered by the Company in connection with such distribution. 
 
-^^^^^ 
-provisions of the Company Rollover Stock Plan, the Equity Incentive Plan or other equity incentive plan of the Company, as applicable, and any award agreement to which the Foreclosed Securities transferred to the Foreclosure Transferee were subject immediately prior to such Transfer; (ii) provide that upon and following any such transfer of ownership of any such Foreclosed Securities the Company may, without any action or consent of the Lender or any holder or owner thereof, convert any Company Common Stock to Company Non-Voting Common Stock, (iii) in addition to any right to repurchase the Foreclosed Securities pursuant to the Company Rollover Stock Plan or Section 8, provide the Company with the right to repurchase the Foreclosed Securities at their Fair Market Value during the period beginning on the date the Company becomes aware of the transfer of the Foreclosed Securities and ending on the date nine (9) months thereafter and (iv) be otherwise reasonably acceptable to the Company. Any such repurchase shall be subject to the same notice and delay provisions as shares purchased on Termination of Service pursuant to Section 8. 
+^Any amalgamation, recapitalization, reorganization, reclassification, consolidation, merger of the Company or sale of all or substantially all of the Company’s assets or other transaction, in each case which is effected in such a manner that the holders of Common Shares are entitled to receive (either directly or upon subsequent liquidation) shares, securities or assets with respect to or in exchange for Common Shares is referred to herein as an “Organic Change.” Prior to the consummation of any Organic Change, the Company shall make appropriate provisions (in form and substance satisfactory to the Warrant Holder) to insure that the Warrant Holder shall thereafter have the right to acquire and receive, in lieu of or in addition to (as the case may be) Common Shares immediately theretofore acquirable and receivable upon the exercise of this Warrant, such shares, securities or assets as such Warrant Holder would have received in connection with such Organic Change if such Warrant Holder had exercised this Warrant immediately prior to such Organic Change. In each such Organic Change, the Company shall also make appropriate provisions (in form and substance satisfactory to the Warrant Holder) to insure that the provisions of this Section 2 shall thereafter be applicable to this Warrant (including, in the case of any such amalgamation, consolidation, merger or sale in which the successor entity or purchasing entity is other than the Company) and that there is (a) an immediate adjustment of the Exercise Price to the value for the Common Shares reflected by the terms of such amalgamation, consolidation, merger or sale and (b) if the value so reflected is less than the Exercise Price in effect immediately prior to such amalgamation, consolidation, merger or sale, a corresponding immediate adjustment in the number of Common Shares acquirable and receivable upon exercise of this Warrant. Prior to the consummation of any such amalgamation, consolidation, merger or sale, the Company shall use its reasonable efforts to cause the successor entity (if other than the Company resulting from amalgamation, consolidation or merger) or the entity purchasing such assets to assume by written instrument (in form and substance satisfactory to the Warrant Holder), the obligation to deliver to each such Warrant Holder such shares, securities or assets as, in accordance with the foregoing provisions, the Warrant Holder may be entitled to acquire; provided, however, that any such assumption shall not relieve the Company of its obligations hereunder. 
 
-Section 3.    Leadership Team.
+^^Notices. Promptly upon any adjustment of the Exercise Price, the Company shall give, or cause to be given, written notice thereof to the Warrant Holder showing the adjustment as herein provided, setting forth in reasonable detail the facts requiring such adjustment and the computation of such adjustment. 
 
-^^For so long as any Management Stockholder serves as a member of the Leadership Team, such Management Stockholder, together with each of such Management Stockholder’s Permitted Transferees, shall be an “Executive Stockholder” for the purposes of this Agreement and such Management Stockholder shall execute a joinder to this Agreement in the form attached hereto as Exhibit A-3. 
+^Exercise of Warrant. 
 
-^^At such time as any Management Stockholder ceases to serve as a member of the Leadership Team, such Management Stockholder, together with each of such Management Stockholder’s Permitted Transferees, shall cease to be an “Executive Stockholder” for the purposes of this Agreement and such Management Stockholder shall execute a separation agreement, solely with respect to such Management Stockholder’s and each of such Management Stockholder’s Permitted Transferees’ status as an Executive Stockholder under this Agreement, in the form attached hereto as Exhibit C. 
+^^Exercise Procedure. The Warrant Holder may exercise all or a portion of this Warrant at any time and from time to time commencing after the date hereof until 5:00 p.m., [[Address 2: Address]], on the Expiration Date by surrendering at the registered office of the Company this Warrant and a completed Exercise Agreement (substantially in the form of Exhibit A attached hereto) and by paying the Exercise Price in one of the following manners: 
 
-^^Notwithstanding anything to contrary herein, nothing in this Section 3 shall affect any rights or obligations that any Person may otherwise have as a Management Stockholder, Other Stockholder or Individual Stockholder and, for the avoidance of doubt, the provisions of Section 1, Section 4 and Section 16(m) of this Agreement shall not apply to any Individual Stockholders other than the Executive Stockholders. 
+^^^Cash Exercise. The Warrant Holder shall deliver immediately available funds or a cashier’s check payable to the Company; or 
 
-Section 4.    Bring-Along Rights.
+^^^Cashless Exercise. After the date of issuance of this Warrant, if the Common Shares are listed on a national securities exchange, automated quotation system or are available for sale in the over-the-counter market and the provisions of Section 42A of the Bermuda Companies Act 1981, as amended, may be satisfied by the Company, the Warrant Holder shall have the right to surrender this Warrant to the Company together with a notice of cashless exercise, in which event the Company shall issue to the Warrant Holder the number of Common Shares underlying this Warrant (the “Warrant Shares”) determined as follows; 
 
-^^If one or more Carlyle Stockholders, in one transaction or a series of related transactions that would constitute both a Company Sale and a Change in Control (as defined in the Company Rollover Stock Plan), propose(s) to Transfer any Securities to one or more Persons other than an Affiliate of the Carlyle Stockholders (each such Person, a “Third Party Purchaser”), then the Carlyle Stockholders shall have the right (a “Bring-Along Right”), but not the obligation, to require each Executive Stockholder that is an Executive Stockholder both upon receipt of the Bring-Along Notice (defined below) and upon the closing of the proposed Transfer to sell to the Third Party Purchaser(s), on the Same Terms and Conditions as apply to the Carlyle 
+^= Y (A-B)/A 
 
-^^^^^ 
-Stockholders exercising their Bring-Along Right, that number of Securities equal to (i) the total number of Securities owned by such Executive Stockholder multiplied by (ii) a fraction, (A) the numerator of which is the total number of Securities to be sold by the Carlyle Stockholders in connection with such transaction or series of related transactions and (B) the denominator of which is the total number of the Securities collectively held by all Carlyle Stockholders. Notwithstanding anything to the contrary in this Section 4, if the Carlyle Stockholders require an Executive Stockholder to sell any Company Options issued under the Company Rollover Stock Plan to a Third Party Purchaser pursuant to this Section 4, such Executive Stockholder (and, if applicable, a Permitted Transferee and/or Related Trust of such Executive Stockholder) shall also sell, for no additional consideration, a corresponding number of shares of Company Special Voting Stock to such Third Party Purchaser. 
+where: 
 
-^^Any Carlyle Stockholders exercising their Bring-Along Right under this Section 4 shall deliver a written notice (a “Bring-Along Notice”) to each Executive Stockholder. The Bring-Along Notice shall set forth: (i) the name of the Third Party Purchaser(s) and the number of Securities proposed to be sold by the Carlyle Stockholders to such Third Party Purchaser(s); (ii) the proposed amount and form of consideration and material terms and conditions of payment offered to such Executive Stockholder by the Third Party Purchaser(s) and a summary of any other material terms pertaining to the Transfer (the “Third Party Terms”); and (iii) the number of Securities that such Executive Stockholder shall be required to sell in such Transfer (as determined in accordance with Section 4(a) above). The Bring-Along Notice shall be given at least fifteen (15) Business Days before the closing of the proposed Transfer. 
+Xthe number of Warrant Shares to be issued to the Warrant Holder 
 
-^^Upon each Executive Stockholder’s receipt of a Bring-Along Notice, such Executive Stockholder shall be obligated to sell such number of Securities as is set forth in the Bring-Along Notice on the Third Party Terms; provided, however, that no Executive Stockholder shall be required to bear more than such Executive Stockholder’s pro rata share (determined based on the number of Securities sold in the transactions contemplated by the Bring-Along Notice) of all liabilities for the representations, warranties and other obligations incurred in connection with the transactions contemplated by the Bring-Along Notice (other than with respect to representations and warranties relating to the ownership of such Executive Stockholder’s Securities or otherwise relating solely to such Executive Stockholder). 
+^= the number of Warrant Shares with respect to which this Warrant is being exercised 
 
-^^At the closing of the Transfer to any Third Party Purchaser(s) pursuant to this Section 4, the Third Party Purchaser(s) shall remit to each Executive Stockholder (i) the consideration (as reduced by Section 4(g)) for the Securities held by such Executive Stockholder and being sold pursuant hereto, minus (ii) such Executive Stockholder’s pro rata portion of any consideration to be placed in escrow or otherwise held back in accordance with the Third Party Terms, minus (iii) the aggregate exercise price of any Company Options being Transferred by such Executive Stockholder to such Third Party Purchaser(s), against transfer of such Securities, free and clear of all liens and encumbrances, by delivery by such Executive Stockholder of (A) certificates for such Securities, duly endorsed for Transfer or with duly executed stock powers reasonably acceptable to the Company and such Third Party Purchaser(s) and/or (B) an instrument evidencing the Transfer or the cancellation of the Company Options subject to the Bring-Along Right reasonably acceptable to the Company and such Third Party Purchaser(s), 
+^= the Daily Price on the day immediately preceding the date on which the Warrant Holder exercises this Warrant pursuant to Section 3(a) 
 
-^^^^^ 
-and the compliance by such Executive Stockholder with any other conditions to closing or payment of consideration generally applicable to the Carlyle Stockholders and all other Stockholders selling Securities in such transaction. In the event that the proposed Transfer to such Third Party Purchaser is not consummated, the Bring-Along Right shall continue to be applicable to any proposed subsequent Transfer of Securities by the Carlyle Stockholders pursuant to this Section 4. 
+^= the Exercise Price 
 
-^^In the event that any Carlyle Stockholders exercise their rights pursuant to this Section 4 or a Company Sale is approved by the Board and the holders of a majority of the then-outstanding Voting Shares, each Executive Stockholder shall consent to and raise no objections against such transaction, and shall take all actions that the Board and/or the applicable Carlyle Stockholders reasonably deem necessary or desirable in connection with the consummation of such transaction; provided, that (x) the acquisition of the Securities held by each Executive Stockholder in connection with such transaction shall be on the Same Terms and Conditions as the acquisition of the Securities held by the Carlyle Stockholders in connection with such transaction and (y) no Executive Stockholder shall be required to bear more than such Executive Stockholder’s pro rata share (determined based on the number of Securities sold in connection with such Company Sale) of all liabilities of the Stockholders for the representations, warranties and other obligations incurred in connection with such Company Sale (other than with respect to representations and warranties relating to the ownership of such Executive Stockholder’s Securities or otherwise relating solely to such Executive Stockholder). Without limiting the generality of the foregoing, each Executive Stockholder agrees, subject to the foregoing proviso, that it shall (i) consent to and raise no objections against such transaction; (ii) execute any purchase agreement, merger agreement or other agreement in connection with such transaction setting forth the terms and conditions of such transaction and any ancillary agreement with respect thereto; (iii) vote any Voting Shares held by such Executive Stockholder in favor of such transaction (including, without limitation, executing a written consent of stockholders approving such transaction); and (iv) refrain from the exercise of appraisal rights with respect to such transaction. 
+For purposes of Rule 144 promulgated under the Securities Act, it is intended, understood and acknowledged that the Warrant Shares issued in a cashless exercise transaction shall be deemed to have been acquired and paid the full purchase price therefor by the Warrant Holder, and the holding period for the Warrant Shares shall be deemed to have been commenced on the issue date to the extent permitted by Rule 144, 
 
-^^If the Company or the holders of the Company’s securities enter into any transaction for which Rule 506 (or any similar rule then in effect) promulgated under the Securities Act may be available (including, without limitation, a merger, consolidation or other reorganization), each Executive Stockholder shall, if requested by the Company, appoint a purchaser representative (as such term is defined in Rule 501 of the Securities Act) reasonably acceptable to the Company. If such purchaser representative was designated by the Company, the Company shall pay the fees and expenses of such purchaser representative, but if any Individual Stockholder appoints another purchaser representative, such Individual Stockholder shall be responsible for the fees and expenses of the purchaser representative so appointed. 
+^^Certificates for the Common Shares acquired through exercise of this Warrant shall be delivered by the Company to the Warrant Holder within five (5) business days after (i) receipt by the Company of the items required by Section 3(a) for the respective method or methods of exercise, and (ii) where applicable, compliance with Section 42A of the Bermuda Companies Act 1981 (and the Company shall use reasonable efforts to complete the requirements of the said Section 42A as quickly as possible). Unless this Warrant has expired or all of the purchase rights represented hereby have been exercised, the Company shall prepare a new Warrant, substantially identical hereto, representing the rights formerly represented by this Warrant which have not expired or been exercised and shall, within such five-day period, deliver such new Warrant to such Warrant Holder. 
 
-^^Each Stockholder shall bear its pro rata share of the fees, costs and expenses of any Company Sale or other transaction (pursuant to this Agreement or otherwise) in which it sells Securities. 
+^^The Common Shares issuable upon exercise of this Warrant shall be deemed to have been issued to the Warrant Holder on the date by which the Company receives the completed Exercise Agreement and payment of the Exercise Price, if any, and, where applicable, has complied with the requirements of the said Section 42A of the Companies Act 1981, and the Warrant Holder shall be deemed for all purposes to have become the record holder of such Common Shares on such date. 
 
-^^^^^ 
+^^The issuance of certificates for the Common Shares issuable upon exercise of this Warrant shall be made without charge to the Warrant Holder for any issuance tax in respect thereof or other cost incurred by the Company in connection with such exercise and the related issuance of the Common Shares. 
 
-Section 5.    Permitted Transfers.
+^^The Company shall at all times reserve and keep available authorized but unissued Common Shares, solely for the purpose of issuance upon exercise of this Warrant, such number of Common Shares as are issuable upon exercise of this Warrant. All Common Shares shall, when issued, be duly and validly issued, fully paid and nonassessable (meaning that no further sums are required to be paid by the holders thereof in connection with the issue thereof) and free from all taxes, liens and charges. The Company shall take such actions as may be necessary to assure that the Common Shares may be so issued without violation of any applicable law or governmental regulation or any requirements of any domestic securities exchange upon which their shares may be listed (except for official notice of issuance which shall be immediately delivered by the Company upon each such issuance). 
 
-^^Notwithstanding anything herein to the contrary, the restrictions set forth in the first sentence of Section 2 shall not apply to: (i) any Transfer of Company Common Stock, Company Restricted Common Stock or Company Non-Voting Common Stock by an Individual Stockholder that is a natural person (or a trust or entity of the type described below) (A) by gift to, or for the benefit of, any member or members of his or her immediate family (which shall include any spouse, or any lineal ancestor or descendant, niece, nephew, adopted child or sibling of him or her or such spouse, niece, nephew or adopted child), (B) to a trust under which the distribution of the Securities may be made only by such Individual Stockholder and/or such Individual Stockholder’s immediate family or (C) to a partnership or limited liability company for the benefit of the immediate family of such Individual Stockholder and the partners or members of which are only such Individual Stockholder and such Individual Stockholder’s immediate family; (ii) any Transfer of such Securities by an Individual Stockholder that is a natural person to the heirs, executors or legatees of such Individual Stockholder by operation of law or court order upon the death or incapacity of such Individual Stockholder; or (iii) any Transfer of such Securities by an Individual Stockholder that is not a natural person to an Affiliate; provided, that such Affiliate does not engage in any Competitive Activity (each of the Transfers referenced in clauses (i), (ii) and (iii) above which is otherwise in accordance with the provisions of this Section 5 is referred to herein as a “Permitted Transfer”). Upon any Permitted Transfer of Company Common Stock, the transferor shall retain a proxy to vote the same or shall (x) exchange the same with the Company for a share of Company Non-Voting Common Stock and, if such transferor so chooses (y) purchase from the Company for its par value a share of Company Special Voting Stock and Transfer in such Permitted Transfer only the share of Company Non-Voting Common Stock. In all such cases the Company shall take all reasonable actions to cooperate with the transferee and promptly effectuate any required exchanges or other arrangements contemplated hereby. The recipient of any Securities pursuant to the foregoing shall be referred to herein as a “Permitted Transferee” and shall be deemed a “Management Stockholder”, an “Other Stockholder”, or an “Executive Stockholder”, as the case may be, for all purposes of this Agreement. 
+^Warrant Transferable. Subject to the transfer conditions referred to in the legend endorsed hereon, this Warrant and all rights hereunder are transferable, in whole or in part, without charge to the Warrant Holder; upon surrender of this Warrant with a properly executed Assignment (substantially in the form of Exhibit B hereto) at the registered office of the Company. Notwithstanding the foregoing, this Warrant may be transferred only to the extent that, upon exercise of this Warrant, the transferee would own less than [[Percentage 1: Number]]% of the total Common Shares issued and outstanding (after application of the U.S. tax attribution and constructive ownership rules under the United States Internal Revenue Code of 1986, as amended, and the rules and regulations promulgated thereunder), unless such restriction is waived by the unanimous consent of the Board of Directors of the Company. 
 
-^^Each Individual Stockholder shall give the Company at least twenty (20) days’ prior written notice of any proposed Transfer pursuant to Section 5(a) above and prompt notice of any such actual Transfer. 
+^Warrant Exchangeable for Different Denominations. This Warrant is exchangeable, upon the surrender hereof by the Warrant Holder at the registered office of the Company, for new warrants in different denominations, substantially identical hereto, representing in the aggregate the rights formerly represented by this Warrant, and each of such new warrants shall represent such portion of such rights as is designated by the Warrant Holder at the time of such surrender. The date the Company initially issues this Warrant shall be the date of issuance of such new warrants regardless of the number of times new certificates representing the unexpired and unexercised rights formerly represented by this Warrant shall be issued. 
 
-Section 6.    Registration Rights
+^Replacement; Taxes. Upon receipt of evidence reasonably satisfactory to the Company (an affidavit of the Warrant Holder shall be satisfactory) of the ownership and the loss, theft, destruction or mutilation of any certificate evidencing this Warrant, and in the case of any such loss, theft or destruction, upon receipt of indemnity reasonably satisfactory to the Company (provided, that if such Warrant Holder is a financial institution or other institutional investor its own agreement shall be satisfactory), or, in the case of any such mutilation upon surrender of such certificate, the Company shall (at its expense) execute and deliver in lieu of such certificate a new certificate, substantially identical hereto, representing the rights represented by such lost, stolen, destroyed or mutilated certificate and dated the date of such lost, stolen, destroyed or mutilated certificate. The Company shall pay all taxes (other than securities transfer taxes) and all other expenses and charges payable in connection with the preparation, execution, and delivery of warrants pursuant to Sections 4, 5 and 6. 
 
-^^At any time, the Carlyle Stockholders may request in writing that the Company effect the registration of all or any part of the Registrable Securities held by the Carlyle Stockholders in an underwritten public offering (a “Registration Request”). The Company will use its best efforts to register, in accordance with the provisions of this Agreement, all Registrable Securities that have been requested to be registered by the Carlyle Stockholders in the Registration Request; provided, that (i) managing underwriters’ estimate of the aggregate offering price of the Securities requested to be included in such Registration is at least $[[USD Value 1: Number]] and (ii) the Company shall not be required to register Registrable Securities during 
+^Successors and Assigns. This instrument is intended to bind and inure to the benefit of and be enforceable by the Warrant Holder and its respective heirs, executors, administrators, successors and assigns. 
 
-^^^^^ 
-the period starting with the date sixty (60) days prior to the Company’s estimated date of filing of, and ending on a date one hundred and eighty (180) days after the effective date of, a registration initiated by the Company; provided that (x) in the case of a Registration Request received by the Company prior to the filing by the Company of such registration, the Company had been in good faith planning to file a registration statement within sixty (60) days of the Company’s receipt of such Registration Request and (y) the Company is actively employing in good faith all reasonable efforts to cause the applicable registration statement to become effective and that the Company’s estimate of the date of filing such registration statement is made in good faith. Any registration requested by the Carlyle Stockholders pursuant to this Section 6(a) is referred to in this Agreement as a “Demand Registration”. In connection with a Demand Registration, the Company shall have the right to select the underwriters to administer the offering, subject to the reasonable approval of the Carlyle Stockholders. 
+^Amendment and Waiver. Except as otherwise provided herein, the provisions of this Warrant may be amended only if the Company has obtained the written consent of the Warrant Holder. 
 
-^^If the Company at any time proposes to register any shares of Company Common Stock under the Securities Act (including pursuant to a Registration Request), whether or not for sale for its own account (other than pursuant to a Special Registration) and the registration form to be used may also be used for the registration of Registrable Securities owned by the Stockholders, the Company shall notify the Stockholders at least twenty (20) days prior to the planned effective date of the registration statement in connection therewith. Upon the receipt of a written request of any Stockholder made within ten (10) days after such notice (which request shall specify the Registrable Securities intended to be disposed of by such Stockholder and the intended method of disposition thereof), the Company will, subject to the other provisions of this Section 6, include in such registration all Registrable Securities with respect to which the Company has received a written request for inclusion (a “Piggyback Registration”). Each such request shall also contain an undertaking from the applicable Stockholder to provide all such information and material and to take all actions as may be reasonably required by the Company in order to permit the Company to comply with all applicable federal and state securities laws. 
+^Descriptive Headings. The descriptive headings of this Warrant are inserted for convenience only and do not constitute a part of this Warrant. 
 
-^^Each selling Stockholder shall pay all sales commissions or other similar selling charges with respect to Registrable Securities sold by such Stockholder pursuant to a Piggyback Registration. The Company shall pay all registration and filing fees, fees and expenses of compliance with federal and state securities laws, printing expenses, messenger and delivery expenses, fees and disbursements of counsel and accountants for the Company in connection with any registration, including, without limitation, a Demand Registration, unless the applicable state securities laws require that stockholders whose securities are being registered pay their pro rata share of such fees, expenses and disbursements, in which case each Stockholder participating in the registration shall pay its pro rata share of all such fees, expenses and disbursements based on its pro rata share of the total number of shares being registered. 
+^Governing Law. This Warrant shall be governed by and construed and enforced in accordance with the internal laws of Bermuda without regard to the principles of conflicts of law thereof. Each party hereby irrevocably submits to the nonexclusive jurisdiction of the courts of Bermuda for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein, and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper. 
 
-^^If a Demand Registration or Piggyback Registration is an underwritten registration, only Registrable Securities which are to be distributed by the underwriters may be included in the registration. If the managing underwriters or, if the Demand Registration or the Piggyback Registration is not an underwritten registration, the Company’s investment bankers, advise the Company that in their opinion the number of Securities requested to be included in 
+Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof to such party at the address for such notices to it under this Warrant and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law. **TO THE EXTENT APPLICABLE AND PERMITTED, EACH PARTY HEREBY IRREVOCABLY WAIVES ANY RIGHT IT MAY HAVE, AND AGREES NOT TO REQUEST, A JURY TRIAL FOR THE ADJUDICATION OF ANY DISPUTE HEREUNDER OR IN CONNECTION HEREWITH OR ARISING OUT OF THIS WARRANT OR ANY TRANSACTION CONTEMPLATED HEREBY.** 
 
-^^^^^ 
-such registration exceeds the number which can be sold in such offering or will have a material adverse effect on the price of the Registrable Securities to be sold, the Company will include in such registration or prospectus only such number of Securities that in the reasonable opinion of such underwriters or investment bankers can be sold without adversely affecting the marketability or price of the offering, which securities will be so included in the following order of priority: (i) for registrations pursuant to Section 6(a) or Section 6(b) in connection with Demand Registrations, first, Registrable Securities of the Stockholders who have requested registration of their Registrable Securities pursuant to Section 6(a) or Section 6(b), pro rata on the basis of the aggregate number of such Registrable Securities proposed to be registered by such Stockholders, second, any Securities proposed to be registered by the Company; and (ii) for registrations pursuant to Section 6(b) (other than in connection with Demand Registrations, which are addressed in clause (i)), first, Securities proposed to be registered by the Company, and second, Registrable Securities of the Stockholders who have requested registration of their Registrable Securities pursuant to Section 6(b), pro rata on the basis of the aggregate number of such Registrable Securities proposed to be registered by such Stockholders. Notwithstanding the foregoing, if the managing underwriters or, if the registration is not an underwritten registration, the Company’s investment bankers, advise the Company that in their opinion, the inclusion in a Demand Registration or a Piggyback Registration of Registrable Securities held by the Management Stockholders will have a material adverse effect on the offering, then to the extent a greater reduction in the participation by Management Stockholders is approved in writing by at least two Senior Officers, the Company may reduce such Management Stockholder participation in such relatively greater proportion. 
+^Complete Agreement; Severability. Except as otherwise expressly set forth herein, this Warrant embodies the complete agreement and understanding among the parties hereto with respect to the subject matter hereof and supersedes and preempts any prior understandings, agreements or representations by or among the parties, written or oral, which may have related to the subject matter hereof in any way. In case any provision of this Warrant shall be invalid, illegal or unenforceable, such invalidity, illegality, or unenforceability shall not in any way affect or impair any other provision of this Warrant. 
 
-^^Notwithstanding the foregoing, if at any time after giving written notice to the Stockholders of its intention to register any shares of Company Common Stock pursuant to Section 6(b) (other than Demand Registrations) and prior to the effective date of the registration statement filed in connection with such registration, the Company shall determine in accordance with the provisions of this Agreement not to register such securities, the Company may, at its election, give written notice of such determination to each Stockholder and thereupon shall be relieved of its obligation to register Registrable Securities as part of such terminated registration (but not from its obligation to pay expenses in connection therewith as provided in Section 6(c) above). Similarly, notwithstanding the foregoing, if at any time after giving written notice to the Company of its Registration Request pursuant to Section 6(a) and prior to the effective date of the registration statement filed in connection with such registration, the applicable Carlyle Stockholders shall determine in accordance with the provisions of this Agreement not to register such securities, the applicable Carlyle Stockholders may, at their election, give written notice of such determination to the Company (which, in turn shall give written notice to each Individual Stockholder) and thereupon the applicable Carlyle Stockholders and the Company shall be relieved of their respective obligations to register Registrable Securities as part of such terminated registration (but the Company shall not be relieved from its obligation to pay expenses in connection therewith as provided in Section 6(c)). If a registration pursuant to this Section 6 involves an underwritten public offering or Individual Stockholder requests to be included in such registration, such Individual Stockholder may elect, in writing prior to the effective date of the registration statement filed in connection with such registration, not to participate in such registration. 
+^Notices. All notices and other communications provided for or permitted hereunder shall be made in writing by hand-delivery, first-class mail, facsimile, or air courier guaranteeing overnight delivery. 
 
-^^^^^ 
-^^Except as part of the applicable registered offering, each Stockholder agrees not to sell or offer for public sale or distribution, including pursuant to Rule 144, any of such Stockholder’s Registrable Securities within fifteen (15) days prior to or one-hundred and eighty (180) days (or such shorter or longer period as determined by the underwriters and the Company to be appropriate) after the effective date of any registration (other than a Special Registration) with respect to which registration rights are available pursuant to this Section 6. 
+If to the Company:      Alterra Capital Holdings Limited  Alterra House  2 Front Street  Hamilton HM 11  Bermuda  Attention: Carol S. Rivers, Esq.
 
-^^The procedures to be used by the Company in effecting the registration of any Registrable Securities pursuant to this Section 6 and the rights of any holder of Registrable Securities shall be those customary for demand registrations and piggyback registrations and shall be subject to (i) without limitation of such Stockholder’s obligations under Section 6(a) or Section 6(b), the Company’s right to request customary undertakings on the part of the sellers of any Registrable Securities with respect to holdbacks and the furnishing of such information for inclusion in any Registration Statement to be used in connection with such sale as is customarily provided by selling stockholders, and (ii) in connection with any underwritten offering which includes Registrable Securities held by any Stockholder to be registered pursuant to this Section 6, the execution by such Stockholder of a customary underwriting agreement with the underwriters for such offering. 
+With a copy (which shall not constitute notice) to:      Akin Gump Strauss Hauer & Feld LLP  One Bryant Park  [[Address 3: Address]]  Attention: Kerry E. Berchem, Esq.
 
-Section 7.    Indemnification.
+If to the Warrant Holder:      [·]
 
-^^The Company agrees to indemnify, to the extent permitted by law, each Stockholder participating in a registration pursuant to this Agreement, the officers and directors of such Stockholder and each Person that controls such Stockholder (within the meaning of the Securities Act) against any and all losses, claims, damages, liabilities and expenses, including, without limitation, all reasonable legal fees, incurred in connection therewith, arising out of, based upon or resulting from (i) any untrue statement or alleged untrue statement of a material fact contained in any registration statement, prospectus or preliminary prospectus, or any amendment thereof or supplement thereto, (ii) any omission or alleged omission of a material fact required to be stated therein or necessary to make the statement therein not misleading in light of the circumstances then existing or (iii) any violation or alleged violation by the Company of any federal, state, foreign or common law rule or regulation applicable to the Company and relating to action required of or inaction by the Company in connection with any such registration, except, in each case, insofar as it is judicially determined that the liability resulted from information furnished in writing to the Company by such Stockholder and stated by the Stockholder to be used therein or, in the case of an underwritten offering only, from such Stockholder’s failure to deliver a copy of the registration statement, prospectus or preliminary prospectus or any amendments thereof or supplements thereto. 
+All such notices and communications shall be deemed to have been duly given when delivered by hand if personally delivered; five business days after the date of deposit in the Bermuda or United States mail, if mailed by first-class air mail; when receipt is acknowledged by the recipient facsimile machine, if sent by facsimile; and three business days after being delivered to a next-day air courier. 
 
-^^Each Stockholder participating in a registration pursuant to this Agreement agrees to indemnify, to the extent permitted by law, the Company, its directors and officers and each Person that controls (within the meaning of the Securities Act) the Company against any and all losses, claims, damages, liabilities and expenses, including, without limitation, all reasonable legal fees, incurred in connection therewith, arising out of, based upon or resulting from (i) any untrue statement or alleged untrue statement of material fact contained 
+\centered [the remainder of this page has been intentionally left blank] 
 
-^^^^^ 
-in any registration statement, prospectus or preliminary prospectus, or any amendment thereof or supplement thereto, or (ii) any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing, but only to the extent that such untrue statement is contained in or (as to the matters set forth in such information or affidavit) such omission is omitted from any information or affidavit furnished to the Company in writing by such Stockholder and stated to be expressly for use therein; provided, that such Stockholder’s obligations hereunder shall be limited to an amount equal to the proceeds to such Stockholder of the Registrable Securities sold pursuant to such registration statement. 
+IN WITNESS WHEREOF, the Company has caused this Warrant to be signed and attested by its duly authorized officer and to be dated the date of issuance hereof. 
 
-^^In connection with an underwritten offering, the Company and each Stockholder participating in the related registration will indemnify the underwriter(s), their officers and directors and each Person who controls such underwriter(s) (within the meaning of the Securities Act) to the same extent as provided in this Section 7. 
+ALTERRA CAPITAL HOLDINGS LIMITED
 
-^^Any Person entitled to indemnification under this Section 7 shall (i) give prompt written notice to the indemnifying party of any claim with respect to which it seeks indemnification and (ii) unless in such indemnified party’s reasonable judgment a conflict of interest between such indemnified and indemnifying parties may exist with respect to such claim, permit such indemnifying party to assume the defense of such claim with counsel reasonably satisfactory to the indemnified party. If such defense is assumed, the indemnifying party will not be subject to any liability for any settlement made by the indemnified party without its consent (but such consent will not be unreasonably withheld). An indemnifying party who is not entitled to, or elects not to, assume the defense of a claim will not be obligated to pay the fees and expenses of more than one counsel for all parties indemnified by such indemnifying party with respect to such claim, unless in the reasonable judgment of any indemnified party a conflict of interest may exist between such indemnified party and any other of such indemnified parties with respect to such claim. 
-
-^^The indemnification provided for under this Agreement will remain in full force and effect regardless of any investigation made by or on behalf of the indemnified party or any officer, director or controlling Person of such indemnified party and will survive the registration and sale of any securities by any Person entitled to any indemnification hereunder and the expiration or termination of this Agreement. 
-
-^^If the indemnification provided for in this Section 7 is held by a court of competent jurisdiction to be unavailable to an indemnified party with respect to any loss, liability, claim, damage or expense referred to therein, then the indemnifying party, in lieu of indemnifying such indemnified party hereunder, will contribute to the amount paid or payable by such indemnified party as a result of such loss, liability, claim, damage or expense in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and of the indemnified party on the other hand in connection with the statements or omissions which resulted in such loss, liability, claim, damage or expense as well as any other relevant equitable considerations. The relevant fault of the indemnifying party and the indemnified party will be determined by reference to, among other things, whether the untrue or alleged untrue 
-
-^^^^^ 
-statement of a material fact or the omission to state a material fact relates to information supplied by the indemnifying party or by the indemnified party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. Notwithstanding the foregoing, the amount any Stockholder will be obligated to contribute pursuant to this Section 7(f) will be limited to an amount equal to the proceeds to such Stockholder of the Registrable Securities sold pursuant to the registration statement which gives rise to such obligation to contribute (less the aggregate amount of any damages which the Stockholder has otherwise been required to pay in respect of such loss, claim, damage, liability or action or any substantially similar loss, claim, damage, liability or action arising from the sale of such Registrable Securities). 
-
-Section 8.    Rights to Repurchase Securities held by Management Stockholders.
-
-^^During the period beginning on the date of a Termination of Service of a Management Stockholder, and ending on the date nine (9) months following the later of (i) the date of such Termination of Service, (ii) the date of the exercise of any vested Company Options held by such Management Stockholder and (iii) the date that the Company becomes aware that a Management Stockholder has since the date of this Agreement engaged in or is engaging in Competitive Activity, the Company shall have the option to repurchase the Securities issued pursuant to the Equity Incentive Plan (or any similar equity-based plans approved by the Board, other than the Company Rollover Stock Plan (which contains provisions applicable to the Securities to which it relates)) held by such terminated Management Stockholder and/or his Related Trusts and Permitted Transferees (collectively, the “Management Securities Call Right”). The Management Securities Call Right may be exercised more than once. The Management Securities Call Right shall be exercised by written notice (the “Management Securities Call Notice”) to such Management Stockholder given in accordance with Section 16(f) below on or prior to the last day on which the Management Securities Call Right may be exercised by the Company. Notwithstanding the foregoing, the Company does not intend to exercise its Management Securities Call Right with respect to any Security unless the Security has been held by the Management Stockholder (and/or his or her Related Trusts or Permitted Transferees) for at least six months. 
-
-^^The purchase price payable for such Securities held by such Management Stockholder by the Company upon exercise of the Management Securities Call Right (the “Management Securities Purchase Price”) shall be as follows: 
-
-^^^If the Management Stockholder’s employment is terminated by the Company for Cause, the purchase price for any Securities shall equal the lower of (A) () until the date that is five years after the initial grant of the award (as defined in the Equity Incentive Plan or any similar equity-based plan) pursuant to which the securities were issued, [[Percentage 2: Number]]% of the Fair Market Value of such Securities as of the date of the Management Securities Call Notice (the “Repurchase Date”) and () thereafter, the Fair Market Value, as of the Repurchase Date and (B) the aggregate cash price paid for such Securities, if any, by such Management Stockholder. 
-
-^^^^^ 
-^^^If the Management Stockholder’s employment is terminated by the Company without Cause, by reason of such Management Stockholder’s death, or Disability, or in a Company Approved Termination, the purchase price for any Securities shall equal the Fair Market Value of such Securities as of the Repurchase Date. 
-
-^^^If the Management Stockholder’s employment terminates for any other reason, the purchase price for any Securities shall equal the Fair Market Value, as of the Repurchase Date. 
-
-^^^If the Management Stockholder’s employment terminates or the Management Stockholder engages in Competitive Activity following a transfer of Foreclosed Securities by such Management Stockholder, any such Foreclosed Securities shall be subject to the Management Securities Call Right provided in this Section 8 and, if any such Foreclosed Securities were purchased pursuant to Section 2 at a price in excess of the price that would be payable upon exercise of the Management Securities Call Right with respect to such Foreclosed Securities pursuant to this Section 8, then any purchase price payable upon the exercise of the Management Securities Call Right shall be reduced (but not below zero) by the excess of the purchase price paid by the Company for the Foreclosed Securities pursuant to Section 2 over the price that would have otherwise been payable for the purchase of such Foreclosed Securities pursuant to this Section 8. 
-
-If and to the extent the Company exercises its right to repurchase any such Securities pursuant to this Section 8, any such Management Stockholder shall be obligated to sell such Securities to the Company. 
-
-^^The repurchase of Securities pursuant to the exercise of the Management Securities Call Right shall take place on a date specified by the Company, but in no event later than sixty (60) days following the date of the exercise of such Management Securities Call Right or, if later, within ten (10) days following the receipt by the Company of all necessary governmental approvals. On such date, such Management Stockholder shall transfer the Securities subject to the Management Securities Call Notice to the Company, free and clear of all liens and encumbrances, by delivering to the Company the certificates or other documents representing the Securities to be purchased, duly endorsed for transfer to the Company or accompanied by a stock power duly executed in blank, in each case reasonably acceptable to the Company, and the Company shall pay to such Management Stockholder the Management Securities Purchase Price in cash or by bank or cashier’s check. 
-
-^^Notwithstanding any other provision of this Section 8, the Company shall not be permitted or obligated to make any payment with respect to a repurchase of any Securities from a Management Stockholder if (i) such repurchase (or the payment of a dividend by a Subsidiary to the Company to fund such repurchase) would result in a violation of the terms or provisions of, or result in a default or an event of default under any guaranty, financing or security agreement or document entered into by the Company or any Subsidiary from time to time (the “Financing Agreements”), (ii) such repurchase would violate any of the terms or provisions of the certificate of incorporation of the Company or (iii) the Company has no funds 
-
-^^^^^ 
-legally available to make such payment under the General Corporation Law of the State of Delaware (each such event in clause (i), (ii) or (iii), a “Repurchase Disability”); provided, that (x) the Company shall notify in writing the Management Stockholder with respect to whom the repurchase right has been exercised (a “Disability Notice”) and (y) the Disability Notice shall specify the nature of the Repurchase Disability. If a repurchase by the Company otherwise permitted under this Section 8 is prevented by a Repurchase Disability: (i) the purchase and payment of the applicable purchase price shall be postponed and will take place at the first opportunity thereafter when the Company has funds legally available to make such payment and when such payment will not result in any default, event of default or violation under any of the Financing Agreements or in a violation of any term or provision of the certificate of incorporation of the Company, (ii) such repurchase obligation shall rank against other similar repurchase obligations with respect to Securities according to priority in time of the termination date giving rise to such repurchase (provided that any repurchase commitment arising from a termination of employment because of Disability or death shall have priority over any other repurchase obligation) and (iii) the applicable purchase price (except in the case of a termination for Cause) shall be either, in the Company’s discretion, as determined on the date the Company exercises its repurchase right, (i) increased by an amount equal to interest on such purchase price for the period during which payment is delayed at the market interest rate determined by the Company or (ii) the Fair Market Value of the Securities as of the date that the Repurchase Disability ceases to be applicable; provided, however, that if the Company has not repurchased Securities pursuant to this Section 8 within four years following the delivery of a Disability Notice, the Company shall thereafter have no right or obligation to repurchase such Securities. 
-
-^^If a Management Stockholder’s employment with the Company is terminated other than (x) by the Company without Cause, (y) by reason of the Management Stockholder’s death or Disability or (z) in a Company Approved Termination, the Company shall have the option, for so long as it has a Management Securities Call Right with respect to such Management Stockholder, either in lieu of exercising such Management Securities Call Right or upon or following such exercise if a Repurchase Disability has occurred and is continuing, (i) to convert such Management Stockholder’s Company Common Stock to Company Non-Voting Common Stock and (ii) to purchase each share of Company Special Voting Stock held by such Management Stockholder from such Management Stockholder for a purchase price equal to par value of such share. The Company’s rights under this Section 8(e) shall be exercised by written notice to such Management Stockholder given in accordance with Section 16(f ) on or prior to the last day on which the Management Securities Call right may be exercised by the Company. 
-
-^^No Stockholder shall have any rights against the Company because of the Company’s election to waive, in its sole discretion, any of the Company’s rights with respect to the repurchase or conversion provisions set forth in this Section 8. 
-
-^^For the avoidance of doubt, the provisions set forth in this Section 8 shall be applicable, *mutatis mutandis*, to any Securities held by a Management Stockholder that is a Related Trust upon the Termination of Service of any Related Individual or upon any Related Individual’s engagement in a Competitive Activity, as applicable. 
-
-^^^^^ 
-
-Section 9.    Rights to Repurchase Securities held by Other Stockholders
-
-^^During the period beginning on the date that the Company becomes aware that an Other Stockholder has since the date of this Agreement engaged in or is engaging in Direct Competitive Activity and ending on the date nine (9) months following such date, the Company shall have the option to repurchase the Securities held by such Other Stockholder and/or his Related Trusts and Permitted Transferees (collectively, the “Other Stockholder Securities Call Right”). The Other Stockholder Securities Call Right may be exercised more than once. The Other Stockholder Securities Call Right shall be exercised by written notice (the “Other Stockholder Securities Call Notice”) to such Other Stockholder given in accordance with Section 16(f) below on or prior to the last day on which the Other Stockholder Securities Call Right may be exercised by the Company. For purposes of this Section 9, “Direct Competitive Activity” means being employed full-time, being employed part-time under an arrangement that requires [[Percentage 3: Number]]% of the Other Stockholder’s professional time in any 12-month period, or providing services as a consultant or independent contractor under an arrangement that requires more than [[Percentage 3]]% of the Other Stockholder’s professional time in any 12-month period, in any such case by or to one of the foregoing Persons or divisions: (i) Electronic Data Services Corporation, Jacobs Engineering Group, Science Applications International Corporation, BearingPoint, Inc., Accenture Ltd., CACI International Inc., ManTech International Corporation, Stanley Associates, Inc., VSE Corporation, SRA International, Inc., Deloitte Consulting LLP, ARINC Incorporated, Computer Sciences Corporation, Scitor Corporation, SRI International, Alion Science and Technology, MTC Technologies Inc., SI International, SPARTA, Inc., or Wyle Laboratories, Inc., or (ii) the U.S. government services divisions of BAE Systems, The Boeing Company, General Dynamics, Harris Corp., IBM, L3 Communications, Lockheed Martin, Raytheon or Northrop Grumman; provided, however, that “Direct Competitive Activity” will not include any activity engaged in as an employee of or consultant to Booz & Company Inc., a Delaware corporation and a wholly owned subsidiary of the Company (“Newco”), to the extent Newco was permitted to engage in such activity under the Spin Off Agreement, dated as of [[Date 1]], by and between the Company and Newco, Booz & Company Intermediate I Inc., a Delaware corporation and a wholly owned subsidiary of Newco (“Newco 2”), and Booz & Company Intermediate II Inc., a Delaware corporation and a wholly owned subsidiary of Newco 2. Notwithstanding the foregoing, the Company does not intend to exercise its Other Stockholder Securities Call Right with respect to any Security unless the Security has been held by the Other Stockholder (and/or his or her Related Trusts or Permitted Transferees) for at least six months. 
-
-^^The purchase price payable by the Company for the Securities held by such Other Stockholder upon exercise of the Other Stockholder Securities Call Right (the “Other Stockholder Securities Purchase Price”) shall equal (i) until the third anniversary of the date of this Agreement, the lesser of (A) the Fair Market Value of the Securities subject to the Other Stockholder Securities Call Right on the date of the Other Stockholder Securities Call Notice and (B) $[[USD Value 2: Number]] per share and (ii) after the third anniversary of the date of this Agreement, the Fair Market Value of the Securities subject to the Other Stockholder Securities Call Right on the date of the Other Stockholder Securities Call Notice. 
-
-^^^^^ 
-^^The repurchase of Securities pursuant to the exercise of the Other Stockholder Securities Call Right shall take place on a date specified by the Company, but in no event later than sixty (60) days following the date of the exercise of such Other Stockholder Securities Call Right or, if later, within ten (10) days following the receipt by the Company of all necessary governmental approvals. On such date, such Other Stockholder shall transfer the Securities subject to the Other Stockholder Securities Call Notice to the Company, free and clear of all liens and encumbrances, by delivering to the Company the certificates or other documents representing the Securities to be purchased, duly endorsed for transfer to the Company or accompanied by a stock power duly executed in blank, in each case reasonably acceptable to the Company, and the Company shall pay to such Other Stockholder the Other Stockholder Securities Purchase Price in cash or by bank or cashier’s check. 
-
-^^Notwithstanding any other provision of this Section 9, the Company shall not be permitted or obligated to make any payment with respect to a repurchase of any Securities from an Other Stockholder if there exists any Repurchase Disability; provided, that the Company shall provide the Other Stockholder with respect to whom the repurchase right has been exercised with a Disability Notice specifying the nature of the Repurchase Disability. If a repurchase by the Company otherwise permitted under this Section 9 is prevented by a Repurchase Disability: (i) the purchase and payment of the applicable purchase price shall be postponed and will take place at the first opportunity thereafter when the Company has funds legally available to make such payment and when such payment will not result in any default, event of default or violation under any of the Financing Agreements or in a violation of any term or provision of the certificate of incorporation of the Company, (ii) such repurchase obligation shall rank against other similar repurchase obligations with respect to Securities according to priority in time of the termination date giving rise to such repurchase and (iii) the applicable purchase price shall be increased by an amount equal to interest on such purchase price for the period during which payment is delayed at either, at the Company’s discretion, as determined on the date the Company exercises its repurchase right, (i) the applicable federal rate or (ii) the market rate of interest determined by the Company; provided, however, that if the Company has not repurchased Securities pursuant to this Section 9 within four years following the delivery of a Disability Notice, the Company shall thereafter have no right or obligation to repurchase such Securities. 
-
-^^No Stockholder shall have any rights against the Company because of the Company’s election to waive, in its sole discretion, any of the Company’s rights with respect to the repurchase provisions set forth in this Section 9. 
-
-^^For the avoidance of doubt, the provision set forth of this Section 9 shall be applicable, *mutatis mutandis*, to any Securities held by an Other Stockholder that is a Related Trust upon the engagement of any Related Individual in Direct Competitive Activity. 
-
-^^^^^ 
-
-Section 10.    [Reserved].
-
-Section 11.    Conversion of Company Non Voting Common Stock and Company Restricted Common Stock; Repurchase of Company Special Voting Stock.
-
-In the event of any sale of Securities that, but for Section 5(f) of the Company’s certificate of incorporation, would be shares of Company Non-Voting Common Stock or Company Restricted Common Stock, as the case may be, pursuant to (i) the exercise of Bring-Along Rights by the Carlyle Stockholders pursuant to Section 4 above, (ii) clause (a) of Section 2 above, or (iii) Section 6 above, such shares of Company Non-Voting Stock or Company Restricted Common Stock, as the case may be, shall, effective upon the consummation of such sale, be converted into shares of Company Common Stock pursuant to Section 5(f) of the Company’s certificate of incorporation. In the event that any Management Stockholder (x) sells a Company Option to a Third Party Purchaser pursuant to this Agreement or (y) Transfers or has Transferred Company Non-Voting Common Stock to a Permitted Transferee, in each case, without a Transfer of the related share of Company Special Voting Stock, if any (which related share, in the case of clause (y), was purchased by such Management Stockholder pursuant to Section 5), then the Company shall promptly purchase from such Management Stockholder (and, if applicable, any Permitted Transferee and/or Related Trust of such Management Stockholder), and such Management Stockholder (and, if applicable, any Permitted Transferee and/or Related Trust of such Management Stockholder) shall sell to the Company, such share of Company Special Voting Stock, at par value, in the case of clause (x), promptly following such sale to a Third Party Purchaser and in the case of clause (y), concurrently with any conversion of such Non-Voting Common Stock to Company Common Stock. 
-
-Section 12.    Section 280G Payments
-
-^^Except as otherwise provided in Section 12(b) below, in the event that it shall be determined that any right to receive an award, payment, deemed payment or other benefit or deemed benefit under any plan, arrangement or agreement (including, without limitation, the acceleration of the vesting and/or exercisability of an equity or other award and taking into account the effect of this Section 12) to or for the benefit of a Management Stockholder (the “Payments”), would, in whole or part when aggregated with any other right, payment or benefit to or for the Management Stockholder under all other agreements or benefit plans of the Company, constitute “parachute payments” made in connection with a “change in ownership or control” of a corporation, within the meaning of Section 280G of the Internal Revenue Code of 1986, as amended (the “Code”), which could reasonably be expected to result in the imposition of an excise tax on the Management Stockholder under Section 4999 of the Code or in the loss of any income tax deductions by the Company or the Person making such Payment under Section 280G of the Code if the value of any such “parachute payments” constitutes “excess parachute payments,” within the meaning of Section 280G of the Code, then, to the extent necessary to make the Payments deductible and not subject to excise taxes to the maximum extent possible (but only to such extent and after taking into account any reduction in the Payments relating to Section 280G of the Code under any other plan, arrangement or agreement), the Payments shall not become exercisable, vested or payable. For purposes of determining 
-
-^^^^^ 
-whether any of the Payments would not be deductible as a result of Section 280G of the Code or would be subject to an excise tax under Section 4999 of the Code and the amount of such disallowed deduction or excise tax, all Payments will be treated as “parachute payments” within the meaning of Section 280G of the Code, and all “parachute payments” in excess of the “base amount” (as defined under Section 280G(b)(3) of the Code) shall be treated as nondeductible and subject to the excise tax, unless and except to the extent that in the opinion of a nationally recognized accounting firm selected by the Company (the “Accountants”), such Payments (in whole or in part) either do not constitute “parachute payments,” including by reason of Section 280G(b)(4) of the Code, or are otherwise not subject to disallowance as a deduction or not subject to the excise tax. All determinations required to be made under this Section 12(a), including whether and which of the Payments are required to be reduced, the amount of such reduction and the assumptions to be utilized in arriving at such determinations, shall be made by the Accountants, provided, however, that such determinations shall be based upon “substantial authority” within the meaning of Section 6662 of the Code. 
-
-^^Notwithstanding any other provision of this Agreement, the provisions of Section 12(a) above shall not apply to reduce the Payments if (i) the Payments that would otherwise be nondeductible under Section 280G of the Code or subject to an excise tax under Section 4999 of the Code are disclosed to and approved by the Stockholders in accordance with Section 280G(b)(5)(B) of the Code and the regulation codified at 26 C.F.R. § 1.280G-1 (the “280G Regulations”), (ii) immediately before the change in ownership or control the Company does not meet the requirements of Section 280G(b)(5)(A)(ii)(I) and the 280G Regulations, (iii) the Company fails to comply with Section 12(c) or (iv) prior to the earlier of (A) the applicable change in ownership or control and (B) the stockholder meeting called by the Company pursuant to Section 12(c), the Unaffiliated Directors, acting at the request of either Executive Director and taking into account all relevant considerations, including the rights of the Management Stockholders, determines that the provisions of Section 12(a) shall not apply to such Payments. 
-
-^^The Company shall use its commercially reasonable best efforts to prepare and deliver to the Stockholders the disclosure required by Section 280G(b)(5)(B) of the Code with respect to the Payments and to obtain the approval of the Stockholders in accordance with to Section 12(b) above prior to the applicable change in ownership or control. 
-
-Section 13.    Termination.
-
-Subject to the ability to terminate specific provisions of this Agreement set forth in Section 16(k), this Agreement, and the respective rights and obligations of the Parties, shall terminate upon the earliest of (a) the consummation of a Company Sale and (b) such time as more than [[Percentage 4: Number]]% of the Securities have been sold to the public pursuant to an effective registration statement (other than a sale by the Company pursuant to a registration statement on Form S-8) or in accordance with Rule 144 or another exemption from registration. 
-
-Section 14.    Certain Definitions.
-
-^^As used in this Agreement, the following terms shall have the meanings set forth below. 
-
-^^^^^ 
-“Administrator” means the Board or any Committee appointed by the Board to administer the Equity Incentive Plan, as such plan may be modified or supplemented from time to time by the Board. 
-
-“Affiliate” means, with respect to any Person, any Person directly or indirectly controlling, controlled by or under common control with such Person. For purposes of this definition, “control” (and its derivatives) means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether by contract, through the ownership of voting securities, as trustee or executor, or otherwise. 
-
-“Aggregate Quantity of Securities” means, with reference to Securities owned by any Person at any time or Securities outstanding at any time for purposes of any computation hereunder, the number of shares of Company Common Stock, Company Restricted Common Stock and Company Non-Voting Common Stock issued and outstanding and held by such Person or all Persons, as the case may be, plus the number of shares of Company Common Stock issuable upon exercise, exchange or conversion of Company Options held by such Person or all Persons, as the case may be, excluding any Company Options issued under the Equity Incentive Plan which are not vested at such time. Further, the phrase “number of Securities” held by any Person or group of Persons or to be Transferred shall mean the number of shares of Company Common Stock, Company Restricted Common Stock and Company Non-Voting Common Stock held by such Person or group of Persons or to be Transferred, plus the number of shares of Company Common Stock issuable upon exercise, exchange or conversion of Company Options held by such Person or group of Persons (other than Company Options that have an exercise, exchange or conversion price per share greater than the price per share to be paid by the applicable Third Party Purchaser(s)). 
-
-“Business Day” means a day except a Saturday, a Sunday or other day on which banks in the City of New York are authorized or required by federal or state law to be closed. 
-
-“Carlyle Stockholders” means (a) the Initial Carlyle Stockholder and (b) any Affiliates of the Initial Carlyle Stockholder to which (i) the Initial Carlyle Stockholder or any other Person transfers Company Common Stock or (ii) the Company issues Company Common Stock. 
-
-“Cause” has the meaning specified in the Equity Incentive Plan. 
-
-“Company Approved Termination” means a termination of employment that the Company (through the members of its senior management), in its sole discretion, determines to be in the best interest of the Company and the Company’s approval of such termination as a Company Approved Termination is approved or ratified by the Board of Directors. 
-
-“Company Common Stock” means shares of the Company’s Class A Common Stock, par value $[[USD Value 3: Number]] per share. 
-
-“Company Non-Voting Common Stock” means shares of the Company’s Class B Non-Voting Common Stock, par value $[[USD Value 3]] per share. 
-
-^^^^^ 
-“Company Options” means options, issued in an Exchange or as Merger Consideration pursuant to the Merger Agreement, or any options issued thereafter, to purchase shares of Company Common Stock pursuant to an option agreement and the Company Rollover Stock Plan, the Equity Incentive Plan or any similar equity-based plans approved by the Board. 
-
-“Company Restricted Common Stock” means shares of the Company’s Class C Restricted Common Stock, par value $[[USD Value 3]] per share. 
-
-“Company Rollover Stock Plan” means the Officer’s Rollover Stock Plan of the Company, as such plan may be modified or supplemented from time to time by the Board. 
-
-“Company Sale” means the consummation of any transaction or series of transactions (including, without limitation, any merger, recapitalization, reorganization, sale of stock or other similar transaction) pursuant to which one or more Persons or group of Persons (other than any Carlyle Stockholder) acquires (a) Securities possessing the voting power (without taking into account this Agreement or any other agreement or proxy limiting the voting power of the holder of such Securities) sufficient to elect a majority of the members of the Board or the board of directors of the successor to the Company (whether such transaction is effected by merger, consolidation, recapitalization, sale or transfer of the Company’s capital stock or otherwise) or (b) all or substantially all of the assets of the Company and its subsidiaries. 
-
-“Company Special Voting Stock” means shares of the Company’s Class E Special Voting Stock, par value $[[USD Value 4: Number]] per share. 
-
-“Competitive Activity” means directly or indirectly, engaging in or providing, or owning, investing in, managing, joining, operating or controlling, or participating in the ownership, management, operation or control of or being connected as a director, officer, employee, partner, member, consultant, or otherwise with, any business enterprise (whether for profit or not for profit) which is engaged in the business of providing consulting services, either management or technical, staff augmentation, or any related services which the Company or any of its divisions or subsidiaries provides for any U.S. Governmental Entity or any other business activities that, as of the date of the officer’s termination of employment, are directly competitive, in any geographic area in which the Company or any of its divisions or subsidiaries engages in business activities, with the business activities of the Company or any of its divisions, subsidiaries or affiliates (including any material business activities that, to the knowledge of the officer, the Company or any of its respective divisions, subsidiaries or affiliates were planning to engage in prior to the officer’s termination of employment as evidenced by reasonably documented plans and actions and that, to the officer’s knowledge, were still being actively pursued by the Company as of the date of such termination), in each case that is not approved in writing by the Administrator; provided, however, that (i) direct employment as an employee of (and not as a consultant or advisor to) any U.S. federal, state or local Governmental Entity shall not be considered a Competitive Activity; (ii) the officer’s acquisition of a passive stock or equity interest in such a business, which represents not more than five percent ([[Percentage 5: Number]]%) of the outstanding interest in such business shall not be considered a Competitive Activity; and (iii) employment by a competitor shall not be considered a Competitive Activity if (and only if) (A) the competitor 
-
-^^^^^ 
-has more than one discrete business unit and, at the time of the officer’s employment with the competitor, the businesses of the competitor that do not compete with the Company and its Subsidiaries are responsible for [[Percentage 6: Number]]% or more of the revenue of such competitor; (B) the officer’s duties relate solely to one or more business units that do not compete directly or indirectly with the Company or any of its Subsidiaries; (C) the officer is not providing any services or charged with any duties (including reporting duties) with respect to the business unit that is in competition with the Company or any of its Subsidiaries; and (D) if requested by the Company, the officer certifies in writing to the Company within thirty (30) days of receipt of such request that the position satisfies the requirements of this proviso. In the event any court of competent jurisdiction shall find that any provision hereof relating to Competitive Activity is not enforceable in accordance with its terms, the court shall reform such provisions such that the provisions shall be enforceable to the maximum extent permissible by law. 
-
-“Disability” has the meaning specified in the Equity Incentive Plan. 
-
-“Equity Incentive Plan” means the Equity Incentive Plan of the Company, as adopted on or prior to the date hereof, as such plan may be modified or supplemented from time to time by the Board. 
-
-“Exchange Act” means the Securities and Exchange Act of 1934, as amended. 
-
-“Fair Market Value” means, as of any date of determination, the fair market value of any given asset, including, without limitation, the applicable Securities, as determined by the Board in good faith with reference to the most recent valuation of the Company Common Stock performed by an independent valuation consultant or appraiser of nationally recognized standing (which valuation shall be prepared not less frequently than annually), provided, that the Fair Market Value of any vested Company Option shall be equal to the Fair Market Value of a share of Company Common Stock, minus the exercise price of such Company Option and provided, further, that the Fair Market Value of each share of Company Special Voting Stock shall be its par value at all times. 
-
-“Individual Stockholder” means any Person that is a Party to this Agreement other than the Carlyle Stockholders. 
-
-“Leadership Team” means the group of senior executives of the Company with policy-making functions, as designated by the Chief Executive Officer. 
-
-“Management Stockholder” means any Person identified as a “Management Stockholder” on the signature pages to this Agreement or the Original Agreement. 
-
-“Other Stockholder” means any Person identified as an “Other Stockholder” on the signature pages to this Agreement or the Original Agreement. 
-
-“Party” means any of the parties to this Agreement. 
-
-^^^^^ 
-“Person” means any individual, corporation, partnership, limited partnership, limited liability company, syndicate, trust, association or other entity. 
-
-“Proxy and Tag-Along Agreements” has the meaning set forth in the Recitals. 
-
-“Registrable Securities” means (a) (i) shares of Company Common Stock held by a Stockholder, (ii) shares of Company Common Stock issuable upon exercise of any vested Company Options and (iii) shares of Company Common Stock issuable upon exchange of shares of Company Non-Voting Common Stock or Company Restricted Common Stock; and (b) any securities issued or issuable with respect to any of the foregoing (x) upon any conversion or exchange thereof, (y) by way of stock dividend or other distribution, stock split or reverse stock split or (z) in connection with a combination of shares, recapitalization, merger, consolidation, exchange offer or other reorganization. As to any particular Registrable Securities, once issued such securities shall cease to be Registrable Securities when (A) a registration statement with respect to the sale of such securities shall have become effective under the Securities Act and such securities shall have been disposed of in accordance with such registration statement, unless such securities are acquired and held by a Stockholder who is an affiliate (within the meaning of Rule 144) of the Company, (B) such securities shall have been distributed to the public in reliance upon Rule 144, (C) such securities shall have been otherwise transferred, new certificates for such securities not bearing a legend restricting further transfer shall have been delivered by the Company and subsequent disposition of such securities shall not require registration or qualification of such securities under the Securities Act, (D) such securities shall have been acquired by the Company, or (E) with respect to any such securities acquired by a Stockholder pursuant to the exemption from the registration requirements of the Securities Act contained in Rule 701 (or any successor provision) thereunder, at any time after the period described in Section 2(a), such securities have not at any time during the last six months been subject to any holdback obligation or other transfer restriction under Section 2 or Section 6. 
-
-“Related Individual” means, for any entity or trust, the natural person who initially transferred, assigned or otherwise granted to such entity or trust (i) Securities of the Company or (ii) securities of [[BAH]], Inc. that were exchanged for Securities of the Company. 
-
-“Related Trust” means, for any natural person, any trusts or entities to which such natural person transferred, assigned or otherwise granted (i) Securities of the Company or (ii) securities of [[BAH]], Inc. that were exchanged for Securities of the Company. 
-
-“Rollover Options” means options, issued in an Exchange or as Merger Consideration pursuant to the Merger Agreement, to purchase shares of Company Common Stock pursuant to an option agreement and the Company Rollover Stock Plan. 
-
-“Rule 144” means Rule 144 (or any successor provision) under the Securities Act. 
-
-“Same Terms and Conditions” means the same price and otherwise on the same terms and conditions; provided, however, that (a) any price paid for options will be subject to reduction for the applicable exercise price, (b) the form of consideration paid may be different so long as (i) the different forms of consideration have the same Fair Market Value as of the date of 
-
-^^^^^ 
-approval by the Board of the applicable definitive agreement and (ii) no Carlyle Stockholder receives any form of consideration (including with respect to vesting and exercise provisions and similar restrictions) that the Individual Stockholders are not entitled to receive in the same proportion, (c) the Carlyle Stockholders may receive, even if not offered to the Individual Stockholders, rights to appoint members of the board of directors or similar governing body of the Third Party Purchaser or any of its Affiliates, or any other governance rights (including board observer rights), and (d) the Carlyle Stockholders may receive, even if not offered to Individual Stockholders, rights to Transfer any Securities received in such transaction not given to Individual Stockholders so long as the Individual Stockholders are permitted to Transfer their Securities on a pro rata basis with the Carlyle Stockholders. 
-
-“Securities” means (a) (i) shares of Company Common Stock, (ii) shares of Company Restricted Common Stock, (iii) shares of Company Non-Voting Common Stock, (iv) shares of Company Special Voting Stock and (v) Company Options; and (b) any securities issued or issuable with respect to any of the foregoing (x) upon any conversion or exchange thereof, (y) by way of stock dividend or other distribution, stock split or reverse stock split or (z) in connection with a combination of shares, recapitalization, merger, consolidation, exchange offer or other reorganization. 
-
-“Senior Officers” means the Chief Executive Officer, the Chief Financial Officer or the General Counsel of the Company. 
-
-“Service Provider” has the meaning specified in the Equity Incentive Plan. 
-
-“Share” means a share of Company Common Stock, Company Non-Voting Common Stock or Company Restricted Common Stock. 
-
-“Special Registration” means the registration of Securities and/or options or other rights in respect thereof solely on Form S-4 or S-8 or any successor form. 
-
-“Stockholders” means the Carlyle Stockholders and the Individual Stockholders. 
-
-“Termination of Service” means the time when a Management Stockholder ceases to be a Service Provider for any reason, whether for cause or without cause, including, but not by way of limitation, a termination by resignation, discharge, death or retirement, but excluding a termination where there is a simultaneous reemployment or reengagement by the Company or one of its subsidiaries. 
-
-“Transfer” means any direct or indirect sale, transfer, assignment, conveyance, pledge, by operation of law or otherwise, or other encumbrance or disposition, but does not include the sale of any shares of Company Special Voting Stock of the Company in accordance with the Company Rollover Stock Plan. 
-
-“Voting Shares” means shares of Company Common Stock, Company Restricted Common Stock and Company Special Voting Stock. 
-
-^^^^^ 
-^^The following terms have the meaning set forth in the Sections set forth below: 
-
-\centered 
-
-**Defined Term**    **Location of Definition** Accountants    Section 12(a) Agreement    Preamble BAH    Recitals Board    Section 1(a) Bring-Along Notice    Section 4(b) Bring-Along Right    Section 4(a) Buyer    Recitals Code    Section 12(a) Company    Preamble Demand Registration    Section 6(a) Directors    Section 1(a) Direct Competitive Activity    Section 9(a) Disability Notice    Section 8(d) Down-Round Preemptive Right    Section 10(a) Equity Securities    Section 10(b) Executive Directors    Section 1(a) Executive Stockholder    Section 3(a) Financing Agreements    Section 8(d) Foreclosed Securities    Section 2 Foreclosure Transferee    Section 2 Initial Carlyle Stockholder    Preamble IPO    Recitals Lender    Section 2 Management Securities Call Notice    Section 8(a) Management Securities Call Right    Section 8(a) Management Securities Purchase Price    Section 8(b) Merger    Preamble Merger Agreement    Preamble Merger Sub    Recitals Newco    Section 9(a) Newco 2    Section 9(a) Individual Stockholders    Preamble Other Stockholder Securities Call Notice    Section 9(a) Other Stockholder Securities Call Right    Section 9(a) Other Stockholder Securities Purchase Price    Section 9(b) Payments    Section 12(a) Permitted Transfer    Section 5(a) Permitted Transferee    Section 5(a) Piggyback Registration    Section 6(b) Registration Request    Section 6(a)  
-
-^^^^^ 
-\centered 
-
-**Defined Term**    **Location of Definition** Repurchase Date    Section 8(b) Repurchase Disability    Section 8(d) Securities Act    Section 2 Third Party Purchaser    Section 4(a) Third Party Terms    Section 4(b) Unaffiliated Directors    Section 1(a) 280G Regulations    Section 12(b)  
-
-^^Terms used but not defined herein have the meanings ascribed to them in the Merger Agreement. 
-
-Section 15.    Effectiveness.
-
-^^This Agreement shall become effective upon the effectiveness of the registration statement relating to the IPO and shall be null and void with no force and effect if the IPO is not consummated within 60 days thereafter. 
-
-Section 16.    Miscellaneous.
-
-^^Legends. Each certificate representing the securities issued by the Company and held by a Stockholder shall bear the following legends; provided, that the legend set forth below will be removed promptly from the certificates evidencing any securities which cease to be Registrable Securities in accordance with the definition of such term herein, or would cease to be Registrable Securities upon deliver of unlegended certificates by the Company: 
-
-“THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (“ACT”), OR THE SECURITIES LAWS OF ANY STATE AND MAY NOT BE SOLD OR TRANSFERRED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT AND SAID LAWS OR AN EXEMPTION FROM THE REGISTRATION REQUIREMENTS THEREOF.” 
-
-“THE SECURITIES REPRESENTED HEREBY ARE SUBJECT TO THE REPURCHASE RIGHTS, ADDITIONAL RESTRICTIONS ON TRANSFER AND CERTAIN OTHER AGREEMENTS SET FORTH IN THE [[BAH]] HOLDING CORPORATION OFFICERS’ ROLLOVER STOCK PLAN AND AN AMENDED AND RESTATED STOCKHOLDERS AGREEMENT BETWEEN THE ISSUER AND THE STOCKHOLDERS AND OPTIONHOLDERS OF THE ISSUER, DATED AS OF [], 2010. A COPY OF SUCH PLAN AND AGREEMENT SHALL BE FURNISHED WITHOUT CHARGE BY THE ISSUER TO THE HOLDER HEREOF UPON WRITTEN REQUEST.” 
-
-^^^^^ 
-^^Successors, Assigns and Transferees. This Agreement shall be binding upon and inure to the benefit of the Parties and their respective legal representatives, heirs, legatees, successors, and assigns and any other transferee and shall also apply to any securities acquired by a Stockholder after the date hereof. 
-
-^^Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without giving effect to its principles or rules of conflict of laws to the extent such principles or rules are not mandatorily applicable by statute and would require or permit the application of the laws of another jurisdiction. 
-
-^^Specific Performance; Submission to Jurisdiction. The Parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the Parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement in federal and state courts located in Wilmington, Delaware, this being in addition to any other remedy to which such party is entitled at law or in equity. In addition, each of the Parties hereto (i) consents to submit itself to the personal jurisdiction of the federal and state courts located in Wilmington, Delaware in the event any dispute arises out of this Agreement or any of the transactions contemplated by this Agreement; (ii) agrees that it will not attempt to deny or defeat such personal jurisdiction by motion or other request for leave from such court, (iii) agrees that it will not bring any action relating to this Agreement or any of the transactions contemplated by this Agreement in any court other than the federal or state courts located in Wilmington, Delaware, and (iv) to the fullest extent permitted by Law, consents to service being made through the notice procedures set forth in Section 16(f). Each party hereto hereby agrees that, to the fullest extent permitted by Law, service of any process, summons, notice or document by U.S. registered mail to the respective addresses set forth in Section 16(f) shall be effective service of process for any suit or proceeding in connection with this Agreement or the transactions contemplated hereby. 
-
-^^Interpretation. The headings of the Sections contained in this Agreement are solely for the purpose of reference, are not part of the agreement of the Parties and shall not affect the meaning or interpretation of this Agreement. The words “this Agreement”, “herein”, “hereunder”, “hereof”, “hereby”, or other words of similar import refer to this Agreement as a whole and not to any particular Article, Section or other subdivision hereof. Unless the context requires otherwise, pronouns in the masculine, feminine and neuter genders shall be construed to include any other gender, and words in the singular form shall be construed to include the plural and vice versa. 
-
-^^Notices. All notices and other communications provided for or permitted hereunder shall be in writing and shall be deemed to have been duly given and received when delivered by overnight courier or hand delivery, when sent by telecopy, or five (5) days after mailing if sent by registered or certified mail (return receipt requested) postage prepaid, to the Parties at the following addresses (or at such other address for any Party as shall be specified by like notices). 
-
-^^^^^ 
-^^^If to any Carlyle Stockholder, addressed to such Carlyle Stockholder, c/o The Carlyle Group, at:
-
-1001 Pennsylvania Avenue, N.W.
-
-Washington, DC 20004
-
-Attention: Ian Fujiyama
-
-Facsimile: [[Phone 1]] 
-
-With a copy to:  
-Debevoise & Plimpton LLP
-
-919 Third Avenue
-
-New York, NY 10022
-
-Attention: Jeffrey J. Rosen
-
-Facsimile: [[Phone 2]] 
-
-And a copy to:  
-[[BAH]] Inc.
-
-8283 Greensboro Drive
-
-McLean, Virginia 22012
-
-Attention: Law Department
-
-Facsimile: [[Phone 3]] 
-
-^^^If to any Individual Stockholder, to the address set forth on such Stockholder’s signature page hereto.
-
-With a copy to:  
-[[BAH]] Inc.
-
-8283 Greensboro Drive
-
-McLean, Virginia 22012
-
-Attention: Law Department
-
-Facsimile: [[Phone 3]] 
-
-^^^If to the Company:
-
-[[BAH]] Inc.
-
-8283 Greensboro Drive
-
-McLean, Virginia 22012
-
-Attention: Law Department
-
-Facsimile: [[Phone 3]] 
-
-^^^^^ 
-With a copy to:  
-Debevoise & Plimpton LLP
-
-919 Third Avenue
-
-New York, NY 10022
-
-Attention: Jeffrey J. Rosen
-
-Facsimile: [[Phone 2]] 
-
-And a copy to:  
-c/o The Carlyle Group
-
-1001 Pennsylvania Avenue, N.W.
-
-Washington, DC 20004
-
-Attention: Ian Fujiyama
-
-Facsimile: [[Phone 1]] 
-
-^^Recapitalization, Exchange, Etc. Affecting the Company’s Capital Stock. The provisions of this Agreement shall apply, to the full extent set forth herein, with respect to any and all Securities and all of the shares of capital stock of the Company or any successor or assign of the Company (whether by merger, consolidation, sale of assets, or otherwise) that may be issued in respect of, in exchange for, or in substitution of such Securities, and shall be appropriately adjusted for any stock dividends, splits, reverse splits, combinations, recapitalizations, and the like occurring after the date hereof. 
-
-^^Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to constitute one and the same agreement. Any facsimile copies hereof or signature thereon shall, for all purposes, be deemed originals. 
-
-^^Attorney’s Fees. In any action or proceeding brought to enforce any provision of this Agreement, the successful Party shall be entitled to recover reasonable attorney’s fees and expenses in addition to any other available remedy. 
-
-^^Severability. In the event that any one or more of the provisions contained herein, or the application thereof in any circumstances, is held invalid, illegal, or unenforceable in any respect for any reason, the validity, legality, and enforceability of any such provision in every other respect and of the remaining provisions contained herein shall not be in any way impaired thereby. 
-
-^^Amendment. The provisions of each Section of this Agreement (including any defined terms to the extent such defined terms are used in any Section) may be amended or terminated and the observance thereof may be waived (either generally or in a particular instance and either retroactively or prospectively) only as follows: 
-
-^^^with respect to any amendments, terminations or waivers relating to the provisions of Section 1, Section 3, Section 4, or Section 16(m), by the written 
-
-^^^^^ 
-consent of the Company (approved by the Board), the Carlyle Stockholders and the Executive Stockholders holding a majority of the Securities held by the Executive Stockholders; 
-
-^^^with respect to any waivers of the provisions of Section 2 or Section 5 or any amendments or terminations thereof of generally applicability, by the written consent of the Company (approved by the Board); provided that any such amendment or termination of such Sections that would have the effect of imposing additional restrictions on the ability of the Individual Stockholders to Transfer Securities thereunder shall require the written consent of the Individual Stockholders holding a majority of the Securities held by the Individual Stockholders; 
-
-^^^with respect to any amendments, terminations or waivers relating to the provisions of Section 8, by the written consent of the Company (approved by the Board), the Carlyle Stockholders and the Management Stockholders holding a majority of the Securities held by the Management Stockholders; 
-
-^^^with respect to any amendments, terminations or waivers relating to the provisions of Section 9, by the written consent of the Company (approved by the Board), the Carlyle Stockholders and the Other Stockholders holding a majority of the Securities held by the Other Stockholders; 
-
-^^^with respect to any amendments, terminations or waivers relating to the provisions of Section 11, by the written consent of the Company (approved by the Board); and 
-
-^^^with respect to any amendments, terminations or waivers relating to the provisions of Section 6, Section 7, Section 10, Section 12, Section 13, Section 14 (except as otherwise provided herein), Section 15 or Section 16 (other than subsection (m)), by the written consent of the Company (approved by the Board) and the Carlyle Stockholders; provided that if such amendment, termination or waiver by its terms would materially and adversely affect the rights or obligations of the Individual Stockholders as compared to the Carlyle Stockholders, then such amendment, termination or waiver shall require the consent of the Individual Stockholders holding a majority of the Securities held by Individual Stockholders. 
-
-In addition to the foregoing, (x) if any such amendment, termination or waiver would by its terms materially and adversely affect the rights or obligations of a particular Stockholder in a manner materially different from or disproportionate to other similarly situated Stockholders, then such amendment, termination or waiver shall require such Stockholder’s prior written consent and (y) if any such amendment, termination or waiver would materially and adversely affect the rights or obligations of the Individual Stockholders and either (I) would in doing so adversely affect the Other Stockholders in a manner materially different from or disproportionate to, the Management Stockholders, or (II) is being made in connection with, or pursuant to a transaction associated with, the payment or grant to the Management Stockholders of a material amount of new or additional cash, property or other valuable rights (other than reasonable 
-
-^^^^^ 
-compensation arrangements for officers entered into in connection with any public offering) which are not being paid or granted to the Other Stockholders, then such amendment, termination or waiver shall require the prior written consent of Other Stockholders holding a majority of the Securities held by Other Stockholders. Any amendment, termination or waiver effected in accordance with this Section 16(k) shall be binding upon the Company, the Carlyle Stockholders and their successors and assigns and the Individual Stockholders and their successors and assigns. At any time hereafter, additional Stockholders may be made Parties hereto by (x) executing a signature page in the form attached as Exhibit A hereto, which signature page shall be countersigned by the Company and shall be attached to this Agreement and become a part hereof without any further action of any other Party hereto and (y) if such Stockholder is a resident of a state with a community or marital property system, by causing the spouse of such Stockholder to execute a spousal waiver in the form attached as Exhibit B. 
-
-^^Tax Withholding. The Company shall be entitled to require payment in cash or deduction from other compensation payable to any Stockholder of any sums required by federal, state, or local tax law to be withheld with respect to the issuance, vesting, exercise, repurchase, or cancellation of any Share or any option to purchase Securities. 
-
-^^Appointment of Proxy. Each Executive Stockholder hereby appoints Explorer Coinvest LLC as his true and lawful proxy and attorney-in-fact, with full power of substitution, to vote all of such Executive Stockholder’s Voting Shares (i) for the election and removal of Directors and for all other matters provided for in Section 1 (other than Sections 1(f) and 1(g)) and (ii) for all matters set forth in Section 4(e); provided that such proxy shall not include the power to vote in any meeting or other process chosen by the Executive Stockholders to select designees as contemplated by Section 1(a). The proxies and powers granted pursuant to this Section 16(m) are coupled with an interest and are given to secure the performance of this Agreement. Such proxies and powers are irrevocable and binding upon the Executive Stockholders and the successors, assigns, representatives and executors thereof until the termination of this Agreement and shall revoke any and all prior proxies granted by the Executive Stockholder with respect to such Executive Stockholder’s Voting Shares (other than any prior proxies granted to Explorer Coinvest LLC pursuant to a Proxy and Tag-Along Agreement). 
-
-^^Entire Agreement. This Agreement (including any and all exhibits, schedules and other instruments contemplated thereby) constitute the entire agreement of the Parties with respect to the subject matter hereof. 
-
-\centered [remainder of page intentionally left blank.] 
-
-^^^^^ 
-IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first written above. 
-
-[[BAH]] HOLDING CORPORATION**
-[[BAH HOLDING CORPORATION Signatory Email: Identity | Signature]]
+[[ALTERRA CAPITAL HOLDINGS LIMITED Signatory Email: Identity | Signature]]
 __________________________________________
-{{BAH HOLDING CORPORATION Entity => By: [[BAH HOLDING CORPORATION Signatory First Name]] [[BAH HOLDING CORPORATION Signatory Last Name]]
-Title: [[BAH HOLDING CORPORATION Signatory Title]]}}
+{{ALTERRA CAPITAL HOLDINGS LIMITED Entity => By: [[ALTERRA CAPITAL HOLDINGS LIMITED Signatory First Name]] [[ALTERRA CAPITAL HOLDINGS LIMITED Signatory Last Name]]
+Title: [[ALTERRA CAPITAL HOLDINGS LIMITED Signatory Title]]}}
 
-Title:
 
-\centered [Signature Page to Stockholders Agreement] 
+Acknowledged and agreed as of the date first above written: 
 
-^^^^^ 
+[ ]
 
-**EXPLORER COINVEST LLC**  By: Carlyle Partners V US, L.P., its managing member  By: TC Group V US, L.P., its general partner  By: TC Group V US, L.L.C., its general partner  By: TC Group Investment Holdings, L.P., its managing member  By: TCG Holdings II, L.P., its general partner
-[[EXPLORER COINVEST LLC  By Carlyle Partners V US L.P. its managing member  By TC Group V US L.P. its general partner  By TC Group V US L.L.C. its general partner  By TC Group Investment Holdings L.P. its managing member  By TCG Holdings II L.P. its general partner Signatory Email: Identity | Signature]]
+[[Amalgamation Signatory Email: Identity | Signature]]
 __________________________________________
-{{EXPLORER COINVEST LLC  By Carlyle Partners V US L.P. its managing member  By TC Group V US L.P. its general partner  By TC Group V US L.L.C. its general partner  By TC Group Investment Holdings L.P. its managing member  By TCG Holdings II L.P. its general partner Entity => By: [[EXPLORER COINVEST LLC  By Carlyle Partners V US L.P. its managing member  By TC Group V US L.P. its general partner  By TC Group V US L.L.C. its general partner  By TC Group Investment Holdings L.P. its managing member  By TCG Holdings II L.P. its general partner Signatory First Name]] [[EXPLORER COINVEST LLC  By Carlyle Partners V US L.P. its managing member  By TC Group V US L.P. its general partner  By TC Group V US L.L.C. its general partner  By TC Group Investment Holdings L.P. its managing member  By TCG Holdings II L.P. its general partner Signatory Last Name]]
-Title: [[EXPLORER COINVEST LLC  By Carlyle Partners V US L.P. its managing member  By TC Group V US L.P. its general partner  By TC Group V US L.L.C. its general partner  By TC Group Investment Holdings L.P. its managing member  By TCG Holdings II L.P. its general partner Signatory Title]]}}
+{{Amalgamation Entity => By: [[Amalgamation Signatory First Name]] [[Amalgamation Signatory Last Name]]
+Title: [[Amalgamation Signatory Title]]}}
 
 
-\centered [Signature Page to Stockholders Agreement] 
+**EXHIBIT A** 
 
-^^^^^ 
-\centered EXHIBIT A-1 
+\centered **EXERCISE AGREEMENT** 
 
-\centered SIGNATURE PAGE  TO  STOCKHOLDERS AGREEMENT 
+To: **ALTERRA CAPITAL HOLDINGS LIMITED** 
 
-[[Initial Carlyle Stockholder Signatory Email: Identity | Signature]]
+^The undersigned hereby irrevocably elects to subscribe for and offers to purchase Common Shares of Alterra Capital Holdings Limited, pursuant to Warrant No. heretofore issued to on . 
+
+^Method of exercise (please initial the applicable blank) 
+
+The undersigned elects to exercise the attached Warrant by means of cash payment, and tenders herewith payment in full for the purchase price of the shares being purchased, together with all applicable transfer taxes, if any.
+
+The undersigned elects to exercise the attached Warrant by means of the cashless exercise provisions of Section 3 of the Warrant.
+
+^Please issue a certificate or certificates representing said Common Shares in the name of the undersigned or in such other name as is specified below: 
+
+(Name)
+
+The Common Shares shall be delivered: 
+
+[[The Common Shares shall be delivered Signatory Email: Identity | Signature]]
 __________________________________________
-{{Initial Carlyle Stockholder Entity => By: [[Initial Carlyle Stockholder Signatory First Name]] [[Initial Carlyle Stockholder Signatory Last Name]]
-Title: [[Initial Carlyle Stockholder Signatory Title]]}}
+{{The Common Shares shall be delivered Entity => By: [[The Common Shares shall be delivered Signatory First Name]] [[The Common Shares shall be delivered Signatory Last Name]]
+Title: [[The Common Shares shall be delivered Signatory Title]]}}
 
-\centered 
-
-Signature: 
-
-\centered 
-
-Address: 
-
-\centered 
-
-Facsimile: 
-
-\centered [Signature Page to Stockholders Agreement] 
-
-^^^^^ 
-\centered EXHIBIT A-2 
-
-\centered SIGNATURE PAGE  TO  STOCKHOLDERS AGREEMENT 
-
-[[Party 4 Signatory Email: Identity | Signature]]
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
 __________________________________________
-{{Party 4 Entity => By: [[Party 4 Signatory First Name]] [[Party 4 Signatory Last Name]]
-Title: [[Party 4 Signatory Title]]}}
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
 
-\centered 
 
-Signature: 
+Date:
 
-\centered 
+**EXHIBIT B** 
 
-Address: 
+\centered **ASSIGNMENT** 
 
-\centered 
+FOR VALUE RECEIVED, hereby sells, assigns and transfers all of the rights of the undersigned under the attached Warrant (Certificate No.:), with respect to the number of Common Shares covered thereby set forth below, unto: 
 
-Facsimile: 
+**Name of Assignee**      \centered **Address**      \centered **No. of Shares**
 
-\centered [Separation Agreement] 
+Dated: 
 
-^^^^^ 
-\centered EXHIBIT A-3 
+Signature
 
-\centered SIGNATURE PAGE  TO  STOCKHOLDERS AGREEMENT 
+Address
 
-[[Party 6 Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 6 Entity => By: [[Party 6 Signatory First Name]] [[Party 6 Signatory Last Name]]
-Title: [[Party 6 Signatory Title]]}}
-
-\centered 
-
-Signature: 
-
-\centered 
-
-Address: 
-
-\centered 
-
-Facsimile: 
-
-\centered [Separation Agreement] 
-
-^^^^^ 
-\centered EXHIBIT A-4 
-
-\centered SIGNATURE PAGE  TO  STOCKHOLDERS AGREEMENT  TRUST 
-
-[[Party 7 Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 7 Entity => By: [[Party 7 Signatory First Name]] [[Party 7 Signatory Last Name]]
-Title: [[Party 7 Signatory Title]]}}
-
-\centered 
-
-Signature of Trustee: 
-
-\centered 
-
-Name of Trustee: 
-
-\centered 
-
-Address of Trust: 
-
-\centered 
-
-Facsimile: 
-
-Accepted and Agreed by:  
-
-\centered 
-
-Signature of Related Individual: 
-
-\centered 
-
-Name: 
-
-\centered [Signature Page to Stockholders Agreement] 
-
-^^^^^ 
-\centered EXHIBIT A-5 
-
-\centered SIGNATURE PAGE  TO  STOCKHOLDERS AGREEMENT  TRUST 
-
-[[Party 5 Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 5 Entity => By: [[Party 5 Signatory First Name]] [[Party 5 Signatory Last Name]]
-Title: [[Party 5 Signatory Title]]}}
-
-\centered 
-
-Signature of Trustee: 
-
-\centered 
-
-Name of Trustee: 
-
-\centered 
-
-Address of Trust: 
-
-\centered 
-
-Facsimile: 
-
-Accepted and Agreed by:  
-
-\centered 
-
-Signature of Related Individual: 
-
-\centered 
-
-Name: 
-
-\centered [Signature Page to Stockholders Agreement] 
-
-^^^^^ 
-\centered EXHIBIT B 
-
-\centered SPOUSAL WAIVER 
-
-^, [INSERT NAME] hereby waive and release any and all equitable or legal claims and rights, actual, inchoate or contingent, which I may acquire with respect to the disposition, voting or control of the Securities subject to the Stockholders Agreement, dated as of ______________, ______, among [[BAH]] Holding Corporation and its stockholders, as the same shall be amended from time to time, except for rights in respect of the proceeds of any disposition of such Securities. 
-
-Name:
-
-\centered [Signature Page to Stockholders Agreement] 
-
-^^^^^ 
-\centered EXHIBIT C 
-
-\centered SEPARATION OF EXECUTIVE STOCKHOLDER 
-
-Dated: ____________  
-
-[[BAH]] Holding Corporation, a Delaware corporation (the “Company”) and the undersigned individual hereby agree that, as of the date written above, the undersigned has ceased to serve as a member of the Leadership Team, as defined in the Stockholders Agreement, dated as of ______________, by and among the Company, Explorer Coinvest LLC, a Delaware limited liability company and certain other Parties named therein, as amended from time to time thereafter (the “Stockholders Agreement”). The undersigned individual hereby agrees to remain a Party to, to remain a Management Stockholder under, and to be continue to bound by the obligations of, and to receive the benefits of, the Stockholders Agreement. 
-
-Name:
-
-[[BAH]] HOLDING CORPORATION**
-By:
-Name:
-Title
-
-\centered [Separation Agreement]
+Witness

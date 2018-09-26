@@ -1,0 +1,57 @@
+^^21/04/2010  
+Clean Diesel Technologies Inc.
+
+[[Address 1: Address]] 
+
+Attn: Michael L. Asmussen  
+
+\centered AMENDMENT OF ENGAGEMENT LETTER 
+
+Dear Sirs,  
+We refer to the Engagement Letter between us of 18 [[Date 1: Date]] (the “Engagement Letter”). This letter agreement of the above date is intended to be effective as of 20 [[Date 2: Date]] and to extend and to amend the Engagement Letter. 
+
+We hereby agree:  
+^To amend the Engagement Letter to revise the minimum and maximum funds sought to be raised as expressed in the Engagement Letter to $[[USD Value 1: Number]] minimum and $[[USD Value 2: Number]] maximum rather than $[[USD Value 3: Number]] minimum and $[[USD Value 4: Number]] maximum: and 
+
+^To extend the Engagement Letter, with only the foregoing amendment and otherwise by its terms, until the close of business 30 [[Date 3: Date]]. 
+
+If you are in accord with the foregoing, kindly sign below where indicated. 
+
+Yours faithfully,  
+
+For: Innovator Capital Limited
+[[For Innovator Capital Limited Signatory Email: Identity | Signature]]
+__________________________________________
+{{For Innovator Capital Limited Entity => By: [[For Innovator Capital Limited Signatory First Name]] [[For Innovator Capital Limited Signatory Last Name]]
+Title: [[For Innovator Capital Limited Signatory Title]]}}
+
+Mungo Park, Chairman
+
+We hereby agree to the above mentioned, dated this [[Date 4: Date]]. 
+
+For: Clean Diesel Technologies Inc.
+[[For Clean Diesel Technologies Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{For Clean Diesel Technologies Inc. Entity => By: [[For Clean Diesel Technologies Inc. Signatory First Name]] [[For Clean Diesel Technologies Inc. Signatory Last Name]]
+Title: [[For Clean Diesel Technologies Inc. Signatory Title]]}}
+
+Michael L. Asmussen, CEO
+
+[[Michael L. Asmussen CEO Signatory Email: Identity | Signature]]
+__________________________________________
+{{Michael L. Asmussen CEO Entity => By: [[Michael L. Asmussen CEO Signatory First Name]] [[Michael L. Asmussen CEO Signatory Last Name]]
+Title: [[Michael L. Asmussen CEO Signatory Title]]}}
+
+Charles W. Grinnell, VP
+
+4TH FLOOR
+
+[[Address 2: Address]]
+
+^+44 20 7297 6840 
+
+UK COMPANY NO. 04995719
+
+VAT REGISTRATION NO. 839 6796 55
+
+REGULATED BY THE FINANCIAL SERVICES AUTHORITY  REGISTRATION NO. 401746

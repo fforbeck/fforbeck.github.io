@@ -1,200 +1,925 @@
-(ii)**  
-As Amended Through
+\centered  
 
-[[Date 1: Date]]  
+\centered **AMENDED AND RESTATED TRUST AGREEMENT**
 
-\centered AMENDED AND RESTATED
+\centered **among**
 
-\centered BY-LAWS
+\centered **HYUNDAI ABS FUNDING CORPORATION,**
 
-\centered OF 
+\centered **as Depositor**
 
-\centered BLACK BOX CORPORATION  (a Delaware corporation) 
+\centered **WILMINGTON TRUST COMPANY,**
 
-^\centered Stockholders 
+\centered **as Owner Trustee**
 
-SECTION 1.  Fixing Date for Determination of Stockholders of Record. In order that the Corporation may determine the stockholders entitled to notice of or to vote at any meeting of stockholders or any adjournment thereof, or to express consent to corporate action in writing without a meeting, or entitled to receive payment of any dividend or other distribution or allotment of any rights, or entitled to exercise any rights in respect of any change, conversion or exchange of stock or for the purpose of any other lawful action, the Board of Directors may fix a record date, which record date shall not precede the date upon which the resolution fixing the record date is adopted by the Board of Directors and which record date: (1) in the case of determination of stockholders entitled to vote at any meeting of stockholders or adjournment thereof, shall, unless otherwise required by law, not be more than sixty nor less than ten days before the date of such meeting; (2) in the case of determination of stockholders entitled to express consent to corporate action in writing without a meeting, shall not be more than ten days after the date upon which the resolution fixing the record date is adopted by the Board of Directors; and (3) in the case of any other action, shall not be more than sixty days prior to such other action. If no record date is fixed: (1) the record date for determining stockholders entitled to notice of or to vote at a meeting of stockholders shall be at the close of business on the day next preceding the day on which notice is given, or, if notice is waived, at the close of business on the day next preceding the day on which the meeting is held; (2) the record date for determining stockholders entitled to express consent to corporate action in writing without a meeting, when no prior action of the Board of Directors is required by law, shall be the first date on which a signed written consent setting forth the action taken or proposed to be taken is delivered to the corporation in accordance with applicable law, or, if prior action by the Board of Directors is required by law, shall be at the close of business on the day on which the Board of Directors adopts the resolution taking such prior action; and (3) the record date for determining stockholders for any other purpose shall be at the close of business on the day on which the Board of Directors adopts the resolution relating thereto. A determination of stockholders of record entitled to notice of or to vote at a meeting of stockholders shall apply to any adjournment of the meeting; provided, however, that the Board of Directors may fix a new record date for the adjourned meeting. 
+\centered **and**
 
-^^^^^ 
-^Annual Meetings. The annual meeting of stockholders for the election of directors and for the transaction of such other business as may properly come before the meeting shall be held each year at such date and time, within or without the State of Delaware, as the Board of Directors shall determine. 
+\centered **HYUNDAI CAPITAL AMERICA,**
 
-SECTION 3.  Special Meetings. Special meetings of stockholders for the transaction of such business as may properly come before the meeting may be called by order of the Board of Directors or by stockholders holding together at least a majority of all the shares of the Corporation entitled to vote at the meeting, and shall be held at such date and time, within or without the State of Delaware, as may be specified by such order. Whenever the directors shall fail to fix such place, the meeting shall be held at the principal executive office of the Corporation. 
+\centered **as Administrator**
 
-SECTION 4.  Notice of Meetings. Written notice of all meetings of the stockholders, stating the place, date and hour of the meeting and the place within the city or other municipality or community at which the list of stockholders may be examined, shall be mailed or delivered to each stockholder not less than 10 nor more than 60 days prior to the meeting. Notice of any special meeting shall state in general terms the purpose or purposes for which the meeting is to be held. 
+\centered **Dated as of [[Date 1: Date]]**
 
-SECTION 5.  Stockholder Lists. The officer who has charge of the stock ledger of the Corporation shall prepare and make, at least 10 days before every meeting of stockholders, a complete list of the stockholders entitled to vote at the meeting, arranged in alphabetical order, and showing the address of each stockholder and the number of shares registered in the name of each stockholder. Such list shall be open to the examination of any stockholder, for any purpose germane to the meeting, either at a place within the city where the meeting is to be held, which place shall be specified in the notice of the meeting, or, if not so specified, at the place where the meeting is to be held. The list shall also be produced and kept at the time and place of the meeting during the whole time thereof, and may be inspected by any stockholder who is present. 
+\centered **TABLE OF CONTENTS**
 
-^^^^^ 
-The stock ledger shall be the only evidence as to who are the stockholders entitled to examine the stock ledger, the list required by this section or the books of the Corporation, or to vote in person or by proxy at any meeting of stockholders. 
+**Page**
+^DEFINITIONS
 
-SECTION 6.  Quorum. Except as otherwise provided by law or the Corporation’s Certificate of Incorporation, a quorum for the transaction of business at any meeting of stockholders shall consist of the holders of record of a majority of the issued and outstanding shares of the capital stock of the Corporation entitled to vote at the meeting, present in person or by proxy. If there be no such quorum, the holders of a majority of such shares so present or represented may adjourn the meeting from time to time, without further notice, until a quorum shall have been obtained. When a quorum is once present it is not broken by the subsequent withdrawal of any stockholder. 
+Section 1.01      Capitalized Terms  
+^Other Definitional Provisions  
 
-SECTION 7.  Organization. Meetings of stockholders shall be presided over by the Chairman, if any, or if none or in the Chairman’s absence the Vice-Chairman, if any, or if none or in the Vice-Chairman’s absence the President, if any, or if none or in the President’s absence a Vice-President, or, if none of the foregoing is present, by a chairman to be chosen by the stockholders entitled to vote who are present in person or by proxy at the meeting. The Secretary of the Corporation, or in the Secretary’s absence an Assistant Secretary, shall act as secretary of every meeting, but if neither the Secretary nor an Assistant Secretary is present, the presiding officer of the meeting shall appoint any person present to act as secretary of the meeting. 
+ARTICLE 2.      ORGANIZATION
 
-SECTION 8.  Voting; Proxies; Required Vote. (a) At each meeting of stockholders, every stockholder shall be entitled to vote in person or by proxy appointed by instrument in writing, subscribed by such stockholder or by such stockholder’s duly authorized attorney-in-fact (but no such proxy shall be voted or acted upon after three years from its date, unless the proxy provides for a longer period), and, unless the Certificate of Incorporation provides otherwise, shall have one vote for each share of stock entitled to vote registered in the name of such stockholder on the books of the Corporation on the applicable record date fixed pursuant to these By-laws. At all elections of directors the voting may but need not be by ballot and a plurality of the votes cast there shall elect. Except as otherwise required by law or the Certificate of Incorporation, any other action shall be authorized by a majority of the votes cast. 
+Section 2.01      Name  
+^Office  
+^Purposes and Powers  
+^Appointment of Owner Trustee  
+^Initial Capital Contribution of Trust Estate  
+^Declaration of Trust  
+^Title to Trust Property  
+^Situs of Trust  
+^Representations, Warranties and Covenants of the Depositor  
+^Federal Income Tax Allocations  
 
-^^^^^ 
-^^Any action required or permitted to be taken at any meeting of stockholders may, except as otherwise required by law or the Certificate of Incorporation, be taken without a meeting, without prior notice and without a vote, if a consent in writing, setting forth the action so taken, shall be signed by the holders of record of the issued and outstanding capital stock of the Corporation having a majority of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted, and the writing or writings are filed with the permanent records of the Corporation. Prompt notice of the taking of corporate action without a meeting by less than unanimous written consent shall be given to those stockholders who have not consented in writing. 
+ARTICLE 3.   TRUST CERTIFICATES AND TRANSFER OF INTERESTS
 
-^^Where a separate vote by a class or classes, present in person or represented by proxy, shall constitute a quorum entitled to vote on that matter, the affirmative vote of the majority of shares of such class or classes present in person or represented by proxy at the meeting shall be the act of such class, unless otherwise provided in the Corporation’s Certificate of Incorporation. 
+Section 3.01      Initial Ownership  
+^The Trust Certificates  
+^Execution, Authentication and Delivery of Trust Certificates  
+^Registration of Transfer and Exchange of Trust Certificates  
+^Mutilated, Destroyed, Lost or Stolen Trust Certificates  
+^Persons Deemed Owners  
+^Access to List of Certificateholders’ Names and Addresses  
+^Maintenance of Office or Agency  
+^Appointment of Paying Agent  
+^Form of Trust Certificates  
+^Transfer Restrictions  
+^Legending of Trust Certificates  
+^Authenticating Agent  
+^Actions of Certificateholders  
 
-SECTION 9.  Inspectors. The Board of Directors, in advance of any meeting, may, but need not, appoint one or more inspectors of election to act at the meeting or any adjournment thereof. If an inspector or inspectors are not so appointed, the person presiding at the meeting may, but need not, appoint one or more inspectors. In case any person who may be appointed as an inspector fails to appear or act, the vacancy may be filled by appointment made by the directors in advance of the meeting or at the meeting by the person presiding thereat. Each inspector, if any, before entering upon the discharge of his or her duties, shall take and sign an oath faithfully to execute the duties of inspector at such meeting with strict impartiality and according to the best of his ability. The inspectors, if any, shall determine the number of shares of stock outstanding and the voting power of each, the shares of stock represented at the meeting, the existence of a quorum, and the validity and effect of proxies, and shall receive votes, ballot or consents, hear and determine all challenges and questions arising in connection with the right to vote, count and tabulate all votes, ballots or consents, determine the result, and do such acts as are proper to conduct the election or vote with fairness to all stockholders. On request of the person presiding at the meeting, the inspector or inspectors, if any, shall make a report in writing of any challenge, question or matter determined by such inspector or inspectors and execute a certificate of any fact found by such inspector or inspectors. 
+ARTICLE 4.   ACTIONS BY OWNER TRUSTEE
 
-^^^^^ 
-^Nominating and Proposal Procedures. Without limiting any other notice requirements imposed by law, the Certificate of Incorporation or these By-laws, any nomination for election to the Board of Directors or other proposal to be presented by any stockholder at a stockholders’ meeting (the “Proponent”) will be properly presented only if written notice of the Proponent’s intent to make such nomination or proposal has been personally delivered to and otherwise in fact received by the Secretary of the Corporation not later than (i) for the annual meeting, at least 150 days prior to the anniversary date of the prior year’s annual meeting, or (ii) for any special meeting, the close of business on the tenth day after notice of such meeting is first given to stockholders. Such notice by the Proponent to the Corporation shall set forth in reasonable detail information concerning the nominee (in the case of a nomination for election to the Board of Directors) or the substance of the proposal (in the case of any other stockholder proposal), and shall include: (a) the name and residence address and business address of the stockholder who intends to present the nomination or other proposal or of any person who participates or is expected to participate in making such nomination and of the person or persons, if any, to be nominated and the principal occupation or employment and the name, type of business and address of the business and address of the corporation or other organization in which such employment is carried on of each such stockholder, participant and nominee; (b) a representation that the Proponent is a holder of record of stock of the Corporation entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to present the nomination or other proposal specified in the notice, which shall include (i) the number of shares of each class of the stock of the Corporation which are beneficially owned by such Proponent as of the date of the notice and the Proponent’s agreement to notify the Corporation in writing of the number of shares of each class of stock of the Corporation which are beneficially owned by such Proponent as of the record date promptly (but in no event later than five (5) business days) after the later of the record date or the date that the record date is first publicly disclosed and (ii) a description of any agreement, arrangement or understanding (including any derivative securities or short positions, profit interests, options, warrants, stock appreciation or similar rights, hedging transactions, swaps or borrowed or loaned shares, the effect or intent of which is to mitigate loss to, manage risk or benefit of share price changes for or increase or decrease the voting power of the Proponent or any of Proponent’s affiliates or associates with respect to shares of stock of the Corporation) that has been entered into as of the date of the Proponent’s notice, by or on behalf of such Proponent or any affiliate or associate of such Proponent, with respect to shares of stock of the Corporation, and the Proponent’s agreement to notify the Corporation in writing of any such agreement, arrangement or understanding in effect as of the record date for the meeting promptly (but in no event later than five (5) business days) after the later of the record date or the date that the record date is first publicly disclosed; (c) a description of all agreements, arrangements or understandings between the Proponent and any other person or persons (naming such person or persons) pursuant to which the nomination or other proposal is to be made by the Proponent; (d) such other information regarding each proposal and each nominee as would have been required to be included in a proxy statement filed pursuant to the proxy rules of the Securities and Exchange Commission had the nomination or other proposal been made by the Board of Directors; and (e) the consent of each nominee, if any, to serve as a director of the Corporation if elected. Within fifteen (15) days following the receipt by the Secretary of a notice of 
+Section 4.01      Prior Notice with Respect to Certain Matters  
+^Action by Servicer with Respect to Certain Matters  
+^Action by Certificateholders with Respect to Bankruptcy  
+^Restrictions on Servicer’s Power  
+^Majority Control  
 
-^^^^^ 
-nomination or proposal pursuant hereto, the Secretary shall advise the Proponent in writing of any deficiencies in the notice and of any additional information the Corporation is requiring to determine the eligibility of the proposed nominee or the substance of the proposal. A Proponent who has been notified of deficiencies in the notice of nomination or proposal and/or of the need for additional information shall cure such deficiencies and/or provide such additional information within fifteen (15) days after receipt of the notice of such deficiencies and/or the need for additional information. The presiding officer of a meeting of stockholders may, in his or her sole discretion, refuse to acknowledge a nomination or other proposal presented by any person that does not comply with the foregoing procedure and, upon his or her instructions, all votes cast for such nominee or with respect to such proposal may be disregarded. 
+ARTICLE 5.   APPLICATION OF TRUST FUNDS; CERTAIN DUTIES
 
-As used in these By-laws, the terms “affiliate” and “associate” shall have the meanings given to them by Rule 12b-2 under the Securities Exchange Act of 1934, as amended, and the term “beneficially owned” shall have the meaning given to it by Rule 13d-3 under the Securities Exchange Act of 1934, as amended, and shall specifically include derivative securities. 
+Section 5.01      Establishment of Trust Account  
+^Application of Trust Funds  
+^Method of Payment  
 
-Notwithstanding anything in these By-laws to the contrary, no business of any stockholder shall be conducted at any meeting of stockholders except in accordance with the procedures set forth in this Section 10 of this Article I; provided, however, that any stockholder may present at a stockholder’s meeting any proposal made by such stockholder in accordance with Rule 14a-8 promulgated pursuant to the Securities Exchange Act of 1934, as amended, or any successor rule. If a stockholder intends to and/or attempts to conduct its own proxy solicitation, then the provisions of this Section 10 of this Article I shall apply, notwithstanding the above reference to Rule 14a-8 promulgated pursuant to the Securities Exchange Act of 1934, as amended. 
+\centered **TABLE OF CONTENTS**
 
-^^^^^ 
-^\centered Board of Directors 
+\centered **(continued)**
 
-SECTION 1.  General Powers. The business, property and affairs of the Corporation shall be managed by, or under the direction of, the Board of Directors. 
+**Page**
+^Accounting and Reports to Certificateholders, the Internal Revenue Service and Others  
+^Signature on Returns; Tax Matters Partner  
+^Duties of Depositor on Behalf of Trust  
 
-SECTION 2.  Qualification; Number; Term; Remuneration. (a) Each director shall be at least 18 years of age. A director need not be a stockholder, a citizen of the United States, or a resident of the State of Delaware. The number of directors constituting the entire Board shall be 9, or such other number as may be fixed from time to time by action of the stockholders or Board of Directors, one of whom may be selected by the Board of Directors to be its Chairman. The use of the phrase “entire Board” herein refers to the total number of directors which the Corporation would have if there were no vacancies. 
+ARTICLE 6.   AUTHORITY AND DUTIES OF OWNER TRUSTEE
 
-^^Directors who are elected at an annual meeting of stockholders, and directors who are elected in the interim to fill vacancies and newly created directorships, shall hold office until the next annual meeting of stockholders and until their successors are elected and qualified or until their earlier resignation or removal. 
+Section 6.01      General Authority  
+^General Duties  
+^Action upon Instruction  
+^No Duties Except as Specified in this Agreement or in Instructions  
+^No Action Except Under Specified Documents or Instructions  
+^Restrictions  
 
-^^Directors may be paid their expenses, if any, of attendance at each meeting of the Board of Directors and may be paid a fixed sum for attendance at each meeting of the Board of Directors or a stated salary as director. No such payment shall preclude any director from serving the Corporation in any other capacity and receiving compensation therefor. Members of special or standing committees may be allowed like compensation for attending committee meetings. 
+ARTICLE 7.   CONCERNING THE OWNER TRUSTEE
 
-SECTION 3.  Quorum and Manner of Voting. Except as otherwise provided by law, a majority of the entire Board shall constitute a quorum. A majority of the directors present, whether or not a quorum is present, may adjourn a meeting from time to time to another time and place without notice. The vote of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board of Directors. 
+Section 7.01      Acceptance of Trusts and Duties  
+^Furnishing of Documents  
+^Representations and Warranties  
+^Reliance; Advice of Counsel  
+^Not Acting in Individual Capacity  
+^Owner Trustee Not Liable for Trust Certificates or for Receivables  
+^Owner Trustee May Own Trust Certificates and Notes  
+^Doing Business in Other Jurisdictions  
+^Paying Agent; Authenticating Agent  
 
-^^^^^ 
-^Places of Meetings. Meetings of the Board of Directors may be held at any place within or without the State of Delaware, as may from time to time be fixed by resolution of the Board of Directors, or as may be specified in the notice of meeting. 
+ARTICLE 8.   COMPENSATION OF OWNER TRUSTEE
 
-SECTION 5.  Annual Meeting. Following the annual meeting of stockholders, the newly elected Board of Directors shall meet for the purpose of the election of officers and the transaction of such other business as may properly come before the meeting. Such meeting may be held without notice immediately after the annual meeting of stockholders at the same place at which such stockholders’ meeting is held. 
+Section 8.01      Owner Trustee’s Fees and Expenses  
+^Indemnification  
+^Payments to the Owner Trustee  
 
-SECTION 6.  Regular Meetings. Regular meetings of the Board of Directors shall be held at such times and places as the Board of Directors shall from time to time by resolution determine. Notice need not be given of regular meetings of the Board of Directors held at times and places fixed by resolution of the Board of Directors. 
+ARTICLE 9.   TERMINATION OF TRUST AGREEMENT
 
-SECTION 7.  Special Meetings. Special meetings of the Board of Directors shall be held whenever called by the Chairman of the Board, President, Vice-Chairman or by a majority of the directors then in office. 
+Section 9.01      Termination of Trust Agreement  
 
-SECTION 8.  Notice of Special Meetings. A notice of the place, date and time and the purpose or purposes of each special meeting of the Board of Directors shall be given to each director by mailing the same at least two days before the special meeting, or by telegraphing or telephoning the same or by delivering the same personally not later than the day before the day of the meeting. 
+ARTICLE 10.   SUCCESSOR OWNER TRUSTEES AND ADDITIONAL OWNER TRUSTEES
+^Eligibility Requirements for Owner Trustee  
+^Resignation or Removal of Owner Trustee  
+^Successor Owner Trustee  
+^Merger or Consolidation of Owner Trustee  
+^Appointment of Co-Trustee or Separate Trustee  
 
-SECTION 9.  Organization. At all meetings of the Board of Directors, the Chairman, if any, or if none or in the Chairman’s absence or inability to act the President, or in the President’s absence or inability to act any Vice-President who is a member of the Board of Directors, or in such Vice-President’s absence or inability to act a chairman chosen by the directors, shall preside. The Secretary of the Corporation shall act as secretary at all meetings of the Board of Directors when present, and, in the Secretary’s absence, the presiding officer may appoint any person to act as secretary. 
+ARTICLE 11.   MISCELLANEOUS
 
-^^^^^ 
-^Resignation. Any director may resign at any time upon written notice to the Corporation and such resignation shall take effect upon receipt thereof by the President or Secretary, unless otherwise specified in the resignation. Any or all of the directors may be removed, with or without cause, by the holders of a majority of the shares of stock outstanding and entitled to vote for the election of directors. 
+Section 11.01      Supplements and Amendments  
 
-SECTION 11.  Vacancies. Unless otherwise provided in these By-laws, vacancies on the Board of Directors, whether caused by resignation, death, disqualification, removal, an increase in the authorized number of directors or otherwise, may be filled by the affirmative vote of a majority of the remaining directors, although less than a quorum, or by a sole remaining director, or at a special meeting of the stockholders, by the holders of shares entitled to vote for the election of directors. 
+\centered **TABLE OF CONTENTS**
 
-SECTION 12.  Action by Written Consent. Any action required or permitted to be taken at any meeting of the Board of Directors may be taken without a meeting if all the directors consent thereto in writing, and the writing or writings are filed with the minutes of proceedings of the Board of Directors. 
+\centered **(continued)**
 
-^\centered Committees 
+**Page** Section 11.02      No Legal Title to Trust Estate in Certificateholders   Section 11.03      Limitations on Rights of Others   Section 11.04      Notices   Section 11.05      Severability   Section 11.06      Separate Counterparts   Section 11.07      Successors and Assigns   Section 11.08      Covenants of the Depositor   Section 11.09      No Petition   Section 11.10      No Recourse   Section 11.11      Headings   Section 11.12      GOVERNING LAW   Section 11.13      [Reserved]   Section 11.14      Sarbanes-Oxley   
 
-SECTION 1.  Appointment. From time to time the Board of Directors by a resolution adopted by a majority of the entire Board may appoint any committee or committees for any purpose or purposes, to the extent lawful, which shall have powers as shall be determined and specified by the Board of Directors in the resolution of appointment. 
+ARTICLE 12.   COMPLIANCE WITH REGULATION AB 
 
-SECTION 2.  Procedures, Quorum and Manner of Acting. Each committee shall fix its own rules of procedure, and shall meet where and as provided by such rules or by resolution of the Board of Directors. Except as otherwise provided by law, the presence of a majority of the then appointed members of a committee shall constitute a quorum for the transaction of business by that committee, and in every case where a quorum is present the affirmative vote of a majority of the members of the committee present shall be the act of the committee. Each committee shall keep minutes of its proceedings, and actions taken by a committee shall be reported to the Board of Directors. 
+Section 12.01      Intent of the Parties; Reasonableness   Section 12.02      Additional Representations and Warranties of the Owner Trustee   Section 12.03      Information to Be Provided by the Owner Trustee   Section 12.04      Indemnification; Remedies   Exhibits 
 
-^^^^^ 
-^Action by Written Consent. Any action required or permitted to be taken at any meeting of any committee of the Board of Directors may be taken without a meeting if all the members of the committee consent thereto in writing, and the writing or writings are filed with the minutes of proceedings of the committee. 
+Exhibit A Form of Trust Certificate   A-1 Exhibit B Reserved   B-1 Exhibit C Form of Transferee Certificate   C-1 Exhibit D Form of Certificate of Trust of Hyundai Auto Receivables Trust 2010-A   D-1                              
 
-SECTION 4.  Term; Termination. In the event any person shall cease to be a director of the Corporation, such person shall simultaneously therewith cease to be a member of any committee appointed by the Board of Directors. 
+This AMENDED AND RESTATED TRUST AGREEMENT, dated as of [[Date 1]], is among HYUNDAI ABS FUNDING CORPORATION, a Delaware corporation, as depositor (the “**Depositor**”), WILMINGTON TRUST COMPANY, a Delaware banking corporation, acting hereunder not in its individual capacity but solely as owner trustee (the “**Owner Trustee**”), and HYUNDAI CAPITAL AMERICA, a California corporation, as administrator (the “**Administrator**”).
 
-^\centered Officers 
+WHEREAS, on [[Date 2: Date]], the Depositor, the Owner Trustee and the Administrator entered into a Trust Agreement (the “**Original Trust Agreement**”); and
 
-SECTION 1.  Officers. The Corporation shall have as officers, a Chairman of the Board, a President, a Chief Financial Officer, a Secretary and a Treasurer. The Corporation may also have, at the discretion of the Board of Directors, one or more Vice Presidents, one or more assistant secretaries, one or more assistant treasurers and such other officers as the Board may from time to time deem proper. Any two or more officer may be held by the same person except the offices of the President and Secretary. 
+WHEREAS, the parties hereto wish to amend and restate the Original Trust Agreement in its entirety;
 
-SECTION 2.  Election of Officers. The officers of the Corporation shall be chosen by the Board of Directors. 
+NOW, THEREFORE, in consideration of the foregoing, and other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto amend and restate the Original Trust Agreement in its entirety and agree as follows:
 
-SECTION 3.  Term of Office and Remuneration. The term of office of all officers shall be one year and until their respective successors have been elected and qualified, but any officer may be removed from office, either with or without cause, at any time by the Board of Directors. Any vacancy in any office arising from any cause may be filled for the unexpired portion of the term by the Board of Directors. The remuneration of all officers of the Corporation may be fixed by the Board of Directors or in such manner as the Board of Directors shall provide. 
+\centered **DEFINITIONS**
 
-SECTION 4.  Resignation; Removal. Any officer may resign at any time upon written notice to the Corporation and such resignation shall take effect upon receipt thereof by the President or Secretary, unless otherwise specified in the resignation. Any officer shall be subject to removal, with or without cause, at any time by vote of a majority of the entire Board. 
+^**Capitalized Terms**. For all purposes of this Agreement, the following terms shall have the meanings set forth below:
 
-^^^^^ 
-^Chairman of the Board. The Chairman of the Board of Directors, if there be one, shall preside at all meetings of the Board of Directors and shall have such other powers and duties as may from time to time be assigned by the Board of Directors. 
+“**Administration Agreement**” shall mean the Owner Trust Administration Agreement dated as of [[Date 1]] among the Trust, Hyundai Capital America, as Administrator, and Citibank, N.A., as Indenture Trustee, as amended, supplemented, amended and restated or otherwise modified from time to time.
 
-SECTION 6.  President. The President shall have general management and supervision of the property, business and affairs of the Corporation and over its other officers; may appoint and remove assistant officers and other agents and employees, other than officers referred to in Section 1 of this Article IV; and may execute and deliver in the name of the Corporation powers of attorney, contracts, bonds and other obligations and instruments. 
+“**Administrator**” shall mean Hyundai Capital America.
 
-SECTION 7.  Vice-President. A Vice-President may execute and deliver in the name of the Corporation contracts and other obligations and instruments pertaining to the regular course of the duties of said office, and shall have such other authority as from time to time may be assigned by the Board of Directors or the President. 
+“**Agreement**” shall mean this Amended and Restated Trust Agreement, as the same may be amended and supplemented from time to time.
 
-SECTION 8.  Chief Financial Officer.  
+“**Authenticating Agent**” shall have the meaning assigned to such term in Section 3.13(a).
 
-^^The Chief Financial Officer shall keep, or cause to be kept, the books and records of account of the Corporation. 
+“**Benefit Plan Investor**” shall have the meaning assigned to such term in Section 3.11(b).
 
-^^The Chief Financial Officer shall deposit all monies and other valuables in the name and to the credit of the Corporation with such depositories as may be designated from time to time by resolution of the Board of Directors. He shall disburse the funds of the Corporation as may be ordered by the Board of Directors, shall render to the President and the Board, whenever they request it, an account of all of his transactions as Chief Financial Officer and of the financial condition of the Corporation, and shall have such other powers and perform such other duties as may be prescribed from time to time by the Board or as the President may from time to time delegate. 
+“**Certificate Distribution Account**” shall have the meaning assigned to such term in Section 5.01.
 
-SECTION 9.  Treasurer. The Treasurer shall in general have all duties incident to the position of Treasurer and such other duties as may be assigned by the Board of Directors or the President. 
+“**Certificate of Trust**” shall mean the Certificate of Trust substantially in the form of Exhibit D filed for the Trust pursuant to Section 3810(a) of the Statutory Trust Act.
 
-^^^^^ 
-^Secretary. The Secretary shall in general have all the duties incident to the office of Secretary and such other duties as may be assigned by the Board of Directors or the President. 
+“**Certificate Percentage Interest**” shall mean with respect to any Trust Certificate, the percentage interest of ownership in the Trust represented thereby as set forth on the face thereof.
 
-SECTION 11.  Assistant Officers. Any assistant officer shall have such powers and duties of the officer such assistant officer assists as such officer or the Board of Directors shall from time to time prescribe. 
+“**Certificate Register**” and “**Certificate Registrar**” shall mean the register mentioned in and the registrar appointed pursuant to Section 3.04.
 
-^\centered Books and Records 
+“**Certificateholder**” or “**Holder**” shall mean a Person in whose name a Trust Certificate is registered.
 
-SECTION 1.  Location. The books and records of the Corporation may be kept at such place or places within or outside the State of Delaware as the Board of Directors or the respective officers in charge thereof may from time to time determine. The record books containing the names and addresses of all stockholders, the number and class of shares of stock held by each and the dates when they respectively became the owners of record thereof shall be kept by the Secretary as prescribed in the By-laws and by such officer or agent as shall be designated by the Board of Directors. 
+“**Code**” shall mean the Internal Revenue Code of 1986, as amended, and the Treasury Regulations promulgated thereunder.
 
-SECTION 2.  Addresses of Stockholders. Notices of meetings and all other corporate notices may be delivered personally or mailed to each stockholder at the stockholder’s address as it appears on the records of the Corporation. 
+“**Corporate Trust Office**” shall mean, with respect to the Owner Trustee, the principal corporate trust office of the Owner Trustee located at Rodney Square North, [[Address 1: Address]]-0001, Attention: Corporate Trust Administration, or at such other address in the State of Delaware as the Owner Trustee may designate by notice to the Certificateholders and the Depositor, or the principal corporate trust office of any successor Owner Trustee at the address (which shall be in the State of Delaware) designated by such successor Owner Trustee by notice to the Certificateholders and the Depositor.
 
-^\centered Certificates Representing Stock 
+“**Definitive Trust Certificates**” shall have the meaning set forth in Section 3.10.
 
-SECTION 1.  Certificates; Signatures. The shares of the Corporation shall be represented by certificates, provided that the Board of Directors of the Corporation may provide by resolution or resolutions that some or all of any or all classes or series of its stock shall be uncertificated shares. Any such resolution shall not apply to shares represented by a certificate until such certificate is surrendered to the Corporation. Notwithstanding the adoption of such a resolution by the Board of Directors, every holder of stock represented by certificates and upon request every holder of uncertificated shares shall be entitled to have a certificate, signed by or in the name of the Corporation by the Chairman or Vice-Chairman of the Board of Directors, or the President or Vice-President, and by the Treasurer or an Assistant Treasurer, or the Secretary or an Assistant Secretary of the Corporation, representing the number of shares registered in certificate form. Any and all 
+“**Depositor**” shall mean Hyundai ABS Funding Corporation and its successors, in its capacity as depositor hereunder.
 
-^^^^^ 
-signatures on any such certificate may be facsimiles. In case any officer, transfer agent or registrar who has signed or whose facsimile signature has been placed upon a certificate shall have ceased to be such officer, transfer agent or registrar before such certificate is issued, it may be issued by the Corporation with the same effect as if he were such officer, transfer agent or registrar at the date of issue. The name of the holder of record of the shares represented thereby, with the number of such shares and the date of issue, shall be entered on the books of the Corporation. 
+“**ERISA**” shall mean the Employee Retirement Income Security Act of 1974, as amended.
 
-SECTION 2.  Transfers of Stock. Upon compliance with provisions restricting the transfer or registration of transfer of shares of stock, if any, shares of capital stock shall be transferable on the books of the Corporation only by the holder of record thereof in person, or by duly authorized attorney, upon surrender and cancellation of certificates for a like number of shares, properly endorsed, and the payment of all taxes due thereon. 
+“**Exchange Act**” shall mean the Securities Exchange Act of 1934, as amended.
 
-SECTION 3.  Fractional Shares. The Corporation may, but shall not be required to, issue certificates for fractions of a share where necessary to effect authorized transactions, or the Corporation may pay in cash the fair value of fractions of a share as of the time when those entitled to receive such fractions are determined, or it may issue scrip in registered or bearer form over the manual or facsimile signature of an officer of the Corporation or of its agent, exchangeable as therein provided for full shares, but such scrip shall not entitle the holder to any rights of a stockholder except as therein provided. 
+“**Expenses**” shall have the meaning assigned to such term in Section 8.02.
 
-The Board of Directors shall have power and authority to make all such rules and regulations as it may deem expedient concerning the issue, transfer and registration of certificates representing shares of the Corporation. 
+“**Indemnified Parties**” shall have the meaning assigned to such term in Section 8.02.
 
-SECTION 4.  Lost, Stolen or Destroyed Certificates. The Corporation may issue a new certificate of stock in place of any certificate, theretofore issued by it, alleged to have been lost, stolen or destroyed, and the Board of Directors may require the owner of any lost, stolen or destroyed certificate, or his legal representative, to give the Corporation a bond sufficient to indemnify the Corporation against any claim that may be made against it on account of the alleged loss, theft or destruction of any such certificate or the issuance of any such new certificate. 
+“**Indenture**” shall mean the Indenture, dated as of [[Date 1]] between the Trust and Citibank, N.A., as Indenture Trustee, as amended, supplemented, amended and restated or otherwise modified from time to time.
 
-^^^^^ 
-^\centered Dividends 
+“**Indenture Trustee**” shall mean Citibank, N.A., a national banking association.
 
-Subject always to the provisions of law and the Certificate of Incorporation, the Board of Directors shall have full power to determine whether any, and, if any, what part of any, funds legally available for the payment of dividends shall be declared as dividends and paid to stockholders; the division of the whole or any part of such funds of the Corporation shall rest wholly within the lawful discretion of the Board of Directors, and it shall not be required at any time, against such discretion, to divide or pay any part of such funds among or to the stockholders as dividends or otherwise; and before payment of any dividend, there may be set aside out of any funds of the Corporation available for dividends such sum or sums as the Board of Directors from time to time, in its absolute discretion, thinks proper as a reserve or reserves to meet contingencies, or for equalizing dividends, or for repairing or maintaining any property of the Corporation, or for such other purpose as the Board of Directors shall think conducive to the interest of the Corporation, and the Board of Directors may modify or abolish any such reserve in the manner in which it was created. 
+“**Owner Trustee**” shall mean Wilmington Trust Company, a Delaware banking corporation, not in its individual capacity but solely as owner trustee under this Agreement, and any successor Owner Trustee hereunder.
 
-^\centered Ratification 
+“**Paying Agent**” shall mean any paying agent or co paying agent appointed pursuant to Section 3.09 and shall initially be Citibank, N.A.
 
-Any transaction, questioned in any law suit on the ground of lack of authority, defective or irregular execution, adverse interest of director, officer or stockholder, non-disclosure, miscomputation, or the application of improper principles of practices of accounting, may be ratified before or after judgment, by the Board of Directors or by the stockholders, and if so ratified shall have the same force and effect as if the questioned transaction had been originally duly authorized. Such ratification shall be binding upon the Corporation and its stockholders and shall constitute a bar to any claim or execution of any judgment in respect of such questioned transaction. 
+“**Person**” shall mean any individual, corporation, estate, partnership, limited liability company, joint venture, association, joint stock company, trust or business trust (including any beneficiary thereof), unincorporated organization or government or any agency or political subdivision thereof.
 
-^^^^^ 
-^\centered Indemnification 
+“**Record Date**” shall mean, with respect to a Payment Date, the close of business on the day immediately preceding such Payment Date.
 
-SECTION 1.  Right to Indemnification. The Corporation shall indemnify and hold harmless, to the fullest extent permitted by law as it presently exists or may hereafter be amended, any person who was or is made or is threatened to be made a party or is otherwise involved in any action or suit, whether or not by or in the right of the Corporation, or proceeding, whether civil, criminal, administrative or investigative (collectively, a “proceeding”) by reason of the fact that he, or a person for whom he is the legal representative, is or was a director, officer, employee or agent of the Corporation, or is or was serving at the request of the Corporation as a director, officer, employee or agent of another corporation or of a partnership, joint venture, trust, enterprise or nonprofit entity, including service with respect to employee benefit plans, against all liability and loss, including judgments, fines, ERISA excise taxes or penalties and amounts paid or to be paid in settlement, incurred, suffered or paid by or on behalf of such person, and expenses (including attorneys’ fees) reasonably incurred by such person. 
+“**Sale and Servicing Agreement**” shall mean the Sale and Servicing Agreement dated as of [[Date 1]], among the Depositor, Hyundai Capital America, as Seller and Servicer, the Trust and the Indenture Trustee, as amended, supplemented, amended and restated or otherwise modified from time to time.
 
-SECTION 2.  Prepayment of Expenses. The Corporation shall pay the expenses (including attorneys’ fees) incurred in defending any proceeding in advance of its final disposition,  provided, however, that the payment of expenses incurred by a director or officer in advance of the final disposition of the proceeding shall be made only upon receipt of an undertaking by the director or officer to repay all amounts advanced if it should be ultimately determined that the director or officer is not entitled to be indemnified under this Article or otherwise. 
+“**SEC**” means the Securities and Exchange Commission.
 
-SECTION 3.  Claims. The right to indemnification and payment of expenses under the Certificate of Incorporation, these By-laws or otherwise shall be a contract right. If a claim for indemnification or payment of expenses under this Article is not paid in full within sixty days after a written claim therefor has been received by the Corporation, the claimant may file suit to recover the unpaid amount of such claim and, if successful in whole or in part, shall be entitled to be paid the expense of prosecuting such claim. In any such action the Corporation shall have the burden of proving that the claimant was not entitled to the requested indemnification or payment of expenses under applicable law. 
+“**Secretary of State**” shall mean the Secretary of State of the State of Delaware.
 
-^^^^^ 
-^Non-Exclusivity of Rights. The rights conferred on any person by this Article shall not be exclusive of any other rights which such person may have or hereafter acquire under any statute, provision of the Certificate of Incorporation, these By-laws, agreement, vote of stockholders or disinterested directors or otherwise. 
+“**Securities Act**” means the Securities Act of 1933, as amended.
 
-SECTION 5.  Other Indemnification. The Corporation’s obligation, if any, to indemnify any person who was or is serving at its request as a director, officer, employee or agent of another corporation, partnership, joint venture, trust, enterprise or nonprofit entity shall be reduced by any amount such person may collect as indemnification from such other corporation, partnership, joint venture, trust, enterprise or nonprofit enterprise. 
+“**Statutory Trust Act**” shall mean Chapter 38 of Title 12 of the Delaware Code, 12 Del. Code ss. 3801 et seq., as the same may be amended from time to time.
 
-SECTION 6.  Amendment or Repeal. Any repeal or modification of the foregoing provisions of this Article IX shall not adversely affect any right or protection hereunder of any person in respect of any act or omission occurring prior to the time of such repeal or modification. 
+“**Treasury Regulations**” shall mean regulations, including proposed or temporary Regulations, promulgated under the Code. References herein to specific provisions of proposed or temporary regulations shall include analogous provisions of final Treasury Regulations or other successor Treasury Regulations.
 
-^\centered Corporate Seal 
+“**Trust**” shall mean the trust established by this Agreement.
 
-The corporate seal shall have inscribed thereon the name of the Corporation and the year of its incorporation, and shall be in such form and contain such other words and/or figures as the Board of Directors shall determine. The corporate seal may be used by printing, engraving, lithographing, stamping or otherwise making, placing or affixing, or causing to be printed, engraved, lithographed, stamped or otherwise made, placed or affixed, upon any paper or document, by any process whatsoever, an impression, facsimile or other reproduction of said corporate seal. 
+“**Trust Certificate**” shall mean a certificate evidencing the beneficial interest of a Certificateholder in the Trust, substantially in the form attached hereto as Exhibit A.
 
-^\centered Fiscal Year 
+“**Trust Estate**” shall mean all right, title and interest of the Trust in and to the property and rights assigned to the Trust pursuant to Article II of the Sale and Servicing Agreement, all funds on deposit from time to time in the Trust Accounts and the Certificate Distribution Account, and all other property of the Trust from time to time, including any rights of the Owner Trustee and the Trust pursuant to the Sale and Servicing Agreement and the Administration Agreement.
 
-The fiscal year of the Corporation shall be determined, and may be subsequently changed from time to time, by resolution of the Board of Directors. 
+^**Other Definitional Provisions**.
 
-^^^^^ 
-^\centered Waiver of Notice 
+^^Capitalized terms used and not otherwise defined herein have the meanings assigned to them in the Sale and Servicing Agreement or, if not defined therein, in the Indenture.
 
-Whenever notice is required to be given by these By-laws or by the Certificate of Incorporation or by law, a written waiver thereof, signed by the person or persons entitled to said notice, whether before or after the time stated therein, shall be deemed equivalent to notice. 
+^^All terms defined in this Agreement shall have the defined meanings when used in any certificate or other document made or delivered pursuant hereto unless otherwise defined therein.
 
-^\centered Bank Accounts, Drafts, Contracts, Etc. 
+^^As used in this Agreement and in any certificate or other document made or delivered pursuant hereto or thereto, accounting terms not defined in this Agreement or in any such certificate or other document, and accounting terms partly defined in this Agreement or in any such certificate or other document to the extent not defined, shall have the respective meanings given to them under generally accepted accounting principles. To the extent that the definitions of accounting terms in this Agreement or in any such certificate or other document are inconsistent with the meanings of such terms under generally accepted accounting principles, the definitions contained in this Agreement or in any such certificate or other document shall control.
 
-SECTION 1.  Bank Accounts and Drafts. In addition to such bank accounts as may be authorized by the Board of Directors, the primary financial officer or any person designated by said primary financial officer, whether or not an employee of the Corporation, may authorize such bank accounts to be opened or maintained in the name and on behalf of the Corporation as he may deem necessary or appropriate, payments from such bank accounts to be made upon and according to the check of the Corporation in accordance with the written instructions of said primary financial officer, or other person so designated by the Treasurer. 
+^^The words “hereof,” “herein,” “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement; Section and Exhibit references contained in this Agreement are references to Sections and Exhibits in or to this Agreement unless otherwise specified; “or” includes “and/or”; and the term “including” shall mean “including without limitation”.
 
-SECTION 2.  Contracts. The Board of Directors may authorize any person or persons, in the name and on behalf of the Corporation, to enter into or execute and deliver any and all deeds, bonds, mortgages, contracts and other obligations or instruments, and such authority may be general or confined to specific instances. 
+^^The definitions contained in this Agreement are applicable to the singular and plural forms of such terms and to the masculine, feminine and neuter genders of such terms.
 
-SECTION 3.  Proxies; Powers of Attorney; Other Instruments. The Chairman, the President or any other person designated by either of them shall have the power and authority to execute and deliver proxies, powers of attorney and other instruments on behalf of the Corporation in connection with the rights and powers incident to the ownership of stock by the Corporation. The Chairman, the President or any other person authorized by proxy or power of attorney executed and delivered by either of them on behalf of the Corporation may attend and vote at any meeting of stockholders of any company in which the Corporation may hold stock, and may exercise on behalf of the Corporation any and all of the rights and powers incident to the ownership of such stock at any such meeting, or otherwise as specified in the proxy or power of attorney so authorizing any such person. The Board of Directors, from time to time, may confer like powers upon any other person. 
+^^Any agreement, instrument or statute defined or referred to herein or in any instrument or certificate delivered in connection herewith means such agreement, instrument or statute as from time to time amended, modified or supplemented and includes (in the case of agreements or instruments) references to all attachments thereto and instruments incorporated therein; references to a Person are also to its permitted successors and assigns.
 
-^^^^^ 
-^Financial Reports. The Board of Directors may appoint the primary financial officer or other fiscal officer and/or the Secretary or any other officer to cause to be prepared and furnished to stockholders entitled thereto any special financial notice and/or financial statement, as the case may be, which may be required by any provision of law. 
+\centered **ORGANIZATION**
 
-^\centered Amendments 
+^**Name**. The Trust created hereby shall be known as “Hyundai Auto Receivables Trust 2010-A,” in which name the Owner Trustee may conduct the business of the Trust, make and execute contracts and other instruments on behalf of the Trust and sue and be sued.
 
-The Board of Directors shall have power to adopt, amend or repeal By-laws. By-laws adopted by the Board of Directors may be repealed or changed, and new By-laws made, by the stockholders, and the stockholders may prescribe that any By-law made by them shall not be altered, amended or repealed by the Board of Directors. 
- 
+^**Office**. The office of the Trust shall be in care of the Owner Trustee at the Corporate Trust Office or at such other address in Delaware as the Owner Trustee may designate by written notice to the Certificateholders and the Depositor.
+
+^**Purposes and Powers**. The purpose of the Trust is to engage in the following activities and the Trust shall have the power and authority:
+
+^^to issue the Notes pursuant to the Indenture and the Trust Certificates pursuant to this Agreement and to sell, transfer and exchange the Notes and the Trust Certificates and to pay interest on and principal on the Notes and distributions on the Trust Certificates, all in accordance with the Basic Documents;
+
+^^with the proceeds of the sale of the Notes and the Trust Certificates, to purchase the Receivables, to fund the Reserve Account, to pay the organizational, start-up and transactional expenses of the Trust and to pay the balance of such proceeds to the Depositor pursuant to the Sale and Servicing Agreement;
+
+^^to assign, grant, transfer, pledge, mortgage and convey the Trust Estate pursuant to the Indenture and to hold, manage and distribute to the Certificateholders pursuant to the terms of this Agreement and the Sale and Servicing Agreement any portion of the Trust Estate released from the Lien of, and remitted to the Trust pursuant to, the Indenture;
+
+^^to enter into and perform its obligations under the Basic Documents to which it is to be a party;
+
+^^to engage in those activities, including entering into agreements, that are necessary, suitable or convenient to accomplish the foregoing or are incidental thereto or connected therewith;
+
+^^to enter into derivative transactions upon the satisfaction of the Rating Agency Condition at any time or from time to time after the issuance of the Notes. The notional amount of those derivatives may (but need not) exceed the amount of the Notes and need not relate to or counteract risks associated with the Notes or the Receivables; provided, however, that any payments to the applicable counterparties to the derivative transactions on any Payment Date are to be made only after all required payments to the Noteholders and deposits to the Reserve Account on such Payment Date; and
+
+^^subject to compliance with the Basic Documents, to engage in such other activities as may be required in connection with conservation of the Trust Estate and the making of distributions to the Certificateholders and the Noteholders.
+
+The Trust is hereby authorized to engage in the foregoing activities. The Trust shall not engage in any activity other than in connection with the foregoing or other than as required or authorized by the terms of this Agreement or the Basic Documents.
+
+^**Appointment of Owner Trustee**. The Depositor hereby appoints the Owner Trustee as trustee of the Trust effective as of the date hereof, to have all the rights, powers and duties set forth herein.
+
+^**Initial Capital Contribution of Trust Estate**. Pursuant to the Original Trust Agreement, the Depositor sold, assigned, transferred, conveyed and set over to the Owner Trustee, as of the date thereof, the sum of $[[USD Value 2: Number]]. The Owner Trustee hereby acknowledges receipt in trust from the Depositor, as of the date of the Original Trust Agreement, of the foregoing contribution, which shall constitute the initial Trust Estate and shall be deposited in the Certificate Distribution Account. The Depositor shall pay organizational expenses of the Trust as they may arise or shall, upon the request of the Owner Trustee, promptly reimburse the Owner Trustee for any such expenses paid by the Owner Trustee.
+
+^**Declaration of Trust**. The Owner Trustee hereby declares that it will hold the Trust Estate in trust upon and subject to the conditions set forth herein for the use and benefit of the Certificateholders, subject to the obligations of the Trust under the Basic Documents. It is the intention of the parties hereto that the Trust constitute a statutory trust under the Statutory Trust Act and that this Agreement constitute the governing instrument of such statutory trust. It is the intention of the parties hereto that, for income and franchise tax purposes, until the Trust Certificates are held by more than one Person, the Trust will be disregarded as an entity separate from the Depositor (or another Person that beneficially owns all of the Trust Certificates) and the Notes will be characterized as debt. At such time that the Trust Certificates are held by more than one Person, it is the intention of the parties hereto that, for income and franchise tax purposes, the Trust shall be treated as a partnership, with the assets of the partnership being the Receivables and other assets held by the Trust, the partners of the partnership, being the Certificateholders, and the Notes being debt of the partnership. The Depositor and the Certificateholders by acceptance of a Trust Certificate agree to such treatment and agree to take no action inconsistent with such treatment. The parties agree that, unless otherwise required by appropriate tax authorities, until the Trust Certificates are held by more than one Person the Trust will not file or cause to be filed annual or other necessary tax returns, reports and other forms inconsistent with the characterization of the Trust as a disregarded entity of its owner. Effective as of the date hereof, the Owner Trustee shall have all rights, powers and duties set forth herein and in the Statutory Trust Act with respect to accomplishing the purposes of the Trust.
+
+^**Title to Trust Property**. Subject to the Indenture, legal title to all the Trust Estate shall be vested at all times in the Trust as a separate legal entity except where applicable law in any jurisdiction requires title to any part of the Trust Estate to be vested in a trustee or trustees, in which case title shall be deemed to be vested in the Owner Trustee, a co-trustee or a separate trustee, as the case may be; provided that prior to taking title to any part of the Trust Estate, the Owner Trustee will notify the Servicer and the Indenture Trustee.
+
+^**Situs of Trust**. The Trust will be located and administered in the State of Delaware. All bank accounts maintained by the Owner Trustee on behalf of the Trust shall be located in the State of Delaware or the State of New York. The Trust shall not have any employees; provided, however, that nothing herein shall restrict or prohibit the Owner Trustee from having employees within or without the State of Delaware. Payments will be received by the Trust only in Delaware or New York, and payments will be made by the Trust only from Delaware or New York. The only office of the Trust will be at the Corporate Trust Office in the State of Delaware.
+
+^**Representations, Warranties and Covenants of the Depositor**. The Depositor hereby represents and warrants to the Owner Trustee that:
+
+^^The Depositor is duly organized and validly existing as a corporation in good standing under the laws of the State of Delaware, with power and authority to own its properties and to conduct its business as such properties are currently owned and such business is presently conducted.
+
+^^The Depositor is duly qualified to do business as a foreign corporation in good standing and has obtained all necessary licenses and approvals in all jurisdictions in which the ownership or lease of its property or the conduct of its business shall require such qualifications.
+
+^^The Depositor has the corporate power and authority to execute and deliver this Agreement and to carry out its terms; the Depositor has full power and authority to sell and assign the property to be sold and assigned to and deposited with the Trust and the Depositor has duly authorized such sale and assignment and deposit to the Trust by all necessary corporate action; and the execution, delivery and performance of this Agreement have been duly authorized by the Depositor by all necessary corporate action.
+
+^^The Depositor has duly executed and delivered this Agreement, and this Agreement constitutes a legal, valid and binding obligation of the Depositor, enforceable against the Depositor, in accordance with its terms, except as such enforcement may be limited by applicable bankruptcy, insolvency, reorganization or other similar laws relating to or limiting creditors' rights generally or by general equitable principles.
+
+^^The consummation of the transactions contemplated by this Agreement and the fulfillment of the terms hereof do not conflict with, result in any breach of any of the terms and provisions of, or constitute (with or without notice or lapse of time) a default under, the articles and bylaws of the Depositor, or any indenture, agreement or other instrument to which the Depositor is a party or by which it is bound; nor result in the creation or imposition of any Lien upon any of its properties pursuant to the terms of any such indenture, agreement or other instrument (other than pursuant to the Basic Documents); nor violate any law or, to the best of the Depositor’s knowledge, any order, rule or regulation applicable to the Depositor of any court or of any federal or state regulatory body, administrative agency or other governmental instrumentality having jurisdiction over the Depositor or its properties.
+
+^^There are no proceedings or investigations pending or, to the knowledge of the Depositor, threatened before any court, regulatory body, administrative agency or other governmental instrumentality having jurisdiction over the Depositor or its properties (i) asserting the invalidity of this Agreement, (ii) seeking to prevent the consummation of any of the transactions contemplated by this Agreement or (iii) seeking any determination or ruling that might materially and adversely affect the performance by the Depositor of its obligations under, or the validity or enforceability of, this Agreement.
+
+^^The representations and warranties of the Depositor in Section 3.02 of the Sale and Servicing Agreement are true and correct.
+
+^**Federal Income Tax Allocations**. If the Trust Certificates are held by more than one Person, for federal income tax purposes each item of income, gain, loss, credit and deduction for a month shall be allocated to the Certificateholders as of the first Record Date following the end of such month in proportion to their Certificate Percentage Interests on such Record Date. The Trust (or the Administrator in accordance with the Administration Agreement and Section 5.04) is authorized to modify the allocations in this paragraph if necessary or appropriate, in its sole discretion, for the allocations to fairly reflect the economic income, gain or loss to the Certificateholders or otherwise comply with the requirements of the Code.
+
+\centered **TRUST CERTIFICATES AND TRANSFER OF INTERESTS**
+
+^**Initial Ownership**. Upon the formation of the Trust by the contribution by the Depositor pursuant to Section 2.05 and until the issuance of the Trust Certificates, the Depositor shall be the sole beneficiary of the Trust.
+
+^**The Trust Certificates**. The Trust Certificates shall be executed on behalf of the Trust by manual or facsimile signature of an authorized officer of the Owner Trustee. Trust Certificates bearing the manual or facsimile signatures of individuals who were, at the time when such signatures shall have been affixed, authorized to sign on behalf of the Trust, shall be validly issued and entitled to the benefit of this Agreement and shall be valid and binding obligations of the Trust, notwithstanding that such individuals or any of them shall have ceased to be so authorized prior to the authentication and delivery of such Trust Certificates or did not hold such offices at the date of authentication and delivery of such Trust Certificates.
+
+If a transfer of the Trust Certificates is permitted pursuant to Section 3.11, a transferee of a Trust Certificate shall become a Certificateholder and shall be entitled to the rights and subject to the obligations of a Certificateholder hereunder upon such transferee’s acceptance of a Trust Certificate duly registered in such transferee’s name pursuant to Section 3.04.
+
+^**Execution, Authentication and Delivery of Trust Certificates**. On the Closing Date, the Owner Trustee shall cause the Trust Certificates in an aggregate Certificate Percentage Interest equal to [[Percentage 1: Number]]% to be executed on behalf of the Trust, authenticated and delivered to or upon the written order of the Depositor, signed by the Owner Trustee on behalf of the Trust, without further action by the Depositor, in authorized denominations. No Trust Certificate shall entitle its Holder to any benefit under this Agreement or be valid for any purpose unless there shall appear on such Trust Certificate a certificate of authentication substantially in the form set forth in Exhibit A, executed by the Owner Trustee or Citibank, N.A., as the Owner Trustee’s Authenticating Agent, by manual signature; such authentication shall constitute conclusive evidence that such Trust Certificate shall have been duly authenticated and delivered hereunder. All Trust Certificates shall be dated the date of their authentication.
+
+^**Registration of Transfer and Exchange of Trust Certificates**. The Certificate Registrar shall keep or cause to be kept, at the office or agency maintained pursuant to Section 3.08, a Certificate Register in which, subject to such reasonable regulations as it may prescribe, the Owner Trustee shall provide for the registration of Trust Certificates and of transfers and exchanges of Trust Certificates as herein provided. Wilmington Trust Company shall be the initial Certificate Registrar.
+
+Upon surrender for registration of transfer of any Trust Certificate at the office or agency maintained pursuant to Section 3.08, the Owner Trustee shall execute, authenticate and deliver (or shall cause its Authenticating Agent to authenticate and deliver), in the name of the designated transferee or transferees, one or more new Trust Certificates in authorized denominations of a like aggregate amount dated the date of authentication by the Owner Trustee or any Authenticating Agent. At the option of a Certificateholder, Trust Certificates may be exchanged for other Trust Certificates of authorized denominations of a like aggregate amount upon surrender of the Trust Certificates to be exchanged at the office or agency maintained pursuant to Section 3.08.
+
+Every Trust Certificate presented or surrendered for registration of transfer or exchange shall be accompanied by a written instrument of transfer in form satisfactory to the Owner Trustee and the Certificate Registrar duly executed by the related Certificateholder or such Certificateholder’s attorney duly authorized in writing. Each Trust Certificate surrendered for registration of transfer or exchange shall be cancelled and subsequently disposed of by the Owner Trustee in accordance with its customary practice.
+
+No service charge shall be made for any registration of transfer or exchange of Trust Certificates, but the Owner Trustee or the Certificate Registrar may require payment of a sum sufficient to cover any tax or governmental charge that may be imposed in connection with any transfer or exchange of Trust Certificates.
+
+The preceding provisions of this Section notwithstanding, the Owner Trustee shall not make, and the Certificate Registrar shall not register transfers or exchanges of, Trust Certificates for a period of 15 days preceding the due date for any payment with respect to the Trust Certificates.
+
+The provisions of this Section are exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the transfer of the Trust Certificates.
+
+^**Mutilated, Destroyed, Lost or Stolen Trust Certificates**. If (a) any mutilated Trust Certificate shall be surrendered to the Certificate Registrar, or if the Certificate Registrar shall receive evidence to its satisfaction of the destruction, loss or theft of any Trust Certificate and (b) there shall be delivered to the Certificate Registrar and the Owner Trustee such security or indemnity as may be required by them to save each of them harmless, then in the absence of notice that such Trust Certificate has been acquired by a bona fide purchaser, the Owner Trustee on behalf of the Trust shall execute and the Owner Trustee or the Owner Trustee’s Authenticating Agent, shall authenticate and deliver, in exchange for or in lieu of any such mutilated, destroyed, lost or stolen Trust Certificate, a new Trust Certificate of like tenor and denomination. In connection with the issuance of any new Trust Certificate under this Section, the Owner Trustee or the Certificate Registrar may require the payment of a sum sufficient to cover any tax or other governmental charge that may be imposed in connection therewith. Any duplicate Trust Certificate issued pursuant to this Section shall constitute conclusive evidence of ownership in the Trust, as if originally issued, whether or not the lost, stolen or destroyed Trust Certificate shall be found at any time.
+
+^**Persons Deemed Owners**. Prior to due presentation of a Trust Certificate for registration of transfer, the Owner Trustee, the Certificate Registrar or any Paying Agent may treat the Person in whose name any Trust Certificate is registered in the Certificate Register as the owner of such Trust Certificate for the purpose of receiving distributions pursuant to Section 5.02 and for all other purposes whatsoever, and none of the Owner Trustee, the Certificate Registrar or any Paying Agent shall be bound by any notice to the contrary.
+
+^**Access to List of Certificateholders’ Names and Addresses**. The Owner Trustee shall furnish or cause to be furnished to the Servicer, the Paying Agent and the Depositor, within 15 days after receipt by the Owner Trustee of a written request therefor from the Servicer, the Paying Agent or the Depositor, a list, in such form as the Servicer or the Depositor may reasonably require, of the names and addresses of the Certificateholders as of the most recent Record Date. The Certificate Registrar shall also promptly furnish to the Owner Trustee and the Paying Agent a copy of such list at any time there is a change therein. If (a) three or more Certificateholders or (b) one or more Holders of Trust Certificates evidencing not less than [[Percentage 2: Number]]% of the Certificate Percentage Interests apply in writing to the Owner Trustee, and such application states that the applicants desire to communicate with other Certificateholders with respect to their rights under this Agreement or under the Trust Certificates and such application is accompanied by a copy of the communication that such applicants propose to transmit, then the Owner Trustee shall, within five Business Days after the receipt of such application, afford such applicants access during normal business hours to the current list of Certificateholders. Each Certificateholder, by receiving and holding a Trust Certificate, shall be deemed to have agreed not to hold any of the Depositor, the Certificate Registrar or the Owner Trustee accountable by reason of the disclosure of its name and address, regardless of the source from which such information was derived. The Certificate Registrar shall upon the request of the Owner Trustee provide such list, or access to such list, of Certificateholders as contemplated by this Section.
+
+^**Maintenance of Office or Agency**. The Trust shall designate in the State of Delaware an office or offices or agency or agencies where Trust Certificates may be surrendered for registration of transfer or exchange and where notices and demands to or upon the Trust and Owner Trustee in respect of the Trust Certificates and the Basic Documents may be served. The Trust initially designates Wilmington Trust Company as its office for such purposes. The Trust shall give prompt written notice to the Depositor and the Certificateholders of any change in the location of the Certificate Register or any such office or agency.
+
+^**Appointment of Paying Agent**. The Paying Agent shall make distributions to Certificateholders from the Certificate Distribution Account pursuant to Section 5.02 and shall report the amounts of such distributions to the Owner Trustee. Any Paying Agent shall have the revocable power to withdraw funds from the Certificate Distribution Account for the purpose of making the distributions referred to above. The Owner Trustee may revoke such power and remove the Paying Agent if the Owner Trustee determines in its sole discretion that the Paying Agent shall have failed to perform its obligations under this Agreement in any material respect; provided, however, the Owner Trustee shall have no duty to monitor or oversee the compliance by the Paying Agent of its obligations under this Agreement or any other Basic Document. The Paying Agent initially shall be Citibank, N.A., and any co-paying agent chosen by the Trust. Citibank, N.A. shall be permitted to resign as Paying Agent upon 30 days’ written notice to the Owner Trustee. In the event that Citibank, N.A. shall no longer be the Paying Agent, the Depositor, with the consent of the Owner Trustee, shall appoint a successor to act as Paying Agent (which shall be a bank or trust company). The Trust shall cause such successor Paying Agent or any additional Paying Agent appointed hereunder to execute and deliver to the Trust an instrument in which such successor Paying Agent or additional Paying Agent shall agree with the Trust that, as Paying Agent, such successor Paying Agent or additional Paying Agent will hold all sums, if any, held by it for payment to the Certificateholders in trust for the benefit of the Certificateholders entitled thereto until such sums shall be paid to such Certificateholders. The Paying Agent shall return all unclaimed funds to the Owner Trustee and upon removal of a Paying Agent such Paying Agent shall also return all funds in its possession to the Owner Trustee. Any reference in this Agreement to the Paying Agent shall include any co-paying agent unless the context requires otherwise.
+
+^**Form of Trust Certificates**. The Trust Certificates, upon original issuance, will be issued in the form of a typewritten Trust Certificate or Trust Certificates representing definitive, fully registered Trust Certificates (the “Definitive Trust Certificates”) and shall be registered in the name of the Depositor or upon order of the Depositor as the initial registered owner thereof. The Owner Trustee shall execute and authenticate, or cause to be authenticated, the Definitive Trust Certificates in accordance with the instructions of the Depositor. The Depositor hereby orders the Owner Trustee to execute and authenticate, or cause to be authenticated, the Definitive Trust Certificates. Neither the Certificate Registrar nor the Owner Trustee shall be liable for any delay in delivery of such instructions and may conclusively rely on, and shall be protected in relying on, such instructions. Upon the issuance of the Trust Certificates, the Owner Trustee and each Paying Agent shall recognize the Holders of the Trust Certificates as Certificateholders. The Trust Certificates shall be printed, lithographed or engraved, or may be produced in any other manner as is reasonably acceptable to the Owner Trustee, as evidenced by its execution thereof.
+
+^**Transfer Restrictions**. (a) No Trust Certificate may be resold, assigned or transferred (including by pledge or hypothecation) unless such resale, assignment or transfer is (i) pursuant to an effective registration statement under the Securities Act and any applicable state securities or “Blue Sky” laws, (ii) pursuant to Rule 144A promulgated under the Securities Act (“Rule 144A”) or (iii) pursuant to another exemption from the registration requirements of the Securities Act and subject to the receipt by the Owner Trustee and the Depositor of (A) a certification by the prospective transferee of the facts surrounding such transfer, which certification shall be in form and substance satisfactory to the Owner Trustee and the Depositor and (B) if requested by the Owner Trustee, an opinion of counsel (which will not be at the expense of the Owner Trustee), satisfactory to the Depositor and the Owner Trustee, to the effect that the transfer is in compliance with the Securities Act, and, in each case, in compliance with any applicable securities or “Blue Sky” laws of any state of the United States. In addition, each transferee shall provide to the Owner Trustee its tax identification number, address, nominee name (if applicable) and wire transfer instructions. Prior to any resale, assignment or transfer of the Trust Certificates described in clause (ii) above, each prospective purchaser of the Trust Certificates shall have acknowledged, represented and agreed as follows:
+
+^It is a “qualified institutional buyer” as defined in Rule 144A (“QIB”) and is acquiring the Trust Certificates for its own institutional account (and not for the account of others) or as a fiduciary or agent for others (which others also are QIBs).
+
+^It acknowledges that the Trust Certificates have not been and will not be registered under the Securities Act or the securities laws of any jurisdiction.
+
+^It is familiar with Rule 144A and is aware that the sale is being made in reliance on Rule 144A and it is not acquiring the Trust Certificates with a view to, or for resale in connection with, a distribution that would constitute a public offering within the meaning of the Securities Act or a violation of the Securities Act, and that, if in the future it decides to resell, assign, pledge or otherwise transfer any Trust Certificates, such Trust Certificates may be resold, assigned, pledged or transferred only (i) to the Depositor or any Affiliate thereof, (ii) so long as such Trust Certificate is eligible for resale pursuant to Rule 144A, to a person whom it reasonably believes after due inquiry is a QIB acting for its own account (and not for the account of others) or as a fiduciary or agent for others (which others also are QIBs) to whom notice is given that the resale, pledge, assignment or transfer is being made in reliance on Rule 144A, (iii) pursuant to an effective registration statement under the Securities Act or (iv) in a sale, pledge or other transfer made in a transaction otherwise exempt from the registration requirements of the Securities Act, in which case (A) the Owner Trustee shall require that both the prospective transferor and the prospective transferee certify to the Owner Trustee and the Depositor in writing the facts surrounding such transfer, which certification shall be in form and substance satisfactory to the Owner Trustee and the Depositor and (B) the Owner Trustee shall require a written opinion of counsel (which will not be at the expense of the Depositor or the Owner Trustee) satisfactory to the Depositor and the Owner Trustee to the effect that such transfer will not violate the Securities Act, in each case in accordance with any applicable securities or “Blue Sky” laws of any state of the United States.
+
+^It is aware that it (or any account for which it is purchasing) may be required to bear the economic risk of an investment in the Trust Certificates for an indefinite period, and it (or such account) is able to bear such risk for an indefinite period.
+
+^It understands that the Trust Certificates will bear legends substantially as set forth in Section 3.12.
+
+^If it is acquiring any Trust Certificates for the account of one or more qualified institutional buyers, it represents that it has sole investment discretion with respect to each such account and that it has full power to make the foregoing acknowledgements, representations and agreements on behalf of each such account.
+
+^It (and any Person for which it holds Trust Certificates) has neither acquired nor will it transfer any Trust Certificate it purchases (or any interest therein) or cause any such Trust Certificate (or any interest therein) to be marketed on or through an “established securities market” within the meaning of Section 7704(b)(1) of the Code, including, without limitation, an over-the-counter-market or an interdealer quotation system that regularly disseminates firm buy or sell quotations.
+
+^It (and any Person for which it holds Trust Certificates, collectively for purposes of this paragraph (8), a “transferee”) either (A) is not, and will not become, a partnership, S corporation or grantor trust for U.S. federal income tax purposes (or a disregarded entity of any of the foregoing) or (B) is such an entity, but none of the direct or indirect beneficial owners of any of the interests in such transferee have allowed or caused, or will allow or cause, [[Percentage 2]]% or more (or, if the Owner Trustee has received an Opinion of Counsel in form and substance acceptable to the Depositor that the proposed transfer to such transferee will not cause the Trust to be treated as a publicly traded partnership within the meaning of Section 7704 of the Code, such other percentage as the Owner Trustee may establish prior to the time of such proposed transfer) of the value of such interests in the transferee to be attributable to such transferee’s ownership of Trust Certificates.
+
+^It understands that if it is acquiring any Trust Certificate for the account of one or more Persons, (A) it shall provide to the Owner Trustee and the Depositor information as to the number of such Persons and any changes in the number of such Persons and (B) any such change in the number of Persons for whose account a Trust Certificate is held shall require the written consent of the Owner Trustee, which consent shall be granted unless the Owner Trustee determines that such proposed change in number of Persons would create a risk that the Trust would be classified for federal or any applicable state tax purposes as an association (or a publicly traded partnership) taxable as a corporation.
+
+^It understands that no subsequent transfer of the Trust Certificates (or any interest therein) is permitted unless (A) such transfer is of a Trust Certificate with a Certificate Percentage Interest of at least [[Percentage 3: Number]]%, (B) it causes its proposed transferee to provide to the Owner Trustee and the Depositor a letter substantially in the form of Exhibit C hereto, or such other written statement as the Owner Trustee shall prescribe and (C) the Trust consents in writing to the proposed transfer, which consent shall be granted unless the Owner Trustee determines that such transfer would either create a risk that the Trust would be classified for federal or any applicable state tax purposes as an association (or a publicly traded partnership) taxable as a corporation; provided, however, that any attempted transfer that would cause the number of beneficial owners of Trust Certificates in the aggregate to exceed 100 or otherwise cause the Trust to become a publicly traded partnership for income tax purposes shall be a void transfer.
+
+^It understands that the Opinion of Counsel to the Trust that the Trust is not a publicly traded partnership taxable as a corporation is dependent in part on the accuracy of the representations in paragraphs (7), (8), (9) and (10) above.
+
+^It is a United States Person within the meaning of Section 7701(a)(30) of the Code.
+
+^It acknowledges that the Owner Trustee, the Depositor, and their Affiliates, and others will rely upon the truth and accuracy of the foregoing acknowledgments, representations and agreements.
+
+Each transferee of the Trust Certificates shall be required to execute or to have executed a representation letter substantially in the form of Exhibit C, or may deliver such other representations (or an opinion of counsel) as may be approved by the Owner Trustee and the Depositor, to the effect that such transfer may be made pursuant to an exemption from registration under the Securities Act and any applicable state securities or “Blue Sky” laws.
+
+In addition, such prospective purchaser shall be responsible for providing additional information or certification, as shall be reasonably requested by the Owner Trustee or the Depositor, to support the truth and accuracy of the foregoing acknowledgments, representations and agreements, it being understood that such additional information is not intended to create additional restrictions on the transfer of the Trust Certificates. Neither the Depositor, the Trust nor the Owner Trustee shall be obligated to register or monitor compliance with the Trust Certificates under the Securities Act or any state securities or “Blue Sky” laws.
+
+In determining compliance with the transfer restrictions contained in this Section, the Owner Trustee may rely upon a written opinion of counsel (which may include in-house counsel of the transferor), the cost of obtaining which shall be an expense of the Holder of the Certificate to be transferred.
+
+^^The Trust Certificates may not be acquired by or for the account of (i) an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is subject to the provisions of Title I of ERISA, (ii) a “plan” described in Section 4975(e)(1) of the Code that is subject to Section 4975 of the Code or (iii) any entity whose underlying assets include plan assets by reason of an employee benefit plan’s or a plan’s investment in the entity (each, a “Benefit Plan Investor”). By accepting and holding a Trust Certificate, the Holder thereof shall be deemed to have represented and warranted that it is not a Benefit Plan Investor.
+
+^**Legending of Trust Certificates**. Each Trust Certificate shall bear a legend in substantially the following form, unless the Depositor determines otherwise in accordance with applicable law:
+
+THIS TRUST CERTIFICATE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OR ANY OTHER APPLICABLE SECURITIES OR “BLUE SKY” LAWS OF ANY STATE OR OTHER JURISDICTION, AND MAY NOT BE RESOLD, ASSIGNED, PLEDGED OR OTHERWISE TRANSFERRED EXCEPT IN COMPLIANCE WITH THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT OR ANY OTHER APPLICABLE SECURITIES OR “BLUE SKY” LAWS, PURSUANT TO AN EXEMPTION THEREFROM OR IN A TRANSACTION NOT SUBJECT THERETO. THE HOLDER HEREOF, BY PURCHASING THIS TRUST CERTIFICATE, AGREES THAT THIS TRUST CERTIFICATE MAY BE RESOLD, ASSIGNED, PLEDGED OR TRANSFERRED ONLY (A) SO LONG AS THE TRUST CERTIFICATE IS ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT, TO THE PERSON WHOM THE TRANSFEROR REASONABLY BELIEVES AFTER DUE INQUIRY IS A QUALIFIED INSTITUTIONAL BUYER ACTING FOR ITS OWN ACCOUNT (AND NOT FOR THE ACCOUNT OF OTHERS) OR AS A FIDUCIARY OR AGENT FOR OTHERS (WHICH OTHERS ALSO ARE QUALIFIED INSTITUTIONAL BUYERS) TO WHOM NOTICE IS GIVEN THAT THE RESALE, ASSIGNMENT, PLEDGE OR TRANSFER IS BEING MADE IN RELIANCE ON RULE 144A, (B) TO A UNITED STATES PERSON WITHIN THE MEANING OF SECTION 7701(a)(30) OF THE CODE, (C) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (D) IN A TRANSACTION EXEMPT FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND OTHER SECURITIES OR “BLUE SKY” LAWS. IN SUCH CASE THE OWNER TRUSTEE SHALL REQUIRE (I) THAT THE PROSPECTIVE TRANSFEREE CERTIFY TO THE OWNER TRUSTEE AND THE DEPOSITOR IN WRITING THE FACTS SURROUNDING SUCH TRANSFER, WHICH CERTIFICATION SHALL BE IN FORM AND SUBSTANCE SATISFACTORY TO THE OWNER TRUSTEE AND (II) IF REQUESTED BY THE OWNER TRUSTEE, A WRITTEN OPINION OF COUNSEL (WHICH SHALL NOT BE AT THE EXPENSE OF THE OWNER TRUSTEE OR THE DEPOSITOR) SATISFACTORY TO THE OWNER TRUSTEE AND THE DEPOSITOR, TO THE EFFECT THAT SUCH TRANSFER WILL NOT VIOLATE THE SECURITIES ACT, IN EACH CASE IN ACCORDANCE WITH ANY APPLICABLE SECURITIES OR “BLUE SKY” LAWS OF ANY STATE OR JURISDICTION. ANY ATTEMPTED TRANSFER IN CONTRAVENTION OF THE IMMEDIATELY PRECEDING RESTRICTIONS WILL BE VOID AB INITIO AND THE PURPORTED TRANSFEROR WILL CONTINUE TO BE TREATED AS THE OWNER OF THE TRUST CERTIFICATE FOR ALL PURPOSES.
+
+NO TRUST CERTIFICATE OR INTEREST THEREIN MAY BE ACQUIRED BY OR FOR THE ACCOUNT OF (I) AN “EMPLOYEE BENEFIT PLAN” (AS DEFINED IN SECTION 3(3) OF THE EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), THAT IS SUBJECT TO THE PROVISIONS OF TITLE I OF ERISA, (II) A “PLAN” DESCRIBED IN SECTION 4975(e)(1) OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”), THAT IS SUBJECT TO SECTION 4975 OF THE CODE OR (III) ANY ENTITY WHOSE UNDERLYING ASSETS INCLUDE PLAN ASSETS BY REASON OF AN EMPLOYEE BENEFIT PLAN’S OR A PLAN’S INVESTMENT IN THE ENTITY (EACH, A “BENEFIT PLAN INVESTOR”). BY ACCEPTING AND HOLDING A TRUST CERTIFICATE, THE HOLDER THEREOF SHALL BE DEEMED TO HAVE REPRESENTED AND WARRANTED THAT IT IS NOT A BENEFIT PLAN INVESTOR.
+
+^**Authenticating Agent**.  
+^^The Owner Trustee may appoint one or more Authenticating Agents (each, an “Authenticating Agent”) with respect to the Certificates which shall be authorized to act on behalf of the Owner Trustee in authenticating the Certificates in connection with the issuance, delivery, registration of transfer, exchange or repayment of the Certificates. The Owner Trustee hereby appoints Citibank, N.A. as Authenticating Agent for the authentication of Certificates upon any registration of transfer or exchange of such Certificates. Whenever reference is made in this Agreement to the authentication of Certificates by the Owner Trustee or the Owner Trustee's certificate of authentication, such reference shall be deemed to include authentication on behalf of the Owner Trustee by an Authenticating Agent and a certificate of authentication executed on behalf of the Owner Trustee by an Authenticating Agent. Each Authenticating Agent (other than Citibank, N.A.) shall be subject to acceptance by the Depositor.
+
+^^Any institution succeeding to the corporate agency business of an Authenticating Agent shall continue to be an Authenticating Agent without the execution or filing of any paper or any further act on the part of the Owner Trustee or such Authenticating Agent.
+
+^^An Authenticating Agent may at any time resign by giving written notice of resignation to the Owner Trustee and the Depositor. The Owner Trustee may at any time terminate the agency of an Authenticating Agent by giving notice of termination to such Authenticating Agent and to the Depositor. Upon receiving such a notice of resignation or upon such a termination, or in case at any time an Authenticating Agent shall cease to be acceptable to the Owner Trustee or the Depositor, the Owner Trustee promptly may appoint a successor Authenticating Agent with the consent of the Depositor. Any successor Authenticating Agent upon acceptance of its appointment hereunder shall become vested with all the rights, powers and duties of its predecessor hereunder, with like effect as if originally named as an Authenticating Agent.
+
+^^The Depositor shall pay the Authenticating Agent from time to time reasonable compensation for its services under this Section 3.13.
+
+^^Pursuant to an appointment made under this Section 3.13, the Certificates may have endorsed thereon, in lieu of the Owner Trustee's certificate of authentication, an alternate certificate of authentication in substantially the following form:
+
+This is one of the Certificates referred to in the within mentioned Agreement. 
+
+______________________________________________________
+as Owner Trustee
+
+[[As Owner Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Owner Trustee Entity => By: [[As Owner Trustee Signatory First Name]] [[As Owner Trustee Signatory Last Name]]
+Title: [[As Owner Trustee Signatory Title]]}}
+
+Authorized Officer
+
+or
+
+______________________________________________________
+as Authenticating Agent for the Owner Trustee,
+
+[[As Authenticating Agent for the Owner Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Authenticating Agent for the Owner Trustee Entity => By: [[As Authenticating Agent for the Owner Trustee Signatory First Name]] [[As Authenticating Agent for the Owner Trustee Signatory Last Name]]
+Title: [[As Authenticating Agent for the Owner Trustee Signatory Title]]}}
+
+Authorized Officer
+
+^**Actions of Certificateholders**.
+
+^^Any request, demand, authorization, direction, notice, consent, waiver or other action provided by this Agreement to be given or taken by the Certificateholders may be embodied in and evidenced by one or more instruments of substantially similar tenor signed by such Certificateholders in person or by agent duly appointed in writing; and except as herein otherwise expressly provided, such action shall become effective when such instrument or instruments are delivered to the Owner Trustee and, when required, to the Depositor or the Servicer. Proof of execution of any such instrument or of a writing appointing any such agent shall be sufficient for any purpose of this Agreement and conclusive in favor of the Owner Trustee, the Depositor and the Servicer, if made in the manner provided in this Section 3.14.
+
+^^The fact and date of the execution by any Certificateholder of any such instrument or writing may be proved in any reasonable manner which the Owner Trustee deems sufficient. Any request, demand, authorization, direction, notice, consent, waiver or other act by a Certificateholder shall bind every Holder of every Certificate issued upon the registration of transfer thereof or in exchange therefor or in lieu thereof, in respect of anything done, or omitted to be done, by the Owner Trustee, the Depositor or the Servicer in reliance thereon, regardless of whether notation of such action is made upon such Certificate.
+
+^^The Owner Trustee may require such additional proof of any matter referred to in this Section 3.14 as it shall deem necessary.
+
+\centered **ACTIONS BY OWNER TRUSTEE**
+
+^**Prior Notice with Respect to Certain Matters**. With respect to the following matters, the Owner Trustee shall not take action unless at least 30 days before the taking of such action, the Owner Trustee shall have notified the Servicer of record as of the preceding Record Date in writing of the proposed action and such Servicer shall not have notified the Owner Trustee in writing prior to the 30th day after such notice is given that such Servicer has withheld consent or provided alternative direction:
+
+^^the initiation of any claim or lawsuit by the Trust (except claims or lawsuits brought in connection with the collection of the Receivables) and the compromise of any action, claim or lawsuit brought by or against the Trust (except with respect to the aforementioned claims or lawsuits for collection of the Receivables);
+
+^^the election by the Trust to file an amendment to the Certificate of Trust (unless such amendment is required to be filed under the Statutory Trust Act);
+
+^^the amendment of the Indenture by a supplemental indenture or any other change to this Agreement or any Basic Document in circumstances where the consent of any Noteholder is required;
+
+^^the amendment of the Indenture by a supplemental indenture or any other change to this Agreement or any Basic Document in circumstances where the consent of any Noteholder is not required and such amendment would materially adversely affect the interests of the Certificateholders;
+
+^^the amendment, change or modification of the Administration Agreement, except to cure any ambiguity or to amend or supplement any provision in a manner or add any provision that would not materially adversely affect the interests of the Certificateholders;
+
+^^the appointment pursuant to the Indenture of a successor Note Registrar, Paying Agent or Indenture Trustee or pursuant to this Agreement of a successor Certificate Registrar, or the consent to the assignment by the Note Registrar, Paying Agent or Indenture Trustee or Certificate Registrar of its obligations under the Indenture or this Agreement, as applicable;
+
+^^the consent to the calling or waiver of any default of any Basic Document;
+
+^^the consent to the assignment by the Indenture Trustee or Servicer of their respective obligations under any Basic Document, unless permitted in the Basic Documents;
+
+^^except as provided in Article 9 hereof, dissolve, terminate or liquidate the Trust in whole or in part;
+
+^^merge or consolidate the Trust with or into any other entity, or convey or transfer all or substantially all of the Trust’s assets to any other entity;
+
+^^cause the Trust to incur, assume or guaranty any indebtedness other than as set forth in this Agreement or the Basic Documents;
+
+^^do any act that conflicts with any other Basic Document;
+
+^^do any act that would make it impossible to carry on the ordinary business of the Trust as described in Section 2.03 hereof;
+
+^^confess a judgment against the Trust;
+
+^^possess Trust assets, or assign the Trust’s right to property, for other than a Trust purpose;
+
+^^cause the Trust to lend any funds to any entity, unless permitted in the Basic Documents; or
+
+^^change the Trust’s purpose and powers from those set forth in this Agreement.
+
+In addition, the Trust shall not commingle its assets with those of any other entity. The Trust shall maintain its financial and accounting books and records separate from those of any other entity. Except as expressly set forth herein, the Trust shall not pay the indebtedness, operating expenses and liabilities of any other entity. The Trust shall maintain appropriate minutes or other records of all appropriate actions and shall maintain its office separate from the offices of the Depositor and the Servicer.
+
+The Owner Trustee shall not have the power, except upon the direction of the Servicer and to the extent otherwise consistent with the Basic Documents, to (i) remove or replace the Indenture Trustee, (ii) institute proceedings to have the Trust declared or adjudicated a bankrupt or insolvent, (iii) consent to the institution of bankruptcy or insolvency proceedings against the Trust, (iv) file a petition or consent to a petition seeking reorganization or relief on behalf of the Trust under any applicable federal or state law relating to bankruptcy, (v) consent to the appointment of a receiver, liquidator, assignee, trustee, sequestrator (or any similar official) of the Trust or a substantial portion of the property of the Trust, (vi) make any assignment for the benefit of the Trust’s creditors, (vii) cause the Trust to admit in writing its inability to pay its debts generally as they become due, (viii) take any action, or cause the Trust to take any action, in furtherance of any of the foregoing (any of the above, a “Bankruptcy Action”). So long as the Indenture remains in effect, to the extent permitted by applicable law, no Certificateholder shall have the power to take, and shall not take, any Bankruptcy Action with respect to the Trust or direct the Owner Trustee to take any Bankruptcy Action with respect to the Trust.
+
+^**Action by Servicer with Respect to Certain Matters**. The Owner Trustee shall not have the power, except upon the written direction of the Servicer to (a) remove the Administrator under the Administration Agreement pursuant to Section 8 thereof, (b) appoint a successor Administrator pursuant to Section 8 of the Administration Agreement, (c) remove the Servicer under the Sale and Servicing Agreement pursuant to Section 8.02 thereof, (d) amend the Sale and Servicing Agreement pursuant to Section 10.01(b) of such document, or (e) except as expressly provided in the Basic Documents, sell the Receivables after the termination of the Indenture. The Owner Trustee shall take the actions referred to in the preceding sentence only upon written instructions signed by the Certificateholders and Servicer.
+
+^**Action by Certificateholders with Respect to Bankruptcy**. The Owner Trustee shall not have the power to commence a voluntary proceeding in bankruptcy relating to the Trust without the unanimous prior approval of all Certificateholders and the delivery to the Owner Trustee by each such Certificateholder of a certification certifying that such Certificateholder reasonably believes that the Trust is insolvent.
+
+^**Restrictions on Servicer’s Power**. The Servicer shall not direct the Owner Trustee to take or to refrain from taking any action if such action or inaction would be contrary to any obligation of the Trust or the Owner Trustee under this Agreement or any of the Basic Documents or would be contrary to Section 2.03; nor shall the Owner Trustee be obligated to follow any such direction, if given.
+
+^**Majority Control**. Except as expressly provided herein, any action that may be taken by the Certificateholders under this Agreement may be taken by the Holders of Trust Certificates evidencing not less than a majority of the Certificate Percentage Interests. Except as expressly provided herein, any written notice of the Certificateholders delivered pursuant to this Agreement shall be effective if signed by Holders of Trust Certificates evidencing not less than a majority of the Certificate Percentage Interests at the time of the delivery of such notice.
+
+\centered **APPLICATION OF TRUST FUNDS; CERTAIN DUTIES**
+
+^**Establishment of Trust Account**. The Paying Agent shall establish and maintain in the name of the Trust an Eligible Account (the “Certificate Distribution Account”), bearing a designation clearly indicating that the funds deposited therein are held for the benefit of the Certificateholders. The title of the Certificate Distribution Account shall be “Hyundai Auto Receivables Trust 2010-A: Certificate Distribution Account for the benefit of the Certificateholders”.
+
+The Trust shall possess all right, title and interest in all funds on deposit from time to time in the Certificate Distribution Account and in all proceeds thereof. Except as otherwise expressly provided herein, the Certificate Distribution Account shall be under the sole dominion and control of the Owner Trustee for the benefit of the Certificateholders. If, at any time, the Certificate Distribution Account ceases to be an Eligible Account, the Paying Agent shall within 10 Business Days (or such longer period, not to exceed 30 calendar days, subject to satisfaction of the Rating Agency Condition) establish a new Certificate Distribution Account, as applicable, as an Eligible Account and shall transfer any cash or any investments to such new Certificate Distribution Account.
+
+^**Application of Trust Funds**.
+
+^^On each Payment Date, the Paying Agent shall distribute to Certificateholders all amounts deposited in the Certificate Distribution Account pursuant to Section 5.05 of the Sale and Servicing Agreement with respect to such Payment Date based upon each Certificateholder’s Certificate Percentage Interest.
+
+^^On each Payment Date, the Paying Agent shall send to each Certificateholder the statement or statements provided by the Servicer pursuant to Section 5.07 of the Sale and Servicing Agreement with respect to such Payment Date.
+
+^**Method of Payment**. Subject to Section 9.01(c), distributions required to be made to Certificateholders on any Payment Date shall be made to each Certificateholder of record on the preceding Record Date either by wire transfer, in immediately available funds, to the account of such Certificateholder at a bank or other entity having appropriate facilities therefor, if (a) such Certificateholder shall have provided to the Certificate Registrar and the Paying Agent appropriate written instructions at least five Business Days prior to such Payment Date and (b) such Certificateholder is the Depositor, or an Affiliate thereof, or, if not, by check mailed to such Certificateholder at the address of such Certificateholder appearing in the Certificate Register.
+
+^**Accounting and Reports to Certificateholders, the Internal Revenue Service and Others**. At such time as there is more than one Certificateholder (for tax purposes), the Administrator (or agent on its behalf) shall:
+
+^^unless otherwise required under the Code, maintain (or cause to be maintained) the books of the Trust on a calendar year basis and the accrual method of accounting,
+
+^^deliver (or cause to be delivered) to each Certificateholder, as may be required by the Code and applicable Treasury Regulations, such information as may be required (including Schedule K-1) to enable each Certificateholder to prepare its federal and state income tax returns,
+
+^^file (or cause to be filed) such tax returns relating to the Trust (including IRS Form 1065), and make such elections as from time to time may be required or appropriate under any applicable state or federal statute or any rule or regulation thereunder so as to maintain the Trust’s characterization as a partnership for federal income tax purposes, and
+
+^^cause such tax returns to be signed in the manner required by law. The parties to this Agreement agree and acknowledge that the Administrator shall perform the duties and obligations under this Section 5.04 in accordance with the Administration Agreement.
+
+^**Signature on Returns; Tax Matters Partner**.
+
+^^The Owner Trustee shall sign on behalf of the Trust the tax returns of the Trust provided to it in execution form, if any, unless applicable law requires a Certificateholder or another Person to sign such documents.
+
+^^As long as the Trust is treated as a partnership for federal income tax purposes and the Depositor or an affiliate is a beneficial owner of a Trust Certificate, to the extent allowed by the Code, Hyundai Capital America shall be designated the “tax matters partner” of the Trust pursuant to Section 6231(a)(7) of the Code and applicable Treasury Regulations.
+
+^**Duties of Depositor on Behalf of Trust**. Except to the extent such responsibilities are assumed by the Administrator in the Administration Agreement or the Servicer in the Sale and Servicing Agreement, the Depositor shall, on behalf of the Trust, prepare and, after execution by the Trust, file with the Securities and Exchange Commission and all applicable state agencies all documents required to be filed on a periodic basis with the SEC and all applicable state agencies (including any summaries thereof required by rules and regulations prescribed thereby), and transmit such summaries to the Noteholders pursuant to Section 7.03 of the Indenture.
+
+\centered **AUTHORITY AND DUTIES OF OWNER TRUSTEE**
+
+^**General Authority**. The Owner Trustee is authorized and directed to execute and deliver the Basic Documents to which the Trust is to be a party and each certificate or other document attached as an exhibit to or contemplated by the Basic Documents to which the Trust is to be a party, in each case, in such form as the Depositor shall approve, as evidenced conclusively by the Owner Trustee’s execution thereof. In addition to the foregoing, the Owner Trustee is authorized, but shall not be obligated, to take all actions required of the Trust pursuant to the Basic Documents. The Owner Trustee is further authorized from time to time to take such action as the Administrator recommends with respect to the Basic Documents.
+
+^**General Duties**. It shall be the duty of the Owner Trustee:
+
+^^to discharge (or cause to be discharged) all of its responsibilities pursuant to the terms of this Agreement and to administer the Trust in the interest of the Certificateholders, subject to the Basic Documents and in accordance with the provisions of this Agreement; provided, however, that notwithstanding the foregoing, the Owner Trustee shall be deemed to have discharged its duties and responsibilities hereunder and under the Basic Documents to the extent the Administrator has agreed in the Administration Agreement to perform any act or to discharge any duty of the Owner Trustee hereunder or under any Basic Document, and the Owner Trustee shall not be held liable for the default or failure of the Administrator to carry out its obligations under the Administration Agreement; and
+
+^^to cooperate with the Administrator in carrying out the Administrator’s obligation to qualify and preserve the Trust’s qualification to do business in each jurisdiction, if any, in which such qualification is or shall be necessary to protect the validity and enforceability of the Indenture, the Notes, the Receivables and any other instrument and agreement included in the Trust Estate; provided that the Owner Trustee may rely on advice of counsel with respect to such obligation.
+
+^**Action upon Instruction**.  
+^^Subject to Article 4 and in accordance with the terms of the Basic Documents, the Servicer may by written instruction direct the Owner Trustee in the management of the Trust. Such direction may be exercised at any time by written instruction of the Servicer pursuant to Article 4.
+
+^^The Owner Trustee shall not be required to take any action hereunder or under any Basic Document if the Owner Trustee shall have reasonably determined, or shall have been advised by counsel, that such action is likely to result in liability on the part of the Owner Trustee or is contrary to the terms hereof or of any Basic Document or is otherwise contrary to law.
+
+^^Whenever the Owner Trustee is unable to decide between alternative courses of action permitted or required by the terms of this Agreement or under any Basic Document, the Owner Trustee shall promptly give notice (in such form as shall be appropriate under the circumstances) to the Servicer of record as of the preceding Record Date requesting instruction as to the course of action to be adopted, and to the extent the Owner Trustee acts in good faith in accordance with any written instruction of such Servicer received, the Owner Trustee shall not be liable on account of such action to any Person. If the Owner Trustee shall not have received appropriate instruction within 10 days of such notice (or within such shorter period of time as reasonably may be specified in such notice or may be necessary under the circumstances) it may, but shall be under no duty to, take or refrain from taking such action not inconsistent with this Agreement or the Basic Documents, as it shall deem to be in the best interests of the Certificateholders, and shall have no liability to any Person for such action or inaction.
+
+^^In the event that the Owner Trustee is unsure as to the application of any provision of this Agreement or any Basic Document or any such provision is ambiguous as to its application, or is, or appears to be, in conflict with any other applicable provision, or in the event that this Agreement permits any determination by the Owner Trustee or is silent or is incomplete as to the course of action that the Owner Trustee is required to take with respect to a particular set of facts, the Owner Trustee may give notice (in such form as shall be appropriate under the circumstances) to the Servicer requesting instruction and, to the extent that the Owner Trustee acts or refrains from acting in good faith in accordance with any such instruction received, the Owner Trustee shall not be liable, on account of such action or inaction, to any Person. If the Owner Trustee shall not have received appropriate instruction within 10 days of such notice (or within such shorter period of time as reasonably may be specified in such notice or may be necessary under the circumstances) it may, but shall be under no duty to, take or refrain from taking such action not inconsistent with this Agreement or the Basic Documents, as it shall deem to be in the best interests of the Certificateholders, and shall have no liability to any Person for such action or inaction.
+
+^**No Duties Except as Specified in this Agreement or in Instructions**. The Owner Trustee shall not have any duty or obligation to manage, make any payment with respect to, register, record, sell, dispose of, or otherwise deal with the Trust Estate, or to otherwise take or refrain from taking any action under, or in connection with, any document contemplated hereby to which the Owner Trustee or the Trust is a party, except as expressly provided by the terms of this Agreement or in any document or written instruction received by the Owner Trustee pursuant to Section 6.03, and no implied duties or obligations shall be read into this Agreement or any Basic Document against the Owner Trustee. The Owner Trustee shall have no responsibility for filing any financing or continuation statement in any public office at any time or to otherwise perfect or maintain the perfection of any security interest or Lien granted to it hereunder or to prepare or file any SEC filing or tax filing for the Trust or to record this Agreement or any Basic Document. The Owner Trustee nevertheless agrees that it will, at its own cost and expense, promptly take all action as may be necessary to discharge any Liens on any part of the Trust Estate that result from actions by, or claims against, the Owner Trustee in its individual capacity that are not related to the ownership or the administration of the Trust Estate.
+
+^**No Action Except Under Specified Documents or Instructions**. The Owner Trustee shall not manage, control, use, sell, dispose of or otherwise deal with any part of the Trust Estate except (i) in accordance with the powers granted to and the authority conferred upon the Owner Trustee pursuant to this Agreement, (ii) in accordance with the Basic Documents or (iii) in accordance with any document or instruction delivered to the Owner Trustee pursuant to Section 6.03.
+
+^**Restrictions**. The Owner Trustee shall not take any action that, to its actual knowledge, (a) is inconsistent with the purposes of the Trust set forth in Section 2.03 or (b) would result in the Trust becoming taxable as a corporation for federal income tax purposes or for state or local income or franchise tax purposes. The Certificateholders and Servicer shall not direct the Owner Trustee to take any action that would violate the provisions of this Section.
+
+\centered **CONCERNING THE OWNER TRUSTEE**
+
+^**Acceptance of Trusts and Duties**. The Owner Trustee accepts the trusts hereby created and agrees to perform its duties hereunder with respect to such trusts, but only upon the terms of this Agreement. The Owner Trustee also agrees to disburse all moneys actually received by it constituting part of the Trust Estate upon the terms of this Agreement. The Owner Trustee shall not be answerable or accountable hereunder or under any Basic Document under any circumstances, except (i) for its own willful misconduct or negligence or (ii) in the case of the inaccuracy of any representation or warranty contained in Section 7.03 expressly made by the Owner Trustee. In particular, but not by way of limitation (and subject to the exceptions set forth in the preceding sentence):
+
+^^The Owner Trustee shall not be liable for any error of judgment made by a Trust Officer of the Owner Trustee;
+
+^^The Owner Trustee shall not be liable with respect to any action taken or omitted to be taken by it in accordance with the instructions of the Servicer, the Administrator or any Certificateholder;
+
+^^No provision of this Agreement or any Basic Document shall require the Owner Trustee to expend or risk funds or otherwise incur any financial liability in the performance of any of its rights or powers hereunder or under any Basic Document if the Owner Trustee shall have reasonable grounds for believing that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured or provided to it;
+
+^^Under no circumstances shall the Owner Trustee be liable for indebtedness evidenced by or arising under any of the Basic Documents, including the principal of and interest on the Notes;
+
+^^The Owner Trustee shall not be responsible for or in respect of the validity or sufficiency of this Agreement or for the due execution hereof by the Depositor or for the form, character, genuineness, sufficiency, value or validity of any of the Trust Estate, or for or in respect of the validity or sufficiency of the Basic Documents, other than the certificate of authentication on the Trust Certificates, and the Owner Trustee shall in no event assume or incur any liability, duty or obligation to any Noteholder or to any Certificateholder, other than as expressly provided for herein or expressly agreed to in the other Basic Documents;
+
+^^The Owner Trustee shall not be responsible for monitoring the performance of, and shall not be liable for the default or misconduct of the Administrator, the Depositor, the Servicer, the Indenture Trustee or any other Person under any of the Basic Documents or otherwise, and the Owner Trustee shall have no obligation or liability to perform the obligations of the Trust under the Basic Documents other than as set forth in this Trust Agreement;
+
+^^The Owner Trustee shall be under no obligation to exercise any of the rights or powers vested in it by this Agreement, or to institute, conduct or defend any litigation under this Agreement or otherwise or in relation to this Agreement or any Basic Document, at the request, order or direction of the Servicer, unless such Servicer has offered to the Owner Trustee security or indemnity satisfactory to it against the costs, expenses and liabilities that may be incurred by the Owner Trustee therein or thereby. The right of the Owner Trustee to perform any discretionary act enumerated in this Agreement or in any Basic Document shall not be construed as a duty, and the Owner Trustee shall not be answerable for other than its negligence or willful misconduct in the performance of any such act; and
+
+^^The Certificateholders agree that during such time as the Owner Trustee is acting at the direction of the Servicer, any fiduciary duties or liabilities of the Owner Trustee to the Certificateholders in connection therewith shall be deemed not to violate any fiduciary duties owed by the Owner Trustee to the Certificateholders. However, in no event shall the Owner Trustee be deemed to owe any fiduciary duties to the Servicer.
+
+^**Furnishing of Documents**. The Owner Trustee shall furnish to the Certificateholders, promptly upon receipt of a written request therefor, duplicates or copies of all reports, notices, requests, demands, certificates, financial statements and any other instruments furnished to the Owner Trustee under the Basic Documents.
+
+^**Representations and Warranties**. The Owner Trustee hereby represents and warrants to the Depositor, for the benefit of the Certificateholders, that:
+
+^^It is a banking corporation duly incorporated and validly existing in good standing under the laws of the State of Delaware. It has all requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+
+^^It has taken all corporate action necessary to authorize the execution and delivery by it of this Agreement, and this Agreement will be executed and delivered by one of its officers who is duly authorized to execute and deliver this Agreement on its behalf.
+
+^^Neither the execution or the delivery by it of this Agreement, nor the consummation by it of the transactions contemplated hereby, nor compliance by it with any of the terms or provisions hereof will contravene any federal or Delaware law, governmental rule or regulation governing the banking or trust powers of the Owner Trustee or any judgment or order binding on it, or constitute any default under its charter documents or bylaws or any indenture, mortgage, contract, agreement or instrument to which it is a party or by which any of its properties may be bound.
+
+^^It is a corporation satisfying the provisions of Section 3807(a) of the Statutory Trust Act; authorized to exercise corporate trust powers; having a combined capital and surplus of at least $[[USD Value 1: Number]] and subject to supervision or examination by federal or state authorities; and having (or having a parent that has) time deposits that are rated at least A-1 by Standard & Poor’s and Prime-1 by Moody’s or with respect to which the Rating Agency Condition has been satisfied.
+
+^**Reliance; Advice of Counsel**.
+
+^^The Owner Trustee shall incur no liability to anyone in acting upon any signature, instrument, notice, resolution, request, consent, order, certificate, report, opinion, bond, or other document or paper believed by it to be genuine and believed by it to be signed by the proper party or parties. The Owner Trustee may accept a certified copy of a resolution of the board of directors or other governing body of any corporate party as conclusive evidence that such resolution has been duly adopted by such body and that the same is in full force and effect. As to any fact or matter the method of determination of which is not specifically prescribed herein, the Owner Trustee may for all purposes hereof rely on a certificate, signed by the president or any vice president or by the treasurer or other authorized officers of the relevant party, as to such fact or matter, and such certificate shall constitute full protection to the Owner Trustee for any action taken or omitted to be taken by it in good faith in reliance thereon.
+
+^^In the exercise or administration of the trust hereunder and in the performance of its duties and obligations under this Agreement or the Basic Documents, the Owner Trustee (i) may act directly or through its agents or attorneys pursuant to agreements entered into with any of them, and the Owner Trustee shall not be liable for the conduct or misconduct of such agents or attorneys if such agents or attorneys shall have been selected by the Owner Trustee with reasonable care, and (ii) may consult with counsel, accountants and other skilled Persons to be selected with reasonable care and employed by it. The Owner Trustee shall not be liable for anything done, suffered or omitted reasonably and in good faith by it in accordance with the opinion or advice of any such counsel, accountants or other such Persons.
+
+^**Not Acting in Individual Capacity**. Except as provided in this Article 7, in accepting the trust hereby created, Wilmington Trust Company acts solely as Owner Trustee hereunder and not in its individual capacity, and all Persons having any claim against the Owner Trustee by reason of the transactions contemplated by this Agreement or any Basic Document shall look only to the Trust Estate for payment or satisfaction thereof.
+
+^**Owner Trustee Not Liable for Trust Certificates or for Receivables**. The recitals contained herein and in the Trust Certificates (other than the signature and countersignature of the Owner Trustee on the Trust Certificates) shall be taken as the statements of the Depositor, and the Owner Trustee assumes no responsibility for the correctness thereof. Except as set forth in Section 7.03, the Owner Trustee makes no representations as to the validity or sufficiency of this Agreement, of any Basic Document or of the Trust Certificates (other than the signature and authentication of the Owner Trustee on the Trust Certificates) or the Notes, or of any Receivable or related documents. The Owner Trustee shall at no time have any responsibility or liability for or with respect to the legality, validity and enforceability of any Receivable or the perfection and priority of any security interest created by any Receivable in any Financed Vehicle or the maintenance of any such perfection and priority, or for or with respect to the sufficiency of the Trust Estate or its ability to generate the payments to be distributed to the Certificateholders under this Agreement or the Noteholders under the Indenture, including, without limitation: (a) the existence, condition and ownership of any Financed Vehicle; (b) the existence and enforceability of any insurance thereon; (c) the existence and contents of any Receivable on any computer or other record thereof; (d) the validity of the assignment of any Receivable to the Trust or of any intervening assignment; (e) the completeness of any Receivable; (f) the performance or enforcement of any Receivable; and (g) the compliance by the Depositor or the Servicer with any warranty or representation made under any Basic Document or in any related document or the accuracy of any such warranty or representation, or any action of the Administrator, the Indenture Trustee or the Servicer or any subservicer taken in the name of the Owner Trustee.
+
+^**Owner Trustee May Own Trust Certificates and Notes**. The Owner Trustee in its individual or any other capacity may become the owner or pledgee of Trust Certificates or Notes and may deal with the Depositor, the Administrator, the Indenture Trustee and the Servicer in banking transactions with the same rights as it would have if it were not Owner Trustee.
+
+^**Doing Business in Other Jurisdictions**. Notwithstanding anything contained herein to the contrary, neither Wilmington Trust Company nor the Owner Trustee shall be required to take any action in any jurisdiction other than in the State of Delaware if the taking of such action will (a) require the consent or approval or authorization or order of, or the giving of notice to, or the registration with, or the taking of any other action required by, any state or other governmental authority or agency of any jurisdiction other than the State of Delaware; (b) result in any fee, tax or other governmental charge under the laws of any jurisdiction or any political subdivisions thereof in existence on the date hereof other than the State of Delaware becoming payable by Wilmington Trust Company or the Owner Trustee; or (c) subject Wilmington Trust Company or the Owner Trustee to personal jurisdiction in any jurisdiction other than the State of Delaware for causes of action arising from acts unrelated to the consummation of the transactions by Wilmington Trust Company or the Owner Trustee, as the case may be, contemplated hereby. The Owner Trustee shall be entitled to obtain advice of counsel (which advice shall be an expense of the Administrator under Section 8.01 of this Agreement) to determine whether any action required to be taken pursuant to the Agreement results in the consequences described in clauses (a), (b) and (c) of the preceding sentence. In the event that said counsel advises the Owner Trustee that such action will result in such consequences, the Trust will appoint an additional trustee pursuant to Section 10.05 hereof to proceed with such action.
+
+^**Paying Agent; Authenticating Agent**. The rights and protections afforded to the Owner Trustee pursuant to this Agreement, including without limitation Articles 7 and 8 hereof, shall also be afforded to the Paying Agent, Authenticating Agent and Certificate Registrar.
+
+\centered **COMPENSATION OF OWNER TRUSTEE**
+
+^**Owner Trustee’s Fees and Expenses**. The Administrator shall pay to the Owner Trustee as compensation for its services hereunder such fees as have been separately agreed upon before the date hereof between the Administrator and the Owner Trustee, and the Administrator shall reimburse the Owner Trustee for its other reasonable expenses hereunder, including the reasonable compensation, expenses and disbursements of such agents, representatives, experts and counsel as the Owner Trustee may employ in connection with the exercise and performance of its rights and its duties hereunder and under the Basic Documents.
+
+^**Indemnification**. The Administrator shall be liable as primary obligor for, and shall indemnify the Owner Trustee (including in its individual capacity) and its officers, directors, employees, successors, assigns, agents and servants (collectively, the “Indemnified Parties”) from and against, any and all liabilities, obligations, losses, damages, taxes (excluding any net income, profits, franchise or similar taxes on income earned by the Owner Trustee), claims, actions and suits, and any and all reasonable costs, expenses and disbursements (including reasonable legal fees and expenses) of any kind and nature whatsoever (collectively, “Expenses”) which may at any time be imposed on, incurred by, or asserted against the Owner Trustee or any Indemnified Party in any way relating to or arising out of this Agreement, the Basic Documents, the Trust Estate, the administration of the Trust Estate or the action or inaction of an Indemnified Party hereunder, except only that the Administrator shall not be liable for or required to indemnify an Indemnified Party from and against Expenses arising or resulting from any of the matters described in the third sentence of Section 7.01. The indemnities contained in this Section shall survive the resignation or termination of the Owner Trustee or the termination of this Agreement. In the event of any claim, action or proceeding for which indemnity will be sought pursuant to this Section, the Indemnified Party’s choice of legal counsel shall be subject to the approval of the Administrator, which approval shall not be unreasonably withheld.
+
+^**Payments to the Owner Trustee**. Any amounts paid pursuant to this Article 8 may be paid as set forth in Section 4.16 and Section 5.05(b) of the Sale and Servicing Agreement and shall be deemed not to be a part of the Trust Estate immediately after such payment.
+
+\centered **TERMINATION OF TRUST AGREEMENT**
+
+^**Termination of Trust Agreement**.
+
+^^This Agreement (other than Section 5.05 and Article 8) and the Trust shall terminate and be of no further force or effect upon the final distribution by the Owner Trustee of all moneys or other property or proceeds of the Trust Estate in accordance with the terms of the Indenture, the Sale and Servicing Agreement and Article 5. The bankruptcy, liquidation, dissolution, death or incapacity of any Certificateholder shall not (i) operate to terminate this Agreement or the Trust, (ii) entitle such Certificateholder’s legal representatives or heirs to claim an accounting or to take any action or proceeding in any court for a partition or winding up of all or any part of the Trust or Trust Estate or (iii) otherwise affect the rights, obligations and liabilities of the parties hereto.
+
+^^Except as provided in Section 9.01(a), neither the Depositor nor any Certificateholder shall be entitled to revoke or terminate the Trust.
+
+^^Notice of any termination of the Trust, specifying the Payment Date upon which Certificateholders shall surrender their Trust Certificates to the Paying Agent for payment of the final distribution and cancellation, shall be given by the Owner Trustee by letter to the Certificateholders mailed within five Business Days of receipt of notice of such termination from the Servicer given pursuant to Section 9.01 of the Sale and Servicing Agreement, stating (i) the Payment Date upon or with respect to which final payment of the Trust Certificates shall be made upon presentation and surrender of the Trust Certificates at the office of the Paying Agent therein designated, (ii) the amount of any such final payment and (iii) that the Record Date otherwise applicable to such Payment Date is not applicable, payments being made only upon presentation and surrender of the Trust Certificates at the office of the Paying Agent therein specified. The Owner Trustee shall give such notice to the Certificate Registrar (if other than the Owner Trustee) and the Paying Agent at the time such notice is given to the Certificateholders. Upon presentation and surrender of the Trust Certificates, the Paying Agent shall cause to be distributed to the Certificateholders amounts distributable on such Payment Date pursuant to Section 5.02.
+
+In the event that all of the Certificateholders shall not surrender their Trust Certificates for cancellation within six months after the date specified in the above mentioned written notice, the Owner Trustee shall give a second written notice to the remaining Certificateholders to surrender their Trust Certificates for cancellation and receive the final distribution with respect thereto. If within one year after the second notice all the Trust Certificates shall not have been surrendered for cancellation, the Owner Trustee may take appropriate steps, or may appoint an agent to take appropriate steps, to contact the remaining Certificateholders concerning surrender of their Trust Certificates, and the cost thereof shall be paid out of the funds and other assets that shall remain subject to this Agreement. Any funds remaining in the Trust after exhaustion of such remedies shall be distributed by the Owner Trustee to the Depositor, subject to applicable escheat laws.
+
+^^Upon the winding up of the Trust and the written instructions of the Depositor, the Owner Trustee shall cause the Certificate of Trust to be cancelled by filing a certificate of cancellation with the Secretary of State in accordance with the provisions of Section 3810 of the Statutory Trust Act. Thereupon the Trust and this Agreement (other than Article 8) shall terminate.
+
+\centered **SUCCESSOR OWNER TRUSTEES AND ADDITIONAL OWNER TRUSTEES**
+
+^**Eligibility Requirements for Owner Trustee**. The Owner Trustee shall at all times be a corporation satisfying the provisions of Section 3807(a) of the Statutory Trust Act; authorized to exercise corporate trust powers; having a combined capital and surplus of at least $[[USD Value 1]] and subject to supervision or examination by federal or state authorities; and having (or having a parent that has) time deposits that are rated at least A-1 by Standard & Poor’s and Prime-1 by Moody’s, or with respect to which the Rating Agency Condition has been satisfied. If such corporation shall publish reports of condition at least annually pursuant to law or to the requirements of the aforesaid supervising or examining authority, then for the purpose of this Section, the combined capital and surplus of such corporation shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published. In case at any time the Owner Trustee shall cease to be eligible in accordance with the provisions of this Section, the Owner Trustee shall resign immediately in the manner and with the effect specified in Section 10.02.
+
+^**Resignation or Removal of Owner Trustee**. The Owner Trustee may at any time resign and be discharged from the trusts hereby created by giving written notice thereof to the Administrator, the Indenture Trustee and the Rating Agencies. Upon receiving such notice of resignation, the Administrator shall promptly appoint a successor Owner Trustee by written instrument, in duplicate, one copy of which instrument shall be delivered to the resigning Owner Trustee and one copy to the successor Owner Trustee. If no successor Owner Trustee shall have been so appointed and have accepted appointment within 30 days after the giving of such notice of resignation, the resigning Owner Trustee may petition any court of competent jurisdiction for the appointment of a successor Owner Trustee.
+
+If at any time the Owner Trustee shall cease to be eligible in accordance with the provisions of Section 10.01 and shall fail to resign after written request therefor by the Administrator, or if at any time the Owner Trustee shall be legally unable to act, or shall be adjudged bankrupt or insolvent, or a receiver of the Owner Trustee or of its property shall be appointed, or any public officer shall take charge or control of the Owner Trustee or of its property or affairs for the purpose of rehabilitation, conservation or liquidation, then the Administrator may remove the Owner Trustee. If the Administrator shall remove the Owner Trustee under the authority of the immediately preceding sentence, the Administrator shall promptly appoint a successor Owner Trustee by written instrument, in duplicate, one copy of which instrument shall be delivered to the outgoing Owner Trustee so removed and one copy to the successor Owner Trustee, and shall pay all fees owed to the outgoing Owner Trustee.
+
+Any resignation or removal of the Owner Trustee and appointment of a successor Owner Trustee pursuant to any of the provisions of this Section shall not become effective until acceptance of appointment by the successor Owner Trustee pursuant to Section 10.03 and payment of all fees and expenses owed to the outgoing Owner Trustee. The Administrator shall provide notice of such resignation or removal of the Owner Trustee to each Rating Agency.
+
+^**Successor Owner Trustee**. Any successor Owner Trustee appointed pursuant to Section 10.01 or 10.02 shall execute, acknowledge and deliver to the Administrator and to its predecessor Owner Trustee an instrument accepting such appointment under this Agreement, and thereupon the resignation or removal of the predecessor Owner Trustee shall become effective, and such successor Owner Trustee, without any further act, deed or conveyance, shall become fully vested with all the rights, powers, duties and obligations of its predecessor under this Agreement, with like effect as if originally named as Owner Trustee. The predecessor Owner Trustee shall, upon payment of its fees and expenses, deliver to the successor Owner Trustee all documents and statements and monies held by it under this Agreement; and the Administrator and the predecessor Owner Trustee shall execute and deliver such instruments and do such other things as may reasonably be required for fully and certainly vesting and confirming in the successor Owner Trustee all such rights, powers, duties and obligations.
+
+No successor Owner Trustee shall accept appointment as provided in this Section unless at the time of such acceptance such successor Owner Trustee shall be eligible pursuant to Section 10.01.
+
+Upon acceptance of appointment by a successor Owner Trustee pursuant to this Section, the Administrator shall mail notice thereof to all Certificateholders, the Servicer, the Indenture Trustee, the Noteholders and the Rating Agencies. If the Administrator shall fail to mail such notice within 10 days after acceptance of such appointment by the successor Owner Trustee, the successor Owner Trustee shall cause such notice to be mailed at the expense of the Administrator.
+
+Any successor Owner Trustee appointed pursuant to this Section 10.03 shall promptly file an amendment to the Certificate of Trust with the Secretary of State identifying the name and principal place of business of such successor Owner Trustee in the State of Delaware.
+
+^**Merger or Consolidation of Owner Trustee**. Any Person into which the Owner Trustee may be merged or converted or with which it may be consolidated, or any Person resulting from any merger, conversion or consolidation to which the Owner Trustee shall be a party, or any Person succeeding to all or substantially all of the corporate trust business of the Owner Trustee, shall be the successor of the Owner Trustee hereunder, without the execution or filing of any instrument or any further act on the part of any of the parties hereto, anything herein to the contrary notwithstanding; provided, that such Person shall be eligible pursuant to Section 10.01; and provided further, that the Owner Trustee shall mail notice of such merger or consolidation to each Rating Agency; and provided further, that such successor Owner Trustee shall file an amendment to the Certificate of Trust as described in Section 10.03.
+
+^**Appointment of Co-Trustee or Separate Trustee**. Notwithstanding any other provisions of this Agreement, at any time, for the purpose of meeting any legal requirements of any jurisdiction in which any part of the Trust Estate or any Financed Vehicle may at the time be located, the Administrator and the Owner Trustee acting jointly shall have the power and shall execute and deliver all instruments to appoint one or more Persons approved by the Administrator and Owner Trustee to act as co-trustee, jointly with the Owner Trustee, or as separate trustee or separate trustees, of all or any part of the Trust Estate, and to vest in such Person, in such capacity, such title to the Trust Estate or any part thereof and, subject to the other provisions of this Section, such powers, duties, obligations, rights and trusts as the Administrator and the Owner Trustee may consider necessary or desirable. If the Administrator shall not have joined in such appointment within 15 days after the receipt by it of a request so to do, the Owner Trustee alone shall have the power to make such appointment. No co-trustee or separate trustee under this Agreement shall be required to meet the terms of eligibility as a successor Owner Trustee pursuant to Section 10.01 and no notice of the appointment of any co-trustee or separate trustee shall be required pursuant to Section 10.03.
+
+Each separate trustee and co-trustee shall, to the extent permitted by law, be appointed and act subject to the following provisions and conditions:
+
+^^All rights, powers, duties and obligations conferred or imposed upon the Owner Trustee shall be conferred upon and exercised or performed by the Owner Trustee and such separate trustee or co-trustee jointly (it being understood that such separate trustee or co-trustee is not authorized to act separately without the Owner Trustee joining in such act), except to the extent that under any law of any jurisdiction in which any particular act or acts are to be performed, the Owner Trustee shall be incompetent or unqualified to perform such act or acts, in which event such rights, powers, duties and obligations (including the holding of title to the Trust Estate or any portion thereof in any such jurisdiction) shall be exercised and performed singly by such separate trustee or co-trustee, but solely at the direction of the Owner Trustee;
+
+^^No trustee under this Agreement shall be personally liable by reason of any act or omission of any other trustee under this Agreement; and
+
+^^The Administrator and the Owner Trustee acting jointly may at any time accept the resignation of or remove any separate trustee or co-trustee.
+
+Any notice, request or other writing given to the Owner Trustee shall be deemed to have been given to each of the then separate trustees and co-trustees, as effectively as if given to each of them. Every instrument appointing any separate trustee or co-trustee shall refer to this Agreement and the conditions of this Article 10. Each separate trustee and co-trustee, upon its acceptance of the trusts conferred, shall be vested with the estates or property specified in its instrument of appointment, either jointly with the Owner Trustee or separately, as may be provided therein, subject to all the provisions of this Agreement, specifically including every provision of this Agreement relating to the conduct of, affecting the liability of, or affording protection to, the Owner Trustee. Each such instrument shall be filed with the Owner Trustee and a copy thereof given to the Administrator.
+
+Any separate trustee or co-trustee may at any time appoint the Owner Trustee as its agent or attorney-in-fact with full power and authority, to the extent not prohibited by law, to do any lawful act under or in respect of this Agreement on its behalf and in its name. If any separate trustee or co-trustee shall die, become incapable of acting, resign or be removed, all of its estates, properties, rights, remedies and trusts shall vest in and be exercised by the Owner Trustee, to the extent permitted by law, without the appointment of a new or successor co-trustee or separate trustee.
+
+\centered **MISCELLANEOUS**
+
+^**Supplements and Amendments**. This Agreement may be amended by the Depositor and the Owner Trustee, with prior written notice to each Rating Agency, without the consent of any of the Noteholders or the Certificateholders, to cure any ambiguity, to correct or supplement any provisions in this Agreement or for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions in this Agreement or of modifying in any manner the rights of the Noteholders or the Certificateholders; provided, however, that such action shall not, as evidenced by the satisfaction of the Rating Agency Condition with respect to such amendment, materially and adversely affect in any material respect the interests of any Noteholder or Certificateholder.
+
+This Agreement may also be amended from time to time by the Depositor and the Owner Trustee, with prior written notice to each Rating Agency, with the consent of the Holders (as defined in the Indenture) of Notes evidencing not less than a majority of the Outstanding Amount of the Notes and the consent of the Holders of Trust Certificates evidencing not less than a majority of the Certificate Percentage Interests, for the purpose of adding any provisions to or changing in any manner or eliminating any of the provisions of this Agreement or of modifying in any manner the rights of the Noteholders or the Certificateholders; provided, however, that no such amendment shall (a) reduce the interest rate or principal amount of any Note or Certificate or delay the Stated Maturity Date of any Note without the consent of the Holder of such Note or (b) reduce the aforesaid percentage of the Outstanding Amount of the Notes and the Certificate Percentage Interest required to consent to any such amendment, without the consent of the Holders of all then-outstanding Notes and Trust Certificates.
+
+This Agreement may be amended by the Depositor and the Owner Trustee to modify the provisions of Section 2.03 to change the permitted purposes and powers of the Trust; provided, however, that (i) the Indenture Trustee shall receive an Opinion of Counsel stating that such amendment will not have a material adverse effect on any Noteholder and (ii) such amendment shall not, as evidenced by the satisfaction of the Rating Agency Condition with respect to such amendment, materially and adversely affect in any material respect the interests of any Noteholder or Certificateholder.
+
+Promptly after the execution of any such amendment or consent, the Owner Trustee shall furnish written notification of the substance of such amendment or consent to each Certificateholder, the Indenture Trustee and each Rating Agency.
+
+It shall not be necessary for the consent of Certificateholders or Noteholders pursuant to this Section to approve the particular form of any proposed amendment or consent, but it shall be sufficient if such consent shall approve the substance thereof. The manner of obtaining such consents (and any other consents of Certificateholders provided for in this Agreement or in any other Basic Document) and of evidencing the authorization of the execution thereof by Certificateholders shall be subject to such reasonable requirements as the Owner Trustee may prescribe.
+
+Promptly after the execution of any amendment to the Certificate of Trust, the Owner Trustee shall cause the filing of such amendment with the Secretary of State.
+
+Prior to the execution of any amendment to this Agreement or the Certificate of Trust, the Owner Trustee shall be entitled to receive and rely upon an Opinion of Counsel stating that the execution of such amendment is authorized or permitted by this Agreement. The Owner Trustee may, but shall not be obligated to, enter into any such amendment that affects the Owner Trustee’s own rights, duties or immunities under this Agreement or otherwise.
+
+In connection with the execution of any amendment to this Agreement or any amendment of any other agreement to which the Trust is a party, the Owner Trustee shall be entitled to receive and conclusively rely upon an Opinion of Counsel to the effect that such amendment is authorized or permitted by the Basic Documents and that all conditions precedent in the Basic Documents for the execution and delivery thereof by the Trust or the Owner Trustee, as the case may be, have been satisfied.
+
+^**No Legal Title to Trust Estate in Certificateholders**. Neither the Depositor nor the Certificateholders shall have legal title to any part of the Trust Estate. The Certificateholders shall be entitled to receive distributions with respect to their undivided ownership interest therein only in accordance with Articles 5 and 9. No transfer, by operation of law or otherwise, of any right, title or interest of the Certificateholders to and in their ownership interest in the Trust Estate shall operate to terminate this Agreement or the trusts hereunder or entitle any transferee to an accounting or to the transfer to it of legal title to any part of the Trust Estate.
+
+^**Limitations on Rights of Others**. The provisions of this Agreement are solely for the benefit of the Owner Trustee, the Depositor, the Certificateholders, the Administrator and, to the extent expressly provided herein, the Indenture Trustee, the Servicer and the Noteholders, and nothing in this Agreement, whether express or implied, shall be construed to give to any other Person any legal or equitable right, remedy or claim in the Trust Estate or under or in respect of this Agreement or any covenants, conditions or provisions contained herein.
+
+^**Notices**.  
+
+^^Unless otherwise expressly specified or permitted by the terms hereof, all notices shall be in writing and shall be deemed given upon receipt by the intended recipient or three Business Days after mailing if mailed by certified mail, postage prepaid (except that notice to the Owner Trustee shall be deemed given only upon actual receipt by the Owner Trustee), if to the Owner Trustee, addressed to the Corporate Trust Office; if to the Depositor, addressed to 3161 Michelson Drive, Suite 1900, [[Address 2: Address]], Attention: Vice President, Finance, with a copy to General Counsel; or, as to each party, at such other address as shall be designated by such party in a written notice to each other party. A copy of any such notice shall also be mailed to the Servicer, addressed to 3161 Michelson Drive, Suite 1900, [[Address 2: Address]], Attention: Vice President, Finance, with a copy to General Counsel.
+
+^^Any notice required or permitted to be given to a Certificateholder shall be given by first class mail, postage prepaid, at the address of such Certificateholder as shown in the Certificate Register. Any notice so mailed within the time prescribed in this Agreement shall be conclusively presumed to have been duly given, whether or not such Certificateholder receives such notice.
+
+^**Severability**. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+
+^**Separate Counterparts**. This Agreement may be executed by the parties hereto in separate counterparts, each of which when so executed and delivered shall be an original, but all such counterparts shall together constitute but one and the same instrument.
+
+^**Successors and Assigns**. All covenants and agreements contained herein shall be binding upon, and inure to the benefit of, each of the Depositor and its permitted assignees, the Owner Trustee and its successors and each Certificateholder and its successors and permitted assigns, all as herein provided. Any request, notice, direction, consent, waiver or other instrument or action by a Certificateholder shall bind the successors and assigns of such Certificateholder.
+
+^**Covenants of the Depositor**. The Depositor will not at any time institute against the Trust any bankruptcy proceedings under any United States federal or state bankruptcy or similar law in connection with any obligations relating to the Trust Certificates, the Notes, this Agreement or any of the other Basic Documents.
+
+^**No Petition**. To the fullest extent permitted by applicable law, the Owner Trustee, by entering into this Agreement, each Certificateholder, by accepting a Trust Certificate, and the Indenture Trustee and each Noteholder, by accepting the benefits of this Agreement, hereby covenant and agree that they will not at any time institute against the Depositor or the Trust or join in any institution against the Depositor or the Trust of, any bankruptcy proceedings under any United States federal or state bankruptcy or similar law in connection with any obligations relating to the Trust Certificates, the Notes, this Agreement or any of the Basic Documents.
+
+^**No Recourse**.  
+^^Each Certificateholder by accepting a Trust Certificate acknowledges that such Trust Certificate represents a beneficial interest in the Trust only and does not represent an interest in or an obligation of the Depositor, the Servicer, the Administrator, the Owner Trustee, the Indenture Trustee or any Affiliate thereof and no recourse may be had against such parties or their assets, except as may be expressly set forth or contemplated in this Agreement, the Trust Certificates or the Basic Documents.
+
+^^In furtherance of and not in derogation of the foregoing, to the extent the Depositor enters into other securitization transactions, each Certificateholder, by accepting a Trust Certificate, acknowledges and agrees that it shall have no right, title or interest in or to any assets or interests therein of the Depositor (other than the Trust Estate and Reserve Account relating to this transaction) conveyed or purported to be conveyed by the Depositor to another securitization trust or other Person or Persons in connection therewith (whether by way of a sale, capital contribution or by virtue of the granting of a lien) (“Other Assets”). To the extent that, notwithstanding the agreements and provisions contained herein, a Certificateholder either (i) asserts an interest or claim to, or benefit from, Other Assets, whether asserted against or through the Depositor or any other Person owned by the Depositor, or (ii) is deemed to have any such interest, claim or benefit in or from Other Assets, whether by operation of law, legal process, pursuant to applicable provisions of insolvency laws or otherwise (including by virtue of Section 1111(b) of the Federal Bankruptcy Code or any successor provision having similar effect under the Bankruptcy Code), and whether deemed asserted against or through the Depositor or any other Person owned by the Depositor, then each Certificateholder, by accepting a Trust Certificate, further acknowledges and agrees that any such interest, claim or benefit in or from Other Assets is and shall be expressly subordinated to the indefeasible payment in full of all obligations and liabilities of the Depositor which, under the terms of the relevant documents relating to the securitization of such Other Assets, are entitled to be paid from, entitled to the benefits of, or otherwise secured by such Other Assets (whether or not any such entitlement or security interest is legally perfected or otherwise entitled to priority of distribution or application under applicable law, including insolvency laws, and whether asserted against Depositor or any other Person owned by the Depositor), including the payment of post-petition interest on such other obligations and liabilities. This subordination agreement shall be deemed a subordination agreement within the meaning of Section 510(a) of the Bankruptcy Code. Each Certificateholder, by acceptance of a Trust Certificate, further acknowledges and agrees that no adequate remedy at law exists for a breach of this paragraph and the terms of this paragraph may be enforced by an action for specific performance. The provisions of this paragraph shall be for the third party benefit of those entitled to rely thereon and shall survive the termination of this Agreement.
+
+^**Headings**. The headings of the various Articles and Sections herein are for convenience of reference only and shall not define or limit any of the terms or provisions hereof.
+
+^**GOVERNING LAW**. THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS, AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+^[Reserved]   
+^**Sarbanes-Oxley**. Notwithstanding anything to the contrary herein or in any other document, the Owner Trustee shall not be required to execute, deliver or certify on behalf of the Trust, the Servicer, the Depositor or any other Person any filings, certificates, affidavits or other instruments required by the SEC or required under the Sarbanes-Oxley Act of 2002. Notwithstanding any Person’s right to instruct the Owner Trustee, neither the Owner Trustee nor any agent, employee, director or officer of the Owner Trustee shall have any obligation to execute any certificates or other documents required by the SEC or required pursuant to the Sarbanes-Oxley Act of 2002 or the rules and regulations promulgated thereunder, and the refusal to comply with any such instructions shall not constitute a default or breach under this Agreement or any other document in connection herewith.
+
+\centered **COMPLIANCE WITH REGULATION AB**
+
+^**Intent of the Parties; Reasonableness**. The Depositor and the Owner Trustee acknowledge and agree that the purpose of this Article 12 is to facilitate compliance by the Depositor with the provisions of Regulation AB and related rules and regulations of the Commission. The Depositor shall not exercise its right to request delivery of information or other performance under these provisions other than in good faith, or for purposes other than compliance with the Securities Act, the Exchange Act and the rules and regulations of the Commission under the Securities Act and the Exchange Act. The Owner Trustee acknowledges that interpretations of the requirements of Regulation AB may change over time, whether due to interpretive guidance provided by the Commission or its staff, consensus among participants in the asset-backed securities markets, advice of counsel, or otherwise, and agrees to comply with reasonable requests made by the Depositor in good faith for delivery of information under these provisions on the basis of evolving interpretations of Regulation AB. The Owner Trustee shall cooperate in good faith with any reasonable request by the Depositor for information regarding the Owner Trustee that is necessary or required, in the reasonable good faith determination of the Depositor, to permit the Depositor to comply with the provisions of Regulation AB.
+
+^**Additional Representations and Warranties of the Owner Trustee**.
+
+^^The Owner Trustee shall be deemed to represent and warrant to the Depositor as of the date hereof and on each date on which information is provided to the Depositor under Sections 12.01, 12.02(b) or 12.03 that, except as disclosed in writing to the Depositor prior to such date: (i) it is not aware and has not received notice that any default, early amortization or other performance triggering event has occurred as to any other securitization transaction due to any default of the Owner Trustee; (ii) there are no aspects of its financial condition that could have a material adverse effect on the performance by it of its trustee obligations under this Agreement or any other securitization transaction as to which it is a trustee; (iii) there are no material legal or governmental proceedings pending (or known to be contemplated) against it that would be material to Noteholders; (iv) there are no relationships or transactions (as described in Item 1119(b) of Regulation AB) relating to the Owner Trustee with respect to the Depositor or any sponsor, issuing entity, servicer, trustee, originator, significant obligor, enhancement or support provider or other material transaction party (as each of such terms are used in Regulation AB) relating to the securitization transaction contemplated by this Trust Agreement, as identified in the prospectus supplement related to such securitization transaction (each, a “Transaction Party”) that are outside the ordinary course of business or on terms other than would be obtained in an arm’s length transaction with an unrelated third party, apart from the securitization transaction contemplated by this Agreement, and that are material to the investors’ understanding of the Notes; and (v) the Owner Trustee is not an affiliate (as contemplated by Item 1119(a) of Regulation AB) of any Transaction Party. The Depositor shall notify the Owner Trustee of any change in the identity of a Transaction Party after the Closing Date at least five (5) Business Days prior to [[Date 3: Date]] of each calendar year.
+
+^^If so requested by the Depositor on any date following the Closing Date, the Owner Trustee shall, within five (5) Business Days following such request, confirm in writing the accuracy of the representations and warranties set forth in paragraph (a) of this Section or, if any such representation and warranty is not accurate as of the date of such confirmation, provide the pertinent facts, in writing, to the Depositor. Any such request from the Depositor shall not be given more than once each calendar quarter, unless the Depositor shall have a reasonable basis for questioning the accuracy of any of the representations and warranties.
+
+^**Information to Be Provided by the Owner Trustee**.
+
+^^For so long as the Notes are outstanding, for the purpose of satisfying the Depositor’s reporting obligation under the Exchange Act with respect to the Notes, the Owner Trustee shall provide to the Depositor a written description of (i) the commencement of, a material development in or, if applicable, the termination of, any and all legal proceedings against the Owner Trustee or any and all proceedings of which any property of the Owner Trustee is the subject, that would be material to Noteholders; and (ii) any such proceedings known to be contemplated by governmental authorities that would be material to Noteholders. The Owner Trustee shall also notify the Depositor, in writing, as promptly as practicable following notice to or discovery by a Responsible Officer of the Owner Trustee of any material changes to proceedings described in the preceding sentence. In addition, the Owner Trustee will furnish to the Depositor, in writing, the necessary disclosure regarding the Owner Trustee describing such proceedings required to be disclosed under Item 1117 of Regulation AB, for inclusion in reports filed by or on behalf of the Depositor pursuant to the Exchange Act. The Depositor will allow the Owner Trustee to review any disclosure relating to material litigation against the Owner Trustee prior to filing such disclosure with the Commission to the extent the Depositor changes the information provided by the Owner Trustee. Any descriptions required with respect to legal proceedings, as well as updates to previously provided descriptions, under this Section 12.03(a) shall be given no later than five (5) Business Days prior to the Determination Date following the month in which the relevant event occurs.
+
+^For so long as the Notes are outstanding, for the purpose of satisfying the Depositor’s reporting obligation under the Exchange Act with respect to the Notes, the Owner Trustee shall, no later than [[Date 3]] of each calendar year, (i) provide to the Depositor such information regarding the Owner Trustee as is required for the purpose of compliance with Item 1119 of Regulation AB; provided, however, the Owner Trustee shall not be required to provide such information in the event that there has been no change to the information previously provided by the Owner Trustee to the Depositor; and (ii) as promptly as practicable following notice to or discovery by a Responsible Officer of the Owner Trustee of any changes to such information, provide to the Depositor, in writing, such updated information. Such information shall include, at a minimum, a description of any affiliation between the Owner Trustee and any Transaction Party.
+
+In addition, the Owner Trustee shall provide a description of whether there is, and if so the general character of, any business relationship, agreement, arrangement, transaction or understanding between the Owner Trustee and any Transaction Party that is entered into outside the ordinary course of business or is on terms other than would be obtained in an arm’s length transaction with an unrelated third party, apart from the securitization transaction contemplated by this Agreement, that currently exists or that existed during the past two years and that is material to an investor’s understanding of the Notes.
+
+^^As of the related Payment Date with respect to each Report on Form 10-D with respect to the Notes filed by or on behalf of the Depositor, and as of [[Date 4: Date]] preceding the date each Report on Form 10-K with respect to the Notes is filed, the Owner Trustee shall be deemed to represent and warrant that any information previously provided by the Owner Trustee under this Article 12 is materially correct and does not have any material omissions unless the Owner Trustee has provided an update to such information.
+
+^**Indemnification; Remedies**.
+
+^^The Owner Trustee shall indemnify the Depositor, each affiliate of the Depositor, and the respective present and former directors, officers, employees and agents of each of the foregoing, and shall hold each of them harmless from and against any claims, losses, liabilities (including penalties), actions, suits, judgments, demands, damages, costs and expenses (including reasonable fees and expenses of attorneys or, as necessary, consultants and auditors and reasonable costs of investigations) that any of them may sustain arising out of or based upon:
+
+^(A) any untrue statement of a material fact contained or alleged to be contained in any information, report, certification or other material provided under this Article 12 by or on behalf of the Owner Trustee (collectively, the “Owner Trustee Information”), or (B) the omission or alleged omission to state in the Owner Trustee Information a material fact required to be stated in the Owner Trustee Information or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; or
+
+^any failure by the Owner Trustee to deliver any information, report, certification or other material when and as required under this Article 12.
+
+^^In the case of any failure of performance described in clause (2) of Section 12.04(a), the Owner Trustee shall (i) promptly reimburse the Depositor for all costs reasonably incurred by the Depositor in order to obtain the information, report, certification or other material not delivered by the Owner Trustee as required and (ii) cooperate with the Depositor to mitigate any damages that may result from such failure.
+
+^^The Depositor shall indemnify the Owner Trustee, each affiliate of the Owner Trustee and the respective present and former directors, officers, employees and agents of the Owner Trustee, and shall hold each of them harmless from and against any losses, damages, penalties, fines, forfeitures, legal fees and expenses and related costs, judgments, and any other costs, fees and expenses that any of them may sustain arising out of or based upon (i) any untrue statement of a material fact contained or alleged to be contained in any information provided under this Agreement by or on behalf of the Depositor for inclusion in any report filed with Commission under the Exchange Act (collectively, the “Hyundai Information”), or (ii) the omission or alleged omission to state in the Hyundai Information a material fact required to be stated in the Hyundai Information or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, to the extent that such untrue statement or omission or alleged omission does not result from or relate to (x) any information provided by the Owner Trustee pursuant to this Article 12 or (y) any breach of covenant, negligence or misconduct by the Owner Trustee.
+
+^^Notwithstanding any provision in this Section 12.04 to the contrary, the parties agree that neither the Owner Trustee nor the Depositor shall be liable to the other for any consequential or punitive damages whatsoever, whether in contract, tort (including negligence and strict liability), or any other legal or equitable principle; provided, however, that such limitation shall not be applicable with respect to third party claims made against a party.
+
+\centered [SIGNATURE PAGES FOLLOW]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Trust Agreement to be duly executed by their respective officers hereunto duly authorized, as of the day and year first above written.
+
+**HYUNDAI ABS FUNDING CORPORATION**,
+as Depositor
+
+[[As Depositor Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Depositor Entity => By: [[As Depositor Signatory First Name]] [[As Depositor Signatory Last Name]]
+Title: [[As Depositor Signatory Title]]}}
+
+
+\centered S-1
+
+**WILMINGTON TRUST COMPANY**,
+as Owner Trustee
+
+[[As Owner Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Owner Trustee Entity => By: [[As Owner Trustee Signatory First Name]] [[As Owner Trustee Signatory Last Name]]
+Title: [[As Owner Trustee Signatory Title]]}}
+
+
+\centered S-2
+
+**HYUNDAI CAPITAL AMERICA**,
+as Administrator
+
+[[As Administrator Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrator Entity => By: [[As Administrator Signatory First Name]] [[As Administrator Signatory Last Name]]
+Title: [[As Administrator Signatory Title]]}}
+
+
+\centered S-3
+
+\centered EXHIBIT A
+
+\centered FORM OF TRUST CERTIFICATE
+
+\centered HYUNDAI AUTO RECEIVABLES TRUST 2010-A
+
+\centered ASSET BACKED TRUST CERTIFICATE
+
+(This Trust Certificate does not represent an interest in or obligation of Hyundai ABS Funding Corporation or any of its Affiliates, except to the extent described below.) (This Trust Certificate is subordinate to the Notes, as set forth in the Sale and Servicing Agreement)
+
+THIS TRUST CERTIFICATE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OR ANY OTHER APPLICABLE SECURITIES OR “BLUE SKY” LAWS OF ANY STATE OR OTHER JURISDICTION, AND MAY NOT BE RESOLD, ASSIGNED, PLEDGED OR OTHERWISE TRANSFERRED EXCEPT IN COMPLIANCE WITH THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT OR ANY OTHER APPLICABLE SECURITIES OR “BLUE SKY” LAWS, PURSUANT TO AN EXEMPTION THEREFROM OR IN A TRANSACTION NOT SUBJECT THERETO. THE HOLDER HEREOF, BY PURCHASING THIS TRUST CERTIFICATE, AGREES THAT THIS TRUST CERTIFICATE MAY BE RESOLD, ASSIGNED, PLEDGED OR TRANSFERRED ONLY (A) SO LONG AS THE CERTIFICATE IS ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT, TO A PERSON WHOM THE TRANSFEROR REASONABLY BELIEVES AFTER DUE INQUIRY IS A QUALIFIED INSTITUTIONAL BUYER ACTING FOR ITS OWN ACCOUNT (AND NOT FOR THE ACCOUNT OF OTHERS) OR AS A FIDUCIARY OR AGENT FOR OTHERS (WHICH OTHERS ALSO ARE QUALIFIED INSTITUTIONAL BUYERS) TO WHOM NOTICE IS GIVEN THAT THE RESALE, ASSIGNMENT, PLEDGE OR TRANSFER IS BEING MADE IN RELIANCE ON RULE 144A, (B) TO A UNITED STATES PERSON WITHIN THE MEANING OF SECTION 7701(a)(30) OF THE CODE, (C) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OR (D) IN A TRANSACTION EXEMPT FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND OTHER SECURITIES OR “BLUE SKY” LAWS, IN WHICH CASE THE OWNER TRUSTEE SHALL REQUIRE (I) THAT THE PROSPECTIVE TRANSFEREE CERTIFY TO THE OWNER TRUSTEE AND THE DEPOSITOR IN WRITING THE FACTS SURROUNDING SUCH TRANSFER, WHICH CERTIFICATION SHALL BE IN FORM AND SUBSTANCE SATISFACTORY TO THE OWNER TRUSTEE AND (II) IF REQUESTED BY THE OWNER TRUSTEE, A WRITTEN OPINION OF COUNSEL (WHICH SHALL NOT BE AT THE EXPENSE OF THE OWNER TRUSTEE) SATISFACTORY TO THE OWNER TRUSTEE AND THE DEPOSITOR, TO THE EFFECT THAT SUCH TRANSFER WILL NOT VIOLATE THE SECURITIES ACT, IN EACH CASE IN ACCORDANCE WITH ANY APPLICABLE SECURITIES OR “BLUE SKY” LAWS OF ANY STATE OR JURISDICTION. ANY ATTEMPTED TRANSFER IN CONTRAVENTION OF THE IMMEDIATELY PRECEDING RESTRICTIONS WILL BE VOID AB INITIO AND THE PURPORTED TRANSFEROR WILL CONTINUE TO BE TREATED AS THE OWNER OF THE TRUST CERTIFICATE FOR ALL PURPOSES.
+
+\centered A-1
+
+NO TRUST CERTIFICATE OR INTEREST THEREIN MAY BE ACQUIRED BY OR FOR THE ACCOUNT OF (I) AN “EMPLOYEE BENEFIT PLAN” (AS DEFINED IN SECTION 3(3) OF THE EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), THAT IS SUBJECT TO THE PROVISIONS OF TITLE I OF ERISA, (II) A “PLAN” DESCRIBED IN SECTION 4975(e)(1), OF THE INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”) THAT IS SUBJECT TO SECTION 4975 OF THE CODE OR (III) ANY ENTITY WHOSE UNDERLYING ASSETS INCLUDE PLAN ASSETS BY REASON OF AN EMPLOYEE BENEFIT PLAN’S OR A PLAN’S INVESTMENT IN THE ENTITY (EACH, A “BENEFIT PLAN INVESTOR”). BY ACCEPTING AND HOLDING A TRUST CERTIFICATE, THE HOLDER THEREOF SHALL BE DEEMED TO HAVE REPRESENTED AND WARRANTED THAT IT IS NOT A BENEFIT PLAN INVESTOR.
+
+THIS CERTIFIES THAT Hyundai ABS Funding Corporation is the registered owner of a [[Percentage 1]]% Certificate Percentage Interest that is nonassessable, fully-paid, beneficial ownership interest in the assets of Hyundai Auto Receivables Trust 2010-A (the “Trust”) formed by Hyundai ABS Funding Corporation, a Delaware corporation (the “Depositor”).
+
+The Trust is governed by a Amended and Restated Trust Agreement dated as of [[Date 1]] (the “Trust Agreement”), between the Depositor, Administrator and Wilmington Trust Company, as owner trustee (the “Owner Trustee”), a summary of certain of the pertinent provisions of which is set forth below. To the extent not otherwise defined herein, the capitalized terms used herein have the meanings assigned to them in the Sale and Servicing Agreement among the Trust, the Depositor, Hyundai Capital America, as Seller and Servicer (the “Servicer”) and Citibank, N.A., as Indenture Trustee (“Indenture Trustee”), dated as of [[Date 1]] as the same may be amended or supplemented from time to time.
+
+This Certificate is one of the duly authorized Trust Certificates designated as Hyundai Auto Receivables Trust 2010-A Asset Backed Trust Certificates (herein called the “Trust Certificates”). Also issued under the Indenture dated as of [[Date 1]] between the Trust and the Indenture Trustee, are four classes of Notes, designated as [[Percentage 4: Number]]% Asset Backed Notes, Class A-1, [[Percentage 5: Number]]% Asset Backed Notes, Class A-2, [[Percentage 6: Number]]% Asset Backed Notes, Class A-3, and [[Percentage 7: Number]]% Asset Backed Notes, Class A-4 (collectively, the “Notes”). This Trust Certificate is issued under and is subject to the terms, provisions and conditions of the Trust Agreement, to which Trust Agreement the holder of this Trust Certificate by virtue of the acceptance hereof assents and by which such holder is bound. Under the Trust Agreement, there will be distributed on the 15th day of each month (or, if such 15th day is not a Business Day, the next Business Day), commencing on [[Date 5: Date]], to the Person in whose name this Trust Certificate is registered at the close of business on the last day of the preceding month, such Certificateholder’s Certificate Percentage Interest of any amounts available to be distributed to Certificateholders on such date.
+
+The holder of this Trust Certificate acknowledges and agrees that its rights to receive distributions in respect of this Trust Certificate are subordinated to the rights of the Noteholders as described in the Sale and Servicing Agreement, the Indenture and the Trust Agreement, as applicable.
+
+\centered A-2
+
+It is the intent of the Depositor and the Certificateholders that, for purposes of federal income, state and local income and franchise tax, until the Trust Certificates are beneficially owned by more than one Person, the Trust will be disregarded as an entity separate from its owner. At such time that the Trust Certificates are beneficially owned by more than one Person, it is the intent of the Depositor and the Certificateholders that, for purposes of federal income, state and local income and franchise tax, the Trust will be treated as a partnership, the assets of which are the assets held by the Trust, and the Certificateholders will be treated as partners in that partnership. The Depositor and the Certificateholders, by acceptance of a Trust Certificate, agree to treat, and to take no action inconsistent with the treatment of, the Trust as such for tax purposes.
+
+Each Certificateholder, by its acceptance of a Trust Certificate, covenants and agrees that such Certificateholder will not at any time institute against the Depositor, or join in or encourage any institution against the Depositor of, any bankruptcy, reorganization, arrangement, insolvency or liquidation proceedings, or other proceedings under any United States federal or state bankruptcy or similar law in connection with any obligations relating to the Trust Certificates, the Notes, the Trust Agreement or any of the Basic Documents.
+
+Each Certificateholder by accepting a Trust Certificate acknowledges that such Certificateholder’s Trust Certificates represent beneficial interests in the Trust only and do not represent interests in or obligations of Depositor, the Servicer, Administrator, Seller, Owner Trustee, Indenture Trustee or any Affiliate thereof and no recourse may be had against such parties or their assets, except as expressly set forth or contemplated in the Trust Agreement, the Trust Certificates or the Basic Documents. In furtherance of and not in derogation of the foregoing, each Certificateholder, by accepting a Trust Certificate, acknowledges and agrees that it shall have no right, title or interest in or to any assets or interests therein of the Depositor (other than the Trust Estate and Reserve Account relating to this transaction) conveyed or purported to be conveyed by the Depositor to another securitization trust or other Person or Persons in connection therewith (whether by way of a sale, capital contribution or by virtue of the granting of a lien) (“Other Assets”). To the extent that, notwithstanding the agreements and provisions contained herein, a Certificateholder either (i) asserts an interest or claim to, or benefit from, Other Assets, whether asserted against or through the Depositor or any other Person owned by the Depositor, or (ii) is deemed to have any such interest, claim or benefit in or from Other Assets, whether by operation of law, legal process, pursuant to applicable provisions of insolvency laws or otherwise (including by virtue of Section 1111(b) of the Federal Bankruptcy Code or any successor provision having similar effect under the Bankruptcy Code), and whether deemed asserted against or through the Depositor or any other Person owned by the Depositor, then each Certificateholder, by accepting a Trust Certificate, further acknowledges and agrees that any such interest, claim or benefit in or from Other Assets is and shall be expressly subordinated to the indefeasible payment in full of all obligations and liabilities of the Depositor which, under the terms of the relevant documents relating to the securitization of such Other Assets, are entitled to be paid from, entitled to the benefits of, or otherwise secured by such Other Assets (whether or not any such entitlement or security interest is legally perfected or otherwise entitled to priority of distribution or application under applicable law, including insolvency laws, and whether asserted against Depositor or any other Person owned by the Depositor), including the payment of post-petition interest on such other obligations and liabilities. This subordination agreement shall be deemed a subordination agreement within the meaning of Section 510(a) of the Bankruptcy Code. Each Certificateholder, by acceptance of a Trust Certificate, further acknowledges and agrees that no adequate remedy at law exists for a breach of this paragraph and the terms of this paragraph may be enforced by an action for specific performance. The provisions of this paragraph shall be for the third party benefit of those entitled to rely thereon and shall survive the termination of the Trust Agreement.
+
+\centered A-3
+
+The Trust Certificates may not be acquired by or for the account of (i) an “employee benefit plan” (as defined in Section 3(3) of ERISA) that is subject to the provisions of Title I of ERISA, (ii) a “plan” described in Section 4975(e)(1) of the Code that is subject to Section 4975 of the Code or (iii) any entity whose underlying assets include plan assets by reason of an employee benefit plan’s or a plan’s investment in the entity (each, a “Benefit Plan Investor”). By accepting and holding a Trust Certificate, the Holder thereof shall be deemed to have represented and warranted that it is not a Benefit Plan Investor.
+
+Unless the certificate of authentication hereon shall have been executed by an authorized officer of Owner Trustee, by manual signature, this Trust Certificate shall not entitle the holder hereof to any benefit under the Trust Agreement or the Sale and Servicing Agreement or be valid for any purpose.
+
+THIS TRUST CERTIFICATE SHALL BE CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE, WITHOUT REFERENCE TO ITS CONFLICT OF LAW PROVISIONS, AND THE OBLIGATIONS, RIGHTS AND REMEDIES OF THE PARTIES HEREUNDER SHALL BE DETERMINED IN ACCORDANCE WITH SUCH LAWS.
+
+\centered A-4
+
+IN WITNESS WHEREOF, Owner Trustee, on behalf of the Trust and not in its individual capacity, has caused this Trust Certificate to be duly executed.
+
+**HYUNDAI AUTO RECEIVABLES TRUST 2010-A**
+
+[[HYUNDAI AUTO RECEIVABLES TRUST 2010-A Signatory Email: Identity | Signature]]
+__________________________________________
+{{HYUNDAI AUTO RECEIVABLES TRUST 2010-A Entity => By: [[HYUNDAI AUTO RECEIVABLES TRUST 2010-A Signatory First Name]] [[HYUNDAI AUTO RECEIVABLES TRUST 2010-A Signatory Last Name]]
+Title: [[HYUNDAI AUTO RECEIVABLES TRUST 2010-A Signatory Title]]}}
+
+not in its individual capacity,
+but solely as Owner Trustee
+
+Dated:_____________________________      By:____________________________________________
+Authorized Signatory
+
+\centered A-5
+
+\centered OWNER TRUSTEE’S CERTIFICATE OF AUTHENTICATION
+
+This is one of the Trust Certificates referred to in the within-mentioned Trust Agreement.
+
+**WILMINGTON TRUST COMPANY**,
+as Owner Trustee
+
+[[As Owner Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Owner Trustee Entity => By: [[As Owner Trustee Signatory First Name]] [[As Owner Trustee Signatory Last Name]]
+Title: [[As Owner Trustee Signatory Title]]}}
+
+
+OR
+
+**CITIBANK, N.A.,**
+as Authenticating Agent for the Owner Trustee
+
+[[As Authenticating Agent for the Owner Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Authenticating Agent for the Owner Trustee Entity => By: [[As Authenticating Agent for the Owner Trustee Signatory First Name]] [[As Authenticating Agent for the Owner Trustee Signatory Last Name]]
+Title: [[As Authenticating Agent for the Owner Trustee Signatory Title]]}}
+
+
+\centered A-6
+
+\centered ASSIGNMENT
+
+FOR VALUE RECEIVED the undersigned hereby sells, assigns and transfers unto
+
+PLEASE INSERT SOCIAL SECURITY OR OTHER IDENTIFYING NUMBER OF ASSIGNEE
+
+(Please print or type name and address, including postal zip code, of assignee)
+
+the within Trust Certificate, and all rights thereunder, and hereby irrevocably constitutes and appoints ____________________________________, attorney, to transfer said Trust Certificate on the books of the Certificate Registrar, with full power of substitution in the premises.
+
+Dated: ______________________  
+Signature Guaranteed:   
+______________________________________  
+NOTICE: The signature to this assignment must correspond with the name of the registered owner as it appears on the face of the within Trust Certificate in every particular, without alteration, enlargement or any change whatever. Such signature must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Certificate Registrar, which requirements include membership or participation in STAMP or such other “signature guarantee program” as may be determined by the Certificate Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+
+\centered A-7
+
+\centered EXHIBIT B
+
+\centered [RESERVED]
+
+\centered B-1
+
+\centered EXHIBIT C
+
+\centered FORM OF TRANSFEREE CERTIFICATE
+
+\centered [ ], 20__
+
+Hyundai Auto Receivables Trust 2010-A,  
+as Issuer  
+c/o Wilmington Trust Company,  
+as Owner Trustee  
+Wilmington Trust Company, 
+as Owner Trustee  
+Ladies and Gentlemen:  
+In connection with our proposed purchase of [ ]% Certificate Percentage Interest Asset Backed Trust Certificates (the “Trust Certificates”) of Hyundai Auto Receivables Trust 2010-A (the “Issuer”), a trust formed by Hyundai ABS Funding Corporation (the “Depositor”), we confirm that:
+
+^^We are a “qualified institutional buyer” as defined in Rule 144A (“QIB”) and are acquiring the Trust Certificate for our own institutional account (and not for the account of others) or as a fiduciary or agent for others (which others also are QIBs);
+
+^^We acknowledge that the Trust Certificates have not been and will not be registered under the Securities Act or the securities laws of any jurisdiction;
+
+^^We are familiar with Rule 144A and are aware that the sale is being made in reliance on Rule 144A and we are not acquiring the Trust Certificates with a view to, or for resale in connection with, a distribution that would constitute a public offering within the meaning of the Securities Act or a violation of the Securities Act, and that, if in the future we decide to resell, assign, pledge or otherwise transfer any Trust Certificates, such Trust Certificates may be resold, assigned, pledged or transferred only (i) to the Depositor or any Affiliate thereof, (ii) so long as such Trust Certificate is eligible for resale pursuant to Rule 144A, to a person whom we reasonably believe after due inquiry is a QIB acting for its own account (and not for the account of others) or as a fiduciary or agent for others (which others also are QIBs) to whom notice is given that the resale, pledge, assignment or transfer is being made in reliance on Rule 144A, (iii) pursuant to an effective registration statement under the Securities Act or (iv) in a sale, pledge or other transfer made in a transaction otherwise exempt from the registration requirements of the Securities Act, in which case (A) the Owner Trustee will require that both the prospective transferor and the prospective transferee certify to the Owner Trustee and the Depositor in writing the facts surrounding such transfer, which certification shall be in form and substance satisfactory to the Owner Trustee and the Depositor and (B) the Owner Trustee will require a written opinion of counsel (which will not be at the expense of the Depositor or the Owner Trustee) satisfactory to the Depositor and the Owner Trustee to the effect that such transfer will not violate the Securities Act, in each case in accordance with any applicable securities or “Blue Sky” laws of any state of the United States;
+
+\centered C-1
+
+^^We have neither acquired nor will we transfer any Trust Certificate we purchase (or any interest therein) or cause any such Trust Certificate (or any interest therein) to be marketed on or through an “established securities market” within the meaning of Section 7704(b)(1) of the Code, including, without limitation, an over-the-counter-market or an interdealer quotation system that regularly disseminates firm buy or sell quotations.
+
+^^We either (A) are not, and will not become, a partnership, Subchapter S corporation or grantor trust for U.S. federal income tax purposes (or a disregarded entity of any of the foregoing) or (B) are such an entity, but none of the direct or indirect beneficial owners of any of the interests in us have allowed or caused, or will allow or cause, [[Percentage 2]]% or more (or, if the Owner Trustee has received an Opinion of Counsel in form and substance acceptable to the Depositor that the proposed transfer to such transferee will not cause the Trust to be treated as a publicly traded partnership within the meaning of Section 7704 of the Code, such other percentage as the Owner Trustee may establish prior to the time of such proposed transfer) of the value of such interests in us to be attributable to our ownership of Trust Certificates.
+
+^^We (A) are acquiring the Trust Certificate for the account of [______] Persons and we will notify the Owner Trustee of any changes in the number of such Persons and (B) understand that any such change in the number of Persons for whose account a Trust Certificate is held shall require the written consent of the Owner Trustee, which consent shall be granted unless the Owner Trustee determines that such proposed change in number of Persons would create a risk that the Trust would be classified for federal or any applicable state tax purposes as an association (or a publicly traded partnership) taxable as a corporation.
+
+^^We understand that no subsequent transfer of the Trust Certificates is permitted unless (A) such transfer is of a Trust Certificate with a Certificate Percentage Interest of at least [[Percentage 3]]%, (B) we cause the proposed transferee to provide to the Owner Trustee and the Depositor a letter substantially in the form of this Exhibit C to the Trust Agreement or such other written statement as the Owner Trustee shall prescribe and (C) the Trust consents in writing to the proposed transfer, which consent shall be granted unless the Owner Trustee determines that such transfer would create a risk that the Trust would be classified for federal or any applicable state tax purposes as an association (or a publicly traded partnership) taxable as a corporation; provided, however, that any attempted transfer that would either cause the number of registered holders of Trust Certificates in the aggregate to exceed 100 or otherwise cause the Trust to become a publicly traded partnership for income tax purposes shall be a void transfer.
+
+^^We understand that the Opinion of Counsel to the Trust that the Trust is not a publicly traded partnership taxable as a corporation is dependent in part on the accuracy of the representations in paragraphs (d), (e), (f) and (g) above.
+
+^^We are a United States Person within the meaning of Section 7701(a)(30) of the Code.
+
+\centered C-2
+
+^^No Trust Certificate will be acquired or held by or for the account of (i) an employee benefit plan (as defined in Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), that is subject to the provisions of Title I of ERISA, (ii) a plan described in Section 4975(e)(1) of the Internal Revenue Code of 1986, as amended (the “Code”), that is subject to Section 4975 of the Code or (iii) any entity whose underlying assets include plan assets by reason of an employee benefit plan’s or a plan’s investment in the entity. Each Person who acquires any Trust Certificate or interest therein will certify that the foregoing conditions are satisfied.
+
+^^We are aware that we (or any account for which we are purchasing) may be required to bear the economic risk of an investment in the Trust Certificates for an indefinite period, and we (or such account) are able to bear such risk for an indefinite period.
+
+^^We understand that the Trust Certificates will bear legends substantially as set forth in Section 3.12 of the Trust Agreement;
+
+^^If we are acquiring any Trust Certificates for the account of one or more QIB, we represent that we have sole investment discretion with respect to each such account and that we have full power to make the foregoing acknowledgments, representations and agreements on behalf of each such account; and
+
+^^We acknowledge that the Owner Trustee, the Depositor, and their Affiliates, and others will rely upon the truth and accuracy of the foregoing acknowledgments, representations and agreements.
+
+You are entitled to rely upon this letter and are irrevocably authorized to produce this letter or a copy hereof to any interested party in any administrative or legal proceedings or official inquiry with respect to the matters covered hereby.
+
+Very truly yours,
+
+[[Very truly yours Signatory Email: Identity | Signature]]
+__________________________________________
+{{Very truly yours Entity => By: [[Very truly yours Signatory First Name]] [[Very truly yours Signatory Last Name]]
+Title: [[Very truly yours Signatory Title]]}}
+
+
+\centered C-3
+
+\centered EXHIBIT D
+
+\centered FORM OF CERTIFICATE OF TRUST OF
+
+\centered HYUNDAI AUTO RECEIVABLES TRUST 2010-A
+
+This CERTIFICATE OF TRUST of HYUNDAI AUTO RECEIVABLES TRUST 2010-A (the “Trust”), is being duly executed and filed by WILMINGTON TRUST COMPANY, a Delaware banking corporation, as owner trustee, to form a statutory trust under the Delaware Statutory Trust Act (12 Del. Code, ss. 3801 et seq.) (the “Act”).
+
+^**Name.** The name of the statutory trust formed hereby is HYUNDAI AUTO RECEIVABLES TRUST 2010-A.
+
+^**Delaware Trustee.** The name and business address of the trustee of the Trust in the State of Delaware is Wilmington Trust Company, Rodney Square North, [[Address 3: Address]], Attention: Corporate Trust Administrators.
+
+^**Effective Date.** This Certificate of Trust shall be effective upon filing with the Secretary of State.
+
+IN WITNESS WHEREOF, the undersigned, being the sole owner trustee of the Trust, has executed this Certificate of Trust pursuant to Section 3811 (a) of the Act.
+
+**WILMINGTON TRUST COMPANY**,
+as owner trustee
+
+[[As owner trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{As owner trustee Entity => By: [[As owner trustee Signatory First Name]] [[As owner trustee Signatory Last Name]]
+Title: [[As owner trustee Signatory Title]]}}
+
+
+\centered D-1

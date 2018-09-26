@@ -1,85 +1,115 @@
-\centered **NON-QUALIFIED STOCK OPTION AGREEMENT**
+\centered **PENN MILLERS STOCK INCENTIVE PLAN** 
 
-**AGREEMENT** made the [[Date 1: Date]], between **Nu Horizons Electronics Corp.,** a [[State of Formation: State]] [[Organization: EntityType]], (hereinafter called the "Company") and **Martin Kent** (hereinafter called "Optionee").
+\centered **STOCK OPTION AGREEMENT FOR** 
 
-In consideration of the premises and the mutual covenants hereinafter set forth, the parties hereto agree as follows:
+\centered **NONQUALIFIED STOCK OPTION** 
 
-^**Grant and Exercise of Option.** The Company hereby grants to Optionee an option to purchase a total of [[Shares 1: Number]] shares of the authorized and unissued Common Stock of the Company, having a par value of $.0066 per share, at the price of **$[[USD Value 1: Number]]** per share (the “Option”), upon and subject to the following terms and conditions:
+\centered **FOR EMPLOYEES** 
 
-^^The Option may be exercised before [[Date 2: Date]] (the "Expiration Date") and, within such period, only at the following times and in the following amounts:
+\centered BETWEEN 
 
-^^^After the expiration of one (1) year from the date of this Agreement, the Option may be exercised to the extent of up to TWENTY-FIVE ([[Percentage 1: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof;
+\centered PENN MILLERS HOLDING CORPORATION 
 
-^^^After the expiration of two (2) years from the date of this Agreement, the option may be exercised for up to FIFTY ([[Percentage 2: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof;
+\centered AND 
 
-^^^After the expiration of three (3) years from the date of this Agreement, the Option may be exercised to the extent of up to SEVENTY-FIVE ([[Percentage 3: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof ; and
+\centered (the Optionholder) 
 
-^^^After the expiration of four (4) years from the date of this Agreement, the Option may be exercised to the extent of ONE HUNDRED ([[Percentage 4: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof.
+Date of Award:  
+Number of Shares:  
+Exercise Price:  
+Option Expiration Date:  
 
-^^Notwithstanding the vesting of the Option in accordance with subparagraphs (i)-(iv), above, Optionee shall not have the right to exercise any such vested Options unless the closing market price of the Common Stock on the Nasdaq Stock Market shall be no less than $[[USD Value 2: Number]] per share for at least 10 consecutive trading days prior to the date of exercise.
+^^^^^ 
+\centered **NONQUALIFIED STOCK OPTION AGREEMENT** 
 
-^^The Option shall be exercisable during the Optionee's lifetime only by the Optionee and shall not be exercisable by the Optionee unless, at all times since [[Date 3: Date]], and at the time of exercise, such Optionee is an employee of or providing services to the Company, any parent corporation of the Company or any Subsidiary or Affiliate, except:
+Number of shares subject to option:  shares (the “Option”). 
 
-^^^Upon termination of all such employment or provision of services (other than by death, Total Disability, or by Total Disability followed by death in the circumstances provided below), the Optionee may exercise the Option at any time within three months thereafter but only to the extent that the Option is exercisable on the date of such termination pursuant to Section 1(a);
+This Agreement dated , 2010, between Penn Millers Holding Corporation (the “Corporation”) and  (the “Optionholder”). 
 
-^^^Upon termination of all such employment by Total Disability, the Optionee may exercise the Option at any time within three years thereafter, but only to the extent such Option is exercisable on the date of such termination pursuant to Section 1(a); and
+\centered **WITNESSETH:** 
 
-^^^In the event of the death of the Optionee (x) while an employee of or providing services to the Company, any parent corporation of the Company or any Subsidiary or Affiliate, or (y) within three months after termination of all such employment or provision of services (other than for Total Disability), or (z) within three years after termination on account of Total Disability of all such employment or provision of services, the Optionee's estate or any person who acquires the right to exercise such option by bequest or inheritance or by reason of the death of the Optionee may exercise the Option at any time within the period of two years from the date of death. In the case of clauses (x) and (z) above, the Option shall be exercisable in full for all the remaining shares of Common Stock covered hereby, but in the case of clause (y) the Option shall be exercisable only to the extent it was exercisable on the date of such termination of employment pursuant to Section 1(a).
+^**Award of Option**  
+Pursuant to the provisions of the Penn Millers Stock Incentive Plan (the “Plan”) the Corporation hereby awards to the Optionholder, subject to the terms and conditions of the Plan and subject further to the terms and conditions herein set forth, the right and option to purchase from the Corporation all or any part of an aggregate of  shares of common stock (par value $[[USD Value 1: Number]] per share) of the Corporation (“Common Stock”) at the exercise price of $ per share; such option to be exercised as hereinafter provided. 
 
-^^In the event of a Change in Control (a) all Options outstanding on the date of such Change in Control shall become immediately and fully exercisable, and (b) the Optionee will be permitted to surrender for cancellation within sixty (60) days after such Change in Control any portion of the Option not yet exercised which was granted more than six (6) months prior to the date of such surrender and to receive a cash payment in an amount equal to the excess, if any, of the Fair Market Value (on the date of surrender) of the shares of Common Stock then purchasable under the Option over the aggregate purchase price for such shares of Common Stock.
+^**Terms and Conditions**  
+It is understood and agreed that the Option evidenced hereby is subject to the following terms and conditions: 
 
-^^Each exercise of the Option shall be by delivery to the Company, at its then principal office (attention of the Treasurer), of written notice stating the number of shares of Common Stock to be purchased, accompanied by payment in full of the option price of such shares of Common Stock. The option price shall be payable in United States dollars (i) cash, or (ii) check, or (iii) other shares of the Company’s Common Stock which have a Fair Market Value on the date of surrender equal to the aggregate exercise price of the Shares as to which said Option shall be exercised, or (iv) consideration received by the Company under any cashless exercise program implemented by the Company in connection with the Plan.
+^^Expiration Date. Subject to the provisions of Paragraph 2(d) hereof, the Option awarded hereby shall expire on  [7 years from the date of grant].
+^^Exercise of Option. Except as may be provided below, no part of this Option may be exercised until the Optionholder has remained in the continuous employ of the Corporation or of a Subsidiary for the following periods after the date hereof:
 
-^^In the event of each exercise of the Option, the Company shall deliver to the Optionee, personally or at his designated address, as soon as practicable, a certificate made out to the Optionee for the number of shares being purchased.
+\centered 
 
-^^The Option is not intended to be an Incentive Stock Option under Section 422 of the Internal Revenue Code of 1986, as amended.
+**% of Shares**     **Number of** **Vesting Date**    **Vesting**     **Shares Vesting** 20.0   %    ______ shares 20.0   %    ______ shares 20.0   %    ______ shares 20.0   %    ______ shares 20.0   %    ______ shares  
 
-^^If at any time, the Company or any Subsidiary or Affiliate is required, under applicable laws and regulations, to withhold, or to make any deduction for any taxes, or take any other action in connection with any Option exercise, the Optionee shall be required to pay to the Company or such Subsidiary or Affiliate, the amount of any taxes required to be withheld, or, in lieu thereof, at the option of the Company, the Company or such Subsidiary or Affiliate may accept Common Stock valued at its Fair Market Value on the date of payment, to cover the amount required to be withheld.
+This Option may be exercised in whole at any time, or from time to time in part, to the extent vested, prior to the expiration date specified in Paragraph 2(a) hereof. Any exercise shall be accompanied by a written notice to the Corporation specifying the number of shares as to which the Option is being exercised. Notwithstanding the foregoing: 
 
-^**Adjustments to the Number of Option Shares.**
+^upon the occurrence of a Change in Control, all unvested Options then held by the Optionholder shall vest and become immediately exercisable;
 
-If, at any time, the Company shall take any action, whether by stock dividend, stock split, combination of shares or otherwise, which results in a proportionate increase or decrease in the number of shares of Common Stock theretofore issued and outstanding, the number of shares subject to this Option shall, to the extent deemed appropriate by the Committee, be increased or decreased in the same proportion, provided, however, that the Company shall not be obligated to issue fractional shares.
+^^^^^ 
+^if the Optionholder’s employment with the Corporation or a Subsidiary terminates due to death or Disability on or after the date in which the Optionholder (A) reaches age 55 or (B) has completed 10 years of service with the Corporation or a Subsidiary (including a predecessor of the Corporation or a Subsidiary), unvested Options then held by the Optionholder shall vest and become immediately exercisable on a pro-rata basis based on the number of full months that the Optionholder worked at the Corporation or a Subsidiary during the period beginning on the day after the most recent vesting date set forth in Section 2(b) and ending on the next scheduled vesting date set forth in Section 2(b); and
+^if the Optionholder’s employment with the Corporation or a Subsidiary terminates (other than for death, Disability, or by reason of a Termination or Dismissal for Cause) on or after the Optionholder reaches age 65, unvested Options then held by the Optionholder shall vest and become immediately exercisable on a pro-rata basis based on the number of full months that the Optionholder worked at the Corporation or a Subsidiary during the period beginning on the day after the most recent vesting date set forth in Section 2(b) and ending on the next scheduled vesting date set forth in Section 2(b).
 
-In the event of any change in the outstanding shares of Common Stock by reason of any recapitalization, merger, consolidation, reorganization, combination or exchange of shares or other corporate change, the number of shares of Common Stock shall be adjusted in such manner and to such extent, if any, as Committee deems to be appropriate.
+^^Payment of Exercise Price Upon Exercise. At the time of any exercise, the exercise price of the shares as to which this Option may be exercised shall be paid in cash or, subject to the conditions and limitations described in the Plan, by one of the methods of payment set forth in the Plan for the exercise of a Nonqualified Stock Option.
+^^Exercise Upon Death, Being Disabled, or Other Termination of Employment.
 
-^**Non-Transferability of Option.** The Option granted under this Agreement shall not be transferable otherwise than by will or the laws of descent and distribution as may be permitted by the Company’s Board of Directors or its Compensation Committee.
+^In the event of the termination of the Optionholder’s employment as an employee of the Corporation or of a Subsidiary by reason of death or Disability, this Option may be exercised, to the extent that the Optionholder was entitled to do so at the date of termination of employment due to such cause, in whole at any time, or from time to time in part, within one year after the Optionholder’s death or permanent and total disability, but in no event later than the expiration date specified in Paragraph 2(a) hereof.
+^If the Corporation or a Subsidiary terminates the employment of the Optionholder (other than if the termination is a Termination or Dismissal for Cause), this Option may be exercised, to the extent that the Optionholder was entitled to do so at the date of termination of employment, in whole at any time, or from time to time in part, within 12 months after the date of such termination, but in no event later than the expiration date specified in Paragraph 2(a) hereof.
+^If the Optionholder’s employment with the Corporation or a Subsidiary is voluntarily terminated by the Optionholder, then the option shall lapse on the date of such termination of employment; provided, however, that if the Optionholder (A) terminates for “Good Reason” (as such term is defined in an employment or similar agreement applicable to the Optionholder) following a Change in Control or (B) terminates on or after reaching age 65, this Option may be exercised, to the
 
-^**Purchase for Investment**. To the extent that, at the time of exercise of the Option, the underlying shares have not been registered for sale under the Securities Act or 1933, as amended, the Optionee represents, on behalf of himself and any transferees, that any shares of Common Stock purchased pursuant to this Agreement will be acquired in good faith for investment and not for resale or distribution, and Optionee on behalf of himself and said person or persons, agrees that each notice of the exercise of the Option shall contain or be accompanied by a representation in writing signed by him or said person or persons, as the case may be, in form satisfactory to the Company, that the shares of Common Stock to be purchased pursuant to such notice are being so acquired and will not be sold except in compliance with applicable securities laws.
+^^^^^ 
+extent that the Optionholder was entitled to do so at the date of termination of employment, in whole at any time, or from time to time in part, within 12 months after the date of such termination, but in no event later than the expiration date specified in Paragraph 2(a) hereof.
 
-^**Capitalized Terms.** The capitalized terms used herein shall have the following meanings:
+^Notwithstanding anything herein to the contrary, if the Optionholder’s employment termination of employment is a Termination or Dismissal for Cause, all rights to exercise this Option shall lapse on the date of such termination of employment.
 
-"Affiliate" means any person or entity controlled by or under common control with the Company, by virtue of the ownership of voting securities, by contract or otherwise.
+^^Nontransferability. This Option shall not be transferable other than by will or by the laws of descent and distribution. During the lifetime of the Optionholder, this Option shall be exercisable only by the Optionholder.
+^^Adjustments. In the event that the shares of Common Stock, as presently constituted, shall be changed into or exchanged for a different number or kind of shares of stock or other securities of the Corporation, or if the number of such shares of Common Stock shall be changed through the payment of a stock dividend, stock split, or reverse stock split, then the shares of Common Stock then subject to this Option and the exercise price thereof shall be increased, decreased, or otherwise changed to such extent and in such manner as may be necessary or appropriate to reflect any of the foregoing events. If there shall be any other change in the number or kind of the outstanding shares of the Common Stock, or of any stock or other securities into which such Common Stock shall have been changed, or for which it shall have been exchanged, and if a majority of the disinterested members of the Board shall, in its sole discretion, determine that such change equitably requires an adjustment to the terms of this Option, then such adjustment shall be made in accordance with such determination. Any adjustment so made shall be final and binding upon the Optionholder.
+^^No Rights as Shareholder. The Optionholder shall have no rights as a shareholder with respect to any shares of Common Stock subject to this Option prior to the date of issuance of a certificate or certificates for such shares.
+^^No Right To Continued Employment. This Option shall not confer upon the Optionholder any right to continue in the employ of the Corporation or any Subsidiary, nor shall it interfere in any way with the right of the Corporation or any Subsidiary to terminate the Optionholder’s employment at any time and for any reason.
+^^Compliance with Law and Regulations. This Option and the obligation of the Corporation to sell and deliver shares hereunder shall be subject to all applicable federal and state laws, rules, and regulations and to such approvals by any government or regulatory agency as may be required. The Corporation shall not be required to issue or deliver any certificates for shares of Common Stock prior to (1) the listing of such shares on any stock exchange on which the Common Stock may then be listed and (2) the completion of any registration or qualification of such shares under any federal or state law, or any rule or regulation of any government body which the Corporation shall, in its sole discretion, determine to be necessary or advisable.
 
-"Board" means the Board of Directors of the Company.
+^^^^^ 
+^^Harmful Activity**.** Notwithstanding anything in this Agreement to the contrary, if the Optionholder shall engage in any “harmful activity” while employed by the Corporation or a Subsidiary or during the six-month period thereafter, then (i) this Option, to the extent then unexercised and whether vested or unvested, shall immediately be forfeited and canceled and (ii) any Profits realized upon the exercise of this Option shall inure to the Corporation. If any Profits realized upon the exercise of this Option inure to the benefit of the Corporation in accordance with this Section, the Optionholder shall pay all such Profits to the Corporation within 30 days after receiving written notice from the Corporation that the Optionholder has engaged in a harmful activity. Consistent with the provisions of the Plan, the determination by the Committee as to whether the Optionholder engaged in “harmful activity” while employed by the Corporation or a Subsidiary or during the six-month period thereafter shall be final and conclusive, unless otherwise determined by a majority of disinterested members of the Board. For purposes of this Section 2(j), “Profits” shall mean, with respect to this Option, the spread between the fair market value of a share of Common Stock on the date of exercise and the exercise price, multiplied by the number of shares exercised under this Option.
 
-"Change in Control" means a change of control of the Company, or in any person directly or indirectly controlling the Company, which shall mean:
+^“harmful activity” shall have occurred if the Optionholder shall do any one or more of the following: 
 
-^^a change in control as such term is presently defined in Regulation 240.12b-2) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"); or
+^Engage in any fraud or intentional misconduct that is a significant contributing factor to the Corporation having to restate all or a portion of its financial statement(s). 
 
-^^if any "person" (as such term is used in Section 13(d) and 14(d) of the Exchange Act) other than the Company or any "person" who on the date of this Agreement is a director or officer of the Company, becomes the "beneficial owner" (as defined in Rule 13(d)-3 under the Exchange Act) directly or indirectly, of securities of the Company representing twenty percent ([[Percentage 5: Number]]%) or more of the voting power of the Company's then outstanding securities; or
+^Engage in activities that would constitute grounds for the Corporation or a Subsidiary to terminate the Optionholder’s employment by reason of a Termination or Dismissal for Cause (as defined in the Plan) or for Cause (as defined in an applicable employment agreement between the Optionholder and the Corporation and/or a Subsidiary), whether or not the Optionholder is employed at the time the Optionholder engages in such activities. 
 
-^^if during any period of two (2) consecutive years, individuals who at the beginning of such period constitute the Board of Directors, cease for any reason to constitute at least a majority thereof.
+^Solicit or hire any employees of the Corporation or a Subsidiary or induce any of such employees to terminate their employment relationship with the Corporation or a Subsidiary. 
 
-"Committee" means the Compensation Committee of the Board.
+^Solicit, induce, or attempt to solicit or induce any customer, supplier, or other entity doing business with the Corporation of a Subsidiary to cease doing business with the Corporation or a Subsidiary or, in the case of a customer, to place agribusiness insurance, as that term is commonly understood in the industry, with any competitor of the Corporation or a Subsidiary. For purposes of the foregoing provision, the term “customer” shall mean a business that the Corporation or a Subsidiary insures on the date that the Optionholder’s employment terminates (or has insured during the previous twelve months) and a broker who has placed business with the Corporation or a Subsidiary on the date that the Optionholder’s employment terminates but only with respect to those clients of the broker for which the broker has placed business with the Corporation or a Subsidiary in the 12-month period preceding the date that the Optionholder’s employment terminates. 
 
-"Fair Market Value" means the closing market price of the Common Stock on the Nasdaq Stock Market on the any date on which the Common Stock is to be valued hereunder. If no sale shall have been reported on the Nasdaq Stock Market consolidated reporting system on such date, Fair Market Value shall be determined by the Committee.
+^^^^^ 
+^Directly or indirectly, own, manage, operate, render services for (as a consultant or an advisor), or accept any employment with (i) Nationwide Agribusiness Insurance Company, Michigan Millers Insurance Company, or Westfield Insurance Company, or any of their successors in interest or (ii) the agribusiness insurance business of any other insurance company whose business has, or could reasonably be expected to have, a material adverse effect on the Corporation’s or a Subsidiary’s business insurance business. 
 
-"Subsidiary" means any corporation in which the Company possesses directly or indirectly [[Percentage 2]]% or more of the combined voting power of all classes of stock of such corporation.
+^Directly or indirectly, own, manage, operate, render services for (as a consultant or an adviser), or accept any employment with, within a 50-mile radius of Wilkes-Barre, Pennsylvania, any other property and casualty insurance or reinsurance line of business to the extent that such ownership, management, operating, rendering of services, or employment (and the activities necessarily incident thereto) have, or could reasonably be expected to have, a material adverse effect on the Corporation’s or a Subsidiary’s business insurance business. 
 
-"Total Disability" means accidental bodily injury or sickness which wholly and continuously disabled an optionee. The Committee, whose decisions shall be final, shall make a determination of Total Disability.
+^For any reason, in any fashion, form or manner, either directly or indirectly, divulge, disclose or communicate to any person, firm, corporation, or other business entity, in any manner whatsoever, any confidential information or trade secrets concerning the business of the Corporation or a Subsidiary, including, without limiting the generality of the foregoing, any customer lists or other customer identifying information, the techniques, methods or systems of the Corporation’s or a Subsidiary’s operations or management, any information regarding their respective financial matters, or any other material information concerning the business of the Corporation or a Subsidiary, their manner of operation, plan, or other material data. The provisions of this subsection shall not apply to (i) information that is public knowledge other than as result of Optionholder’s authorized disclosure; (ii) information disseminated by the Corporation or a Subsidiary to third parties in the ordinary course of business; (iii) information lawfully received by the Optionholder from a third party who, based upon inquiry by the Optionholder, is not bound by a confidential relationship to the Corporation or a Subsidiary; or (iv) information disclosed under a requirement of law or as directed by applicable legal authority having jurisdiction over the Optionholder. 
 
-**In Witness Whereof**, the parties hereto have duly executed this Agreement as of the day and year first above written.
+^**Investment Representation**  
+The Corporation may require the Optionholder to furnish to the Corporation, prior to the issuance of any shares upon the exercise of all or any part of this Option, an agreement (in such form as the Corporation may specify) in which the Optionholder represents that the shares acquired upon exercise are being acquired for investment and not with a view to the sale or distribution thereof. 
 
-NU HORIZONS ELECTRONICS CORP.
+^^^^^ 
+^**Optionholder Bound by Plan**  
+The Optionholder acknowledges receipt of a copy of the Plan and agrees that this Award shall be subject to all of the terms and conditions set forth in the Plan, including future amendments thereto, if any, pursuant to the terms thereof, which Plan is incorporated herein by reference as a part of this Agreement. Capitalized terms used in this Agreement without definition shall have the meanings assigned to them in the Plan. 
 
-[[NU HORIZONS ELECTRONICS CORP. Signatory Email: Identity | Signature]]
+^**Withholding of Taxes**  
+The Corporation will require that, as a condition precedent to the exercise of this Option, appropriate arrangements be made for the withholding of any applicable taxes. The obligation of the Optionholder under this paragraph to provide for the payment of withholding taxes may be satisfied, subject to the provisions of Section 7.2 of the Plan, by electing to have the Corporation withhold certain of the shares that would otherwise be issuable pursuant to the exercise of the Option awarded hereby. 
+
+^**Notices**  
+Any notice hereunder to the Corporation shall be addressed to it at its office, [[Address 1: Address]]-0016; Attention: , (or to such different address as the Corporation may designate in writing) and any notice hereunder to Optionholder shall be addressed to him or her at the most recent address as shown in the employment or stock records of the Corporation. 
+
+**IN WITNESS WHEREOF**, Penn Millers Holding Corporation has caused this Agreement to be executed by a duly authorized officer and the Optionholder has executed this Agreement, both as of the day and year first above written. 
+
+\centered 
+
+**PENN MILLERS HOLDING CORPORATION**    **OPTIONHOLDER** 
+
+[[PENN MILLERS HOLDING CORPORATION    OPTIONHOLDER Signatory Email: Identity | Signature]]
 __________________________________________
-{{NU HORIZONS ELECTRONICS CORP. Entity => By: [[NU HORIZONS ELECTRONICS CORP. Signatory First Name]] [[NU HORIZONS ELECTRONICS CORP. Signatory Last Name]]
-Title: [[NU HORIZONS ELECTRONICS CORP. Signatory Title]]}}
+{{PENN MILLERS HOLDING CORPORATION    OPTIONHOLDER Entity => By: [[PENN MILLERS HOLDING CORPORATION    OPTIONHOLDER Signatory First Name]] [[PENN MILLERS HOLDING CORPORATION    OPTIONHOLDER Signatory Last Name]]
+Title: [[PENN MILLERS HOLDING CORPORATION    OPTIONHOLDER Signatory Title]]}}
 
-[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
-
-Martin Kent, Optionee
+Douglas A. Gaudet President and Chief Executive Officer    (Signature)  
+ 

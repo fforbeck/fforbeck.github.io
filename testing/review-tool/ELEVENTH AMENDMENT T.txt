@@ -1,0 +1,74 @@
+.13**
+
+\centered **ELEVENTH AMENDMENT TO THE**
+
+\centered **REVOLVING CREDIT AGREEMENT**
+
+THIS ELEVENTH AMENDMENT to the REVOLVING CREDIT AGREEMENT, dated as of [[Date 1: Date]] (the “Eleventh Amendment”), is entered into in connection with and as an amendment to that certain Revolving Credit Agreement, dated as of [[Date 2: Date]], as amended by that First Amendment, dated as of [[Date 3: Date]], as further amended by that Second Amendment, dated as of [[Date 4: Date]], as further amended by that Third Amendment, dated as of [[Date 5: Date]], as further amended by that Fourth Amendment dated as of [[Date 6: Date]], as further amended by that Fifth Amendment dated as of [[Date 7: Date]], as further amended by that Sixth Amendment dated as of [[Date 8: Date]], as further amended by that Seventh Amendment dated as of [[Date 9: Date]], as further amended by that Eighth Amendment dated as of [[Date 10: Date]], as further amended by that Ninth Amendment dated as of [[Date 11: Date]], as further amended by the Tenth Amendment dated as of [[Date 12: Date]], and as further amended, restated or modified from time to time, by and between First National Bank of Omaha, a national banking association (“FNBO”) and [[Borrower]], a [[State of Formation: State]] [[Organization: EntityType]] formerly known as Ballantyne of Omaha, Inc. (the “Borrower”) (collectively, the “Credit Agreement”). All capitalized terms used but not otherwise defined herein shall have their respective meanings as prescribed in the Credit Agreement.
+
+WHEREAS, the maturity date for the Base Revolving Credit Facility pursuant to the Credit Agreement is currently [[Date 1]];
+
+WHEREAS, the Borrower and FNBO desire to extend the maturity date of the Base Revolving Credit Facility to [[Date 13: Date]].
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained in this Eleventh Amendment, the parties hereby agree as follows:
+
+^Definitions. Article I of the Credit Agreement is hereby amended to read as follows:
+
+The definition of “Termination Date” is amended and restated in its entirety to read as follows:
+
+“Termination Date: [[Date 13]], or such later date as is approved in writing by FNBO.”
+
+^Reaffirmation. Except as specifically amended and modified hereby or otherwise agreed, the Credit Agreement and each Operative Document remains in full force and effect in accordance with its terms and is hereby reaffirmed, ratified and confirmed in all respects.
+
+^Representations. The Borrower hereby represents that on and as of the date hereof and after giving effect to this Eleventh Amendment: (a) all of the representations and warranties contained in the Credit Agreement are true, correct and complete in all respects as of the date hereof as though made on and as of the date hereof, except for changes permitted by the terms of the Credit Agreement; and (b) there exists no Event of Default under the Credit Agreement as of the date hereof.
+
+^Entirety. This Eleventh Amendment, the Credit Agreement and the other Operative Documents embody the entire agreement between the parties hereto and supersede all prior agreements and understandings, oral or written, if any, relating to the subject matter hereof.
+
+^Counterparts. This Eleventh Amendment may be executed in counterparts, each of which shall constitute an original, but all of which when taken together shall constitute one and the same instrument.
+
+^**Governing Law****. THIS ELEVENTH AMENDMENT SHALL BE A CONTRACT MADE UNDER AND GOVERNED BY THE LAWS OF THE STATE OF NEBRASKA APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED ENTIRELY WITHIN THE STATE OF NEBRASKA. WHENEVER POSSIBLE EACH PROVISION OF THIS AMENDMENT SHALL BE INTERPRETED IN SUCH MANNER AS TO BE EFFECTIVE AND VALID UNDER APPLICABLE LAW, BUT IF ANY PROVISION OF THIS ELEVENTH AMENDMENT SHALL BE PROHIBITED BY OR INVALID UNDER APPLICABLE LAW, SUCH PROVISION SHALL BE INEFFECTIVE TO THE EXTENT OF SUCH PROHIBITION OR INVALIDITY, WITHOUT INVALIDATING THE REMAINDER OF SUCH PROVISION OR THE REMAINING PROVISIONS OF THIS AMENDMENT. ALL OBLIGATIONS OF THE BORROWER AND RIGHTS OF FNBO EXPRESSED HEREIN, IN THE CREDIT AGREEMENT OR IN ANY OTHER OPERATIVE DOCUMENT SHALL BE IN ADDITION TO AND NOT IN LIMITATION OF THOSE PROVIDED BY APPLICABLE LAW.**
+
+^**Statutory Notice****.** A CREDIT AGREEMENT MUST BE IN WRITING TO BE ENFORCEABLE UNDER NEBRASKA LAW. TO PROTECT YOU AND US FROM ANY MISUNDERSTANDINGS OR DISAPPOINTMENTS, ANY CONTRACT, PROMISE, UNDERTAKING, OR OFFER TO FOREBEAR REPAYMENT OF MONEY OR TO MAKE ANY OTHER FINANCIAL ACCOMMODATION IN CONNECTION WITH THIS LOAN OF MONEY OR GRANT OR EXTENSION OF CREDIT, OR ANY AMENDMENT OF, CANCELLATION OF, WAIVER OF, OR SUBSTITUTION FOR ANY OR ALL OF THE TERMS OR PROVISIONS OF ANY INSTRUMENT OR DOCUMENT EXECUTED IN CONNECTION WITH THIS LOAN OF MONEY OR GRANT OR EXTENSION OF CREDIT, MUST BE IN WRITING TO BE EFFECTIVE.
+
+\centered [REMAINDER OF PAGE INTENTIONALLY BLANK; SIGNATURE PAGE FOLLOWS.]
+
+IN WITNESS WHEREOF, the Borrower and FNBO have caused this Eleventh Amendment to be executed as of the day and year first above written.
+
+BANK:
+
+FIRST NATIONAL BANK OF OMAHA
+
+[[FIRST NATIONAL BANK OF OMAHA Signatory Email: Identity | Signature]]
+__________________________________________
+{{FIRST NATIONAL BANK OF OMAHA Entity => By: [[FIRST NATIONAL BANK OF OMAHA Signatory First Name]] [[FIRST NATIONAL BANK OF OMAHA Signatory Last Name]]
+Title: [[FIRST NATIONAL BANK OF OMAHA Signatory Title]]}}
+
+
+BORROWER:
+
+[[Borrower]], formerly known as Ballantyne of Omaha, Inc.
+
+[[Borrower formerly known as Ballantyne of Omaha Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower formerly known as Ballantyne of Omaha Inc. Entity => By: [[Borrower formerly known as Ballantyne of Omaha Inc. Signatory First Name]] [[Borrower formerly known as Ballantyne of Omaha Inc. Signatory Last Name]]
+Title: [[Borrower formerly known as Ballantyne of Omaha Inc. Signatory Title]]}}
+
+
+Each of the undersigned Guarantors hereby acknowledges the Eleventh Amendment, reaffirms its obligations under the Guaranty and other Guarantor Documents previously delivered, and acknowledges and agrees that the “Obligations” under the Guaranty includes all of the obligations of the Borrower to FNBO now or hereafter existing under the Credit Agreement, as amended by the Eleventh Amendment.
+
+BTN MANUFACTURING, INC.      STRONG TECHNICAL SERVICES, INC.
+
+[[BTN MANUFACTURING INC.      STRONG TECHNICAL SERVICES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{BTN MANUFACTURING INC.      STRONG TECHNICAL SERVICES INC. Entity => By: [[BTN MANUFACTURING INC.      STRONG TECHNICAL SERVICES INC. Signatory First Name]] [[BTN MANUFACTURING INC.      STRONG TECHNICAL SERVICES INC. Signatory Last Name]]
+Title: [[BTN MANUFACTURING INC.      STRONG TECHNICAL SERVICES INC. Signatory Title]]}}
+
+
+STRONG WESTREX, INC.      STRONG/MDI SCREEN SYSTEMS, INC.,
+formerly known as Strong Digital Systems, Inc.
+
+[[Formerly known as Strong Digital Systems Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Formerly known as Strong Digital Systems Inc. Entity => By: [[Formerly known as Strong Digital Systems Inc. Signatory First Name]] [[Formerly known as Strong Digital Systems Inc. Signatory Last Name]]
+Title: [[Formerly known as Strong Digital Systems Inc. Signatory Title]]}}
+

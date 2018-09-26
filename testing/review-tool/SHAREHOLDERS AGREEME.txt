@@ -1,609 +1,567 @@
-.(a)2**  
+\centered SHAREHOLDERS AGREEMENT 
 
-\centered **SHAREHOLDERS AGREEMENT OF IUPAR - ITAÚ UNIBANCO PARTICIPAÇÕES S.A. AND OF ITAÚ UNIBANCO BANCO MÚLTIPLO S.A.**
+\centered by and among 
 
-[[FRMS Signatory Email: Identity | Signature]]
+\centered SINA CORPORATION, 
+
+\centered E-HOUSE (CHINA) HOLDINGS LIMITED 
+
+\centered and 
+
+\centered CHINA REAL ESTATE INFORMATION CORPORATION 
+
+\centered as of 
+
+\centered [[Date 1: Date]] 
+
+^^^^^ 
+\centered TABLE OF CONTENTS 
+
+ARTICLE I
+CERTAIN DEFINITIONS
+
+^^Defined Terms      
+^^Interpretation and Rules of Construction      
+
+ARTICLE II
+BOARD OF DIRECTORS
+
+^^Number and Composition      
+^^Nomination and Election of Directors      
+^^Quorum and Manner of Acting      
+^^Chairman      
+^^Board Meetings      
+^^Board Committees      
+^^Execution of Documents      
+^^Compliance      
+^^Memorandum and Articles of Association      
+
+ARTICLE III
+RESTRICTIONS ON TRANSFER
+
+^^Transfer Restrictions on Ordinary Shares      
+^^Permitted Transfers of Ordinary Shares      
+^^Right of First Offer      
+
+ARTICLE IV
+FINANCIAL STATEMENTS; ACCESS TO INFORMATION
+
+^^Financial Statements      
+^^Access to Information      
+^^Confidentiality of Information      
+^^Cooperation      
+
+ARTICLE V
+TERM AND TERMINATION
+
+^^Term      
+^^Termination      
+
+ARTICLE VI
+LIABILITY
+
+^^Limitation of Liability      
+
+\centered i 
+
+^^^^^ 
+
+ARTICLE VII
+GOVERNING LAW; ARBITRATION
+
+^^Governing Law      
+^^Arbitration      
+
+ARTICLE VIII
+MISCELLANEOUS
+
+^^Enforcement on Behalf of the Company      
+^^Entire Agreement; Amendments      
+^^Inspection      
+^^Waiver      
+^^Assignment      
+^^Severability      
+^^Remedies      
+^^Headings      
+^^Notices      
+^^Further Assurances      
+^^No Fiduciary Relationship      
+^^Counterparts      
+
+\centered ii 
+
+^^^^^ 
+\centered **SHAREHOLDERS AGREEMENT** 
+
+**SHAREHOLDERS AGREEMENT**, dated as of [[Date 1]], by and among E-House ([[State of Formation: State]] [[Organization: EntityType]], a company organized under the laws of the Cayman Islands (“SINA”) and CHINA REAL ESTATE INFORMATION CORPORATION, a company organized under the laws of the Cayman Islands (the “Company”) (each a “Party” and collectively the “Parties”). 
+
+\centered **RECITALS** 
+
+**WHEREAS**, E-House owns 71,522,222 of the issued ordinary shares, par value US$[[USD Value 1: Number]]2 per share, of the Company (the “Ordinary Shares”) and SINA owns 47,666,667 of the Ordinary Shares; and 
+
+**WHEREAS**, the Parties desire to set forth their agreement with respect to certain matters relating to the Shareholders’ ownership of the Ordinary Shares. 
+
+**NOW, THEREFORE**, in consideration of the foregoing recitals and the mutual covenants and agreements set forth herein, the Parties, intending to be legally bound hereby, agree as follows: 
+
+**CERTAIN DEFINITIONS**  
+
+^^Defined Terms. Unless specifically indicated otherwise in this Agreement, the following defined terms shall have the meanings ascribed thereto in this Article I. 
+
+“[[Percentage 1: Number]]% Shareholder” means a Shareholder that, together with its Affiliates, is the Beneficial Owner of at least ten percent ([[Percentage 1]]%) of the issued and outstanding Ordinary Shares. 
+
+“Affiliate” means, with respect to any specified Person, any other Person that directly, or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified Person, and with respect to an individual also means any spouse, parent, child, brother or sister of such Person. For the purpose of this definition, “control” as used with respect to a Person shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management policies of such Person, whether through the ownership of voting securities, by contract, agency or otherwise, provided that no Shareholder shall be deemed an Affiliate of any other Shareholder solely by reason of any investment in the Company. 
+
+“Affiliate Transferee” has the meaning set forth in Section 3.2(a). 
+
+^^^^^ 
+“Agreement” means this Shareholders Agreement and the schedules and exhibits hereto, as the same may be amended, modified, supplemented or restated from time to time in accordance with the terms hereof. 
+
+“Beneficial Owner” means, with respect to any Person, a Person with the direct or indirect power to vote or cause the disposition of shares in the share capital of the first Person (whether solely or in concert with other Persons). 
+
+“Board” means the Board of Directors of the Company. 
+
+“Board Committee” means a committee of the Board established pursuant to Section 2.6. 
+
+“Business Day” means any day that is not a Saturday, a Sunday or other day on which banks are required or authorized by Law to be closed in Beijing. 
+
+“Chairman” has the meaning set forth in Section 2.4(a). 
+
+“China Online” means China Online Housing Technology Corporation, a company organized under the laws of the Cayman Islands. 
+
+“Closing” means the Closing as defined under the Share Purchase Agreement. 
+
+“Company” has the meaning set forth in the preamble to this Agreement. 
+
+“Contract” means any written, oral or other agreement, contract, subcontract, settlement agreement, lease, binding understanding, instrument, note, option, warranty, purchase order, license, sublicense, insurance policy, benefit plan or legally binding commitment or arrangement, or undertaking of any nature, as in effect as of the date hereof or as may hereinafter be in effect. 
+
+“Defaulting Party” has the meaning set forth in Section 5.2(a). 
+
+“Dispute” has the meaning set forth in Section 7.2. 
+
+“E-House” has the meaning set forth in the preamble to this Agreement. 
+
+“E-House Directors” has the meaning set forth in Section 2.1. 
+
+“E-House Group Shareholder” shall mean any of (i) E-House and (ii) each of its Affiliates, that is a Shareholder in accordance with the terms and provisions of this Agreement from time to time. 
+
+“Exchange” means the NASDAQ National Market. 
+
+“Financial Investor” (i) means a financial sponsor, investment bank, or any Person primarily engaged in the sponsorship or management of alternative asset funds or vehicles (including any private equity funds or hedge funds) and (ii) under no circumstances shall be deemed to include any strategic investor or Person engaged, 
+
+^^^^^ 
+directly or indirectly, in any business relating, in any manner, to the China Online Business (as defined in the Share Purchase Agreement). 
+
+“GAAP” means generally accepted accounting principles and practices in the United States in effect from time to time applied consistently throughout the periods involved. 
+
+“General Meeting” means any general meeting of Shareholders of the Company, conducted pursuant to this Agreement, the Memorandum and Articles of Association and all applicable Law. 
+
+“Governmental Authority” means any national, federal, state, local or foreign or domestic government or political subdivision thereof, governmental department, commission (including without limitation the U.S. Securities and Exchange Commission), court, arbitrator, board, bureau, agency, regulatory authority, instrumentality, tribunal, judicial statutory or administrative body having jurisdiction over the matter or matters in question. 
+
+“HKIAC” has the meaning set forth in Section 7.2(a). 
+
+“HKIAC Rules” has the meaning set forth in Section 7.2(a). 
+
+“Information” means information, whether or not patentable or copyrightable, in written, oral, electronic or other tangible or intangible forms, stored in any medium, including studies, reports, records, books, contracts, instruments, surveys, discoveries, ideas, concepts, know-how, techniques, designs, specifications, drawings, blueprints, diagrams, models, prototypes, samples, flow charts, data, computer data, disks, diskettes, tapes, computer programs or other software, marketing plans, customer names, communications by or to attorneys (including attorney-client privileged communications), memos and other materials prepared by attorneys or under their direction (including attorney work product), and other technical, financial, employee or business information or data. 
+
+“Law” means any federal, national, supranational, state, provincial, local or similar statute, law, ordinance, regulation, rule, code, order, requirement or rule of law (including common law). 
+
+“Lien” means, with respect to any asset (including any security) any mortgage, assignment of receivables, debenture, lien, claim, charge (whether fixed or floating), pledge, title retention, right to acquire, hypothecation, security interest, option, levy, proxy, right of first refusal, and any other encumbrance or condition whatsoever, but excluding any right of first offer or tag-along right provided for under this Agreement. 
+
+“Lock Up Period” has the meaning set forth in Section 3.1(a). 
+
+“Major Shareholder” means a Shareholder that, together with its Affiliates, is the Beneficial Owner of at least twenty percent ([[Percentage 2: Number]]%) of the issued and outstanding Ordinary Shares. 
+
+^^^^^ 
+“Majority of the Board” means more than half of the voting power of those directors present, voting and forming part of the quorum at a properly convened Board meeting. 
+
+“Memorandum and Articles of Association” means, with respect to the Company or one of its Subsidiaries, the memorandum and articles of association (or equivalent documents) of the Company or such Subsidiary, as may be amended from time to time. 
+
+“Ordinary Shares” has the meaning set forth in the Recitals. 
+
+“Ordinary Shares Lock Up Period” has the meaning set forth in Section 3.1(a). 
+
+“Party” or “Parties” has the meaning set forth in the preamble to this Agreement. 
+
+“Permitted Transfer” has the meaning set forth in Section 3.2. 
+
+“Person” means an individual, a partnership, a corporation, an association, a limited liability company, a joint stock company, a trust, a joint venture, an unincorporated organization, a group, a Governmental Authority or any other type of entity. 
+
+“Prohibited Transfer” has the meaning set forth in Section 7.2(a). 
+
+“PRC” means the Peoples Republic of China. 
+
+“Remaining RFO Ordinary Shares” has the meaning set forth in Section 3.3(c). 
+
+“Representatives” means, for a Party, such Party’s directors, officers, employees, consultants and agents. 
+
+“RFO Exercise” has the meaning set forth in Section 3.3(c). 
+
+“RFO Notice” has the meaning set forth in Section 3.3(b). 
+
+“RFO Offeree” has the meaning set forth in Section 3.3(b). 
+
+“RFO Offeror” has the meaning set forth in Section 3.3(a). 
+
+“RFO Ordinary Shares” has the meaning set forth in Section 3.3(b). 
+
+“RFO Purchase Period” has the meaning set forth in Section 3.3(e). 
+
+“RFO Response Period” has the meaning set forth in Section 3.3(c). 
+
+“Right of First Offer” has the meaning set forth in Section 3.3(c). 
+
+“Share Capital” means the Ordinary Shares and all other shares of the Company. 
+
+^^^^^ 
+“Share Purchase Agreement” means the share purchase agreement, dated as of [[Date 2: Date]], between SINA and the Company. 
+
+“Shareholders” means (i) each E-House Group Shareholder, (ii) each SINA Group Shareholder and (ii) each Person who becomes a party to or bound by the provisions of this Agreement in accordance with its terms. 
+
+“SINA” has the meaning set forth in the preamble to this Agreement. 
+
+“SINA Directors” has the meaning set forth in Section 2.1. 
+
+“SINA Group Shareholder” shall mean any of (i) SINA and (ii) each of its Affiliates, that is a Shareholder in accordance with the terms and provisions of this Agreement from time to time. 
+
+“SINA Intellectual Property” means, in any and all jurisdictions worldwide, all (i) patents, utility models, inventions and discoveries, statutory invention registrations, mask works, invention disclosures, and industrial designs, community designs and other designs, (ii) trademarks, service marks, domain names, uniform resource locators, trade dress, trade names, and other identifiers of source, including the goodwill symbolized thereby or associated therewith, (iii) works of authorship and copyrights, and moral rights, design rights and database rights therein and thereto, (iv) confidential and proprietary information, including trade secrets, know how and invention rights, (v) rights of privacy and publicity, (vi) registrations, applications, renewals, continuations, continuations-in-part, substitutions and extensions for any of the foregoing in (i)-(v), and (vii) any and all other proprietary rights, in each case owned by or licensed to SINA or one of its Affiliates. 
+
+“SINA Software” means all (i) computer programs, applications, systems and code, including software implementations of algorithms, models and methodologies, program interfaces, and source code and object code, (ii) Internet and intranet websites, databases and compilations, including data and collections of data, whether machine-readable or otherwise, (iii) development and design tools, library functions and compilers, (iv) technology supporting websites, and the contents and audiovisual displays of websites, and (v) media, documentation and other works of authorship, including user manuals and training materials, relating to or embodying any of the foregoing or on which any of the foregoing is recorded, in each case owned by or licensed to SINA or one of its Affiliates. 
+
+“Subsidiary” or “Subsidiaries” means, with respect to any Person, any and all corporations, partnerships, limited liability companies, joint ventures, associations, variable interest entities and other entities controlled by such Person directly or indirectly through one or more intermediaries. 
+
+“Tax” or “Taxes” means all national, federal, state, local municipal and foreign direct and indirect taxes, duty, fees, charges, imposts or levy and other assessments of a similar nature including, without limiting the generality of the foregoing: (i) taxes or other charges on or with respect to income, franchises, windfall or other profits, gross 
+
+^^^^^ 
+receipts, profits, sales, use, shares, payroll, employment, social security, workers’ compensation, unemployment compensation or net worth; (ii) taxes or other charges in the nature of excise, withholding, ad valorem, stamp, transfer, value added or gains taxes; (iii) license, registration and documentation fees; (iv) customs duties, countervailing duties, anti-dumping duties, safeguard duties, tariffs excise duties, sales tax, service tax, goods and services tax and similar charges and (v) obligations pursuant to laws of escheat or unclaimed or abandoned property, in the case of each of the foregoing clause (i) through (v), whether imposed directly or through withholding and including any interest, fine, surcharge, increases, charges, fees, additions to tax, for failure to pay, deduct, withhold or delay in payment of tax or otherwise or penalties applicable thereto. 
+
+“Teleconference Facilities” means meeting facilities for conference telephone, video conference or similar communications equipment whereby all persons participating in a meeting, whether via such facilities or in person, can hear and speak to each other. 
+
+“Transfer” shall mean any direct or indirect sale, transfer, gift, assignment, or other disposition. 
+
+“Transfer Period” has the meaning set forth in Section 3.3(e). 
+
+“U.S. Dollars” or “US$” means United States dollars, the official currency of the United States. 
+
+^^Interpretation and Rules of Construction. In this Agreement, except to the extent that the context otherwise requires: 
+
+^^when a reference is made in this Agreement to an Article, Section, Exhibit or Schedule, such reference is to an Article or Section of, or a Schedule to, this Agreement unless otherwise indicated; 
+
+^^the table of contents and headings for this Agreement are for reference purposes only and do not affect in any way the meaning or interpretation of this Agreement; 
+
+^^whenever the words “include,” “includes” or “including” are used in this Agreement, they are deemed to be followed by the words “without limitation”; 
+
+^^the words “hereof,” “herein” and “hereunder” and words of similar import, when used in this Agreement, refer to this Agreement as a whole and not to any particular provision of this Agreement; 
+
+^^all terms defined in this Agreement have the defined meanings when used in any certificate or other document made or delivered pursuant hereto, unless otherwise defined therein; 
+
+^^the definitions contained in this Agreement are applicable to the singular as well as the plural forms of such terms; 
+
+^^^^^ 
+^^any Law referred to herein or in any agreement or instrument that is referred to herein means such Law or statute as from time to time amended, modified or supplemented, including by succession of comparable successor Laws; 
+
+^^references to a Person are also to its permitted successors and assigns; 
+
+^^a rule of construction does not apply to the disadvantage of a party because the party was responsible for the preparation of this agreement or any part of it; and 
+
+^^the use of “or” is not intended to be exclusive unless expressly indicated otherwise. 
+
+**BOARD OF DIRECTORS**  
+
+^^Number and Composition. The Board of Directors shall consist of a maximum of eleven (11) members, of which, subject to the provisions of Section 2.2 hereof, (i) two (2) directors shall be designated by the E-House Group Shareholders (the “E-House Directors”), (ii) two (2) directors shall be designated by the SINA Group Shareholders (the “SINA Directors”), and (iii) such other directors as, from time to time, may be agreed between the E-House Group Shareholders and the SINA Group Shareholders. 
+
+^^Nomination and Election of Directors. 
+
+^^Each of the E-House Group Shareholders and the SINA Group Shareholders agrees that, if at any time it is entitled to vote for the election of directors to the Board, it shall vote all Ordinary Shares owned or held by it or execute proxies or written consents, as the case may be, and take all other necessary action (including causing the Company to call a general meeting of its shareholders) in order to ensure that the composition of the Board is as set forth in Section 2.1, subject to the provisions of this Section 2.2. 
+
+^^Notwithstanding the provisions of Section 2.1 above, (i) as of and after such time as the SINA Group Shareholders (as a group) are no longer a Major Shareholder but remain (as a group) a [[Percentage 1]]% Shareholder, the SINA Group Shareholders shall have the right to designate only one (1) director to the Board as set forth in Section 2.1. and (ii) as of and after such time as the SINA Group Shareholders (as a group) are no longer a [[Percentage 1]]% Shareholder, the SINA Group Shareholders shall have no right to nominate any director to the Board as set forth in Section 2.1, and, in each case, the E-House Group Shareholders shall have the right to remove or procure the removal of, and the SINA Group Shareholders shall render all necessary assistance for the purpose of the removal of, in the case of (i) above, one (1) SINA Director or, in the case of (ii) above, all remaining SINA Directors, from the Board in accordance with any resolution of Shareholders. 
+
+^^^^^ 
+^^Notwithstanding the provisions of Section 2.1 above, (i) as of and after such time as the E-House Group Shareholders (as a group) are no longer a Major Shareholder but remain (as a group) a [[Percentage 1]]% Shareholder, the E-House Group Shareholders shall have the right to designate only one (1) director to the Board as set forth in Section 2.1. and (ii) as of and after such time as the E-House Group Shareholders (as a group) are no longer a [[Percentage 1]]% Shareholder, the E-House Group Shareholders shall have no right to nominate any director to the Board as set forth in Section 2.1, and, in each case, the SINA Group Shareholders shall have the right to remove or procure the removal of, and the E-House Group Shareholders shall render all necessary assistance for the purpose of the removal of, in the case of (i) above, one (1) E-House Director or, in the case of (ii) above, all remaining E-House Directors, from the Board in accordance with any resolution of Shareholders. 
+
+^^If there shall be any vacancy due to the death, resignation or removal of a director nominated by an E-House Group Shareholder or a SINA Group Shareholder (other than removal pursuant to Section 2.2(b) or 2.2(c)), the E-House Group Shareholder or SINA Group Shareholder, as the case may be, entitled to nominate such director shall select an individual to fill such vacancy. If it is determined that any incumbent director nominated by an E-House Group Shareholder or a SINA Group Shareholder shall not stand for re-election at any annual General Meeting, the E-House Group Shareholder or SINA Group Shareholder, as the case may be, entitled to nominate such director shall select another individual who shall be nominated to be elected as such Shareholder’s director in lieu of such incumbent director. If there shall be any vacancy due to the removal of a director pursuant to Section 2.2(b) or 2.2(c), the remaining directors shall select an individual to fill such vacancy until the next General Meeting. 
+
+^^In the event an E-House Group Shareholder or a SINA Group Shareholder notifies the other Shareholders of its desire to remove, with or without cause, a director nominated by such Shareholder, each Shareholder shall vote all Ordinary Shares owned or held by such Shareholder and take all other necessary action to cause the removal of such director and ensure that the resulting vacancy is filled by an individual nominated by the E-House Group Shareholder or SINA Group Shareholder, as the case may be, seeking the removal of the director originally nominated by it. In the event an E-House Group Shareholder or SINA Group Shareholder seeks to fill a vacancy created due to the death or resignation of a director nominated by such Shareholder, each Shareholder shall vote all Ordinary Shares owned or held by such Shareholder and take all other necessary action to ensure that the resulting vacancy is filled by an individual nominated by the E-House Group Shareholder or SINA Group Shareholder, as the case may be, seeking to fill such vacancy. 
+
+^^Quorum and Manner of Acting.  
+
+^^The quorum for the transaction of business at any Board meeting shall be a simple majority of the number of directors then on the Board, the constitution of which shall include (i) for so long as the E-House Group Shareholders (as a group) are a Major Shareholder, one (1) E-House Director and (ii) for so long as the SINA 
+
+^^^^^ 
+Group Shareholders (as a group) are a Major Shareholder, one (1) SINA Director. If a quorum is not present at a Board meeting within thirty (30) minutes following the time appointed for such Board meeting, the relevant meeting shall be adjourned for a period of at least three (3) Business Days and the presence of any three (3) directors shall constitute a quorum at such adjourned meeting. 
+
+^^Each director shall be entitled to one (1) vote in deciding matters deliberated at a Board meeting; provided, however that, regardless of the number of directors on the Board, for so long as any E-House Group Shareholder or SINA Group Shareholder is (i) a Major Shareholder, the directors designated by such E-House Group Shareholder or such SINA Group Shareholder, as the case may be, shall (respectively, as a group) not have less than twenty percent ([[Percentage 2]]%) of the voting power of all directors present and voting on any matter and forming part of the quorum at such Board meeting; and (ii) is a [[Percentage 1]]% Shareholder, the directors designated by such E-House Group Shareholder or such SINA Group Shareholder, as the case may be, shall (respectively, as a group) not have less than ten percent ([[Percentage 1]]%) of the voting power of all directors present and voting on any matter and forming part of the quorum at such Board meeting. Resolutions, actions and decisions that are within the powers granted to the Board pursuant to the Memorandum and Articles of Association and gain the votes of a Majority of the Board shall be deemed adopted, taken or made by the Board. 
+
+^^The Company shall make Teleconference Facilities available to all directors (and alternate directors) for each Board meeting and directors may participate in a Board meeting in person or may participate by means of Teleconference Facilities, and such participation shall constitute presence in person for the purposes of the quorum provision of Section 2.3(a) and for purposes of the Memorandum and Articles of Association. 
+
+^^All meetings, notices and other reports and communications shall be in English, and the minutes of each meeting shall be prepared in English promptly after each meeting. Such minutes of the Board meeting shall be circulated to all directors before finalization and shall be kept in the minute books of the Company. 
+
+^^Chairman.  
+
+^^For so long as the E-House Group Shareholders remain a [[Percentage 1]]% Shareholder and hold (as a group) more Ordinary Shares than are held by the SINA Group Shareholders, the E-House Group Shareholders, in their discretion, may select an E-House Director to serve as the Chairman of the Board (the “Chairman”). 
+
+^^The Chairman shall preside at all meetings of the Board and shall have such other powers and duties as may be assigned to him by the Board of Directors. In the absence of the Chairman, or if the Chairman is unwilling to act, another E-House Director shall be designated by the E-House Group Shareholders or the E-House Directors to preside at the meeting. 
+
+^^The Chairman shall be granted a casting vote. 
+
+^^^^^ 
+^^The E-House Group Shareholders shall be entitled at any time to request the removal of the Chairman, in which case the E-House Directors and SINA Directors shall forthwith procure and/or ensure their respective nominated director procure the removal of the Chairman. 
+
+^^Board Meetings.  
+
+^^No Board meeting shall take place without at least three (3) Business Days prior written notice given to all directors and their respective alternates (if any), provided that such notice period may be reduced or waived with the written consent of all the directors or their respective alternates (if any). An agenda identifying in reasonable detail the issues to be considered by the directors at any such meeting and copies (in printed or electronic form) of any relevant papers to be discussed at the meeting together with all relevant information shall be provided in advance of the meeting to all members of the Board and their alternates (if any) so as to ensure that they are received at least one (1) Business Day prior to the date fixed for such meeting. The agenda for each meeting shall include any matter submitted to the Company by any director at least one (1) Business Day prior to the date fixed for such meeting. The written notice and agenda for each Board meeting shall also be provided to each Shareholder. Unless approved by all directors (whether or not present or represented at such meeting), no matter may be considered at a Board meeting unless such matter was set forth in the agenda for such meeting. 
+
+^^Subject to Section 2.5(a), a Board meeting may be called by any E-House Director or SINA Director by giving notice in writing to the Company specifying a date, time and agenda for such meeting, which allows the Company to give notice thereof in accordance with Section 2.5(a). The Company shall upon receipt of such notice give a copy of such notice of such meeting to all directors and their respective alternates (if any) in accordance with Section 2.5(a). 
+
+^^Board Committees. The Board may establish one or more Board Committees to conduct aspects of the Company’s business which shall be specified by the Board and the Board may appoint (and shall have the authority to remove) members of Board Committee(s) and may authorize one or more committee(s) or members thereof to take the actions that are within the powers of the Board. 
+
+^^Execution of Documents. To be valid and binding, all notes, offers and acceptances, powers of attorney, commitments, deeds, transfers, assignments, contracts, obligations, certificates and other instruments of the Company must be authorized by general or specific mandate of the Board. Subject to the Memorandum and Articles of Association, this Agreement and all applicable Laws, the Board may delegate such of this authority and power as it considers appropriate to a member or members of the Board or executives of the Company or the applicable subsidiary (subject to authorization and spending limits to be specified by the Board). 
+
+^^Compliance. Each Shareholder hereby expressly covenants and agrees to use its best efforts to cause each member of the Board elected from nominees 
+
+^^^^^ 
+nominated by it to comply in full with the provisions of this Agreement, the Memorandum and Articles of Association and all Laws applicable to such member’s role as a director. 
+
+^^Memorandum and Articles of Association. The Shareholders agree to take all necessary and desirable action within their control, including making amendments to the Memorandum and Articles of Association, to give effect to the provisions of this Agreement. The Company agrees to procure that copies of the Memorandum and Articles of Association are provided to each of the Shareholders each time there is an amendment made to the Memorandum and Articles of Association. 
+
+**RESTRICTIONS ON TRANSFER**  
+
+^^Transfer Restrictions on Ordinary Shares. 
+
+^^For a period commencing on the date hereof and continuing until the date that is one hundred and eighty (180) days following the date hereof (the “Lock Up Period”), no Shareholder shall Transfer or grant or suffer to exist any Lien with respect to any Ordinary Shares from time to time owned or held by such Shareholder other than the Permitted Transfers set forth in Section 3.2(a) and Section 3.2(b) hereof. 
+
+^^Following the Lock Up Period, no Shareholder shall Transfer or grant any Lien or suffer to exist with respect to any Ordinary Shares from time to time owned or held by such Shareholder other than Permitted Transfers or Transfers pursuant to Section 3.3; provided; that, (i) for so long as any E-House Group Shareholder is a Major Shareholder, other than Permitted Transfers without the prior written consent of E-House, no SINA Group Shareholders shall, at any time, Transfer or grant any Lien or suffer to exist with respect to any Ordinary Shares from time to time owned or held by any SINA Group Shareholder to any Person, other than a Financial Investor, in a single transaction or series of transactions, whether or not related, a number of Ordinary Shares exceeding, in the aggregate, ten percent ([[Percentage 1]]%) of the Share Capital of the Company and (ii) for so long as any SINA Group Shareholder is a Major Shareholder, other than Permitted Transfers, without the prior written consent of SINA, no E-House Group Shareholders shall, at any time, Transfer or grant any Lien or suffer to exist with respect to any Ordinary Shares from time to time owned or held by any E-House Group Shareholder to any Person, other than a Financial Investor, in a single transaction or series of transactions, whether or not related, a number of Ordinary Shares exceeding, in the aggregate, ten percent ([[Percentage 1]]%) of the Share Capital of the Company (each of (i) and (ii) a “Prohibited Transfer”). 
+
+^^Any attempt by a Shareholder to Transfer or grant or suffer to exist any Lien (by operation of law or otherwise) with respect to any Ordinary Shares in violation of this Agreement shall be null and void and the Company shall not give any effect to such attempted Transfer or Lien in the Company’s books and records. 
+
+^^^^^ 
+^^Permitted Transfers of Ordinary Shares. The following Transfers of Ordinary Shares (each a “Permitted Transfer”) shall be permitted in accordance with the following provisions: 
+
+^^At any time, the Transfer of Ordinary Shares by any Shareholder to its Affiliate (such Affiliate, the “Affiliate Transferee”), provided that: 
+
+^^^such Affiliate Transferee shall become a party to this Agreement; 
+
+^^^such Shareholder and Affiliate Transferee shall be jointly and severally liable for any breach by either of them of this Agreement; and 
+
+^^^prior to ceasing to be an Affiliate of such Shareholder, such Affiliate Transferee shall Transfer such Ordinary Shares back to such Shareholder or to another Affiliate of such Shareholder in a Permitted Transfer; 
+
+^^At any time, the Transfer or grant of any Lien with respect to Ordinary Shares to any Person, where all other Shareholders have provided their prior written consent to such Transfer or grant of Lien and a written waiver of all of their respective rights under this Article III (other than Section 3.1(b)) with respect to such Transfer or grant of Lien, provided that, in the case of a grant of any Lien pursuant to this Section 3.2(b), such grantee shall agree in writing with the Shareholders to be bound by the restrictions on Transfer contained in this Agreement ; 
+
+^^Following the Lock Up Period, the Transfer of Ordinary Shares pursuant to Rule 144 of the Securities Exchange Act of 1934; or 
+
+^^Following the Lock Up Period, the Transfer of Ordinary Shares pursuant to a firm commitment underwritten public offering registered under the Securities Act of 1933. 
+
+^^Right of First Offer.  
+
+^^Other than Prohibited Transfers, if at any time after the Lock Up Period a Shareholder desires to Transfer other than pursuant to any Permitted Transfer, such Transfer shall be permitted only if such Shareholder (the “RFO Offeror”) fully complies with the terms of this Section 3.3; provided that the provisions of this Section 3.3 shall not apply to Permitted Transfers. 
+
+^^The RFO Offeror shall, prior to the Transfer of any Ordinary Shares to which this Section 3.3 applies, give written notice (“RFO Notice”) to each other Shareholder (each, an “RFO Offeree”), setting forth (i) the number of Ordinary Shares proposed to be disposed of (the “RFO Ordinary Shares”), (ii) the proposed purchase price per RFO Ordinary Share, and payment and other material terms and conditions and (iii) an irrevocable offer to sell to the RFO Offeree(s) the RFO Ordinary Shares set forth in the RFO Notice at the same price per Ordinary Share and on the same terms and conditions as set forth therein. 
+
+^^^^^ 
+^^The RFO Offeree(s) collectively shall have the right to purchase (the “Right of First Offer”), any or all of the RFO Ordinary Shares by delivering a written notice (the “RFO Exercise”) of exercise of the Right of First Offer to the RFO Offeror within 20 (twenty) Business Days from the date of delivery of the RFO Notice (the “RFO Response Period”), irrevocably stating therein such portion of the RFO Ordinary Shares as shall be purchased, collectively, by the RFO Offeree(s) and/or one or more wholly-owned Affiliates thereof and the proportion thereof to be purchased by each RFO Offeree (or such Affiliate(s)). Each RFO Offeree shall have the right, but shall not be required, to purchase (or cause its wholly-owned Affiliate(s) to purchase) such RFO Offeree’s *pro rata* share (based on the number of Ordinary Shares held by such RFO Offeree as a proportion of the number of Ordinary Shares held by all RFO Offerees). To the extent any RFO Offeree does not wish to purchase (or cause its wholly-owned Affiliate(s) to purchase) all of its *pro rata* portion of RFO Ordinary Shares, all of such remaining RFO Ordinary Shares (the “Remaining RFO Ordinary Shares”) shall immediately be re-offered by the RFO Offeror to the other RFO Offeree(s) (or if there is more than one other RFO Offeree, in the proportion (as nearly as may be) to the number of Ordinary Shares held by them inter se), and such other RFO Offeree(s) may accept by delivery to the RFO Offeror of an RFO Exercise in respect of the relevant Remaining RFO Ordinary Shares within 10 (ten) Business Days of such re-offer, after which time such re-offer shall lapse and the re-offer for such Remaining RFO Ordinary Shares will be deemed to have been declined. 
+
+^^If the RFO Offeree(s) shall have delivered an RFO Exercise to the RFO Offeror within the RFO Response Period for all the RFO Ordinary Shares, the RFO Offeror and RFO Offeree(s) shall be respectively bound, and shall complete the sale and purchase of the RFO Ordinary Shares within thirty (30) days thereafter upon the terms set forth in the RFO Notice; provided, however*,* that such period shall be extended following such date as necessary to permit all required approvals, consents or authorizations from, or filings or registrations with, any Governmental Authority in connection with such purchase to be obtained or made, to the extent prior to the expiration of the RFO Purchase Period reasonably appropriate actions have been taken by the RFO Offeree(s) to obtain such approvals, consents or authorizations, or make such filings or registrations; and provided further that no such extension shall exceed 60 days. 
+
+^^If the RFO Offeree(s) shall not have completed the purchase of all of the RFO Ordinary Shares within the RFO Purchase Period, as extended as provided in Section 3.3(d), or together have failed to deliver RFO Exercises within the RFO Response Period for all of the RFO Ordinary Shares as contemplated in Section 3.3(d) or declined in writing to exercise the Right of First Offer, then the RFO Offeror shall have the right for sixty (60) days thereafter (the “Transfer Period”), to dispose of the RFO Ordinary Shares in one or more Transfers thereof without being subject to any of the restrictions set forth in this Article III; provided, however, that (i) such Transfer of the RFO Ordinary Shares is consummated on terms not more favorable to the purchasers thereof than the terms specified in the RFO Notice and (ii) the RFO Offeror provides written confirmation to the RFO Offeree(s) that such terms comply with clause (i) hereof prior to the consummation of such sale; and provided further, that the Transfer Period 
+
+^^^^^ 
+shall be extended following such date as necessary to permit all required approvals, consents or authorizations from, or filings or registrations with, any Governmental Authority in connection with such Transfers to be obtained or made, to the extent prior to the expiration of the Transfer Period reasonably appropriate actions have been taken by the RFO Offeror to obtain such approvals, consents or authorizations or make such filings or registrations; and provided further that no such extension shall exceed thirty (30) days. If at the end of the Transfer Period, as extended as provided herein, the RFO Offeror has not completed the Transfer of the RFO Ordinary Shares, the RFO Offeror shall no longer be permitted to dispose of such RFO Ordinary Shares without again fully complying with the provisions of this Section 3.3. 
+
+^^The RFO Offeror shall, upon the Transfer of the RFO Ordinary Shares, procure the resignation of such number of directors nominated by it, if any, as would be required pursuant to Section 2.2 hereof, and such director shall execute a letter of resignation. 
+
+**FINANCIAL STATEMENTS; ACCESS TO INFORMATION** 
+
+^^Financial Statements. With respect to each of the E-House Group Shareholders (as a group) and the SINA Group Shareholders (as a group), until such date as the E-House Group Shareholders (as a group) or the SINA Group Shareholders (as a group) are no longer a Major Shareholder, and thereafter to the extent necessary for the purpose of preparing financial statements or completing a financial statement audit by E-House or SINA, as the case may be, the following financial information, prepared in accordance with GAAP, shall be delivered by the Company to E-House or SINA, as the case may be, on a timely basis all Information that E-House or SINA, as the case may be, reasonably requires to meet its schedule for the preparation, printing, filing, and public dissemination of it’s respective annual and quarterly financial statements: 
+
+^^Within 60 days after the close of each fiscal year, the following financial statements, examined by and certified to by the Company’s external auditors: (i) the audited consolidated balance sheet of the Company as of the close of such fiscal year; (ii) the audited consolidated statement of Company net profits and net losses for such fiscal year; (iii) the audited consolidated statement of the Company’s cash flows for such fiscal year; and (iv) a copy of the share registry of the Company listing the current owners of Ordinary Shares and the number of Ordinary Shares owned by each Shareholder. 
+
+^^As soon as available and in any event within 30 days after the end of each fiscal quarter, the unaudited consolidated balance sheet of the Company as of the end of such fiscal quarter and unaudited consolidated statements of income and Company net profits and net losses for the period commencing at the end of the previous fiscal year and ending with the end of such fiscal quarter, certified by the Company. 
+
+^^Access to Information. Until the date that the SINA Group Shareholders (as a group) are no longer a Major Shareholder, and thereafter to the extent 
+
+^^^^^ 
+necessary for the purpose of preparing financial statements or completing a financial statement audit, all governmental audits are complete and the applicable statute of limitations for tax matters has expired, the Company shall provide SINA’s internal auditors, counsel and other designated representatives of SINA access during normal business hours to (i) the premises of the Company and its Subsidiaries and all Information (and duplicating rights) within the knowledge, possession or control of the Company and its Subsidiaries and (ii) the officers and employees of the Company and its Subsidiaries, so that SINA may conduct reasonable audits relating to the financial statements provided by the Company pursuant hereto as well as to the internal accounting controls and operations of the Company. 
+
+^^Confidentiality of Information. Any information provided to either of the E-House Group Shareholders or the SINA Group Shareholders shall be confidential and, subject to the confidentiality provisions contained in the stock purchase agreement, dated as of [[Date 2]], entered into between SINA and the Company, which provisions shall notwithstanding their terms continue in full force and effect until termination of this Agreement. 
+
+^^Cooperation. The Company will act in good faith and make commercially reasonable efforts to cooperate with SINA in connection with SINA’s fulfillment of its annual and quarterly reporting obligations under the Securities Exchange Act of 1934, as amended. 
+
+**TERM AND TERMINATION**  
+
+^^Term. This Agreement shall take effect immediately and shall continue in force until the earliest of (i) the either the E-House Group Shareholders or the SINA Group Shareholders cease to own any Ordinary Shares, (ii) the date this Agreement is terminated in accordance with the provisions of this Article V or (iii) the date this Agreement is terminated by agreement of all of the Shareholders in writing; provided that the Parties agree to make such amendments as are required under the relevant rules of the Exchange. 
+
+^^Termination. (a) Any Shareholder shall be entitled to terminate this Agreement with respect to another Shareholder which is not an Affiliate of such Shareholder (the “Defaulting Party”) by notice in writing to all Parties if any of the events set out below shall have occurred in relation to the Defaulting Party: 
+
+^^^if the Defaulting Party shall attempt to Transfer Ordinary Shares or grant or permit to exist any Lien (by operation of law or otherwise) with respect to Ordinary Shares in violation of this Agreement; 
+
+^^^if the Defaulting Party shall commit any material breach of any of its obligations under this Agreement and shall fail to remedy such breach (if capable of remedy) within 60 days after being given notice by another Shareholder to do so; or 
+
+^^^^^ 
+^^^if the Defaulting Party shall commit any breach of any material Law applicable to such party in its capacity as a Shareholder; 
+
+^^^if any Person enforces any Lien over the Ordinary Shares of the Defaulting Party or the Defaulting Party shall go into liquidation whether compulsory or voluntary (except for the purposes of a bona fide reconstruction or amalgamation with the consent of each other Shareholder, such consent not to be unreasonably withheld or delayed) or if a petition shall be presented or an order made for the appointment of an administrator in relation to the Defaulting Party or if a receiver, administrative receiver, judicial manager, manager or equivalent officer in any applicable jurisdiction shall be appointed over any part of the assets or undertaking of the Defaulting Party and such appointment is not revoked within 30 (thirty) days from the date of such appointment or if any event analogous to any of the foregoing shall occur in any jurisdiction; or 
+
+^^if the Defaulting Party shall make a general assignment or any composition or arrangement with or for the benefit of its creditors or if a receiver and/or judicial manager, trustee, administrator or equivalent officer in any applicable jurisdiction is appointed in relation to the Defaulting Party or in relation to the whole or any material part of its properties or assets. 
+
+^^Upon provision of such notice by any Shareholder (other than an Affiliate of such Shareholder), the Defaulting Party shall cease to be a Shareholder. 
+
+^^Subject to Section 3.2(a), this Agreement shall terminate in respect of any Shareholder if at any time as a result of a Transfer of Ordinary Shares that complies with the provisions of this Agreement, such Shareholder and its Affiliates hold no Ordinary Shares. 
+
+^^Upon any Shareholder (and its Affiliates who have acquired Ordinary Shares) ceasing to be a Shareholder for any reason or upon this Agreement being terminated for any reason, the provisions of this Agreement will cease to be applicable to such Shareholder and its Affiliates other than, with respect to any such Shareholder, the rights and obligations of the Parties under Articles V, VI, VII and VIII and all rights and liabilities accruing prior to the date of such cessation or termination. 
+
+**LIABILITY**  
+
+^^Limitation of Liability. Notwithstanding anything to the contrary in this Agreement, no Party will be liable to another, whether in contract, tort (including negligence and breach of duty) or otherwise at law or in equity, for any loss of use, loss of profits, loss of contracts, loss of production, loss of revenue, loss of bargain, loss of business opportunities, cost of funding or for business interruption or for any other consequential or indirect loss or damage of whatsoever nature and howsoever or whensoever arising. 
+
+^^^^^ 
+**GOVERNING LAW; ARBITRATION**  
+
+^^Governing Law. This Agreement and any dispute or claim arising out of or in connection with it or its subject matter shall be governed by, and construed in accordance with, the laws of the state of New York (without regard to its conflicts of laws rules that would mandate the application of the laws of another jurisdiction). 
+
+^^Arbitration. Any dispute, controversy or claim arising out of or relating to this Agreement or its subject matter (including a dispute regarding the existence, validity, formation, effect, interpretation, performance or termination of this Agreement) (each a “Dispute”) shall be finally settled by arbitration. 
+
+^^The place of arbitration shall be Hong Kong, and the arbitration shall be administered by the Hong Kong International Arbitration Centre (the “HKIAC”) in accordance with the HKIAC Administered Arbitration Rules then in force (the “HKIAC Rules”). 
+
+^^The arbitration shall be decided by a tribunal of three (3) arbitrators, whose appointment shall be in accordance with the HKIAC Rules; provided, however, that the third presiding arbitrator must be licensed to practice New York state law and in good standing with the New York State Bar, as of the date the Notice of Arbitration is received by the HKIAC Secretariat. 
+
+^^Arbitration proceedings (including but not limited to any arbitral award rendered) shall be in English. 
+
+^^Subject to the agreement of the tribunal, any Dispute(s) which arise subsequent to the commencement of arbitration of any existing Dispute(s), shall be resolved by the tribunal already appointed to hear the existing Dispute(s). 
+
+^^The award of the arbitration tribunal shall be final and conclusive and binding upon the parties as from the date rendered. 
+
+^^Judgment upon any award may be entered and enforced in any court having jurisdiction over a party or any of its assets. For the purpose of the enforcement of an award, the parties irrevocably and unconditionally submit to the jurisdiction of any competent court and waive any defenses to such enforcement based on lack of personal jurisdiction or inconvenient forum. 
+
+**MISCELLANEOUS**  
+
+^^Enforcement on Behalf of the Company. The directors of the Company shall be authorized to enforce the terms of this Agreement on behalf of the Company (which for the avoidance of doubt shall not in any way limit the rights of the Shareholders to enforce their rights under this Agreement directly). 
+
+^^^^^ 
+^^Entire Agreement; Amendments. This Agreement constitutes the entire agreement of the Parties with respect to the subject matter hereof and may be amended, modified or supplemented only by a written instrument duly executed by all the Parties hereto. In the event of an amendment, modification or supplement of this Agreement in accordance with its terms, each Shareholder hereby agrees to vote the Ordinary Shares owned or held by such Shareholder to approve any necessary amendments to the Memorandum and Articles of Association of the Company and any of its Subsidiaries required to make the Memorandum and Articles of Association of the Company and its Subsidiaries consistent with this Agreement. 
+
+^^Inspection. For so long as this Agreement shall remain in effect, this Agreement shall be made available for inspection by any Shareholder that is a Party hereto at the registered office of the Company. 
+
+^^Waiver. Any Party may (a) extend the time for the performance of any of the obligations or other acts of another Party, (b) waive compliance with any of the agreements of the another Party or conditions to such party’s obligations contained herein. Any such extension or waiver shall be valid only if set forth in an instrument in writing signed by the Party to be bound thereby. No waiver of any agreement or obligation granted pursuant to this Section 8.4 or otherwise in accordance with this Agreement shall be construed as a waiver of any prior or subsequent breach of such agreement or obligation or any other agreement or obligation. The failure of any Party hereto to assert any of its rights hereunder shall not constitute a waiver of any of such rights. 
+
+^^Assignment. No Party may assign (by operation of law or otherwise) this Agreement or any of its rights, interests or obligations under this Agreement, in whole or in part, without the prior written consent of the other Parties, except that (i) assignments of all of a Shareholder’s rights, interests and obligations under this Agreement to its Affiliate in a Permitted Transfer pursuant to Section 3.2(a) shall be permitted so that the E-House Group Shareholders (as a group) and the SINA Group Shareholder(s) (as a group) shall respectively have the same rights and obligations as E-House and SINA, respectively, hereunder; (ii) any SINA Group Shareholder may assign, pursuant to a Permitted Transfer pursuant to Section 3.2, all of its rights, interests and obligations to any non-Affiliate Transferee of Ordinary Shares from it (including the rights, interests and obligations specified in Sections 3.3), provided however that (A) such non-Affiliate Transferee shall not have the rights, interests and obligations specified in Sections 2.1, 2.2 and 2.3 and (iii) any E-House Group Shareholder may assign all of its rights, interests and obligations to any non-Affiliate Transferee of Ordinary Shares from it (including the rights, interests and obligations specified in Sections 3.3), provided however that such non-Affiliate Transferee shall not have the rights, interests and obligations specified in Sections 2.1, 2.2 and 2.3. Except as otherwise expressly provided herein, this Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors and assigns. 
+
+^^Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any Law or public policy, all other 
+
+^^^^^ 
+terms and provisions of this Agreement shall nevertheless remain in full force and effect for so long as the economic or legal substance of the transactions contemplated by this Agreement is not affected in any manner materially adverse to either party hereto. Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner in order that the transactions contemplated by this Agreement are consummated as originally contemplated to the greatest extent possible. 
+
+^^Remedies. In the event of a breach by any Party to this Agreement of its obligations under this Agreement, any Party injured by such breach, in addition to being entitled to exercise all rights granted by Law, including recovery of damages and costs (including reasonable attorneys’ fees), will be entitled to specific performance of its rights under this Agreement. The Parties agree that the provisions of this Agreement shall be specifically enforceable, it being agreed by the parties that the remedy at law, including monetary damages, for breach of any such provision will be inadequate compensation for any loss and that any defense in any action for specific performance that a remedy at law would be adequate is waived. 
+
+^^Headings. The headings used in this Agreement have been inserted for convenience of reference only and do not define or limit the provisions hereof. 
+
+^^Notices. All notices, requests, claims, demands and other communications hereunder shall be in writing and shall be deemed duly given, made or received (i) on the date of delivery if delivered in person or by messenger service, (ii) on the date of confirmation of receipt of transmission by facsimile (or, the first (1st) Business Day following such receipt if (a) such date of confirmation is not a Business Day or (b) confirmation of receipt is given after 5:00 p.m., Beijing time) or (iii) on the date of confirmation of receipt if delivered by an internationally recognized overnight courier service or registered or certified mail (or, the first (1st) Business Day following such receipt if (a) such date of confirmation is not a Business Day or (b) confirmation of receipt is given after 5:00 p.m., Beijing time) to the respective parties hereto at the following addresses (or at such other address for a party as shall be specified in a notice given in accordance with this Section 8.9): 
+
+If to SINA, to:  
+
+
+20/F Beijing Ideal International Plaza
+
+No. 58 Northwest 4th Ring Road
+
+Haidian District, Beijing, 100090, People’s Republic of China
+
+Facsimile: +86 10 8260 7166
+
+Attention: Corporate Secretary 
+
+with a copy (which shall not constitute notice) to: 
+
+^^^^^ 
+Shearman & Sterling LLP
+
+12th Floor East Tower, Twin Towers
+
+B-12 Jianguomenwai Dajie
+
+Beijing 100022, China
+
+Facsimile: +86 10 6563 6001
+
+Attention: Lee Edwards, Esq. 
+
+If to E-House Online, to:  
+17/F Merchandise Harvest Building (East)
+
+No. 333 North Chengdu Road
+
+Shanghai, China
+
+Facsimile: +86 21 6133 0707
+
+Attention: Li-Lan Cheng 
+
+with a copy (which shall not constitute notice) to: 
+
+Skadden, Arps, Slate, Meagher & Flom
+
+42/F, Edinburgh Tower, The Landmark 
+
+^Queen’s Road Central, Hong Kong 
+
+Facsimile: +852 3740 4727
+
+Attention: Jonathan B. Stone, Esq. and Z. Julie Gao, Esq. 
+
+If to the Company, to:  
+
+
+No. 383 Guangyan Road
+
+Shanghai 200072
+
+People’s Republic of China
+
+Facsimile: +86 21 6086 7111
+
+Attention: Ding Zuyu 
+
+with a copy (which shall not constitute notice) to: 
+
+Skadden, Arps, Slate, Meagher & Flom
+
+42/F, Edinburgh Tower, The Landmark
+
+^Queen’s Road Central, Hong Kong
+
+Facsimile: +852 3740 4727
+
+Attention: Jonathan B. Stone, Esq. and Z. Julie Gao, Esq. 
+
+^^Further Assurances. Each Party shall cooperate and shall take such further action and shall execute and deliver such further documents as may be reasonably requested by any other Party in order to carry out the provisions and purposes of this Agreement. 
+
+^^No Fiduciary Relationship. This Agreement is intended to create, and creates, a contractual relationship and is not intended to create, and does not create, 
+
+^^^^^ 
+any agency, partnership, joint venture, fiduciary or any like relationship between the Parties hereto. 
+
+^^Counterparts. This Agreement may be executed and delivered (including by facsimile transmission) in one or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Parties hereto have executed and delivered this Agreement as of the date first above written. 
+
+E-HOUSE (CHINA) HOLDINGS LIMITED
+[[E-HOUSE CHINA HOLDINGS LIMITED Signatory Email: Identity | Signature]]
 __________________________________________
-{{FRMS Entity => By: [[FRMS Signatory First Name]] [[FRMS Signatory Last Name]]
-Title: [[FRMS Signatory Title]]}}
+{{E-HOUSE CHINA HOLDINGS LIMITED Entity => By: [[E-HOUSE CHINA HOLDINGS LIMITED Signatory First Name]] [[E-HOUSE CHINA HOLDINGS LIMITED Signatory Last Name]]
+Title: [[E-HOUSE CHINA HOLDINGS LIMITED Signatory Title]]}}
 
-^^^**FERNANDO ROBERTO [[FRMS]], Brazilian, married, industrialist, domiciled in this City of São Paulo, State of São Paulo, at Av. Eusébio Matoso No. 891 – 22nd floor, bearer of Identity Card RG No. 2.066.712-7-SECC-RJ and enrolled with the Individual Taxpayers Register under CPF No. 002.938.068-53 (“**FRMS**”);
 
-^^^**WALTHER [[FRMS]] JÚ**NIOR**, Brazilian, married, cinema director, domiciled in the City of Rio de Janeiro, State of Rio de Janeiro, at Rua do Russel No. 270 – 3rd floor, bearer of Identity Card RG No. 3.113.711-SSP-RJ and enrolled with the Individual Taxpayers Register under CPF No. 406.935.467-00 (“WMSJ**”);
 
-^^^**PEDRO [[FRMS]], Brazilian, married, banker, domiciled in the City of São Paulo, State of São Paulo, at Av. Eusébio Matoso No. 891 – 4th floor, bearer of Identity Card RG No. 19.979.952-0-SSP-SP and enrolled with the Individual Taxpayers Register under CPF No. 551.222.567-72 (“**PMS**”);
+[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
 
-^^^**JOÃ**O [[FRMS]], Brazilian, married, documentary film director, domiciled in the City of Rio de Janeiro, State of Rio de Janeiro, at Rua do Russel No. 270 – 3rd floor, bearer of Identity Card RG No. 05.935.901-8-SSP-RJ and enrolled with the Individual Taxpayers Register under CPF No. 667.197.397-00 (“**JMS**”);
 
-FRMS, WMSJ, PMS and JMS hereinafter referred to jointly as “[[FRMS]] FAMILY”;
 
-and on the other part,  
-^^^**ITAÚSA – INVESTIMENTOS ITAÚ S.A.**, a joint stock company with its principal place of business in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, Itaúsa Tower, enrolled with the National Corporate Taxpayers Register under CNPJ No. 61.532.644/0001-15, herein represented pursuant to its By-Laws (“**ITAÚSA**”);
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
 
-[[FRMS]] FAMILY and ITAÚSA hereinafter referred to jointly as “Parties” and severally as “Party”;
 
-and, in their capacity as Intervening Consenting Parties and/or in the condition of Parties to this Agreement, as the specific case may be,
-
-^^^**IUPAR - ITAÚ UNIBANCO PARTICIPAÇÕES S.A.**, a joint stock company with its principal place of business in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, enrolled with the National Corporate Taxpayers Register under CNPJ No. 04.676.564/0001-08, herein represented pursuant to its By-Laws (“**IUPAR**”);
-
-^^^**ITAÚ UNIBANCO BANCO MÚLTIPLO S.A.** (present corporate name of Banco Itaú Holding Financeira S.A.), a joint stock company with its principal place of business in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, Itaúsa Tower, enrolled with the National Corporate Taxpayers Register under CNPJ No. 60.872.504/0001-23, herein represented pursuant to its By-Laws (“**ITAÚ UNIBANCO**”);
-
-^^^**BANCO ITAÚ S.A.**, a joint stock company with its principal place of business in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, Itaúsa Tower, enrolled with the National Corporate Taxpayers Register under CNPJ No. 60.701.190/0001-04, herein represented pursuant to its By-Laws (“**ITAÚ**”); and
-
-^^^**UNIBANCO – UNIÃO DE BANCOS BRASILEIROS S.A.**, a joint stock company with its principal place of business in the City of São Paulo, State of São Paulo, at Av. Eusébio Matoso No. 891, enrolled with the National Corporate Taxpayers Register under CNPJ No. 33.700.394/0001-40, herein represented pursuant to its By-Laws (“**UNIBANCO**”);
-
-The Parties, with full knowledge and agreement of the Intervening Consenting Parties, and whereas:
-
-^^ITAÚ, ITAÚ UNIBANCO and ITAÚSA until [[Date 1: Date]], were joint stock companies exclusively controlled by the members of the VILLELA FAMILY and of the SETUBAL FAMILY (as defined below), stressing that ITAÚSA continues to be exclusively controlled by members of the VILLELA FAMILY and of the SETUBAL FAMILY, while UNIBANCO, Unibanco Holdings S.A. (“UNIBANCO HOLDINGS”) and [[Mergers of Shares]] Representação e Participações S.A. (“[[Mergers of Shares]]”) until [[Date 1]], were also companies exclusively controlled by the [[FRMS]] FAMILY;
-
-^^on [[Date 2: Date]], a Private Instrument of Agreement of Partnership Agreement and Other Covenants (“Partnership Agreement”) was executed by and between ITAÚ UNIBANCO, ITAÚSA and the members of the [[FRMS]] FAMILY, with intervening consent of ITAÚ, of UNIBANCO, of [[Mergers of Shares]] and of UNIBANCO HOLDINGS, which controller of ITAÚ and UNIBANCO agreed to unify the two groups into one same and single conglomerate to be structured and legally formalized so that the VILLELA FAMILY and the SETUBAL FAMILY, through ITAÚSA, on one part, and the [[FRMS]] FAMILY, either directly or through a holding company to be specially incorporated, on the other part, can exercise fully and jointly, on the terms provided hereinbelow, the partnership rights that can assure for them on a permanent basis the majority of the votes in the resolutions of the Shareholders Meeting and the power of electing the majority of the administrative officers of IUPAR, of ITAÚ UNIBANCO, of ITAÚ, of UNIBANCO and of their other controlled subsidiaries, effectively using their power to direct the corporate activities and orient the operation of the bodies of the companies that make up their economic group;
-
-^^in compliance with the obligations covenanted in the Partnership Agreement:
-
-^^^Shareholders Meetings of ITAÚ, of ITAÚ UNIBANCO, of UNIBANCO, of UNIBANCO HOLDINGS and of [[Mergers of Shares]] were held on [[Date 1]], in which approval was given for the merger of the shares issued by [[Mergers of Shares]], UNIBANCO HOLDINGS and UNIBANCO into ITAÚ and ITAÚ UNIBANCO, (all such transactions hereinafter referred to as “Mergers of Shares”), and all of the matters related thereto;
-
-^^^on [[Date 3: Date]] the [[FRMS]] FAMILY paid in class “B” common shares representing [[Percentage 1: Number]]% of the voting capital of IUPAR, and paid for them by delivering the totality of the shares issued by ITAÚ UNIBANCO received on account of the Mergers of Shares; and
-
-^^^ITAÚSA paid in, also on [[Date 3]], class “A” common shares and the totality of the preferred shares issued by IUPAR, which represent [[Percentage 1]]% of the voting capital and [[Percentage 2: Number]]% of the total capital of IUPAR, respectively, and paid for them with the delivery of a tranche of common shares issued by ITAÚ UNIBANCO;
-
-^^^on [[Date 3]], the [[FRMS]] FAMILY and ITAÚSA, with the intervening consent of IUPAR and of ITAÚ UNIBANCO, executed the Shareholders Agreement of IUPAR - Itaú Unibanco Participações S.A. and of Itaú Unibanco Banco Múltiplo S.A.” (“Original Shareholders Agreement”) in order to regulate the relations as joint controlling shareholders of IUPAR and, indirectly, of ITAÚ UNIBANCO, while, on the same date the members of the VILLELA FAMILY and of the SETUBAL FAMILY executed the Instruments of Adhesion to the Original Shareholders Agreement;
-
-^^upon accomplishment of the stages mentioned in the previous item, with the approval of the Mergers of Shares, and with the payment of the shares mentioned in sub-items (ii) and (iii) of the previous item, the shares issued by IUPAR and by ITAÚ UNIBANCO proceeded to be divided as follows:
-
-(d.1) **IUPAR**:  
-Shareholder      Common Shares         % of Voting Capital         Preferred Shares         % of Capital with no voting rights         Total Shares         % of Total Capital
-**Class A**         **Class B**
-[[FRMS]] FAMILY**         —            355,227,092             %         —                     355,227,092            33.4679   %
-**ITAÚSA**         355.227.092            —             %         350,942,273             %         706,169,365            66.5321   %
-**Total**         355.227.092            355,227,092             %         350,942,273             %         1,061,396,457             %
-
-(d.2) **ITAÚ UNIBANCO**:  
-Shareholder      Common Shares         % of Voting Capital         Preferred Shares         % of Capital with no voting rights         Total Shares         % of Total Capital
-**IUPAR**         1,061,396,457             %         —            —            1,061,396,457            25.9166   %
-**ITAÚSA**         749,877,846            36.0316   %         70,075            0.0035   %         749,947,921            18.3118   %
-**Others**         269,895,220            12.9684   %         2,014,188,215            99.9965   %         2,284,083,435            55.7716   %
-**Total***         2,081,169,523             %         2,014,258,290             %         4,095,427,813             %
-
-* disregarding the number of shares held in treasury.
-
-^^the Partnership Agreement establishes that the equity control of IUPAR and, indirectly, of ITAÚ UNIBANCO, of ITAÚ, of UNIBANCO and of the other controlled subsidiaries shall be exercised, on the terms provided hereinbelow, in a joint and harmonious way, on unequivocally stable and permanent bases, between, on one part, the VILLELA FAMILY and the SETUBAL FAMILY, through ITAÚSA, and the other part, the [[FRMS]] FAMILY, for which the governance of the mentioned companies shall be structured so as to assure among, on one part, ITAÚSA, and on the other part the [[FRMS]] FAMILY, the principal of equitableness in the strategic and relevant decisions for their regular and efficient operation, without prejudice of maintenance of the unit of the controlling tranche;
-
-^^as mentioned in Recital (d.2) above, ITAÚSA holds, directly, common shares issued by ITAÚ UNIBANCO, and may in the future hold directly and indirectly other common shares issued by ITAÚ UNIBANCO, except for those that are held through IUPAR (all such shares hereinafter referred to as “Direct Shares”);
-
-^^with the consent of the Intervening Consenting Parties, the Parties wish to execute a new Shareholders Agreement of IUPAR and of ITAÚ UNIBANCO that can fully substitute the Original Shareholders Agreement, and that can then regulate their relationship as controlling shareholders of IUPAR and, indirectly, of ITAÚ UNIBANCO, of ITAÚ, of UNIBANCO and of their other controlled subsidiaries, particularly as regards: (i) the exercise of voting rights in the Shareholders Meetings and of the power of control of IUPAR, of ITAÚ UNIBANCO, of ITAÚ, of UNIBANCO and of the companies controlled by the latter; (ii) the exercise of the powers of management ascribed to the members of the Boards of Directors of IUPAR and of ITAÚ UNIBANCO who may be designated, either directly or indirectly, on account of this Agreement; and (iii) the exercise of the right of first refusal and of the right of joint sale in transactions that imply transfer of shares issued by IUPAR or by ITAÚ UNIBANCO held by the Parties; and
-
-^^the members of the VILLELA FAMILY (**Exhibit 1**) and of the members of the SETUBAL FAMILY (**Exhibit 2**) execute, concurrently with the execution of this Agreement, an Instrument of Adhesion to the provisions covenanted hereunder, on the terms of **Exhibit 3** or of **Exhibit 4** to this Agreement, as the case may be;
-
-have resolved, for all purposes of Article 118 of Law No. 6,404, of [[Date 4: Date]], as amended (“Law No. 6,404/1976”), to enter into this **SHAREHOLDERS AGREEMENT** (“Agreement”), which shall be governed by the following clauses and conditions:
-
-**BINDING SHARES AND BY-LAWS**  
-^^The shares issued by IUPAR (“Shares”), which are fully paid in, are distributed between ITAÚSA and the [[FRMS]] FAMILY, on the date hereof, in the form established in Recital (d.1) above.
-
-^^This Agreement is binding on all of the Shares owned directly or indirectly by ITAÚSA and by the members of the [[FRMS]] FAMILY, or further by third parties who have receive them pursuant to the provisions of this Agreement, as well as all of the Shares that ITAÚSA and any one of the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY who may in the future either directly or indirectly hold, in any way, including but not limited to, by purchase, donation, subscription, split-up or distribution of stock dividends, as well as any other form of acquisition or equity interest, including in other companies that could in the future substitute, succeed or acquire IUPAR.
-
-1.2.1. This Agreement is binding also on all of the Shares that ITAÚSA and any of the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY hold or may hold in the future, either directly or indirectly, by any means.
-
-^^This Agreement is also binding on all of the common shares issued by ITAÚ UNIBANCO held directly or indirectly by IUPAR, by ITAÚSA or by any one of the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY, as well as all of the common shares issued by ITAÚ UNIBANCO that IUPAR, ITAÚSA, any members of the [[FRMS]] FAMILY, of the VILLELA FAMILY or of the SETUBAL FAMILY may either directly or indirectly hold, in any way, including but not limited to, by purchase, donation, subscription, split-up or distribution of stock dividends, as well as any other form of acquisition or equity interest, including in other companies that could in the future substitute, succeed or acquire ITAÚ UNIBANCO.
-
-1.3.1. This Agreement is also binding on all of the common shares issued by ITAÚ UNIBANCO that IUPAR, ITAÚSA, and any one of the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY holds or may hold in the future, either directly or indirectly, by any means.
-
-^^For purposes of the provisions of this Agreement, the term shares encompasses also any securities or instruments that assure the right of purchase or subscription of shares, or that are convertible into such shares, or further, that are backed by shares, such as debentures, purpose options, subscription warrants, deposit certificates or receipts, among others.
-
-^^IUPAR shall be governed (a) by its By-Laws, as duly approved in the Special Shareholders Meeting held on [[Date 3]] and amended and restated in the Special Shareholders Meeting held on [[Date 5: Date]], with which ITAÚSA and the [[FRMS]] FAMILY expressly manifest their agreement (“By-Laws”), and (b) subsidiary, by this Agreement and any relevant amendments hereto. The provisions of the By-Laws shall prevail over whatever is contained in this Agreement and in its relevant amendments in the event of any conflict that may be established between such instruments. In the event of approval of any amendment to the By-Laws that, due to any circumstance, conflicts with the provisions of this Agreement, the Parties shall have the obligation of immediately executing an amendment to this Agreement, so as to reflect in its terms the amendment applied to the By-Laws.
-
-1.5.1. The exclusive business purpose of IUPAR is of ownership and exercise of equity control of ITAÚ UNIBANCO, for which it shall maintain, on a direct and permanent basis, ownership of shares representing at least [[Percentage 3: Number]]% of the shares with voting rights issued by ITAÚ UNIBANCO.
-
-1.5.2. IUPAR shall not carry out any other activity, nor shall hold equity interest in any company other than that referred to in Section 1.5.1 above.
-
-**BOARD OF DIRECTORS AND EXECUTIVE BOARD OF IUPAR AND OF ITAÚ UNIBANCO**
-
-^^The Board of Directors of IUPAR shall consist of four (4) sitting members and respective alternate members, where two (2) sitting members and their alternate members shall be elected and removed from office by ITAÚSA, in its capacity as holder of class “A” common shares issued by IUPAR, and two (2) sitting members and their relevant alternate members shall be elected and removed from office by the [[FRMS]] FAMILY, in their capacity of holders of the class “B” common shares issued by IUPAR.
-
-2.1.1. Notwithstanding the provisions of Section 2.1 above, ITAÚSA, the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY hereby acknowledge, represent and assure that, in their condition of jointly-controlling shareholders of IUPAR, they are jointly responsible for the designation, election, removal from office and control of management of all of the members of the Board of Directors of IUPAR, and may be held liable for in eligendo fault and for in vigilando fault for the acts performed by all of the members of the Board of Directors of IUPAR, irrespective of whichever of them has effectively designated, elected or removed from office a given director.
-
-2.1.2. The Board of Directors of IUPAR shall have a Chairman and a Vice-Chairman, who shall be chosen by the totality of its members.
-
-^^The Executive Board of IUPAR shall consist of four (4) Officers, of whom two (2) shall be designated by ITAÚSA and two (2) shall be designated by the [[FRMS]] FAMILY, whereby the members of the Board of Directors elected on the terms of Section 2.1 above shall have the obligation of, in the Meetings intended for election of the Officers of IUPAR, voting in order to elect the Officers designated by ITAÚSA and by the [[FRMS]] FAMILY.
-
-2.2.1. Notwithstanding the provisions Section 2.2 above, ITAÚSA, the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY hereby acknowledge, represent and assure that, in their condition of jointly-controlling shareholders of IUPAR, they are jointly responsible for the designation, election, removal from office and control of management of all of the members of the Executive Board of IUPAR, and may be held liable for in eligendo fault and for in vigilando fault for the acts performed by all of the members of the Executive Board of IUPAR, irrespective of whichever of them has effectively designated, elected or removed from office a given Officer.
-
-2.2.2. The Chief Executive Officer of IUPAR shall be chosen by the totality of the members of the Board of Directors.
-
-2.2.3. IUPAR shall only be validly represented and bound before third parties through the signature of two (2) Officers, where one Officer shall be designated by ITAÚSA and one Officer shall be designated by the [[FRMS]] FAMILY.
-
-^^The Chairman of the Board of Directors and the Chief Executive Officer of IUPAR may not, during any fiscal year, be members designated only by ITAÚSA or only by the [[FRMS]] FAMILY.
-
-^^The Board of Directors of ITAÚ UNIBANCO shall consist of up to fourteen (14) members, whereby ITAÚSA and the [[FRMS]] FAMILY shall have the obligation of ensuring that the representatives of IUPAR in the Shareholders Meetings of ITAÚ UNIBANCO (i) vote so as to elect the greatest number possible of members of the Board of Directors, where the number of directors elected by IUPAR shall always correspond at least to the majority of the members of the Board of Directors of ITAÚ UNIBANCO, with due regard for Section 2.5 below, and (ii) observe the voting guidelines concerning the designation, the election and the removal from office of the members of the Board of Directors effected by ITAÚSA and by the [[FRMS]] FAMILY in accordance with the provisions of this Section 2.
-
-2.4.1. In the Shareholders Meetings of ITAÚ UNIBANCO, ITAÚSA shall have the obligation of exercising the voting rights that derive from the Direct Shares so as to elect the members of the Board of Directors that may be designated by the representatives of IUPAR in such Meetings, on the terms of the provisions of Section 2.5 “a” below. This same rule shall apply to any members of the [[FRMS]] FAMILY, of the VILLELA FAMILY and of the SETUBAL FAMILY if they should hold, either directly or indirectly, at any time and for any reason, in addition to direct or indirect equity interest in IUPAR, shares with voting rights issued by ITAÚ UNIBANCO.
-
-2.4.2. In the Shareholders Meetings of ITAÚ UNIBANCO, IUPAR shall have the obligation of exercising the voting rights that derive from the shares issued by ITAÚ UNIBANCO that they hold so as to elect the members of the Board of Directors that may be designated by ITAÚSA in such Meetings, on the terms of the provisions of Section 2.5 “b” below. This same rule shall apply to any members of the [[FRMS]] FAMILY, of the VILLELA FAMILY and of the SETUBAL FAMILY if they should hold, either directly or indirectly, at any time and for any reason, in addition to direct or indirect equity interest in IUPAR, shares with voting rights issued by ITAÚ UNIBANCO.
-
-^^The designations of the members of the Board of Directors of ITAÚ UNIBANCO shall be effected as follows:
-
-^^IUPAR shall have the right of designating four (4) members, of whom two (2) members designated by ITAÚSA and two (2) members designated by the [[FRMS]] FAMILY, where as regards the members designated by ITAÚSA (i) one (1) member shall be designated by the VILLELA FAMILY, and (ii) one (1) member shall be designated by the SETUBAL FAMILY;
-
-^^through the Direct Shares ITAÚSA shall have the right of designating two (2) members for the Board of Directors of ITAÚ UNIBANCO, in addition to the members designated according to item “a” above, of whom (i) one (1) member designated by the VILLELA FAMILY, and (ii) one (1) member designated by the SETUBAL FAMILY; and
-
-^^the other members of the Board of Directors of ITAÚ UNIBANCO, the election of which is an incumbency of IUPAR and/or of ITAÚSA, shall be designated by consensus between ITAÚSA and the members of the [[FRMS]] FAMILY.
-
-2.5.1. The directors designated on the terms of items (a), (b) and (c) of Section 2.5 above shall, in any event, correspond to the majority of the members of the Board of Directors of ITAÚ UNIBANCO.
-
-2.5.2. Notwithstanding the provisions of Section 2.5 (a), (b) and (c) above, ITAÚSA, the members of the VILLELA FAMILY, of the SETUBAL FAMILY and of the [[FRMS]] FAMILY hereby acknowledge, represent and assure that, in their capacity as indirect controlling shareholders of ITAÚ UNIBANCO, they are jointly responsible for the designation, election, removal from office and control of management of all of the members of the Board of Directors of ITAÚ UNIBANCO, and may be held liable for in eligendo fault and for in vigilando fault for the acts performed by all of the members of the Board of Directors of ITAÚ UNIBANCO, irrespective of whichever of them has effectively designated, elected or removed from office a given director.
-
-^^Mr. Pedro [[FRMS]] shall act as Chairman of the Board of Directors of ITAÚ UNIBANCO by [[Date 6: Date]], and thus shall be elected by the representatives of IUPAR and of ITAÚSA in the Shareholders Meetings of ITAÚ UNIBANCO. His substitution during the abovementioned timeframe and the election of a new Chairman of the Board of Directors after [[Date 6]] may only be approved by consensus between ITAÚSA and the [[FRMS]] FAMILY, using a criterion that takes into account the competency and professional qualification, experience, productivity and performance in the relevant position, focusing strictly on the interest of the corporate activities of ITAÚ UNIBANCO.
-
-^^Mr. Roberto Egydio Setubal shall act as Chief Executive Officer of ITAÚ UNIBANCO and of its subsidiary ITAÚ until [[Date 6]], whereby (i) the members of the Board of Directors of ITAÚ UNIBANCO designated by ITAÚSA and by the [[FRMS]] FAMILY and elected by IUPAR or by ITAÚSA shall vote so as to elect him for the position of Chief Executive Officer of ITAÚ UNIBANCO; and (ii) the representatives of the latter in the corporate bodies of ITAÚ shall elect him for the position of Chief Executive Officer of ITAÚ. His substitution during the abovementioned timeframe and the election of a new Chief Executive Officer after [[Date 6]] may only be approved by consensus between ITAÚSA and the [[FRMS]] FAMILY, using a criterion that takes into account the competency and professional qualification, experience, productivity and performance in the relevant position, focusing strictly on the interest of the corporate activities of ITAÚ UNIBANCO and of ITAÚ.
-
-^^The election and removal from office of the other members of the Executive Board of ITAÚ UNIBANCO, as well as of the members of the Executive Board of its controlled subsidiaries, shall observe the proposals submitted by the Chief Executive Officer of ITAÚ UNIBANCO to the Board of Directors of ITAÚ UNIBANCO, whereby the members of the Board of Directors designated by ITAÚSA and by the [[FRMS]] FAMILY and elected by IUPAR or by ITAÚSA, on the terms of this Agreement, shall vote so as to elect or remove from office the persons recommended by the Chief Executive Officer of ITAÚ UNIBANCO.
-
-2.8.1. The appointments for office on the Executive Board of ITAÚ UNIBANCO and of its controlled subsidiaries shall be focused on persons with recognized experience and competence to cope with the requirements of the position to which they are being appointed.
-
-^^ITAÚSA shall have at any time the right of removing from office the members that it has designated, on the terms provided in Sections 2.1, 2.2 and 2.5 (a) and (b) above, for the Board of Directors and for the Executive Board of IUPAR, and for the Board of Directors of ITAÚ UNIBANCO. In this case, the Parties and their representatives on the corporate bodies of IUPAR and of ITAÚ UNIBANCO shall have the obligation of promptly adopting all of the necessary measures for removal from office of such director or Officer and for his/her replacement by the relevant alternate members, if any, or by a person designated by ITAÚSA.
-
-2.9.1. The [[FRMS]] FAMILY shall have at any time the right of removing from office the members that it has designated, on the terms provided in Sections 2.1, 2.2 and 2.5 (a) above, for the Board of Directors and for the Executive Board of IUPAR, and for the Board of Directors of ITAÚ UNIBANCO. In this case, the Parties and their representatives on the corporate bodies of IUPAR and of ITAÚ UNIBANCO shall have the obligation of promptly adopting all of the necessary measures for removal from office of such director or Officer and for his/her replacement by the relevant alternate members, if any, or by a person designated by the [[FRMS]] FAMILY.
-
-^^The removal from office of the members of the Board of Directors of ITAÚ UNIBANCO who have been designated by consensus between ITAÚSA and the [[FRMS]] FAMILY, on the terms provided in Section 2.5 (c), shall also be contingent upon consensus between ITAÚSA and the [[FRMS]] FAMILY.
-
-^^ITAÚSA and the [[FRMS]] FAMILY shall assign, on a fiduciary basis, one (1) Share issued by IUPAR that they hold to each director that they designate on the terms of Article 2.1 of this Agreement. The Shares assigned to the directors shall be considered, for all purposes and effects of this Agreement, to be property of the Party that has assigned them. Each Party undertakes to obtain from each director that it has designated the powers that are necessary to exercise the voting rights of the assigned Shares in the Shareholders Meetings of IUPAR, as well as to transfer such shares to itself if the assignee director should for any reason cease to hold the office of director.
-
-2.11.1. IUPAR shall assign on a fiduciary basis one (1) share issued by ITAÚ UNIBANCO that it holds to each director designated by ITAÚSA and by the [[FRMS]] FAMILY on the terms of Section 2.5 (a) and (c) of this Agreement. The shares assigned to the directors shall be considered, for all purposes and effects of this Agreement, to be property of IUPAR, which undertakes to obtain from each director that it has designated the powers that are necessary to exercise the voting rights of the assigned Shares in the Shareholders Meetings of ITAÚ UNIBANCO, as well as to transfer such shares to itself if the assignee director should for any reason cease to hold the office of director.
-
-2.11.2. ITAÚSA shall assign on a fiduciary basis one (1) share issued by ITAÚ UNIBANCO that it holds to each director that it has designated on the terms of Section 2.5 (b) of this Agreement. The shares assigned to the directors shall be considered, for all purposes and effects of this Agreement, to be property of ITAÚSA, which undertakes to obtain from each director that it has designated the powers that are necessary to exercise the voting rights of the assigned Shares in the Shareholders Meetings of ITAÚ UNIBANCO, as well as to transfer such shares to itself if the assignee director should for any reason cease to hold the office of director.
-
-**SECTION THREE** 
-**THE EXERCISE OF VOTING RIGHTS IN THE SHAREHOLDERS MEETINGS AND MEETINGS OF THE BOARD OF DIRECTORS OF IUPAR AND ITAÚ UNIBANCO**
-
-^^ITAÚSA and the members of VILLELA FAMILY, SETUBAL FAMILY, and [[FRMS]] FAMILY hereby acknowledge, represent and warrant, for all legal purposes and pursuant to articles 116, 118 and 243, § 2, of Law No. 6404/1976, that they are jointly controlling shareholders of IUPAR and indirect shareholders of ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all companies controlled thereby, and they irrevocably and irreversibly undertake to uniformly and continuously vote upon all relevant matters submitted to the Shareholders' Meetings and elect most managers of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all other companies controlled thereby, and effectively use their controlling power to manage all corporate activities and advise the corporate bodies of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all other companies controlled thereby, and they shall be jointly liable for exercising the controlling power over IUPAR and indirectly over ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all other companies controlled thereby.
-
-3.1.1. IUPAR and ITAÚSA hereby acknowledge, represent and warrant, for all legal purposes and pursuant to articles 116, 118 and 243, § 2, of Law No. 6404/1976, that they are joint controlling shareholders of ITAÚ UNIBANCO and indirect shareholders of ITAÚ, UNIBANCO and all other companies controlled thereby, and they irrevocably and irreversibly undertake to uniformly and continuously vote through their legal representatives upon all relevant matters submitted to the Shareholders Meetings and elect most managers of ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all other companies controlled thereby, and effectively use their controlling power to manage all corporate activities and advise the corporate bodies of ITAÚ UNIBANCO, ITAÚ, UNIBANCO and all other companies controlled thereby, and they shall be jointly liable for exercising the controlling power over ITAÚ UNIBANCO, and indirectly over ITAÚ, UNIBANCO and all other companies controlled thereby.
-
-3.1.2. ITAÚ UNIBANCO hereby acknowledges, represents and warrants, for all legal purposes and pursuant to articles 116, 118 and 243, § 2, of Law No. 6404/1976, that it is the controlling shareholder of ITAÚ and indirect shareholder of UNIBANCO and all other companies controlled thereby, and it irrevocably and irreversibly undertakes to uniformly and continuously vote, by its legal representatives, upon all relevant matters submitted to the Shareholders Meetings and elect most managers of ITAÚ, UNIBANCO and all other companies controlled thereby, and effectively use its controlling power to manage all corporate activities and advise the corporate bodies of ITAÚ, UNIBANCO and all other companies controlled thereby, and it shall be jointly liable for exercising the controlling power over ITAÚ and indirectly over UNIBANCO and all other companies controlled thereby.
-
-3.1.3. ITAÚ hereby acknowledges, represents and warrants, for all legal purposes and pursuant to articles 116, 118 and 243, § 2, of Law No. 6404/1976, that it is the controlling shareholder of UNIBANCO and all other companies controlled thereby, and it irrevocably and irreversibly undertakes to uniformly and continuously vote, by its legal representatives, upon all relevant matters submitted to the Shareholders Meetings and elect most managers of UNIBANCO and all other companies controlled thereby, and effectively use its controlling power to manage all corporate activities and advise the corporate bodies of UNIBANCO and all other companies controlled thereby, and it shall be jointly liable for exercising the controlling power over UNIBANCO and all other companies controlled thereby.
-
-^^IUPAR By-laws shall provide that the decisions taken in a Shareholders Meeting shall only be approved by the shareholders representing more than fifty percent of the voting capital stock, except for decisions related to the matters listed below, which shall be solely taken by IUPAR Shareholders Meetings and may only be approved upon the affirmative vote of shareholders representing [[Percentage 4: Number]]% of the voting stock:
-
-^^any transactions that imply changes in IUPAR’s capital, and merger, amalgamation, spin-off or any other corporate restructuring involving IUPAR;
-
-^^amendments to IUPAR By-laws; 
-
-^^decisions about retention of profits or allocation of reserves to the detriment of any distribution of mandatory dividend;
-
-^^full or partial encumbrance or disposal of shares issued by ITAÚ UNIBANCO and held by IUPAR, purchase of new shares issued by ITAÚ UNIBANCO, disposal of subscription rights to shares issued by ITAÚ UNIBANCO to third parties in increases in capital, subscription warrants or other bonds or securities that secure the right to purchase or subscribe shares issued by ITAÚ UNIBANCO or that are convertible into shares issued by ITAÚ UNIBANCO, as well as the creation of encumbrance, lien, pledge, collateral, fiduciary alienation or any other guarantee thereupon;
-
-^^share redemption, amortization and repurchase transactions; and
-
-^^rendering of surety, “aval” guarantee or other personal or collateral guarantees.
-
-^^The Meetings of the Board of Directors of IUPAR may only be held if all sitting members or their respective alternates are present; the Board of Directors of IUPAR will take its decisions upon the approval of at least three (3) members, unless if it is expressly provided in this Agreement or in its By-laws that unanimous decision is required. Pursuant to the provisions of Section 3.5 below, IUPAR By-laws shall provide that the matters listed below shall be exclusively decided upon by the Board of Directors and may only be approved upon the affirmative vote of all its members:
-
-^^to elect and dismiss IUPAR Officers and set forth their duties, as well as to previously voice its opinion about the election of the members of the Board of Directors of ITAÚ UNIBANCO and its controlled companies;
-
-^^to set forth policies and strategic matters as required for the success of ITAÚ UNIBANCO’s business, including strategic matters for the success of its controlled companies’ businesses;
-
-^^to submit to the Shareholders Meeting proposals involving transactions related to IUPAR’s capital change, merger, amalgamation, spin-off or any other corporate restructuring operations involving IUPAR;
-
-^^to set forth matters to be decided upon in Shareholders Meetings and Meetings of the Board of Directors of ITAÚ UNIBANCO and determine how such decisions should be voted by IUPAR, in its capacity as ITAÚ UNIBANCO’s shareholder and by the members of the Board of Directors of such company appointed by IUPAR;
-
-^^to analyze and approve multiyear budgets of IUPAR;
-
-^^to appoint and dismiss IUPAR’s public accountant; and
-
-^^to elect the Chairman and the Vice-Chairman of the Board of Directors of IUPAR.
-
-^^All sitting and alternate members of the Board of Directors of IUPAR, as well as all IUPAR Officers shall be invited to attend the Meetings of the Board of Directors of IUPAR. The installation of the Board of Directors Meetings shall not be subject to the attendance of alternates of the Board of Directors members and IUPAR Officers, provided that the quorum set forth in Section 3.3 shall be duly observed. Only the sitting members, or alternates who are replacing any absent sitting member, shall have the right to vote upon the Board of Directors’ decisions.
-
-^^A Prior Meeting with the controlling shareholders of IUPAR shall be held before every Meeting of the Board of Directors of IUPAR (“Prior Meeting”) in order to decide upon the votes to be uniformly cast by the representatives of the Parties in the Meetings of the Board of Directors of IUPAR.
-
-3.5.1. The Prior Meetings shall be held in the principal place of business of IUPAR, before the Meetings of the Board of Directors of IUPAR being held. The Prior Meetings shall be called in writing, as provided for in Section 8.11 below, by either Party, at least two (2) business days before the scheduled date.
-
-3.5.1.1. The Prior Meetings may only be held with the presence of the representatives of ITAÚSA and [[FRMS]] FAMILY. The members of VILLELA FAMILY and SETUBAL FAMILY who are IUPAR sitting or alternate managers shall be invited to attend the Prior Meetings, but they shall have no voting right and their occasional absence shall not prevent installation of the Prior Meeting.
-
-3.5.1.2. The minutes of every Prior Meeting shall be obligatorily drawn-up.
-
-3.5.2. In the Prior Meetings, ITAÚSA and [[FRMS]] FAMILY shall have the right to one vote each, and decisions shall only be deemed approved upon the affirmative vote of both of them.
-
-3.5.3. ITAÚSA and [[FRMS]] FAMILY hereby undertake to harmoniously solve the matters submitted to the Prior Meeting that arouse heated discussions, always keeping in mind the strictest interests of IUPAR and ITAÚ UNIBANCO, so as to avoid deadlocks that might impair the proper dealing of business.
-
-3.5.4. The representatives of ITAÚSA and [[FRMS]] FAMILY in the Board of Directors of IUPAR shall be required to exercise their voting rights in the Board of Directors Meetings, in compliance with the terms previously set forth in the Prior Meetings.
-
-3.5.5. In order to comply with the provisions set forth in Section 3.5.4 hereof, either Party shall be allowed to deliver or send by fax the minutes of the Prior Meeting: (i) to the members of the Board of Directors of IUPAR who have been appointed by ITAÚSA or [[FRMS]] FAMILY, so to allow them to exercise their voting rights in the Meetings of the Board of Directors of IUPAR in compliance with the terms set forth in the Prior Meetings; and (ii) to the Chairman of the Board of Directors of IUPAR.
-
-3.5.6. If a matter submitted to the Prior Meeting is not approved, the vote to be cast by the members of the Board of Directors of IUPAR who have been appointed by ITAÚSA or [[FRMS]] FAMILY in the Meetings of the Board of Directors shall refuse the proposals submitted to resolution.
-
-3.5.7. ITAÚSA and [[FRMS]] FAMILY hereby undertake to cause their representatives in the Meetings of the Board of Directors of IUPAR to take no decision or measure that depends upon a Prior Meeting being held while it is not held.
-
-3.5.8. If, for any reason, a Prior Meeting is not held before a certain Meeting of the Board of Directors of IUPAR being held, the members of the Board of Directors appointed by ITAÚSA and [[FRMS]] FAMILY shall be required to attend this Meeting of the Board of Directors and refuse the proposals submitted to resolution.
-
-3.5.8.1. In the event provided for in Section 3.5.8 above, the Parties shall take all measures so that the Prior Meeting is held within at least fifteen (15) days, thereby enabling IUPAR Board of Directors to take its decision.
-
-3.5.9. ITAÚSA and [[FRMS]] FAMILY hereby undertake to take all necessary measures to promptly replace the members of the Board of Directors of IUPAR appointed and elected in compliance with the provisions of this Agreement who fail to comply with the determination to unanimously vote as determined in the Prior Meetings.
-
-3.5.10. The Chairman of the Meetings of the Board of Directors of IUPAR shall not compute the votes cast in disregard to the provisions of this Agreement, as provided for in article 118, § 8, of Law No. 6404/1976.
-
-3.5.11. Failure of ITAÚSA and [[FRMS]] FAMILY members to attend the Meetings of the Board of Directors of IUPAR or cast their votes therein shall entitle the members of the Board of Directors present at the Meeting to vote for the absent or abstaining member, as provided for in article 118, § 9, of Law No. 6404/1976. Notwithstanding the foregoing, votes cannot be cast if (i) the matter has not been submitted to the Prior Meeting or (ii) disagree with the decisions previously taken in the Prior Meeting.
-
-3.5.12. If any representative of ITAÚSA and [[FRMS]] FAMILY attending the Meeting of the Board of Directors of IUPAR casts their vote contrarily to what has been decided in the Prior Meeting and the Chairman of the Meeting of the Board of Directors decides not to compute it, as provided for in Section 3.5.10 above, said vote shall be deemed uncast and, accordingly, the representatives of the other Party shall be entitled to vote for the member of the Board of Directors who fails to comply with the obligation to vote as determined in this Agreement under Section 3.5.11 above.
-
-^^Before any Shareholders Meeting or Meeting of the Board of Directors of ITAÚ UNIBANCO being held a Meeting of the Board of Directors of IUPAR shall be held so as to resolve upon the votes to be uniformly cast by IUPAR and ITAÚSA representatives in the Shareholders Meetings and Meetings of the Board of Directors of ITAÚ UNIBANCO.
-
-^^The By-laws of ITAÚ UNIBANCO shall provide that the matters set forth below shall be exclusively decided upon in the Shareholders Meetings, and such matters shall be previously resolved by the Board of Directors of IUPAR, as provided for in Section 3.3 (d) above and previously deliberated in a Prior Meeting, as provided for in Section 3.5 above:
-
-^^resolution about accounting statements and profit allocation and investment;
-
-^^resolution about management reports and Executive Board’s accounts;
-
-^^setting forth global and annual compensation of the Board of Directors and Executive Board members, thereby specifying the portion related to each of these bodies;
-
-^^appointment, election and termination of the members of the Board of Directors;
-
-^^approval of capital stock changes, merger, amalgamation, spin-off or any other corporate restructuring operations involving ITAÚ UNIBANCO;
-
-^^resolution about profit retention or allocation of reserves to the detriment of compulsory dividend distribution; and
-
-^^resolution about call option plans for shares issued by ITAÚ UNIBANCO or its controlled companies.
-
-3.7.1. The By-laws of ITAÚ UNIBANCO shall provide that the matters set forth below shall be exclusively decided upon by the Board of Directors of ITAÚ UNIBANCO, and such matters shall be previously deliberated by the Board of Directors of IUPAR, as provided for in Section 3.3 (d) above and previously resolved in a Prior Meeting, as provided for in Section 3.5 above:
-
-^^appointment and dismissal of independent accountant;
-
-^^approval of investments and divestitures, whether direct or indirect, in shareholding equity in excess of [[Percentage 5: Number]]% of the equity value of ITAÚ UNIBANCO ascertained in the latest balance sheet duly audited; and
-
-^^approval of capital increase up to the authorized capital limit.
-
-^^The decisions taken by the Board of Directors of IUPAR shall produce in relation to IUPAR and ITAÚSA representatives attending the Shareholders Meetings of ITAÚ UNIBANCO and members of the Board of Directors of ITAÚ UNIBANCO who have been appointed by IUPAR or ITAÚSA, all effects of a prior ITAÚ UNIBANCO controlling shareholders meeting, including those provided for in section 118 of Law No. 6404/1976, as set forth in the following clauses.
-
-3.8.1. IUPAR representatives attending the Shareholders Meetings of ITAÚ UNIBANCO shall be required to exercise their voting rights in the Shareholders Meetings of ITAÚ UNIBANCO as previously defined in the Meetings of the Board of Directors of IUPAR.
-
-3.8.2. The members of the Board of Directors of ITAÚ UNIBANCO who have been appointed by IUPAR shall be required to attend the Meetings of the Board of Directors of ITAÚ UNIBANCO and vote, in block, as previously determined in the Meetings of the Board of Directors of IUPAR.
-
-3.8.3. For the purposes of Sections 3.8.1 and 3.8.2 of this Agreement, the Chairman of the Board of Directors of IUPAR shall promptly deliver or send by fax the minutes of the Meeting of the Board of Directors: (i) to the Executive Board of IUPAR, so to enable IUPAR to exercise the voting right in the Shareholders Meetings of ITAÚ UNIBANCO in compliance with the terms set forth in the Meetings of the Board of Directors of IUPAR; or (ii) to the members of the Board of Directors of ITAÚ UNIBANCO who have been elected by IUPAR, so to allow them to exercise their voting rights in the Meetings of the Board of Directors of ITAÚ UNIBANCO pursuant to the terms set forth in the Meetings of the Board of Directors of IUPAR; and (iii) to the Chairmen of the Shareholders Meetings and Meetings of the Board of Directors of ITAÚ UNIBANCO.
-
-^^ITAÚSA shall be required to attend the Shareholders Meetings of ITAÚ UNIBANCO and exercise the voting right arising out of Direct Shares as determined in the Meetings of the Board of Directors of IUPAR. If, for any reason, IUPAR fails to cast its vote in a certain Shareholders Meeting of ITAÚ UNIBANCO, then ITAÚSA shall likewise refrain from casting its vote arising out of Direct Shares. The same rules are applicable to any member of [[FRMS]] FAMILY, VILLELA FAMILY and SETUBAL FAMILY if such member directly or indirectly holds, at any time and for any reason, in addition to its direct or indirect shareholding interest in IUPAR, voting shares issued by ITAÚ UNIBANCO.
-
-3.9.1. The members of the Board of Directors of ITAÚ UNIBANCO elected by ITAÚSA as provided for in Section 2.5 (b) shall be required to attend the Meetings of the Board of Directors of ITAÚ UNIBANCO and exercise their voting rights as determined in the Meetings of the Board of Directors of IUPAR. If, for any reason, the members of the Board of Directors of ITAÚ UNIBANCO elected by IUPAR fail to vote on any matter in a certain Meeting of the Board of Directors of ITAÚ UNIBANCO, the members of the Board of Directors elected by ITAÚSA shall likewise refrain from voting.
-
-^^If a certain matter submitted to a Meeting of the Board of Directors of IUPAR is not approved, the vote cast by the representatives of IUPAR and ITAÚSA in the Shareholders Meetings or Meetings of the Board of Directors of ITAÚ UNIBANCO shall refuse the proposals submitted to resolution. In regard to Shareholders Meetings, the same rules are applicable to any member of [[FRMS]] FAMILY, VILLELA FAMILY and SETUBAL FAMILY if such member directly or indirectly holds, at any time and for any reason, in addition to its direct or indirect shareholding interest in IUPAR, voting shares issued by ITAÚ UNIBANCO.
-
-^^ITAÚSA and IUPAR hereby undertake to cause their representatives in the Shareholders Meetings or Meetings of the Board of Directors of ITAÚ UNIBANCO to take no decision or measure that depends upon a Meeting of the Board of Directors of IUPAR being held until such Meeting of the Board of Directors of IUPAR is held. In regard to Shareholders Meetings, the same rules are applicable to any member of [[FRMS]] FAMILY, VILLELA FAMILY and SETUBAL FAMILY if such member directly or indirectly holds, at any time and for any reason, in addition to its direct or indirect equity interest in IUPAR, voting shares issued by ITAÚ UNIBANCO.
-
-^^If, for any reason, a Meeting of the Board of Directors of IUPAR is not held before a certain Shareholders Meeting or Meeting of the Board of Directors of ITAÚ UNIBANCO being held, then IUPAR and ITAÚSA or the members of the Board of Directors of ITAÚ UNIBANCO elected thereby, as the case may be, shall be required to attend such Shareholders Meeting or Meeting of the Board of Directors and refuse the proposals submitted to resolution. In regard to Shareholders Meetings, the same rules shall apply to any member of [[FRMS]] FAMILY, VILLELA FAMILY and SETUBAL FAMILY if such member directly or indirectly holds, at any time and for any reason, in addition to its direct or indirect shareholding interest in IUPAR, voting shares issued by ITAÚ UNIBANCO.
-
-3.12.1. In the event provided for in Section 3.12 above, the representatives of ITAÚSA and [[FRMS]] FAMILY in the Board of Directors of IUPAR shall take all measures so that a Meeting of the Board of Directors of IUPAR be held within at least fifteen (15) days so to allow that a decision is taken by the Shareholders Meeting or Meeting of the Board of Directors of ITAÚ UNIBANCO.
-
-^^ITAÚSA, [[FRMS]] FAMILY and IUPAR, as the case may be, hereby undertake to take all necessary measures to promptly replace the members of the Executive Board of IUPAR and the Board of Directors of ITAÚ UNIBANCO appointed and elected under this Agreement who fail to comply with the determination to jointly vote as determined in the Meetings of the Board of Directors of IUPAR, as provided for in this Section Three.
-
-^^The Chairmen of the Shareholders Meetings and the Meetings of the Board of Directors of ITAÚ UNIBANCO shall not compute the votes cast in disregard to the provisions of this Agreement, as provided for in article 118, § 8, of Law No. 6404/1976.
-
-^^Failure of ITAÚSA or IUPAR representatives to either attend the Shareholders Meetings of ITAÚ UNIBANCO or cast their votes therein shall entitle the shareholder present at the Shareholders Meeting (ITAÚSA or IUPAR, as the case may be) to vote for IUPAR or vote with Direct Shares, as the case may be, as provided for in article 118, § 9, of Law No. 6404/1976. Failure of ITAÚSA and [[FRMS]] FAMILY representatives to attend the Meetings of the Board of Directors of ITAÚ UNIBANCO or cast their votes therein shall entitle the members of the Board of Directors present at the Meeting to vote for the absent or abstaining member, as provided for in article 118, § 9, of Law No. 6404/1976. Notwithstanding the foregoing, votes cannot be cast if (i) the matter has not been submitted to the Meeting of the Board of Directors of IUPAR or (ii) disagree with the decisions previously taken in the Meeting of the Board of Directors of IUPAR.
-
-^^In the event that any of the representatives of ITAÚSA or [[FRMS]] FAMILY at Shareholders Meetings or at Meetings of the Board of Directors of ITAÚ UNIBANCO cast a vote contrary to the vote set forth at the Meeting of the Board of Directors of IUPAR, and the Chairman of the Shareholders Meeting or the Meeting of the Board of Directors decides not to count it, as provided for in Section 3.15 above, then said vote shall be deemed not to be cast and, as a result, the representatives of the other Party shall be entitled to cast IUPAR vote or to vote with the Direct Shares, as the case may be, or in replacement of the member of the Board of Directors who fails to comply with the obligation of voting as established by this Agreement, as provided for in Section 3.16 above.
-
-^^The provisions of Sections 2.7 and 2.8, 3.8 to 3.8.3 and 3.10 to 3.16 apply to the members of the Board of Directors of ITAÚ UNIBANCO who were unanimously appointed by ITAÚSA and by [[FRMS]] FAMILY, as provided for in Section 2.5 (c) above, whenever the following resolutions are submitted to the Board of Directors of ITAÚ UNIBANCO:
-
-^^a proposal to amend ITAÚ UNIBANCO By-laws;
-
-^^election and removal of the Chief Executive Officer of ITAÚ UNIBANCO, subject to the provisions of Section 2.7 above;
-
-^^election and removal of the other officers of ITAÚ UNIBANCO, subject to the provisions of Section 2.8 above;
-
-^^increase in ITAÚ UNIBANCO capital stock; and
-
-^^a proposal of change, consolidation, merger, spin-off or any other form of corporate reorganization involving ITAÚ UNIBANCO.
-
-3.17.1. The provisions of Section 3.17 above does not apply to the member of the Board of Directors of ITAÚ UNIBANCO appointed by Bank of America Corporation, pursuant to the shareholders agreement entered into between the latter and ITAÚSA on [[Date 7: Date]], provided, however, that said shareholders agreement ensures to Bank of America Corporation the right to appoint a single member of the Board of Directors of ITAÚ UNIBANCO.
-
-RIGHT OF FIRST REFUSAL IN THE EVENT OF DISPOSAL OF SHARES ISSUED BY IUPAR
-
-^^The Shares shall not, directly or indirectly, be sold, assigned or transferred, whether for free or for consideration, nor shall they be granted to the capital stock of another company, given for the purpose of usufruct or trust, or otherwise disposed of or promised to be disposed of (all operations mentioned above shall be hereinafter referred to as “to dispose of”) without strict compliance with the rules provided for in this Section Four
-
-4.1.1. For the purposes of this Agreement and except for Section 4.13 below, it shall also be deemed to be a disposal of Shares any and all transaction resulting in a situation in which individuals (or their legal successors) who held, directly or indirectly, as of [[Date 3]]: (i) the total class “B” common shares issued by IUPAR, as regards [[FRMS]] FAMILY, or (ii) as regards VILLELA FAMILY and SETUBAL FAMILY, the shares integrating ITAÚSA control block which are required to ensure the control of said company, no longer hold them, wholly or in part.
-
-^^Except for the events expressly provided for in Section 4.13 below, the Shares shall only be disposed of after [[Date 8: Date]].
-
-4.2.1. Once the term referred to in Section 4.2 above has elapsed, ITAÚSA and [[FRMS]] FAMILY may dispose of the Shares owned by them, provided that (i) the provisions of the subsequent items of this Section Four are complied with; and (ii) the disposal involves the total of (a) class “A” common shares issued by IUPAR together with the total preferred shares issued by IUPAR; or (b) the class "B" common shares issued by IUPAR.
-
-^^Once the term referred to in Section 4.2 above has elapsed, in the event that ITAÚSA or [[FRMS]] FAMILY wishes to dispose of the total Shares owned by it (“Offeror Shareholder”), when said fact shall be notified to [[FRMS]] FAMILY or to ITAÚSA, as the case may be (“Offeree Shareholder”), by means of a letter delivered against receipt or sent by the Registry of Deeds and Documents, together with a copy of the firm, good faith proposal received from an interested third party (“Proposal”), which shall mandatorily contain (i) the name and identification of the possible buyer, (ii) the quantity of shares to be disposed of, (iii) the price and payment conditions, and (iv) any other conditions which the Proposal may be subject to.
-
-^^The Offeree Shareholder shall have the non-extendable term of ninety (90) days as of receipt of the communication referred to in Section 4.3 above to reply, on an irrevocable and irreversible manner, by means of a written notice to be sent to the Offeror Shareholder, as a letter, receipt acknowledgement required, or sent by the Registry of Deeds and Documents, as to whether:
-
-^^exercise its right of first refusal to purchase the total shares offered at the same price and on the same conditions set forth in the Proposal; or
-
-^^waive preference in the purchase of the shares offered; or
-
-^^exercise the right to sell the total Shares owned by it to the third party buyer at the same price and on the same conditions of the Offeror Shareholder, in addition to the Shares offered, subject to the tag along right provided for in Section Five.
-
-^^In the event that the Offeree Shareholder fails to reply on a timely manner in relation to the exercise of any of the alternatives provided for in Section 4.4 above, it shall be deemed to have waived its right of first refusal and its tag along right referred to in items “a” and “c” of Section 4.4.
-
-^^The disposal of the shares to the Offeree Shareholder, in the event that it exercises its right of first refusal, shall be completed within sixty (60) days of the date on which the Offeree Shareholder notifies to the Offeror Shareholder the decision referred to in Section 4.4 “a” above.
-
-^^In the event that the right of first refusal is not exercised by the Offeree Shareholder within the term set forth in Section 4.4 above, the Offeror Shareholder shall be authorized to proceed with the disposal of the total Shares owned by it, according to the precise terms and conditions set forth in the Proposal, subject to a possible tag along of the Shares owned by the Offeree Shareholder as provided for in item “c” of Section 4.4 above, and according to the provisions of Section 5.2 below, within sixty (60) days immediately subsequent to (i) the receipt of the notice referred to in the aforementioned Section 4.4 or (ii) lapse of the term of ninety (90) days set forth therein, in the event that said notice was not sent.
-
-^^Once the term referred to in Section 4.7 above has elapsed without completion of the disposal of the Shares which are the subject-matter of the Proposal, or in the event that any of the conditions set forth in the Proposal are modified, the Offeror Shareholder shall be barred from disposing of the Shares owned by it and shall notify the Offeree Shareholder once again, repeating the procedure set forth in this Section Four, which shall only take place once the term of six (6) months as of the end of the applicable term referred to in Section 4.7 above has elapsed.
-
-^^The disposal of the Shares is equivalent, for the purpose of exercise of the rights provided for in this Section Four, to the disposal to any third parties that are not members of VILLELA FAMILY, SETUBAL FAMILY and [[FRMS]] FAMILY of equity interest in legal entities that participate, whether directly or indirectly, in IUPAR capital stock.
-
-^^The right of subscription of Shares in capital increases, share warrants, rights to receive bonus shares or any other securities ensuring the right of purchase or subscription of Shares or convertible into Shares shall not be disposed of to any third parties.
-
-4.10.1. Likewise, the right of subscription of shares or units in capital increases of companies which may have a direct or indirect interest in IUPAR, share warrants of said companies, rights to receipt bonus shares or units of said companies or any other securities ensuring the right of purchase or subscription of shares or units which are convertible into shares or units of said companies shall not be disposed of to any third parties.
-
-^^The shares held by any shareholder (as well as the shares or units of any other companies that may have an interest in IUPAR capital stock) shall not be encumbered, burdened or granted as pledge, guarantee, collateral or any other form of guarantee without the prior, express, written approval of the other shareholder(s).
-
-^^In the event that any of the Shares held by any Party are pledged, attached or seized due to any reasons beyond the control of said Party, then the Party that holds said Shares shall immediately use its best efforts to have the encumbrance of said Shares removed. In the event of failure to do so, the other Party shall have the right of first refusal to purchase it at the time of the execution of the encumbrance.
-
-^^Except for the provisions of Section 4.14, the following disposals are not subject to the obligations set forth in this Section Four: (i) of Shares owned by the members of [[FRMS]] FAMILY to other shareholders that are members of [[FRMS]] FAMILY or to companies or other entities whose capital stock is fully owned by any members of [[FRMS]] FAMILY; (ii) of Shares owned by ITAÚSA to members of VILLELA FAMILY or to members of SETUBAL FAMILY or to companies or other entities whose capital stock is fully owned by a ITAÚSA or to any member(s) of VILLELA FAMILY or SETUBAL FAMILY; and (iii) of one (1) Share, on account of trust, to each of the persons elected by ITAÚSA and by [[FRMS]] FAMILY for the position of member of the Board of Directors of IUPAR, provided that said persons shall undertake to return the Share received thereby to the relevant Party in the event that they stop holding the position of members of the Board of Directors due to any reason whatsoever.
-
-4.13.1. In the event that, due to a litigation, any Share directly or indirectly held by ITAÚSA is transferred to any third parties that are (i) individuals who are not members of VILLELA FAMILY or SETUBAL FAMILY; (ii) legal entities whose capital stock is not fully held by any member(s) of VILLELA FAMILY or SETUBAL FAMILY; or (iii) any third parties not expressly provided for in Section 4.13 above, then any member(s) of VILLELA FAMILY or SETUBAL FAMILY (by themselves or by any legal entity(ies) whose capital stock is fully owned by any member(s) of VILLELA FAMILY or SETUBAL FAMILY) shall be entitled to claim the purchase of said Shares, within thirty (30) days as of the date of the relevant transfer, case in which the third party shall be required to sell them at the price to be specified in a valuation report to be prepared by a first-line investment bank to be appointed by IUPAR. In the event that the members of VILLELA FAMILY or SETUBAL FAMILY fail to exercise the right provided for herein within the aforementioned term of thirty (30) days, any member(s) of [[FRMS]] FAMILY (by themselves or by any legal entity(ies) whose capital stock is fully held by any member(s) of [[FRMS]] FAMILY) shall also begin to have the right to claim the purchase of the shares transferred to the third party, on the same conditions provided for in this Section 4.13.1.
-
-4.13.2. In the event that, due to a litigation, any Share directly or indirectly held by any members of [[FRMS]] FAMILY is transferred to any third parties that are (i) individuals who are not members of [[FRMS]] FAMILY; (ii) legal entities whose capital stock is not fully held by any member(s) of [[FRMS]] FAMILY; or (iii) any third parties not expressly provided for in Section 4.13 above, then any member(s) of [[FRMS]] FAMILY (by themselves or by any legal entity(ies) whose capital stock is fully owned by any member(s) of [[FRMS]] FAMILY) shall be entitled to claim the purchase of said Shares, within thirty (30) days as of the date of the relevant transfer, case in which the third party shall be required to sell them at the price to be specified in a valuation report to be prepared by a first-line investment bank to be appointed by IUPAR. Should the members of [[FRMS]] FAMILY fail to exercise the right provided for herein within the aforementioned term of thirty (30) days, then ITAÚSA or any member(s) of VILLELA FAMILY or SETUBAL FAMILY (by themselves or by any legal entity(ies) whose capital stock is fully held by ITAÚSA or by any member(s) of VILLELA FAMILY or SETUBAL FAMILY) shall also begin to have the right to claim the purchase of the shares transferred to said third party, in the same conditions provided for in this Section 4.13.2.
-
-^^As a prior and necessary condition for the disposal of Shares, including those provided for in Section 4.13 above, the buyer or the assignee shall previously and expressly adhere, in writing and without any restrictions, to the provisions of this Agreement, undertaking all obligations of the disposing Party.
-
-^^Without prejudice to the right of first refusal provided for in this Section Four, ITAÚSA and [[FRMS]] FAMILY may veto the disposal of Shares to any third parties which, in the opinion of the other Party, (i) are known to lack the reputation, business and marketing profile and technical experience compatible with the importance and responsibility of the conglomerate managed by ITAÚ UNIBANCO; or (ii) may be deemed to be competitors of ITAÚ UNIBANCO, provided that, in both instances, said veto is justified and voiced within the term and in the manner provided for in Section 4.4 above.
-
-^^Disposals of Shares as well as creation of any liens or encumbrances not in compliance with the provision of this Section Four shall not be valid or effective, and IUPAR shall be required not to record them in its corporate books.
-
-^^The parties acknowledge that any legal business resulting in disposal or transfer of control or in any change in the composition of the control block of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO or any of their financial controlled companies shall depend, pursuant to the applicable legislation or regulations, on approval by the Central Bank of Brazil – BACEN.
-
-^^In the cases provided for in Section 4.17 above and in any other case that may be deemed to be a modification of the composition of the control block of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO or any other financial companies controlled thereby which depends, pursuant to the applicable legislation and regulations, on approval by the BACEN, the former members of the control block shall continue to be jointly responsible for the exercise of the control power, as provided for by the applicable legislation, until BACEN approves the composition of the new control block.
-
-DISPOSAL OF DIRECT SHARES 
-^^ITAÚSA may freely dispose of, encumber or burden the Direct Shares, at any time and to any individual, company or entity, wholly or in part.
-
-5.1.1. Should ITAÚSA dispose of the Direct Shares to companies fully held by it or to any of the members of VILLELA FAMILY, SETUBAL FAMILY, or companies or entities fully held, whether directly or indirectly, by any member of VILLELA FAMILY or SETUBAL FAMILY, then the buyer shall be required to previously adhere to this Agreement.
-
-5.1.2. Should the Direct Shares be disposed of to any third parties that are not members of VILLELA FAMILY and SETUBAL FAMILY, then the buyer may not enter into this Agreement, and therefore the tag along right as provided for in Section 5.2 below or any other right or obligation set forth in this Agreement shall not be applicable thereto.
-
-^^In the event that ITAÚSA and [[FRMS]] FAMILY decide to directly or indirectly dispose of the total Shares or the total shares issued by ITAÚ UNIBANCO and held by IUPAR to any third parties, then ITAÚSA shall have the right to demand that up to the total Direct Shares be also purchase according to the same terms and conditions negotiated by ITAÚSA and by [[FRMS]] FAMILY with the third party buyer.
-
-5.2.1. In the event that ITAÚSA exercises the right discussed in Section 5.2 above, then the third party buyer may only purchase, directly or indirectly, the Shares held by ITAÚSA itself and by the members of [[FRMS]] FAMILY or the shares issued by ITAÚ UNIBANCO and held by IUPAR, as the case may be, if the third party buyer also purchases, on the same terms and conditions, the Direct Shares that ITAÚSA decides to dispose of.
-
-5.2.2. ITAÚSA shall have the non-extendable term of thirty (30) days as of the date on which ITAÚSA and [[FRMS]] FAMILY decide to directly or indirectly sell the Shares or the shares issued by ITAÚ UNIBANCO and held by IUPAR to voice its intention to exercise the right of disposal of Direct Shares together with the total Shares issued by IUPAR or by ITAÚ UNIBANCO, and once said term has elapsed, ITAÚSA shall be deemed to have waived the right set forth in this Section 5.2. ITAÚSA’s intention to exercise the tag along right shall be voiced as provided for in Section 8.11 below.
-
-^^The rules, rights and obligations provided for in this Section Five for ITAÚSA apply identically to any member of [[FRMS]] FAMILY, VILLELA FAMILY and SETUBAL FAMILY in the event that they may hold, whether directly or indirectly, at any time and due to any reason whatsoever, in addition to the equity interest at IUPAR, common shares issued by ITAÚ UNIBANCO.
-
-TERM OF EFFECTIVENESS  
-^^This Agreement shall come into effect and shall remain in effect for the term of twenty (20) years, and the Parties shall not terminate it or fail to comply with it unilaterally. Said term shall be automatically extended for new and successive terms of ten (10) years, except upon written notice to the contrary by ITAÚSA or [[FRMS]] FAMILY given as provided for in Section 8.11 and at least one (1) year in advance as of the end of each term of effectiveness.
-
-^^The Agreement shall be terminated if (i) each of ITAÚSA and [[FRMS]] FAMILY no longer hold shares representing [[Percentage 1]]% of IUPAR voting capital stock; or (ii) IUPAR is no longer the holder of shares representing at least [[Percentage 3]]% of ITAÚ UNIBANCO voting capital stock.
-
-6.2.1. In the event that any of the termination conditions provided for in Section 6.2 occurs, this Agreement shall remain in effect for an additional term of thirty (30) days as of the occurrence of any of the aforementioned termination conditions, during which the Parties may: (i) remedy the situation that resulted in the occurrence of said condition, so that each of the Parties holds [[Percentage 1]]% of IUPAR voting capital stock again or the latter holds shares representing at least [[Percentage 3]]% of ITAÚ UNIBANCO voting capital stock again, as the case may be; or (ii) amend this Agreement in writing.
-
-REGISTRATION AND OBLIGATIONS OF IUPAR AND ITAÚ UNIBANCO
-
-^^IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO enter into this Agreement in the capacity of intervening consenting parties and/or Parties, and acknowledge and consent with all terms and conditions hereof.
-
-^^This Agreement shall be filed at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO, which shall endeavor to the faith compliance with the provisions hereof, undertaking to immediately notify ITAÚSA and [[FRMS]] FAMILY of any action or omission that may result in failure to comply with the obligations provided for in this Agreement.
-
-^^The obligations arising out of this Agreement shall be annotated in the Registers of Registered Shares of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO, as well as in the certificates, warrants or multiple securities issued by IUPAR, by ITAÚ UNIBANCO, by ITAÚ or by UNIBANCO, if applicable, or in the registers of the bookrunner institution, if applicable, and said annotations shall be deemed to bar the performance of any action not in compliance with the covenants hereunder.
-
-^^IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO are required not to register, in their respective corporate books, any transaction that implies the transfer or encumbrance of their respective shares in any manner not in compliance with the covenanted in this Agreement, as well as to cause their respective book-entry agent of the shares issued thereby, if any, not to register any such transaction.
-
-GENERAL PROVISIONS  
-^^This Agreement is binding upon IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO, ITAÚSA and the members of SETUBAL FAMILY, VILLELA FAMILY and [[FRMS]] FAMILY, as well as their respective heirs and other successor on any account whatsoever.
-
-^^This Agreement, as well as all obligations undertaken pursuant to the terms hereof, are irrevocable and irreversible and shall not be modified, except by means of a written instrument executed by the Parties, by VILLELA FAMILY and by SETUBAL FAMILY.
-
-8.2.1. Any amendment to this Agreement shall be submitted to BACEN as provided for by the applicable legislation and regulations.
-
-^^Either Party may require, on the grounds of article 118 of Law No. 6404/1976, the specific execution of the obligations undertaken hereunder, especially for the purposes of (a) annulment of the Shareholders Meeting or the Meeting of the Board of Directors of IUPAR or of ITAÚ UNIBANCO which acknowledges the validity of any vote cast against an express provision of this Agreement; (b) cancellation of the registration of any share transfer or encumbrance carried out not in compliance with any provisions of this Agreement; and (c) fulfillment of the wish of the Parties or of their representatives in Shareholders Meetings or in Meetings of the Board of Directors of IUPAR and of ITAÚ UNIBANCO, in the event of refusal to exercise the voting right in the conditions agreed upon herein or to comply with any other obligation provided for in this Agreement.
-
-^^The Parties undertake to cause the delivery of this Agreement and of any amendments hereto at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO, for the purposes and effects of article 118 of Law No. 6404/1976. Once the Agreement has been filed in their respective principal places of business, IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO shall (i) cause it to be registered for the purposes of article 118 of Law No. 6404/1976; and (ii) be required, by themselves and by their successors, on an irrevocable and irreversible manner, to strictly comply with all terms and conditions hereof.
-
-^^The Parties acknowledge and agree that the specific performance of this Agreement may not be sufficient and/or effective to fully remedy any damage caused as a result of the failure to comply with the obligation and, therefore, the Party(ies) damaged as a result of said non-compliance with any obligation may claim proper indemnity, including loss of profits.Any possible indemnity shall be claimed and ascertained as provided for in Section Nine.
-
-^^The rights and obligations arising out of this Agreement shall not be transferred or assigned, wholly or in part, except upon prior, express, written consent of ITAÚSA and [[FRMS]] FAMILY, or as otherwise expressly authorized by this Agreement, also subject to the provisions of Sections 4.17 and 4.18 above.
-
-^^Failure to exercise any right or option granted by this Agreement shall not be deemed to be novation or waiver, nor shall it exclude the exercise, at any time, of said right or option, subject to the legal provisions.
-
-^^Should any provision of this Agreement be deemed to be null, the other contractual provisions shall continue to be binding upon the Parties, which shall, in good faith, agree upon the replacement of the provisions so deemed to be null in order to reach, as much as possible, the intended objectives.
-
-^^This Agreement shall be governed and construed pursuant to the Laws of the Federative Republic of Brazil.
-
-^^The Parties represent that they did not enter into and undertake not to enter into, with any third parties that are not members of VILLELA FAMILY, SETUBAL FAMILY and [[FRMS]] FAMILY or companies fully controlled by any member of VILLELA FAMILY, SETUBAL FAMILY and [[FRMS]] FAMILY, any other shareholders agreement or any other instrument governing the exercise of voting right, control power or ownership rights arising out of the Shares and/or shares issued by ITAÚ UNIBANCO, except for the Shareholders Agreement entered into on [[Date 7]] by and between ITAÚSA and Bank of America Corporation.
-
-8.10.1. This Agreement, the By-laws and the Partnership Agreement comprise the total understanding between the Parties regarding their relationships as controlling shareholders of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby, and the aforementioned instruments shall prevail over any other prior covenants, promises, undertakings, agreements, communications, representations or guarantees, whether oral or written, provided or presumed by any of the Parties, including over the Original Shareholders Agreement dated [[Date 3]], which is expressly revoked as of the date hereof.
-
-8.10.2. This Agreement prevails over any other oral or written covenants, promises, undertakings, agreements made between the Parties and not submitted to BACEN for analysis.
-
-8.10.3. In the event of any divergence or contradiction among the By-laws, this Agreement and the Partnership Agreement, wherever the latter provides for matters that are the subject-matter of this Agreement, then the provisions set forth in the By-laws shall prevail. And in the event of any divergence or contradiction between this Agreement and the Partnership Agreement, the provisions hereof shall prevail. In the event of approval of any amendment to the By-laws which, due to any reason, is in conflict with the provisions of this Agreement, the Parties shall immediately enter into an amendment to this Agreement in such a manner to reflect herein the amendment to the By-laws.
-
-8.10.4. The Parties undertake not to cause any amendment to the By-laws which might result in loss of the control carried out by IUPAR over ITAÚ UNIBANCO.
-
-^^All notices, notifications or communications regarding this Agreement, as well as any communications involving the Parties and IUPAR, ITAÚ UNIBANCO, ITAÚ or UNIBANCO, shall be sent by means of a registered letter via courier or fax (with receipt acknowledgement) to their respective representatives, at the following addresses:
-
-If to the Parties:  
-ITAÚSA 
-Praça Alfredo Egydio de Souza Aranha, n° 100, Bloco Itaúsa, 10° andar
-
-CEP: 04344-902, 04344-902, São Paulo, SP
-
-Fax: 55 11 3472-1848 
-Attn: Alfredo Egydio Arruda Villela Filho
-
-With copy to (the addresses mentioned in Exhibit 1 and in Exhibit 2 shall be used):
-
-Maria de Lourdes Egydio Villela 
-Fax: 55 11 5019-8705  
-Alfredo Egydio Setubal 
-Fax: 55 11 5029-1999  
-Roberto Egydio Setubal: 
-Fax: 55 11 5019-2933  
-Paulo Setubal Neto: 
-Fax: 55 11 3179-7707  
-To each of the members of [[FRMS]] FAMILY:
-
-Avenida Eusébio Matoso, n° 891 – 22° andar
-
-CEP: 05423-901, São Paulo, SP 
-Fax: 55 11 3095-2868
-
-If to the Intervening Consenting Parties:
-
-IUPAR 
-Praça Alfredo Egydio de Souza Aranha, 100
-
-CEP: 04344-902, São Paulo, SP 
-Fax: 55 11 5029-1999 
-Attn: Alfredo Egydio Setubal<0}  
-ITAÚ UNIBANCO: 
-Praça Alfredo Egydio de Souza Aranha, n° 100, Torre Itaúsa,
-
-CEP: 04344-902, São Paulo, SP 
-Fax: 55 11 5019-2933 
-Attn: Roberto Egydio Setubal  
-ITAÚ: 
-Praça Alfredo Egydio de Souza Aranha, n° 100, Bloco Itaúsa, 10° andar
-
-CEP: 04344-902, São Paulo, SP 
-Fax: 55 11 5029-1999 
-Attn: Chief Executive Officer<0}  
-UNIBANCO: 
-Av. Eusébio Mattoso, 891 CEP: 05423-901, São Paulo, SP
-
-Fax: 55 11 5029-1999 
-Attn: Chief Executive Officer  
-If to the members of VILLELA FAMILY and SETUBAL FAMILY:
-
-The addresses shown in Exhibits 1 and 2 to this Agreement shall be used.
-
-8.11.1. Any notifications sent pursuant to the provisions of this Section 8.11 shall be deemed to have been delivered: at nine (9) o’clock in the morning of the business day immediately subsequent to the date of sending, if sent by fax, during or outside the business hours of the addressee; or (ii) at nine (9) o’clock in the morning of the third business day after sending, if sent by registered mail or courier.
-
-8.11.2. The signatories of this Agreement may change their respective addresses for the purposes of receiving notices, as set forth above, by sending a written notice to the Parties and to ITAÚSA and [[FRMS]] FAMILY.
-
-^^Should any member of VILLELA FAMILY or of SETUBAL FAMILY purchase, directly or indirectly, shares issued by IUPAR or common shares issued by ITAÚ UNIBANCO, then said member(s) shall begin to be deemed, for the purposes of this Agreement, together with ITAÚSA, as a sole Party, and all rights and obligations granted to ITAÚSA hereunder shall also begin to be granted to any such member(s), and said acquisitions shall be notified to BACEN pursuant to the applicable legislation and regulations.
-
-SETTLEMENT OF CONTROVERSIES  
-^^ITAÚSA and [[FRMS]] FAMILY undertake to settle, in a harmonic manner, by means of amicable negotiation, any controversy, dispute, divergence, litigation or demand (“Dispute”) which may arise between the Parties in relation to this Agreement, whether directly or indirectly, always taking into account the strict interest of IUPAR and ITAÚ UNIBANCO, as well as the principles of mutual cooperation, loyalty, good faith and faithfulness that shall govern the relationship among the Parties.
-
-^^Once a Dispute is characterized, by means of a Dispute notice (“Dispute Notice”) sent by one Party to the other pursuant to Section 8.11 above, the Parties shall, within sixty (60) days as of the receipt of said Dispute Notice, hold meetings for the purpose of negotiating a consensual resolution designed to bring any such Dispute to an end.
-
-^^If no consensual resolution is reached by the time that the term set forth in Section 9.2 elapses, then a mediation proceeding (“Mediation Proceeding”) shall be started immediately, without the need of notice from one Party to the other. Each of the Parties shall indicate, within thirty (30) days as of the beginning of the Mediation Proceeding, an external consultant who is an expert in the matter which is the subject-matter of the Dispute to aid in the attempt to reach a consensual resolution. The external consultants appointed by the Parties may request or contract the performance of internal or external analyses that they may think fit in order to help them reaching the consensual resolution. Likewise, they may hold as many meetings as may be needed, with or without representatives of the Parties, in order to reach a consensual resolution for the Dispute.
-
-^^Once the term of one hundred and twenty (120) days has elapsed since the beginning of the Mediation Proceeding, the external consultants shall mandatorily propose to the Parties a solution for the Dispute by means of a notice sent pursuant to Section 8.11. Then the Parties shall have fifteen (15) days to settle the Dispute.
-
-9.4.1. The term of one hundred and twenty (120) days set forth in Section 9.4 may be extended for other sixty (60) days as mutually decided by the external consultants appointed by the Parties, if they believe that the Parties may be able to reach a consensual resolution for the Dispute within said extension period, and such decision shall be notified to the Parties pursuant to Section 8.11 above.
-
-^^If a consensual resolution cannot be reached by the time the term set forth in Section 9.4 or 9.4.1 above, as the case may be, elapses, then the dispute shall be finally settled by means of arbitration (“Arbitration”) as provided for by Law No. 9307/1996, case in which either Party may request the implementation of the arbitration proceeding.
-
-^^The Arbitration shall be implemented and processed pursuant to the Rules of Conciliation and Arbitration of the Brazil-Canada Chamber of Commerce (“Chamber”) applicable at the time of the Arbitration.
-
-^^The Arbitration Tribunal shall be comprised of three (3) arbitrators. ITAÚSA shall be entitled to appoint an arbitrator and a deputy arbitrator, while [[FRMS]] FAMILY shall choose an arbitrator and a deputy arbitrator, in compliance with the terms set forth in the Chamber regulations. The arbitrators appointed by ITAÚSA and by [[FRMS]] FAMILY shall jointly choose, within thirty (30) days as of the appointment of the second arbitrator, a third arbitrator, who shall act as the president of the Arbitration Tribunal. Should ITAÚSA or [[FRMS]] FAMILY fail to appoint an arbitrator and/or a deputy arbitrator, then the President of the Chamber shall be in charge of any such appointment. Likewise, should the appointed arbitrators fail to reach an agreement in relation to the appointment of the third arbitrator, the President of the Chamber shall do so.
-
-9.7.1. The costs and expenses arising out of the performance of the Arbitration shall be shared in equal parts by the Parties, and each Party shall be liable for paying the fees of their respective attorneys.
-
-^^The Arbitration shall have its principal place of business in the City of São Paulo, State of São Paulo.
-
-^^The official language of the Arbitration shall be the Portuguese language, the applicable law shall be the Brazilian law, and the arbitrators shall be barred from deciding based on equity. The Arbitration shall be subject to strict confidentiality by the Parties and the arbitrators.
-
-^^Once the Arbitration Tribunal is implemented, it shall be incumbent upon it to settle all issues arising out of or related to the subject-matter of the claim, including those of an incidental, provisional or coercitive nature.
-
-^^Notwithstanding the provisions above, each Party shall continue to be entitled to resort to the Judiciary to petition for granting of a preliminary injunction or a provisional remedy as required for the sole use by the Arbitration.
-
-9.11.1. Any court orders granted pursuant to Section 9.11, before or after the beginning of the Arbitration, shall not be deemed to be incompatible with the provisions of Section Nine, nor shall they imply waiver of the arbitration tribunal.
-
-9.11.2. For the purposes of this Section 9.11, the parties elect the courts of the City of São Paulo, State of São Paulo and waive any other courts, however privileged they may be.
-
-^^In addition to the authority vested thereupon by the rules of the Chamber, the arbitration tribunal shall have the authority to request preliminary injunctions or provisional remedies whenever it may think fit and fair.
-
-^^The arbitration award shall be handed down in writing, including the grounds therefor, and shall be finally binding upon the parties and enforceable pursuant to its terms.
-
-IN WITNESS WHEREOF, the parties execute this instrument in seven (7) identical counterparts for a sole effect, together with the witnesses below.
-
-São Paulo, [[Date 5]].
-
-Parties:  
-
-FERNANDO ROBERTO      WALTHER MOREIRA
-[[FRMS]]      SALLES JÚNIOR
-
-PEDRO [[FRMS]]      JOÃO [[FRMS]]
-
-INVESTIMENTOS ITAÚ S.A.
-
-Continuation of the Signature Page of the Shareholders Agreement of IUPAR – Itaú Unibanco Participações S.A. and Itaú Unibanco Banco Múltiplo S.A. dated [[Date 5]].
-
-Parties and/or Intervening Consenting Parties:
-
-ITAÚ UNIBANCO BANCO MÚLTIPLO S.A.      IUPAR – ITAÚ UNIBANCO PARTICIPAÇÕES S.A
-
-BANCO ITAÚ S.A.
-
-Intervening Consenting Party:   
-UNIBANCO - - UNIÃO DE BANCOS BRASILEIROS S.A.
-
-Witnesses:  
-^2.
-Name:      Name:
-Taxpayer No. (CPF):      Taxpayer No. (CPF):
-ID Card (RG) No.:      ID Card (RG) No.:
-
-EXHIBIT 1 
-LIST OF THE MEMBERS OF VILLELA FAMILY  
-MARIA DE LOURDES EGYDIO VILLELA, Brazilian, divorced, psychologist, holder of the Identity Card (RG-SSP/SP) No. 2.497.608-8 and enrolled with the Individual Taxpayers Register (CPF) under No. 007.446.978-91, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha, No. 100, Itaúsa Tower, Terrace Floor.
-
-ALFREDO EGYDIO ARRUDA VILLELA FILHO, Brazilian, married, engineer, holder of the Identity Card (RG-SSP/SP) No. 11.759.083-6 and enrolled with the CPF under No. 066.530.838-88, domiciled in the City of São Paulo, State of São Paulo, at Rua Sansão Alves dos Santos No. 102 – 5th floor.
-
-ANA LÚCIA DE MATTOS BARRETTO VILLELA, Brazilian, married, educationalist, holder of the Identity Card (RG-SSP/SP) No. 13.861.521 and enrolled with the CPF under No. 066.530.828-06, domiciled in the City of São Paulo, State of São Paulo, at Rua Sansão Alves dos Santos No. 102 – 4th floor.
-
-RICARDO VILLELA MARINO, Brazilian, married, engineer, holder of the Identity Card (RG-SSP/SP) No. 15.111.115-7 and enrolled with the CPF under No. 252.398.288-90, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, Alfredo Egydio Tower, 12th floor.
-
-RODOLFO VILLELA MARINO, Brazilian, married, business administrator, holder of the Identity Card (RG-SSP/SP) No. 15.111.116-9 and enrolled with the CPF under No. 271.943.018-81, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100, Itaúsa Tower, Terrace Floor.
-
-EXHIBIT 2 
-LIST OF THE MEMBERS OF SETUBAL FAMILY  
-PAULO SETUBAL NETO, Brazilian, married, engineer, holder of the Identity Card (RG-SSP/SP) No. 4.112.751-1 and enrolled with the CPF under No. 638.097.888-72, domiciled in the City of São Paulo, State of São Paulo, at Avenida Paulista No. 1938 – 5th floor.
-
-MARIA ALICE SETUBAL, Brazilian, divorced, sociologist, holder of the Identity Card (RG-SSP/SP) No. 4.565.033-0 and enrolled with the CPF under No. 570.405.408-00, domiciled in the City of São Paulo, State of São Paulo, at Rua Dante Carraro No. 68.
-
-OLAVO EGYDIO SETUBAL JÚNIOR, Brazilian, married, business administrator, holder of the Identity Card (RG-SSP/SP) No. 4.523.271 and enrolled with the CPF under No. 006.447.048-29, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100 - Itauseg Tower – 12th floor.
-
-ROBERTO EGYDIO SETUBAL, Brazilian, married, engineer, holder of the Identity Card (RG-SSP/SP) No. 4.548.549 and enrolled with the CPF under No. 007.738.228-52, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100 – Itaúsa Tower – 10th floor .
-
-JOSÉ LUIZ EGYDIO SETUBAL, Brazilian, married, physician, holder of the Identity Card (RG-SSP/SP) No. 4.576.680 and enrolled with the CPF under No. 011.785.508-18, domiciled in the City of São Paulo, State of São Paulo, at Rua Mato Grosso No. 306 – suite 209.
-
-ALFREDO EGYDIO SETUBAL, Brazilian, married, business administrator, holder of the Identity Card (RG-SSP/SP) No. 6.045.777-6 and enrolled with the CPF under No. 014.414.218-07, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100 – Eudoro Villela Tower – 13th floor.
-
-RICARDO EGYDIO SETUBAL, Brazilian, married, attorney, holder of the Identity Card (RG-SSP/SP) No. 10.359.999 and enrolled with the CPF under No. 033.033.518-99, domiciled in the City of São Paulo, State of São Paulo, at Avenida Paulista No. 1938 – 5th floor.
-
-ESTATE OF OLAVO EGYDIO SETUBAL, Brazilian, married, engineer, domiciled in the City of São Paulo, State of São Paulo, holder of the Identity Card (RG-SSP/SP) No. 505.516 and enrolled with the CPF under No. 007.773.588-91, domiciled in the City of São Paulo, State of São Paulo, at Avenida Higienópolis No. 403, 1st floor, dead on [[Date 9: Date]], herein represented by his provisional administrator, ALFREDO EGYDIO SETUBAL, Brazilian, married, business administrator, domiciled in the City of São Paulo, State of São Paulo, at Praça Alfredo Egydio de Souza Aranha No. 100 – Eudoro Villela Tower – 13th floor, holder of the Identity Card (RG-SSP/SP) No. 6.045.777-6 and enrolled with the CPF under No. 014.414.218-07.
-
-EXHIBIT 3  
-FORM OF ADHESION INSTRUMENT TO THE SHAREHOLDERS AGREEMENT OF IUPAR - ITAÚ UNIBANCO PARTICIPAÇÕES S.AAND ITAÚ UNIBANCO BANCO MÚLTIPLO S.A.- INDIVIDUALS
-
-Adhesion Instrument, ...............................By this Adhesion Instrument, ................................ (“Adherer”)
-
-WHEREAS, on the date hereof, ITAÚSA - INVESTIMENTOS ITAÚ S.A. (“ITAÚSA”), on the one part, and Messrs. Fernando Roberto [[FRMS]], Walther [[FRMS]] Júnior, Pedro [[FRMS]] and João [[FRMS]] (hereinafter jointly referred to as “[[FRMS]] FAMILY”) on the other part, entered into the Shareholders Agreement of IUPAR - Itaú Unibanco Participações S.A. and Itaú Unibanco Banco Múltiplo S.A. (“Agreement”), which shall be filed at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO;
-
-WHEREAS the Agreement governs the manner in which SETUBAL FAMILY and VILLELA FAMILY, by means of ITAÚSA, on the one part, and [[FRMS]] FAMILY, whether directly or by means of a holding company to be especially organized, on the other part, shall exercise, fully and jointly, the rights of partners ensuring them, on a definite basis, the control of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby; and
-
-WHEREAS the Agreement sets forth that the members of VILLELA FAMILY and SETUBAL FAMILY adhere to the provisions agreed upon therein by means of their signature on the Adhesion Instrument,
-
-NOW, THEREFORE, by entering into this Adhesion Instrument and on the best terms of the law, the Adherer expressly decides to adhere and to become an integrant part to this Agreement, of which the Adherer receives a copy, and represents to be aware and to agree with all terms therein, including but not limited to the rights and obligations related to ITAÚSA, undertaking all rights and obligations arising out of it as applicable and causing ITAÚSA to comply with the Agreement. The Adherer represents that the Agreement, the By-laws and the Partnership Agreement express the total understandings between the Parties, VILLELA FAMILY and SETUBAL FAMILY regarding their relationship as controlling shareholders of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby, which prevail over any other prior covenants, promises, undertakings, agreements, communications, representations or guarantees, whether oral or written, provided or presumed by any of the Parties, by VILLELA FAMILY and by SETUBAL FAMILY, including in relation to the Original Shareholders Agreement dated [[Date 3]], which was expressly revoked by the execution of the Agreement, as well as in relation to any other oral or written covenants, promises, undertakings, agreements made among the Parties and not submitted to BACEN for analysis. The Adherer hereby acknowledges, represents and guarantees to be an indirect controlling shareholder of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby and, in such capacity, to be jointly liable for the compliance with the obligations undertaken by ITAÚSA in the Agreement, and that the Adherer shall be jointly liable, together with the aforementioned companies and their respective managers and other controlling shareholders, in the cases and as provided for by the legislation that governs the Brazilian financial system. Capitalized or all capitalized terms used in this Instrument shall have the meaning ascribed thereto in the Agreement, unless as otherwise expressly provided for hereunder.
-
-IN WITNESS WHEREOF, this Adhesion Instrument becomes an integrant part of the aforementioned Agreement and shall be filed at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO, for the purposes and effects of article 118 of Law No. 6404/1976.
-
-São Paulo, [[Date 5]].   
-ADHERER    
-EXHIBIT 4  
-FORM OF ADHESION INSTRUMENT TO THE SHAREHOLDERS AGREEMENT OF IUPAR - ITAÚ UNIBANCO PARTICIPAÇÕES S.A AND ITAÚ UNIBANCO BANCO MÚLTIPLO S.A.– ESTATE
-
-Adhesion Instrument, ...............................By this Adhesion Instrument, ................................(“Adherer”);
-
-WHEREAS, on the date hereof, ITAÚSA - INVESTIMENTOS ITAÚ S.A. (“ITAÚSA”), on the one part, and Messrs. Fernando Roberto [[FRMS]], Walther [[FRMS]] Júnior, Pedro [[FRMS]] and João [[FRMS]] (hereinafter jointly referred to as “[[FRMS]] FAMILY”) on the other part, entered into the Shareholders Agreement of IUPAR - Itaú Unibanco Participações S.A. and Itaú Unibanco Banco Múltiplo S.A. (“Agreement”), which shall be filed at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO;
-
-WHEREAS the Agreement governs the manner in which SETUBAL FAMILY and VILLELA FAMILY, by means of ITAÚSA, on the one part, and [[FRMS]] FAMILY, whether directly or by means of a holding company to be especially organized, on the other part, shall exercise, fully and jointly, the rights of partners ensuring them, on a definite basis, the control of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby; and
-
-WHEREAS the Agreement sets forth that the members of VILLELA FAMILY and SETUBAL FAMILY adhere to the provisions agreed upon therein by means of their signature on the Adhesion Instrument,
-
-NOW, THEREFORE, by entering into this Adhesion Instrument and on the best terms of the law, the Adherer expressly decides to adhere and to become an integrant part to this Agreement in the capacity of Intervening Consenting Party, of which the Adherer receives a copy, and represents to be aware and to agree with all terms therein, including but not limited to the rights and obligations related to ITAÚSA, undertaking all rights and obligations arising out of it as applicable and causing ITAÚSA to comply with the Agreement.
-
-The Adherer represents that the Agreement, the By-laws and the Partnership Agreement express the total understandings between the Parties, VILLELA FAMILY and SETUBAL FAMILY regarding their relationship as controlling shareholders of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby, which prevail over any other prior covenants, promises, undertakings, agreements, communications, representations or guarantees, whether oral or written, provided or presumed by any of the Parties, by VILLELA FAMILY and by SETUBAL FAMILY, including in relation to the Original Shareholders Agreement dated [[Date 3]], which was expressly revoked by the execution of the Agreement, as well as in relation to any other oral or written covenants, promises, undertakings, agreements made among the Parties and not submitted to BACEN for analysis
-
-The Adherer hereby acknowledges, represents and guarantees to be an indirect controlling shareholder of IUPAR, ITAÚ UNIBANCO, ITAÚ, UNIBANCO and the other companies controlled thereby and, in such capacity, to be jointly liable for the compliance with the obligations undertaken by ITAÚSA in the Agreement, and that the Adherer shall be jointly liable, together with the aforementioned companies and their respective managers and other controlling shareholders, in the cases and as provided for by the legislation that governs the Brazilian financial system. Capitalized or all capitalized terms used in this Instrument shall have the meaning ascribed thereto in the Agreement, unless as otherwise expressly provided for hereunder.
-
-IN WITNESS WHEREOF, this Adhesion Instrument becomes an integrant part of the aforementioned Agreement and shall be filed at the principal places of business of IUPAR, ITAÚ UNIBANCO, ITAÚ and UNIBANCO, for the purposes and effects of article 118 of Law No. 6404/1976.
-
-São Paulo, [[Date 5]]   
-ADHERER
+\centered [*Signature page to Shareholders Agreement*]
