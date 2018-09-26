@@ -1,0 +1,37 @@
+\centered **SUBSCRIPTION AGREEMENT**
+
+GOLDEN FORK CORPORATION 
+^Hermitage Way, Meadowridge 
+Constantia, 7806 Western Cape, RSA  
+Dear Sirs/Madams:  
+
+Concurrent with execution of this Agreement, the undersigned (the “Purchaser”) is purchasing __________________________________________________ (__________) shares of Common Stock of GOLDEN FORK CORPORATION (the “Company”) at a price of $[[USD Value 1: Number]] per share (the “Subscription Price”).
+
+Purchaser hereby confirms the subscription for and purchase of said number of shares and hereby agrees to pay herewith the Subscription Price for such Shares.
+
+Purchaser further confirms that Mrs. Alida Heyer solicited him/her/it to purchase the shares of Common Stock of the Company and no other person participated in such solicitation other than Mrs. Heyer.
+
+
+
+Executed this _____ day of ___________________, 2010.
+
+Signature of Purchaser
+
+Address of Purchaser
+
+Printed Name of Purchaser
+ID #
+
+\centered **PLEASE ENSURE FUNDS ARE IN US DOLLARS**
+
+^$[[USD Value 1]]   \centered **=**   **US$**
+Number of Shares Purchased            Total Subscription Price
+
+Form of Payment:   Cash:___________   Check #: _______________   Other: _________________
+
+
+
+[[Form of Payment   Cash   Check #    Other Signatory Email: Identity | Signature]]
+__________________________________________
+{{Form of Payment   Cash   Check #    Other Entity => By: [[Form of Payment   Cash   Check #    Other Signatory First Name]] [[Form of Payment   Cash   Check #    Other Signatory Last Name]]
+Title: [[Form of Payment   Cash   Check #    Other Signatory Title]]}}

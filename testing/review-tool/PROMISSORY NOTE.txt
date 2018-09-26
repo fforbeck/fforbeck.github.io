@@ -1,0 +1,195 @@
+\centered **PROMISSORY NOTE** 
+
+$[[USD Value 1: Number]]      [[Date 1: Date]]
+
+**FOR VALUE RECEIVED**, the undersigned, **IIT ATLANTA  SUWANEE POINTE LLC**, a Delaware limited liability company (“***Maker***”), hereby promises to pay to the order of **ING USA ANNUITY AND LIFE INSURANCE COMPANY**, an Iowa corporation, or any subsequent holder hereof (“***Payee***”), at the office of Payee, c/o ING Investment Management LLC, 5780 Powers Ferry Road, NW, Suite 300, Atlanta, Georgia 30327-4349, or at such other place as Payee may from time to time designate in writing, the principal sum of SEVEN MILLION SEVEN HUNDRED FIFTY THOUSAND AND NO/100 DOLLARS ($[[USD Value 1]]) and interest thereon from and after the date of disbursement hereunder at four and ninety one-hundredths percent ([[Percentage 1: Number]]%) per annum (“***Note Rate***”), both principal and interest to be paid in lawful money of the United States of America, as follows: 
+
+Equal payments of principal and interest shall be made in successive monthly installments commencing on [[Date 2: Date]], and continuing on the first day of each and every calendar month thereafter up to and including [[Date 3: Date]] (the “***Maturity Date***”) or, upon exercise of Payee’s right under the following paragraph, the Call Date (as hereinafter defined) as to which Payee has exercised its right, all but the final installment thereof to be in the amount of Forty-One Thousand One Hundred Thirty-One and 32/100 Dollars ($[[USD Value 2: Number]]), and the final installment payable on the Maturity Date, or, if earlier, the exercised Call Date to be in the full amount of outstanding principal of this Promissory Note (this “***Note***”), interest and all other sums remaining unpaid hereunder and under the Mortgage (as hereinafter defined). 
+
+Notwithstanding any provisions of this Note to the contrary, the Payee reserves the right (the ***“Call Option”***) to declare the entire amount of outstanding principal of this Note, interest and all other sums remaining unpaid hereunder and under the Mortgage to be due and payable on any of the following dates (each referred to as a “***Call Date***,” and collectively the “***Call Dates***”): 
+
+^^^[[Date 4: Date]]; and 
+
+^^^[[Date 5: Date]]. 
+
+Such right shall be exercised by Payee, in its sole and absolute discretion, by giving written notice to Maker at least three (3) months prior to the Call Date as to which Payee is electing, which notice shall refer to this Note and state the Call Date elected by Payee. The exercise of such right by Payee shall not relieve Maker of its obligation to make scheduled payments hereunder, or to pay any other sums due and owing hereunder, between the date of such notice and the elected Call Date. The exercise of such right by Payee will result in the original 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+principal amount of this Note not having been fully amortized by the payment of the monthly installments hereunder prior to the exercised Call Date, and Maker shall be obligated to make a payment of the entire amount of outstanding principal of this Note and interest and all other sums remaining unpaid hereunder and under the Mortgage on the Call Date. 
+
+All payments on account of the Indebtedness (as hereinafter defined) shall be applied: (i) first, to further advances, if any, made by the Payee as provided in the Loan Documents (as hereinafter defined); (ii) next, to any Late Charge (as hereinafter defined); (iii) next, to interest at the Default Rate (as hereinafter defined), if applicable; (iv) next, to the Prepayment Premium (as hereinafter defined), if applicable; (v) next, to interest at the Note Rate on the unpaid principal balance of this Note unless interest at the Default Rate is applicable; and (vi) last, to reduce the unpaid principal balance of this Note. Interest shall be calculated on the basis of a year consisting of 360 days and with twelve thirty-day months, except that interest due and payable for less than a full month shall be calculated by multiplying the actual number of days elapsed in such period by a daily interest rate based on a 360-day year. As used herein, the term “***Indebtedness***” shall mean the aggregate of the unpaid principal amount of this Note, accrued interest, all Late Charges, any Prepayment Premium, and advances made by Payee under the Loan Documents. 
+
+In the event any installment of principal or interest due hereunder (other than any installment due on the Maturity Date or acceleration), or any escrow fund payment for real estate taxes, assessments, other similar charges or insurance premiums due under the Mortgage shall be more than ten (10) days overdue, Maker shall pay to the holder hereof a late charge (“***Late Charge***”) of four cents ($.04) for each dollar so overdue or, if less, the maximum amount permitted under applicable law, in order to defray part of the cost of collection and of handling delinquent payments. 
+
+The terms of this Note are expressly limited so that in no event whatsoever shall the amount paid or agreed to be paid to the Payee exceed the highest lawful rate of interest permissible under applicable law. If, from any circumstances whatsoever, fulfillment of any provision hereof or any other documents securing the Indebtedness at the time performance of such provision shall be due, shall involve the payment of interest exceeding the highest rate of interest permitted by law which a court of competent jurisdiction may deem applicable hereto, then, ipso facto, the obligation to be fulfilled shall be reduced to the highest lawful rate of interest permissible under applicable law; and if for any reason whatsoever Payee shall ever receive as interest an amount which would be deemed unlawful, such interest shall be applied to the payment of the last maturing installment or installments of the principal portion of the Indebtedness (whether or not then due and payable) and not to the payment of interest. 
+
+Payment of this Note is secured by a Deed to Secure Debt and Security Agreement (the “***Mortgage***”) dated on or about this same date by Maker, as grantor, for the benefit of Payee, as grantee, encumbering certain real estate and other property interests situated in Gwinnett County, Georgia and more particularly described in the Mortgage (the “***Premises***”). This Note, the Mortgage and all other instruments now or hereafter evidencing, securing or guarantying the loan evidenced hereby are sometimes collectively referred to as the “***Loan Documents***”. The Mortgage contains “due on sale or further encumbrance” provisions which, together with all other terms of the Mortgage, are incorporated herein by this reference. 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+Except as expressly stated in this Note, there shall be no right to prepay the principal portion of the Indebtedness. Maker reserves, however, the privilege to prepay, in full but not in part, the principal portion of the Indebtedness on [[Date 6: Date]] (the “***Lockout Period***”) or at any time thereafter, upon sixty (60) days prior written notice to the Payee (provided that such notice may be revoked by Maker by delivery of written notice to Payee at any time prior to the installment payment date on which the prepayment is scheduled), and payment of a premium (the “***Prepayment Premium***”) equal to (except as otherwise hereinafter provided) the greater of: 
+
+^^^an amount (the “***Treasury Obligation Amount***”) equal to the sum (the ***“Yield Maintenance Calculation”***) of (a) the present value of the scheduled monthly installments on this Note from the date of prepayment to the Maturity Date or, if earlier, the next applicable Call Date, and (b) the present value of the amount of principal and interest due on the Maturity Date or, if earlier, the next applicable Call Date (assuming all scheduled monthly installments due prior thereto were made when due) minus (c) the outstanding principal balance of this Note as of the date of prepayment. The present values described in clauses (a) and (b) shall be computed on a monthly basis as of the date of prepayment, discounted at the yield of the U.S. Treasury obligation closest in maturity to the Maturity Date or, if earlier, the next applicable Call Date, as published in the Federal Reserve Statistical Release H.15 (519) Selected Interest Rates listed under the U.S. Governmental Securities, Treasury Constant Maturities (“***Treasury Rate***”) plus fifty (50) basis points. The Treasury Rate so used shall be the “Week Ending” yield for the week immediately preceding the date of such prepayment. If no Treasury Constant Maturities are published for the specific length of time from the date of prepayment of this Note to the Maturity Date or to the next applicable Call Date, whichever is next to occur, the Treasury Rate that shall be used shall be computed based on a linearly interpolated interest rate yield between the two Treasury Constant Maturities that (i) most closely correspond with the Maturity Date, or the next applicable Call Date, whichever is next to occur, as of the date of such prepayment and (ii) bracket in time such Maturity Date, or the next applicable Call Date, one being before the Maturity Date, or the next applicable Call Date, and the other being after the Maturity Date, or the next applicable Call Date. If for any reason the above Treasury Rate is no longer published in the Federal Reserve Statistical Release H.15 (519) Selected Interest Rates, the Treasury Rate shall be based on the yields reported in another publication of comparable reliability and institutional acceptance as selected by the Payee in its sole and absolute discretion which most closely approximates yields in percent per annum of actively traded U.S. Treasuries of varying maturities. The Treasury Obligation Amount is intended to be that amount which, together with the amount prepaid, shall be sufficient to enable Payee to invest in a U.S. Treasury obligation for the remaining term of this Note to provide the same effective yield on the amount paid from the date of prepayment to the Maturity Date or, if earlier, the next applicable Call Date (such yield being reduced by the effect of adding fifty (50) additional basis points to the yield of U.S. Treasury obligations used for the purpose of the discount factors hereinbefore provided) as would have been the yield on such amount under this Note if such amount had not been prepaid; or 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+^^^one percent ([[Percentage 2: Number]]%) of the outstanding principal balance of this Note as of the prepayment date. 
+
+Except as provided in the next two (2) sentences, in no event shall the amount prepaid be less than the total amount of the then outstanding principal and accrued and unpaid interest thereon plus one percent ([[Percentage 3: Number]]%) of the then outstanding principal. Notwithstanding the Lockout Period, in the event of acceleration of this Note at any time and subsequent involuntary or voluntary prepayment (even if during the period in which no prepayment is permitted), the Prepayment Premium shall be payable except for (a) a prepayment which results from application of proceeds from insured damage, condemnation or other taking of the Premises when no Event of Default (as hereinafter defined) exists; or (b) any prepayment which is made within ninety (90) days prior to the Maturity Date or a Call Date (regardless of whether Payee has exercised its Call Option), then no Prepayment Premium shall be due. In the event the Prepayment Premium was ever construed by a court having jurisdiction thereof to be an interest payment, the Prepayment Premium shall not exceed an amount equal to the excess, if any, of (i) interest calculated at the highest rate permitted by applicable law, as construed by courts having jurisdiction thereof, on the principal balance of this Note from time to time outstanding from the date thereof to the date of such payment, less (ii) interest theretofore paid on this Note. The Lockout Period shall not apply to a partial prepayment of principal of this Note resulting from the application of proceeds from casualty or condemnation of the Premises or any portion thereof. 
+
+In the event Payee applies any insurance proceeds or condemnation proceeds to the reduction of the principal portion of the Indebtedness in accordance with the terms of the Mortgage, then no Prepayment Premium shall be due or payable as a result of such application and the monthly installments due and payable hereunder thereafter shall be modified to amortize the principal portion of the Indebtedness remaining unpaid after such application over the remaining term of the amortization period then in effect, provided a datedown title insurance endorsement satisfactory to Payee is issued with respect to the mortgagee title insurance policies in favor of Payee with respect to the Premises. 
+
+If the maturity of the Indebtedness is accelerated by Payee as a consequence of the occurrence of an Event of Default at any time during this Lockout Period or at any other time a Prepayment Premium would otherwise be due, the Maker agrees that an amount equal to the Prepayment Premium (determined as if prepayment were made on the date of acceleration) shall be added to the balance of unpaid principal and interest then outstanding, and that the Indebtedness shall not be discharged except: (i) by payment of such Prepayment Premium, together with the balance of principal and interest and all other sums then outstanding, if the Maker tenders payment of the Indebtedness prior to completion of a non-judicial foreclosure sale (if applicable in the State of Georgia), judicial order or judgment of foreclosure sale; or (ii) by inclusion of such Prepayment Premium as a part of the Indebtedness in any such completion of a non-judicial foreclosure sale (if applicable in the State of Georgia), judicial order or judgment of foreclosure. 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+It is hereby expressly agreed by Maker that time is of the essence in the performance of this Note and that each of the following occurrences shall constitute a default (“***Event of Default***”) under this Note: 
+
+^^The failure of the Maker to: 
+
+^^make any payment of principal or interest under this Note within ten (10) days after the same shall fall due, or 
+
+^^comply with any of the other terms of this Note within thirty (30) days after written notice of such failure has been given by Payee to Maker or within such longer period of time, not to exceed an additional sixty (60) days, as may be reasonably necessary to cure such non-compliance if Maker is diligently and with continuity of effort pursuing such cure and the failure is susceptible of cure within such additional sixty-day period. 
+
+^^^The failure of Maker to make payment of any amount due the Payee under any Loan Document other than this Note, on the date the same shall fall due (including any applicable grace period). 
+
+^^^The occurrence of any breach, default, event of default or failure of performance (however denominated) under any Loan Document other than this Note, and the expiration of any applicable cure period without the same having been cured. 
+
+From and after the date of the occurrence of any Event of Default and continuing until such Event of Default is fully cured (if Maker is entitled under this Note to cure such default) or until this Note is paid in full, the Maker promises to pay interest on the principal balance of this Note then outstanding at the rate (the “***Default Rate***”) equal to the Note Rate plus five percentage points ([[Percentage 4: Number]]%) per annum or, if less, the maximum rate permitted under applicable law. Interest at the Default Rate shall accrue on the amount of any judgment rendered hereon or in connection with any foreclosure of the Mortgage. The Maker agrees that such additional interest which has accrued shall be paid at the time of and as a condition precedent to the curing of such Event of Default. During the existence of any such Event of Default Payee may apply payments received on any amounts due hereunder or under the terms of any of the Loan Documents as Payee shall determine. 
+
+Payee shall have the following rights, powers, privileges, options and remedies whenever any Event of Default shall occur under this Note: 
+
+^^^To foreclose, or exercise any power of sale under, the Mortgage. 
+
+^^^To accelerate the maturity of the Indebtedness and declare the entire unpaid principal balance of, and any unpaid interest then accrued on, this Note, together with any Prepayment Premium, without demand or notice of any kind to the Maker or any other person, to be immediately due and payable. 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+^^^To exercise any and all rights, powers, privileges, options and remedies available at law or in equity and as provided in any of the Loan Documents. 
+
+Upon the occurrence of an Event of Default, the Maker expressly agrees to pay all costs of collection and enforcement of every kind, including without limitation, all reasonable attorneys’ fees and expenses actually incurred, court costs, costs of title evidence and insurance, inspection and appraisal costs and expenses of every kind incurred by Payee in connection with the protection or realization of any or all of the security for this Note, whether or not any lawsuit is filed with respect thereto. The occurrence of an Event of Default under this Note shall constitute a default under each and all of the other Loan Documents. 
+
+The rights, powers, privileges, options and remedies of Payee, as provided in this Note, in any of the Loan Documents, or otherwise available at law or in equity shall be cumulative and concurrent, and may be pursued singly, successively or together at the sole discretion of Payee, and may be exercised as often as occasion therefor shall occur. No delay or discontinuance in the exercise of any right, power, privilege, option or remedy hereunder shall be deemed a waiver of such right, power, privilege, option or remedy, nor shall the exercise of any right, power, privilege, option or remedy be deemed an election of remedies or a waiver of any other right, power, privilege, option or remedy. Without limiting the generality of the foregoing, the failure of the Payee after the occurrence of any Event of Default to exercise Payee’s right to declare the Indebtedness remaining unmatured hereunder to be immediately due and payable shall not constitute a waiver of such right in connection with any future Event of Default. Acceleration of maturity, once elected by Payee, may be, in Payee’s sole and absolute discretion rescinded by Payee’s written acknowledgment to that effect, but without limiting the foregoing the tender and acceptance of partial payment or partial performance shall not, by itself, in any way affect or rescind such acceleration. 
+
+Maker waives presentment for payment, demand, notice of nonpayment, notice of dishonor, protest of any dishonor, notice of protest, notice of intent to accelerate, notice of acceleration of maturity, and all other notices in connection with the delivery, acceptance, performance, default or enforcement of the payment of this Note, except as otherwise provided herein or in the other Loan Documents, and agrees that if more than one the liability of each of them hereunder shall be joint, several and unconditional without regard to the liability of any other party and shall not be in any manner affected by any indulgence, extension of time, renewal, waiver or modification granted or consented to by Payee; and Maker consents to any and all extensions of time, renewals, waivers or modifications that may be granted by Payee with respect to the payment or other provisions of this Note, and to the release of any collateral given to secure the payment hereof, or any part thereof, with or without substitution, and agrees that additional makers or guarantors may become parties hereto without notice to any of them or affecting any of their liability hereunder. 
+
+Payee shall not by any acts of omission or commission be deemed to have waived any rights or remedies hereunder unless such waiver is in writing and signed by Payee, and then only to the extent specifically set forth therein; a waiver in respect of one event shall not be construed as continuing or as a bar to the exercise or waiver of such right or remedy in respect of a subsequent event. 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+All notices, demands, requests, and other communications desired or required to be given hereunder (“***Notices***”) shall be in writing and shall be given by: (i) hand delivery to the address for Notices; (ii) delivery by overnight courier service to the address for Notices; or (iii) sending the same by United States mail, postage prepaid, certified mail, return receipt requested, addressed to the address for Notices. 
+
+All Notices shall be deemed given and effective upon the earliest to occur of: (x) the hand delivery of such Notice to the address for Notices; (y) one business day after the deposit of such Notice with an overnight courier service by the time deadline for next day delivery addressed to the address for Notices; or (z) three business days after depositing the Notice in the United States mail as set forth in (iii) above. All Notices shall be addressed to the following addresses: 
+
+Maker:      IIT Atlanta  Suwanee Pointe LLC  c/o Industrial Income Trust Inc.  518 17th Street, Suite 1700  Denver, Colorado 80202  Attention: Ms. Lainie P. Minnick
+
+With a copy to:      Holme Roberts & Owen LLP  1700 Lincoln Street, Suite 4100  Denver, Colorado 80203  Attention: Robert H. Bach, Esq.
+
+Payee:      ING USA Annuity and Life Insurance Company  c/o ING Investment Management LLC  5780 Powers Ferry Road, NW, Suite 300  Atlanta, Georgia 30327-4349  Attention: Mortgage Loan Servicing Department
+
+and
+
+ING Investment Management LLC  5780 Powers Ferry Road, NW, Suite 300  Atlanta, Georgia 30327-4349  Attention: Real Estate Law Department
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+With a copy to:      Bryan Cave LLP  One Atlantic Center  Fourteenth Floor  1201 West Peachtree Street, NW  Atlanta, Georgia 30309-3488  Attention: John R. Parks, Esq.
+
+or to such other persons or at such other place as any party hereto may by Notice designate as a place for service of Notice. Provided, that the “copy to” Notice to be given as set forth above is a courtesy copy only; and a Notice given to such person is not sufficient to effect giving a Notice to the principal party, nor does a failure to give such a courtesy copy of a Notice constitute a failure to give Notice to the principal party. 
+
+This Note shall be governed by and construed in accordance with the laws (excluding conflicts of laws rules) of the State of Georgia. Time is of the essence in this Note. 
+
+Subject to the terms of the next succeeding paragraph and notwithstanding anything to the contrary otherwise contained in this Note, but without in any way releasing, impairing or otherwise affecting this Note or any of the other Loan Documents (including without limitation any guaranties or indemnification agreements), or the validity hereof or thereof, or the lien of the Mortgage, it is agreed that Payee’s source of satisfaction of the Indebtedness and Maker’s other obligations hereunder and under the Loan Documents is limited to (a) the Premises and proceeds thereof, (b) rents, income, issues, proceeds and profits arising out of the Premises, and (c) any separate guaranty or indemnification agreements guarantying or indemnifying Payee with respect to the payment of any amounts due hereunder and under the Loan Documents and/or Maker’s performance hereunder and under the Loan Documents; provided, however, that nothing herein contained shall be deemed to be a release or impairment of said Indebtedness or the security therefor intended by the Mortgage, or be deemed to preclude Payee from foreclosing the Mortgage or from enforcing any of Payee’s rights or remedies in law or in equity thereunder, or in any way or manner affecting Payee’s rights and privileges under any of the Loan Documents or any separate guaranty or indemnification agreements guarantying Maker’s payment and/or performance hereunder and/or under the Loan Documents. 
+
+**NOTWITHSTANDING THE FOREGOING LIMITATION OF LIABILITY PROVISION, OR ANYTHING IN THIS NOTE TO THE CONTRARY, MAKER SHALL PAY, AND THERE SHALL AT NO TIME BE ANY LIMITATION ON MAKER’S PERSONAL LIABILITY FOR THE PAYMENT TO PAYEE OF:** 
+
+^^^the application of rents, security deposits, or other income, issues, profits, and revenues derived from the Premises after the occurrence of an Event of Default to anything other than (a) normal and necessary operating expenses of the Premises or (b) the Indebtedness evidenced by this Note. It is understood that any rents collected more than one month in advance as of the time of the Event of Default shall be considered to have been collected after the Event of Default; 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+^^^any loss, cost or damages actually incurred by Payee arising out of or in connection with fraud or material misrepresentations to Payee by Maker (or by any of its general partners, officers, shareholders, members, or their employees, if applicable); 
+
+^^^any loss, cost or damages actually incurred by Payee arising out of or in connection with Maker’s use or misapplication of (a) any proceeds paid under any insurance policies by reason of damage, loss or destruction to any portion of the Premises, or (b) proceeds or awards resulting from the condemnation or other taking in lieu of condemnation of any portion of the Premises, for purposes other than those set forth in the Mortgage; 
+
+^^^any loss, cost or damages actually incurred by Payee arising out of or in connection with any waste of the Premises or any portion thereof and all reasonable costs incurred by Payee in order to protect the Premises (for purposes of this subparagraph, the term “waste” means the commission of acts leading to permanent injury to the remainder or reversion or failure to exercise the ordinary care of a prudent person for the preservation of the Premises); 
+
+^^^any taxes, assessments and insurance premiums for which Maker is liable under this Note, the Mortgage or any of the other Loan Documents and which are paid by Payee and not reimbursed by tenants (but not the proportionate amount of any such taxes, assessments and insurance premiums which accrue following the date of foreclosure (plus any applicable redemption period) or acceptance of a deed in lieu of foreclosure); 
+
+^^^any loss, costs or damages actually incurred by Payee arising out of or in connection with the breach of Maker’s covenants, obligations and liabilities contained in Paragraph 31 of the Mortgage and under the Environmental Indemnification Agreement dated of even date herewith executed by Maker and Industrial Income Operating Partnership LP, a Delaware limited partnership (“***Guarantor***”), in favor of Payee; 
+
+^^^any loss, cost or damages actually incurred by Payee to Payee arising out of or in connection with any construction lien, mechanic’s lien, materialman’s lien or similar lien against the Premises arising out of acts or omissions of Maker, subject to Maker’s right to contest pursuant to the Loan Documents; 
+
+^^^the total Indebtedness in the event that Maker or Guarantor voluntarily files a petition in bankruptcy or commences a case or insolvency proceeding under any provision or chapter of the Federal Bankruptcy Code; 
+
+^^^any loss, costs or damage, resulting from any act of Maker or its general partners, members, shareholders, officers, directors, beneficiaries, and/or trustees to obstruct, delay or impede (a “***Delay***”) Payee from exercising any of its rights or remedies under the Loan Documents upon the occurrence of a voluntary 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 bankruptcy proceeding or a monetary default provided Payee agrees that the interposition by Maker of a valid and meritious defense to Payee’s monetary suit for a payment under the Loan Documents (other than principal and interest due under this Note) shall not constitute a Delay; 
+
+^^^the total Indebtedness and the Loan Documents in the event that (a) Maker makes an unpermitted transfer of an interest in the Maker or in the Premises without the prior written approval of Payee, or (b) Maker makes an unpermitted mortgage, deed to secure debt or similar encumbrance on the Premises or the holder of an ownership interest in Maker encumbers such interest, without the prior written approval of Payee; and 
+
+^^^all costs and fees, including without limitation reasonable attorney fees and costs, incurred by Payee in the enforcement of subparagraphs (i) through (x) above. 
+
+With the exception of those items of liability specifically set forth in items (i) through (xi) above, the lien of any judgment against Maker in any proceeding instituted on, under or in connection with this Note shall not extend to any property now or hereafter owned by Maker other than the interest of the Maker in the Premises and the other security for the payment of this Note. 
+
+This Note, together with the other Loan Documents and the certain Environmental Indemnification Agreement executed by Maker, constitute the entire agreement between the parties hereto pertaining to the subject matters hereof and thereof and supersede all negotiations, preliminary agreements and all prior or contemporaneous discussions and understandings of the parties hereto in connection with the subject matters hereof and thereof. 
+
+**THE PARTIES HERETO, AFTER CONSULTING OR HAVING HAD THE OPPORTUNITY TO CONSULT WITH COUNSEL, KNOWINGLY, VOLUNTARILY, AND INTENTIONALLY WAIVE, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT THEY MAY HAVE TO A TRIAL BY JURY IN ANY LITIGATION BASED ON OR ARISING OUT OF THIS AGREEMENT OR INSTRUMENT, OR ANY RELATED INSTRUMENT OR AGREEMENT, OR ANY OF THE TRANSACTIONS CONTEMPLATED HEREBY OR ANY COURSE OF CONDUCT, DEALING, STATEMENTS, WHETHER ORAL OR WRITTEN, OR ACTION OF ANY PARTY HERETO. NO PARTY SHALL SEEK TO CONSOLIDATE BY COUNTERCLAIM OR OTHERWISE, ANY SUCH ACTION IN WHICH A JURY TRIAL HAS BEEN WAIVED WITH ANY OTHER ACTION IN WHICH A JURY TRIAL CANNOT BE OR HAS NOT BEEN WAIVED. THESE PROVISIONS SHALL NOT BE DEEMED TO HAVE BEEN MODIFIED IN ANY RESPECT OR RELINQUISHED BY ANY PARTY HERETO EXCEPT BY A WRITTEN INSTRUMENT EXECUTED BY ALL PARTIES.** 
+
+Maker acknowledges receipt of a copy of this instrument at the time it was signed. 
+
+\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+
+IN WITNESS WHEREOF, the Maker has executed, sealed and delivered this Promissory Note as of the day and date first above written. 
+
+
+
+/s/ Rhonda Poelma            By:      IIT Real Estate Holdco LLC,
+Unofficial Witness                  a Delaware limited liability company,
+Print Name: Rhonda Poelma                  Sole Member
+
+/s/ WendyE. Casady                  By:      Industrial Income Operating Partnership LP,
+Notary Public                        a Delaware limited partnership, Sole Member
+Print Name: WendyE. Casady
+[[Print Name WendyE. Casady Signatory Email: Identity | Signature]]
+__________________________________________
+{{Print Name WendyE. Casady Entity => By: [[Print Name WendyE. Casady Signatory First Name]] [[Print Name WendyE. Casady Signatory Last Name]]
+Title: [[Print Name WendyE. Casady Signatory Title]]}}
+
+corporation, General Partner
+
+[[Corporation General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{Corporation General Partner Entity => By: [[Corporation General Partner Signatory First Name]] [[Corporation General Partner Signatory Last Name]]
+Title: [[Corporation General Partner Signatory Title]]}}
+
+Date: [[Date 7: Date]]                              Title: Chief Financial Officer
+
+[NOTARIAL SEAL]                                    [CORPORATE SEAL]
+
+[PROMISSORY NOTE] 
+
+ING No. 28315 
+ 

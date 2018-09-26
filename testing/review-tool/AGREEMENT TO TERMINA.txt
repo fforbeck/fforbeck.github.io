@@ -1,0 +1,52 @@
+\centered **AGREEMENT TO TERMINATE EMPLOYMENT AGREEMENT**
+
+This Agreement to Terminate Employment Agreement (this “Agreement”), dated as of [[Date 1: Date]], is among Andrew R. Speaker (the “Executive”), Bicus Services Corporation (“Bicus”), Mercer Insurance Group, Inc. (“Mercer”) and Mercer Insurance Company.
+
+WHEREAS, Bicus, Mercer, Mercer Insurance Company and the Executive entered into an Employment Agreement dated as of [[Date 2: Date]], (as amended, the “Employment Agreement”), pursuant to which Bicus agreed to employ the Executive as President and Chief Executive Officer and the Executive accepted such employment;
+
+WHEREAS, Mercer is entering into an Agreement and Plan of Merger by and among United Fire & Casualty Company, Red Oak Acquisition Corp. and Mercer Insurance Group, Inc. dated as of [[Date 1]] (the “Merger Agreement”); and
+
+WHEREAS, in connection with the consummation of the Merger Agreement, the parties desire to terminate the Employment Agreement, other than certain continuing provisions specified herein, and to provide for certain payments to be made to the Executive upon such termination.
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants and agreements contained herein, the parties hereby agree as follows:
+
+^**Termination of Employment Agreement**. In accordance with Treas. Reg. 1.409A-3(j)(ix)(B), the parties hereby agree that the Employment Agreement shall be terminated as of the Effective Time, as defined in the Merger Agreement; **provided**, **however**, that Section 18 of the Employment Agreement entitled Confidential Information and Section 19 of the Employment Agreement entitled Covenants Not to Compete or to Solicit shall continue and remain in full effect in accordance with their terms.
+
+^**Payment Upon Termination**. In connection with the termination of the Employment Agreement, Mercer shall pay to the Executive within 10 business days of the Effective Time, a lump sum cash payment in the amount of the cash payment that would have been payable to the Executive pursuant to Section 11 of the Employment Agreement in the event the Executive terminated his employment with Good Reason (as defined in the Employment Agreement) at the Effective Time. The Executive shall not be entitled to any other payments or benefits under the Employment Agreement or in connection with the termination thereof.
+
+^**Governing Law; Validity**. The interpretation, construction and performance of this Agreement shall be governed by and construed and enforced in accordance with the laws of the Commonwealth of Pennsylvania. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, which other provisions shall remain in full force and effect.
+
+^**Entire Agreement; Amendment**. This Agreement contains the entire understanding of the parties hereto with regard to the subject matter contained herein and supersedes all prior agreements, understandings or intents between or among any of the parties hereto or any related parties; provided, however, this Agreement does not supersede or preempt Section 18 of the Employment Agreement entitled Confidential Information and Section 19 of the Employment Agreement entitled Covenants Not to Compete or to Solicit. The parties hereto, by mutual agreement in writing, may amend, modify and suppl ement this Agreement. Any such amendment shall be validly and sufficiently authorized for purposes of this Agreement if it is evidenced by a writing signed by all of the parties hereto.
+
+^**Counterparts**. This Agreement may be executed in two or more counterparts, all of which shall be deemed to be an original and all of which together shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, the parties have duly executed this Agreement as of the day and year first written above.
+
+Andrew R. Speaker
+
+
+
+[[Andrew R. Speaker Signatory Email: Identity | Signature]]
+__________________________________________
+{{Andrew R. Speaker Entity => By: [[Andrew R. Speaker Signatory First Name]] [[Andrew R. Speaker Signatory Last Name]]
+Title: [[Andrew R. Speaker Signatory Title]]}}
+
+Attest:
+
+MERCER INSURANCE GROUP, INC.
+
+[[MERCER INSURANCE GROUP INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{MERCER INSURANCE GROUP INC. Entity => By: [[MERCER INSURANCE GROUP INC. Signatory First Name]] [[MERCER INSURANCE GROUP INC. Signatory Last Name]]
+Title: [[MERCER INSURANCE GROUP INC. Signatory Title]]}}
+
+Attest:
+
+MERCER INSURANCE COMPANY
+
+[[MERCER INSURANCE COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{MERCER INSURANCE COMPANY Entity => By: [[MERCER INSURANCE COMPANY Signatory First Name]] [[MERCER INSURANCE COMPANY Signatory Last Name]]
+Title: [[MERCER INSURANCE COMPANY Signatory Title]]}}
+
+Attest:

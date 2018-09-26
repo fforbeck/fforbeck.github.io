@@ -1,0 +1,45 @@
+\centered **CONSULTING AGREEMENT**
+
+THIS CONSULTING AGREEMENT (“Agreement”) is made, entered into and deemed effective as of the [[Date 1: Date]] (the “Effective Date”), by and between [[NGP]], a [[State of Formation: State]] [[Organization: EntityType]] (“NGP”), and Action Acquisition Corporation (the “Company’).
+
+\centered WITNESSETH:
+
+WHEREAS, the Company desires to retain NGP to provide certain consulting services, and NGP is willing to be so engaged; and
+
+NOW, THEREFORE, for and in consideration of the covenants set forth herein and the mutual benefits to be gained by the parties hereto, and other good and valuable consideration, the receipt and adequacy of which are now and forever acknowledged and confessed, the parties hereto hereby agree and intend to be legally bound as follows:
+
+^**Retention**. As of the date hereof, the Company hereby retains and NGP hereby agrees to be retained to provide certain services relating to a proposed Transaction by the Company. The Company acknowledges that NGP shall have the right to engage third parties reasonably acceptable to the Company to assist it in its efforts to satisfy its obligations hereunder. NGP will provide such services as may be reasonably requested in anticipation of a combination transaction between the Company and a business enterprise with ongoing operations (the “Transaction”), to the extent NGP has both the expertise and legal right to render such services. NGP agrees to perform its services in accordance with all laws, rules and regulations which may be applicable to its services.
+
+^**Authorization**. Subject to the terms and conditions of this Agreement, the Company hereby appoints NGP to act on a best efforts basis as to the matters and projects it is instructed to undertake. NGP hereby accepts such appointment, with it being expressly acknowledged teat NGP is acting in the capacity of independent contractor and not as agent of the Company.
+
+^**Fees**. In consideration for performing the agreed upon services, NGP shall receive a fee of $[[USD Value 1: Number]]
+
+^**Term**. This Agreement may be terminated at anytime upon written notice by the Company.
+
+^**Bi-Lateral Confidentiality**. NGP agrees to keep the Company’s and its affiliates’ confidential information and data in confidence and NGP further agrees that it will not disclose to third parties any of such information or data or use any such information or data in any way either during the term of this Agreement or at any time thereafter, except in the performance of its obligations hereunder. NGP shall use the same degree of care in the protection of the Company’s and its affiliates’ confidential information and data as NGP uses with respect to its own confidential information and data, but not less than a reasonable level of care. NGP agrees that, in the event this Section 5 is breached by NGP, said breach will give rise to irreparable damage to the Company or its affiliates inadequately compensable in damages. In such event, the Company will be entitled to seek injunctive relief in any court of competent jurisdiction, in addition to any and all other legal or equitable rights and remedies existing in its favor, and NGP agrees that it will not claim as a defense thereto that the Company has an adequate remedy at law or require the posting of bond therefore Action agrees to keep the NGP and its affiliates’ confidential information and data in confidence and Action further agrees that it will not disclose to third parties any of such information or data or use any such information or data in any way either during the term of this Agreement or at any time thereafter, except in the performance of its obligations hereunder. Action shall use the same degree of care in the protection of NGP and its affiliates’ confidential information and data as NGP uses with respect to its own confidential information ark data, but not less than a reasonable level of care. Action agrees that, in the event this Section 5 is breached by Action, said breach will give rise to irreparable damage to NGP or its affiliates inadequately compensable in damages. In such event, NGP will be entitled to seek injunctive relief in any court of competent jurisdiction, in addition to any and all other legal or equitable rights and remedies existing in its favor, and Action agrees that it will not claim as a defense thereto that the Company has an adequate remedy at law or require the posting of bond therefor. Whereas not public information, specific transaction terms with respect to this consulting agreement and terms shall also remain confidential information to the best of both parties’ abilities.
+
+^**Bi-lateral Indemnification**. NGP agrees to indemnify, defend and hold harmless the Company, its affiliates and their respective directors, shareholders, officers, employees and agents from any and all losses, liabilities, damages and expenses, including reasonable attorneys’ fees and litigation costs, incurred by such entity or person arising from or relating to (ii) the breach by NGP of any of NGP’s obligations hereunder or CO the negligence or willful misconduct of NGP. Action agrees to indemnify, defend and hold harmless the Company, its affiliates and their respective directors, shareholders, officers, employees and agents from any and all losses, liabilities, damages and expenses, including reasonable attorneys’ fees and litigation costs, incurred by such entity or person arising from or relating to (i) the breach by Action of any of Action’ obligations hereunder or (ii) the negligence or willful misconduct of Action.
+
+^**Governing Law**. This Agreement shall be governed by and construed in all respects in accordance with the laws of New York without giving effect to the principles of conflicts of law. The parties hereto hereby submit to the exclusive jurisdiction of the courts situated in New York, New York, in relation to any matters arising under this Agreement.
+
+^**Miscellaneous**. All waivers shall be in writing and signed by the party to be charged therewith. Waiver by either party of any particular default by the other party shall not affect or impair such party’s rights in respect to any subsequent default of the same or a different nature. This Agreement contains the entire Agreement of the parties and supersedes all prior agreements and understandings, written and oral, regarding the subject matter. This Agreement may not be construed for or against a party based upon authorship.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the day and year first above written.
+
+[[NGP]]
+
+[[NGP Signatory Email: Identity | Signature]]
+__________________________________________
+{{NGP Entity => By: [[NGP Signatory First Name]] [[NGP Signatory Last Name]]
+Title: [[NGP Signatory Title]]}}
+
+Authorized Signatory
+
+
+
+[[Authorized Signatory Signatory Email: Identity | Signature]]
+__________________________________________
+{{Authorized Signatory Entity => By: [[Authorized Signatory Signatory First Name]] [[Authorized Signatory Signatory Last Name]]
+Title: [[Authorized Signatory Signatory Title]]}}
+
+Authorized Signatory

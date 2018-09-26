@@ -1,0 +1,71 @@
+\centered AGREEMENT AND PLAN OF MERGER
+
+\centered OF
+
+
+
+\centered (a [[State of Formation: State]] [[Organization: EntityType]])
+
+\centered INTO
+
+\centered SMURFIT-STONE CONTAINER ENTERPRISES, INC. (a Delaware corporation)
+
+THIS AGREEMENT AND PLAN OF MERGER (this “Agreement”) is made as of [[Date 1: Date]], by and between SMURFIT-STONE CONTAINER CORPORATION, a Delaware corporation (“SSCC”), and SMURFIT-STONE CONTAINER ENTERPRISES, INC., a Delaware corporation (“SSCE”). 
+
+\centered W I T N E S S E T H:
+
+**WHEREAS**, SSCC is a corporation duly incorporated and validly existing under the laws of the State of Delaware;
+
+**WHEREAS**, SSCE is a corporation duly incorporated and validly existing under the laws of the State of Delaware;
+
+**WHEREAS**, the United States Bankruptcy Court for the District of Delaware, by order dated as of [[Date 2: Date]] (the “Confirmation Order”) confirming the Modified Joint Plan of Reorganization for Smurfit-Stone Container Corporation and its Debtor Subsidiaries and Plan of Compromise and Arrangement for Smurfit-Stone Container Canada Inc. and Affiliated Canadian Debtors (the “Plan”) filed pursuant to Section 1121(a) of Chapter 11 of Title 11 of the United States Code, has directed that SSCC be merged with and into SSCE (the “Merger”) pursuant to Sections 251 and 303 of the Delaware General Corporation Law on the terms and subject to the conditions hereinafter set forth; and
+
+WHEREAS, SSCC and SSCE intend that the Merger qualify as a reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended and that this Agreement constitutes a “plan of reorganization” within the meaning of the Treasury Regulation promulgated thereunder.
+
+**NOW, THEREFORE**, the parties hereby agree as follows:
+
+^1.1Merger of SSCC into SSCE*.* SSCC shall be merged with and into SSCE, in accordance with Section 251 of the Delaware General Corporation Law. The separate existence of SSCC shall thereupon cease and SSCE shall be the surviving corporation (the 
+
+“Surviving Corporation”). The Merger shall become effective upon the Effective Date of the Plan (the “Effective Date”).
+
+1.2Effect of Merger*.* The Merger shall have the effect specified in the Delaware General Corporation Law. Without limiting the generality of the foregoing, in the Merger, all of the rights, duties and obligations (other than any obligations discharged pursuant to the Plan) of SSCC shall be vested in the Surviving Corporation.
+
+^2.1Certificate of Incorporation*.* The certificate of incorporation of SSCE in effect immediately prior to the Effective Date shall be the certificate of incorporation of the Surviving Corporation until thereafter changed or amended as provided therein or by applicable law (including the adoption of the Amended and Restated Certificate of Incorporation provided for in the Plan); provided, however, that upon the Merger becoming effective, the certificate of incorporation of the Surviving Corporation shall be amended to change the name of the Surviving Corporation to “Smurfit-Stone Container Corporation”.
+
+^^Bylaws. The bylaws of SSCE in effect immediately prior to the Effective Date shall be the bylaws of the Surviving Corporation until same shall be altered, amended or repealed as provided therein or by applicable law (including the adoption of the Amended and Restated Bylaws provided for in the Plan).
+
+^^Directors and Officers. The directors and officers of SSCC on the Effective Date shall be and become the directors and officers of the Surviving Corporation and shall continue in office until the next annual meeting of stockholders and until their successors shall have been elected and qualified or as otherwise provided by law (including the appointment of certain new and replacement officers and directors as provided for in the Plan).
+
+^3.1Treatment of Equity Interests. The treatment of the outstanding shares of capital stock of SSCC and SSCE, respectively, shall be as follows:
+
+^^All issued shares of common and preferred stock of SSCC shall be converted into the right to receive shares of common stock of the Surviving Corporation as provided in the Plan. As of the Effective Date, all issued shares of common and preferred stock of SSCC, and all rights in respect thereof, shall be cancelled, and each holder of shares of common and preferred stock of SSCC shall cease to have any rights with respect thereto, except the right to receive the consideration specified in the immediately preceding sentence, in each case as provided in the Plan.
+
+^^All issued shares of common stock of SSCE and all rights in respect thereof shall be cancelled on the Effective Date (it being understood that, on the Effective Date, new shares of common stock of the Surviving Corporation will be issued pursuant to the Plan).
+
+^4.1 Assumption and Performance of SSCC Obligations. Upon the occurrence of the Effective Date, the Surviving Corporation expressly agrees to assume and perform all of
+
+\centered [*Signature Page Follows*]
+
+the obligations of SSCC, whether in contract or otherwise (other than obligations discharged pursuant to the Plan), as successor thereto, and all such obligations shall be binding upon the Surviving Corporation.
+
+IN WITNESS WHEREOF, each of SSCC and SSCE, pursuant to the authority granted by the Confirmation Order, has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid.
+
+
+
+[[IN WITNESS WHEREOF each of SSCC and SSCE pursuant to the authority granted by the Confirmation Order has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid. Signatory Email: Identity | Signature]]
+__________________________________________
+{{IN WITNESS WHEREOF each of SSCC and SSCE pursuant to the authority granted by the Confirmation Order has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid. Entity => By: [[IN WITNESS WHEREOF each of SSCC and SSCE pursuant to the authority granted by the Confirmation Order has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid. Signatory First Name]] [[IN WITNESS WHEREOF each of SSCC and SSCE pursuant to the authority granted by the Confirmation Order has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF each of SSCC and SSCE pursuant to the authority granted by the Confirmation Order has caused this Agreement to be executed in its name by its duly authorized officer as of the day and year aforesaid. Signatory Title]]}}
+
+Patrick J. Moore
+Chairman and Chief Executive Officer
+
+SMURFIT-STONE CONTAINER ENTERPRISES, INC.
+
+[[SMURFIT-STONE CONTAINER ENTERPRISES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SMURFIT-STONE CONTAINER ENTERPRISES INC. Entity => By: [[SMURFIT-STONE CONTAINER ENTERPRISES INC. Signatory First Name]] [[SMURFIT-STONE CONTAINER ENTERPRISES INC. Signatory Last Name]]
+Title: [[SMURFIT-STONE CONTAINER ENTERPRISES INC. Signatory Title]]}}
+
+Patrick J. Moore
+Chief Executive Officer

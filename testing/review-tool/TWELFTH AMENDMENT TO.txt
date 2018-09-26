@@ -1,0 +1,196 @@
+\centered **TWELFTH AMENDMENT TO REVOLVING LINE OF CREDIT**
+
+\centered **AND TERM LOAN AGREEMENT**
+
+This Twelfth Amendment to Revolving Line of Credit and Term Loan Agreement (this “**Agreement**”) is made as of the [[Date 1: Date]] by and among [[Lender]] (the “**Lender**”), [[Borrower]] (the “**Borrower**”), and each of the guarantors identified as such on the signature pages hereto (each a “**Guarantor**,” and collectively, the “**Guarantors**”).
+
+\centered **RECITALS**
+
+**WHEREAS**, Borrower and Lender are parties to that certain Revolving Line of Credit and Term Loan Agreement, dated as of [[Date 2: Date]], as amended by (i) a certain Amendment No. 1 to Revolving Line of Credit and Term Loan Agreement, dated [[Date 3: Date]], (ii) a certain Amendment No. 2 to Revolving Line of Credit and Term Loan Agreement, dated [[Date 4: Date]], (iii) a certain Amendment No. 3 to Revolving Line of Credit and Term Loan Agreement, dated [[Date 4]], (iv) a certain Amendment No. 4 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 5: Date]], (v) a certain Amendment No. 5 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 6: Date]], (vi) a certain Amendment No. 6 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 7: Date]], (vii) a certain Amendment No. 7 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 8: Date]], (viii) a certain Amendment No. 8 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 9: Date]], (ix) a certain Amendment No. 9 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 10: Date]], (x) a certain Amendment No. 10 to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 11: Date]] and (xi) a certain Eleventh Amendment to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 12: Date]] (collectively, the “**Loan Agreement**”). Capitalized terms used herein and not otherwise defined shall have the meanings ascribed to them in the Loan Agreement.
+
+**WHEREAS**, the obligations of Borrower to Lender are further evidenced by (i) a certain Term Promissory Note, dated [[Date 2]], from the Borrower to the Lender in the maximum principal amount of up to $[[USD Value 1: Number]], as amended by (a) a certain Amendment No. 1 and Allonge to Term Promissory Note, dated as of [[Date 4]], increasing the maximum principal amount to $[[USD Value 2: Number]], (b) a certain Amendment No. 2 and Allonge to Term Promissory Note dated as of [[Date 6]], (c) a certain Amendment No. 3 and Allonge to Term Promissory Note dated as of [[Date 8]] and (d) a certain Amendment No. 4 and Allonge to Term Promissory Note dated as of [[Date 12]] (collectively, the “**Term Note**”); and (ii) a certain Revolving Line of Credit Note, dated [[Date 2]], from the Borrower to the Lender in the maximum principal amount of $[[USD Value 3: Number]], as amended by (a) a certain Amendment No. 1 and Allonge to Revolving Line of Credit Note dated as of [[Date 8]], (b) a certain Amendment No. 2 and Allonge to Revolving Line of Credit Note dated as of [[Date 10]], temporarily increasing the maximum principal amount to $[[USD Value 4: Number]] (c) a certain Amendment No. 3 and Allonge to Revolving Line of Credit Note dated as of [[Date 11]] and (d) a certain Amendment No. 4 and Allonge to Revolving Line of Credit Note dated as of [[Date 12]] (collectively, the “**Revolving Note**”, and together with the Term Note, the “**Notes**”).
+
+Exhibit 4.84  
+**WHEREAS**, the obligations of Borrower to Lender evidenced by the Loan Agreement and the Notes are secured by (i) a certain Security Agreement dated as of [[Date 2]] by Borrower in favor of Lender (the “**Security Agreement**”) and (ii) a certain Stock Pledge Agreement dated as of [[Date 2]] by Borrower in favor of Lender (as subsequently amended, the “**Stock Pledge Agreement**,” and together with the Loan Agreement, the Notes and the Security Agreement, the “**Loan Documents**”).
+
+**WHEREAS**, the following Events of Default (collectively, the “**Identified Events of Default**”) have occurred or may occur:
+
+^^^Borrower has failed to comply with the Minimum EBITDA covenant set forth in Section 5(m) of the Loan Agreement for certain periods ending prior to the date hereof;
+
+^^^Borrower has failed to comply with the Maximum Ratio of Total Funded Debt to Adjusted EBITDA covenant set forth in Section 5(n) of the Loan Agreement for certain periods ending prior to the date hereof;
+
+^^^Borrower has failed to comply with the Minimum Fixed Charge Coverage Ratio covenant set forth in Section 5(o) of the Loan Agreement for certain periods ending prior to the date hereof;
+
+^^^Borrower has failed to comply with Section 6(a)(iv)(i) of the Loan Agreement due to the occurrence of certain defaults under the Junior Loan;
+
+^^^Borrower has failed to comply with Section I(1) of Amendment No. 10 to the Loan Agreement, pursuant to which Borrower was required to repay any amounts outstanding under the Revolving Note in excess of $[[USD Value 5: Number]] on or before [[Date 13: Date]]; and
+
+^^^Borrower anticipates that one or more Events of Default may occur during the Forbearance Period (as defined below) under Sections 5(m), 5(n) and 5(o) of the Loan Agreement and under Sections 6(a)(iv)(i) and 6(a)(iv)(ii) of the Loan Agreement with respect to the Junior Loan and Seller Financing.
+
+**WHEREAS,** pursuant to that certain Eleventh Amendment to Revolving Line of Credit and Term Loan Agreement dated as of [[Date 12]] (the “**Eleventh Amendment**”), Lender agreed to forbear from exercising its rights and remedies in respect of the Identified Events of Default for the period described and on the terms and conditions set forth in the Eleventh Amendment;
+
+**WHEREAS**, in consideration of Lender entering into this Agreement and providing the accommodations to Borrower set forth herein and in consideration of the additional risk undertaken by Lender in so doing, Borrower has, having considered the alternatives, elected and agreed to enter into this Agreement, under which Borrower desires that the Lender continue to forbear from exercising its rights and remedies in respect of the Identified Events of Default under the Loan Documents and applicable law during the Forbearance Period (as defined below);
+
+Exhibit 4.84  
+**WHEREAS**, the Lender is willing, subject to the terms and conditions set forth herein (including, without limitation, the satisfaction of all covenants and agreements by the Borrower set forth herein and in the other Loan Documents), and solely with respect to the Identified Events of Default, to continue to forbear from exercising its rights and remedies in respect of the Identified Events of Default, **but** **only** as and to the extent provided herein; and
+
+**WHEREAS**, each of the Loan Documents are hereby incorporated herein by reference and, except as altered or modified by the terms of this Agreement, remain valid, binding and of full force and effect.
+
+**NOW, THEREFORE**, with the foregoing Recitals incorporated by reference and made a part hereof, in consideration of the mutual agreements contained in the Loan Documents and herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+^**Identified Events of Default**. The Borrower acknowledges and agrees that the Identified Events of Default have occurred or may occur under the Loan Documents and that the Lender is entitled to exercise its rights and remedies with respect to such Identified Events of Default under the Loan Documents and applicable law. The Borrower further acknowledges and agrees that the Lender has no obligation: (i) to forbear from the exercise of its rights and remedies except as specifically set forth herein, or (ii) to make additional loans or advance any funds to the Borrower under the Loan Documents or applicable law. The Borrower further acknowledges and agrees that the fact that the Lender has not elected to take any of the actions described in the Loan Documents is not a waiver of the Lender’s right to do so at any time in the future, except as specifically provided herein.
+
+^**Confirmation of Indebtedness; Ratification of Loan Documents**.
+
+^^The Borrower hereby agrees and acknowledges that:
+
+^^^as of the date hereof, (A) there exists no defense to the repayment by the Borrower of its indebtedness to the Lender in connection with the Loan Documents, including but not limited to outstanding principal, accrued and unpaid interest, accrued and unpaid fees and expenses (including, but not limited to reasonable fees and disbursements of counsel to the Lender), and other amounts owed to the Lender under the Loan Documents, including, without limitation, any amounts Borrower is obligated to pay Lender pursuant to the terms of this Agreement (collectively, the “**Obligations**”) and (B) the Borrower does not have any Claim (as defined below) against the Lender in respect of any matter relating to or arising under this Agreement or any of the Loan Documents or any of the transactions contemplated hereby or thereby;
+
+^^^the Borrower remains obligated to pay all principal, interest, fees and other amounts owing to the Lender under and in respect of the Loan Documents when due and payable in accordance with the terms thereof; and
+
+Exhibit 4.84  
+^^^the liens and security interests granted in favor of the Lender under the terms of the Loan Documents secure payment of the Obligations and all other obligations under the Loan Documents, are perfected, effective, enforceable and valid and that such liens and security interests are, in each case, a first priority lien and security interest except to the extent otherwise expressly permitted by the Loan Agreement or the other Loan Documents
+
+^^The Borrower hereby (i) ratifies, confirms, and approves each of the terms and conditions, and its liabilities and obligations under, each of the Loan Documents (ii) for the avoidance of doubt hereby grants to Lender a continuing security interest in and lien on the Collateral as security for the performance of Borrower’s obligations under the Loan Documents and (iii) acknowledges and agrees that its liabilities and obligations under the Loan Agreement and other Loan Documents are owing without offset, defense or counterclaim. The Borrower further acknowledges and agrees that (1) except as specifically modified by this Agreement, all terms and conditions of the Loan Agreement and the other Loan Documents shall be unaffected hereby and shall remain in full force and effect and (2) it shall continue to make all payments required under the Loan Agreement when due.
+
+^^Without limiting any other provision of this Agreement, Borrower acknowledges and agrees that the Lender is entering into this Agreement in reliance upon, among all other agreements and representations of the Borrower, including, without limitation, those agreements and representations of the Borrower set forth in the Loan Documents, the agreements, acknowledgements, ratifications and provisions set forth in this Section 2.
+
+^**No Present Claims; Release**. The Borrower and each Guarantor acknowledges and agrees that: (a) it does not have any claim or cause of action against the Lender (or any of its predecessors, directors, officers, employees, agents, affiliates or attorneys); (b) it does not have any offset right, counterclaim or defense of any kind against the Obligations or any portion thereof; and (c) the Lender has heretofore properly performed and satisfied in a timely manner all of its obligations and commitments to the Borrower. The Lender wishes (and the Borrower and Guarantors agree) to eliminate any possibility that any past conditions, acts, omissions, events or circumstances would impair or otherwise adversely affect any of the rights, interests, security and/or remedies of the Lender. For and in consideration of the agreements contained in this Agreement and other good and valuable consideration, the Borrower and each Guarantor unconditionally and irrevocably releases, waives and forever discharges the Lender, together with its predecessors, successors, assigns, subsidiaries, affiliates, agents and attorneys (collectively, the “**Released Parties**”), from the following (each a “**Claim**”): (x) any and all liabilities, obligations, duties, promises or indebtedness of any kind of the Released Parties to the Borrower or the Guarantors which existed, arose or occurred at any time from the beginning of the world to the execution of this Agreement, and (y) all claims, offsets, causes of action, suits or defenses of any kind whatsoever (if any), which the Borrower or any Guarantor might otherwise have against the Released Parties, or any of them, in either case (x) or (y) on account of any condition, act, omission, event, contract, liability, obligation, indebtedness, claim, cause of action, defense, circumstance or matter of any kind which existed, arose or occurred at any time from the beginning of the world to the execution of this Agreement.
+
+Exhibit 4.84  
+^**Forbearance by Lender**.  
+^^The Borrower acknowledges and agrees that the Identified Events of Default have occurred and are continuing, and further acknowledges and agrees that the Lender has the right to immediately accelerate and commence enforcement of its rights and remedies under the Loan Documents and applicable law as a result thereof. In consideration of the Borrower’s performance and strict compliance in accordance with each term and condition of this Agreement (TIME BEING OF THE ESSENCE), as and when due, the Lender shall forbear from enforcing its rights and remedies under the Loan Documents and applicable law as a result of the Identified Events of Default until the earliest of: (i) 4:00 pm (Boston time) on [[Date 14: Date]], (ii) the date of the occurrence of any Default Event or Event of Default (**excluding** any Identified Events of Default) under the Loan Agreement or any other Loan Document, (iii) the date of the occurrence of any breach by Borrower of any of the terms set forth in this Agreement, including but not limited to the obligations set forth in Section 6 hereof or the obligations set forth in Section 6 of the Eleventh Amendment, as adopted and incorporated by reference herein; or (iv) the date on which the Borrower, any Guarantor, or any affiliate of the Borrower or any Guarantor, or any person or entity claiming by or through either the Borrower or any Guarantor joins in, assists, cooperates or participates as an adverse party or adverse witness in any suit or other proceeding against the Lender, or any of its affiliates, relating to the Obligations or any of the transactions contemplated by the Loan Documents, this Agreement or any other documents, agreements or instruments executed in connection with this Agreement. Each of the events described in the foregoing clauses (i), (ii), (iii) and (iv) are referred to herein as a “**Termination Event**,” and the date of the earliest to occur of any Termination Event is referred to herein as the “**Forbearance Termination Date**.” The period commencing as of the Forbearance and Twelfth Amendment Agreement Effective Date (as defined below) and ending on the Forbearance Termination Date shall be referred to as the “**Forbearance Period**.” The Borrower agrees that nothing contained in this Agreement or the fact that the Lender may, in the Lender’s sole discretion, make Revolving Advances to the Borrower during the Forbearance Period, shall constitute a waiver of the Identified Events of Default or of any other Default Events or Events of Default, whether now existing or hereafter arising under the Loan Documents.
+
+^^During the Forbearance Period, Lender agrees temporarily to reduce the monthly principal and interest payment owed to it pursuant the Term Note to interest only, such reduction to be effective through the Expiration Date.
+
+^^The Borrower acknowledges and agrees that upon the occurrence of the Forbearance Termination Date, Lender shall have the right to immediately commence enforcement of its rights and remedies under the Loan Documents and applicable law in respect of all then existing Default Events and Events of Default, including the Identified Events of Default.
+
+^**Amendment to Loan Agreement****.** Section 1 of the Loan Agreement is hereby amended by deleting the definitions of “Expiration Date” and “Term Loan Maturity Date” and replacing them with the following:
+
+“**Expiration Date**” means [[Date 14]].
+
+Exhibit 4.84  
+“**Term Loan Maturity Date**” means [[Date 14]].
+
+^**Terms of Forbearance****.** Except to the extent expressly modified by this Agreement, the terms of the Eleventh Amendment, including but not limited to the terms of forbearance set forth in Section 6 thereof, shall remain in full force and effect and are incorporated by reference herein. The failure to comply with any of the requirements, agreements, milestones or covenants set forth in Section 6 of the Eleventh Amendment shall constitute a Termination Event.
+
+^**Remedies Following Termination Event**.
+
+^^On and after the occurrence of a Termination Event, upon written notice to Borrower, and in each case without any further demand, presentment, notice and/or other action of any nature by the Lender (all of which are hereby expressly waived by the Borrower), and without limiting any other remedy available to the Lender under any other agreement, document or instrument or under applicable law, the Forbearance Period shall terminate, the Lender shall be immediately and permanently relieved of its forbearance obligations set forth in this Agreement, and (1) at the Lender’s option, upon written notice to Borrower, the Lender may accelerate the obligations due under the Loan Documents and declare the full amount of such obligations to be immediately due and payable (without further notice or demand), and (2) the Lender may proceed to enforce its rights under and in respect of the Loan Documents and applicable law, which rights and remedies are expressly reserved. The failure (or delay) of the Lender in exercising any remedy after any particular Termination Event shall not constitute a waiver of such remedy or any other remedy in that or in any subsequent instance, or otherwise prejudice the rights of the Lender in any manner.
+
+^^Without limiting the generality of the foregoing, and notwithstanding anything to the contrary in this Agreement, the Borrower expressly agrees that, at any time after seven business days following written notice by the Lender to the Borrower of the occurrence of a Termination Event (the "Notice Period"), the Lender may seek the appointment of a receiver, trustee or similar official to take possession of all or any portion of the Collateral or to operate same and, to the maximum extent permitted by law, may seek the appointment of such a receiver. If the Borrower fails by the end of the Notice Period to initiate a legal proceeding to halt the appointment of a receiver, the Borrower will be deemed to irrevocably consent to and waive any right to object to or otherwise contest the appointment of a receiver, trustee or similar official and will be deemed to have (i) granted such waiver and consent knowingly after having discussed the implications thereof with its counsel; (ii) acknowledged that (A) the uncontested right to have a receiver, trustee or similar official appointed is considered essential by the Lender in connection with the enforcement of the Lender’s rights and remedies hereunder and under the Loan Documents, and (B) the availability of such remedies under the foregoing circumstances was a material factor in inducing the Lender to enter into this Agreement; and (iii) in furtherance of the Lender’s rights under this Section 7(b), agreed to enter into any and all stipulations in any legal actions, or agreements or other instruments in connection with the appointment of a receiver as provided for herein and to cooperate fully with the Lender in connection with the assumption and exercise of control by the receiver, trustee or similar official over all or any portion of the Collateral.
+
+Exhibit 4.84  
+^**Representations and Warranties****.** Borrower represents and warrants to the Lender that:
+
+^^the execution, delivery, and performance of this Agreement, the Loan Agreement and the other Loan Documents are within Borrower’s corporate powers and have been duly authorized by all necessary corporate action. This Agreement has been duly executed and delivered by Borrower and constitutes, and each of the other previously executed Loan Documents to which Borrower is a party constitute, legal, valid and binding obligations of Borrower, enforceable against Borrower in accordance with their respective terms;
+
+^^all financial information delivered by Borrower to Lender fairly presents in all material respects the financial position of Borrower as at the dates thereof and the results of operations and cash flows of Borrower for each of the periods then ended, subject, in the case of any such unaudited financial statements, to changes resulting from audit and normal year-end adjustments and the absence of footnotes;
+
+^^Borrower has read and fully understands each of the terms and conditions of this Agreement and is entering into this Agreement freely and voluntarily, without duress, after having had an opportunity for consultation with independent counsel of its own selection and not in reliance upon any representations, warranties or agreements made by Lender and not set forth in this Agreement;
+
+^^each of the representations and warranties in the Loan Agreement, as updated by Schedules thereto previously delivered to the Lender, and each of the other Loan Documents (other than the representations and warranties contained in the first sentence of Section 3(i) and the first sentence of Section 3(r) of the Loan Agreement) remains true, complete and correct in all material respects as of the date hereof (except to the extent such representations and warranties expressly relate solely to an earlier date), **provided**, however, that to the extent that the representations and warranties in Sections 3(n) and 3(o) of the Loan Agreement are not true, complete and correct in all material respects as of the date hereof solely because Schedules 3(n) and 3(o) to the Loan Agreement have not been updated, Borrower shall not be deemed to have violated this Section 8(d) so long as Borrower delivers to the Lender updated Schedules 3(n) and 3(o) that are true, complete and accurate in all material respects by no later than [[Date 15: Date]]; and
+
+^^no Default Event or Event of Default (other than the Identified Events of Default) has occurred and is continuing and no Default Event or Event of Default shall occur or result from the consummation of this Agreement and the transactions contemplated hereby.
+
+^**Conditions Precedent****.** The satisfaction of each of the following shall constitute conditions precedent to the effectiveness of Lender’s agreements hereunder:
+
+^^Lender shall have received this Agreement fully executed by each of the parties hereto;
+
+^^Lender shall have received a fully executed amendment agreement whereby Borrower and Lender amend the Revolving Note to effectuate the amendment contemplated by the terms of this Agreement;
+
+Exhibit 4.84  
+^^Lender shall have received a fully executed amendment agreement whereby Borrower and Lender amend the Term Note to effectuate the amendment contemplated by the terms of this Agreement;
+
+^^Lender shall have received a fully executed copy of that certain Amendment No. 10 to Securities Purchase and Loan Agreement between Borrower, Guarantors and the Junior Lender, dated contemporaneously herewith, in form and substance satisfactory to the Lender;
+
+^^Lender shall have received payment in full of any costs and expenses (including, without limitation, the fees of Choate Hall & Stewart LLP) incurred by the Lender in connection with the Loan Documents and this Agreement;
+
+^^The representations and warranties in this Agreement, the Loan Agreement, as updated by Schedules thereto previously delivered to the Lender, and each of the other Loan Documents (other than the representations and warranties contained in the first sentence of Section 3(i) and the first sentence of Section 3(r) of the Loan Agreement) shall be true and correct in all material respects on and as of the date hereof, as though made on such date (except to the extent such representations and warranties expressly relate solely to an earlier date), subject to the qualifications described in Section 8(d) hereof;
+
+^^No Default Event or Event of Default (other than the Identified Events of Default) shall have occurred and be continuing on the date hereof, nor shall any Default Event or Event of Default result from the consummation of the transactions contemplated herein; and
+
+^^No injunction, writ, restraining order, or other order of any nature prohibiting, directly or indirectly, the consummation of the transactions contemplated herein shall have been issued and remain in force by any court or other governmental authority against Borrower, or Lender.
+
+The date upon the last of the foregoing events shall have occurred shall be referred to as the “**Forbearance and Twelfth Amendment Agreement Effective Date**.”
+
+^**Control****.** Borrower acknowledges and agrees that Lender has not exerted any measure of control over Borrower, its business or any property (real and/or personal) of Borrower, nor does the business plan of Borrower relating to the agreements herein provide for or contemplate any of the aforementioned measures of control. As such, Borrower acknowledges and agrees that Lender has not taken, nor does said plan provide for or contemplate Lender taking, any action that would make Lender an “insider” or a “joint venture partner” of Borrower.
+
+Exhibit 4.84  
+^**Business Purpose; Compliance With Usury Laws**.** Borrower represents and warrants to Lender that the Loans are loans made to an entity solely for business purposes. All agreements between Borrower and Lender are hereby expressly limited so that in no event whatsoever, whether by reason of acceleration of maturity of the indebtedness evidenced by the Loan Documents or otherwise, shall the amount paid or agreed to be paid to Lender for the use or the forbearance of the indebtedness evidenced by the Loan Documents exceed the maximum rate of interest permissible under applicable law. As used herein, the term "**applicable law**" shall mean the law in effect as of the date hereof, **provided**, however**, that in the event there is a change in the law which results in a higher permissible rate of interest, then such indebtedness shall be governed by such new law as of its effective date. In this regard, it is expressly agreed that it is the intent of Borrower and Lender in the execution and delivery of this Agreement to contract in strict compliance with the laws that are applicable to the Loans as set forth in the Loan Documents from time to time in effect. If, under or from any circumstances whatsoever, fulfillment of any provision hereof or of any of the Loan Documents at the time performance of such provision shall be due, shall exceed the limits prescribed by such applicable law, then the obligation to be fulfilled shall automatically be reduced to such applicable limit, and if under or from any circumstances whatsoever Lender should ever receive as interest an amount which would exceed the highest lawful rate, such amount which would be excessive interest shall be applied to the reduction of the principal balance evidenced hereby and not to the payment of interest.
+
+^**Assignment****.** Borrower may not assign, delegate or transfer this Agreement or any of its rights or obligations hereunder any delegation, transfer or assignment in violation hereof shall be null and void. No rights are intended to be created under this Agreement for the benefit of any third party donee, creditor or incidental beneficiary of Borrower or any other person or entity other than Lender. Lender’s ability to assign, sell or transfer all of any part of this Agreement shall be governed by the Loan Agreement; provided however, notwithstanding anything in the Loan Agreement to the contrary, there shall be no limitations on the Lender’s right to assign its right, title and interest in and to the Borrower Sale Fee or the Borrower Refinancing Fee (as each term is defined in the Eleventh Amendment). Borrower agrees hereby that, upon receiving notice information for said assignee, Borrower shall deliver to said assignee any and all notices and reports to said assignee that Borrower is required to provide to Lender under the Loan Documents.
+
+^**Entire Agreement; Amendments and Waivers****.** There are no other understandings, express or implied, between Lender, Borrower or Guarantor regarding the subject matter hereof. This Agreement may not be amended or modified, and no provision of this Agreement may be waived, orally but only by a written agreement executed and approved in accordance with Section 7(c) of the Loan Agreement.
+
+^**Choice of Law****.** The validity of this Agreement, its construction, interpretation and enforcement, and the rights of the parties hereunder, shall be determined under, governed by, and construed in accordance with the laws of the Commonwealth of Massachusetts without regard to conflicts of laws principles.
+
+^**Construction****.** This Agreement constitutes a Loan Document. Upon and after the Forbearance and Twelfth Amendment Agreement Effective Date, each reference in the Loan Agreement to “this Agreement,” “hereunder,” “herein,” “hereof” or words of like import referring to the Loan Agreement, and each reference in the other Loan Documents to “the Loan Agreement,” “thereunder,” “therein,” “thereof,” or words of like import referring to the Loan Agreement, shall mean and be a reference to the Loan Agreement as amended hereby.
+
+Exhibit 4.84  
+^**Counterparts; Delivery by Facsimile or Electronic Mail****.** This Agreement may be executed in any number of counterparts and by different parties in separate counterparts, each of which when so executed and delivered, shall be deemed an original, and all of which, when taken together, shall constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Agreement by facsimile or electronic mail shall be as effective as delivery of a manually executed counterpart of this Agreement. Any party delivering an executed counterpart of this Agreement by facsimile or electronic mail also shall deliver a manually executed counterpart of this Agreement but the failure to deliver a manually executed counterpart shall not affect the validity, enforceability, and binding effect of this Agreement.
+
+\centered [Signature Pages Follow]
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date first above written.
+
+**BORROWER**:
+
+NATIONAL INVESTMENT MANAGERS, INC.
+
+[[NATIONAL INVESTMENT MANAGERS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{NATIONAL INVESTMENT MANAGERS INC. Entity => By: [[NATIONAL INVESTMENT MANAGERS INC. Signatory First Name]] [[NATIONAL INVESTMENT MANAGERS INC. Signatory Last Name]]
+Title: [[NATIONAL INVESTMENT MANAGERS INC. Signatory Title]]}}
+
+
+**LENDER**:
+
+RBS CITIZENS, NATIONAL ASSOCIATION
+
+[[RBS CITIZENS NATIONAL ASSOCIATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBS CITIZENS NATIONAL ASSOCIATION Entity => By: [[RBS CITIZENS NATIONAL ASSOCIATION Signatory First Name]] [[RBS CITIZENS NATIONAL ASSOCIATION Signatory Last Name]]
+Title: [[RBS CITIZENS NATIONAL ASSOCIATION Signatory Title]]}}
+
+
+Exhibit 4.84  
+**GUARANTORS**:
+
+ABR ADVISORS, INC.
+ALAN N. KANTER & ASSOCIATES, INC.
+ALASKA PENSION SERVICES, LTD.
+ASSET PRESERVATION CORP.
+BENEFIT DYNAMICS, INC.
+BENEFIT MANAGEMENT INC.
+BPI/PPA, INC.
+CALIFORNIA INVESTMENT ANNUITY
+SALES, INC.
+CIRCLE PENSION, INC.
+COMPLETE INVESTMENT
+MANAGEMENT, INC. OF PHILADELPHIA
+HADDON STRATEGIC ALLIANCES, INC.
+LAMORIELLO & CO., INC.
+NATIONAL ACTUARIAL PENSION
+SERVICES, INC.
+NATIONAL ASSOCIATES, INC., N.W.
+PENSION ADMINISTRATION SERVICES, INC.
+PENSION TECHNICAL SERVICES, INC.
+(d/b/a REPTECH CORP.)
+PENTEC, INC.
+PENTEC CAPITAL MANAGEMENT, INC.
+SOUTHEASTERN PENSION SERVICES, INC.
+STEPHEN H. ROSEN & ASSOCIATES, INC.
+THE PENSION ALLIANCE, INC.
+THE PENSION GROUP, INC.
+VEBA ADMINISTRATORS, INC.
+VALLEY FORGE ENTERPRISES, LTD.
+V.F. ASSOCIATES, INC.
+VF INVESTMENT SERVICES CORP.
+VALLEY FORGE CONSULTING
+CORPORATION
+
+[[CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{CORPORATION Entity => By: [[CORPORATION Signatory First Name]] [[CORPORATION Signatory Last Name]]
+Title: [[CORPORATION Signatory Title]]}}

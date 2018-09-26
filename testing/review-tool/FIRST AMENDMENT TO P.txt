@@ -1,0 +1,42 @@
+\centered **FIRST AMENDMENT TO PURCHASE AND SALE AGREEMENT** 
+
+**FIRST AMENDMENT TO PURCHASE AND SALE AGREEMENT** (this “First Amendment Agreement”), dated as of [[Date 1: Date]], by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Purchaser]], L.P., a Delaware limited partnership (the “Purchaser”), hereby amends the Purchase and Sale Agreement, dated as of [[Date 2: Date]], by and between the Company and the Purchaser (the “PSA”). Certain capitalized terms not otherwise defined herein shall have the meanings given to such terms in the PSA. 
+
+**WHEREAS**, pursuant to the PSA, (i) the Company has agreed to sell the Purchased Shares to the Purchaser upon the terms and subject to the conditions set forth in the PSA, and (ii) the Company has agreed to make a cash tender offer for any and all of the outstanding shares of Company Common Stock at the Offer Price, upon the terms and subject to the conditions set forth in the PSA; 
+
+**WHEREAS**, pursuant to the PSA, [[Date 3: Date]] was agreed as the Outside Date by which the PSA could be terminated if certain elements of the Contemplated Transactions had not occurred; and 
+
+**WHEREAS**, in consideration of the progress that has been made towards Closing the Contemplated Transactions and the desire of the Company and the Purchaser to continue towards Closing without triggering a termination of the PSA, the Company and Purchaser wish to extend the Outside Date to [[Date 4: Date]]. 
+
+**NOW, THEREFORE**, in consideration of the foregoing and the representations, warranties, covenants and agreements set forth in the PSA, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the parties hereto agree as follows: 
+
+^^Amendment of Outside Date. Section 6.1(c) of the PSA is hereby amended by deleting the proviso in the second sentence of such section and replacing it with the following proviso: 
+
+provided, however, that in no event shall the Company be required to extend the Offer beyond [[Date 4]] (the “Outside Date”). 
+
+^^Effect of Amendment. Notwithstanding anything else to the contrary in the PSA, the term “Outside Date” shall mean [[Date 4]] for all purposes of any term, provision or condition of the PSA. No other term, provision or condition of the PSA shall be amended, modified, waived or changed hereby and the PSA remains in full force and effect. 
+
+^^^^^ 
+^^Counterparts. This First Amendment Agreement may be executed in two or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart. facsimile or PDF transmission of any signature will be deemed the same as delivery of an original. 
+
+^^Amendments and Waivers. No term, provision or condition of this First Amendment Agreement may be amended or waived except in accordance with Section 10.8 of the PSA. 
+
+^^Governing Law. This First Amendment Agreement shall be governed by and construed in accordance with the Laws of the State of New York without regard to the principles of conflict of laws to the extent that such principles would permit or require the application of Laws of another jurisdiction. 
+
+\centered *[remainder of page intentionally blank]* 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Purchaser and the Company have caused this First Amendment Agreement to be executed by their respective officers thereunto duly authorized as of the date first above written. 
+
+[[Company]]
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+[[Purchaser]], L.P.**
+[[Purchaser L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Purchaser L.P. Entity => By: [[Purchaser L.P. Signatory First Name]] [[Purchaser L.P. Signatory Last Name]]
+Title: [[Purchaser L.P. Signatory Title]]}}

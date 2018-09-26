@@ -1,0 +1,37 @@
+\centered Midtown Acquisitions L.P. 65 East 55th Street, 19th Floor New York, New York 10022  
+
+[[Date 1: Date]]   
+Hampton Roads Bankshares, Inc. 
+999 Waterside Drive, Suite 200 
+Norfolk, VA 23510  
+Attention: Douglas J. Glenn, Esq.  
+Dear Doug:  
+We refer to the Securities Purchase Agreement dated as of [[Date 2: Date]] among Hampton Roads Bankshares, Inc. (the “Company”) and the investors party thereto, as amended and restated by the Amended and Restated Securities Purchase Agreement of even date herewith (as amended and restated, the “**Amended and Restated Securities Purchase Agreement”**). Capitalized terms used and not otherwise defined herein shall have the meanings ascribed to such terms in the Amended and Restated Securities Purchase Agreement.
+
+As an inducement to us to (a) enter into the Amended and Restated Securities Purchase Agreement, (b) consent to the Company’s execution of the Investment Agreement between the Company CapGen Capital Group VI LP (the “**CapGen Investment Agreement**”) and CapGen Investor Letter, in each case, of even date herewith, and (c) waive our rights under Section 3.12 of the Amended and Restated Securities Purchase Agreement in respect of the amendment and restatement of the Original Stock Purchase Agreement with respect to CapGen embodied by the CapGen Investment Agreement, the Company hereby agrees to pay to Midtown Acquisitions L.P. a cash payment in the amount of $[[USD Value 1: Number]] in immediately available funds (the “**Consent** **Payment**”). The Consent Payment shall be made by the Company to Midtown Acquisitions L.P. upon the First Closing to the bank account designated by Midtown Acquisitions L.P. not less than two Business Days prior to the First Closing.
+
+Douglas J. Glenn, Esq. 
+[[Date 1]] 
+Page two   
+If you are in agreement with the foregoing, kindly countersign this letter where indicated
+
+below.   
+Very truly yours,  
+Midtown Acquisitions L.P.  
+[[Midtown Acquisitions L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Midtown Acquisitions L.P. Entity => By: [[Midtown Acquisitions L.P. Signatory First Name]] [[Midtown Acquisitions L.P. Signatory Last Name]]
+Title: [[Midtown Acquisitions L.P. Signatory Title]]}}
+
+General Partner   
+[[General Partner Signatory Email: Identity | Signature]]
+__________________________________________
+{{General Partner Entity => By: [[General Partner Signatory First Name]] [[General Partner Signatory Last Name]]
+Title: [[General Partner Signatory Title]]}}
+
+ACKNOWLEDGED AND AGREED:  
+HAMPTON ROADS BANKSHARES, INC.   
+[[HAMPTON ROADS BANKSHARES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HAMPTON ROADS BANKSHARES INC. Entity => By: [[HAMPTON ROADS BANKSHARES INC. Signatory First Name]] [[HAMPTON ROADS BANKSHARES INC. Signatory Last Name]]
+Title: [[HAMPTON ROADS BANKSHARES INC. Signatory Title]]}}

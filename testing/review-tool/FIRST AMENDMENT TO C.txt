@@ -1,0 +1,159 @@
+\centered FIRST AMENDMENT TO CREDIT AGREEMENT
+
+THIS FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is made as of [[Date 1: Date]], as an amendment to that certain Amended and Restated Credit Agreement dated as of [[Date 2: Date]], by and among [[Credit Agreement]] & Dunlop Multifamily, [[Party 2]] & Dunlop GP, Green Park Financial Limited Partnership, Walker & Dunlop, [[Party 2]] & Dunlop, Bank of America, N.A., as Administrative Agent and Collateral Agent, and the Lenders party thereto, as amended (the “Credit Agreement”). Capitalized terms used herein without definition have the meanings specified therefor in the Credit Agreement.
+
+\centered RECITALS
+
+The Loan Parties and WDLLC (collectively, the “Obligor Group”) have requested that the Administrative Agent and the Lenders agree to amend the Credit Agreement, and the Administrative Agent and the Lenders have agreed to do so, on, and subject to, the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the agreements of the parties set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+^Amendment to Definition of EBITDA. Effective as of the Effective Date (as hereafter defined), the Credit Agreement is hereby amended by amending the definition of EBITDA to read as follows:
+
+“EBITDA” means, at any date of determination thereof, an amount equal to the following, all as determined in accordance with GAAP (net of intercompany transactions and without duplication):
+
+^^Net Income for the most recently completed Measurement Period;
+
+plus
+
+^^to the extent deducted in calculating Consolidated Net Income: the sum of (i) depreciation expenses, (ii) amortization and write-offs of Servicing Contracts and (iii) any unrealized losses under the Rate Cap Agreement;
+
+plus
+
+^^to the extent deducted in calculating Net Income, and to the extent prefunded or to be funded by CGL, the following, to be deducted on a one time basis (i) up to $[[USD Value 1: Number]] in the aggregate, of termination fees and other costs associated with terminating WDLLC’s servicing contract with Capmark and transferring the services previously provided by Capmark to WDLLC, (ii) up to $[[USD Value 2: Number]] in the aggregate, in compensation expenses associated with WDLLC employment of former employees of CGL, (iii) up to $[[USD Value 3: Number]], in the aggregate, of losses arising out of CGL’s Servicing Portfolio, and (iv) up to $[[USD Value 4: Number]], in the aggregate, of professional fees incurred in connection with the Transaction,
+
+plus
+
+^^to the extent deducted in calculating Net Income, and to the extent prefunded or to be funded by CGL, the following, to be deducted for calendar year 2009 only
+
+^up to $[[USD Value 5: Number]] in the aggregate, of operating deficits assumed by WDLLC in respect of CGL’s FHA lending operation, and (ii) up to $[[USD Value 6: Number]], in the aggregate, of non-cash leasing expenses.
+
+plus
+
+^^to the extent deducted in calculating Net Income, an amount equal to any Passed-Through Interest Distributions made during the applicable Measurement Period.
+
+minus
+
+^^to the extent included in calculating Net Income, (i) capitalized amounts attributable to origination of Servicing Contract rights and (ii) cash received under the Rate Cap Agreement and any unrealized gains under the Rate Cap Agreement.
+
+^Obligor Group Acknowledgments. Each member of the Obligor Group acknowledges, confirms and agrees that:
+
+^^Except as provided herein, the terms and conditions of the Credit Agreement and the other Loan Documents (each, as previously amended to the date hereof) remain in full force and effect, and each hereby (x) ratifies, confirms and reaffirms all and singular of the terms and conditions of the Credit Agreement and the other Loan Documents applicable to such Person, and (y) represents and warrants that:
+
+^^^no Default or Event of Default exists as of the date such Person executes this Amendment, nor will a Default or Event of Default exist as of the Effective Date.
+
+^^^the representations and warranties made by, or with respect to, each such Person in the Credit Agreement and the other Loan Documents are true and correct as of the date hereof as if remade herein, and will be true and correct as of the Effective Date, except as to (1) matters which speak to a specific date, and (2) changes in the ordinary course to the extent permitted and contemplated by the Credit Agreement.
+
+^^^each such Person has the power and authority and legal right to execute, deliver and perform this Amendment, has taken any necessary action to authorize the execution, delivery, and performance of this Amendment, and the individual executing and delivering this Amendment on behalf of such Person is duly authorized to do so.
+
+^^^this Amendment has been duly executed and delivered on behalf of such Person and constitutes the legal, valid and binding obligation of such Person, enforceable against such Person in accordance with its terms, subject to the effect of applicable bankruptcy and other similar laws affecting the rights of creditors generally and the effect of equitable principles whether applied in an action at law or a suit in equity.
+
+^^This Amendment constitutes a Loan Document, and the Obligations include the Obligations as amended by this Amendment.
+
+^^Such Person has no defenses, set offs or counterclaims with respect to any of its obligations to the Lenders, and hereby releases, waives, and forever relinquishes all claims, demands, obligations, liabilities, and causes of action whatever kind or nature, whether known or unknown, which it has or may have as of the date hereof and as of the Effective Date against the Administrative Agent, the Collateral Agent, and/or any of the Lenders, or their respective affiliates, officers, directors, employees, agents, attorneys, independent contractors, and predecessors, together with their successors and assigns, directly or indirectly arising out of or based upon any matter connected with the Credit Agreement or the administration thereof or the obligations created thereby.
+
+^Conditions Precedent. This Amendment shall be effective upon the satisfaction by the Obligor Group of, or written waiver by the Administrative Agent of, the following conditions and any other conditions set forth in this Amendment, by no later than 5:00 p.m. on the date set forth above (or such later date as may be set forth below as to any particular item), as such date may be extended in writing by the Administrative Agent, in its sole discretion (with the date, if at all, by which such conditions have been satisfied or waived being referred to herein as, the “Effective Date”), failing which this Amendment and all related documents shall be null and void at the option of the Administrative Agent:
+
+^^Delivery to the Administrative Agent of the following:
+
+^^^This Amendment, duly executed by each member of the Obligor Group,
+
+^^^Such other documents as the Administrative Agent or Collateral Agent reasonably may require, duly executed and delivered.
+
+^^No Default or Event of Default shall have occurred and be continuing.
+
+^^In addition to all other expense payment and reimbursement obligations of the Obligor Group under the Credit Agreement and other Loan Documents, the Borrower will, promptly following its receipt of an appropriate invoice therefor, pay or reimburse the Agents for all of its reasonable out of pocket costs and expenses (including, without limitation, reasonable attorneys’ fees and expenses and disbursements) incurred in connection with the preparation of this Amendment and any other documents in connection herewith and the matters addressed in and contemplated by, this Amendment
+
+^Miscellaneous.
+
+^^The Borrower shall promptly pay upon receipt of an invoice or statement therefor the reasonable attorneys’ fees and expenses and disbursements incurred by the Agents in connection with this Amendment.
+
+^^The terms and provisions of this Amendment shall modify and supersede all inconsistent terms and provisions of the Credit Agreement and the documents related thereto and, except as expressly modified by this Amendment, the terms and provisions of the Credit Agreement and such other documents are ratified and confirmed and shall continue in full force and effect.
+
+^^This Amendment shall be governed in accordance with the internal laws of the Commonwealth of Massachusetts (without regard to conflict of laws principles) as an instrument under seal.
+
+^^This Amendment may be executed in one or more counterparts, each of which when so executed shall be deemed to be an original, but all of which when taken together shall constitute one and the same instrument. Signatures transmitted electronically (including by fax or e-mail) shall have the same legal effect as originals, but each party nevertheless shall deliver original signed counterparts of this Amendment to each other party if so requested by such other party.
+
+^^This Amendment constitutes the complete agreement among the Obligor Group and the Credit Parties with respect to the subject matter hereof and thereof and supersedes all prior agreements and understanding relating to the subject matter of this Amendment, and may not be modified, altered, or amended except in accordance with the Credit Agreement.
+
+^^Time is of the essence with respect to all aspects of this Amendment. 
+
+\centered [Remainder of page intentionally left blank]
+
+Executed as a sealed instrument as of the date first above written.
+
+**GPF ACQUISITION**
+
+**By: Walker & Dunlop GP, its Managing Member**
+
+[[By Walker & Dunlop GP its Managing Member Signatory Email: Identity | Signature]]
+__________________________________________
+{{By Walker & Dunlop GP its Managing Member Entity => By: [[By Walker & Dunlop GP its Managing Member Signatory First Name]] [[By Walker & Dunlop GP its Managing Member Signatory Last Name]]
+Title: [[By Walker & Dunlop GP its Managing Member Signatory Title]]}}
+
+
+**WALKER & DUNLOP MULTIFAMILY, INC.**
+
+[[WALKER & DUNLOP MULTIFAMILY INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{WALKER & DUNLOP MULTIFAMILY INC. Entity => By: [[WALKER & DUNLOP MULTIFAMILY INC. Signatory First Name]] [[WALKER & DUNLOP MULTIFAMILY INC. Signatory Last Name]]
+Title: [[WALKER & DUNLOP MULTIFAMILY INC. Signatory Title]]}}
+
+
+**WALKER & DUNLOP GP**
+
+[[WALKER & DUNLOP GP Signatory Email: Identity | Signature]]
+__________________________________________
+{{WALKER & DUNLOP GP Entity => By: [[WALKER & DUNLOP GP Signatory First Name]] [[WALKER & DUNLOP GP Signatory Last Name]]
+Title: [[WALKER & DUNLOP GP Signatory Title]]}}
+
+
+**GREEN PARK FINANCIAL LIMITED PARTNERSHIP**
+
+[[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Email: Identity | Signature]]
+__________________________________________
+{{GREEN PARK FINANCIAL LIMITED PARTNERSHIP Entity => By: [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory First Name]] [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Last Name]]
+Title: [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Title]]}}
+
+
+[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+
+
+**WALKER & DUNLOP, INC.**
+
+[[WALKER & DUNLOP INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{WALKER & DUNLOP INC. Entity => By: [[WALKER & DUNLOP INC. Signatory First Name]] [[WALKER & DUNLOP INC. Signatory Last Name]]
+Title: [[WALKER & DUNLOP INC. Signatory Title]]}}
+
+
+**WALKER & DUNLOP**
+
+[[WALKER & DUNLOP Signatory Email: Identity | Signature]]
+__________________________________________
+{{WALKER & DUNLOP Entity => By: [[WALKER & DUNLOP Signatory First Name]] [[WALKER & DUNLOP Signatory Last Name]]
+Title: [[WALKER & DUNLOP Signatory Title]]}}
+
+
+\centered S-1
+
+**BANK OF AMERICA, N.A.,** as Administrative Agent, Collateral Agent, and a Lender
+
+[[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Entity => By: [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory First Name]] [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Last Name]]
+Title: [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Title]]}}
+
+
+**NATIONAL CITY BANK,** as a Lender
+
+[[NATIONAL CITY BANK as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{NATIONAL CITY BANK as a Lender Entity => By: [[NATIONAL CITY BANK as a Lender Signatory First Name]] [[NATIONAL CITY BANK as a Lender Signatory Last Name]]
+Title: [[NATIONAL CITY BANK as a Lender Signatory Title]]}}
+
+
+\centered S-2

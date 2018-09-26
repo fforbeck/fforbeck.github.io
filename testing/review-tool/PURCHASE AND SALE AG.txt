@@ -1,0 +1,763 @@
+\centered PURCHASE AND SALE AGREEMENT 
+
+\centered between 
+
+\centered [[Seller]], JR. AND [[Party 3]], TRUSTEES OF 
+
+\centered HAGERSTOWN NOMINEE TRUST 
+
+\centered as Seller 
+
+\centered and 
+
+\centered [[Buyer]] 
+
+\centered as Buyer 
+
+\centered for 
+
+\centered 16500 Hunters Green Parkway 
+
+\centered Hagerstown, Maryland 
+
+\centered i 
+
+\centered TABLE OF CONTENTS 
+
+Section 1.      The Transaction        
+^Purchase Price and Earnest Money Deposit        
+^The Closing        
+^Inspection and Condition of the Property        
+^Title Matters and Insurance        
+^Tenants; Leases; and Service Contracts        
+^Leasing Commissions        
+^Brokers        
+^Conditions of Closing        
+^Closing Costs And Proration Credits        
+^Closing Instruments        
+^Possession        
+^Damage or Appropriation of the Property        
+^Representation and Warranties        
+^Voluntary Termination; Default; Remedies        
+^General and Miscellaneous Provisions        
+
+\centered **EXHIBITS** 
+
+Exhibit A      Description of the Property
+Exhibit B      List of Leases
+Exhibit B-1      Rent Roll
+Exhibit C      List of Personal Property **(If Applicable)*
+Exhibit D      Service Contracts
+Exhibit E      Leased Personalty **(If Applicable)*
+Exhibit 4(a)      Due Diligence Documents
+Exhibit 6(b)      Form of Tenant Estoppel
+Exhibit 7      Leasing Brokers and Leasing Commissions
+Exhibit 11(a)(i)      Quitclaim Deed
+Exhibit 11(a)(ii)      Quitclaim Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty
+Exhibit 11(a)(iii)      Assignment and Assumption of Leases
+Exhibit 11(a)(iv)      Assignment and Assumption of Contracts
+Exhibit 11(a)(ix)      Tenant Notice
+Exhibit 11(a)(xi)      FIRPTA Affidavit
+Exhibit 14(a)(ii)      Pending Litigation
+
+\centered i 
+
+\centered PURCHASE AND SALE AGREEMENT 
+
+\centered As of [[Date 1: Date]] 
+
+This Purchase and Sale Agreement (this “**Agreement**”) is made by and between [[Seller]], Jr. and [[Party 3]], as Trustees of HAGERSTOWN NOMINEE TRUST u/d/t dated [[Date 2: Date]], and recorded with the Suffolk County, Massachusetts Registry of Deeds at Book 31900, page 198 (“**Seller**”), having an address at 60 State Street, Suite 1500, Boston, Massachusetts 02109, and [[Buyer]], a [[State of Formation: State]] [[Organization: EntityType]] (“**Buyer**”) having an address at 518 17th Street, Suite 1700, Denver, Colorado 80202. 
+
+\centered W I T N E S S E T H: 
+
+\centered PRELIMINARY STATEMENTS 
+
+^Seller is the owner of the following described property, which, taken together, is herein collectively called the “**Property**”, including without limitation: 
+
+^That certain tract of land, commonly known as 16500 Hunters Green Parkway, Lot 1, Hunters Green Business Park, Hagerstown, Maryland (the “**Premises**”) being bounded and more particularly described on *Exhibit A*, attached hereto and made a part hereof; together with all buildings, fixtures and improvements (excluding property of Tenants (as hereinafter defined)) constructed, installed and made thereon (the “**Improvements**”); and all easements and other rights and privileges appurtenant thereto; 
+
+^“Leases”: meaning any and all leases which demise, or any rental, license, concession or other agreement or arrangement for the occupancy, possession or use of, any space within any part of the Premises, together with any addendum, amendment, or supplement thereto, and assignment thereof, a true, accurate and complete list of which is set forth on *Exhibit B* attached hereto and made a part hereof, and all guarantees and security deposits and similar payments or other security by Tenants, and any memorandum of lease related thereto; 
+
+^All (a) mechanical systems and related equipment attached to the Improvements or located upon the Premises, including, but not limited to, electrical systems, plumbing systems, heating systems and air conditioning systems, (b) maintenance equipment, supplies and tools owned by Seller and used in connection with the Improvements, and (c) other machinery, equipment, computers, fixtures, supplies and personal property of every kind and character owned by Seller and located in or on or used in connection with the Premises or the Improvements or the operations thereon or the maintenance and repair thereof (the “**Personal Property**”); 
+
+^To the extent assignable without cost, Seller’s interest in all (a) maintenance, repair, service and pest control contracts, and (b) other contracts pursuant to which services or goods are provided to the Property, a true, accurate and complete list of which is set forth on *Exhibit D* attached hereto and made a part hereof (the “**Service Contracts**”); provided, that Buyer shall be obligated at the Closing to assume only those Service Contracts which Buyer approves in writing during the Inspection Period (as defined herein) and that any management or leasing agreements shall be terminated by Seller at Closing; 
+
+^To the extent assignable without cost, Seller’s interest in all leases (the “**Personal Property Leases**”) covering furniture, fixture and equipment located in or on or used exclusively in connection with the Premises or the Improvements or the operations thereon listed on *Exhibit E* (the “**Leased Personalty**”); provided, that Buyer shall be obligated at the Closing to assume only the Personal Property Leases which Buyer approves in writing during the Inspection Period; 
+
+^Seller’s interest in all warranties, guaranties and bonds relating to the Premises, the Improvements, the Personal Property or the Leased Personalty, to the extent the same are assignable, without cost to Seller; 
+
+^To the extent assignable without cost, all intangible property owned or held by Seller or in which Seller has an interest, if any, in connection with any of the Premises or the Improvements or the operations thereon, and the right to the use thereof, including but not limited to Seller’s rights under governmental permits, licenses, certificates of occupancy, or approvals and the right to the use of (without warranty as to exclusivity or otherwise) any names, marks, trademarks, trade names and telephone numbers and listings employed in connection with the Premises or the improvements or the operations thereon (the “**Intangible Property**”). 
+
+^Seller proposes to sell and convey, and Buyer proposes to purchase, pay for and acquire, the Property for the Purchase Price (as hereinafter defined) and on the other terms and conditions set forth in this Agreement. 
+
+\centered STATEMENT OF THE AGREEMENT 
+
+NOW, THEREFORE**,** for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+^The Transaction. Seller agrees to sell and convey to Buyer, and Buyer agrees to purchase, pay for and acquire from Seller, the Property for the Purchase Price specified in Section 2 and on the other terms and conditions set forth in this Agreement. 
+
+^Purchase Price and Earnest Money Deposit. 
+
+^^Purchase Price and Payment. The purchase price to be paid to Seller by Buyer for the Property is Forty-One Million One Hundred Fifty Thousand Dollars $[[USD Value 1: Number]] (which is to be adjusted for certain charges and credits as provided in this Agreement) (the “**Purchase Price**”). 
+
+^^Payment Terms. The Purchase Price shall be paid to Seller by Buyer as follows: 
+
+^^^The sum of One Million Dollars ($[[USD Value 2: Number]]) (the “**Initial Deposit**”) will be wired or paid in good funds by Buyer to the Escrow Agent (as hereinafter defined) within two (2) business days of the execution of this Agreement by both parties.
+
+^^^The sum of One Million Dollars ($[[USD Value 2]]) (the “**Additional Deposit**”) will be wired or paid in good funds by Buyer to the Escrow Agent (as hereinafter defined) within two (2) business days of the Due Diligence Expiration Date (if the Buyer has timely elected to continue this Agreement prior thereto). The Initial Deposit and the Additional Deposit are hereinafter collectively referred to as the “**Deposit**”. The Deposit shall be held by Escrow Agent and distributed as provided in Section 2(c).
+
+^^^The Purchase Price, in the amount of Forty-One Million One Hundred Fifty Thousand Dollars ($[[USD Value 1]]) (which is to be adjusted for the Deposit and certain charges and credits as provided in this Agreement), shall be paid to Seller by Buyer at the Closing (as hereinafter defined) by wire transfer through Escrow Agent on the Closing Date (as hereinafter defined).
+
+^^Deposit. The escrow agent hereunder shall be: First American Title Insurance Company, National Commercial Services (the “**Escrow Agent**”). Seller and Buyer hereby appoint Escrow Agent to act as escrow agent under this Agreement and to hold and deliver, pursuant to the terms of this Agreement, the documents and funds to be deposited into escrow as provided in this Agreement and in Schedule One attached hereto. The Deposit paid to Escrow Agent by Buyer shall be held by Escrow Agent in an interest bearing account, and except in the event of failure to close this transaction by reason of Buyer’s breach, any interest accrued thereon shall belong to Buyer and shall be applied and disposed of as follows: 
+
+^^^Closing. If the transaction is closed by the Closing Date (as hereinafter defined), then the parties agree that the Purchase Price (which is to be adjusted for certain charges and credits as provided in this Agreement) shall be paid by Buyer on the Closing Date as follows: 
+
+^^if the Buyer elects to apply the Deposit (but not the interest thereon) to the Purchase Price, the Deposit (but not the interest thereon) shall immediately be paid by wire transfer as directed by Seller and the balance of the Purchase Price (which is to be adjusted for certain charges and credits as provided in this Agreement) shall immediately be paid by Buyer by wire transfer as directed by Seller; or 
+
+^^if the Buyer elects not to apply the Deposit to the Purchase Price, an amount equal to the full amount of the Purchase Price (which is to be adjusted for certain charges and credits as provided in this Agreement), shall immediately be paid by wire transfer as directed by Seller, and the Escrow Agent shall pay to Buyer the Deposit by separate wire or check. The interest shall be paid directly to Buyer by separate wire or check by the Escrow Agent, whether the Deposit is or is not applied to the Purchase Price at Closing. 
+
+^^^Failure to Close. If this transaction is not closed, then Escrow Agent shall pay the Deposit and all interest thereon, to Buyer or Seller as provided in this Agreement. 
+
+^The Closing. At the closing (the “**Closing**”), Seller shall deliver to Escrow Agent a deed substantially in the form attached hereto as *Exhibit 11(a)(i)* (the “**Deed**”) for the Property and the other Closing Instruments (as hereinafter defined) and Buyer shall pay the Purchase Price as provided in Section 2 and deliver to the Escrow Agent the Closing Instruments (as hereinafter defined) required to be delivered by Buyer. The Closing shall occur on [[Date 3: Date]] at or before 12:01 P.M. Eastern Time (standard or daylight as applicable in Boston, Massachusetts) (as may be extended in accordance with the terms hereof, the “**Closing Date**”) and shall be held through escrow with the Escrow Agent, or at such other time or place as may be agreed upon by both parties in writing. Any fees charged by the Escrow Agent for its services hereunder shall not exceed One Thousand Dollars ($[[USD Value 3: Number]]) and shall be split evenly between Buyer and the Seller. 
+
+^Inspection and Condition of the Property. 
+
+^^Access to and Inspection of the Property. Subject to the rights of tenants and other occupants under Leases (“**Tenants**”), Buyer shall have the right until the later of thirty (30) days after the date of delivery to Buyer of all of the documents listed on *Exhibit 4(a)* or [[Date 4: Date]] (the “**Due Diligence Expiration Date**”) (such period being referred to herein as the “**Inspection Period**”) to enter upon and have access to the Property, upon reasonable notice to Seller (which may be oral), in order to conduct surveys, tests, examinations, appraisals and inspections thereof; provided, that, any intrusive testing shall require Seller’s prior written consent, which consent shall not be unreasonably withheld, conditioned or delayed. Buyer shall not make any subsurface soil examinations unless Buyer has satisfied Seller that such examinations will not adversely affect any building foundations and/or utilities. Prior to entering upon the Premise pursuant to this Section 4(a), Buyer shall provide to Seller evidence of Buyer’s general public liability insurance with policy limits of $[[USD Value 4: Number]] in personal injury coverage and $[[USD Value 5: Number]] in property damage coverage naming Seller and New Boston Management Services, Inc. as an additional insured. At Seller’s option, Seller or Seller’s agent may accompany and/or observe Buyer during Buyer’s due diligence undertakings at the Property. After having conducted such inspections and tests, Buyer shall immediately restore the Property to the same condition as existed prior to Buyer’s entry thereon, reasonable wear and tear and casualty not caused by Buyer excepted. Buyer may communicate with any tenant of the Property, without Seller’s prior written consent. Seller will provide Buyer with legible copies of all the documents listed on *Exhibit 4(a)* (not later than five (5) business days after the date hereof) which Buyer may review during the Inspection Period. Seller shall, during the Inspection Period, promptly provide, or make available, to Buyer in Seller’s office or on Seller’s electronic data site, financial records including income and expense records, invoices, accounts payable and accounts receivable reports from management, correspondence from and to Tenants, and other documents in Seller’s possession which relate to the Property upon reasonable request from Buyer in writing. IT IS THE PARTIES EXPRESS UNDERSTANDING AND AGREEMENT THAT ALL SUCH MATERIALS ARE PROVIDED BY SELLER SOLELY FOR BUYER’S CONVENIENCE IN MAKING ITS OWN EXAMINATION AND DETERMINATION PRIOR TO THE DUE DILIGENCE EXPIRATION DATE AS TO WHETHER IT WISHES TO PURCHASE THE PROPERTY, AND IN MAKING SUCH EXAMINATION AND DETERMINATION, BUYER SHALL RELY EXCLUSIVELY ON ITS OWN INDEPENDENT INVESTIGATION AND EVALUATION OF THE PROPERTY. EXCEPT AS OTHERWISE PROVIDED EXPRESSLY IN THIS AGREEMENT SELLER MAKES NO REPRESENTATION AS TO THE ACCURACY, COMPLETENESS OR RELEVANCY OF ANY MATERIALS PROVIDED BY SELLER. Subject to the rights of Tenants, Buyer, and Buyer’s prospective mortgagee, shall also have the right subsequent to the Due Diligence Expiration Date to enter upon and have access to the Property upon reasonable notice to Seller (which may be oral), in order to conduct surveys, approvals and inspections thereof; provided, however, Buyer shall have no right to terminate this Agreement as a result of any information or belief acquired at or in connection with such access and/or inspection subsequent to the Due Diligence Expiration Date, except as otherwise provided in this Agreement. 
+
+^^Indemnification for Inspections. Buyer shall indemnify, defend and hold Seller and Seller’s partners, employees, officers, agents, contractors, and representatives harmless from and against any lien, liability, loss, damage, claim, fee, cost or expense, including reasonable attorney’s fees, for the costs of such inspections, tests and investigations and for physical damage to property or bodily injury to persons to the extent it results from any such entry upon or inspection or testing of the Property by Buyer, or by any employee, officer, agent, contractor, representative or assignee of Buyer; provided, however, that the foregoing indemnity shall not be applicable to conditions discovered by Buyer, but not originally caused by Buyer, nor shall such indemnity extend to any lien, liability loss, damage, claim, fee, or expense caused by or arising out of the negligence of Seller or its agents. This provision shall survive the termination of this Agreement for any reason or delivery of the Deed, as applicable. 
+
+^^Due Diligence Expiration. Buyer shall have the right to terminate this Agreement with or without reason in Buyer’s sole discretion by written termination notice to Seller received on or before the Due Diligence Expiration Date. If Buyer fails to deliver a written notice to Seller waiving its termination right hereunder on or before said date, then this Agreement shall automatically terminate and be of no further force and effect, except as otherwise provided herein. Any such timely termination notice or automatic termination shall be sufficient for the Escrow Agent to return the Deposit with interest accrued thereon to Buyer forthwith. If Buyer does provide notice to Seller in accordance with this Section 4(c) that Buyer waives its termination rights, then Buyer shall be deemed to have waived any right pursuant to this Section 4(c), Buyer shall no longer be entitled to terminate this Agreement pursuant to this Section 4(c), and this Agreement shall continue in full force and effect. 
+
+^^Notice of Code Violation. Seller does hereby agree to give to Buyer, promptly upon receipt, a copy of any written notice (the “**Governmental Violation** **Notice**”) which Seller receives prior to Closing from any governmental authority concerning a violation of any zoning or building or other code, law, statute, ordinance, rule, regulation or order which regulates the use of the Property. If said Governmental Violation Notice is received by Seller and delivered to Buyer on or before five (5) business days before the Due Diligence Expiration Date, then Buyer shall have the right to terminate this Agreement on account of said violation in accordance with Section 4(c) of this Agreement. If said Governmental Violation Notice is received by Buyer after five (5) business days before the Due Diligence Expiration Date but prior to the Closing Date, then, together with a copy of the Governmental Violation Notice, Seller shall give Buyer a written notice (the “**Seller’s Violation Cure Notice**”) stating that (i) Seller agrees to cure the violation identified in the Governmental Violations Notice, or (ii) Seller does not agree to, or cannot, cure the violation in the Governmental Violation Notice. If Seller gives Buyer notice that Seller will cure the violation identified in the Governmental Violation Notice, then Seller shall proceed with due diligence to effect such cure to the satisfaction of the entity citing such violation, and this transaction shall be closed on the Closing Date or such later date within twenty (20) days of the Closing Date as may be specified by Seller upon completion of such cure and Seller’s obligation to cure shall survive Closing. If Seller notifies Buyer that Seller cannot or will not cure the violation identified in the Governmental Violation Notice, then Buyer shall have the right, at its option, to take either of the following actions (x) Buyer may terminate this Agreement by written termination notice to Seller received by Seller within five (5) business days of delivery of Seller’s Violation Cure Notice; or (y) Buyer may proceed to close this transaction, in which event, Buyer shall waive Buyer’s objections and shall pay to Seller the full Purchase Price. If Buyer fails to respond timely to Seller’s Violation Cure Notice, then Buyer shall be deemed to waive any objection on account of such violation, Buyer shall no longer be entitled to terminate this Agreement as a result of such violation, and this Agreement shall continue in full force and effect. If Buyer receives a Governmental Violation Notice less than five (5) business days before the scheduled Closing Date, the Closing Date shall be extended at Buyer’s option, to the date that is five (5) business days after Buyer receives such notice. 
+
+^^Condition of the Property. Except as may be expressly set forth in this Agreement, Buyer is purchasing the Property AS IS, WHERE IS, WITH ALL FAULTS. Buyer shall rely solely upon its own review of documents and inspections with regard to the condition of the Property and the structural and mechanical systems of the improvements thereon, including, but not limited to, its location, size, subsurface or soil condition, construction and character; and, except as may be expressly set forth in this Agreement, Buyer specifically agrees that it shall purchase and acquire the Property AS IS, WHERE IS, WITH ALL FAULTS WITHOUT ANY REPRESENTATION OR WARRANTY BY SELLER WHATSOEVER, WHETHER EXPRESS OR IMPLIED EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT AS TO THE TRUTH OR ACCURACY OF ANY DOCUMENTS SUPPLIED, AS TO THE CONDITION OF THE PROPERTY, OR AS TO ITS FITNESS FOR ANY PARTICULAR PURPOSE, ALL OF WHICH ARE HEREBY EXPRESSLY DISCLAIMED BY SELLER. WITHOUT LIMITING 
+
+THE FOREGOING, BUYER DOES HEREBY SPECIFICALLY AFFIRM THAT, AS A RESULT OF THE FOREGOING PROVISIONS, ITS PURCHASE AND ACQUISITION OF THE PROPERTY SHALL BE MADE WITHOUT ANY REPRESENTATION OR WARRANTY BY SELLER EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT AS TO THE ENVIRONMENTAL CONDITION OF THE PROPERTY (INCLUDING ANY MATTERS RELATING TO SUCH ITEMS AS HAZARDOUS MATERIALS (AS DEFINED IN SECTION 14(a) OF THIS AGREEMENT), WASTE MATERIALS, UNDERGROUND STORAGE TANKS OR AREAS OR ANY OTHER ENVIRONMENTAL MATTER. 
+
+^^Effective upon Closing, Buyer releases Seller and its partners, trustees, beneficiaries, and their respective agents, representatives, and employees from any and all claims, demands, and causes of action, past, present, and future, that Buyer may have relating to (i) the condition of the Property at any time, before or after the Closing Date, including, without limitation, the presence of any Hazardous Materials (as defined in Section 14(a)(ix) of this Agreement), or (ii) any other matter pertaining to the Property except for, as to both (i) and (ii), (A) claims resulting from the breach of any representation or warranty, covenant, or indemnification obligation made by Seller in this Agreement to the extent that, and during the period, the same survive the Closing, (B) fraud or intentional misrepresentation, (C) covenants or indemnification obligations of Seller set forth herein or in the Closing Instruments (as hereinafter defined), and (D) tort claims, tenant claims, other contract claims and violations of applicable law arising from incidents occurring prior to the Closing Date. This release shall survive the Closing. 
+
+^Title Matters and Insurance. 
+
+^^Title Commitment; Survey. Buyer shall obtain, at its own expense, from a nationally recognized title insurance company selected by Buyer (the “**Title Company**”), a commitment for title insurance with endorsements required by Buyer (the “**Commitment**”) for the issuance of an owner’s policy of title insurance on a standard ALTA form (the “**Policy**”) with respect to the Property. Buyer shall obtain, at Buyer’s expense, such survey of the Property as Buyer shall desire. Seller shall have no obligation to provide or pay for the Commitment, Policy or survey Buyer may decide to obtain. Seller has provided to Buyer, at Seller’s cost, a copy of the most recent survey of the Property in Seller’s possession, without any representation as to its accuracy. 
+
+^^Title Matters and Encumbrances on Title. The Commitment shall show fee simple title to the Property in Seller, subject only to the following: (i) the standard exceptions for any owner’s policy, (ii) any recorded instruments or recorded title matters which affect the Property (items (i) and (ii) being herein referred to individually as a “**Title Encumbrance**”). Any Title Encumbrance which is approved or is deemed to be approved or waived by Buyer shall be a permitted exception or encumbrance on the title to the Property and shall be a “**Permitted Encumbrance**”. 
+
+^^Title Objection Notice. On or before the Due Diligence Expiration Date, Buyer may give to Seller written notice (the “**Title Objection Notice**”) of any Title Encumbrance which is not acceptable to Buyer as a Permitted Encumbrance on the title to the Property (the “**Title Objection**”). Any Title Encumbrance affecting the 
+
+Property not objected to in the Title Objection Notice from Buyer to Seller shall be deemed to be approved or waived by Buyer and shall be a Permitted Encumbrance. If Buyer fails to provide a Title Objection Notice timely to Seller, then Buyer’s right to object on account of title shall be deemed waived, and all Title Encumbrances shall be Permitted Encumbrances. 
+
+^^Title Cure Notice. If Buyer timely provides to Seller a written Title Objection Notice, then, within five (5) days after the receipt of Buyer’s Title Objection Notice, Seller shall give to Buyer a written notice (the “**Title Cure Notice**”) stating that (i) Seller agrees to cure one or more of the defects identified in the Title Objection Notice on or before the Closing Date, or (ii) Seller does not agree to, or cannot, cure one or more of the defects identified in the Title Objection Notice; it being understood and agreed that Seller shall not be obligated to cure any defects. If Seller gives Buyer notice that Seller will cure any of the Title Objections, then this transaction shall be closed on the Closing Date unless Seller notifies Buyer that it cannot effect the cure before the scheduled Closing Date, in which event the Closing Date shall be extended for up to twenty (20) days to permit Seller to effect such cure. Notwithstanding the foregoing, Seller shall be obligated to eliminate in connection with the Closing all mortgages and assignments of leases and rents, mechanic’s liens, tax liens, assessment liens, judgment liens, mortgage liens, and other similar exceptions to the title to the Property which affect Seller’s Interest (“**Monetary Encumbrances**”). Seller shall be entitled to use such portion of the Purchase Price as is necessary to pay off all such Monetary Encumbrances and any Title Objection that Seller agrees to cure. Buyer hereby acknowledges that any instruments evidencing the release or discharge of the Monetary Encumbrances shall be recorded at or after the Closing in accordance with standard conveyancing practice, so long as Title Company deletes them from the Policy at Closing. If Seller notifies Buyer that Seller will not, or cannot, remove any Title Objection, then Buyer shall have the right, at its option, to take either of the following actions (x) Buyer may terminate this Agreement by written termination notice to Seller received by Seller within five (5) business days of delivery of Seller’s Title Cure Notice, or (y) Buyer may proceed to close this transaction, in which event Buyer shall waive Buyer’s objections and shall pay to Seller the full Purchase Price. 
+
+^^Survey Objection Notice. On or before the Due Diligence Expiration Date, Buyer may give to Seller written notice (the “**Survey Objection Notice**”) of any survey matter which will materially adversely affect Buyer’s use of the Property and which is not acceptable to Buyer (the “**Survey Objection**”). Any survey matter affecting the Property not objected to in the Survey Objection Notice from Buyer to Seller shall be deemed to be approved or waived by Buyer. If Buyer fails to provide a Survey Objection Notice timely to Seller, then Buyer’s right to object on account of survey matters shall be deemed waived. 
+
+^^Survey Cure Notice. If Buyer timely provides to Seller a written Survey Objection Notice, then, within five (5) days after the receipt of Buyer’s Survey Objection Notice, Seller shall give to Buyer a written notice (the “**Survey Cure Notice**”) stating that (i) Seller agrees to cure one or more of the defects identified in the Survey Objection Notice on or before the Closing Date, or (ii) Seller does not agree to, or cannot, cure one or more of the defects identified in the Survey Objection Notice; it being understood and agreed that Seller shall not be obligated to cure any defects. If Seller gives Buyer notice that Seller will cure any of the Survey Objections, then this transaction shall be closed on the Closing Date unless Seller notifies Buyer that it cannot effect the cure before the scheduled Closing Date, in which event the Closing Date shall be extended for up to twenty (20) days to permit Seller to effect such cure. Seller shall be entitled to use such portion of the Purchase Price as is necessary to cure any Survey Objection that Seller agrees to cure. The Buyer hereby acknowledges that any instruments evidencing the cure of any Survey Objection shall be recorded at or after the Closing in accordance with standard conveyancing practice, so long as Title Company deletes them from the Policy at Closing. If Seller notifies Buyer that Seller will not, or cannot, remove any Survey Objection, then Buyer shall have the right, at its option, to take either of the following actions (x) Buyer may terminate this Agreement by written termination notice to Seller received by Seller within five (5) business days of delivery of Seller’s Survey Cure Notice, or (y) Buyer may proceed to close this transaction, in which event Buyer shall waive Buyer’s objections and shall pay to Seller the full Purchase Price. 
+
+^^New Encumbrances. Buyer shall have the right to object to any Title Encumbrances or survey matters first occurring after the date of the Commitment or survey (each a “**New Encumbrance**”) that are not acceptable to Buyer, by giving written notice of the New Encumbrance to which Buyer is objecting at any time prior to Closing, but not later than five (5) business days after discovery of the same. If Buyer does not object to any New Encumbrance by giving timely written notice as herein provided, such New Encumbrance shall be a Permitted Encumbrance. In the event Buyer gives timely written notice of objection to any New Encumbrance as herein provided, the provisions of Section 5(d) or 5(f) shall apply with respect thereto as if set forth herein in full. If any New Encumbrance is a Monetary Encumbrance, Seller must satisfy same on or before the Closing subject to Section 5(d). 
+
+^^Title and Survey Fees. Buyer shall pay for the title search and for all premiums to the Title Company attributable to the issuance of the Commitment and the Policy. Buyer shall also pay any premium, if any, attributable to special endorsements and affirmative coverages, and mortgagee’s policy of title insurance. Buyer shall pay all costs for any new or updated survey ordered by Buyer. 
+
+^Tenants; Leases; and Service Contracts. 
+
+^^Existing Tenants and Leases. Attached hereto and made a part hereof on *Exhibit B-1* is a current rent roll (the “**Rent Roll**”) for all Tenants. Seller agrees to provide an updated, certified Rent Roll at the Closing, accurate as of the Closing Date. During the Inspection Period and subsequent to the expiration of the Inspection Period, Seller shall not enter into any new leases, or amend, modify, extend, renew or terminate any existing leases without the prior written consent of Buyer, which consent shall not be unreasonably withheld, conditioned or delayed (it being understood and agreed that if Buyer does not respond to Seller’s written request (made in accordance with the notice provisions of this Agreement and accompanied by the applicable documentation for which consent is sought) for consent to such a transaction within five (5) business days, Buyer’s consent shall be deemed given). In the event that Seller shall enter into any new lease, or amend, modify, extend or renew any lease, which Buyer has approved or deemed to have approved in accordance with this Section 6(a), all costs for tenant improvements and leasing commissions incurred in connection with any such transaction shall be pro-rated between Seller and Buyer based upon the portion of the new (or extended) lease term which falls within each party’s period of ownership. 
+
+^^Tenant Estoppel. Seller shall obtain a tenant estoppel certificate from Home Depot U.S.A. Inc. (“**Home Depot**”) substantially in the form of *Exhibit 6(b)* (the “**Tenant Estoppel Certificate**”) prior to Closing, and it shall be a pre-condition to Buyer’s obligation to close that Seller has obtained said Tenant Estoppel Certificate and delivered it to Buyer at least [five (5)] business days prior to Closing. For purposes of satisfying this condition precedent, the Tenant Estoppel Certificate shall (i) be dated no more than thirty (30) days prior to the Closing, (ii) not disclose a monetary or other material default beyond any applicable cure period by the landlord or tenant, or a condition which, with the giving of notice or the passage of time, or both, would constitute a monetary or other material default by either landlord or tenant, under the applicable Lease, (iii) disclose no material inconsistencies or variations from the list of Leases shown on *Exhibit B*, the Rent Roll (*Exhibit B-1*), or the terms and provisions of the applicable Lease, and (iv) be substantially in the form of *Exhibit 6(b)* or in such other form as Buyer may approve in its sole discretion. 
+
+^^Service Contracts. Seller shall cooperate reasonably with Buyer to obtain a subordination, non-disturbance and attornment agreement (“**SNDA**”) from Home Depot in commercially reasonable form and acceptable to Buyer on or before the Closing Date, but such shall not be a condition of Closing; provided, however, that execution by Home Depot of the form of SNDA attached to its Lease shall be a condition of Closing for Buyer’s benefit. During the Inspection Period, Buyer shall notify Seller in writing which Service Contracts or Personal Property Leases Buyer will assume at Closing. Seller shall terminate as of the Closing Date, at no cost to Buyer, all Service Contracts or Personal Property Leases which Buyer has not elected to assume. All management and leasing agreements shall be terminated at Closing at Seller’s cost. 
+
+^^Seller’s Covenants. Seller hereby covenants and agrees with Buyer that, after the date of this Agreement and until Closing: 
+
+^^^Seller shall not enter into any Service Contracts, Personal Property Leases, easements or other matters affecting title which would continue for a period subsequent to the Closing Date without the prior written approval of Buyer, which consent may be withheld in Buyer’s sole discretion. 
+
+^^^Seller will cause the Property to be maintained and operated in the same manner as it has previously been maintained and operated in all material respects. 
+
+^^^Seller shall not cause or agree to any action that makes any of Seller’s representations set forth in this Agreement untrue. 
+
+^^^Seller shall not collect rent for more than thirty (30) days in advance. 
+
+^^^Seller shall replace any items of personal property or equipment owned by Seller that fail prior to the Closing Date with items of equivalent function and value. 
+
+^^^Seller hereby agrees that from the date hereof until the Closing, it will maintain in full force and effect fire and extended coverage insurance upon the Property and public liability insurance with respect to damage or injury to persons or property occurring on the Property in such amounts and with deductibles as is maintained by Seller on the date of this Agreement. 
+
+^^^Seller will take the Property off the market and not enter into any backup contracts so long as this Agreement continues in effect. 
+
+^^^Seller will advise Buyer promptly of any litigation, arbitration or administrative hearing concerning or affecting the Property to which Seller is a party, or if any representation of Seller becomes untrue, of which Seller has actual knowledge or notice. 
+
+^Leasing Commissions. Except as otherwise provided with respect to a Lease approved or deemed approved by Buyer pursuant to Section 6(a) above, Seller shall be responsible for all leasing commissions and tenant improvements, concessions or incentives, if any, which are attributable to the current term of the existing Home Depot Lease through [[Date 5: Date]] (the “**Home Depot Current Term**”) or attributable to any extension exercised prior to Closing. A true, accurate and complete list of Seller’s leasing brokers who have commissions becoming due after the Closing Date is attached hereto as *Exhibit 7* and made a part hereof. Buyer shall be responsible for any leasing commission which may become due and payable after the Closing Date with respect to any of the Leases including, extensions, renewals, modifications, expansions, and options exercised after Closing (the “**Post Original Term**”). Buyer hereby agrees to indemnify, defend and hold harmless Seller from and against any liability, cost or expense, plus all costs of collection, including litigation expenses and attorneys’ fees, as a result of any claim for a leasing commission that has been incurred with respect to the Property for the Post Original Term. Seller hereby agrees to indemnify, defend and hold harmless Buyer from and against any liability, cost or expense, plus all costs of collection, including litigation expenses and attorney’s fees, as a result of any claim for tenant improvements, concessions or incentives or a leasing commission that has been incurred with respect to the Premises for the Home Depot Current Term, except as otherwise provided with respect to a Lease approved or deemed approved by Buyer pursuant to Section 6(a)(i) above. These indemnities shall survive delivery of the Deed. 
+
+^Brokers. Buyer and Seller hereby acknowledge that neither of them has dealt with a real estate broker in this transaction other than CB Richard Ellis, Inc. (“**Broker**”). Seller shall pay Broker such brokerage fee as is due under a separate agreement with Broker if, as and when the Closing takes place and the Purchase Price is paid. Each of Buyer and Seller does hereby agree to indemnify, defend and hold harmless the other party from and against any liability, cost or expense, plus all costs of collection, including litigation expenses and attorneys’ fees, as a result of a claim for a commission, fee or other compensation made by any real estate broker, finder or other person and asserted against the other party by reason of an arrangement made or alleged to have been made by the indemnifying party. This indemnity shall survive termination of this Agreement for any reason or delivery of the Deed, as applicable. 
+
+^Conditions of Closing. 
+
+^^Buyer’s Conditions. The obligations and liabilities of Buyer hereunder shall in all respects be conditioned upon the satisfaction of each of the following conditions prior to or simultaneously with the Closing, any of which may be waived by written notice from Buyer to Seller. 
+
+^^^Seller has complied with and otherwise performed in all material respects each of the covenants and obligations of Seller set forth in this Agreement. 
+
+^^^All representations and warranties of Seller as set forth in this Agreement shall be true and correct in all material respects when made and as of the date of Closing as though such representations and warranties were made on and as of the date of Closing. 
+
+^^^Buyer shall have received the Tenant Estoppel Certificate in the form provided for in Section 6(b) and the SNDA in the form provided for in Section 6(c). 
+
+^^^In addition, it is a condition to Closing that Home Depot shall not have terminated, or given notice of intent to terminate, its Lease pursuant to the terms of such Lease. 
+
+^^^The Title Company shall issue (or shall be prepared and irrevocably and unconditionally committed to issue) the Title Policy in form and content as required by Buyer. 
+
+^^^Any Governmental Violation Notice that Seller has agreed to cure, as provided in Section 4(d) above, shall have been cured to the satisfaction of the issuer of the notice. 
+
+^^^The Property shall be conveyed free and clear of all liens, except Permitted Exceptions. 
+
+^^^Any other condition set forth in this Agreement to Buyer’s obligation to close has been satisfied by the applicable date. 
+
+If any condition specified in Section 9(a)(iii), (iv) or (vii) is not satisfied on or before the Closing Date, Buyer may, at its option, and in its sole and absolute discretion, extend the Closing Date to allow Seller a sufficient time (but not to exceed twenty (20) days) within which to cure or satisfy such condition, and Seller shall immediately commence prosecution of such cure or satisfaction and diligently pursue the same to completion, at which time a new Closing Date shall be scheduled on or before the 10th day after Buyer’s acceptance of such cure or satisfaction, or Buyer may, in its sole and absolute discretion, elect the remedies set forth in the following sentence. If any condition specified in Section 9(a)(i) through (viii) is not satisfied on or before the Closing Date, Buyer may, at its option and in its sole and absolute discretion, (a) waive any such condition which can legally be waived and proceed to Closing without adjustment or abatement of the Purchase Price, or (b) terminate this Agreement by written notice thereof to Seller, in which case the Deposit shall be returned to Buyer. In addition to (and notwithstanding) the foregoing, if the failure of the condition is due to a breach by Seller under this Agreement, Buyer may pursue any of its remedies under Section 15(d). 
+
+^^Seller’s Conditions. The obligations and liabilities of Seller hereunder shall be conditioned upon Buyer performing in all material respects its obligation to close the transaction contemplated under this Agreement at the time and in the manner required under this Agreement, any of which may be waived by written notice from Seller to Buyer. 
+
+In the event Seller shall terminate this Agreement as a result of the non-satisfaction of the foregoing condition, Seller shall be entitled to an immediate release of the Deposit and all accrued interest thereon from the Escrow Agent to Seller as Seller’s sole remedy, all as provided for in Section 15(c). 
+
+^Closing Costs And Proration Credits. At the Closing, the following items shall be adjusted between Seller and Buyer effective as of the close of business on the day preceding the Closing Date, with Buyer being deemed to own the Property on the Closing Date: 
+
+^^Title Insurance Costs. Buyer shall pay the cost of the title insurance premium and fees as provided in Section 5. 
+
+^^Survey. Buyer shall pay for the cost of any new or updated survey ordered by Buyer. Seller shall pay for the updated Survey ordered by Seller. 
+
+^^Escrow Fees. Buyer and Seller shall each pay half of the fees for escrow services. 
+
+^^Conveyance, Recording. Buyer shall pay all recording fees related to the purchase and finance of the Property. Seller shall pay all recording fees relating to clearing title and paying off and releasing all liens and Monetary Encumbrances and to Seller’s authority. The parties shall each pay one-half of the documentary stamp tax and the transfer tax. This provision shall survive delivery of the Deed. 
+
+^^Taxes. The amount of any assessment which is a lien on the Property, and any outstanding real estate taxes will be pro-rated, between the parties, with Seller responsible for the period prior to the Closing Date and Buyer responsible for the period commencing on and after the Closing Date. Impact fees and special assessments imposed prior to the Closing Date for improvements already installed shall be paid off by Seller at Closing. This provision shall survive delivery of the Deed. 
+
+^^Current Real Estate Taxes. The adjustment for current real estate taxes shall be based upon the number of days in the calendar year or property tax year, if different, in which the Closing occurs, namely, on a per diem basis, and based upon the actual amount of real estate taxes, if known at the time of Closing. If the actual amount of real estate taxes is not known at the time of the Closing, then the parties shall adjust the taxes based on the actual amount of real estate taxes for the prior year. Such prorations as described herein shall be re-adjusted by the parties as soon as the actual amount of taxes is known, upon presentation of reasonable evidence thereof. This provision shall survive delivery of the Deed. Fees and costs for resolution of the tax appeal for the most recent triennial valuation shall be prorated based on the portions of such three-year period falling before and after Closing. 
+
+^^Rents Receivable. Current rents, or any other rental adjustments payable by Tenants for expenses relating to the Property, which have been received by Seller prior to the Closing Date, shall be prorated between the parties on a per diem basis, with Seller retaining amounts applicable to the period before the Closing Date and providing a credit to Buyer for the period on and after the Closing Date. No proration shall be made for rents delinquent as of the Closing Date (hereafter called the “**Delinquent Rents**”). Seller may collect Delinquent Rents subject to Section 10(i) below. Buyer shall have no liability to Seller for the Delinquent Rents and shall have no obligation to collect the Delinquent Rents. Delinquent Rents collected by Buyer from Tenants shall be applied first to current rents and other amounts owed by such tenant and then to Delinquent Rents. Any such amounts applicable to Delinquent Rents received by Buyer shall be promptly forwarded to Seller. In addition, Buyer shall be given credit at the Closing for any prepaid rents actually received by Seller prior to, and attributable to the period commencing on or after the Closing Date. Each of Buyer and Seller agrees to deliver promptly to the other party, if and when received, any rent amounts and escalations which are due to the other party. This provision shall survive delivery of the Deed. 
+
+^^Escalation Payments. The rental adjustments for increases in the operating expenses (including real estate taxes) of the Property or other operating charges which are payable by Tenants pursuant to the terms of their Leases (herein called “**Escalation Payments**”) shall be prorated effective as of Closing to the extent they have been received by Seller and adjusted in the same manner as rent to the extent not received. Any reconciliation of Escalation Payments made by tenant on an estimated basis shall be made directly between Buyer and such tenant, and Seller and Buyer shall work cooperatively to allocate any such reconciliation between their respective periods of ownership. If it is known at Closing that Seller has collected amounts greater than those Home Depot will owe for taxes, operating expense or other pass-through amounts, the excess collected shall be credited to Buyer at Closing. This provision shall survive delivery of the Deed. 
+
+^^Delinquent Rent Claims. If, on the Closing Date, there should be one or more claims for rent past due (herein called “**Delinquent Rent**”) from one or more Tenants or former tenants of the Premises, then Seller reserves the right, and retain its claims, to collect and keep such Delinquent Rent. Seller shall be entitled to receive, and may sue any former tenant to recover, any such Delinquent Rent; provided that Seller shall not commence any action to evict or eject Tenants from the Premises; nor shall Seller cause any liens to be filed against any tenant’s leasehold estate on account of any such claim or collection action, without the prior written approval of Buyer. Any rents received by Buyer from Tenants after the Closing Date shall first be applied to amounts currently due and then to back due rents. Buyer shall promptly pay to Seller any rent from former tenants or Tenants for the period prior to the Closing Date which are due to Seller in accordance with the terms hereof, although Buyer shall not be obligated to collect the same. This provision shall survive delivery of the Deed. 
+
+^^Tenant Security Deposits. The amount of all tenant security deposits, if any, which Seller is obligated to return to Tenants in accordance with the terms of said Leases, shall be paid or credited to Buyer at the Closing whether or not Seller is actually holding them. In the event that any security deposit is in the form of a letter of credit or other instrument, any and all costs and fees associated with the assignment or transfer of the letter of credit to Buyer shall be the sole and exclusive responsibility of Seller. To effect such assignment or transfer, Seller shall provide, execute and deliver to Buyer at the Closing such instruments of assignment or transfer required pursuant to the terms of the applicable letter of credit or other instrument. Buyer does hereby agree to indemnify, defend and hold harmless Seller from and against any claim which may be asserted by a tenant for a security deposit that has been paid or credited to Buyer under this Agreement. This provision shall survive the delivery of the Deed. 
+
+^^Operating Expense Charges. The amount of any gas, electric, water or other utility bill, the amount due on any Service Contract and any other operating expense relating to the Property and allocable to the period prior to the Closing Date shall be paid by Seller. To the extent applicable, Seller shall obtain final readings from the applicable utility providers effective as of the Closing Date and shall pay or credit to Buyer at Closing all utility charges owed by Seller for periods prior to Closing. If the amount of any utility bill, Service Contract or other operating expense charge cannot be determined for payment at Closing, or if it is allocable in part to the period preceding and in part to the period including and following the Closing Date, then it shall be treated and paid in the following manner: the amount of such charge shall be estimated based upon the prior billing period and prorated on a per diem basis; Seller’s proportionate share thereof shall be credited against the Purchase Price payable at the Closing; and the entire amount of the bill shall be paid by Buyer after the Closing, with the amount of such operating expenses so estimated, prorated and paid being adjusted post-closing as necessary. If Seller has made any deposit with a utility company, then Seller shall be entitled to have the same refunded to it immediately after the Closing, or credited at the Closing if the deposit is transferred to the Buyer. This provision shall survive delivery of the Deed. 
+
+^^Seller shall complete and pay in full for any tenant improvements that are the landlord’s responsibility attributable to the Home Depot Current Term and shall credit to Buyer at Closing any rent credits, abatements or incentives applicable to the balance of such term. This provision shall survive delivery of the Deed. 
+
+^^Proration of Other Revenue and Expense Items. The parties hereby agree that any other revenue and expense item, including management fees and superintendent costs which are received or incurred in respect of the Property, which is customarily prorated in a transaction of this nature and which is not otherwise expressly provided for in this Agreement shall be prorated on a per diem basis effective as of the close of business on the day preceding the Closing Date. This provision shall survive delivery of the Deed. 
+
+^^Other Expenses. Except as may otherwise be provided in the Agreement, each party shall be responsible for all other fees, costs and expenses incurred by it in connection with this transaction, including, without limitation, any such expenses for services rendered by accountants, appraisers, architects, attorneys, consultants, contractors, engineers. 
+
+^Closing Instruments. Seller shall be responsible for the preparation of all of the Closing Instruments specified in Section 11(a) and other provisions of this Agreement, unless otherwise specified in this Agreement. If the form of any Closing Instrument is not attached hereto, the parties shall agree upon such form and attach it during the Inspection Period. Ten (10) days prior to Closing, Buyer shall notify Seller of any assignment of Buyer’s interest in this Agreement as permitted by Sections 16(e) and 16(i) hereof so that the Closing Instruments can be prepared to reflect such assignment. If the Seller is not so notified, Seller shall prepare the Closing Instruments to the Buyer named herein. 
+
+^^Instruments to be Delivered by Seller. At the Closing, Seller shall execute and deliver, or shall cause to be executed and delivered, to Escrow Agent for delivery to Buyer upon satisfaction of the conditions in Section 9(b) the following instruments (all such instruments in this Section 11 being herein called the “**Closing Instruments**”): 
+
+^^^the Deed by which Seller grants and conveys good, clear, record and marketable title to the Property to Buyer subject only to the Permitted Encumbrances in the form attached hereto as *Exhibit 11(a)(i)*; 
+
+^^^a Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty by which Seller transfers to Buyer free and clear of liens and claims the Personal Property, Intangible Property and Leased Personalty in the form attached hereto as *Exhibit 11(a)(ii)*; 
+
+^^^an updated, certified Rent Roll, and an Assignment and Assumption of Leases, by which Seller shall assign to Buyer and Buyer shall assume from Seller each existing Lease, and by which Buyer shall assume and agree to perform all of Seller’s obligations as the landlord under each such Lease arising from and after the Closing, with such instrument also to provide that Seller shall indemnify Buyer against any claim for a matter arising with respect to any such Lease prior to the Closing Date, and that Buyer shall indemnify Seller against any claim for a matter arising with respect to any such Lease on or after the Closing Date in the form attached hereto as *Exhibit 11(a)(iii)*; 
+
+^^^an updated list of Service Contracts certified by Seller to be complete and correct and an Assignment and Assumption of Contracts, by which Seller shall assign to Buyer and Buyer shall assume from Seller each existing Service Contract which Buyer has elected to assume pursuant to the provisions of Section 6(c) of this Agreement; and by which Buyer shall agree to perform Seller’s obligations under each Service Contract arising from and after the Closing, which assignment shall also provide that Seller shall indemnify Buyer against any claim for a matter arising with respect to such Service Contract prior to the Closing Date, and that Buyer shall indemnify Seller against any claim for a matter arising with respect to such Service Contract on or after the Closing Date in the form attached hereto as *Exhibit 11(a)(iv)*. 
+
+^^^an assignment of each warranty, guaranty, license and the like related to the Property, to the extent assignable (as part of the Quitclaim Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty) together with originals of all such documents as are in Seller’s possession; if Seller has transferable rights under any declaration of covenants or similar title documents, these shall be assigned to Buyer if Buyer so requests; 
+
+^^^a mechanic’s lien and parties-in-possession affidavit and indemnity given by Seller to the Title Company sufficient for the Title Company to delete the standard exceptions for mechanics liens and for parties in possession other than those shown on the Rent Roll; 
+
+^^^evidence acceptable to the Title Company and reasonably acceptable to Buyer, authorizing the consummation by Seller of the purchase and sale transaction contemplated hereby and the execution and delivery of the Closing Instruments on behalf of Seller, an appropriate certificate of Seller regarding the authorization of the sale and the authority of any individual or entity signing this and any of the Closing Instruments on behalf of Seller; 
+
+^^^a closing statement prepared in accordance with this Agreement; 
+
+^^^a notice to each Tenant regarding transfer of the Property to Buyer, and direction and address for future rent payments in the form attached hereto as *Exhibit 11(a)(ix)*, delivered to Buyer together with all original Leases, lease files and keys to the Property (labeled in an orderly manner), in the Seller’s possession; 
+
+^^^such documents, if any, as may be required to withdraw Seller’s right to use the trade name of the Property; 
+
+^^^an executed certificate confirming Seller’s non-foreign status sufficient to comply with the requirements of Section 1445 of the Code, commonly known as the Foreign Investment in Real Property Tax Act of 1980, and regulations applicable thereto in the form attached hereto as *Exhibit 11(a)(xi)*; together with any documents required with respect to similar state or local tax laws, if any. 
+
+^^^the executed original Tenant Estoppel Certificate, provided that copies of the executed Tenant Estoppel Certificate in Seller’s possession shall be provided to Buyer within two (2) business days after the same is received by Seller; 
+
+^^^letters executed by Seller addressed to each utility company servicing the Property advising of the change of ownership of the Property; 
+
+^^^All original Leases (or certified copies thereof to the extent of any missing original leases) and Tenant files including correspondence by and from each tenant to and from Seller or any previous owner as Landlord in Seller’s possession; 
+
+^^^As-built and proposed plans of all tenant spaces as are in Seller’s possession and prepared for tenant leases; 
+
+^^^Final water and sewer bills, to the extent available; 
+
+^^^Keys to the Premises, properly labeled; software; combinations to any locks; 
+
+^^^Originals of all Service Contracts, warranties and guaranties which are the subject of the Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty described in Section 11(a)(iv) (or certified copies thereof to the extent any are missing); together with copies of termination agreements or notices of termination for Service Contracts not assigned to Buyer; 
+
+^^^A certificate (“**Seller’s Bring Down Certificate**”) reaffirming the truth and accuracy as of the Closing Date of Seller’s Representations and Warranties as set forth in Section 14 of this Agreement; 
+
+^^^Other documents reasonably and customarily executed and delivered by a seller at a real estate closing in the county where the Property is located or which may be requested by Buyer or Title Company to complete the closing; 
+
+^^^Originals of all Personal Property Leases which are the subject of the Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty described in Section 11(a)(ii) (or certified copies thereof to the extent any are missing); and 
+
+^^^On the Closing Date, Seller shall execute and deliver to Buyer (or to the Escrow Agent, if applicable) standard affidavits and indemnities regarding mechanics’ liens, parties in possession and no interests granted by Seller after the date of the last title commitment and other similar matters addressed to and in form and substance reasonably acceptable to Buyer’s title insurer in order that such title insurer will issue both an owner’s and a lender’s title insurance policy without exception for (a) mechanics’ liens or the rights of parties in possession (other than the rights of Tenants), and (b) any security interest in the Property granted by Seller to any other party and with the commercially reasonable or customary endorsements required by Purchaser and insuring the gap since the most recent title commitment. 
+
+^^Instruments and Purchase Price to be Delivered by Buyer. At the Closing, Buyer shall execute and deliver to Escrow Agent, for further delivery to Seller upon satisfaction of the conditions in Section 9(a), the following Closing Instruments. 
+
+^^^any of the Closing Instruments set forth in Section 11(a) wherein Buyer’s execution and delivery is necessary or appropriate including, without limitation, the Bill of Sale of Personal Property and Assignment of Intangible Property and Leased Personalty, the Assignment and Assumption of Leases, and the Assignment and Assumption of Contracts; 
+
+^^^a closing statement and any other document which is reasonably and customarily executed and delivered by a buyer at a real estate closing in the county where the Property is located or which may be reasonably requested by Seller; 
+
+^^^an appropriate certificate of Buyer regarding the authorization of the purchase and acquisition and the authority of any individual and entity signing this Agreement or any of the Closing Instruments on behalf of Buyer; 
+
+^^^the Purchase Price as adjusted pursuant to this Agreement in immediately available funds, United States Currency; 
+
+^^^all affidavits and other documents and evidence as Seller and/or Title Company may require to assure compliance with the provisions and requirements of the so-called “**Patriot Act**”, USCA; and 
+
+^^^A certificate (“**Buyer’s Bring Down Certificate**”) reaffirming the truth and accuracy as of the Closing Date of Buyer’s Representations and Warranties as set forth in Section 14 of this Agreement. 
+
+^Possession. At the Closing, Buyer shall be entitled to, and Seller shall deliver to Buyer, possession of the Property free of any possessory right or claim of Seller, but subject to all laws, rules and statutes including but not limited to building and zoning laws, the Permitted Encumbrances and the Leases set forth in *Exhibit B*. 
+
+^Damage or Appropriation of the Property. 
+
+^^Damage. If, prior to the Closing Date, any loss or damage to the Property should occur as a result of a fire, or some other casualty, and if such loss or damage would require an expenditure of a dollar amount in excess of Two Hundred Thousand Dollars ($[[USD Value 6: Number]]) in order to restore the Property to substantially the same condition as its present condition, or gives Home Depot the right to terminate its Lease, then Buyer shall have the right, at its option, to terminate this Agreement by written termination notice to the other party received within ten (10) days after Seller has given Buyer written notice of such loss or damage. If Buyer does not elect to terminate this Agreement in accordance with the previous sentence, or if the loss or damage would require an expenditure of less than Two Hundred Thousand Dollars ($[[USD Value 6]]), then the parties shall proceed to close this transaction in accordance with the terms hereof except that Buyer shall receive an assignment of any casualty loss insurance proceeds, if any, attributable to the loss or damage and Buyer shall receive a credit for the amount of the deductible and any self-insured or uninsured amount required under Seller’s policy (subject, as to both the insurance proceeds and the deductible, to a reduction equal to the amount if any expended by Seller to repair such loss or damage). Seller shall make the claim under its insurance policies, pay the deductibles and cooperate in obtaining the insurance proceeds for Buyer. Notwithstanding the foregoing, if a portion of the insurance proceeds is earmarked for rent loss reimbursement, then the rent loss reimbursement shall be prorated as if paid by Tenants pursuant to Sections 10(g) and 10(h) above. This provision shall survive delivery of the Deed. 
+
+^^Appropriation. If appropriation proceedings should be commenced or threatened against the Property or any portion of or access to the Property, or if any governmental or other authority should notify Seller prior to the Closing Date, of its intention to acquire the same pursuant to the power of eminent domain, then Seller shall promptly thereafter give to Buyer written notice of such action. If the estimated amount of the condemnation award for such appropriation is more than Two Hundred Thousand Dollars ($[[USD Value 6]]), or if the condemnation gives Home Depot the right to terminate its Lease, then Buyer shall have the right at its option to terminate this Agreement by written termination notice to the other party received within ten (10) days after Seller has given Buyer written notice of such condemnation. If Buyer does not elect to terminate this Agreement in accordance with the previous sentence, then the parties shall proceed to close this transaction; and in such event, Buyer shall have the right to negotiate with such governmental or other authority or to contest such appropriation in litigation proceedings, and shall be entitled to all proceeds thereof, which Seller shall assign to Buyer, and Seller shall convey the Property subject to such proceedings and shall receive therefor the Purchase Price in full at the Closing. 
+
+^Representation and Warranties. 
+
+^^Representation and Warranties of Seller. Seller hereby makes the following representations and warranties to Buyer as of the date hereof: 
+
+^^^Organization and Authority. Seller is a Massachusetts Nominee Trust, and has the full right and authority to enter into this Agreement and to transfer all of the Property and to consummate or cause to be consummated the transaction contemplated by this Agreement. The person signing this Agreement on behalf of Seller is authorized to do so. Execution or performance of this Agreement will not result in any breach of, or constitute any default under, or result in the imposition of a lien or encumbrance on the Property under any agreement or other instrument to which Seller is a party or by which Seller or the Property might be bound or Seller’s governing documents. No consent or approval of any person or entity or of any governmental authority is required with respect to the execution and delivery of this Agreement by Seller or the consummation by Seller of the transactions contemplated hereby or the performance by Seller of its obligations hereunder. This Agreement and all documents required under this Agreement to be executed by Seller are and shall be the legal, valid and binding obligations of and enforceable against Seller in accordance with their terms. 
+
+^^^Pending Actions. There is no action, suit, arbitration, unsatisfied order or judgment, government investigation or proceeding or Governmental Violation Notice pending against Seller or the Property except as set forth on *Exhibit 14(a)(ii)*, nor has Seller received any written notice and has no actual knowledge of any such threatened action, suit, arbitration, government investigation or proceeding or Governmental Violation Notice. To Seller’s actual knowledge, no zoning change is pending or proposed that would affect the Property. 
+
+^^^Condemnation. Seller has not received any written notice and has no actual knowledge of any pending or threatened condemnation proceedings relating to all or any portion of the Property, or the means of access thereto. 
+
+^^^Leases. The list of the Leases set forth on *Exhibit B* is a true, accurate and complete list of all Leases and occupancy agreements currently affecting the Property; and the copies of the Leases supplied to the Buyer are true, accurate and complete, and such copies are all the Leases set forth on *Exhibit B*. To Seller’s actual knowledge the leases are in full force and effect, and there are no defaults or notices of default by either landlord or tenant that have not been cured. 
+
+^^^Service Contracts. *Exhibit D* lists all the Service Contracts affecting the Property. The copies of the Service Contracts provided to Buyer are true, accurate and complete, and include all the Service Contracts listed on *Exhibit D*, except for the management agreement with New Boston Management Services, Inc. which will be terminated at Closing. To Seller’s actual knowledge, all Service Contracts are in full force and effect, and there are no defaults or notices of default by either party thereto that have not been cured. There are no unrecorded agreements affecting the Property that will survive Closing that are not listed on *Exhibit D* except the Leases. Seller has not granted any options or sale contracts with respect to the Property. 
+
+^^^Leasing Commissions; Other Obligations. All of Seller’s leasing brokers to whom a leasing commission is due after the Closing Date are shown on *Exhibit 7*, including both commissions due with respect to current terms and commissions due upon exercise of options or otherwise. There are no unperformed landlord obligations with respect to tenant improvements and no free rent, incentives or concessions due to Home Depot, and Seller has not accepted and will not accept any prepaid rent. 
+
+^^^Rent Roll. The Rent Roll sets forth the name of each tenant, the square footage of each tenant’s premises, monthly base rent, other monthly charges, dates of lease commencement and scheduled expiration, the amount of each tenant’s security deposit, if any, and a list of all lease documents. The Rent Roll is true, accurate and complete in all material respects and will be updated ten (10) days before Closing by Seller. 
+
+^^^Violations of Law. As of the date hereof, Seller is not in receipt of any Governmental Violation Notice or any other written notice from any federal, state, county or municipal authority alleging any existing fire, health, safety, building, pollution or environmental violation of law, statute, code, ordinance or regulation with respect to the Property or any part thereof, which has not been remedied and evidence of such cure has been provided to the authority giving the notice. 
+
+^^^Hazardous Materials. Seller has delivered or made available to Buyer true and complete copies of all third party reports in its possession or control related to conditions affecting environmental and/or hazardous materials located on, in or at the Property. Seller makes no representation as to the accuracy, completeness or adequacy of such reports. To the best of Seller’s knowledge, except as set forth in such reports, no hazardous materials and/or underground storage tanks are or have been present on any portion of the Property during the period of Seller’s ownership of the Property. For the purposes of this subparagraph, Hazardous Materials shall mean those which are regulated under the following statutes: Comprehensive Environmental Response Compensation and Liability Act (“**CERCLA**”), as amended by the Superfund Amendments and Reauthorization Act of 1986 (“**SARA**”), 42 U.S.C. Sections 9601 et seq.; the Resource Conservation and Recovery Act (“**RCRA**”), 42 U.S.C. Sections 6901 et seq.; The Federal Water Pollution Control Act, as amended by the Clean Water Act of 1977 (“**CWA**”), 33 U.S.C. Sections 1251 et seq.; the Toxic Substances Control Act (“**TSCA**”), 15 U.S.C. Sections 2601 et seq., and Mass. General Laws Chapter 21E, and applicable state and local laws and regulations, as the foregoing have been amended from time to time to the date of this Agreement and apply to the Property and relate to Hazardous Materials. 
+
+^^^Bankruptcy. There is not pending any case, proceeding or other action seeking organization, arrangement, adjustments, liquidation, dissolution or recomposition of Seller under any law relating to bankruptcy, insolvency, reorganization or the relief of debtors, or seeking the appointment of a receiver, trustee, custodian or similar official for the Seller or the Property. 
+
+^^^**[Intentionally Deleted]**; 
+
+^^^No Employees. There are no employees at or with respect to the Property as to whom Buyer could have any obligation at or after Closing. 
+
+^^^Tax Protests. Except as disclosed by Seller to Buyer, no tax protest or dispute is pending with respect to the Property and Seller has not received any notice of and has no actual knowledge of any change in the taxes affecting the Property or any proposal to include the Property in any special district, improvement district or the like or to impose any additional tax or assessment on the Property. 
+
+^^^FIRPTA; OFAC. Seller is not a foreign person, foreign corporation, foreign partnership, foreign trust or foreign estate, as those terms are defined in (a) the Internal Revenue Code and the corresponding income tax regulations, and (b) similar provisions of state law. Buyer has no duty to collect withholding taxes for Seller pursuant to the Foreign Investors Real Property Tax Act of 1980, as amended, or any applicable federal, state or local law. Seller is not a Prohibited Person (defined below) and none of its investors, affiliates or brokers or other agents (if any), acting or benefiting in any capacity in connection with this Agreement is a Prohibited Person. The assets Seller will transfer to Buyer under this Agreement are not the property of, and are not beneficially owned, directly or indirectly, by a Prohibited Person. The assets Seller will transfer to Buyer under this Agreement are not the proceeds of specified unlawful activity as defined by 18 U.S.C. §1956(c)(7). “**Prohibited Person**” means any of the following: (a) a person or entity that is listed in the Annex to, or is otherwise subject to the provisions of, Executive Order No. 13224 on Terrorist Financing (effective [[Date 6: Date]]) (the “**Executive Order**”); (b) a person or entity owned or controlled by, or acting for or on behalf of any person or entity that is listed in the Annex to, or is otherwise subject to the provisions of, the Executive Order; (c) a person or entity that is named as a “specially designated national” or “blocked person” on the most current list published by the U.S. Treasury Department’s Office of Foreign Assets Control (“**OFAC**”) at its official website, http://www.treas.reg.gov/offices/enforcement/ofac; (d) a person or entity that is otherwise the target of any economic sanctions program currently administered by OFAC; or (e) a person or entity that is, to Seller’s actual knowledge, affiliated with any person or entity identified in clause (a), (b), (c) and/or (d) above. 
+
+^^^Survival. At Closing, Seller shall represent and warrant to Buyer that all such representations and warranties of Seller in this Agreement remain true and correct in all material respects as of the date of the Closing, except for any changes in any such representations or warranties that occur and are disclosed by Seller to Buyer in writing at any time and from time to time prior to Closing upon their occurrence, which disclosures shall thereafter be updated by Seller to the date of Closing. Each and all of the express representations and warranties made and given by Seller to Buyer in this Agreement and Seller’s covenants herein shall survive the execution and delivery of the Deed by Seller to Buyer for a period of nine (9) months, but in no event beyond [[Date 7: Date]] (the “**Survival Period**”). If there is any change in any representations or warranties of which Seller gives Buyer notice prior to Closing, or which Buyer otherwise learns of prior to Closing, and Seller does not cure or correct such changes prior to Closing, then Buyer may, at Buyer’s option (1) close the transaction contemplated by this Agreement, with no adjustment in the Purchase Price, in which event after such Closing Buyer shall have no right to seek monetary damages from Seller for such changes, or (2) terminate this Agreement by written notice to Seller, whereupon the Deposit and accrued interest thereon shall be immediately returned to Buyer, and thereafter the parties hereto shall have no further rights or obligations hereunder, except only for such rights or obligations that, by the express terms of this Agreement shall survive Closing. Except as provided in the preceding sentence, Buyer’s remedies against Seller on account of an alleged breach of representations and warranties hereof or any covenant of Seller in this Agreement, shall survive Closing or any termination of this Agreement. Notwithstanding anything to the contrary herein, except for fraud or intentional misrepresentation, Buyer shall have no right to seek monetary damages unless its actual damages exceed $[[USD Value 7: Number]] and Seller’s liability under this Section 14 shall in no event exceed $[[USD Value 8: Number]] 
+
+^^^Actual Knowledge Defined. Whenever the phrase “to the Seller’s actual knowledge” is used, it shall mean to the knowledge of Jon Gillman and John Thompson, without the requirement to make any investigation or inquiry. Mr. Gillman is Senior Vice President of Asset Management and Mr. Thompson is Vice President of New Boston Fund, Inc., and they are the persons who have overall responsibility for operation and management of the Property and its tenants. 
+
+^^Buyers’ Representation and Warranties. Buyer hereby makes the following representations and warranties to Seller as of the date hereof and as of the date of the Closing: 
+
+^^^Organization and Authority. Buyer has been duly organized and is validly existing under the laws of Delaware. Buyer has the full right and authority to enter into this Agreement and to consummate or cause to be consummated the transaction contemplated by this Agreement. The person signing this Agreement on behalf of Buyer is authorized to do so. No consent or approval of any person or entity or of any governmental authority is required with respect to the execution and delivery of this Agreement by Buyer or, except for approval by Buyer’s board, for the consummation by Buyer of the transactions contemplated hereby or the performance by Buyer of its obligations hereunder. Buyer intends to obtain its board’s approval during the Inspection Period, and, if Buyer does not terminate this Agreement during the Inspection Period, Seller shall be entitled to assume that such approval was obtained. Buyer has complied with and otherwise performed in all material respects each of the covenants and obligations of Buyer set forth in this Agreement. 
+
+^^^Pending Actions. To Buyer’s actual knowledge, there is no action, suit, arbitration, unsatisfied order or judgment, government investigation or proceeding pending against Buyer which, if adversely determined, could individually or in the aggregate interfere with the consummation of the transaction contemplated by this Agreement. 
+
+^^^Bankruptcy. There is not pending any case, proceeding or other action seeking organization, arrangement, adjustments, liquidation, dissolution or recomposition of Buyer under any law relating to bankruptcy, insolvency, reorganization or the relief of debtors, or seeking the appointment of a receiver, trustee, custodian or similar official for the Buyer. 
+
+^^^Patriot Act. Neither Buyer nor any party who has invested any money in or with Buyer, except third-party persons who hold direct or interest ownership interests in Buyer, or has loaned any money to Buyer (“**Buyer’s Constituents**”) is on the list of “Specially Designated Nationals and Blocked Persons” maintained by the United States Treasury under the Executive Order or is a Prohibited Person. Buyer has provided, and will after the Closing provide if required, such information and certifications as Seller may reasonably require to establish that Buyer and all Buyer’s Constituents, except third-party persons who hold direct or interest ownership interests in Buyer, are parties with whom Seller may lawfully perform Seller’s obligations under this Agreement in compliance with Executive Order. 
+
+^Voluntary Termination; Default; Remedies. 
+
+^^Voluntary Termination; Release of Liability. If this Agreement is voluntarily terminated by a party pursuant to a right of termination expressly provided in this Agreement, then both parties shall, upon such voluntary termination, be automatically released from all further obligations and liability under this Agreement, except as otherwise provided herein, and the Deposit and interest accrued thereon shall be returned to Buyer. 
+
+^^Default. The occurrence of any one or more of the following events shall constitute a breach of a promise or obligation undertaken and thus a default by a party under this Agreement: (i) failure to close at the time and manner required under this Agreement, (ii) if any representation or warranty made by a party in or pursuant to this Agreement was not true, correct, complete and accurate in any material respect as of the time it was made and the same is not waived by the other party, or (iii) if any other promise or obligation undertaken by a party under this Agreement has not been performed within the time period specified in this Agreement, or if no such time period has been so specified, within a period of five (5) days after the other party has given to the non-performing party written notice of such event. 
+
+^^Seller’s Remedies. If a default by Buyer has occurred as provided in Section 15(b)(i) and is not waived by Seller, then, in such event, Seller shall have the right (i) to terminate this Agreement by giving Buyer written notice of such termination, and (ii) to retain the Deposit together with interest thereon as Seller’s sole and exclusive right at law and in equity which shall be considered to be the equivalent of, and shall constitute, the payment of liquidated damages, with the amount of the Deposit and its payment being agreed upon by the parties as being a reasonable approximation of actual damages, including compensation to Seller for removing the Property from the market and reimbursement for the costs and expenses incurred by Seller; and such application and disposition shall constitute a complete release of each party from its liability under this Agreement, except as otherwise provided herein. 
+
+^^Buyer’s Remedies. If a default by Seller has occurred as provided in Section 15(b), then, in such event, Buyer shall have, as its sole and exclusive remedy at law and in equity, the right, at its option, to (x) obtain specific performance of this Agreement, and recover its costs and attorneys’ fees in obtaining the same, plus actual damages but no consequential, or punitive damages; or (y) terminate this Agreement by giving Seller written notice of such termination, in which event the Deposit and all interest thereon shall be returned to Buyer, and Buyer shall be reimbursed by Seller for verifiable third party due diligence, financing and acquisition costs not to exceed 
+
+$[[USD Value 9: Number]] plus attorneys’ fees and costs to recover the same; or (z) waive the default or other closing condition and proceed to consummate the transaction in accordance with the provisions of this Agreement. If Buyer cannot obtain specific performance against Seller because Seller has transferred the Property or an interest therein to others, Buyer shall be entitled to obtain its actual and consequential damages not to exceed $[[USD Value 10: Number]] (but no punitive damages), and its attorneys’ fees and costs. 
+
+^^Seller shall place in escrow at Closing with Escrow Agent and under instructions reasonably acceptable to Buyer, Seller and Escrow Agent, in a form agreed upon at least five (5) business days before Closing, the sum of $[[USD Value 11: Number]] to assure Buyer that funds are available to pay any post-closing liabilities of Seller under this Agreement. Said escrow shall continue for the Survival Period, unless Buyer has given Seller written notice of a claim of breach by Seller under this Agreement prior to the expiration of the Survival Period, in which event the Escrow shall continue with respect to such claim until such time as (a) such claim has been adjudicated by a court of competent jurisdiction resulting in a final, non-appealable judgment (or, alternatively, the party entitled to appeal any judgment has waived the right to do so in writing, or (b) such claim has been settled pursuant to a written settlement agreement between Buyer and Seller, at which time any funds remaining in escrow shall be disbursed to Seller after payment of Escrow Agent’s fees and costs. 
+
+^General and Miscellaneous Provisions. 
+
+^^Notice. Any notice or other communication required or permitted to be given to a party under this Agreement shall be in writing, unless otherwise specified in this Agreement, and shall be given by one of the following methods to such party at the address set forth at the end of this provision. The notice may be sent, and is deemed received as follows: (i) by registered or certified United States mail, and deemed received as of the second business day after it was mailed, (ii) by hand, and deemed received when delivered at the address, whether or not the specific person to whose attention it is directed is in at the time, (iii) by reputable overnight delivery service, and deemed received when delivered to the address whether or not the specific person to whose attention it is directed is in at the time, (iv) by pdf or email, followed by delivery by a reputable overnight delivery service; (v) when sent or delivered by an other means for transmitting a written communication, and deemed received upon receipt so long as the same is sent on the same day by a reputable overnight delivery service. Either party may change its address for notice by giving written notice thereof to the other party. The address of each party for notice is as follows: 
+
+Buyer:      [[Buyer]]
+518 17th Street
+Suite 1700
+Denver, CO 80202
+Attention: Josh Widoff
+Telephone: [[Phone 1]]
+Telecopier: [[Phone 2]]
+
+Buyer’s Counsel:      Brownstein Hyatt Farber Schreck, LLP
+410 Seventeenth Street, Suite 2200
+Denver, CO 80202
+Attention: Lynda McNeive
+Telephone: [[Phone 3]]
+Telecopier: [[Phone 4]]
+
+Seller:      Hagerstown Nominee Trust
+Attention: [[Party 3]], Trustee
+^State Street Suite 1500
+Boston, Massachusetts 02109-1803
+Telephone: [[Phone 5]]
+Telecopier: [[Phone 6]]
+
+Seller’s Counsel:      Rappaport, Aserkoff & Gelles
+Attention: Edward Gelles, Esq.
+^State Street Suite 1525
+Boston, Massachusetts 02109-1803
+Telephone: [[Phone 7]]
+Telecopier: [[Phone 6]]
+
+^^Complete Agreement; Amendment; Waiver; Counterparts. This Agreement, including the Preliminary Statements and all attached exhibits, constitute the complete and integrated agreement between the parties with respect to the subject matter hereof and supersedes all previous negotiations and understandings, if any, between the parties; no oral or implied understanding, representation or warranty shall vary its terms. This Agreement may not be amended other than by a written instrument executed by the parties. Waivers must be in writing and signed by the party giving the waiver. This Agreement or any such amendment or waiver may be executed in several counterparts, each of which shall be considered a duplicate original and the same instrument. Except for the Closing Instruments, documents and notices delivered under this Agreement by pdf, email or telefacsimile will be accepted as originals. Each party will promptly provide originals upon request. 
+
+^^Governing Law. This Agreement, the Closing Instruments and any other applicable document, including all of the rights, obligations and liabilities of the parties thereunder, shall be governed, construed and enforced for all purposes in accordance with the laws of the State of Maryland, which is where the Property is located, without regard to its conflicts of laws and rules. Venue for any litigation under this Agreement shall be in the court in the State of Maryland having jurisdiction over the Property. 
+
+^^Severability. If any provision of this Agreement, the Closing Instruments or any other applicable document should be held by a court to be invalid or unenforceable in any particular respect, then the remaining provisions of such document (or the same provision in any other respect) shall not be invalid, unenforceable, impaired or otherwise affected, but shall continue to be in full force and effect; and to this end, all such provisions are hereby declared to be severable. 
+
+^^Successors and Assigns; Assignment. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors and permitted assigns. In general, Buyer shall not have the right to assign this Agreement or any interest herein without the prior written consent of Seller; provided, however, Buyer shall have the right to assign this Agreement to an affiliate which the Buyer controls, is controlled by or is under common control with, without Seller’s prior written consent but such assignment and the assumption by such assignee of Buyer’s obligations hereunder shall not release Buyer from its obligation or liability hereunder unless Seller shall have specifically agreed to the same. Notwithstanding the foregoing, such assignment shall be void unless Buyer notifies Seller of such assignment on the earlier of (i) ten (10) days from the date of the assignment, or (ii) ten (10) business days prior to the Closing. Seller shall have no right to assign this Agreement or any interest herein without Buyer’s prior written consent, which may be withheld for any or no reason, provided, however, that Seller may give to an institutional lender a collateral assignment of this Agreement to secure Seller’s obligations to such lender. Furthermore, either Seller and/or Buyer may assign its rights under this Agreement to a “qualified intermediary” in order to facilitate, at no cost or expense to the other, a like-kind exchange under Section 1031 of the Internal Revenue Code; provided, however, that (i) such assignment to a qualified intermediary shall not relieve either party of its respective obligations hereunder; and (ii) if Seller notifies Buyer that Seller has assigned its rights under the Agreement to a qualified intermediary, Buyer will be deemed to have satisfied Buyer’s payment obligation if Buyer instructs Title Company to wire proceeds to the qualified intermediary or to any other entity as instructed by Seller. 
+
+^^Survival. No provision of this Agreement survives delivery of the Deed, unless specifically indicated herein that a particular provision survives or unless such provision requires observance or performance subsequent to Closing. 
+
+^^Time. Time is of the essence with respect to the performance of each provision of this Agreement. 
+
+^^Confidentiality. Prior to Closing, Buyer, Seller and Broker shall maintain the confidentiality of the terms of this transaction and the contents of this Agreement, and all documents supplied to or obtained by Buyer in connection with its due diligence of the Property, and any related documents subject to disclosure on a “need to know” basis to attorneys, clients, potential lenders, actual lenders, potential or actual equity investors, accountants, architects, appraisers, engineers, contractors and consultants, or as required by applicable law or judicial process. After Closing, this paragraph shall be binding only on Seller and shall survive delivery of the Deed. The parties expressly confirm that this Confidentiality provision is an essential and material term of this Agreement that is intended to be enforceable by any remedies available at law or equity, including injunctive relief. 
+
+^^Like-Kind Exchange. At Seller’s request and at no cost to Buyer, Buyer will agree to take all actions reasonably requested by Seller in order to effectuate all or any part of the transactions contemplated by this Agreement as a like-kind exchange in accordance with Section 1031 of the Internal Revenue Code, but without any extension of the Closing Date, and using a qualified intermediary; provided, however, that (a) Buyer incurs no additional liability and no more than nominal cost and (b) except as set forth herein, the Closing shall not be affected by reason of any such exchange nor shall the consummation of such an exchange be a condition precedent of the Seller’s obligation under this Agreement. Notwithstanding anything contained in any such assignment, Buyer shall not by execution of this Agreement or by participation in any such exchange (i) have its rights under this Agreement affected or diminished in any manner, (ii) be required to undertake any obligations of third parties, or (iii) be responsible for compliance nor be deemed to have warranted to the Seller whether such exchange in fact complies with Section 1031 of the Internal Revenue Code, as amended. 
+
+At Buyer’s request, and at no cost to Seller, Seller will agree to take all actions reasonably requested by Buyer in order to effectuate all or any part of the transactions contemplated by this Agreement as a like-kind exchange in accordance with Section 1031 of the Internal Revenue Code, but without any extension of the Closing Date, and using a qualified intermediary; provided, however, that (a) Seller incurs no additional liability and no more than nominal cost and (b) except as set forth herein, the Closing shall not be affected by reason of any such exchange nor shall the consummation of such an exchange be a condition precedent of Buyer’s obligation under this Agreement. Notwithstanding anything contained in any such assignment, the Seller shall not by execution of this Agreement or by participation in any such exchange (i) have its rights under this Agreement affected or diminished in any manner, (ii) be required to undertake any obligations of third parties, or (iii) be responsible for compliance nor be deemed to have warranted to Buyer whether such exchange in fact complies with Section 1031 of the Internal Revenue Code, as amended. Notwithstanding the aforementioned sentence, Buyer shall have no right to extend the closing beyond the Closing Date set forth herein. 
+
+^^No Personal Liability. Buyer acknowledges and agrees that no trustee, beneficiary, general or limited partner, officer, director, equity owner, employee, agent, member, manager or representative of Seller (or any partner, member or manager of such a partner, member of manager) shall ever have any personal liability under this Agreement. Seller acknowledges and agrees that no general or limited partner, officer, director, member, manager, equity owner, employee, agent or representative of Buyer (or any partner, member or manager of the foregoing) shall ever have any personal liability under this Agreement. 
+
+^^Construction. The parties hereto hereby acknowledge and agree that (i) each party hereto is of equal bargaining strength; (ii) each such party has actively participated in the drafting, preparation and negotiation of this Agreement; (iii) each such party has consulted with such party’s own, independent counsel, and such other professional advisors as such party has deemed appropriate, relative to any and all matters contemplated under this Agreement; (iv) each such party and such party’s counsel and advisors have reviewed this Agreement; (v) each such party has agreed to enter into this Agreement following such review and the rendering of such advice; and (vi) any rule of construction to the effect that ambiguities are to be resolved against the drafting parties shall not apply in the interpretation of this Agreement, or any portions hereof. 
+
+^^No Obligations to Third Parties. Except as otherwise expressly provided herein, the execution and delivery of this Agreement shall not be deemed to confer any rights upon, nor obligate any of the parties hereto, to any person or entity other than the parties hereto. 
+
+^^Waiver. The waiver or failure to enforce any provision of this Agreement shall not operate as a waiver of any future breach of any such provision or any other provision hereof. 
+
+^^Fees and Other Expenses. Except as otherwise provided herein, each of the parties hereto shall pay its own fees and expenses in connection with this Agreement. 
+
+^^Computation of Time Periods. If the date upon which the Inspection Period expires, the Closing Date or any other date or time period provided for in this Agreement is or ends on a Saturday, Sunday or federal, state or legal holiday, then such date shall automatically be extended until the next day which is not a Saturday, Sunday or federal, state or legal holiday. 
+
+^^Further Assurances. Each of the parties hereto agrees to perform, execute and deliver such commercially reasonable or customary documents, writings, acts and further assurances as may be necessary to carry out the intent and purpose of this Agreement as may be reasonably requested by the other party. 
+
+^^Headings/Use of Terms/Exhibits. The paragraph and section headings that appear in this Agreement are for purposes of convenience of reference only and are not to be construed as modifying, explaining, restricting or affecting the substance of the paragraphs and sections in which they appear. Wherever the singular number is used, and when the context requires, the same shall include the plural and the masculine gender shall include the feminine and neuter genders. The term “including” means “including, but not limited to” and “such as” means “such as, but not limited to” and similar words are intended to be inclusive. All references to Sections mean the Sections in this Agreement. All Exhibits and Schedules attached hereto are hereby incorporated herein by reference as though set out in full herein. Those Exhibits that are left blank are to be agreed upon between the parties and attached hereto on or before the end of the Inspection Period. 
+
+^^Attorneys’ Fees. If litigation or arbitration is required by either party to enforce or interpret the terms of this Agreement, the substantially prevailing party of such action or arbitration shall, in addition to all other relief granted or awarded by the court or arbitrator, be awarded its third-party costs and reasonable attorneys’ fees, charges and disbursements (including those of in-house counsel) and expert witness fees and costs incurred by reason of such action or arbitration and those incurred in preparation thereof at both the trial or arbitration and appellate levels. 
+
+^^Post-Closing Access to Records. Upon receipt by Seller of Buyer’s reasonable written request at any time and from time to time within a period from the Closing until the later of (i) two (2) years after Closing; or (ii) for the period Home Depot has the right under its Lease for the Property to audit such books and records of Seller, Seller shall, at Seller’s principal place of business, during Seller’s normal business hours, make all of Seller’s records relating to the Property available to Buyer for inspection and copying (at Buyer’s sole cost and expense). 
+
+^^Information and Audit Cooperation. (a) For a period of seventy-five (75) days after the Closing, at the request of Buyer and at Buyer’s expense, Seller shall make available to Buyer the historical financial information in Seller’s possession regarding the operation of the Property to the extent required by Buyer (as a publicly-traded real estate investment trust) in order to prepare stand-alone audited financial statements for such operations and in accordance with generally accepted accounting principles, as of the end of the fiscal year 2009 and any required subsequent date or period, and to cooperate (at Buyer’s expense) with Buyer and any auditor engaged by Buyer for such purpose. Seller shall cause its property manager, without liability, recourse or cost to Seller, to provide to Buyer’s designated independent auditor a letter regarding the books and records of the Property in substantially the form of Schedule Two attached hereto and made a part hereof (the “**Audit Inquiry Letter**”). Buyer agrees that (i) Buyer shall be solely liable to pay and shall reimburse Seller, within five (5) business days following Seller’s request, for all third-party, out-of-pocket costs and expenses incurred by Seller in assisting Buyer at Buyer’s request under this Section (such assistance, the “**Audit Assistance**”), including all such costs incurred to review, research and complete the Audit Inquiry Letter; (ii) Seller’s performance of any Audit Assistance shall be solely as an accommodation to Buyer and Seller shall have no, and Seller is hereby fully released and discharged from, any and all liability or obligation with respect to the Audit Assistance, any filings (the “**SEC Filings**”) made by Buyer or its parent with the United States Securities and Exchange Commission (“**SEC**”) and the Audit Inquiry Letter; and (iii) Buyer hereby agrees to indemnify, protect, defend and hold Seller, its partners and their respective members, officers, directors, shareholders, participants, affiliates, employees, representatives, investors, agents, successors and assigns (each an “**Indemnified Party**” and collectively, the “**Indemnified Parties**”) harmless from and against any and all costs, expenses, losses, liabilities, damages, claims, demands, allegations or actions (collectively, “**Losses**”) actually asserted against or actually incurred by any Indemnified Party as a result of or otherwise arising in connection with the Audit Assistance, the SEC Filings and/or the Audit Inquiry Letter; provided, that Losses shall specifically exclude any Losses proximately resulting from the gross negligence or willful misconduct of an Indemnified Party. The provisions of this shall survive Closing. 
+
+\centered THE REMAINDER OF THIS PAGE HAS INTENTIONALLY BEEN LEFT BLANK. 
+
+\centered SIGNATURES ARE CONTAINED ON FOLLOWING PAGE. 
+
+EXECUTED under seal as of the date first-above written. 
+
+Seller:
+
+HAGERSTOWN NOMINEE TRUST
+
+[[HAGERSTOWN NOMINEE TRUST Signatory Email: Identity | Signature]]
+__________________________________________
+{{HAGERSTOWN NOMINEE TRUST Entity => By: [[HAGERSTOWN NOMINEE TRUST Signatory First Name]] [[HAGERSTOWN NOMINEE TRUST Signatory Last Name]]
+Title: [[HAGERSTOWN NOMINEE TRUST Signatory Title]]}}
+
+[[Party 3]], as  Trustee and not individually
+
+Buyer:
+[[Buyer]]
+
+[[Buyer Signatory Email: Identity | Signature]]
+__________________________________________
+{{Buyer Entity => By: [[Buyer Signatory First Name]] [[Buyer Signatory Last Name]]
+Title: [[Buyer Signatory Title]]}}
+
+
+[[Title Seller Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Seller Signatory Title}} Entity => By: [[Title Seller Signatory Title}} Signatory First Name]] [[Title Seller Signatory Title}} Signatory Last Name]]
+Title: [[Title Seller Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+
+The undersigned, First American Title Insurance Company, hereby agrees to act as Escrow Agent pursuant to the terms of the foregoing Purchase and Sale Agreement and to carry out the terms thereof required of Escrow Agent. 
+
+First American Title Insurance Company
+
+By
+Name:
+Title:
+
+Address: National Commercial Services  Attn: John E. Beckstedt  30 North LaSalle Street, Suite 2700  Chicago, IL 60602  Phone: [[Phone 8]]  Fax: [[Phone 9]]  Mobile: [[Phone 10]]  Email: [[Email 1]]
+
+\centered **SCHEDULE ONE** 
+
+\centered **ESCROW PROVISIONS AND INSTRUCTIONS** 
+
+^^Deposit. 
+
+^^^Escrow Agent shall hold the Deposit in escrow in insured money market accounts, certificates of deposit, United States Treasury Bills or such other interest-bearing accounts as Buyer may instruct from time to time until the earlier to occur of (i) the Closing Date, at which time the Deposit shall be applied against the Purchase Price, or (ii) the date on which Title Company is authorized to disburse the Deposit as set forth in **subsection (ii)** below. The tax identification numbers of the parties shall be furnished to Title Company upon request. 
+
+^^^Buyer may, at any time on or before the expiration of the Inspection Period, demand a return of the Deposit and Escrow Agent immediately shall return the Deposit to Buyer, without the necessity of providing any notice to Seller and without waiting five (5) business days. If the Deposit has not been released earlier in accordance with this **subsection (ii)**, and a Closing does not occur, and either party makes a written demand upon Escrow Agent for payment of the Deposit, Escrow Agent shall give written notice to the other party of such demand. If Escrow Agent does not receive a written objection from the other party to the proposed payment on or before the fifth business day after the giving of such notice, Escrow Agent is hereby authorized to make such payment. If Escrow Agent does receive such written objection within such five (5) business day period, Escrow Agent shall continue to hold such amount until otherwise directed by written instructions from the parties or a final judgment or arbitrators’ decision. However, Escrow Agent shall have the right at any time to deposit the Deposit with the clerk of a state court in the state in which the Property is located. Escrow Agent shall give written notice of such deposit to Seller and Buyer. Upon such deposit, Escrow Agent shall be relieved and discharged of all further obligations and responsibilities hereunder. 
+
+^^Closing. 
+
+^^^Provided that Escrow Agent shall not have received written notice from Buyer or Seller of the failure of any condition to the Closing or of the termination of the Agreement, when Buyer and Seller have deposited into escrow the documents and funds required by the Agreement and Title Company is irrevocably and unconditionally committed to issue the Title Policy effective as of the Closing Date, Escrow Agent shall, in the order and manner hereinbelow indicated, take the following actions: 
+
+^Disburse all funds as follows: 
+
+^pursuant to the Closing Statement, retain for Escrow Agent’s own account all escrow fees and costs, disburse to Title Company the fees and expenses incurred in connection with the issuance of the Policy, and disburse to any other persons or entities entitled thereto, as expressly stated on the closing statement, the amount of any other closing costs; 
+
+^disburse funds necessary to discharge and release any and all liens against the Property (other than the Permitted Exceptions; 
+
+^deliver to Seller the remaining balance of the Purchase Price (subject to prorations and adjustments as provided herein); and 
+
+^disburse to Buyer or Seller, as the case may be, any remaining funds in the possession of Escrow Agent after the above payments have been completed. 
+
+^Cause the Deed and any other documents which Buyer and Seller mutually may direct to be recorded in the official records and obtain conformed copies thereof for distribution to Buyer and Seller. 
+
+\centered I - 1 
+
+^Deliver: (i) to Seller, (A) one original of each document deposited into escrow (other than the Deed and the Non-Foreign Affidavit) and (B) one conformed copy of each document recorded pursuant to the terms hereof; and (ii) to Buyer, (A) one original of each document deposited into escrow (other than the Deed and the Non-Foreign Affidavit), (B) the original Non-Foreign Affidavit and (C) one conformed copy of each document recorded pursuant to the terms hereof. 
+
+^Cause the Title Company to issue and deliver the Title Policy to Buyer. 
+
+^Cause the original recorded Deed to be delivered to Buyer. 
+
+^^^Escrow Agent, as the person responsible for closing the transaction within the meaning of Section 6045(e)(2)(A) of the Code, shall file all necessary information reports, returns, and statements regarding the transaction required by the Code including the tax reports required pursuant to Section 6045 of the Code. Further, Escrow Agent agrees to indemnify, protect, defend and hold Buyer, Seller, and their respective attorneys and brokers harmless from and against any Losses resulting from Escrow Agent’s failure to file the reports Escrow Agent is required to file pursuant to this **Schedule One**. 
+
+^^General. The parties acknowledge that Escrow Agent is acting solely as a stakeholder at their request and for their convenience, that Escrow Agent shall not be deemed to be the agent of either of the parties for any act or omission on its part unless taken or suffered in bad faith, in willful disregard of the provisions of this **Schedule One** or in gross negligence. Seller and Buyer jointly and severally shall indemnify, protect, defend and hold Escrow Agent harmless from and against all Losses incurred in connection with the performance of Escrow Agent’s duties hereunder, except with respect to actions or omissions taken or suffered by Escrow Agent in bad faith, in willful disregard of the provisions of this **Schedule One** or in gross negligence on the part of the Escrow Agent. The parties shall deliver to Escrow Agent an executed copy of the Agreement, which shall constitute their instructions to Escrow Agent. Escrow Agent shall execute the signature page for Escrow Agent attached to the Agreement with respect to the provisions of this **Schedule One**; provided, however, that (i) Escrow Agent’s signature hereon shall not be a prerequisite to the binding nature of the Agreement on Buyer and Seller, and the same shall become fully effective upon execution by Buyer and Seller, and (ii) the signature of Escrow Agent will not be necessary to amend any provision of the Agreement other than this **Schedule One**. The parties hereto shall execute such additional escrow instructions (not inconsistent with this **Schedule One** as determined by counsel for Buyer and Seller) as Escrow Agent shall deem reasonably necessary for its protection, including Escrow Agent’s general provisions (as may be modified by Buyer, Seller and Escrow Agent). In the event of any inconsistency between the provisions of this **Schedule One** and such additional escrow instructions, the provisions of this **Schedule One** shall govern. 
+
+\centered I - 2 
+
+\centered **SCHEDULE TWO** 
+
+\centered **FORM OF AUDIT LETTER** 
+
+Ehrhardt Keefe Steiner & Hottman PC 
+
+7979 E. Tufts Avenue, Suite 400 
+
+Denver, Colorado 80237-2843 
+
+Re:   [INSERT NAME OF PROPERTY]
+
+Dear Gentlepersons: 
+
+^We are writing at your request to provide you with certain information you have requested in connection with the audit of the financial books and records of the above-referenced property that you are conducting on behalf of IIT Acquisition LLC, the prospective buyer of this property. Certain statements in this letter are described as being limited to matters that are “material.” Items are considered “material” if they involve an omission or misstatement of accounting information that, in light of surrounding circumstances, makes it probable that the judgment of a reasonable person relying on the information would be significantly and adversely changed or significantly and negatively influenced by the omission or misstatement. 
+
+^The following statements are made exclusively to you, the auditor of the financial books and records of the above-referenced property, and may not be relied upon by any other party. The provision of these statements and information to you is in no way intended to, nor shall it be deemed or construed to, limit or absolve, in any way, your company’s professional obligations to independently audit the statements and information that has been provided to you and to reach your own conclusions regarding such statements and information. 
+
+^In connection with your proposed audit of the financial information we have made available to you in connection with the above-referenced property, at your request, we confirm, to our actual knowledge, which is defined to mean to the knowledge of , without any independent inquiry or investigation, the following: 
+
+^We have made available to you those financial records and related data concerning the above-referenced property which are responsive to the categories of information you have requested, a list of which is attached hereto as Exhibit “A”. 
+
+^There are no material transactions that have not been reflected in the accounting records underlying the financial statements listed on Exhibit “A”. 
+
+^We are not aware of any: 
+
+^^Irregularities involving any member of management or employees that could have a materially adverse effect on the statement of operating income. 
+
+^^Notices of violations of laws or regulations, the effects of which should be considered for disclosure in the financial statements or as a basis for recording a loss contingency. 
+
+\centered II - 1 
+
+^^Material events that have occurred subsequent to , 2010 that would require material adjustment to the statement of operating income. 
+
+This letter has been executed by the undersigned subject to the terms of Section of that certain Agreement for Purchase and Sale between the undersigned and IIT Acquisition LLC. 
+
+SELLER:
+
+HAGERSTOWN NOMINEE TRUST u/d/t dated [[Date 2]]
+
+[[HAGERSTOWN NOMINEE TRUST u/d/t dated Date 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{HAGERSTOWN NOMINEE TRUST u/d/t dated Date 2 Entity => By: [[HAGERSTOWN NOMINEE TRUST u/d/t dated Date 2 Signatory First Name]] [[HAGERSTOWN NOMINEE TRUST u/d/t dated Date 2 Signatory Last Name]]
+Title: [[HAGERSTOWN NOMINEE TRUST u/d/t dated Date 2 Signatory Title]]}}
+
+
+\centered II - 2 
+
+\centered EXHIBIT A 
+
+\centered Legal Description 
+
+All that lot or parcel of ground lying approximately 2,000 feet east of Maryland Route 63 and approximately 2,000 feet north Interstate 70 and approximately 3,000 feet west of Hopewell Road in Election District No. 2 and 24, Washington County, Maryland and being more particularly described in accordance with a survey by Frederick, Seibert and Associates, Inc. dated [[Date 8: Date]] as follows: 
+
+Beginning at a point along the northern right-of-way line of proposed public street, said point also being located North 59 degrees 09 minutes 44 seconds West 798.17 feet more or less from the end of the eleventh or (South 30 degrees 48 minutes 00 seconds West 430.82 feet) line of the land now or formerly of Tiger Development II (Liber 1386, folio 834), thence continuing with a portion of the cul-de-sac of the public road and running with a curve to the left having a radius of 70 feet, an arc length of 73.35 feet and a chord bearing and distance of South 81 degrees 04 minutes 56 seconds West 70.04 feet to a point, thence running with the following 14 bearings and distances and running with the remaining lands of Tiger Development (Liber 1386, folio 834) North 57 degrees 12 minutes 09 seconds West 476.07 feet to a point, thence North 87 degrees 01 minutes 29 seconds West 163.88 feet to a point, thence North 59 degrees 44 minutes 08 seconds West 876.74 feet to a point lying in or near the centerline of a 100 foot wide P.E. right-of-way, thence North 26 degrees 32 minutes 54 seconds East 590.41 feet to a point, thence North 33 degrees 40 minutes 50 seconds East 357.00 feet to a point, thence North 52 degrees 50 minutes 24 seconds West 109.78 feet to a point, thence North 33 degrees 53 minutes 04 seconds East 852.29 feet to a point in or near a small stream, thence running along said stream North 88 degrees 13 minutes 19 seconds East 149.79 feet to a point in or near said stream, thence South 47 degrees 21 minutes 30 seconds East 80.32 feet to a point in or near said stream, thence South 10 degrees 46 minutes 35 seconds East 50.36 feet to a point in or near said stream, thence South 78 degrees 34 minutes 14 seconds East 223.81 feet to a point in or near said stream, thence leaving said stream and running South 56 degrees 19 minutes 38 seconds East 1256.16 feet to a point, thence South 15 degrees 04 minutes 18 seconds West 73.99 feet to a point, thence South 33 degrees 40 minutes 53 seconds West 1664.35 feet to the place of beginning; 
+
+Containing 70.25 acres of land more or less; 
+
+Said lands being all of Lot 1 as shown on a plat entitled “Final Plat of Subdivision of Lot 1 of Hunter’s Green Business Park for Tiger Development II” Sheets 1 of 3 through 3 of 3 recorded among the Land Records of Washington County as Plats No. 5724. 5725 and . 
+
+Together with the benefit of an easement for stormwater discharge which easement is designated “30’ Stormwater Outlet Easement” on the above-mentioned plat recorded as Plat No. 5724, and also as contained in that certain Deed from Tri-County Council for Western Maryland to Truserv 1998 Trust dated [[Date 9: Date]] and recorded among the Land Records of Washington County in Liber 01445, folio 0274. 
+
+\centered A - 1 
+
+\centered EXHIBIT B 
+
+\centered List of Leases 
+
+      Lease between [[Seller]], Jr., and [[Party 3]], Trustees of The Hagerstown Nominee Trust, as Landlord, and Home Depot U.S.A., Inc., as Tenant, dated as of [[Date 10: Date]], as amended by First Amendment to Lease dated as of [[Date 11: Date]] and further amended by Second Amendment to Lease dated [[Date 12: Date]].
+
+\centered B - 1 
+
+\centered EXHIBIT B-1 
+
+\centered Rent Roll 
+
+\centered B-1 - 1 
+
+\centered EXHIBIT C 
+
+\centered List of Personal Property 
+
+\centered NONE. 
+
+\centered C - 1 
+
+\centered EXHIBIT D 
+
+\centered List of Service Contracts 
+
+      Property Management Agreement dated [[Date 13: Date]] by and between New Boston Management Services, Inc. and Hagerstown Nominee Trust
+
+      Otter Creek - waiting on David Langol info
+
+\centered D - 1 
+
+\centered EXHIBIT E 
+
+\centered Leased Personalty 
+
+\centered NONE. 
+
+\centered E - 1 
+
+\centered EXHIBIT 4(a) 
+
+\centered Due Diligence Documents 
+
+\centered 4(a) - 1 
+
+\centered EXHIBIT 6(b) 
+
+\centered TENANT ESTOPPEL CERTIFICATE 
+
+\centered 6(b) - 1 
+
+\centered EXHIBIT 7
+
+\centered Leasing Broker’s Commissions Due After the Closing Date 
+
+\centered for current lease term and upon exercise of options to extend or expand 
+
+\centered EXHIBIT 11(a)(i)
+
+\centered DEED 
+
+\centered 11(a)(i) - 1 
+
+\centered EXHIBIT 11(a)(ii) 
+
+\centered BILL OF SALE OF PERSONAL PROPERTY 
+
+\centered AND ASSIGNMENT OF INTANGIBLE PROPERTY AND LEASED PERSONALTY 
+
+\centered 11(a)(ii) - 1 
+
+\centered EXHIBIT 11(a)(iii) 
+
+\centered ASSIGNMENT AND ASSUMPTION OF LEASES 
+
+\centered 11(a)(iii) - 1 
+
+\centered EXHIBIT 11(a)(iv)
+
+\centered ASSIGNMENT AND ASSUMPTION OF CONTRACTS 
+
+\centered 11(a)(iv) - 1 
+
+\centered EXHIBIT 11(a)(ix)
+
+\centered FORM OF TENANT NOTICE 
+
+January , 2011 
+
+[TENANT] 
+
+________________ 
+
+________________ 
+
+________________ 
+
+Ladies and Gentlemen: 
+
+This is to notify you that [[Seller]], Jr. and [[Party 3]], as Trustees of Hagerstown Nominee Trust u/d/t dated [[Date 2]], and recorded with the Suffolk County Registry of Deeds at Book 31900, page 198, the undersigned, has today sold ], in which you are a tenant, to (the “Buyer”), with a place of business at . 
+
+In connection with the sale, your security deposit of $ was transferred to the Buyer. 
+
+You are hereby instructed that, effective immediately and until such time as different instructions are given to you in writing by the Buyer, all notices required or desired to be given to Landlord under your Lease should be addressed to the Buyer, and all rent should be paid to the Buyer. 
+
+Hagerstown Nominee Trust has appreciated your tenancy. 
+
+Very truly yours, 
+
+HAGERSTOWN NOMINEE TRUST
+
+[[HAGERSTOWN NOMINEE TRUST Signatory Email: Identity | Signature]]
+__________________________________________
+{{HAGERSTOWN NOMINEE TRUST Entity => By: [[HAGERSTOWN NOMINEE TRUST Signatory First Name]] [[HAGERSTOWN NOMINEE TRUST Signatory Last Name]]
+Title: [[HAGERSTOWN NOMINEE TRUST Signatory Title]]}}
+
+
+By
+hereunto duly authorized
+
+cc:   [Buyer]
+
+\centered 11(a)(ix) - 1 
+
+\centered EXHIBIT 11(a)(xi)
+
+\centered **CERTIFICATION OF NON-FOREIGN STATUS** 
+
+\centered **ENTITY TRANSFEROR** 
+
+1445 of the Internal Revenue Code provides that a transferee of a U.S. real property interest must withhold tax if the transferor is a foreign person. For U.S. tax purposes (including section 1445), the owner of a disregarded entity (which has legal title to a U.S. real property interest under local law) will be the transferor of the property and not the disregarded entity. To inform the transferee that withholding of tax is not required upon the disposition of a U.S. real property interest by [[Seller]], Jr., and [[Party 3]], Trustees of the HAGERSTOWN NOMINEE TRUST, under Declaration of Trust dated [[Date 2]] and recorded with the Suffolk County, Massachusetts, Registry of Deeds at Book 31900, page 198 (the “**Trust**”), the undersigned hereby certifies the following on behalf of Transferor: 
+
+^Neither Transferor nor the Trust is a foreign corporation, foreign partnership, foreign trust, or foreign estate (as those terms are defined in the Internal Revenue Code and Income Tax Regulations);
+
+^The Trust is a disregarded entity as defined in Section 1.1445-2(b)(2)(iii);
+
+^Transferor’s U.S. employer identification number is [To be provided] ; and
+
+^Transferor’s office address is 60 State Street, Suite 1500, Boston, Massachusetts 02109-1803.
+
+Transferor and the Trust understand that this certification may be disclosed to the Internal Revenue Service by transferee and that any false statement contained herein could be punished by fine, imprisonment or both. 
+
+Under penalties of perjury, I declare that I have examined this certification, and to the best of my knowledge and belief it is true, correct, and complete, and I further declare that I have authority to sign this document on behalf of Transferor and the Trust. 
+
+Date: _____________________ 
+
+[[Party 3]], as  Trustee of Hagerstown Nominee Trust
+
+\centered 11(a)(xi) - 1 
+
+\centered EXHIBIT 14(a)(ii)
+
+\centered Pending Litigation 
+
+NONE. 
+
+\centered 14(a)(ii) - 1

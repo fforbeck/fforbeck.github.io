@@ -1,0 +1,92 @@
+\centered **THIRD AMENDMENT TO THE**
+
+\centered **EMPLOYMENT AGREEMENT**
+
+\centered **BETWEEN**
+
+\centered **[[Employer]]**
+
+\centered **AND**
+
+\centered **UMBERTO DELLA SALA**
+
+This **THIRD AMENDMENT** (this “Amendment”) to the Employment Agreement between **[[Employer]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “Employer”), and **UMBERTO DELLA SALA** (the “Executive”), dated as of [[Date 1: Date]] (the “Employment Agreement”), is made and entered into as of [[Date 2: Date]].
+
+**WHEREAS**, Foster Wheeler Ltd. entered into the Employment Agreement with the Executive on [[Date 1]], Foster Wheeler Ltd. and the Executive entered into a First Amendment to the Employment Agreement effective as of [[Date 3: Date]], the Employer, with the Executive’s agreement, assumed the Employment Agreement from Foster Wheeler Ltd. in [[Date 4: Date]], and the Employer and the Executive entered into a Second Amendment to the Employment Agreement, effective [[Date 5: Date]] (the Employment Agreement, as so assumed and amended, the “Agreement”); and
+
+**WHEREAS**, the Executive was named as Interim Chief Executive Officer of Foster Wheeler AG, effective [[Date 6: Date]] and the Executive has accepted to serve in this position, in addition to his duties under the Agreement, until the earlier of [[Date 7: Date]],2011 or the date a new Chief Executive Officer’s employment commences;
+
+**WHEREAS**, the Executive and the Employer have agreed to further amend the Agreement to (i) provide for the Executive’s compensation during the period he serves as Interim Chief Executive Officer and (ii) clarify certain provisions of the Agreement related to Section 409A of the Code (as defined in the Agreement);
+
+**NOW THEREFORE,** be it resolved, accordingly, the Employer and the Executive by executing this Amendment hereby agree to amend the Agreement as follows:
+
+^Agreement Section 3.3 is hereby revised to read in its entirety as follows:
+
+^^**Long-Term Incentive**.** The Executive will, receive on [[Date 8: Date]]** the following:
+
+3.3.1. **Restricted Stock Unit Grant**.** A grant of a number of restricted stock units which will be payable in registered shares of the Parent (“Shares”) with an economic value as of the Grant Date equal to approximately Nine Hundred Thousand US Dollars (USD $[[USD Value 1: Number]])** (the “Restricted Stock Units”). The Restricted Stock Units will be granted under the Parent’s Omnibus Incentive Plan. The Restricted Stock Units will be issued on the Grant Date. For purposes of this Subsection 3.3.1, the determination of the number of Restricted Stock Units to be granted to Executive shall be consistent with the methodology used for valuing restricted stock units granted to employees which has been approved and adopted by the Compensation Committee of the Parent’s Board.
+
+3.3.2. **Stock Option Grant.** A grant of stock options to purchase Shares with an economic value as of the Grant Date equal to approximately **Nine Hundred Thousand US Dollars (USD $[[USD Value 1]])** (the “Options”). The Options will be granted under the Parent’s Omnibus Incentive Plan and for purposes of such Omnibus Incentive Plan:
+
+^^^the Options will be Nonqualified Stock Options;
+
+^^^the exercise price will be equal to the Fair Market Value of a Share as defined under the terms of the Parent’s Omnibus Incentive Plan on the Grant Date; and
+
+^^^the Expiration Date will be the **seventh** **anniversary of the Grant Date**.
+
+The Options will be issued on the Grant Date. For purposes of this Subsection 3.3.2, the determination of the number of Options to be granted to Executive shall be consistent with the methodology used for valuing stock options granted to employees which has been approved and adopted by the Compensation Committee of the Parent’s Board.
+
+3.3.3. **Vesting**.** With respect to the Restricted Stock Units and the Options issued on the Grant Date, one-third will vest on each of the first, second, and third anniversaries of the Grant Date**, provided that the Executive is still employed on such dates, subject to the provisions of Section 4 of this Agreement. Executive shall not be eligible to receive any additional regular cycle grants under the Parent’s Omnibus Incentive Plan during the Term. For the avoidance of doubt, with regards to the Restricted Stock Units and Options provided for in this Amendment, Executive shall be eligible for Retirement during the Term if he qualifies for same under and within the meaning of the Parent’s Omnibus Incentive Plan, all on terms to be set forth in separate grant agreements as described below.
+
+3.3.4. **Grant Agreements****.** The Restricted Stock Units and Options will be governed by separate agreements entered into between the Executive and the Parent, and in the event of any inconsistency between such separate agreements and the terms of this Agreement (including, but not limited to its Section 4), this Agreement shall govern and control. For avoidance of doubt, nothing in the preceding sentence shall be construed to limit the application of any provision of such separate agreements that expressly refers to and incorporates a provision of this Agreement.
+
+For the avoidance of doubt, the grants under Subsections 3.3.1 and 3.3.2 are in addition to, and not in lieu of, the grants already made under the Employment Agreement and its Second Amendment.
+
+^A new Agreement Section 3.9 is hereby added as follows:
+
+^^**Interim CEO Cash Increase**. The Executive shall have his US Base Salary and his target opportunity for his annual incentive bonus increased for the period during which he serves as Interim Chief Executive Officer (“CEO”) as follows:
+
+^^^During each month the Executive serves as CEO, his annual US Base Salary shall be increased to **Four Hundred Eighty Thousand Euros (€480,000)** (such increased amount, “CEO US Base Salary”), payable monthly in arrears. When the Executive ceases to serve as CEO, his US Base Salary shall revert to **Three Hundred Ninety-One Thousand Euros (€391,000)**, or such other higher amount as the Board’s Compensation Committee may set. If the Executive serves part of a month as CEO and part of it not as CEO, his CEO US Base Salary for such month shall be pro-rated based on the days he serves as CEO during such month.
+
+^^^While the Executive serves as CEO, his target opportunity for his annual incentive bonus shall be increased to **One Hundred Fifty Percent ([[Percentage 1: Number]]%)** of his CEO US Base Salary, (up to a maximum opportunity of **Three Hundred Percent ([[Percentage 2: Number]]%)** of his CEO US Base Salary)(“CEO Target Opportunity”). The CEO Target Opportunity shall be used to calculate the Executive’s Annual Bonus in accordance with Section 3.2, which Annual Bonus, if any, shall be paid in accordance with Section 3.2. If the Executive serves part of a year as CEO and part of it not as CEO, his Annual Bonus shall be pro-rated so that a portion of it is determined based on the number of days in the relevant year he served as CEO using the CEO Target Opportunity and CEO US Base Salary and so that the other portion is determined based on the remaining number of days in the relevant year using the target opportunity set forth at Section 3.2 and his normal US Base Salary.
+
+^For purposes of Sections 1 and 2 of this Amendment, the Executive’s service as CEO shall be deemed to have commenced on [[Date 6]] and it shall end upon the earlier of (A) [[Date 9: Date]], or (B) the date a new Chief Executive Officer’s employment commences.
+
+^Agreement Section 4.1.5 is hereby revised by adding the following new sentence to the end of Section 4.1.5:
+
+In the event that the termination of the Executive’s employment does not constitute a “separation from service” as defined in Section 409A of the Internal Revenue Code of 1986, including all regulations and other guidance issued pursuant thereto (the “Code”), the Executive’s rights to the payments and benefits described in this Section 4 shall vest upon the Termination Date, but no payment to the Executive that is subject to Section 409A shall be paid until the Executive incurs a separation from service (or as set forth at Section 13, until six months after such date if the Executive is a specified employee), and any amounts that would otherwise have been paid prior to such date shall be paid instead as soon as practicable after such date.
+
+^The last paragraph in Agreement Section 4.2.2 is hereby revised to read in its entirety as follows:
+
+In no event, however, shall the Executive be entitled to receive the pay and benefits that the Employer shall provide the Executive pursuant to this Section 4.2.2 unless the Executive provides the Employer an enforceable waiver and release agreement in a form that the Employer normally requires. Such release shall be furnished to the Executive for his review not later than seven business days following the Termination Date, and shall be executed and returned to the Employer within 21 days of receipt (or within 45 days of receipt if the Executive’s separation is part of a group). Provided the Executive does not timely revoke the waiver and release agreement within seven days after its execution, pay and benefits pursuant to this Section 4.2.2 shall commence on the expiration of the revocation period, and any amounts that otherwise would have been paid to the Executive pursuant to this Section 4.2.2 before the expiration of the revocation period shall be paid to the Executive, without interest, as soon as practicable after the expiration of the revocation period (but in no event more than 60 days after the Termination Date).
+
+^Agreement Section 4.3.2(i)(A) is hereby revised to read in its entirety as follows:
+
+**Accrued Obligations**.** The sum of (I) the Executive’s Annual Base Salary through the Termination Date to the extent not theretofore paid, (II) the product of (1) *the higher of:*** (a) any Recent Annual Bonus, and (b) the Annual Bonus paid or payable, including any bonus or portion thereof which has been earned but deferred (and annualized for any fiscal year consisting of less than twelve full months or during which the Executive was employed for less than twelve full months), for the most recently completed fiscal year during the Change of Control Period, if any (such higher amount being referred to as the “Highest Annual Bonus”) and (2) a fraction, the numerator of which is the number of days in the current fiscal year through the Termination Date, and the denominator of which is 365, and (III) any accrued vacation pay, in each case, to the extent not theretofore paid (the sum of the amounts described in subclauses (I), (II), and (III), (the “Accrued Obligations”);
+
+^Agreement Section 13 is hereby revised by adding the following new Section 13.2:
+
+^^**Interpretation and Administration of Agreement****.** To the maximum extent permitted by law and consistent with the substantive terms of this Agreement, this Agreement shall be interpreted and administered in such a manner that the payments to the Executive are either exempt from, or comply with all requirements of, Section 409A of the Code.
+
+^All other terms and conditions of the Agreement not expressly modified by this Amendment remain valid and unchanged.
+
+^This Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same amendatory instrument, and any of the parties hereto may execute this Amendment by signing any such counterpart.
+
+\centered **[SIGNATURES FOLLOW]**
+
+**IN WITNESS WHEREOF**, the parties have executed this Amendment as of the date first above written.
+
+**[[Employer]]**
+
+[[Employer Signatory Email: Identity | Signature]]
+__________________________________________
+{{Employer Entity => By: [[Employer Signatory First Name]] [[Employer Signatory Last Name]]
+Title: [[Employer Signatory Title]]}}
+
+
+[[Title Employer Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Employer Signatory Title}} Entity => By: [[Title Employer Signatory Title}} Signatory First Name]] [[Title Employer Signatory Title}} Signatory Last Name]]
+Title: [[Title Employer Signatory Title}} Signatory Title]]}}
+
+**UMBERTO DELLA SALA**

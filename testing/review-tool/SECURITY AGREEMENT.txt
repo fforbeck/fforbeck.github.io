@@ -1,0 +1,611 @@
+\centered **SECURITY AGREEMENT**
+
+This **SECURITY AGREEMENT** (this “**Agreement**”) dated as of [[Date 1: Date]], among ROLLER BEARING COMPANY OF AMERICA, INC., a Delaware corporation (the “**Borrower**”), RBC BEARINGS INCORPORATED, a Delaware corporation (“**Holdings**”), each of the Subsidiaries of Holdings identified under the caption “SUBSIDIARY GUARANTORS” on the signature pages hereto and each other such Subsidiary that may hereafter become a Subsidiary Guarantor party hereto pursuant to Section 6.11 (individually, a “**Subsidiary Guarantor**” and, collectively, the “**Subsidiary Guarantors**” and, together with the Borrower and Holdings, the “**Obligors**”) and JPMORGAN CHASE BANK, N.A. (“**JPMCB**”), in its capacity as Administrative Agent for the benefit of the Secured Creditors (all capitalized terms used without being defined in this preamble and in the recitals below shall have the meanings provided for in Section 1).
+
+\centered RECITALS
+
+WHEREAS, the Borrower, the lenders party thereto (the “**Lenders**”), JPMCB, as LC Issuer and JPMCB, as administrative agent (together with its successors and assigns, the “**Administrative Agent**”), are parties to a Credit Agreement, dated as of [[Date 1]] (as the same may be amended, restated, supplemented or otherwise modified from time to time, the “**Credit Agreement**”), pursuant to which the Lenders and the LC Issuer have agreed to make available certain financial accommodations (by means of making loans and issuing letters of credit) to or for account of the Borrower and/or the other Obligors, as applicable;
+
+WHEREAS, Holdings is a party to the Parent Guaranty, dated as of [[Date 1]] (as the same may be amended, restated, supplemented or otherwise modified from time to time, the “**Parent Guaranty**”), pursuant to which Holdings has guaranteed the obligations of the Borrower under the Credit Agreement;
+
+WHEREAS, the Subsidiary Guarantors are parties to a Subsidiary Guaranty, dated as of [[Date 1]] (as the same may be amended, restated, supplemented or otherwise modified from time to time, the “**Subsidiary Guaranty**”), pursuant to which the Subsidiary Guarantors have jointly and severally guaranteed the obligations of the Borrower under the Credit Agreement;
+
+WHEREAS, the execution and delivery of this Agreement by the Obligors is a condition precedent to the Lenders’ and the LC Issuer’s obligation to make such financial accommodations available to the Borrower and/or the other Obligors;
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+^**Definitions**.
+
+^^Unless otherwise indicated, terms defined in the Credit Agreement are used herein as defined therein.
+
+^^The terms “**Accounts**”, “**Chattel Paper**”, “**Commercial Tort Claim**”, “**Commodity Account**”, “**Deposit Account**”, “**Document**”, “**Electronic Chattel Paper**”, “**Equipment**”, “**Fixture**”, “**General Intangible**”, “**Goods**”, “**Instrument**”, “**Inventory**”, “**Investment Property**”, “**Letter-of-Credit Right**”, “**Payment Intangible**”, “**Proceeds**”, “**Software**” and “**Supporting Obligation**” have the respective meanings ascribed thereto in Article 9 of the Uniform Commercial Code. The terms “**Financial Assets**”, “**Securities Account**” and “**Security Entitlement**” shall have the meaning ascribed thereto in Article 8 of the Uniform Commercial Code.
+
+^^In addition, as used herein:  
+“**Collateral**” has the meaning assigned to such term in Section 3.
+
+“**Control Agreement**” means tri-party deposit account, securities account or commodities account control agreements by and among [[Party 1]] depository, [[Party 2]] “control” of such deposit account, securities or commodities account within the meaning of Articles 8 and 9 of the UCC.
+
+“**Copyright Collateral**” means all Copyrights, whether now owned or hereafter acquired by any Obligor, including each Copyright identified in **Schedule 4**.
+
+“**Copyrights**” means all copyrights, copyright registrations and applications for copyright registrations, including, without limitation, all renewals and extensions thereof, and the right to recover for all past, present and future infringements thereof.
+
+“**Intellectual Property**” means, collectively, all Copyright Collateral, all Patent Collateral and all Trademark Collateral, together with the following, whether now owned or hereafter acquired by any Obligor: (a) all trade secrets; and (b) all causes of action, claims and warranties now or hereafter owned or acquired by any Obligor in respect of any of the items listed above.
+
+“**Intellectual Property Licenses**” means all licenses granted to any Obligor with respect to all Copyrights, Patents and Trademarks, and all trade secrets.
+
+“**Issuers**” means, collectively, the respective corporations, partnerships or other entities identified next to the names of the Obligors on **Schedule 3** under the caption “Issuer”, and each other Subsidiary of the Borrower formed or acquired after the date hereof and required by the Credit Agreement to be added as an “Issuer” under this Agreement (but excluding any Foreign Subsidiary to the extent covered by a separate Foreign Subsidiary Pledge Agreement).
+
+“**Motor Vehicles**” means motor vehicles, tractors, trailers and other like property, whether or not the title thereto is governed by a certificate of title or ownership.
+
+“**Patent Collateral**” means all Patents, whether now owned or hereafter acquired by any Obligor, including each Patent identified in **Schedule 5**.
+
+“**Patents**” means all patents and patent applications, including, without limitation, the inventions and improvements described and claimed therein together with the reissues, divisions, continuations, extensions and continuations in part thereof, all income, royalties, damages and payments now or hereafter due and/or payable under and with respect thereto, including, without limitation, damages and payments for past, present or future infringements thereof, the right to sue for past, present and future infringements thereof, and all rights corresponding thereto throughout the world.
+
+“**Pledged Debt**” has the meaning assigned to such term in **Section 3(n)**.
+
+“**Pledged Stock**” has the meaning assigned to such term in **Section 3(m)**.
+
+“**Secured Obligations**” means (a) with respect to the Borrower, the Obligations, and (b) with respect to each Subsidiary Guarantor, the “Guaranteed Obligations” (as defined in the Subsidiary Guaranty), (c) with respect to Holdings, the “Guaranteed Obligations” (as defined in the Parent Guaranty), (d) all primary obligations of the Borrower or any Subsidiary thereof in respect of all Designated Hedge Agreements and Banking Services Agreements and (e) all other present and future obligations of the Obligors to the Administrative Agent hereunder and under the other Loan Documents.
+
+“**Secured Creditors**” means the Lenders, the LC Issuer, the Administrative Agent and any other holder of Secured Obligations.
+
+“**Stock Collateral**” has the meaning assigned to such term in **Section 3(m)(ii)**.
+
+“**Trademark Collateral**” means all Trademarks, whether now owned or hereafter acquired by any Obligor, including each Trademark identified in **Schedule 6**. Notwithstanding the foregoing, the Trademark Collateral does not and shall not include any Trademark that would be rendered invalid, abandoned, void or unenforceable, or would be cancelled, by reason of its being included as part of the Trademark Collateral or the grant of a security interest in or Lien on such Trademark Collateral.
+
+“**Trademarks**” means all trade names, trademarks and service marks, logos, trademark and service mark registrations, and applications for trademark and service mark registrations, including, without limitation, all renewals of trademark and service mark registrations, all rights corresponding thereto throughout the world, the right to recover for all past, present and future infringements thereof, together, in each case, with the goodwill of the business connected with the use of, and symbolized by, each such trade name, trademark and service mark.
+
+“**Uniform Commercial Code**” means the Uniform Commercial Code as in effect from time to time in the State of New York.
+
+^**Representations and Warranties**.
+
+Each Obligor represents and warrants to the Secured Creditors and the Administrative Agent as follows:
+
+^^**Title and Priority**. **Title and Priority**. Such Obligor is the sole beneficial owner of, has a valid Leasehold in, has the right to use under an Intellectual Property License, or otherwise has the right to use all Collateral pursuant to which it purports to grant a security interest pursuant to Section 3, except where the failure to own, possess a license or Leasehold with respect to, or otherwise have the right to use such Collateral would not reasonably be expected to have a Material Adverse Effect, and no Lien exists or will exist upon such Collateral at any time, except for Permitted Liens. The security interest created pursuant hereto constitutes a valid security interest in the Collateral in which such Obligor purports to grant a security interest pursuant to Section 3, subject to no equal or prior Lien except for the Permitted Liens.
+
+^^**Names, Etc**. The full and correct legal name, type of organization, jurisdiction of organization, organizational identification number (if applicable) and mailing address of each Obligor as of the date hereof are correctly set forth in **Schedule 1**. Each Obligor has only one jurisdiction of organization. No Obligor does business and no Obligor has done business during the past 5 years under any former legal name, trade name or fictitious business name except as disclosed on **Schedule 1** attached hereto.
+
+^^**Locations**. **Schedule 2** correctly specifies (i) each place of business of each Obligor and, if such Obligor has more than one place of business, the location of the chief executive office of such Obligor, and (ii) each location where Goods of the Obligors are located (other than Motor Vehicles constituting Equipment and Goods in transit). Except as disclosed on **Schedule 2**, none of the Collateral is in the possession of any bailee, warehousemen, processor or consignee. To the extent the value of the Collateral located at any location listed on **Schedule 2** is in excess of $[[USD Value 1: Number]] such location is properly identified on such **Schedule**.
+
+^^**Changes in Circumstances**. Except as specified in **Schedule 1**, such Obligor has not (i) within the period of four months prior to the date hereof, changed its location (as defined in Section 9-307 of the Uniform Commercial Code), (ii) heretofore changed its name, or (iii) heretofore become a “new debtor” (as defined in Section 9-102(a)(56) of the Uniform Commercial Code) with respect to a currently effective security agreement previously entered into by any other Person.
+
+^^**Pledged Stock; Pledged Debt**. The Pledged Stock identified under the name of such Obligor in **Schedule 3** is, and all other Pledged Stock in which such Obligor shall hereafter grant a security interest pursuant to Section 3 will be, duly authorized, validly existing, fully paid and non assessable and none of such Pledged Stock is or will be subject to any contractual restriction, or any restriction under the charter, limited liability company agreement, operating agreement, partnership agreement or by laws of the respective Issuer of such Pledged Stock, upon the transfer of such Pledged Stock except as otherwise noted on **Schedule 3**. The Pledged Stock identified under the name of such Obligor in **Schedule 3** constitutes all of the issued and outstanding shares of capital stock of any class of the Issuers beneficially owned by such Obligor on the date hereof (whether or not registered in the name of such Obligor) and **Schedule 3** correctly identifies, as at the date hereof, the respective Issuers of such Pledged Stock, the respective class and par value of the shares constituting such Pledged Stock and the respective number of shares (and registered owners thereof) represented by each such certificate. The Pledged Debt issued by any Obligor and pledged by such Obligor hereunder has been duly authorized, authenticated or issued and delivered, is the legal, valid and binding obligation of such Obligor, subject to applicable bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law is evidenced by one or more promissory notes (which notes have been delivered to the Administrative Agent).
+
+^^**Intellectual Property**. **Schedules 4**, 5 and 6, respectively, set forth under the name of such Obligor a complete and correct list of all U.S. federal copyright registrations and applications, issued patents and patent applications, and trademark registrations and applications among the Copyrights, Patents and Trademarks owned by such Obligor on the date hereof. To such Obligor’s knowledge, all material registrations and issued patents listed on **Schedules 4**, 5 and 6 are valid and in full force and effect. Each Obligor and each of its Subsidiaries has obtained or, to such Obligor’s knowledge, has the right to use all material Copyrights, Patents, and Trademarks and other Intellectual Property necessary for the present conduct of its business, without any known material infringement of the rights of others.
+
+^^**Fair Labor Standards Act**. Any Goods now or hereafter produced by such Obligor or any of its Subsidiaries included in the Collateral have been and will be produced in material compliance with the requirements of the Fair Labor Standards Act, as amended.
+
+^^**Depositary and Other Accounts**. All Deposit Accounts, Securities Accounts, Commodities Accounts and other accounts maintained by such Obligor are described on **Schedule 8** hereto, which description includes for each such account the name, address and telephone number and telecopy numbers of the financial institution at which such account is maintained, the account number and the account officer, if any, of such account. Such Obligor hereby authorizes the financial institutions at which such Obligor maintains an account to provide the Administrative Agent with such information with respect to such account as the Administrative Agent from time to time reasonably may request, and each Obligor hereby consents to such information being provided to the Administrative Agent.
+
+^^^**Commercial Tort Claims**. Such Obligor does not own any Commercial Tort Claim except for those disclosed on **Schedule 9** hereto.
+
+^**Collateral**.
+
+As collateral security for the prompt payment in full when due (whether at stated maturity, by acceleration or otherwise) of the Secured Obligations, whether now existing or hereafter from time to time arising, each Obligor hereby grants to the Administrative Agent, for the benefit of the Secured Creditors, a security interest in all of such Obligor's right, title and interest in, to and under the following property, whether now owned by such Obligor or hereafter acquired and whether now existing or hereafter coming into existence (all of the property described in this Section 3 being collectively referred to herein as “**Collateral**”):
+
+^^all Accounts;  
+^^all General Intangibles;  
+^^all Deposit Accounts;  
+^^all Instruments;  
+^^all Documents;  
+^^all Chattel Paper (whether tangible or electronic);
+
+^^all Inventory;  
+^^all Equipment;  
+^^all Fixtures;  
+^^all Goods not covered by the preceding clauses of this Section 3;
+
+^^all Letter-of-Credit Rights;  
+^^all Commercial Tort Claims specified on **Schedule 9**;
+
+^^the shares of common stock or other equity interests of the Issuers identified in **Schedule 3** under the name of such Obligor and all other shares of capital stock of whatever class, or other equity interests, of the Issuers, now or hereafter owned by such Obligor, in each case together with the certificates (if any) evidencing the same; **provided** that if any Issuer hereunder shall be a Foreign Subsidiary the shares of capital stock of such Foreign Subsidiary deemed to be pledged hereunder shall be equal to no more than [[Percentage 1: Number]]% of the stock or other equity interests in any first tier Foreign Subsidiary, or none of the stock or other equity interests in any other Foreign Subsidiary (collectively, the “**Pledged Stock**”), together with;
+
+^^^all shares, securities, moneys or property representing a dividend on any of the Pledged Stock, or representing a distribution or return of capital upon or in respect of the Pledged Stock, or resulting from a split up, revision, reclassification or other like change of the Pledged Stock or otherwise received in exchange therefor, and any subscription, warrants, rights or options issued to the holders of, or otherwise in respect of, the Pledged Stock; and
+
+^^^without affecting the obligations of such Obligor under any provision prohibiting such action hereunder or under the Credit Agreement, in the event of any consolidation or merger in which an Issuer is not the surviving entity, all shares of each class of the capital stock or other equity interests of the successor corporation (unless such successor entity is such Obligor itself) formed by or resulting from such consolidation or merger (the Pledged Stock, together with all other certificates, shares, securities, properties or moneys as may from time to time be pledged hereunder pursuant to this clause (ii) or clause (i) above being herein collectively called the “**Stock Collateral**”);
+
+^^all Indebtedness from time to time owed to such Obligor (the “**Pledged Debt**”) and the instruments, if any, evidencing such Indebtedness, and all interest, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such Indebtedness
+
+^^all Investment Property, Security Entitlements and Financial Assets not otherwise covered by the preceding clauses of this Section 3;
+
+^^all Intellectual Property and Intellectual Property Licenses;
+
+^^all Supporting Obligations;  
+^^all Payment Intangibles, Software and all other General Intangibles whatsoever not covered by the preceding clauses of this Section 3;
+
+^^all other tangible and intangible personal property whatsoever of such Obligor; and
+
+^^all Proceeds, products, offspring, accessions, rents, profits, income, benefits, substitutions and replacements of and to any of the Collateral and, to the extent related to any Collateral, all books, correspondence, credit files, records, invoices and other papers (including without limitation all tapes, cards, computer runs and other papers and documents in the possession or under the control of such Obligor or any computer bureau or service company from time to time acting for such Obligor).
+
+Notwithstanding the foregoing, and to the extent not overridden by Sections 9-406, 9-407, 9-408 and 9-409 of the Uniform Commercial Code, the Collateral shall not include (i) contractual rights (other than rights relating to the proceeds of Accounts and rights to payments of any nature) to the extent that the grant of a security interest therein would violate the terms of the agreement under which such contractual rights arise or exist; and (ii) rights under governmental licenses and authorizations to the extent the grant of a security interest therein is prohibited by law.
+
+Anything herein to the contrary notwithstanding, (a) each Obligor shall remain liable under the contracts and agreements included in such Obligor's Collateral to the extent set forth therein to perform all of its duties and obligations thereunder to the same extent as if this Agreement had not been executed, (b) the exercise by the Administrative Agent of any of the rights hereunder shall not release any Obligor from any of its duties or obligations under the contracts and agreements included in the Collateral and (c) no Secured Creditor shall have any obligation or liability under the contracts and agreements included in the Collateral by reason of this Agreement or any other agreement, nor shall any Secured Creditor be obligated to perform any of the obligations or duties of any Obligor thereunder or to take any action to collect or enforce any claim for payment assigned hereunder
+
+^**Deposit Accounts; Investment Accounts and Other Cash Management Arrangements**.
+
+In the event any Obligor opens any Deposit Account or lockbox account (other than a petty cash account or a payroll account) after the Closing Date, such Obligor will promptly enter into a Control Agreement with respect to each such Deposit Account or lock-box account. Furthermore, within 90 days of the Closing Date, each Obligor will enter into Control Agreements with respect to each Deposit Account and lock-box account (other than petty cash accounts and payroll accounts) then maintained by such Obligor. Each such Control Agreement shall be in form and substance reasonably satisfactory to the Administrative Agent.
+
+Upon request by the Administrative Agent during the existence of an Event of Default, each Obligor will forthwith, upon receipt, transmit and deposit, in the form received, all cash, checks, drafts and other instruments or writings for the payment of money (properly endorsed, where required, so that such items may be collected by the Administrative Agent) which may be received by such Obligor at any time in full or partial payment or otherwise as proceeds of any of the Collateral, to a Deposit Account for which the Administrative Agent is the depositary (a “**Cash Collateral Account**”). During the existence of an Event of Default, the Administrative Agent shall also have the option to apply any items of payment received by it in the Cash Collateral Account (or any items of payment otherwise received by the Administrative Agent) to the Secured Obligations. Each Control Agreement shall provide that, during the existence of an Event of Default, upon the written notice of the Administrative Agent to an Obligor and the applicable depositary bank (a “**Control Election**”), such Obligor shall not have any right to withdraw any funds or checks or other items of payment deposited in any Deposit Account or any lockbox governed by such Control Agreement. The Administrative Agent may, from time to time, in its discretion, and shall upon request of the Borrower made not more than once in any week, apply all or any of the then balance, representing collected funds, in any Cash Collateral Account or, after a Control Election, any Deposit Account subject to a Control Agreement, toward payment of the Secured Obligations, whether or not then due, in such order of application as the Administrative Agent may determine (unless the Administrative Agent or the Required Lenders shall have elected to exercise their remedies under Section 8.2 of the Credit Agreement, in which case such balances shall be applied in accordance with the provisions of Section 8.3 of the Credit Agreement).
+
+^**Further Assurances; Remedies**.
+
+In furtherance of the grant of the pledge and security interest pursuant to Section 3, the Obligors hereby jointly and severally agree with the Administrative Agent as follows:
+
+^^**Delivery and Other Perfection**.
+
+Each Obligor shall:  
+^^deliver to the Administrative Agent any and all Instruments, negotiable Documents and Chattel Paper constituting part of the Collateral in which such Obligor purports to grant a security interest hereunder, endorsed and/or accompanied by such instruments of assignment and transfer in such form and substance as the Administrative Agent may reasonably request; **provided, however** that, unless the Administrative Agent instructs such Obligor to the contrary during the continuation of an Event of Default, such Obligor may retain for collection (i) any Instruments, negotiable Documents and Chattel Paper received by such Obligor in the ordinary course of business and (ii) any Instrument with a value of less than $[[USD Value 2: Number]]; the Administrative Agent shall, promptly upon request of such Obligor through the Borrower, make appropriate arrangements for making any Instrument pledged by such Obligor available to such Obligor for purposes of presentation, collection or renewal (any such arrangement to be effected, to the extent deemed appropriate by the Administrative Agent, against trust receipt or like document); if such Obligor retains possession of any Chattel Paper, negotiable Documents or Instruments pursuant to the terms hereof, such Chattel Paper, negotiable Documents and Instruments shall be marked with the following legend: “This writing and the obligations evidenced or secured hereby are subject to the security interest and lien of JPMorgan Chase Bank, N.A., as secured party, for the benefit of certain Secured Creditors.”;
+
+^^upon the reasonable request of the Administrative Agent, give, execute, deliver, file and/or record any financing statements, notice, instrument, document, agreement or other papers that may be reasonably necessary or desirable (in the judgment of the Administrative Agent) to create, preserve, perfect or validate the security interest granted pursuant hereto or to enable the Administrative Agent to exercise and enforce its rights hereunder with respect to such pledge and security interest under United States law, including, without limitation, during the continuation of an Event of Default, causing any or all of the Stock Collateral to be transferred of record into the name of the Administrative Agent or its nominee (and the Administrative Agent agrees that if any Stock Collateral is transferred into its name or the name of its nominee, the Administrative Agent will thereafter promptly give to the respective Obligor copies of any notices and communications received by it with respect to the Stock Collateral pledged by such Obligor hereunder), **provided** that notices to account debtors in respect of any Accounts, Chattel Paper or General Intangibles and to Obligors on Instruments shall be subject to the provisions of clause (c) below;
+
+^^upon the occurrence and during the continuance of any Event of Default, upon request of the Administrative Agent, promptly notify (and such Obligor hereby authorizes the Administrative Agent so to notify) each Account Debtor in respect of any Accounts, Chattel Paper, Instruments or General Intangibles of such Obligor that such Collateral has been assigned to the Administrative Agent hereunder, and that any payments due or to be come due in respect thereof are to be made directly to the Administrative Agent;
+
+^^without limiting the obligations of such Obligor under Section 5.4(c), to the extent that any Obligor owns or acquires any Equipment covered by a certificate of title or ownership, and upon the request of the Administrative Agent during the continuation of an Event of Default, cause the Administrative Agent to be listed as the lienholder on such certificate of title and take such other steps as may be required under the law applicable to perfection of a security interest in such property to perfect such security interest, and within 60 days of such request deliver evidence of the same to the Administrative Agent;
+
+^^stamp or otherwise mark its books and records in such manner as the Administrative Agent may reasonably require in order to reflect the security interests granted by this Agreement; and
+
+^^unless otherwise consented to by the Administrative Agent in advance, keep its Goods (other than Motor Vehicles constituting Equipment and Goods in transit) at such Obligor’s locations described on **Schedule 2**.
+
+^^**Other Financing Statements and Liens**.
+
+Except as otherwise permitted under the Credit Agreement, without the prior written consent of the Administrative Agent, no Obligor shall (a) file or suffer to be on file, or authorize or permit to be filed or to be on file, in any jurisdiction, any financing statement or like instrument with respect to any of the Collateral in which the Administrative Agent is not named as the sole secured party for the benefit of the Secured Creditors or (b) cause or permit any Person other than the Administrative Agent to have "control" (as defined in Section 9-104, 9-105, 9-106 or 9-107 of the Uniform Commercial Code) of any Deposit Account, Electronic Chattel Paper, Investment Property or Letter-of-Credit Right constituting part of the Collateral.
+
+^^**Preservation of Rights**.
+
+Neither the Administrative Agent nor any other Secured Creditor shall be required to take steps necessary to preserve any rights against prior parties to any of the Collateral.
+
+^^**Special Provisions Relating to Certain Collateral**.
+
+^^**Stock Collateral**.
+
+^^^The Obligors will cause the Stock Collateral to constitute at all times (i) except as provided in clause (ii) below, [[Percentage 2: Number]]% of the total number of shares of each class of capital stock (or in the case of any entity other than a corporation, the total equity interests) of each Issuer then outstanding and owned by the Obligors and (ii) in the case of any Foreign Subsidiary which is an Issuer hereunder, [[Percentage 1]]% of the total number of shares of voting capital stock of such Foreign Subsidiary having ordinary voting power for the election of the board of directors (or similar body) and [[Percentage 2]]% of each class of all non-voting capital stock of such Foreign Subsidiary.
+
+^^^If any of the shares, securities, moneys or property required to be pledged by such Obligor under Section 3 are received by such Obligor, such Obligor will forthwith either (x) deliver to the Administrative Agent such shares or securities so received by such Obligor (together with the certificates for any such shares and securities duly endorsed in blank or accompanied by undated stock powers duly executed in blank), all of which thereafter shall be held by the Administrative Agent, pursuant to the terms of this Agreement, as part of the Collateral or (y) take such other action as the Administrative Agent shall deem necessary to duly record the Lien created hereunder in such shares, securities, moneys or property in said Section 3.
+
+^^^So long as no Event of Default shall have occurred and be continuing, the Obligors shall have the right to exercise all voting, consensual and other powers of ownership pertaining to the Stock Collateral for all purposes not in violation with the terms of this Agreement, the Credit Agreement or any other instrument or agreement referred to herein, provided that the Obligors jointly and severally agree that they will not vote the Stock Collateral in any manner that is in violation with the terms of this Agreement, the Credit Agreement or any such other instrument or agreement; and the Administrative Agent shall execute and deliver to the Obligors or cause to be executed and delivered to the Obligors all such proxies, powers of attorney, dividend and other orders, and all such instruments, without recourse, as the Obligors may reasonably request for the purpose of enabling the Obligors to exercise the rights and powers that they are entitled to exercise pursuant to this Section 5.4(a)(iii).
+
+^^^So long as no Event of Default has occurred and is continuing, the Obligors shall be entitled to receive and retain any dividends and distributions on the Stock Collateral.
+
+^^If any Event of Default shall have occurred, then so long as such Event of Default shall continue, and whether or not the Administrative Agent or any other Secured Creditor exercises any available right to declare any Secured Obligation due and payable or seeks or pursues any other relief or remedy available to it under applicable law or under this Agreement, the Credit Agreement or any other agreement relating to such Secured Obligation, all dividends and other distributions on the Stock Collateral shall be paid directly to the Administrative Agent and retained by it in the Collateral Account as part of the Stock Collateral, subject to the terms of this Agreement, and, if the Administrative Agent shall so request in writing, the Obligors jointly and severally agree to execute and deliver to the Administrative Agent appropriate additional dividend, distribution, and other orders and documents to that end, provided that if such Event of Default is cured or waived, any such dividend or distribution theretofore paid to the Administrative Agent shall, upon request of the Obligors (except to the extent theretofore applied to the Secured Obligations), be returned by the Administrative Agent to the Obligors.
+
+^^**Intellectual Property**.
+
+^^^For the purpose of enabling the Administrative Agent to exercise rights and remedies under Section 5.5 at such time as the Administrative Agent shall be lawfully entitled to exercise such rights and remedies, and for no other purpose, each Obligor hereby grants to the Administrative Agent, to the extent assignable, a non-exclusive license (exercisable without payment of royalty or other compensation to such Obligor), effective during the continuation of an Event of Default, to use, license or sublicense (with respect to Trademarks, subject to reasonable quality control measures) any of the Intellectual Property now owned or hereafter acquired by such Obligor, wherever the same may be located, including in such license reasonable access to all media in which any of the licensed items may be recorded or stored and to all computer programs used for the compilation or printout thereof; **provided**, **however**, that no license shall be deemed granted if it would result in the breach or default under the applicable Intellectual Property License or any other related agreement to which such Obligor is a party or otherwise bound. Nothing in this **subsection (i)** shall be deemed to limit the rights and remedies of the Administrative Agent under Section 5.5.
+
+^^^Unless an Event of Default shall have occurred and be continuing the Administrative Agent shall from time to time, upon the request of the respective Obligor, execute and deliver any instruments, certificates or other documents, in the form so requested, that such Obligor through the Borrower shall have certified are appropriate (in its judgment) to allow it to take any action with respect to the Intellectual Property (including relinquishment of the license provided pursuant to clause (i) immediately above as to any specific Intellectual Property). Further, upon the payment in full in cash of all of the Secured Obligations and cancellation or termination of the Commitments, the license granted pursuant to clause (i) immediately above shall be terminated. The exercise of rights and remedies under Section 5.5 by the Administrative Agent shall not terminate the rights of the holders of any licenses or sublicenses theretofore granted by the Obligors in the ordinary course of business.
+
+^^^The Obligors will furnish to the Administrative Agent from time to time (but, unless an Event of Default shall have occurred and be continuing, no more frequently than annually) statements and schedules further identifying and describing the Copyright Collateral, the Patent Collateral and the Trademark Collateral, respectively, and such other reports in connection with the Copyright Collateral, the Patent Collateral and the Trademark Collateral as the Administrative Agent may reasonably request, all in reasonable detail; and promptly upon request of the Administrative Agent, following receipt by the Administrative Agent of any statements, schedules or reports pursuant to this clause (iii), modify this Agreement by amending **Schedules 4**, 5 and/or 6, as the case may be, to include any copyright registrations and applications, issued patents and patent applications, and trademark registrations and applications among the Copyrights, Patents or Trademarks that become part of the Collateral under this Agreement.
+
+^^^Upon the request of the Administrative Agent, each Obligor or any Subsidiary thereof will execute and deliver to the Administrative Agent a Copyright Security Agreement, a Patent Security Agreement and/or a Trademark Security Agreement, together covering all such Person’s Copyright Collateral, Patent Collateral and Trademark Collateral as being pledged to the Administrative Agent thereon. The Administrative Agent may file any executed Patent Security Agreement or Trademark Security Agreement with the United States Patent and Trademark Office and any Copyright Security Agreement with the United Stated Copyright Office. From time to time, the Administrative Agent may supplement any such IP Security Agreement (and file such supplements) to conform with any updated **Schedules** to this Agreement.
+
+^^**Motor Vehicles**.
+
+^^^Each Obligor shall, upon the request of the Administrative Agent during the continuation of any Event of Default, deliver to the Administrative Agent originals of the certificates of title or ownership for the Motor Vehicles owned by it with the Administrative Agent listed as lienholder and take such other action as the Administrative Agent shall deem appropriate to perfect the security interest created hereunder in all such Motor Vehicles; **provided**, **however**, if any such Motor Vehicle is subject to a purchase money security interest, the Administrative Agent shall be listed as a junior lienholder to the Person holding such purchase money security interest.
+
+^^^Without limiting Section 5.10, each Obligor hereby appoints the Administrative Agent as its attorney in fact, effective upon the occurrence and during the continuation of an Event of Default, for the purpose of (i) executing on behalf of such Obligor title or ownership applications for filing with appropriate state agencies to enable Motor Vehicles now owned or hereafter acquired by such Obligor to be retitled and the Administrative Agent listed as lienholder thereon, (ii) filing such applications with such state agencies and (iii) executing such other documents and instruments on behalf of, and taking such other action in the name of, such Obligor as the Administrative Agent may deem necessary to accomplish the purposes hereof (including, without limitation, the purpose of creating in favor of the Administrative Agent a perfected lien on the Motor Vehicles and exercising the rights and remedies of the Administrative Agent under Section 5.5). This appointment as attorney in fact is irrevocable and coupled with an interest.
+
+^^^Any certificates of title or ownership delivered pursuant to the terms hereof shall, to the extent reasonably requested by the Administrative Agent, be accompanied by odometer statements for each Motor Vehicle covered thereby.
+
+^^**Commercial Tort Claims**. Each Obligor shall promptly notify the Administrative Agent of any Commercial Tort Claim acquired by it and such Obligor shall enter into a supplement as may be necessary to this Agreement granting to Administrative Agent a Lien on and security interest in such Commercial Tort Claim.
+
+^^**Collateral Access Agreements**. If requested to do so by the Administrative Agent, each Obligor will use commercially reasonable efforts to promptly (and in any event within 60 days following any such request) obtain, and thereafter such Obligor will maintain in effect, Collateral Access Agreements with respect to any location at which any tangible items of Collateral with a value in excess of $[[USD Value 3: Number]] are located.
+
+^^**Events of Default**.
+
+During the period during which an Event of Default shall have occurred and be continuing:
+
+^^each Obligor shall, at the request of the Administrative Agent, assemble the Collateral owned by it at such place or places, reasonably convenient to both the Administrative Agent and such Obligor, designated in its request;
+
+^^the Administrative Agent may obtain insurance for the Collateral at any time when any Obligor has failed to do so, and the Obligors shall promptly pay, or reimburse the Administrative Agent for, all expenses incurred in connection therewith;
+
+^^the Administrative Agent may make any reasonable compromise or settlement deemed desirable with respect to any of the Collateral and may extend the time of payment, arrange for payment in installments, or otherwise modify the terms of, any of the Collateral;
+
+^^the Administrative Agent shall have all of the rights and remedies with respect to the Collateral of a secured party under the Uniform Commercial Code (whether or not said Code is in effect in the jurisdiction where the rights and remedies are asserted) and such additional rights and remedies to which a secured party is entitled under the laws in effect in any jurisdiction where any rights and remedies hereunder may be asserted, including, without limitation, the right, to the maximum extent permitted by law, to exercise all voting, consensual and other powers of ownership pertaining to the Collateral as if the Administrative Agent were the sole and absolute owner thereof (and each Obligor agrees to take all such action as may be appropriate to give effect to such right);
+
+^^the Administrative Agent in its discretion may, in its name or in the name of the Obligors or otherwise, demand, sue for, collect or receive any money or property at any time payable or receivable on account of or in exchange for any of the Collateral, but shall be under no obligation to do so; and
+
+^^the Administrative Agent may, upon ten Business Days' prior written notice to the Obligors of the time and place, with respect to the Collateral or any part thereof that shall then be or shall thereafter come into the possession, custody or control of the Administrative Agent, the other Secured Creditors or any of their respective agents, sell, lease, assign or otherwise dispose of all or any part of such Collateral, at such place or places as the Administrative Agent deems best, and for cash or for credit or for future delivery (without thereby assuming any credit risk), at public or private sale, without demand of performance or notice of intention to effect any such disposition or of the time or place thereof (except such notice as is required above or by applicable statute and cannot be waived), and the Administrative Agent or any other Secured Creditor or anyone else may be the purchaser, lessee, assignee or recipient of any or all of the Collateral so disposed of at any public sale (or, to the extent permitted by law, at any private sale) and thereafter hold the same absolutely, free from any claim or right of whatsoever kind, including any right or equity of redemption (statutory or otherwise), of the Obligors, any such demand, notice and right or equity being hereby expressly waived and released. In the event of any sale, assignment, or other disposition of any of the Trademark Collateral, the goodwill connected with and symbolized by the Trademark Collateral subject to such disposition shall be included, and the Obligors shall supply to the Administrative Agent or its designee, for inclusion in such sale, assignment or other disposition, all Intellectual Property relating to such Trademark Collateral. The Administrative Agent may, without notice or publication, adjourn any public or private sale or cause the same to be adjourned from time to time by announcement at the time and place fixed for the sale, and such sale may be made at any time or place to which the sale may be so adjourned.
+
+The Proceeds of each collection, sale or other disposition under this Section 5.5, including by virtue of the exercise of the license granted to the Administrative Agent in Section 5.4(b), shall be applied in accordance with Section 5.9.
+
+The Obligors recognize that, by reason of certain prohibitions contained in the Securities Act of 1933, as amended, and applicable state securities laws, the Administrative Agent may be compelled, with respect to any sale of all or any part of the Collateral, to limit purchasers to those who will agree, among other things, to acquire the Collateral for their own account, for investment and not with a view to the distribution or resale thereof. The Obligors acknowledge that any such private sales may be at prices and on terms less favorable to the Administrative Agent than those obtainable through a public sale without such restrictions, and, notwithstanding such circumstances, agree that any such private sale shall be deemed to have been made in a commercially reasonable manner and that the Administrative Agent shall have no obligation to engage in public sales and no obligation to delay the sale of any Collateral for the period of time necessary to permit the respective Issuer or issuer thereof to register it for public sale.
+
+^^**Deficiency**.
+
+If the proceeds of sale, collection or other realization of or upon the Collateral pursuant to Section 5.5 are insufficient to cover the costs and expenses of such realization and the payment in full of the Secured Obligations, the Obligors shall remain liable for any deficiency to the extent the Obligors are obligated under this Agreement.
+
+^^**Locations, Etc**.
+
+Without at least 25 days' prior written notice to the Administrative Agent, no Obligor shall change its location (as defined in Section 9-307 of the Uniform Commercial Code) or change its name from the name shown as its current legal name on **Schedule 2**.
+
+^^**Private Sale**.
+
+Neither the Administrative Agent nor any other Secured Creditor shall incur any liability as a result of the sale of the Collateral, or any part thereof, at any private sale pursuant to Section 5.5 conducted in a commercially reasonable manner. Each Obligor hereby waives any claims against the Administrative Agent or any other Secured Creditor arising by reason of the fact that the price at which the Collateral may have been sold at such a private sale was less than the price that might have been obtained at a public sale or was less than the aggregate amount of the Secured Obligations, even if the Administrative Agent accepts the first offer received and does not offer the Collateral to more than one offeree.
+
+^^**Application of Proceeds**.
+
+The proceeds of any collection, sale or other realization of all or any part of the Collateral pursuant hereto, and any other cash at the time held by the Administrative Agent under this Section 5, shall be applied by the Administrative Agent as expressly provided in the Credit Agreement.
+
+^^**Attorney in Fact**.
+
+Without limiting any rights or powers granted by this Agreement to the Administrative Agent while no Event of Default has occurred and is continuing, upon the occurrence and during the continuance of any Event of Default the Administrative Agent is hereby appointed the attorney in fact of each Obligor for the purpose of carrying out the provisions of this Section 5 and taking any action and executing any instruments that the Administrative Agent may deem necessary or advisable to accomplish the purposes hereof, which appointment as attorney in fact is irrevocable and coupled with an interest. Without limiting the generality of the foregoing, at such times as the Administrative Agent shall be entitled under this Section 5 to make collections in respect of the Collateral, the Administrative Agent shall have the right and power to receive, endorse and collect all checks made payable to the order of any Obligor representing any dividend, payment or other distribution in respect of the Collateral or any part thereof and to give full discharge for the same.
+
+^^**Perfection**.
+
+Prior to or concurrently with the execution and delivery of this Agreement, each Obligor shall (i) file such financing statements and other documents in such offices as the Administrative Agent may reasonably request to perfect the security interests granted by Section 3 of this Agreement, (ii) deliver to the Administrative Agent all certificates identified in **Schedule 3**, accompanied by undated stock powers duly executed in blank and (iii) execute and deliver such IP Security Agreements relating to Collateral consisting of the Patent Collateral, Copyright Collateral and Trademark Collateral as the Administrative Agent may reasonably request. Without limiting the foregoing, each Obligor consents that Uniform Commercial Code financing statements may be filed by the Administrative Agent describing the Collateral as “all assets” or “all personal property” (or any other words of similar effect) of such Obligor.
+
+^^**Termination**.
+
+When all Secured Obligations shall have been paid in full in cash and the Commitments under the Credit Agreement shall have terminated, this Agreement shall terminate, and the Administrative Agent shall forthwith cause to be assigned, transferred and delivered, against receipt but without any recourse, warranty or representation whatsoever, any remaining Collateral and money received in respect thereof, to or on the order of the respective Obligor and to be released and canceled all licenses and rights referred to in Section 5.4(b). The Administrative Agent shall also execute and deliver to the respective Obligor upon such termination such Uniform Commercial Code termination statements, certificates for terminating the Liens on the Motor Vehicles and such other documentation as shall be reasonably requested by the respective Obligor to effect the termination and release of the Liens on the Collateral. The Administrative Agent shall release its Liens on certain assets sold or disposed of by the Obligors in accordance with the provisions of Section 11.12(e) of the Credit Agreement.
+
+^^**Further Assurances**.
+
+Each Obligor agrees that, from time to time upon the reasonable written request of the Administrative Agent, such Obligor will execute and deliver such further documents and do such other acts and things as the Administrative Agent may reasonably request in order fully to effect the purposes of this Agreement, including with respect to Section 5.4(a). Notwithstanding anything to the contrary herein, no Obligor shall be required to take any action to record or perfect the Administrative Agent’s security interest in or Lien on any Intellectual Property except under United States law.
+
+In the event that at any time after the Closing Date, any Obligor or any Domestic Subsidiary owns or holds an interest in any Real Property, assets, stock, securities or any other property or interest which is not at the time included collateral pledged pursuant to this Agreement or any other Security Document (all of the foregoing, “**Uncollateralized Property**”), such Obligor will or will cause such Domestic Subsidiary to, promptly (or, in the case of any such Uncollateralized Property acquired in connection with a Permitted Acquisition, concurrently with the consummation thereof), grant the Administrative Agent for the benefit of the Secured Creditors security interests and mortgages or deeds of trust, pursuant to this Agreement or other new documentation or joinder in any existing Security Document to which it is not already a party (all in form and substance reasonably acceptable to the Administrative Agent), in all of the Uncollateralized Property.
+
+Each Obligor will execute any and all further documents, financing statements, agreements and instruments, and take all such further actions (including the filing and recording of financing statements, fixture filings, mortgages, deeds of trust and other documents), which may be required under any applicable law, or which the Administrative Agent may reasonably request, so as at all times to maintain the validity, perfection, enforceability and priority of the Administrative Agent’s security interest in the Collateral or to enable the Administrative Agent to protect, exercise or enforce its rights hereunder and the Administrative Agent’s rights in the Collateral. Each Obligor also agrees to provide (or cause to be provided) to the Administrative Agent, from time to time upon request, evidence reasonably satisfactory to the Administrative Agent as to the perfection and priority of the Liens created or intended to be created by the Security Documents. In addition, each Obligor shall, when and as often as reasonably requested by the Administrative Agent, furnish to the Administrative Agent, statements and schedules further identifying and describing the Collateral and such other reports in connection with the Collateral as the Administrative Agent may reasonably request, all in reasonable detail.
+
+The Administrative Agent is authorized to (i) enter into any modification of any Security Document which the Administrative Agent reasonably believes is required to conform to the mandatory requirements of local law, or to local customs followed by financial institutions with respect to similar collateral documents involving property located in any particular jurisdiction, (ii) in the case of any Security Document relating to property located in a particular jurisdiction which imposes a tax with respect to such Security Document based on the amount of the obligations secured thereby, expressly limit the amount of such secured obligations which are secured by such property to such amount as, in the Administrative Agent’s good faith judgment, is appropriate so that the amount of such tax is reasonable in light of the estimated value of the property located in such jurisdiction, and/or (iii) designate the amount of title insurance coverage for any title insurance policy provided hereunder in an amount reasonably believed by the Administrative Agent to be representative of the fair value of the property covered thereby.
+
+^**Miscellaneous**.
+
+^^**Notices**.
+
+Except as otherwise expressly provided herein, all notices and other communications provided for hereunder shall be in writing (including telegraphic, facsimile transmission or e-mail transmission) and mailed, telegraphed, transmitted, or delivered, if to the Borrower, Holdings or the Administrative Agent, at the address provided for in the Credit Agreement; if to any Subsidiary Guarantor, at the address listed below such Subsidiary Guarantor’s signature to this Agreement; or at such other applicable address as shall be designated by any party in a written notice to the other parties hereto from time to time. All such notices and communications shall be mailed, telegraphed, telecopied, transmitted or sent by overnight courier, and shall be effective when received.
+
+^^**No Waiver**.
+
+No failure on the part of the Administrative Agent or any other Secured Creditor to exercise, and no course of dealing with respect to, and no delay in exercising, any right, power or remedy hereunder shall operate as a waiver thereof; nor shall any single or partial exercise by the Administrative Agent or any other Secured Creditor of any right, power or remedy hereunder preclude any other or further exercise thereof or the exercise of any other right, power or remedy. The remedies herein are cumulative and are not exclusive of any remedies provided by law.
+
+^^**Amendments**.
+
+The terms of this Agreement may be waived, altered or amended only by an instrument in writing duly executed by each Obligor and the Administrative Agent. Any such amendment or waiver shall be binding upon the Administrative Agent and each Obligor.
+
+^^**Supplemental Disclosure**.
+
+From time to time as may be reasonably requested by the Administrative Agent (but while no Event of Default is continuing, not more than once per fiscal quarter of Holdings) or at the Obligors’ election, the Obligors shall supplement each Schedule hereto, or the exceptions to any representation herein, with respect to any matter hereafter arising that, if existing or occurring at the Closing Date, would have been required to be set forth or described in such Schedule or as such an exception to a representation or that is necessary to correct or supplement any information in such Schedule or representation which has been rendered inaccurate thereby (and, in the case of any supplements to any Schedule, such supplemental Schedule shall be appropriately marked to show the changes made therein); **provided** that no such supplement to any such Schedule or exception to any such representation shall be or be deemed to be a waiver of any then-existing Default or Event of Default resulting from the matters disclosed therein (before giving effect to such supplement).
+
+^^**Expenses**.
+
+The Obligors jointly and severally agree to reimburse the Administrative Agent and the Secured Creditors for all reasonable costs and expenses incurred by them (including, without limitation, the reasonable fees and expenses of any individual primary outside counsel to the Administrative Agent plus one additional local counsel in each local jurisdiction as may be appropriate) in connection with (i) any Default and any enforcement or collection proceeding resulting therefrom, including, without limitation, all manner of participation in or other involvement with (w) performance by the Administrative Agent of any obligations of the Obligors in respect of the Collateral that the Obligors have failed or refused to perform, (x) bankruptcy, insolvency, receivership, foreclosure, winding up or liquidation proceedings, or any actual or attempted sale, or any exchange, enforcement, collection, compromise or settlement in respect of any of the Collateral, and for the care of the Collateral and defending or asserting rights and claims of the Administrative Agent in respect thereof, by litigation or otherwise, including expenses of insurance, (y) judicial or regulatory proceedings and (z) workout, restructuring or other negotiations or proceedings (whether or not the workout, restructuring or transaction contemplated thereby is consummated); provided that Secured Creditors who are not acting in the capacity as the Administrative Agent shall also be entitled for reimbursement for no more than one counsel representing all such Secured Creditors (absent a conflict of interest in which case the Secured Creditors may engage and be reimbursed for additional counsel) and (ii) the enforcement of this Section 6.5, and all such costs and expenses shall be Secured Obligations entitled to the benefits of the collateral security provided pursuant to Section 3.
+
+^^**Successors and Assigns**.
+
+This Agreement shall be binding upon and inure to the benefit of the respective successors and assigns of each Obligor and the Administrative Agent (**provided, however**, that no Obligor shall assign or transfer its rights or obligations hereunder without the prior written consent of the Administrative Agent).
+
+^^**Counterparts**.
+
+This Agreement may be executed in any number of counterparts, all of which taken together shall constitute one and the same instrument and any of the parties hereto may execute this Agreement by signing any such counterpart.
+
+^^**Governing Law**.
+
+This Agreement shall be governed by, and construed in accordance with, the law of the State of New York without regards to the conflict of laws principles thereof (other than Section 5-1401 of the New York General Obligations Law).
+
+^^**Agents and Attorneys in Fact**.
+
+The Administrative Agent may employ agents and attorneys in fact in connection herewith and shall not be responsible for the negligence or misconduct of any such agents or attorneys in fact selected by it in good faith.
+
+^^**Captions**.
+
+The captions and section headings appearing herein are included solely for convenience of reference and are not intended to affect the interpretation of any provision of this Agreement.
+
+^^**Severability**.
+
+If any provision hereof is invalid and unenforceable in any jurisdiction, then, to the fullest extent permitted by law, (a) the other provisions hereof shall remain in full force and effect in such jurisdiction and shall be liberally construed in favor of the Administrative Agent and the other Secured Creditors in order to carry out the intentions of the parties hereto as nearly as may be possible and (b) the invalidity or unenforceability of any provision hereof in any jurisdiction shall not affect the validity or enforceability of such provision in any other jurisdiction.
+
+^^**Additional Subsidiary Guarantors**.
+
+Each new Subsidiary of the Borrower or Holdings that is required pursuant to the provisions of Section 6.9 of the Credit Agreement to become a party to this Agreement as a Subsidiary Guarantor shall do so by executing and delivering to the Administrative Agent a Joinder in the form of **Exhibit A** hereto and delivering the same along with new versions of the Schedules to this Agreement. Upon the delivery of all such documents and the acceptance thereof by the Administrative Agent, this Agreement shall be deemed amended to incorporate such new Subsidiary Guarantor and such new Schedules.
+
+^^**Mortgages**.
+
+In the event that any of the Collateral hereunder is also subject to a valid and enforceable Lien under the terms of any Mortgage and the terms of such Mortgage are inconsistent with the terms of this Agreement, then with respect to such Collateral, the terms of such Mortgage shall be controlling in the case of fixtures and real estate leases, letting and licenses of, and contracts and agreements relating to the lease of, real property, and the terms of this Agreement shall be controlling in the case of all other Collateral.
+
+^^**Limitations on Duties of Administrative Agent**.
+
+The powers conferred on the Administrative Agent under this Agreement are solely to protect the Administrative Agent’s interest in the Collateral and shall not impose any duty upon it to exercise any such powers. The Administrative Agent shall be accountable only for amounts that it actually receives as a result of the exercise of such powers and neither the Administrative Agent nor any of its respective officers, directors, employees or agents shall be responsible to Obligors for any act or failure to act, except to the extent constituting gross negligence or willful misconduct. Without limiting the foregoing, the Administrative Agent shall be deemed to have exercised reasonable care in the custody and preservation of the Collateral in its possession if such Collateral is accorded treatment substantially equivalent to that which the Administrative Agent, in its individual capacity, accords its own property consisting of the type of Collateral involved, it being understood and agreed that the Administrative Agent shall not have any responsibility for taking any necessary steps (other than steps taken in accordance with the standard of care set forth above) to preserve rights against any Person with respect to any Collateral.
+
+Also without limiting the generality of the foregoing, the Administrative Agent shall not have any obligation or liability under any contract or license by reason of or arising out of this Agreement or the granting to the Administrative Agent of a security interest therein or assignment thereof or the receipt by the Administrative Agent of any payment relating to any contract or license pursuant hereto, nor shall the Administrative Agent be required or obligated in any manner to perform or fulfill any of the obligations of Obligors under or pursuant to any contract or license, or to make any payment, or to make any inquiry as to the nature or the sufficiency of any payment received by it or the sufficiency of any performance by any party under any contract or license, or to present or file any claim, or to take any action to collect or enforce any performance or the payment of any amounts which may have been assigned to it or to which it may be entitled at any time or times.
+
+\centered [Signatures Follow]
+
+IN WITNESS WHEREOF, each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+**BORROWER:**
+
+**ROLLER BEARING COMPANY OF AMERICA,** **INC.**
+
+[[ROLLER BEARING COMPANY OF AMERICA INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ROLLER BEARING COMPANY OF AMERICA INC. Entity => By: [[ROLLER BEARING COMPANY OF AMERICA INC. Signatory First Name]] [[ROLLER BEARING COMPANY OF AMERICA INC. Signatory Last Name]]
+Title: [[ROLLER BEARING COMPANY OF AMERICA INC. Signatory Title]]}}
+
+
+**HOLDINGS:**
+
+**RBC BEARINGS INCORPORATED**
+
+[[RBC BEARINGS INCORPORATED Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC BEARINGS INCORPORATED Entity => By: [[RBC BEARINGS INCORPORATED Signatory First Name]] [[RBC BEARINGS INCORPORATED Signatory Last Name]]
+Title: [[RBC BEARINGS INCORPORATED Signatory Title]]}}
+
+
+**SUBSIDIARY GUARANTORS:**
+
+**RBC OKLAHOMA, INC.**
+
+[[RBC OKLAHOMA INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC OKLAHOMA INC. Entity => By: [[RBC OKLAHOMA INC. Signatory First Name]] [[RBC OKLAHOMA INC. Signatory Last Name]]
+Title: [[RBC OKLAHOMA INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Oklahoma, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+\centered Signature Page to RBC Bearings Security Agreement
+
+\centered S-1
+
+**RBC NICE BEARINGS, INC.**
+
+[[RBC NICE BEARINGS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC NICE BEARINGS INC. Entity => By: [[RBC NICE BEARINGS INC. Signatory First Name]] [[RBC NICE BEARINGS INC. Signatory Last Name]]
+Title: [[RBC NICE BEARINGS INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Nice Bearings, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**INDUSTRIAL TECTONICS BEARINGS**
+**CORPORATION**
+
+[[CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{CORPORATION Entity => By: [[CORPORATION Signatory First Name]] [[CORPORATION Signatory Last Name]]
+Title: [[CORPORATION Signatory Title]]}}
+
+
+**Address**:
+
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**RBC PRECISION PRODUCTS - PLYMOUTH,**
+**INC.**
+
+[[INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{INC. Entity => By: [[INC. Signatory First Name]] [[INC. Signatory Last Name]]
+Title: [[INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Precision Products - Plymouth, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+\centered Signature Page to RBC Bearings Security Agreement
+
+\centered S-2
+
+**RBC PRECISION PRODUCTS - BREMEN,**
+**INC.**
+
+[[INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{INC. Entity => By: [[INC. Signatory First Name]] [[INC. Signatory Last Name]]
+Title: [[INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Precision Products - Bremen, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**RBC AIRCRAFT PRODUCTS, INC.**
+
+[[RBC AIRCRAFT PRODUCTS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC AIRCRAFT PRODUCTS INC. Entity => By: [[RBC AIRCRAFT PRODUCTS INC. Signatory First Name]] [[RBC AIRCRAFT PRODUCTS INC. Signatory Last Name]]
+Title: [[RBC AIRCRAFT PRODUCTS INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Aircraft Products, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**RBC SOUTHWEST PRODUCTS, INC.**
+
+[[RBC SOUTHWEST PRODUCTS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC SOUTHWEST PRODUCTS INC. Entity => By: [[RBC SOUTHWEST PRODUCTS INC. Signatory First Name]] [[RBC SOUTHWEST PRODUCTS INC. Signatory Last Name]]
+Title: [[RBC SOUTHWEST PRODUCTS INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Southwest Products, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+\centered Signature Page to RBC Bearings Security Agreement
+
+\centered S-3
+
+**RBC LUBRON BEARING SYSTEMS, INC.**
+
+[[RBC LUBRON BEARING SYSTEMS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC LUBRON BEARING SYSTEMS INC. Entity => By: [[RBC LUBRON BEARING SYSTEMS INC. Signatory First Name]] [[RBC LUBRON BEARING SYSTEMS INC. Signatory Last Name]]
+Title: [[RBC LUBRON BEARING SYSTEMS INC. Signatory Title]]}}
+
+
+**Address**:
+RBC Lubron Bearing Systems, Inc.
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**ALL POWER MANUFACTURING COMPANY**
+
+[[ALL POWER MANUFACTURING COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{ALL POWER MANUFACTURING COMPANY Entity => By: [[ALL POWER MANUFACTURING COMPANY Signatory First Name]] [[ALL POWER MANUFACTURING COMPANY Signatory Last Name]]
+Title: [[ALL POWER MANUFACTURING COMPANY Signatory Title]]}}
+
+
+**Address**:
+All Power Manufacturing Company
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+**RBC CBS COASTAL BEARING SERVICES LLC**
+
+[[RBC CBS COASTAL BEARING SERVICES LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBC CBS COASTAL BEARING SERVICES LLC Entity => By: [[RBC CBS COASTAL BEARING SERVICES LLC Signatory First Name]] [[RBC CBS COASTAL BEARING SERVICES LLC Signatory Last Name]]
+Title: [[RBC CBS COASTAL BEARING SERVICES LLC Signatory Title]]}}
+
+
+**Address**:
+RBC CBS Coastal Bearing Services LLC
+c/o Roller Bearing Company of America, Inc.
+One Tribology Center
+Oxford, Connecticut 06478
+Attention: Chief Financial Officer
+Telecopier No.: [[Phone 1]]
+Facsimile No.: [[Phone 2]]
+Email: [[Email 1]]
+
+\centered Signature Page to RBC Bearings Security Agreement
+
+\centered S-4
+
+**ADMINISTRATIVE AGENT:**
+
+**JPMORGAN CHASE BANK, N.A.**
+
+[[JPMORGAN CHASE BANK N.A. Signatory Email: Identity | Signature]]
+__________________________________________
+{{JPMORGAN CHASE BANK N.A. Entity => By: [[JPMORGAN CHASE BANK N.A. Signatory First Name]] [[JPMORGAN CHASE BANK N.A. Signatory Last Name]]
+Title: [[JPMORGAN CHASE BANK N.A. Signatory Title]]}}
+
+
+\centered Signature Page to RBC Bearings Security Agreement
+
+\centered S-5
+
+\centered Schedule 1
+
+\centered Names, etc.
+
+\centered Schedule 2
+
+\centered Locations
+
+\centered Schedule 3
+
+\centered Pledged Stock; Pledged Notes
+
+\centered Schedule 4
+
+\centered Copyrights
+
+\centered Schedule 5
+
+\centered Patents
+
+\centered Schedule 6
+
+\centered Trademarks
+
+\centered Schedule 7
+
+\centered Licenses
+
+\centered Schedule 8
+
+\centered Depositary And Other Accounts
+
+\centered Schedule 9
+
+\centered Commercial Tort Claims
+
+\centered EXHIBIT A
+
+\centered FORM OF JOINDER
+
+\centered Joinder to Security Agreement
+
+The undersigned, ______________________________, a ____________________ (the “**Company**”) hereby joins in the execution of that certain Security Agreement dated as of [[Date 1]] (as heretofore amended, supplemented or otherwise modified, the “**Security Agreement**”), by and among [DESCRIBE PARTIES] and JPMorgan Chase Bank, N.A., as Administrative Agent. By executing this Joinder, the undersigned hereby agrees that it is an Obligor under the Security Agreement and agrees to be bound by all of the terms and provisions of the Security Agreement. Capitalized terms used herein but not otherwise defined herein have the meanings given thereto in the Security Agreement.
+
+The undersigned represents and warrants to the Administrative Agent that:
+
+The Company’s contact information for notice for purposes of Section 6.1 of the Security Agreement is as described below its signature hereto.
+
+In order to confirm the Company’s grant of a security interest to the Administrative Agent, for the benefit of the Secured Creditors, pursuant to Section 4 of the Security Agreement, to secure the payment and performance of the Secured Obligations whether now existing or hereafter from time to time arising, the Company hereby grants to the Administrative Agent, for the benefit of the Secured Creditors, a security interest in all of the Company’s right, title and interest in the Company’s Collateral.
+
+Attached to this Joinder are new Schedules to the Security Agreement incorporating all required information with respect to the Company. Such Schedules are true, accurate and complete and, upon the effectiveness of this Joinder, all of the representations and warranties contained in the Security Agreement shall be true in all respects with regards to the Company.
+
+This Joinder shall be a Loan Document (as such term is defined in the Credit Agreement).
+
+IN WITNESS WHEREOF, the Company has caused its officer to execute and deliver this Joinder as of the date first above written.
+
+**[_________________________________]**
+
+[[Party 14 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 14 Entity => By: [[Party 14 Signatory First Name]] [[Party 14 Signatory Last Name]]
+Title: [[Party 14 Signatory Title]]}}

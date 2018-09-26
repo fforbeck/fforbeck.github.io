@@ -1,0 +1,108 @@
+\centered **SECOND AMENDMENT TO CREDIT AGREEMENT** 
+
+THIS SECOND AMENDMENT TO CREDIT AGREEMENT is made as of [[Date 1: Date]] (the ***“Second Amendment to Credit Agreement,”*** or this ***“Amendment”***), among Diodes Incorporated, a Delaware corporation, and Diodes Zetex Limited, a United Kingdom corporation (collectively, “***Borrowers***”), and Bank of America, N.A. (***“Lender”***). 
+
+\centered R E C I T A L S 
+
+^Borrowers and Lender are parties to that certain Credit Agreement dated as of [[Date 2: Date]], as modified pursuant to the terms of that certain letter dated as of [[Date 3: Date]] from Administrative Agent to Borrowers and as modified by a First Amendment to Credit Agreement dated as of [[Date 4: Date]] (the ***“Original Credit Agreement”***). 
+
+^The parties desire to amend the Original Credit Agreement as hereinafter provided. 
+
+NOW, THEREFORE, in consideration of these premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+^**Same Terms****.** All terms used herein which are defined in the Original Credit Agreement shall have the same meanings when used herein, unless the context hereof otherwise requires or provides. In addition, all references in the Loan Documents to the “Agreement” shall mean the Original Credit Agreement, as amended by this Second Amendment to Credit Agreement, as the same shall hereafter be amended from time to time. In addition, the following term has the meaning set forth below: 
+
+“***Effective Date”*** means [[Date 1]]. 
+
+^**Amendment to Original Credit Agreement****.** On the Effective Date, the definition of “Maturity Date” set forth in the Original Credit Agreement shall be amended as follows: 
+
+“Maturity Date” means [[Date 5: Date]]. 
+
+^**Certain Representations****.** Each Borrower represents and warrants that, as of the Effective Date: (a) each Loan Party has full power and authority to execute this Amendment, and this Amendment executed by each Loan Party constitutes the legal, valid and binding obligation of such Loan Party enforceable in accordance with its terms, except as enforceability may be limited by general principles of equity and applicable bankruptcy, insolvency, reorganization, moratorium, and other similar laws affecting the enforcement of creditors’ rights generally; (b) each Security Document remains in full force and effect; and (c) no authorization, approval, consent or other action by, notice to, or filing with, any governmental authority or other person is required for the execution, delivery and performance by each Loan Party thereof except for the approvals, consents, and authorizations, which have been duly obtained, taken, given, or made and are in full force and effect. In addition, each Borrower represents that all representations and warranties contained in the Original Credit Agreement are true and correct in all material respects on and as of the Effective Date except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct as of such earlier date. 
+
+^**Limitation on Agreements****.** The modifications set forth herein are limited precisely as written and shall not be deemed (a) to be a consent under or a waiver of or an amendment to any other term or condition in the Original Credit Agreement or any of the Loan Documents, or (b) to prejudice any right or rights which Lender now has or may have in the future under or in connection with the Original Credit Agreement and the Loan Documents, each as amended hereby, or any of the other documents referred to herein or therein. This Amendment shall constitute a Loan Document for all purposes. 
+
+^**Counterparts****.** This Amendment may be executed in any number of counterparts, each of which when executed and delivered shall be deemed an original, but all of which constitute one instrument. In making proof of this Amendment, it shall not be necessary to produce or account for more than one counterpart thereof signed by each of the parties hereto. 
+
+^^^^^ 
+^**Incorporation of Certain Provisions by Reference****.** The provisions of Section 9.13 of the Original Credit Agreement captioned “Governing Law; Jurisdiction; Etc.” and the provisions of Section 9.14 of the Original Credit Agreement captioned “Dispute Resolution Provision” are incorporated herein by reference for all purposes. 
+
+^**Entirety and Etc****.** This Amendment and all of the other Loan Documents embody the entire agreement between the parties. THIS AMENDMENT AND ALL OF THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+
+\centered [Remainder of Page Intentionally Blank; Signatures Begin on Next Page] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment to be effective as of the Effective Date. 
+
+\centered 
+
+**BANK OF AMERICA, N.A.,** as Lender 
+
+[[BANK OF AMERICA N.A. as Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA N.A. as Lender Entity => By: [[BANK OF AMERICA N.A. as Lender Signatory First Name]] [[BANK OF AMERICA N.A. as Lender Signatory Last Name]]
+Title: [[BANK OF AMERICA N.A. as Lender Signatory Title]]}}
+
+
+Date:    [[Date 1]] 
+
+^^^^^ 
+\centered 
+
+**BORROWERS:** 
+
+DIODES INCORPORATED 
+
+[[DIODES INCORPORATED Signatory Email: Identity | Signature]]
+__________________________________________
+{{DIODES INCORPORATED Entity => By: [[DIODES INCORPORATED Signatory First Name]] [[DIODES INCORPORATED Signatory Last Name]]
+Title: [[DIODES INCORPORATED Signatory Title]]}}
+
+
+Date:    [[Date 1]] 
+
+DIODES ZETEX LIMITED 
+
+[[DIODES ZETEX LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{DIODES ZETEX LIMITED Entity => By: [[DIODES ZETEX LIMITED Signatory First Name]] [[DIODES ZETEX LIMITED Signatory Last Name]]
+Title: [[DIODES ZETEX LIMITED Signatory Title]]}}
+
+
+Date:    [[Date 1]] 
+
+The terms of this Amendment are acknowledged and agreed to by Diodes Zetex Semiconductors Limited and the following Subsidiary Guarantors. 
+
+\centered 
+
+DIODES ZETEX SEMICONDUCTORS LIMITED 
+
+[[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Email: Identity | Signature]]
+__________________________________________
+{{DIODES ZETEX SEMICONDUCTORS LIMITED Entity => By: [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory First Name]] [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Last Name]]
+Title: [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Title]]}}
+
+
+Date:    [[Date 1]] 
+
+**SUBSIDIARY GUARANTORS:** 
+
+DIODES FABTECH INC. 
+
+[[DIODES FABTECH INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DIODES FABTECH INC. Entity => By: [[DIODES FABTECH INC. Signatory First Name]] [[DIODES FABTECH INC. Signatory Last Name]]
+Title: [[DIODES FABTECH INC. Signatory Title]]}}
+
+
+Date:    [[Date 1]] 
+
+DIODES INVESTMENT COMPANY 
+
+[[DIODES INVESTMENT COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{DIODES INVESTMENT COMPANY Entity => By: [[DIODES INVESTMENT COMPANY Signatory First Name]] [[DIODES INVESTMENT COMPANY Signatory Last Name]]
+Title: [[DIODES INVESTMENT COMPANY Signatory Title]]}}
+
+
+Date:    [[Date 1]]

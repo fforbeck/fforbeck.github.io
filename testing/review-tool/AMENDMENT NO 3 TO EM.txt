@@ -1,0 +1,29 @@
+\centered **AMENDMENT NO. 3 TO EMPLOYMENT AGREEMENT** 
+
+This AMENDMENT NO. 3 TO EMPLOYMENT AGREEMENT is entered into on the [[Date 1: Date]], is between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (together with its subsidiaries, the “Company”), and [[Employee]] (“Employee”). 
+
+\centered BACKGROUND 
+
+WHEREAS, the parties entered into an Employment Agreement dated as of [[Date 2: Date]], as amended by Amendment to Employee Agreement dated as of [[Date 3: Date]] and Amendment No. 2 to Employment Agreement dated [[Date 4: Date]] (collectively, the “Agreement”), that sets forth the terms and conditions of Employee’s employment with the Company, and 
+
+WHEREAS, the parties desire to amend the Agreement on the terms and conditions contained herein. 
+
+NOW, THEREFORE, the parties hereto, intending to be legally bound hereby, agree as follows: 
+
+^Subparagraph 2(ii) of the Agreement is hereby deleted and replaced in its entirety by the following: “(ii) [[Date 5: Date]].” 
+
+^Except as modified hereby, the Agreement shall continue unmodified and in full force and effect. 
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Amendment No. 3 on the date first-above written. 
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+EMPLOYEE:
+
+/s/ [[Employee]]
+[[Employee]]
