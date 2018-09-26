@@ -1,0 +1,416 @@
+\centered **OPERATING AGREEMENT**
+
+\centered **OF**
+
+\centered **DIGITAL LINK II**
+
+THIS OPERATING AGREEMENT (this “**Agreement**”),is made and entered into as of [[Date 1: Date]], by Digital Link II, a Delaware limited liability company (the “**Company**”), REAL D, a California corporation (“**REAL D**”), and Ballantyne of Omaha, Inc., a Delaware corporation (“**Ballantyne**”).REAL D and Ballantyne are referred to herein collectively as the “**Members,**”and each individually as a “**Member**.”
+
+^The Members formed the Company for purposes of commercializing certain 3D technology developed and owned by REAL D.
+
+^Ballantyne is a manufacturer and reseller of projectors and other equipment necessary to the deployment of REAL D’s technology in theatres.
+
+^REAL D will license certain of its technology to the Company pursuant to a non-exclusive license agreement, pursuant to which the Company will have the right to use and sublicense such technology in connection with the Company’s sale of digital cinema projection systems (“**Cinema Systems**”)to certain operators of theatre venues (“**License**”).
+
+^The Company will purchase projectors and accessories from Ballantyne at the prices specified in Exhibit A hereto and servers from [ ] at the prices specified in Exhibit A hereto.
+
+^The Company shall (i) initially transfer a limited right to use the Cinema Systems to certain theatre venues, and (ii) install the Cinema Systems against virtual print fees payable by the studios on such terms and conditions as will be provided in separate Digital Cinema System Transfer Agreements in substantially the form attached hereto as Exhibit B (“**Transfer Agreement**”).
+
+^Subject to the successful negotiation of service contracts with the operators of the theatre venues, on terms acceptable to Ballantyne, Ballantyne will be responsible for the service and maintenance of such Cinema Systems.
+
+^REAL D will initially be responsible for the management and operations of the Company, for which it will be paid a management fee of ten percent ([[Percentage 1: Number]]%) of the virtual print fees collected by the Company, not to exceed $[[USD Value 1: Number]] per fiscal year, plus expenses incurred in connection with such management services, as specified in this Agreement.
+
+In consideration of the premises and the mutual covenants herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound the parties hereby agree as follows:
+
+The following terms have the following respective meanings (unless the context otherwise requires). The singular shall include the plural, and the masculine gender shall include the feminine and neuter, and conversely, as the context requires.
+
+^^“**Act**”means the Delaware Limited Liability Company Act, codified in Title 6 of the Delaware Code, Section 18-101 et seq., as amended from time to time.
+
+^^“**Affiliate**”as applied to any Person, means any other Person directly or indirectly controlling, controlled by, or under common control with, that Person.
+
+^^“**Agreement**”means this Limited Liability Company Operating Agreement, as amended from time to time.
+
+^^“**Assignee**” means a Person who is a permitted transferee of a Membership Interest in accordance with Article 10.2 below.
+
+^^“**Available Cash**”means cash and cash equivalents of the Company on hand from time to time after (i) provision for payment of all outstanding and unpaid current obligations of the Company as of such time; and (ii) provision for reserves for working capital expenditures, contingent obligations and other future requirements in excess of reasonably anticipated revenues, such reserves equal to such amount as shall be approved by a majority of the Board.
+
+^^“**Board**”means the Board of Managers of the Company.
+
+^^“**Business Day**”means any day other than a Saturday, Sunday or other day on which commercial banks in the State of California are authorized or required by law or executive order to close.
+
+^^“**Capital Account**”means the separate Capital Account maintained by the Company for each Member in accordance with Regulations Section 1.704-l(b)(2)(iv).
+
+^^“**Chief Executive Officer**”means the Chief Executive Officer of the Company or such other person as shall be designated by the Board to serve the function as the Chief Executive Officer for purposes of this Agreement.
+
+1.10“**Code**”means the Internal Revenue Code of 1986, as amended from time to time. All references herein to Sections of the Code shall include any corresponding provision or provisions of succeeding law.
+
+1.11“**Company**”has the meaning set forth in the preamble hereto.
+
+^^“**Confidential Information**”has the meaning assigned to that term in Section 15.1 hereof.
+
+1.13“**Distribution(s)**”means any cash or property distributed to a Member (or Members) with respect to such Member’s Membership Interest but does not include (a) any management or other fees or expense reimbursement paid to a Member, or (b) the repayment of any loans or interest thereon made by any Member, or Person or Affiliate to the Company.
+
+^^“**Fiscal Year**”except as provided under the Code, means a twelve (12) month period ending on [[Date 2: Date]].
+
+^^“**Gross Asset Value**”of any assets contributed to the Company shall be the gross fair market value of such asset as determined in good faith by the Board.
+
+^^“**Membership Interest**”means the entire legal and equitable ownership interest in the Company of a Member at any particular time.
+
+^^“**Manager**”means a member of the Board.
+
+^^“**Member Loan Minimum Gain**”has the meaning assigned to the term “partner nonrecourse debt minimum gain” in Regulations Section 1.704-2(i)(2).
+
+^^“**Member Loan Nonrecourse Debt**”has the meaning assigned to the term “Partner Nonrecourse Debt” in Regulations Section 1.704-2(b)(4).
+
+^^“**Member Loan Nonrecourse Deduction**”has the meaning assigned to the term “Partner Nonrecourse Deduction” in Regulations Section 1.704-2(i)(2).
+
+^^“**Members**”means Ballantyne and/or REAL D, and their Assignees.
+
+^^“**Minimum Gain**”has the meaning set forth in Regulations Sections 1.704-2(b)(2) and 1.704-2(d).
+
+^^“**Nonrecourse Deduction**”has the meaning set forth in Regulations Section 1.704-2(b)(l).
+
+^^“**Nonrecourse Liability**”has the meaning set forth in Regulations Section 1.704-2(b)(3).
+
+^^“**Offeree**”has the meaning assigned to that term in Section 10.3 hereof.
+
+^^“**Person**”means any individual, partnership, joint venture, corporation, limited liability company, trust, or other association or entity.
+
+^^“**Regulations**”means the regulations promulgated by the United States Department of the Treasury pursuant to and in respect of provisions of the Code. All references herein to Sections of the Regulations shall include any corresponding provision or provisions of succeeding, similar, substitute, proposed or final Regulations.
+
+^^“**Securities** **Act**” means the Securities Act of 1933, as amended from time to time.
+
+^^Formation. Ballantyne and REAL D hereby form the Company as a limited liability company under the Act.
+
+^^Certificate of Formation. In furtherance of the foregoing, the Members shall promptly cause a certificate of formation substantially in the form of Exhibit C hereto (as amended from time to time, the “**Certificate**”) to be filed with the Secretary of State of Delaware as required by the Act.
+
+^^Name of the Company. The name of the Company shall be Digital Link II, and all business and affairs of the Company shall be conducted under such name.
+
+^^Principal Office of the Company. The Company’s principal office shall be at such place as the Board shall from time to time designate.
+
+^^Business of the Company. The Company is being formed for the purpose of (i) marketing and selling the Systems and related products to operators of theatre venues, and the provision of related products and services (activities described in this clause (i) being referred to as the “**Business**”),(ii) performing any and all other activities which may be necessary, incidental or convenient to carry on the Business, and (iii) engaging in any other business which it is lawful for a limited liability company to engage pursuant to the Act. This Agreement shall not be deemed to create a partnership or joint venture between the Members, for any purposes other than federal, state and local tax purposes.
+
+^^Term. The term of the Company shall commence effective as of the close of business on the date of filing of the Certificate with the Secretary of State of Delaware and shall have perpetual existence, unless terminated as provided in this Agreement or by the Act. No Member shall have the right, and each Member hereby agrees not to withdraw from the Company, nor to dissolve, terminate or liquidate, or to petition a court for the dissolution, termination or liquidation of the Company, except as expressly permitted in this Agreement, and no Member at any time shall have the right, without the consent of the Company, to petition or to take any action to subject the Company assets, or any part thereof, to the authority of any court of bankruptcy, insolvency, receivership or similar proceeding.
+
+^^Registered Agent and Office. The registered agent for the Company in the State of Delaware shall be Corporation Trust Center, or such other Person as the Board may designate. The registered office of the Company shall be 1209 Orange Street, Wilmington, County of New Castle, or such other place as the Board shall designate.
+
+^^Members. Ballantyne and REAL D shall be the initial Members. As of the date of this Agreement, there are no other Members of the Company and no other Person has any right to take part in the ownership of the Company. Additional members of the Company may be added (i) pursuant to Section 3.6 below in connection with the transfer of any Membership Interest, or (ii) as determined by the Board and approved by the Members pursuant to Section 3.6 below.
+
+^^Membership Interests. The Membership Interest of each Member in and to the Company and its assets, including each Member’s interest in the income, gains, deductions, credits, allowances, expenses, profits, losses and distributions realized or incurred from the operation of the Company, and the initial Capital Account of each initial Member, shall be based on the value of the business or other assets contributed by or on behalf of each Member as follows:
+
+\centered **Membership Interest**      
+
+\centered **Initial Capital Account**
+Ballantyne      44.4   %   $   39,000
+REAL D      55.6   %   $   49,000
+**TOTAL**       **%**   **$**   88,000
+
+Upon the admission of a new Member, the Membership Interests of all Members shall be proportionately reduced to reflect the Membership Interest of such new Member (whose Membership Interest shall be based on the relative value which such new Member’s capital contribution bears to the value of the existing Members’ Membership Interests).
+
+^^Voting Rights.
+
+^^In addition to voting rights required by law or by other provisions of this Agreement, the Members shall be entitled to vote on all matters submitted to a vote of the Members based on their relative Membership Interests.
+
+^^The affirmative vote of sixty-six and two-thirds percent (66 2/[[Percentage 2: Number]]%) of the Membership Interests shall be necessary to authorize: (i) amend or waive any provision of this Agreement in a manner that would materially and adversely affect a Member; (ii) enter into a Company sale transaction by way of merger, sale of the Membership Interests, or sale of all or substantially all of the assets; or (iii) authorize the issuance of securities having a preference over or on parity with the Membership Interests.
+
+^^Liability of Members. No Member shall be liable for the debts, obligations or liabilities of the Company, including under a judgment decree or order of a court. No Member shall be liable to any other Member or to the Company by reason of the actions or inactions of such Member in connection with the Company unless such actions or omissions are not done or made in good faith or constitute (a) actual fraud, or (b) willful misconduct with the intent to harm the Company or any Member.
+
+^^Inspection Rights. On written request stating the purpose, a Member may examine and copy in person, at such times as reasonably determined by the Board, and at that Member’s sole expense, records required to be maintained under the Act and such other information regarding the business, affairs and financial condition of the Company as is reasonable for the Member to examine and copy, to the extent that such information is being sought for a purpose reasonably related to the Member’s ownership interest in the Company.
+
+^^Admission of New Members. New Members may be admitted to the Company, subject to executing an appropriate supplement to this Agreement and such other documents as the Board of Managers deems necessary or advisable.
+
+^^Authority of the Board. The Company shall be managed by the Board which shall have the full and exclusive power and authority to represent the Company, to act in its name, and to manage the Company business.
+
+^^Number and Appointment of Managers. The Board shall initially be comprised of two (2) managers (each a “**Manager**”),of which one (1) Manager shall be elected by Ballantyne, so long as Ballantyne remains a Member holding at least a [[Percentage 3: Number]]% Membership Interest (“**Ballantyne Manager**”), and one Manager shall be elected by REAL D, so long as REAL D remains a Member holding at least a [[Percentage 4: Number]]% Membership Interest (“**REAL D Managers**”).The Ballantyne Member may only be removed or replaced, and any vacancy may only be filled, by Ballantyne, and a Manager elected by REAL D may only be removed or replaced, and any vacancy may only be filled, by REAL D, so long as Ballantyne or REAL D, respectively, are entitled to elect Managers pursuant to the preceding sentences. Managers shall continue to serve until their death, resignation or removal or replacement in accordance with the terms of this Agreement. The initial Managers are Michael V. Lewis and John P. Wilmers .
+
+^^Officers. Officers and employees of the Company shall conduct the operations of the Company and related business activities at the direction of and in a manner consistent with the policies adopted from time to time by the Board. The officers of the Company may include, without limitation, a Chief Executive Officer and President, Vice President, Secretary and Treasurer. Each officer shall have such authority and perform such duties in the management of the property and affairs of the Company as specified by the Board.
+
+^^Management Agreement with REAL D. REAL D shall manage and be responsible for the Company’s day-to-day operations, and, accordingly, shall be vested with all the powers normally vested in the executive officers of a company, in exchange for a management fee equal to ten percent ([[Percentage 1]]%) of the virtual print fees collected by the Company, not to exceed $[[USD Value 1]] per fiscal year, payable at the end of each month. The Company shall also reimburse REAL D for its reasonable expenses incurred in connection with such management services; provided, that any reimbursements in excess of $[[USD Value 2: Number]] in any fiscal year shall require the consent of Ballantyne.
+
+^^Place of Meetings. Meetings of the Board may be held at whatever place in the United States specified in the call of the meeting, or such other place as agreed to by the Board. In the absence of specific designation, the meetings shall be held at the principal office of the Company. Any member of the Board shall be permitted to attend any meeting of the Board (or any committee thereof) in person or by conference call or other means of communications which provides such member of the Board an opportunity to actively participate in such meeting.
+
+^^Regular Meetings. The Board shall meet at least quarterly. No notice need be given to members of the Board of regular meetings for which the members have previously designated a time and place for the meeting.
+
+^^Special Meetings. Special meetings of the Board may be held at any time upon the request of the Chief Executive Officer and President of the Company or any Member. Written notice of any special meeting shall be sent (by facsimile, e-mail, regular mail or any other reasonable method) to the last known address of each member of the Board at least five (5) business days before the meeting. Notice of such meeting may be waived in writing before or after such meeting, and shall be equivalent to the giving of notice. Attendance at such meeting shall also constitute a waiver of notice thereof, except where such member of the Board attends for the express purpose of objecting to the transaction of any business on the ground that the meeting is not lawfully called or convened. Neither the business to be transacted at, nor the purpose of, any regular or special meeting of the Board need be specified in the notice or waiver of notice of such meeting.
+
+^^Quorum of and Action by the Board of Managers. The presence of a majority of the Managers shall constitute a quorum for the transaction of business at any meeting of the Board. Any action to be taken or approved by the Board hereunder must be taken or approved by majority vote of the members of the Board present at a meeting of the Board at which a quorum is present and any action so taken or approved shall constitute the act of the Board.
+
+^^Resignation. Any Manager may resign at any time. Such resignation shall be made in writing and shall take effect at the time specified therein, or if no time is specified, at the time of its receipt by the Company.
+
+^^Action by Written Consent. Any action that may be taken at a meeting of the Board may be taken without a meeting if a consent in writing, setting forth the action to be taken, shall be signed by all of the Managers entitled to vote at that meeting, and such consent shall have the same force and effect as a unanimous vote of the Board at a meeting duly called and held. No notice shall be required in connection with the use of a written consent.
+
+^^Other Business. Subject to confidentiality obligations and any fiduciary duties described below, any Manager may engage in or possess an interest inother business ventures (unconnected with the Company) of every kind and description, independently or with others. Neither the Company nor the Members shall have any rights in or to such independent ventures of the members of the Board or the income or profits therefrom by virtue of this Agreement.
+
+^^Fiduciary Duties.
+
+^^The fiduciary duties of any Manager shall be limited to making decisions in good faith and with due care.
+
+^^No Member or Manager shall be obligated to offer or present any particular investment opportunity to the Company, even where such opportunity is of a character which, if presented to the Company, could be taken and exploited by the Company but rather such Members and Managers shall have the right to take for the account of such Member or to recommend to others any such particular investment opportunity.
+
+^^No Liability for Monetary Damages. No Manager shall be liable for any monetary damages to the Company for any breach of such duties except for receipt of a financial benefit to which such member is not entitled, voting for or assenting to a distribution to Members in violation of this Agreement or the Act, or a knowing violation of the law.
+
+^^Committees. Upon the affirmative vote of a majority of the members of the Board, committees of the Company may be formed, consisting of one or more members of the Board, which committees may exercise any or all of the powers of the Board.
+
+Ballantyne hereby represents and warrants the following to REAL D and the Company:
+
+^^Organization and Authority; Ownership. Ballantyne is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to own, lease and operate its properties and assets and to conduct its business as now being conducted. Ballantyne has the full corporate power and authority to enter into this Agreement and to perform its obligations hereunder.
+
+^^No Violation. The execution, delivery and performance by Ballantyne of this Agreement and the transactions contemplated hereby do not and will not conflict with or result in any violation of or constitute a breach or default under any term of the certificate of incorporation or by-laws of Ballantyne, of any agreement, permit or other instrument to which Ballantyne is a party or by which Ballantyne is bound or to which the assets or business of Ballantyne or any of its subsidiaries is subject, or any order, judgment or decree of any court or other governmental or regulatory authority to which any of the same is bound or subject, or any law, statute or regulation of any governmental or regulatory body.
+
+REAL D hereby represents and warrants the following to Ballantyne:
+
+^^Organization and Authority. REAL D is a corporation duly organized, validly existing and in good standing under the laws of the State of California and has all requisite corporate power and authority to own, lease and operate their properties and assets and to conduct its business as now being conducted. REAL D has full corporate power and authority to enter into this Agreement and to perform its obligations hereunder.
+
+^^No Violation. The execution, delivery and performance by REAL D of this Agreement and the transactions contemplated hereby do not and will not conflict with or result in any violation of or constitute a breach or default under any term of the articles of incorporation or by-laws of REAL D, of any agreement, permit or other instrument to which REAL D or any of its subsidiaries is a party or by which REAL D or any of its subsidiaries is bound or to which the assets or businesses are subject, or any order, judgment or decree of any court or other governmental or regulatory authority to which any of the same is bound or subject, or any law, statute or regulation of any governmental or regulatory body.
+
+^^Initial Capital Contributions; Assumption of Liabilities. As of the date hereof, Ballantyne and REAL D are contributing to the Company the amounts specified in Section 3.2 above.
+
+^^Additional Capital Contributions. Members are liable for only the amount of the capital contributions made as of the date hereof. Any additional capital contribution by a Member requires the prior written consent of the other Member. The Members agree that for each additional Cinema System acquired by the Company, which purchase shall be unanimously approved by the Managers, REAL D shall be obligated to pay [[Percentage 5: Number]]% of the cost and Ballantyne [[Percentage 6: Number]]% of the cost. The Members shall make their respective capital contributions simultaneously.
+
+^^Interest and Withdrawals. No interest shall be paid by the Company on capital contributions or on the balance in any Capital Account. No Member shall have the right to withdraw its capital contribution or to demand or receive a return of its capital contribution except as herein expressly set forth or in the Act in the event of dissolution.
+
+^^Loans from Members. Loans by a Member to the Company shall not be considered capital contributions. If any Member shall advance funds to the Company, the making of such advances shall not result in any increase in the amount of the Capital Account of such Member. The amounts of any such advances shall be a debt of the Company to such Member and shall be payable or collectible only out of the Company funds or assets in accordance with the terms and conditions upon which such advances are made.
+
+^^Creditors. The foregoing provisions of this Section 7 are not intended to be for the benefit of any creditor (other than a Member) of, or any Person to whom any debts, liabilities or obligations are owed by (or who otherwise has a claim against) the Company or any of the Members, and no such creditor or other Person shall obtain any rights under such provisions or shall by reason of such provisions make any claim in respect of any of the aforesaid debts, liabilities or obligations (or otherwise) against the Company or any of the Members.
+
+^^Allocation of Net Profits or Losses.
+
+^^Allocation of Net Profits or Losses. Subject to any special allocations pursuant to Section 8.2 hereof, each item of income, gain, loss, deduction or credit of the Company shall be allocated to and among the Members in proportion to their relative Membership Interests.
+
+^^Allocations in Case of Transfers. The items of Company income, gain, loss, deduction or credit allocable to any Member whose Membership Interest has been transferred in whole or in part, during any fiscal year, shall be allocated among the Persons who were the holders of such Membership Interest during such year in proportion to their respective holding periods, measured in days, without any requirement for the attempted separate determination of the results of Company operations during such separate periods.
+
+^^Special Allocations.
+
+^^Minimum Gain Chargeback. Notwithstanding any other provision of this Agreement, if there is a net decrease in Company minimum gain (as defined in Section 1.704-2(d)(2) of the Regulations), items of income and gain shall be allocated to all Members in accordance with Regulations Section 1.704-2(f), and such allocations are intended to comply with the minimum gain chargeback requirements of Regulations Section 1.704-2 and shall be interpreted consistently therewith.
+
+^^Section 704(c) Allocation. Solely for Federal, state, and local income tax purposes and not for book or Capital Account purposes, depreciation, amortization, gain, or loss with respect to property that is properly reflected on the Company’s books at a value that differs from its adjusted basis for federal income tax purposes shall be allocated in accordance with the principles and requirements of 704(c) of the Code and the Regulations promulgated thereunder, and in accordance with the requirements of the relevant provisions of the Regulations issued under Code Section 704(b). The Company will use the traditional method with curative allocations as described in Regulation Section 1.704-3(c) to take into account income, gain, loss and deduction with respect to property described herein. For Capital Account purposes, depreciation, amortization, gain, or loss with respect to property that is properly reflected on the Company’s books at a value that differs from its adjusted basis for tax purposes shall be determined in accordance with the rules of Regulations Section 1.704-l(b)(2)(iv)(g).
+
+^^Risk of Loss Allocation. Any item of Member Nonrecourse Deduction (as defined in Regulation Section 1.704-2(i)(2)) with respect to a Member Nonrecourse Debt (as defined in Regulation Section 1.704-2(b)(4)) shall be allocated to the Member or Members who bear the economic risk of loss for such Member Nonrecourse Debt in accordance with Regulations Section 1.704-2(i)(l).
+
+^^Allocation of Excess Nonrecourse Liabilities. For the purpose of determining each Member’s share of Company nonrecourse liabilities pursuant to Regulations Section 1.752-3(a)(3), and solely for such purpose, each Member’s interest in Company profits is hereby specified to be such Member’s Membership Interest.
+
+^^Unexpected Allocations and Distributions. No allocation may be made to a Member to the extent such allocation causes or increases a deficit balance in such Member’s Adjusted Capital Account. Notwithstanding any other provision of this Agreement except Sections 8.2(i) and 8.2(iii) above, in the event that a Member unexpectedly receives an adjustment, allocation or distribution described in Regulations Section 1.704-l(b)(2)(ii)(d)(4), (5) or (6) which results in such Member having a negative Adjusted Capital Account balance (as determined above), then such Member shall be allocated items of income and gain in an amount and manner sufficient to eliminate, to the extent required by the Regulations, such negative balance in such Member’s Adjusted Capital Account as quickly as possible. This provision is intended to satisfy the “qualified income offset” requirements of the Regulations.
+
+^^Capital Accounts of Transferred Company Interest. Upon the transfer of all or any part of a Membership Interest as permitted by this Agreement, the Capital Account (or portion thereof) of the transferor that is attributable to the transferred interest (or portion thereof) shall carry over to the transferee, as prescribed by Regulations Section 1.704-1(b)(2)(iv)(l).
+
+^^Time of Allocation. The allocations set forth above shall be made as of the end of each Fiscal Year. All items of income, gain, loss and deduction shall be allocated, for federal income tax purposes, among the Members in the same manner as such items are allocated pursuant to Sections 8.1 and 8.2.
+
+^^Right to Use Alternative Method of Calculations. Notwithstanding anything else in this Section 8 (other than Section 8.6), the Company shall have the right to use a different method of allocating Company income gain, loss and deduction if it is advised by the Company accountant or tax counsel that the method of allocation provided herein violates the Code or Regulations. The Board shall notify each Member of any change in the method of allocating Company income or loss in accordance with this paragraph promptly after the occurrence thereof.
+
+^^Adjustment of Capital Accounts. After all allocations for a taxable year are made, Capital Accounts shall be adjusted by the Company to the extent necessary to comply with applicable laws, regulations and administrative pronouncements. The tax allocation provisions of this Agreement are intended to produce final Capital Account balances that are at levels (“**Target Final Balances**”)which permit liquidating distributions that are made in accordance with such final Capital Account balances to be equal to the distributions that would occur under Section 9 hereof if such liquidating proceeds were distributed pursuant to Section 9. To the extent that the tax allocation provisions of this Agreement would not produce the Target Final Balances, the Members agree to take such actions as are necessary to amend such tax allocation provisions to produce such Target Final Balances. Notwithstanding the other provisions of this Agreement, allocations of income, gain, loss and deduction (including items of gross income, gain, loss and deduction) shall be made prospectively as necessary to produce such Target Final Balances (and, to the extent such prospective allocations would not effect such result, the prior tax returns of the Company shall be amended to reallocate items of gross income, gain, loss and deductions to produce such Target Final Balances).
+
+^^Change in Economic Arrangement; Membership Interest. Notwithstanding any other provision of this Agreement, if the Membership Interest of any Member is adjusted at any time pursuant to the terms of this Agreement, the Member whose Membership Interest is increased pursuant to such adjustment shall have the right to amend this Agreement to take into account the revised economic arrangement of the Members, but only to the extent required to satisfy the tax allocation rules of Section 704 of the Code and the Regulations thereunder based on the opinion of legal counsel selected by such Member.
+
+^^Calculation of Income, Gain, Loss and Deductions. For purposes of this Agreement, the income, gain, loss and deductions for each Company fiscal year or other period shall be equal to the Company’s taxable income, gain, loss and deductions, as the case may be, for such year or period, determined in accordance with Section 703(a) of the Code, with the following adjustments:
+
+^^Any income of the Company described in Section 705(a)(1)(B) of the Code that is exempt from Federal income tax and not otherwise taken into account shall be added to such taxable income or subtracted from such taxable loss, as the case may be.
+
+^^Any expenditures of the Company described in Section 705(a)(2)(B) of the Code or treated as Section 705(a)(2)(B) expenditures pursuant to Section 1.704-l(b)(2)(iv)(i) of the Regulations)and not otherwise taken into account shall be subtracted from taxable income or added to such taxable loss, as the case may be.
+
+^^In the event the value at which any Company asset is reflected in Capital Accounts is adjusted pursuant to Section 1.704-l(b)(2)(iv)(f) of the Regulations, the amount of such adjustment shall be taken into account as gain or loss from the disposition of such asset.
+
+^^Gain or loss resulting from any disposition of an asset with respect to which gain or loss is recognized for Federal income tax purposes shall be computed by reference to the value at which the asset disposed of is properly reflected in the Capital Accounts of the Members pursuant to Section 1.704-l(b)(2)(iv) of the Regulations.
+
+^^In lieu of depreciation, amortization and other cost recovery deductions taken into account in computing taxable income or loss, there shall be taken into account depreciation, cost recovery or amortization computed in accordance with Section 1.704-l(b)(2)(iv)(g)(3) of the Regulations.
+
+^^Income Tax Returns. The Treasurer of the Company shall cause income tax returns for the Company to be prepared and filed with the appropriate authorities; provided, that copies thereof shall be provided to each Member for review and comment not less than 30 days prior the first to occur of the due date for such filing and the actual date of filing. As soon as practicable, after the close of each fiscal year of the Company, the Treasurer of the Company shall send to each Person who was a Member at any time during such fiscal year such information as will be sufficient to prepare documents which may be required to be filed under federal income tax laws. The Company shall be an accrual method taxpayer.
+
+^^Tax Matters Member. REAL D shall be the “tax matters partner” of the Company pursuant to Section 6231(a)(7) of the Code. The Company shall indemnify and reimburse the tax matters partner for all reasonable expenses, including legal and accounting fees, claims, liabilities, losses and damages incurred in connection with its actions as tax matters partner. Any Member may take such action as permitted under the Code to cause such Member to become a “notice partner” within the meaning of Section 6223 of the Code. The tax matters partner shall inform each other Member of all significant matters that may come to the tax matter member’s attention in its capacity as tax matters member by giving notice thereof and, within a reasonable time, shall forward to each other Member copies of all significant written communications it may receive as tax matters partner. The tax matters partner shall immediately notify, as soon as practicable, each other Member of any communication received from the Internal Revenue Service. Each Member shall have the full right to participate in any tax audit or administrative or court proceeding involving the Company. The tax matter partner shall consult in good faith with, and shall consider the views of, each other Member, regarding such matters and shall make a good faith attempt to reach a consensus on all issues. Except as may be required by law, the tax matters partner shall not take any action contemplated by Section 6222 through 6232 of the Code without the consent of all other Members, but this sentence shall not limit the right of the tax matters partner to take an action on its own behalf left to the determination of the individual Member under Sections 6222 through 6232 of the Code.
+
+^^Accounts and Accounting.
+
+^^Capital Accounts. There shall be established a capital account for each Member (a “**Capital Account**”),which shall be determined and maintained throughout the full term of the Company in accordance with the capital accounting rules of Regulations Section 1.704-1(b) from time to time in effect. In no event shall any adjustment in the Capital Contributions or Membership Interest of any Member be made on account of any adjustment having been made to the Capital Account of such Member.
+
+^^Account Balances. Except as otherwise provided in this Agreement, whenever it becomes necessary to ascertain the balance of any Member’s Capital Account, such determination shall be made after giving effect to all allocations of Company income, gain, loss and deductions for the current year, and all distributions for such year, in each case in respect of transactions effected prior to the date as of which such determination is being made.
+
+^^Dispute Resolution. Any dispute or disagreement among the Members with respect to the determination of Capital Account balances or otherwise with respect to the manner or method of accounting by the Company may be submitted by any Member to, and resolved by, an independent certified public accounting firm which shall be jointly chosen by the Members who have the dispute and which shall not be the Company’s independent certified public accountants, whose determinations as so made shall be conclusive and binding upon the Members.
+
+^^Basis Information. Each Member shall provide to the Company all information for the Company to determine the tax basis for federal income tax purposes of its interest in any property contributed to the Company.
+
+^^Section 754 Election. In the event of a distribution of property made in the manner provided in Section 734 of the Code, or in the event of a transfer of any Membership Interest permitted by this Agreement made in the manner provided in Section 743 of the Code, the Board may, but shall not be required to, instruct one of the Company’s officers to file an election under Section 754 of the Code in accordance with the procedures set forth in the applicable Treasury Regulations.
+
+^^Income Tax Liability. Each Member shall be solely responsible for all taxes as may be applicable to any funds paid or credited to such Member or income deemed taxable to such Member under this Agreement and no Member shall be liable to any extent in connection with such taxes payable by any other Member.
+
+^^Distribution of Cash Flow. Except as otherwise provided herein, distributions shall be made to the Members in such amounts and at such intervals as the Board, in its discretion, shall determine. Distributions, to the extent made, shall be made pro rata according to each Member’s Membership Interest.
+
+^^Priority and Distribution of Assets. No Member shall have priority over any other Member either as to the return of capital or as to distributions.
+
+^^Minimum Distributions. Notwithstanding the foregoing, if any Member is allocated income which exceeds, on a cumulative basis, the amount of losses previously allocated to such Member for tax purposes (the “**Excess Income Allocation**”),then the Company shall distribute amounts in accordance with Membership Interests so that each Memer receives at least the “Minimum Distribution”. The Minimum Distribution is the amount, if any, by which (i) the Excess Income Allocation multiplied by the combined maximum federal and state income tax rates applicable to such Member (reduced to reflect the maximum federal tax benefit from the deduction of state income taxes), exceeds (ii) the amount previously distributed to such Member with respect to the Fiscal Year for which such taxes are payable.
+
+^^Distribution in Kind. If any assets of the Company are to be distributed in kind (other than a distribution which is a liquidating distribution to a redeemed Member), each Member receives such interest therein as a tenant-in-common with all other Members so entitled in the same proportions as they would have shared in a cash distribution equal to the value of such property at the time of such distribution. Any difference between the fair market value and the amount at which such assets are carried on the books of the Company is to be recorded as income or loss, as the case may be, and allocated to the Members immediately prior to such distribution as set forth in Section 8.1 or 8.2, as applicable, and allocated to each Member’s Capital Account as required by Regulations Section 1.704-1(b)(2)(iv)(e). Such assets are to be distributed on the basis of the fair market value thereof.
+
+\centered **ADMISSION OF MEMBERS**
+
+^^Prohibition on Transfer. Except as expressly permitted herein, no Member shall sell, assign, transfer, pledge, encumber or otherwise dispose of (collectively referred to as “**Transfer**”) all or any portion of its Membership Interests and any attempt to do so shall be null and void.
+
+^^Permitted Transfers. Members shall have the unrestricted right to transfer (including, without limitation, by foreclosure) Membership Interest (a) to any lender as collateral security, or (b) to any Subsidiary of such Member, or any Person of which the Member is a Subsidiary or any Subsidiary of such Person, (c) to a transferee in connection with a sale of a Member by way of merger, stock sale, or asset sale.
+
+^^Buy/Sell Rights. If any Member desires to sell its Membership Interest (the “**Offeror**”)then the Offeror shall present a written offer (“**Sale Proposal**”) to sell its Membership Interest at a specified price to the other Member (the “**Offeree**”).If the Offeree accepts the Sale Proposal, then the parties shall proceed to close on the sale and purchase of such Membership Interest. If the Offeree is interested in purchasing the Membership Interest but believes the valuation is different from the price specified in the Sale Proposal, the Offeree may request, at its expense, a Final Market Valuation of the Company, in which case the Offeror and Offeree shall cooperate and take all efforts necessary to obtain such Final Market Valuation pursuant to Section 10.3(a), and following which the Offeror and Offeree shall undertake in good faith the sale procedures described in Section 10.3(c) below.
+
+^^Procedures for Market Valuation. In the event a market valuation of the Company is required to be completed pursuant to this Agreement, the Offeror and the Offeree shall select two investment bankers or qualified appraisers of national reputation (“**Appraiser**”) by mutual agreement or, if they cannot agree, each of Ballantyne and REAL D shall select one Appraiser, to provide an appraisal of the fair market value of the Company net of outstanding liabilities (“**Market Valuation**”).Each of the Appraisers appointed by the Offeror and the Offeree shall be directed to provide, within 30 business days following the receipt by the Offeree of the Offeror’s Sale Proposal, each of the Offeror and the Offeree with a written report of the Appraisers’ respective Market Valuations (the date of the later submission being referred to herein as the “**Submission Date**”).If the lower of the two Market Valuations is greater than or equal to [[Percentage 7: Number]]% of the higher Market Valuation, the final aggregate Market Valuation (the “**Final Market Valuation**”)shall be the average of the two Market Valuations submitted by such Appraisers. If the lower of the two Market Valuations does not equal [[Percentage 7]]% or more of the higher Market Valuation, within ten business days following the Submission Date the two Appraisers selected by the Offeror and Offeree shall jointly select a third Appraiser to perform a third Market Valuation and submit it to the Offeror and Offeree within 20 business days following its selection to provide such valuation. The Final Market Valuation shall be the average of the two Market Valuations provided by the Appraisers which are closest in value to each other, and such average shall constitute the Final Market Valuation and shall be final and conclusive. Each of the Company and the Members agree to make reasonably available any such books or records as any of the parties involved in the valuation process described in this Section 10.1(a) may reasonably require in order to reach a Market Valuation.
+
+^^Sale by a Member. (a) If the Final Market Valuation is performed, and it is at least [[Percentage 7]]% of the price contained in the Sale Proposal, the Offeree can purchase the Offeror’s Membership Interest at the Sale Proposal price or elect to sell the Company. If the Final Market Valuation is less than [[Percentage 7]]% of the Sale Proposal Price, the Offeror can elect to sell its Membership Interest at the Final Market Valuation Price, if the Offeree is still willing to purchase the Membership Interest or the Offeror can revoke its offer. If the Final Valuation Prices is more than the price contained in the Sale Proposal, the Offeree has the option to purchase the Offeror’s Membership Interest for the Fair Market Valuation, or initiate a sale of the Company.
+
+^^Procedures for Sale of the Company. If the Offeree elects to initiate a sale of the Company pursuant to Section 10.1(b) above, the Board shall select and retain an investment banking firm of national reputation to arrange such sale at a target price (“**Target Price**”) equal to (x) the price contained in the Sale Proposal if the Final Market valuation was at least [[Percentage 7]]% of such price, or (y) the Final Market Valuation if the Final Market Valuation was less than [[Percentage 7]]% of the price contained in the Sale Proposal. If at least one bona fide offer to purchase the Company for cash and/or Freely Tradeable Securities on customary terms is received from a buyer at a price of at least [[Percentage 7]]% of the Target Price (excluding for these purposes, any earn-out payments, amounts held in escrow or other forms of contingent payments) such offer shall be accepted and the parties shall proceed to consummate the sale. [If the highest price offer to purchase the Company is for a price less than [[Percentage 7]]% of the Target Price (“**Best Offer Price**”),the Offeror may (a) revoke the Sale Proposal and abandon the process of selling the Company pursuant to this Section 10.1(c), or (b) notify the Offeree that it desires to accept the Best Offer Price within 30 days of receipt thereof. If the Offeror elects (b), the Offeree shall then notify the Offeror, within 15 days of receiving such notice described in (b), whether it (x) will purchase the Offeror’s Membership Interest for the Best Offer Price or (y) desires to proceed with a sale of the Company to the third party who offered the Best Offer Price. For the purposes hereof, “Freely Tradable Securities” shall mean securities listed on the New York Stock Exchange or eligible for trading on the Nasdaq National Market, and which are not subject to restriction on transferability, whether pursuant to Rule 144, Rule 145, other provisions under the Securities Act of 1933, as amended, any contractual restriction or otherwise.
+
+^^Closing; Payment of Purchase Price. The closing of the sale of the Offerer’s Membership Interest to the Offeree (the “**Closing**”) shall take place within 60 days after the Offeree agrees to such sale as set forth in this Section 10; unless the Offeror and Offeree mutually agree to hold the Closing at a different time. The purchase price for such sale shall be payable in cash by check or wire transfer of funds at the Closing.
+
+^^Deadlock by the Board/Members. In the event any of the following has occurred and is continuing, the Members shall initiate the sale procedures specified in 10.3 above:
+
+^^^A deadlock by the Board regarding any matter; or
+
+^^^the failure of either any Member to approve any matter pursuant to Section 3.3(b) which was approved by the Board.
+
+^^Involuntary Transfer. In the event any of the Membership Interests of a Member are acquired by any Person other than the other Member(s) by “involuntary transfer” (i.e., any transfer or disposition of such interests by judicial order, foreclosure, legal process, execution, attachment or other similar procedure or process), then the other Member(s) (or Member designee) shall have the option for one year after receipt of actual notice of such involuntary transfer (or otherwise becoming aware of such involuntary transfer) to exercise the remedy such Member would have had under Sections 11.2(a) or 11.2(b), below, as the case may be, had there been an Event of Disassociation and such Member was not the Disassociating Member. The option set forth herein shall be exercisable by providing the transferee with 10 days’ notice. Each Member shall use its best efforts to prevent any involuntary transfer of its Membership Interests. An involuntary transfer shall not release any Membership Interests held or previously held by any Member from the provisions of this Agreement or release any Member from its obligations hereunder or from any default created by such transfer.
+
+^^Definitions and Cure Periods. The occurrence of any of the following events shall constitute an event of disassociation (“**Event** of Disassociation**”) on the part of the Member with respect to whom such event occurs (“**Disassociating** Member**”), if within 30 days following notice of such disassociation from another Member, the Disassociating Member fails to commence substantial efforts to cure such disassociation or thereafter fails within a reasonable time to prosecute to completion with diligence and continuity the curing of such disassociation; provided, however, that at the election (without any obligation to give notice) of the non-disassociating Member(s), occurrence of any of the events described in subparagraphs (i) - (iv) below shall constitute an Event of Disassociation immediately upon such occurrence without any requirement of notice or passage of time except as specifically set forth in any such subparagraph:
+
+^^^such Member shall (a) apply for or consent to the appointment of, or the taking of possession by, a receiver, custodian, trustee or liquidator of itself or of all or a substantial part of its property, (b) make a general assignment for the benefit of its creditors, (c) commence a voluntary case under any bankruptcy or similar law (as now or hereafter in effect), (d) file a petition seeking to take advantage of any other law providing for the relief of debtors, (e) fail to controvert in a timely manner, or acquiesce in writing to, any petition filed against it in an involuntary case under any bankruptcy or similar law, (f) admit its inability to pay its debts generally as such debts become due, (g) take any action under the laws of its jurisdiction of organization analogous to any of the foregoing, or (h) take any requisite action for the purpose of effecting any of the foregoing;
+
+^^^a proceeding or case shall be commenced against such Member in any court of competent jurisdiction, seeking (a) the liquidation, reorganization, dissolution, winding up or composition or readjustment of its debts, (b) the appointment of a trustee, receiver, custodian, liquidator or the like of it or of all of any substantial part of its assets, or (c) similar relief in respect of it, under any bankruptcy or similar law and such proceeding or case shall continue undismissed, or unstayed and in effect, for a period of 30 days; or any action under the laws or the jurisdiction of organization of such entity analogous to any of the foregoing shall be taken with respect to such entity and shall continue undismissed, or unstayed and in effect, for a period of 30 days;
+
+^^^all or substantially all of the assets of such Member or any material portion thereof, is attached, seized, subject to a writ of distress warrant, or levied upon, or comes into the possession of any receiver, trustee, custodian or assignee for the benefit of creditors, and the same is not vacated, stayed, dismissed or set aside within 30 days after the occurrence thereof;
+
+^^^dissolution of Member; or
+
+^^assignment by a Member of its Membership Interest in contravention of this Agreement.
+
+^^Remedies of Non-Disassociating Member
+
+^^^Upon the occurrence of an Event of Disassociation by any Member, the non-disassociating Member (or its designee) shall have the right to acquire the Membership Interests of the Disassociating Member for cash at a price equal to: (a) if such Event of Disassociation constitutes an Event of Disassociation under Section 11.1(v), [[Percentage 8: Number]]% of the fair market value of the Disassociating Member’s Membership Interests, as determined in the same manner as provided in Section 10.3(a) (except that the Disassociating Member shall pay for the costs related to the appraisal); and (b) if such Event of Disassociation constitutes an Event of Disassociation under any other subsections of Section 11, [[Percentage 9: Number]]% of the fair market value of the Disassociating Member’s Membership Interests, as determined in the same manner as provided in Section 10.3(a), in either case such value to be determined as of the time immediately following such Event of Disassociation. In furtherance of such right, the non-disassociating Member may notify the Disassociating Member at any time following an Event of Disassociation of the election to institute the procedure set forth herein. Upon receipt of notice of determination of the purchase price for such disassociating member’s Membership Interests, the non-disassociating Member shall notify the Disassociating Member of the election to purchase the interests of the Disassociating Member.
+
+^^^The non-disassociating Member shall have the right to purchase a Disassociating Member’s Membership Interests by payment of one-seventh of the purchase price (as determined by the procedure pursuant to this Section 11.2(i)) at closing, with the balance to be paid in equal annual installments over a seven-year period, the unpaid balance to bear interest at the then Applicable Federal Rate, with the right of prepayment of any amount at any time without premium or penalty.
+
+^^^If neither the non-disassociating Member nor its designee elects to acquire the entire interest of the Disassociating Member as set forth in this Section 11.2(i), the non-disassociating Member may elect to dissolve and terminate the Company by written notice to the Members within 30 days of such disassociation. The right of the non-disassociating Member institute the procedures for purchase of the Disassociating Member’s Membership Interests as set forth in this Section shall continue until the non-disassociating Member elects to exercise the right to terminate the Company.
+
+^^Priority. Any option exercised by a Member under this Section 11 shall supersede and have priority over any other option exercised by a Member under this Agreement, regardless of when either option was exercised, unless the purchase under another Section has been consummated.
+
+^^Dissolution. The Company shall be dissolved and terminated upon the first to happen of:
+
+^^The agreement of all of the Members to dissolve the Company;
+
+^^The sale or other disposition of all or substantially all of the Company’s assets, unless all of the Members otherwise agree;
+
+^^Any time at which there are no Members; provided that the Company is not dissolved and is not required to be wound up if, within 90 days after the occurrence of the event that terminated the continued membership of the last remaining member.
+
+^^The entry of a decree of judicial dissolution under the Act.
+
+^^Distribution upon Dissolution. Upon dissolution or termination of the Company under Section 12 the affairs of the Company shall be wound down by the Board in an orderly fashion. During the period of the winding down of the affairs of the Company, the rights and obligations of the Members with respect to the management of the Company shall continue. The Members shall continue to share income and losses during the period of liquidation in the same proportions as prior to said dissolution. Any gain or loss on disposition of the Company’s properties in the process of liquidation shall be credited or charged to the Members’ respective Capital Accounts in proportion to their Membership Interests. The proceeds from liquidation shall be applied to the payment of debts of the Company and to establishing any reserve which the Board shall reasonably deem necessary to provide for any contingent or unforeseen liabilities or obligations of the Company and to the payment of all expenses of liquidation; and with any remaining proceeds being paid to the Members first, in proportion to their Capital Accounts, until all Capital Accounts have a zero balance, and thereafter in proportion to their Membership Interests.
+
+^^Nothing contained herein shall prevent the Company from distributing its assets in kind in accordance with the above provisions. Any property distributed in kind shall be valued and treated, for purposes of accounting to and between the Members, as though the property were sold for cash at its fair value and the cash proceeds were distributed. No Member shall have any claim or recourse against any other Member in the event the net assets of the Company are insufficient to repay any capital contribution. In order to minimize any losses attendant upon liquidation and winding up, a reasonable time shall be allowed for completion of all such activities.
+
+^^Mandatory Indemnification. The Company shall indemnify any person who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding (other than an action, suit or proceeding by or in the right of the company), whether civil, criminal, administrative or investigative, by reason of the fact that he, she or it is or was a Member, Manager, or executive officer of the Company, against expenses (including reasonable attorneys’ fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him, her or it in connection with such action, suit or proceeding to the fullest extent permitted by the Act and Delaware law. The Company may indemnify its other officers, employees and authorized agents, acting within the scope of their duties as such, to the same extent as Members, Managers and officers hereunder.
+
+^^Advances of Expenses. Expenses (including reasonable attorneys’ fees) incurred by a Manager, Member or executive officer in defending any civil, criminal, administrative or investigative action, suit or proceeding shall be paid by the Company in advance of the final disposition of such action suit or proceeding upon receipt of an undertaking by or on behalf of such manager of Member to repay such amount if it shall ultimately be determined that he, she or it is not entitled to be indemnified by the Company pursuant to this Section 14.1 or 14.2. Such expenses (including attorneys’ fees) incurred by other officers, employees and agents shall be so paid upon such terms and conditions, if any, as the Board deems appropriate.
+
+^^Non-Exclusive. The indemnification and advancement of expenses provided by, or granted pursuant to, this Section 14 shall not be deemed exclusive of any other rights to which those seeking indemnification or advancement of expenses may be entitled under any by-law, agreement, vote of Members or disinterested Managers or otherwise, both as to action in an official capacity and as to action in another capacity while holding such office.
+
+^^Successors and Assigns. For purposes of this Section 14, any reference to the “Company” shall include, in addition to the resulting or surviving corporation, any constituent corporation (including any constituent of a constituent) absorbed in a consolidation or merger which, if its separate existence had continued, would have had power and authority to indemnify its directors, officers, managers, members, employees, representatives or agents, so that any Person who is or was a director, officer, manager, member, employee, representative or agent of such constituent corporation, or is or was serving at the request of such constituent corporation as a director, officer, manager, employee, representative or agent of another corporation, limited liability company, partnership, joint venture, trust or other enterprise, shall stand in the same position under the provisions of this Section 14 with respect to the resulting or surviving corporation as he or she would have with respect to such constituent corporation if its separate existence had continued.
+
+^^Change of Status. The indemnification and advancement of expenses provided by, or granted pursuant to, this Section 14 shall continue as to a Person who has ceased to be a manager, Member, Manager, officer, employee, representative or agent and shall inure to the benefit of the heirs, executors and administrators of such Person.
+
+^^Indemnitee Initiated Actions. Notwithstanding anything in this Article to the contrary, the Company will not have the obligation of indemnifying any Person with respect to proceedings, claims or actions initiated or brought voluntarily by such Person and not by way of defense.
+
+^^Enforceability. Any Member, Manager, officer, employee or agent of the Company may apply to any court of competent jurisdiction in the State of Delaware for indemnification to the extent otherwise permissible under this Section 14. The basis of such indemnification by a court shall be a determination by such court that indemnification of the member, member of the Manager, member of any committee of the Company or officer or employee is proper in the circumstances because such person has met the applicable standards of conduct set forth in the applicable provision of this Section 14. Neither a contrary determination nor the absence of a determination in a specific case shall be a defense to such application or create a presumption that the person seeking indemnification has not met any applicable standard of conduct.
+
+^^Insurance. The Company shall purchase and maintain insurance in an amount of not less than $[[USD Value 3: Number]] or another arrangement on behalf of any Person who is or was a Manager, Member, officer, employee or agent of the Company against liability asserted against such Person or incurred by such Person in such capacity or arising out of the status of such a Person, whether or not the Company would have the power to indemnify such Person against that liability hereunder.
+
+^^Confidentiality.
+
+^^The Members agree to refrain from disclosing Confidential Information about the Company and any of its Affiliates (except to such Member’s partners, representatives, attorneys, employees, accountants and other advisors (collectively, the “**Advisors**”) of such holders who are legally or ethically obligated to refrain from disclosing the Confidential Information; provided however, that such Member shall be responsible for the disclosure of such Confidential Information in violation of the terms hereof by the Advisors) for so long as such Member is a Member of the Company and for a period of two (2) years thereafter. This provision shall not restrict any Member from disclosing Confidential Information to prospective investors in the Company (including prospective Assignees) or potential acquirers.
+
+^^Notwithstanding the foregoing, the Confidential Information may be disclosed as may be required (i) by a Member to its Affiliates and advisors for the purpose of providing return and performance information on internal portfolio investments, consistent with past practice and as otherwise required by governmental regulatory agencies or self-regulating bodies, and (ii) by the a Member’s Affiliates to their Affiliates and advisors for the purpose of providing return and performance information on internal portfolio investments, consistent with past practice and as otherwise may be required by governmental regulatory agencies or self-regulating bodies, provided, that, the Members and their Affiliates and advisors shall require that any transferee of such Confidential Information keep the Confidential Information confidential, consistent with this Section 15.1.
+
+^^**“Confidential Information”** means any information regarding the business of the Company or any of its Affiliates, including its operations, operating plans, customers, customer lists, advertisers, advertiser lists, members, interests, the identity of any holder of, or amount of, any interests, proposed or current ventures, business plans, past agreements, potential agreements, private or proprietary conversations, trade secrets, as well as information relating to their financial performance, condition or valuation; provided, that “Confidential Information” does not include information which: (i) is now, or hereafter becomes, through no act or failure to act on the part of the receiving party, generally known or available to the public; (ii) was acquired by the receiving party before receiving such information from the Company and without restriction as to use or disclosure; (iii) is hereafter rightfully furnished to the receiving party by a third party, without restriction as to use or disclosure; (iv) is information which the receiving party can document was independently developed by the receiving party without breach of any obligation of confidentiality; (v) is required to be disclosed pursuant to law, provided the receiving party uses reasonable efforts to give the Company reasonable advance notice of such required disclosure; or (vi) is disclosed with the prior written consent of the Company.
+
+^^Accounting Basis for Tax and Reporting Purposes. The books and records of the Company for tax purposes, for purposes of this Agreement and for the purpose of reports to the Members shall be kept in accordance with such method as the Board shall determine.
+
+^^Books and Records. The books and records of the Company shall be maintained at the office of the Company. Each Member shall have reasonable access to inspect the accounting records of the Company during regular business hours of the Company at the office of the Company.
+
+^^Reports. (a) Within forty-five (45) days after the end of each Fiscal Year, the Chief Executive Officer shall send to each Person who was a Member at the end of the Fiscal Year then ended the balance sheet of the Company as of the end of such year and statements of operations, changes in Members’ capital and cash flow of the Company for such year, all of which shall be prepared in accordance with accounting principles consistently applied. Any Member may request audited financial statements for the Company. The audit shall be performed by the accounting firm for the Member requesting the audit. The Member requesting the audit, shall pay for the cost of the audit.
+
+^^Within seventy five (75) days after the end of each Fiscal Year, the Chief Executive Officer shall send to each Person who was a Member at any time during the year then ended such tax information relating to the Company as shall be necessary for the preparation by such Member of its federal income tax return and required state income and other tax returns.
+
+^^Within 10 days after the end of each quarter, the Chief Executive Officer shall send to each person who is a member an unaudited balance sheet of the Company and statements of operations, changes in Members’ capital and cash flow of the Company for such quarter or allow them access to the necessary financial information to prepare such reports. Each Member shall have unlimited access to all the financial information of the Company and may, at its expense, request that an audit of the Company be prepared by such Member’s accounting firm.
+
+^^Termination of Certain Provisions. All the provisions of this Agreement shall be deemed terminated upon an initial public offering of the Company. This Agreement, or any portion hereof may be terminated with the written agreement of the Company and each Member.
+
+^^Notices. Any notice required or permitted to be sent hereunder shall be delivered personally or mailed, registered or certified mail, return receipt requested, or delivered by overnight courier service, to the intended recipient’s address set forth below or to such other address as the intended recipient designates by written notice to the Company, and shall be deemed to have been given upon delivery, if delivered personally, three days after mailing, if mailed, or one Business Day after delivery to the courier, if delivered by overnight courier service. Any such notice shall be mailed as follows:
+
+^^^if to the Company, to:
+
+^^^if to any other Member, to its address set forth on the signature page hereto.
+
+^^Entire Agreement. This Agreement, including the exhibits and schedules attached hereto, is the entire agreement among the parties hereto relating to the subject matter hereof. It supersedes all prior agreements pertaining to the subject matter hereof and may not be amended except as provided in Section 15.10 hereof.
+
+^^Severability. Whenever possible, each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision will be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement.
+
+^^Descriptive Headings. The descriptive headings of this Agreement are inserted for convenience of reference only and do not constitute a part of and shall not be utilized in interpreting this Agreement.
+
+^^Consent to Amendments; Waivers. Except as otherwise expressly provided herein, the provisions of this Agreement may be amended or waived at any time by the written agreement of the Company and each Member. Any waiver, permit, consent or approval of any kind or character on the part of any such Member of any provisions or conditions of this Agreement must be made in writing and shall be effective only to the extent specifically set forth in such writing.
+
+^^Successors and Assigns. Except as otherwise expressly provided herein, all covenants and agreements contained in this Agreement by or on behalf of any of the parties hereto will bind and inure to the benefit of the respective successors and assigns of the parties hereto.
+
+^^Third Party Rights. The provisions of this Agreement are for the exclusive benefit of the Company and the Members and no other person (including, without limitation, any creditor of the Company) shall have any right or claim against the Company or the Members by reason of these provisions or be entitled to enforce any of these provisions against the Company or the Members.
+
+^^Governing Law; Jurisdiction. All questions concerning the construction, validity, and interpretation of this Agreement, and the performance of the obligations imposed by this Agreement, shall be governed by the laws of the State of Delaware.
+
+^^Remedies. The parties hereto shall have all rights and remedies set forth in this Agreement and all rights and remedies available under any applicable law. The parties hereto agree and acknowledge that money may not be an adequate remedy for any breach of the provisions of this Agreement and that any party may, in its sole discretion, apply to any court of law or equity of competent jurisdiction for specific performance or injunctive relief (without posting bond or other security) in order to enforce, or prevent any violations of, the provisions of this Agreement.
+
+^^Waiver of Partition. Except as may be otherwise provided by law in connection with the winding-up, liquidation and dissolution of the Company, each Member hereby irrevocably waives any and all rights that it may have to maintain an action for partition of any of the Company’s property.
+
+^^Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and such counterparts together shall constitute one instrument.
+
+*[Balance of Page Left Blank; Signature Pages Follow]*
+
+Members:
+
+REAL D
+
+[[REAL D Signatory Email: Identity | Signature]]
+__________________________________________
+{{REAL D Entity => By: [[REAL D Signatory First Name]] [[REAL D Signatory Last Name]]
+Title: [[REAL D Signatory Title]]}}
+
+Address: [[Address 1: Address]]
+
+BALLANTYNE OF OMAHA, INC.
+
+[[BALLANTYNE OF OMAHA INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{BALLANTYNE OF OMAHA INC. Entity => By: [[BALLANTYNE OF OMAHA INC. Signatory First Name]] [[BALLANTYNE OF OMAHA INC. Signatory Last Name]]
+Title: [[BALLANTYNE OF OMAHA INC. Signatory Title]]}}
+
+Address: [[Address 2: Address]]
+
+\centered **Exhibit A Balantyne Price List**
+
+\centered **Intentionally Omitted**
+
+\centered **Exhibit B**
+
+\centered **Digital Cinema System Transfer Agreement**
+
+\centered **Intentionally Omitted**
+
+\centered **Exhibit C Certificate of Formation**
+
+\centered **See Attached**
+
+\centered \centered ***State of*** De***laware*** \centered ***Secretary of State*** ***Division of Corporations*** ***Delivered*** ***11:41 PM 03/01/2007*** ***FILED 11:17 PM 03/01/2007*** 
+
+\centered ***SRV 070269937 - 4310084 FILE***  
+
+\centered **CERTIFICATE OF FORMATION OF DIGITAL LINK II**
+
+This Certificate of Formation of Digital Link II (the “Company”), dated as of [[Date 3: Date]], is being duly executed and is being filed by the undersigned, as an authorized person, to form a limited liability company under the Delaware Limited Liability Company Act (6 Del. C. § 18-101, et seq.).
+
+FIRST: The name of the limited liability company formed hereby is Digital Link II.
+
+SECOND: The name and address of the registered agent for service of process on the Company in the State of Delaware is The Corporation Trust Company, Corporation Trust Center, 1209 Orange Street, Wilmington, New Castle County, Delaware 19801.
+
+THIRD: The limited liability company is to have perpetual existence.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certificate of Formation as of the date first above written.
+
+\centered /s/ Lars E. Johansson Lars E. Johansson

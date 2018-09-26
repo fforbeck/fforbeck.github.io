@@ -1,0 +1,46 @@
+\centered **DEBT CONVERSION AGREEMENT** 
+
+This Debt Conversion Agreement (the “Agreement”) is entered into effective as of as of [[Date 1: Date]] by and between [[Investor]] (“Investor”) and [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), with reference to the following facts: 
+
+WHEREAS, Investor has loaned certain funds to the Company as described in the Loan Agreement and Security Agreement dated [[Date 2: Date]] (the “Loan Agreement”), as extended on [[Date 3: Date]], of which the Company and Investor desire to convert $[[USD Value 1: Number]] (the “Debt”) into shares of Common Stock. 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, Investor and the Company agree as follows: 
+
+^Conversion to Common Stock. Effective as of [[Date 1]], $[[USD Value 1]] of the Debt shall be converted into shares of Common Stock at a price per share of $.10 for an aggregate number of shares of [[Shares 1: Number]]. Upon execution of this Agreement, the Company shall instruct its transfer agent to issue a total of 500,000 shares of Common Stock to the Investor, and the Investor shall acknowledge the repayment of $[[USD Value 1]] under the Loan Agreement. 
+
+^Investor Representations. The Company is issuing the Common Stock to Investor in reliance upon the following representations made by Investor: 
+
+^^Investor acknowledges and agrees that the shares of Common Stock are characterized as “restricted securities” under the Securities Act of 1933 (as amended and together with the rules and regulations promulgated thereunder, the “Securities Act”) and that, under the Securities Act and applicable regulations thereunder, such securities may not be resold, pledged or otherwise transferred without registration under the Securities Act or an exemption therefrom. Investor acknowledges and agrees that (i) the shares of Common Stock are being offered in a transaction not involving any public offering in the United States within the meaning of the Securities Act, and the shares of Common Stock have not yet been registered under the Securities Act, and (ii) such shares of Common Stock may be offered, resold, pledged or otherwise transferred only in a transaction registered under the Securities Act, or meeting the requirements of Rule 144, or in accordance with another exemption from the registration requirements of the Securities Act (and based upon an opinion of counsel if the Company so requests) and in accordance with any applicable securities laws of any State of the United States or any other applicable jurisdiction. 
+
+^^Investor acknowledges and agrees that (i) the registrar or transfer agent for the shares of Common Stock will not be required to accept for registration of transfer any shares except upon presentation of evidence satisfactory to the Company that the restrictions on transfer under the Securities Act have been complied with and (ii) any shares of Common Stock in the form of definitive physical certificates will bear a restrictive legend. 
+
+^^Investor acknowledges and agrees that: (a) the shares of Common Stock have not been registered under the Securities Act, or under any state securities laws, and are being offered and sold in reliance upon federal and state exemptions for transactions not involving any public offering; (b) Investor is acquiring the shares of Common Stock solely for its own account for investment purposes, and not with a view to the distribution thereof in a transaction that would violate the Securities Act or the securities laws of any State of the United States or any other applicable jurisdiction; (c) Investor is a sophisticated purchaser with such knowledge and experience in business and financial matters that it is capable of evaluating the merits and risks of purchasing the shares of Common Stock; (d) Investor has had the opportunity to obtain from the Company such information as desired in order to evaluate the merits and the risks inherent in holding the shares of Common Stock; (e) Investor is able to bear the economic risk and lack of liquidity inherent in holding the shares of Common Stock; (f) Investor is an “accredited investor” within the meaning of Rule 501(a) under the Securities Act; and (g) and (g) Investor either has a pre-existing personal or business relationship with the Company or its officers, directors or controlling persons, or by reason of Investor’s business or financial experience, or the business or financial experience of their professional advisors who are unaffiliated with and who are not compensated by the Company, directly or indirectly, have the capacity to protect their own interests in connection with the purchase of the Common Stock. 
+
+^^Investor’s investment in the Company pursuant to this Common Stock is consistent, in both nature and amount, with Investor’s overall investment program and financial condition. 
+
+^^Investor’s principal residence is in the State of California. 
+
+^Miscellaneous. 
+
+^^This Agreement shall be construed and enforced in accordance with the laws of the State of California. 
+
+^^This Agreement constitutes the entire agreement between the parties and supersedes all prior oral or written negotiations and agreements between the parties with respect to the subject matter hereof. No modification, variation or amendment of this Agreement (including any exhibit hereto) shall be effective unless made in writing and signed by both parties. 
+
+^^Each party to this Agreement hereby represents and warrants to the other party that it has had an opportunity to seek the advice of its own independent legal counsel with respect to the provisions of this Agreement and that its decision to execute this Agreement is not based on any reliance upon the advice of any other party or its legal counsel. Each party represents and warrants to the other party that in executing this Agreement such party has completely read this Agreement and that such party understands the terms of this Agreement and its significance. This Agreement shall be construed neutrally, without regard to the party responsible for its preparation. 
+
+^^Each party to this Agreement hereby represents and warrants to the other party that (i) the execution, performance and delivery of this Agreement has been authorized by all necessary action by such party; (ii) the representative executing this Agreement on behalf of such party has been granted all necessary power and authority to act on behalf of such party with respect to the execution, performance and delivery of this Agreement; and (iii) the representative executing this Agreement on behalf of such party is of legal age and capacity to enter into agreements which are fully binding and enforceable against such party. 
+
+^^This Agreement may be executed in any number of counterparts and may be delivered by facsimile transmission, all of which taken together shall constitute a single instrument. 
+
+This Agreement is entered into and effective as of the date first written above. 
+
+**COMPANY:**      **INVESTOR:**
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Joseph Merhi, CEO                  [[Investor]]

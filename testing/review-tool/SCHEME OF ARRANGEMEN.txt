@@ -1,0 +1,382 @@
+\centered **SCHEME OF ARRANGEMENT** 
+
+\centered **IN THE GRAND COURT OF THE CAYMAN ISLANDS FINANCIAL SERVICES DIVISION** 
+
+\centered **CAUSE NO : [*] OF 2010** 
+
+\centered **IN THE MATTER OF AZALEA NETWORKS** 
+
+\centered **and** 
+
+\centered **IN THE MATTER OF SECTION 86 OF THE COMPANIES LAW (2009 REVISION) OF THE CAYMAN ISLANDS** 
+
+\centered **SCHEME OF ARRANGEMENT** 
+
+\centered **between** 
+
+\centered **AZALEA NETWORKS (“Company”)** 
+
+\centered **and** 
+
+\centered **ARUBA NETWORKS, INC. (“Purchaser”)** 
+
+\centered **and** 
+
+\centered **THE SCHEME SHAREHOLDERS (as defined herein)** 
+
+\centered **and** 
+
+\centered **THE BRIDGE NOTEHOLDERS (as defined herein)** 
+
+\centered **PRELIMINARY** 
+
+In this Scheme the following expressions shall bear the meanings respectively set opposite them. Any capitalized terms in this Scheme not defined in the following table shall have the same meaning as in the Arrangement Agreement. Headings in this Scheme are included for ease of reference only, and do not affect the meaning of the Scheme: 
+
+\centered 
+
+“Adjusted Initial Consideration Value”    An amount equal to (A) the Initial Consideration Value *minus* (B) the Working Capital Shortfall *minus* (C) the Estimated Third Party Expenses Adjustment Amount *minus* (D) the Aggregate Bridge Notes Pay-Off Amount *minus* (E) Other Third Party Debt. 
+
+“Aggregate Acquisition Consideration Value”    An amount equal to the sum of (A) the Adjusted Initial Consideration Value *plus* (B) the Contingent Rights Maximum Aggregate Value.  
+
+^^^^^ 
+\centered 
+
+“Aggregate Bridge Notes Pay-Off Amount”    The sum of the Bridge Note Pay-Off Amounts for all of the Bridge Notes. 
+
+“Aggregate Ordinary Participation Value”    An amount equal to [[Percentage 1: Number]]% of the Aggregate Participation Consideration Value. 
+
+“Aggregate Ordinary Stock Consideration:    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the Total Ordinary Shares Outstanding *by* (B) the Ordinary Exchange Ratio. 
+
+“Aggregate Participation Consideration Value”    An amount equal to (A) the Aggregate Acquisition Consideration Value *minus* (B) the Aggregate Preferred Liquidation Value. 
+
+“Aggregate Preferred Liquidation Value”    The sum of (A) the Series A Aggregate Liquidation Value *plus* (B) the Series A-1 Aggregate Liquidation Value *plus* (C) the Series A-2 Aggregate Liquidation Value *plus* (D) the Series A-3 Aggregate Liquidation Value *plus* (E) the Series B Aggregate Liquidation Value. 
+
+“Aggregate Preferred Participation Value”    An amount equal to [[Percentage 2: Number]]% of the Aggregate Participation Consideration Value. 
+
+“Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock equal to the sum of (A) the Series A Aggregate Stock Consideration *plus* (B) the Series A-1 Aggregate Stock Consideration *plus* (C) the Series A-2 Aggregate Stock Consideration *plus* (D) the Series A-3 Aggregate Stock Consideration *plus* (E) the Series B Aggregate Stock Consideration *plus* (F) the Aggregate Ordinary Stock Consideration. 
+
+“Allowed Proceeding”    Any Proceeding by a Scheme Shareholder to enforce its rights under this Scheme where any party fails to perform its obligations under this Scheme. 
+
+“Arrangement Agreement”    The Arrangement Agreement made and entered into as of [[Date 1: Date]] by and among Purchaser, the Company, the Principal Shareholders, the Shareholder Representative and U.S. Bank National Association as escrow agent, pursuant to which Purchaser and the Company agreed to pursue and effect this Scheme, together with all exhibits and schedules thereto. 
+
+“Bridge Noteholders”    The holders of Bridge Notes. 
+
+“Bridge Note Cash Exchange Amount”    For each Bridge Note, a cash amount determined by *multiplying* (A) the applicable Bridge Note Pro Rata Share by (B) $[[USD Value 1: Number]] 
+
+“Bridge Notes”    The Convertible Promissory Notes of the Company having an aggregate principal amount of approximately $[[USD Value 2: Number]] issued pursuant to that certain Convertible Promissory Note Purchase Agreement dated [[Date 2: Date]]. 
+
+“Bridge Note Pro Rata Share”    For each Bridge Note, the percentage determined by *dividing* (A) the Bridge Note Pay-Off Amount applicable to such Bridge Note *by* (B) the Aggregate Bridge Notes Pay-Off Amount. 
+
+“Bridge Note Pay-Off Amount”    For each Bridge Note, the sum of (A) the principal amount of such Bridge Note *plus* (B) all unpaid interest accrued thereunder from the date of issuance through the Closing Date. 
+
+“Bridge Note Stock Exchange Amount”    For each Bridge Note, the number of shares of Purchaser Common Stock determined by *multiplying* (A) 0.666667 *by* (B) the quotient of (1) the Bridge Note Pay-Off Amount applicable to such Bridge Note *minus* the Bridge Note Cash Exchange Amount applicable to such Bridge Note *divided* by (2) the Purchaser Trading Price.  
+
+^^^^^ 
+\centered 
+
+“Business Day”    Each day that is not a Saturday, Sunday or other day on which Purchaser is closed for business or banking institutions located in the Cayman Islands or San Francisco, California are authorized or obligated by law or executive order to close. 
+
+“Cash Consideration Percentage”    The percentage determined by *dividing* (A) the Contingent Rights Maximum Aggregate Value *by* (B) the Aggregate Acquisition Consideration Value. 
+
+“Cayman Court”    The Grand Court of the Cayman Islands and any court capable of hearing appeals therefrom. 
+
+“Companies Law”    The Companies Law (2009 Revision) of the Cayman Islands, and its predecessors, as consolidated and revised from time to time. 
+
+“Company Ordinary Shares”    The ordinary shares of the Company having a par value of $[[USD Value 5: Number]].0001 per share. 
+
+“Company Preference Shares”    The Company Series A Preference Shares, the Company Series A-1 Preference Shares, the Company Series A-2 Preference Shares, the Company Series A-3 Preference Shares and the Company Series B Preference Shares, taken together. 
+
+“Company Series A Preference Shares”    The Series A Preference Shares of the Company having a par value of $[[USD Value 6: Number]]1. 
+
+“Company Series A-1 Preference Shares”    The Series A-1 Preference Shares of the Company having a par value of $[[USD Value 6]]1. 
+
+“Company Series A-2 Preference Shares”    The Series A-2 Preference Shares of the Company having a par value of $[[USD Value 6]]1. 
+
+“Company Series A-3 Preference Shares”    The Series A-3 Preference Shares of the Company having a par value of $[[USD Value 6]]1. 
+
+“Company Series B Preference Shares”    The Series B Preference Shares of the Company having a par value of $[[USD Value 6]]1. 
+
+“Contingent Rights”    For each underlying share of Purchaser Common Stock comprising the Aggregate Stock Consideration, the right associated with such share of Purchaser Common Stock pursuant to the Scheme to receive an amount of cash equal to the Contingent Rights Per Share Value in connection with any sale of such share of Purchaser Common Stock during the Contingent Rights Payment Period, subject to the limitations and conditions specified in Part II of this Scheme. 
+
+“Contingent Rights Maximum Aggregate Value”    $[[USD Value 3: Number]] 
+
+“Contingent Rights Payment Period”    The period beginning on the earlier of (i) the first anniversary of the Closing Date or (ii) [[Date 3: Date]] and ending on [[Date 4: Date]], *provided*, *however*, that, with respect to shares of Purchaser Common Stock comprising the Escrow Amount, the applicable Contingent Rights Payment Period shall be the period beginning on the later of (x) [[Date 5: Date]] or (y) the date such shares are released from escrow to the Scheme Shareholders, if at all, and ending on the earlier of (A) thirty (30) calendar days following such release date or (B) [[Date 6: Date]];*provided*, *further*, that any Scheme Shareholder who is both a U.S. taxpayer and a then continuing employee of Purchaser or any of its subsidiaries or affiliates shall have an additional Contingent Rights Payment Period beginning on [[Date 7: Date]] and ending on [[Date 8: Date]] with respect to sales of up to [[Percentage 3: Number]]% of his or her holdings of Purchaser Common Stock.  
+
+^^^^^ 
+\centered 
+
+“Contingent Rights Per Share Value”    For each underlying share of Purchaser Common Stock comprising the Aggregate Stock Consideration to which the Contingent Rights are attached, either: (A) in the event such underlying share of Purchaser Common Stock is sold on a date that is within the Contingent Rights Payment Period, an amount of cash equal to the *lesser* of (1) the Contingent Rights Target Value Shortfall or (2) the Contingent Rights Per Share Maximum; or (B) in the event such underlying share of Purchaser Common Stock is sold on a date that is not within the Contingent Rights Payment Period, $0; *provided*, *however*, in the case of any holder of Purchaser Common Stock comprising the Aggregate Stock Consideration that is an Employee at the Effective Time, receipt of the Contingent Rights Per Share Value pursuant to clause (A) of this definition is contingent on such holder remaining an Employee through and including the applicable sale date unless previously terminated involuntarily without Cause or voluntarily for Good Reason. 
+
+“Contingent Rights Per Share Maximum”    The amount determined by *dividing* (A) the Contingent Rights Maximum Aggregate Value *by* (B) the Aggregate Stock Consideration. 
+
+“Contingent Rights Target Value”    An amount equal to [[Percentage 4: Number]]% of the Purchaser Trading Price. 
+
+“Contingent Rights Target Value Shortfall”    For each underlying share of Purchaser Common Stock comprising the Aggregate Stock Consideration, either: (A) in the event the Contingent Rights Target Value is greater than the Contingent Rights Sale Value, an amount in cash equal to the Contingent Rights Target Value *minus* the Contingent Rights Sale Value; or (B) in the event the Contingent Rights Target Value is less than or equal to the Contingent Rights Sale Value, $0. 
+
+“Contingent Rights Sale Value”    For each underlying share of Purchaser Common Stock comprising the Aggregate Stock Consideration, the actual sale price at which such share of Purchaser Common Stock is sold on the Nasdaq Stock Market (or any other exchange on which Purchaser hereafter lists Purchaser Common Stock) as certified by the holder thereof pursuant to the applicable Sale Notice and verified by Purchaser. 
+
+“Dollars” or “$”    United States Dollars, being the lawful currency of the United States of America. 
+
+“Effective Time”    The time at which Parts I, II and III of this Scheme become effective in accordance with Clause 8 of this Scheme. 
+
+“Initial Consideration Value”    $[[USD Value 4: Number]] 
+
+“Latest Practicable Date”    [*], being the latest practicable date for the purposes of ascertaining certain information contained herein. 
+
+“Other Third Party Debt”    All liabilities or obligations of the Company (A) for borrowed money, (B) evidenced by notes, bonds, debentures, derivative or similar instruments, (C) for the deferred purchase price of goods or services (other than trade payables or accruals incurred in the ordinary course of business), and (D) in the nature of a guarantee of any of the obligations described in clauses (A) through (C) above, in each case other than the Aggregate Bridge Notes Pay-Off Amount. 
+
+“Ordinary Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Ordinary Per Share Participation Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price.  
+
+^^^^^ 
+\centered 
+
+“Ordinary Per Share Participation Value”    The amount determined by *dividing* (A) the Aggregate Ordinary Participation Value *by* (B) the aggregate number of Company Ordinary Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Parties”    Purchaser, the Company, the Scheme Shareholders and the Scheme Administrator. 
+
+“Pro Rata Portion”    For each Scheme Shareholder, the percentage determined by *dividing* (A) the total number of shares of Purchaser Common Stock he, she or its is entitled to receive pursuant to Part I, Clause 3(b) of this Scheme in exchange for all Scheme Shares held by such Scheme Shareholder immediately prior to the Effective Time by (B) the total number of shares of Purchaser Common Stock all Scheme Shareholders are entitled to receive pursuant to Part I, Clause 3(b) of this Scheme in exchange for all Scheme Shares held by all Scheme Shareholders immediately prior to the Effective Time. 
+
+“Proceeding”    Any process, suit, action, legal or other proceeding, including without limitation any arbitration, mediation, alternative dispute resolution, judicial review, adjudication, demand, execution, restraint, forfeiture, re-entry, seizure, lien, enforcement of judgment, enforcement of any security or enforcement of any letters of credit. 
+
+“Prohibited Proceeding”    Any Proceeding against the Company or Purchaser or their subsidiaries or property, or any of their respective directors, officers, employees or agents, in any jurisdiction whatsoever other than an Allowed Proceeding. 
+
+“Proxy Statement”    The proxy statement issued to the Scheme Shareholders in connection with this Scheme by order of the Cayman Court on [ _____ ], 2010. 
+
+“Purchaser Common Stock”    The common stock, par value $[[USD Value 6]]1 per share, of Purchaser. 
+
+“Purchaser Trading Price”    The average of the daily closing price of a share of Purchaser Common Stock as reported by The Nasdaq Stock Market for the twenty (20) trading days ending on the second Business Day prior to the Closing Date; *provided*, *however*, if Purchaser Trading Price is more than $ 15.18, then Purchaser Trading Price shall be deemed to be $ 15.18 and if Purchaser Trading Price is less than $ 11.22, then Purchaser Trading Price shall be deemed to be $ 11.22. 
+
+“Register”    The register of members of the Company. 
+
+“Scheme Consideration”    Means the shares of Purchaser Common Stock and the Contingent Rights which the Scheme Shareholders are entitled to receive pursuant to Clauses 3(b) and 3(c) of the Scheme. 
+
+“Scheme Meetings”    The class meetings of the Scheme Shareholders convened by the Cayman Court for the purposes of considering, and if seen fit, approving this Scheme. 
+
+“Scheme Shareholders”    The registered holders of the Scheme Shares, as recorded on the Register immediately prior to the Effective Time.  
+
+^^^^^ 
+\centered 
+
+“Scheme Shares”    All of the Company Ordinary Shares (including Company Ordinary Shares underlying Company Options that have been contingently exercised contingent only upon the occurrence of the Effective Time) and Company Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Scheme”    This scheme of arrangement in its present form or with or subject to any modifications, additions or conditions which the Cayman Court may approve or impose. 
+
+“Series A Aggregate Liquidation Value”    The amount determined by *multiplying* (A) the aggregate number of Company Series A Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A Per Share Liquidation Value. 
+
+“Series A Aggregate Participation Value”    The amount determined by *multiplying* (A) the Aggregate Preferred Participation Value *by* (B) the Series A Participation Percentage. 
+
+“Series A Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the aggregate number of Company Series A Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A Exchange Ratio. 
+
+“Series A Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Series A Per Share Transaction Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price. 
+
+“Series A Participation Percentage”    The percentage determined by *dividing* (A) the Series A Aggregate Liquidation Value *by* (B) the Aggregate Preferred Liquidation Value. 
+
+“Series A Per Share Liquidation Value”    An amount equal to $[[USD Value 7: Number]]. 
+
+“Series A Per Share Participation Value”    The amount determined by *dividing* (A) the Series A Aggregate Participation Value *by* (B) the aggregate number of Company Series A Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Series A Per Share Transaction Value”    An amount equal to the sum of (A) the Series A Per Share Liquidation Value *plus* (B) the Series A Per Share Participation Value. 
+
+“Series A-1 Aggregate Liquidation Value”    The amount determined by *multiplying* (A) the aggregate number of Company Series A-1 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-1 Per Share Liquidation Value. 
+
+“Series A-1 Aggregate Participation Value”    The amount determined by *multiplying* (A) the Aggregate Preferred Participation Value *by* (B) the Series A-1 Participation Percentage. 
+
+“Series A-1 Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the aggregate number of Company Series A-1 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-1 Exchange Ratio. 
+
+“Series A-1 Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Series A-1 Per Share Transaction Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price. 
+
+“Series A-1 Participation Percentage”    The percentage determined by *dividing* (A) the Series A-1 Aggregate Liquidation Value *by* (B) the Aggregate Preferred Liquidation Value. 
+
+“Series A-1 Per Share Liquidation Value”    An amount equal to $[[USD Value 8: Number]].  
+
+^^^^^ 
+\centered 
+
+“Series A-1 Per Share Participation Value”    The amount determined by *dividing* (A) the Series A-1 Aggregate Participation Value *by* (B) the aggregate number of Company Series A-1 Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Series A-1 Per Share Transaction Value”    An amount equal to the sum of (A) the Series A-1 Per Share Liquidation Value *plus* (B) the Series A-1 Per Share Participation Value. 
+
+“Series A-2 Aggregate Liquidation Value”    The amount determined by *multiplying* (A) the aggregate number of Company Series A-2 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-2 Per Share Liquidation Value. 
+
+“Series A-2 Aggregate Participation Value”    The amount determined by *multiplying* (A) the Aggregate Preferred Participation Value *by* (B) the Series A-2 Participation Percentage. 
+
+“Series A-2 Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the aggregate number of Company Series A-2 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-2 Exchange Ratio. 
+
+“Series A-2 Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Series A-2 Per Share Transaction Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price. 
+
+“Series A-2 Participation Percentage”    The percentage determined by *dividing* (A) the Series A-2 Aggregate Liquidation Value *by* (B) the Aggregate Preferred Liquidation Value. 
+
+“Series A-2 Per Share Liquidation Value”    An amount equal to $[[USD Value 9: Number]]. 
+
+“Series A-2 Per Share Participation Value”    The amount determined by *dividing* (A) the Series A-2 Aggregate Participation Value *by* (B) the aggregate number of Company Series A-2 Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Series A-2 Per Share Transaction Value”    An amount equal to the sum of (A) the Series A-2 Per Share Liquidation Value *plus* (B) the Series A-2 Per Share Participation Value. 
+
+“Series A-3 Aggregate Liquidation Value”    The amount determined by *multiplying* (A) the aggregate number of Company Series A-3 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-3 Per Share Liquidation Value. 
+
+“Series A-3 Aggregate Participation Value”    The amount determined by *multiplying* (A) the Aggregate Preferred Participation Value *by* (B) the Series A-3 Participation Percentage. 
+
+“Series A-3 Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the aggregate number of Company Series A-3 Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series A-3 Exchange Ratio. 
+
+“Series A-3 Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Series A-3 Per Share Transaction Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price. 
+
+“Series A-3 Participation Percentage”    The percentage determined by *dividing* (A) the Series A-3 Aggregate Liquidation Value *by* (B) the Aggregate Preferred Liquidation Value. 
+
+“Series A-3 Per Share Liquidation Value”    An amount equal to $[[USD Value 10: Number]].  
+
+^^^^^ 
+\centered 
+
+“Series A-3 Per Share Participation Value”    The amount determined by *dividing* (A) the Series A-3 Aggregate Participation Value *by* (B) the aggregate number of Company Series A-3 Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Series A-3 Per Share Transaction Value”    An amount equal to the sum of (A) the Series A-3 Per Share Liquidation Value *plus* (B) the Series A-3 Per Share Participation Value. 
+
+“Series B Aggregate Liquidation Value”    The amount determined by *multiplying* (A) the aggregate number of Company Series B Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series B Per Share Liquidation Value. 
+
+“Series B Aggregate Participation Value”    The amount determined by *multiplying* (A) the Aggregate Preferred Participation Value *by* (B) the Series B Participation Percentage. 
+
+“Series B Aggregate Stock Consideration”    The number of shares of Purchaser Common Stock determined by *multiplying* (A) the aggregate number of Company Series B Preference Shares issued and outstanding immediately prior to the Effective Time *by* (B) the Series B Exchange Ratio. 
+
+“Series B Exchange Ratio”    The quotient determined by *dividing* (A) the product of (1) the Series B Per Share Transaction Value *multiplied* by (2) the Stock Consideration Percentage *by* (B) Purchaser Trading Price. 
+
+“Series B Participation Percentage”    The percentage determined by *dividing* (A) the Series B Aggregate Liquidation Value *by* (B) the Aggregate Preferred Liquidation Value. 
+
+“Series B Per Share Liquidation Value”    An amount equal to $[[USD Value 11: Number]]. 
+
+“Series B Per Share Participation Value”    The amount determined by *dividing* (A) the Series B Aggregate Participation Value *by* (B) the aggregate number of Company Series B Preference Shares issued and outstanding immediately prior to the Effective Time. 
+
+“Series B Per Share Transaction Value”    An amount equal to the sum of (A) the Series B Per Share Liquidation Value *plus* (B) the Series B Per Share Participation Value. 
+
+“Stock Consideration Percentage”    The percentage determined by *dividing* (A) the Adjusted Initial Consideration Value *by* (B) the Aggregate Acquisition Consideration Value. 
+
+“Total Ordinary Shares Outstanding”    The number of Company Ordinary Shares issued and outstanding immediately prior to the Effective Time (including all Company Ordinary Shares underlying Company Options that have been exercised contingent only upon the occurrence of the Effective Time).  
+
+^The Company was incorporated as an exempted limited company named Azalea Networks on [*] in the Cayman Islands, under the Companies Law. As at the Latest Practicable Date, the authorized share capital of the Company consists of 48,480,000 Company Ordinary Shares, of which [9,506,736] shares are issued and outstanding; 4,000,000 Company Series A Preference Shares, all of which shares are issued and outstanding; 4,000,000 Company Series A-1 Preference Shares, of which [[Shares 1: Number]] shares are issued and outstanding; 2,000,000 Company Series A-2 Preference Shares, all of which shares are issued and outstanding; 6,500,000 Company Series A-3 Preference Shares, all of which shares are issued and outstanding; and 10,250,000 Company Series B Preference Shares, of which [[Shares 2: Number]] shares are issued and outstanding.
+^Purchaser proposes to acquire all the Scheme Shares pursuant to the terms of this Scheme of Arrangement, such that, at and after the Effective Time, the Company will become a wholly owned subsidiary of Purchaser.
+^The Parties intend that the Acquisition qualify as a taxable transaction for U.S. federal income tax purposes.
+
+^^^^^ 
+^Purchaser has undertaken to the Cayman Court to be bound by this Scheme and to execute and do and procure to be executed and done all such documents, acts and things as may be necessary or desirable to be executed and done by it for the purpose of giving effect to this Scheme.
+
+\centered **SCHEME OF ARRANGEMENT** 
+
+\centered **PART I** 
+
+\centered **BRIDGE NOTES EXCHANGE AND SHARE EXCHANGE** 
+
+^**[Bridge Notes Exchange]** At the Effective Time, all issued and outstanding Bridge Notes shall be surrendered to Purchaser for cancellation subject only to receipt of the consideration set forth in Clause 3(a) of this Scheme, together with written consents from the Bridge Noteholders, in such form as is reasonably satisfactory to Purchaser, pursuant to which such holders agree to the cancellation of the Bridge Notes in exchange for the consideration set forth in Clause 3(a) of this Scheme.
+^**[Share Exchange]** At the Effective Time, all issued and outstanding Scheme Shares shall be transferred to Purchaser in exchange for the consideration set forth in Clause 3(b) of this Scheme and such Scheme Shares shall be credited as fully paid and recorded in the Register in the name of Purchaser.
+^**[Scheme Consideration]**:
+
+^^In consideration of the surrender and cancellation of the Bridge Notes pursuant to Clause 1 of this Scheme, but subject to the balance of this Scheme, at the Effective Time Purchaser shall pay and issue to each Bridge Noteholder the following: (i) a cash amount equal to the Bridge Note Cash Exchange Amount applicable to such holder’s Bridge Note; and (ii) a number of shares of Purchaser Common Stock equal to the Bridge Note Stock Exchange Amount applicable to such holder’s Bridge Note.
+^^In consideration of the transfer of the Scheme Shares pursuant to Clause 2 of this Scheme, but subject to the balance of this Scheme (including, without limitation, Clause 3(d) below), at the Effective Time Purchaser shall issue Purchaser Common Stock as follows:
+
+^^^to each holder of Company Ordinary Shares transferred pursuant to Clause 2, for each Company Ordinary Share so transferred, a number of shares of Purchaser Common Stock equal to the Ordinary Exchange Ratio;
+^^^to each holder of Company Series A Preference Shares transferred pursuant to Clause 2, for each Company Series A Preference Share so transferred, a number of shares of Purchaser Common Stock equal to the Series A Exchange Ratio;
+^^^to each holder of Company Series A-1 Preference Shares transferred pursuant to Clause 2, for each Company Series A-1 Preference Share so transferred, a number of shares of Purchaser Common Stock equal to the Series A-1 Exchange Ratio;
+^^^to each holder of Company Series A-2 Preference Shares transferred pursuant to Clause 2, for each Company Series A-2 Preference Share so transferred, a number of shares of Purchaser Common Stock equal to the Series A-2 Exchange Ratio;
+^^^to each holder of Company Series A-3 Preference Shares transferred pursuant to Clause 2, for each Company Series A-3 Preference Share so transferred, a number of shares of Purchaser Common Stock equal to the Series A-3 Exchange Ratio; and
+
+^^^^^ 
+^^^to each holder of Company Series B Preference Shares transferred pursuant to Clause 1, for each Company Series B Preference Share so transferred, a number of shares of Purchaser Common Stock equal to the Series B Exchange Ratio.
+
+^^In further consideration of the transfer of the Scheme Shares pursuant to Clause 2 of this Scheme, but subject to the balance of this Scheme (including, without limitation, Clause 3(d) below), at the Effective Time Purchaser irrevocably grants to each and all of the Scheme Shareholders the Contingent Rights, on the terms set out at Part II of this Scheme.
+^^The aggregate number of shares of Purchaser Common Stock issuable to each Scheme Shareholder pursuant to Clause 3(b) in exchange for all Scheme Shares held by such Scheme Shareholder shall be rounded to the nearest whole share. The aggregate cash amount payable to each Scheme Shareholder pursuant to Clause 3(c) with respect to all Scheme Shares that are the subject of a given Sale Notice shall be rounded to the nearest whole cent.
+
+^**[Post Closing Adjustments and Escrow]** At the Effective Time, Purchaser will deposit with the Escrow Agent the Escrow Amount. That Escrow Amount will comprise the Escrow Fund and will be held, applied and otherwise dealt with in accordance with the terms of Article VII of the Arrangement Agreement, and Article VII of the Arrangement Agreement shall have force and effect as though it were set out in full herein (and for the avoidance of doubt, Article VII of the Arrangement Agreement will be construed and interpreted in accordance with the laws of Delaware).
+^**[No Further Rights]** As from the Effective Time:
+
+^^the holders of Bridge Notes prior to the Effective Time shall in accordance with the Scheme cease to have any rights with respect to the Bridge Notes, except the right to receive the Bridge Notes Consideration.
+^^the Scheme Shareholders prior to the Effective Time shall in accordance with this Scheme cease to have any rights with respect to the Scheme Shares, except the right to receive the Scheme Consideration; and
+^^each instrument of transfer and certificate existing at the Effective Time in respect of a holding of any number of Scheme Shares shall cease to be valid for any purpose as an instrument of transfer or a certificate for such Scheme Shares.
+
+^**[Issuance of Purchaser Common Stock]** Following the Closing Date, Purchaser, or such other agent or agents as may be appointed by Purchaser, shall provide to (i) each Bridge Noteholder a certificate representing the number of whole shares of Purchaser Common Stock such holder is entitled to receive pursuant to Clause 3(a) above, and such holder’s Bridge Note shall automatically be cancelled; and (ii) each Scheme Shareholder a certificate representing the number of whole shares of Purchaser Common Stock such Scheme Shareholder is entitled to receive pursuant to Clause 3(b) above (less such Scheme Shareholder’s Pro Rata Portion of the number of shares of Purchaser Common Stock to be deposited in the Escrow Fund pursuant to Clause 4 above and Article VII of the Arrangement Agreement), and any Company stock certificates held by Scheme Shareholders shall be automatically cancelled.
+
+\centered **PART II** 
+
+\centered **CONTINGENT RIGHTS** 
+
+^Purchaser shall pay the Contingent Rights Per Share Value to each Bridge Noteholder and each Scheme Shareholder as follows:
+
+^^A Contingent Right will be associated with and attached to each share of Purchaser Common Stock issued to (i) a given Bridge Noteholder pursuant to Clause 3(a) of this Scheme or (ii) a given Scheme Shareholder pursuant to Clause 3(b) of this Scheme (including such Scheme Shareholder’s Pro Rata Portion of shares held as Escrow Consideration, if any, upon their release from Escrow to such Scheme Shareholder).
+
+^^^^^ 
+^^The Contingent Rights Per Share Value shall only be paid with respect to a sale by a Bridge Noteholder or Scheme Shareholder, as applicable, of a share of Purchaser Common Stock issued pursuant to this Scheme taking place on the Nasdaq Stock Market (or any other exchange on which Purchaser hereafter lists) during the Contingent Rights Payment Period.
+^^Subject to Clause 7(b), within ten (10) Business Days of the date a Bridge Noteholder or Scheme Shareholder, as applicable, sells any shares of Purchaser Common Stock issued to him, her or it pursuant to this Scheme, such Bridge Noteholder or Scheme Shareholder, as applicable, must deliver to Purchaser a notice of sale in the form attached hereto as Exhibit A (the “**Sale Notice**”). If the Sale Notice is not delivered within such ten (10) Business Days period, the Contingent Rights associated with the sold shares of Purchaser Common Stock shall be void and no amounts will be due under this Clause 7 to such Bridge Noteholder or Scheme Shareholder, as applicable, in respect of his, her or its sold shares of Purchaser Common Stock.
+^^Subject to Clause 7(b), within ten (10) Business Days of Purchaser’s receipt of a Sale Notice, Purchaser shall remit to the Bridge Noteholder or Scheme Shareholder, as applicable, that submitted such Sale Notice a cash amount equal to the product of (A) the Contingent Rights Per Share Value *multiplied* by (B) the number of shares of Purchaser Common Stock that are the subject of such Sale Notice.
+^^In no event shall any Contingent Right be transferrable or exercisable by anyone other than the Bridge Noteholder or Scheme Shareholder, as applicable, to which the underlying share of Purchaser Common Stock was initially issued pursuant to this Scheme as set forth herein.
+^^Under no circumstances shall Purchaser be required to pay to the Bridge Noteholders and Scheme Shareholders in respect of their Contingent Rights more than the Contingent Rights Maximum Aggregate Value.
+
+\centered **PART III** 
+
+\centered **GENERAL** 
+
+^**[The Effective Time]** Parts I and II of this Scheme shall become effective at [*], United States Pacific Time on [*], 2010 or such earlier or later date and time as the Company and Purchaser shall agree in writing, provided that at or by that time all of the following conditions are satisfied:
+
+^^this Scheme is approved by the affirmative vote at each Scheme Meeting of a majority in number of the Scheme Shareholders representing [[Percentage 5: Number]]% or more in value of the Scheme Shares present and voting in person or by proxy on the resolution to approve this Scheme;
+^^the requisite court order sanctioning this Scheme is obtained from the Cayman Court;
+^^a copy of the Sanction Order of the Cayman Court is lodged with the Cayman Islands Registrar of Companies;
+^^all other conditions at Article VI of the Arrangement Agreement are satisfied or, to the extent permitted law and the Arrangement Agreement, waived by the Company and/or Purchaser in accordance with the Arrangement Agreement.
+
+^**[Mandates, etc]** All mandates or other instructions to the Company in force at the Effective Time relating to any of the Scheme Shares (including, without limitation, elections for the payment of dividends by way of scrip (if any)) shall, mutatis mutandis immediately after the Effective Time, be deemed to be valid as effective mandates or instructions in respect of shares of Purchaser Common Stock received in consideration of the transfer of such Scheme Shares; *provided*, *however*, that nothing in this Scheme shall in any way affect the right (if any) of a shareholder of the Company to receive any dividend declared by the Company prior to the Effective Time but which has not been paid prior to the Effective Time.
+
+^^^^^ 
+^**[Amendments]** Subject to any applicable U.S. securities laws and written approval by Purchaser, this Scheme may be amended, modified or supplemented at any time before or after its approval by the shareholders of the Company at the Scheme Meetings. At the Cayman Court hearing to sanction this Scheme, the Cayman Court may impose such conditions, modifications and amendments as it deems appropriate in relation to this Scheme but will not impose any material changes without the joint consent of the Company and Purchaser. Purchaser and the Company may, subject to any applicable U.S. securities laws, consent to any condition, modification or amendment of this Scheme on behalf of the Scheme Shareholders which the Company may think fit to approve or impose. After its approval, no amendment, modification or supplement may be made or effected that legally requires further approval by shareholders or any class of shareholders of the Company without obtaining that approval.
+^**[Termination]** The Company or Purchaser may terminate or abandon this Scheme at any time prior to the Effective Time without obtaining the approval of the Scheme Shareholders, even though this Scheme may have been approved at the Scheme Meetings and sanctioned by the Cayman Court and all other conditions may have been satisfied, provided such termination is consistent with and not in breach of the Arrangement Agreement.
+^**[Prohibited Proceedings]** None of the Scheme Shareholders shall commence a Prohibited Proceeding in respect of or arising from this Scheme after the Effective Time. A Scheme Shareholder may commence an Allowed Proceeding against the Company or Purchaser after the Effective Time provided that it has first given the Company and Purchaser five clear Business Days’ prior notice in writing of its intention to do so.
+^**[Savings Clause]** The maximum amount issuable hereunder shall equal the Aggregate Acquisition Consideration Value. If for any reason the calculations herein yield an aggregate amount of consideration in excess of the Aggregate Acquisition Consideration Value, the Company and the Purchaser shall mutually agree to adjust such calculations as necessary.
+^**[Notices]**
+
+^^Any notice or other written communication to be given under or in relation to this Scheme (other than pursuant to Clause 15 below) shall be given in writing and shall be deemed to have been duly given if it is delivered by hand or by courier, or sent by post or by email to:
+
+^^^in the case of the Company:  Azalea Networks 673 S. [[Address 1: Address]]. Suite 105 [[Address 2: Address]] Attention: Felix Zhao Telephone: [[Phone 1]] Facsimile No.: [[Phone 2]]
+^^^in the case of Purchaser:  Aruba Networks, Inc. 1344 Crossman Avenue [[Address 3: Address]] Attn: General Counsel Telephone: [[Phone 3]] Facsimile: [[Phone 4]]
+
+^^^^^ 
+^^^in the case of the Shareholder Representative:  Hans Tai c/o InnoBridge International Inc. 2905 Stender Way, Suite 20 Santa Clara, CA Telephone: [[Phone 5]] Facsimile: [[Phone 6]]
+^^^in the case of any Scheme Shareholder, its address as it appeared on the Register immediately prior to the Effective Time; and
+^^in the case of any other person, including any Bridge Noteholder, any address set forth for that person in any agreement entered into in connection with this Scheme or the last known address according to the records of the Company, or by fax to its last known fax number according to the records of the Company.
+
+^^In proving service, it shall be sufficient proof, in the case of a notice sent by post, that the envelope was properly stamped, addressed and placed in the post.
+^^the Company and Purchaser shall not be responsible for any loss or delay in the transmission of any notices, or other documents posted by or to a Scheme Shareholder, which shall be posted at the risk of such Scheme Shareholder.
+
+^**[Notice of Closing]** Purchaser shall give notification to the Bridge Noteholders and the Scheme Shareholders of Parts I and II of this Scheme having become effective. This notification, and any other notice or other written communication that is required to be given to all or substantially all of the Bridge Noteholders and Scheme Shareholders, may (but is not required to) be made by issuing a press release.
+^**[Governing Law; Jurisdiction]** Subject to Clause 4, the operative terms of this Scheme shall be governed by, and construed in accordance with, the laws of the Cayman Islands and the Scheme Shareholders hereby agree that the courts of the Cayman Islands shall have exclusive jurisdiction to hear and determine any Proceeding and to settle any dispute which arises out of or connected with the terms of this Scheme or their implementation or out of any action taken or omitted to be taken under this Scheme or in connection with the administration of this Scheme and for such purposes, the Parties irrevocably submit to the jurisdiction of the courts of the Cayman Islands.
+^**[Severability]** If any provision (or any part of any provision) of this Scheme is found by the Cayman Court to be illegal or unenforceable, it shall be severed from this Scheme and the remaining provisions of this Scheme shall continue in force.
+^**[Latest Effective Time]** Notwithstanding any other clause of this Scheme, unless Parts I and II of this Scheme has become effective on or before [[Date 9: Date]] (or such later date, if any, as the Company and Purchaser may agree and the Cayman Court may allow), this Scheme shall lapse and be of no further effect.
+
+Dated [*], 2010  
+
+^^^^^ 
+\centered **Exhibit A** 
+
+\centered **Form of Sale Notice** 
+
+Sent via [fax][email] to   
+and via FedEx to     
+Pursuant to Article I of the Arrangement Agreement by and among Aruba Networks, Inc., Azalea Networks, Felix Zhao, Frank Wang, Fang Wu, Hans Tai and Samuel Chen, as the Principal Shareholders, and, with respect to Articles VII, VIII and IX only, Hans Tai as Shareholder Representative and U.S. Bank National Association as Escrow Agent dated as of [[Date 1]] (the “**Arrangement Agreement**”), and the Scheme of Arrangement adopted thereunder, the undersigned certifies that the following information is true and correct: 
+
+Name:   
+Address: 
+
+Date of Sale:   
+Number of Shares Sold:   
+Price per Share:   
+The undersigned hereby certifies that on the date set forth above he/she/it sold the number of shares at the price per share set forth above. The undersigned further represents that: 
+
+The undersigned received these shares pursuant to the Arrangement Agreement.
+If the undersigned was an Employee at the Effective Time, the undersigned has remained an Employee through the date hereof or the undersigned’s service was terminated between the Effective Time and the date hereof without “Cause” or the undersigned voluntarily terminated his/her service during such time for “Good Reason” (each as defined below).
+
+For purposes hereof, “Cause” shall mean: (a) unauthorized use or disclosure of the Company’s confidential information or trade secrets, (b) a material failure to comply with the Company’s written policies or rules, (c) conviction of, or plea of “guilty” or “no contest” to, a felony under the laws of the United States or any state thereof or (d) gross misconduct.
+For purposes hereof, “Good Reason” shall mean: the voluntary resignation of an employee following (i) a change in position with the Company that materially reduces the employee’s level of authority or responsibility or materially changes employee’s duties or reporting relationship, (ii) a material reduction in the employee’s base salary, target bonus or benefits or (iii) receipt of notice that employee’s principal workplace will be relocated more than 35 miles.
+
+The undersigned received these shares directly pursuant to the Arrangement Agreement, and has held them pursuant to the terms of the Arrangement Agreement through the Exercise Period.
+
+^^^^^ 
+The undersigned desires that amounts due to the undersigned be remitted to  o the address above o the following address:
+
+All capitalized terms used herein but not otherwise defined shall have the meaning given them in the Arrangement Agreement. 
+
+\centered 
+
+Date    Name

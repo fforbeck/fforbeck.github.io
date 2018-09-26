@@ -1,100 +1,386 @@
-\centered **SECOND AMENDED AND RESTATED CERTIFICATE**
+Confidential treatment has been requested for portions of this exhibit. The copy filed herewith omits the information subject to the confidentiality request. Omissions are designated as [***]. A complete version of this exhibit has been filed separately with the Securities and Exchange Commission.
 
-\centered **OF INCORPORATION**
+\centered **SECOND AMENDED AND RESTATED REALD SYSTEM LICENSE AGREEMENT (2010)**
 
-\centered **OF**
+This Second Amended and Restated RealD System License Agreement (2010) (the “**Agreement**”) is entered into as of [[Date 1: Date]] and is effective as of [[Date 2: Date]] (the “Effective Date”), by and between [[RealD]], a company incorporated under the laws of the State of Delaware, and [[Party 2]], Suite 120, Beverly Hills, California 90210 (“**RealD**”), and American Multi-Cinema, Inc., a company incorporated under the laws of the State of Missouri and having a principal place of business at 920 Main Street, [[Address 1: Address]] (“**Licensee**”).
 
-\centered **CHINA FOR-GEN CORP.**
+\centered **RECITALS**
 
-\centered Under Section 245
+**WHEREAS**, RealD owns certain equipment and related proprietary rights evidenced by, associated with, embodied in, or related to, a 3-D cinema system for the delivery of premium 3-D content, including RealD projector add-ons, the related equipment, software and other proprietary rights described on Schedule A hereto, and certain upgrades described herein (collectively, and inclusive where applicable hereunder of the RealD XL Cinema System and the lens assembly for use in the single projection system described further in and subject to Schedule A hereto, the “**RealD System**”);
 
-\centered of the
+**WHEREAS**, Licensee, through itself and its subsidiaries, is the operator of theatre venues primarily in the United States, Canada and the European Union (collectively, the “**Territory**”), and wishes to obtain the right to use the RealD System in certain of such theatre venues; and
 
-\centered General Corporation Law of the State of Delaware
+**WHEREAS**, Licensee and RealD previously entered into that certain RealD 1.0 System License Agreement dated as of [[Date 3: Date]] (the “**Prior License Agreement**”), Restated RealD System License Agreement (2009) dated [[Date 4: Date]] (the “**First Restated Agreement**”), Amendment to Restated RealD System License Agreement (2009) and Prior License Agreement dated [[Date 5: Date]] (the “**Amendment**”), Second Amendment to Restated RealD System License Agreement (2009) dated [[Date 6: Date]] (the “**Second Amendment**”) and the Proposal dated [[Date 2]] (the “**Proposal**”), and now, subject to certain conditions precedent contained below, wish to terminate the Prior License Agreement, the First Restated Agreement, the Amendment, the Second Amendment and the Proposal and enter into the Agreement as provided herein.
 
-**CHINA FOR-GEN CORP****.** (the "Corporation'') does hereby certify as follows:
+\centered **AGREEMENT**
 
-**First****:** The name of the Corporation is China For-Gen Corp. which is the name by which it was originally incorporated.
+**NOW**, **THEREFORE**, in consideration of the mutual promises set forth herein and for other good and adequate consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
 
-**Second****:** The Certificate of Incorporation of the Corporation was filed with the Secretary of the State of Delaware, on the [[Date 1: Date]] and an Amended and Restated Certificate of Incorporation of the Corporation was filed with the Secretary of the State of Delaware on [[Date 2: Date]].
+^GRANT OF RIGHTS
 
-**Third:** This Second Amended and Restated Certificate of Incorporation was duly adopted in accordance with Section 245 of the General Corporation Law of Delaware and restates and amends the provisions of the Corporations Certificate of Incorporation.
+^^License of RealD System. Subject to the terms and conditions provided herein (including the consideration payable pursuant to Section 5 hereof), RealD hereby grants to Licensee the right and license to use a RealD System at each auditorium (individually, an “**Auditorium**” and, collectively, the “**Auditoriums**”) listed on Schedule 1.1 hereto (each an “**Equipment Schedule**”), as updated by the parties from time to time to reflect additional installations of RealD Systems. The theatre venues (e.g., a multiplex theatre) at which the Auditoriums are located (each, a “**Location**”) are also specified on Schedule 1.1. More than one Auditorium may be located at one Location. When the installation of a RealD System at an Auditorium is complete in accordance with Section 2.1 (“**Installation Date**”), Schedule 1.1 shall be updated by the parties to reflect such Installation Date. The parties may add additional RealD System(s) under the terms of this Agreement, by mutual agreement, by adding the Auditorium(s), Location(s) and other information required by Schedule 1.1 for the additional Auditorium(s) to Schedule 1.1, and initialing and dating such updated Schedule 1.1 as of the applicable Installation Date(s) for such Auditorium(s).
 
-**Fourth:** The text of the Second Amended and Restated Certificate of Incorporation of the Corporation is hereby restated and amended to read in full as follows:
+^^Lease of RealD Equipment. Subject to the terms and conditions provided herein (including the consideration payable pursuant to Section 5 hereof), RealD leases to Licensee the RealD equipment and personal property described on Schedule A (together with any replacement parts, replacements, additions, modifications and repairs incorporated therein and/or affixed thereto, individually or collectively, from time to time (the “**Equipment**”). For purposes of clarification, the Equipment shall specifically also include each upgrade to the software and hardware described on Schedule A that a reasonable person would determine affects the viewing experience of the general public or that otherwise enhances the reliability or operation of the Equipment (“**Upgrade(s)**”).
 
-**FIRST:** The name of the Corporation is **China For-Gen Corp.**
+^^Licensee Requirements. [***]
 
-**SECOND:** The address of the registered agent and registered office of this Corporation in this state is 1811 Silverside Road, in the City of Wilmington, County of New Castle, State of Delaware 19810; and the name of the registered agent at said address is Vcorp Services.
+^^Limitations on Use of RealDSystem. [***] in each case conditioned by proprietary RealD software (or other software approved by RealD) (“**Ghostbusting**”). RealD and Licensee agree to use commercially reasonable efforts to ensure that all such 3D Shows have been conditioned by such Ghostbusting software or another method of RealD conditioning in the projector, server or separate processor approved in each case by RealD. For purposes of (a) above, “feature presentation” means content that is exhibited more than three (3) showings per day, and for a period in excess of one (1) week. 
 
-**THIRD:** The purpose of the Corporation is to engage in any lawful act or activity for which corporations may be organized under the General Corporation Law of Delaware.
+^^[***]
 
-**FOURTH:** (a) The total number of shares of all classes of capital stock which the Corporation shall have authority to issue is FIFTY-TWO MILLION SHARES (52,000,000), of which (i) TWO MILLION (2,000,000) shares shall be shares of preferred stock of the par value of $.001 per share (hereinafter called "Preferred Stock”), of which FIVE HUNDRED THOUSAND (500,000) shares of preferred stock shall be designated as Series A Convertible Preferred Stock and shall have the rights attached hereto as **Exhibit A**; and (ii) FIFTY MILLION (50,000,000) shares shall be shares of common stock of the par value of $.001 per share (hereinafter called "Common Stock”). Any amendment to this Second Amended and Restated Certificate of Incorporation which shall increase or decrease the authorized capital stock of the Corporation may be adopted by the affirmative vote of the holders of capital stock representing not less than a majority of the voting power represented by the outstanding shares of capital stock of the Corporation entitled to vote. Except as otherwise required by law or as otherwise provided in any preferred stock designation, the holders of the Common Stock shall exclusively posses all voting power, and each share of Common Stock shall have one vote.
+^INSTALLATION, MAINTENANCE, SUPPORT AND UPGRADES
 
-^^The designations and the power, preferences and rights, and the qualifications, limitations or restrictions thereof of the Preferred Stock (other than the Series A Convertible Preferred Stock) shall be as follows:
+^^Installation. After the Screen and the Port Glass have been installed pursuant to Section 1.3 above, RealD shall install, or designate a qualified contractor to install (in each case at the sole cost and expense of RealD), the RealD Systems and Equipment at each Auditorium at such times as mutually agreed by the parties. Any third party contractor selected by RealD to perform such installation shall be subject to the approval of Licensee, which approval shall not be unreasonably withheld. Upon completion of the installation of the Equipment at an Auditorium, RealD, or its designated contractor, shall, in coordination with, and under the supervision of, Licensee’s technical services personnel, test the RealD System to ensure the operability of the RealD System in accordance with the applicable specifications of the RealD System.
 
-The Board of Directors is expressly authorized at any time, and from time to time, to provide for the issuance of shares of Preferred Stock in one or more series, voting powers and with such designations, preferences and relative, participating, optional or other special rights and qualifications, limitations or restrictions thereof, as shall be stated and expressed in the resolution or resolutions providing for the issue thereof adopted by the Board of Directors, and as are not stated and expressed in this Second Amended and Restated Certificate of Incorporation, or any amendment thereto, including (but without limiting the generality of the foregoing) the following:
+^^Maintenance, Support and Upgrades. RealD shall, during mutually agreed hours (and at the sole cost and expense of RealD), maintain and support the RealD System at each Auditorium to ensure that the RealD System is fully functional and operational. RealD shall promptly respond to Licensee’s request for maintenance and support in a timely manner. RealD shall promptly perform all software Upgrades as such Upgrades are released and shall promptly notify Licensee of hardware Upgrades, if any, and promptly perform such hardware Upgrades at such times as are mutually agreeable to the parties. For purposes of this Section 2.2, the parties acknowledge and agree that (a) a service response by RealD within four (4) hours of receipt of a service call from Licensee shall be deemed to be response in a timely manner, and (b) response in a timely manner may change as a result of the standards set from time to time by the industry group Digital Cinema Initiatives.
 
-^^the designation of such series;  
-^^the dividend rate of such series, the conditions and dates upon which such dividends shall be payable, the preference or relation which such dividends shall bear to the dividends payable on any other class or classes or on any other series of any class or classes of capital stock and whether such dividends shall be cumulative or non- cumulative;
+^^Obligations of Licensee. Licensee shall at all times operate the RealD System in substantial compliance with the instructions and training (if necessary) provided by RealD, and shall use each item of Equipment (other than Screens) solely in connection with the RealD System and solely for its intended purpose. Licensee shall not make any alterations, additions or improvements to the RealD System without the prior written consent of RealD (which may be withheld in its sole and absolute discretion). Licensee shall not remove any labels or notices of ownership placed on the RealD System by RealD without the prior written consent of RealD, which may be withheld in its sole and absolute discretion. Licensee shall not move or otherwise relocate the RealD System without the prior written consent of RealD, which shall not be unreasonably withheld or delayed. Programming decisions shall remain exclusively with Licensee, and nothing in this Agreement shall create an obligation on Licensee to exhibit all or any theatrical releases available in 3D.
 
-^^whether the shares of such series shall be subject to redemption by the Corporation, and, if made subject to such redemption, the times, prices and other terms and conditions of such redemption;
+^^Approval of Location. Licensee shall not use all or any part of the RealD system or the Equipment at any location or auditorium that is not approved by RealD, which approval shall not be unreasonably withheld or delayed.
 
-^^the terms and amount of any sinking fund provided for the purchase or redemption of the shares of such series;
+^RELATED PRODUCTS AND SERVICES
 
-^^whether or not the shares of such series be convertible into or exchangeable for shares of any other class or classes or of any other series of any class or classes of capital stock of the Corporation, and if provision be made for conversion or exchange, the times, prices, rates, adjustments and other terms and conditions of such conversion or exchange;
+^^RealD Glasses. Licensee acknowledges and understands that an integral part of the RealD System is the stereoscopic glasses sold or approved by RealD to be worn for viewing the 3D Shows. Licensee shall not distribute to patrons glasses, or other stereoscopic viewing materials, other than RealD Glasses (as defined below), for use in viewing a 3D Show with the RealD System. [***] (“**Guidelines**”), and Licensee shall comply with such Guidelines in all material respects, including the Guidelines included therein relating to the washing and care of such [***]
 
-^^the extent, if any, to which the holders of the shares of such series shall be entitled to vote as a class or otherwise with respect to the election of the directors or otherwise;
+[***]. For purchases of RealD Glasses by Licensee, (a) Licensee shall pay [***], (b) Licensee shall place orders for RealD Glasses as soon as practicable prior to the required delivery date, and (c) RealD shall deliver all orders of RealD Glasses in accordance with the Licensee’s requirements; provided, that RealD shall not be responsible for delays or failures of delivery due to circumstances not within the reasonable control of RealD. Licensee may return surplus generic RealD Glasses (in their original unopened packaging) to RealD, in return for a credit in the amount paid by Licensee for such glasses.
 
-^^the restrictions, if any, on the issue or reissue of any additional Preferred Stock; and
+^MARKETING
 
-^^The rights of the holders of the shares of such series upon the dissolution of, or upon the distribution of assets of, the Corporation.
+^^Press Launch. RealD may engage in a press launch approved by Licensee, such approval not to be unreasonably withheld, for the opening of the RealD System at each Location, and Licensee agrees to cooperate with RealD (at the sole cost and expense of RealD), in connection with such press launch, including making each Location available for press conferences and related events at mutually agreed times. Licensee agrees to issue a joint press release with RealD, in a form and substance that has been mutually agreed to by RealD and Licensee, in connection with each significant event related to the transactions contemplated by this Agreement.
 
-**FIFTH:** The by-laws may be made altered amended or repealed by the Board of Directors. The books of the Corporation (subject to the provisions of the laws of the State of Delaware) may he kept outside of the State of Delaware at such places as from time to time may be designated by the Board of Directors.
+^^Ongoing Promotion. Each party may promote its relationship with the other party in advertising, promotional and marketing materials approved by the other party, [***]. Each party agrees to comply with the other party’s guidelines, which the other party may reasonably request from time to time with respect to the use of the other party’s name or logo. Each party agrees (i) that it will not acquire rights to any of the other party’s trade names, trademarks, logos (other than as set forth herein), goodwill or other form of intellectual property of the other party, and (ii) not to use the other party’s trademarks, trade names, logos (other than as set forth herein), goodwill or other form of intellectual property of the other party, except as provided in this Agreement or with the prior written consent of the other party.
 
-**SIXTH:** (a) No director of the Corporation shall be personally liable to the Corporation or its stockholders for monetary damages for breach of fiduciary duty as a director to the fullest extent that the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended permits the limitation or elimination of the liability of directors.
+^^Marketing Cooperation. Licensee and RealD shall endeavor to mutually agree on the marketing and promotional efforts for the 3D Shows and the RealD System. RealD acknowledges that Licensee has no obligation to engage in any specific promotional activities, and that both in-theatre or on-screen advertising will be subject to Licensee’s pre-existing agreement with National CineMedia, L.L.C.
 
-^^The Corporation shall have the power to indemnify any director, officer, employee or agent of the Corporation or any other person who is serving at the request of the Corporation in any such capacity with another corporation, partnership, joint venture, trust or other enterprise (including, without limitation, any employee benefit plan) to the fullest extent permitted by the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended, and any such indemnification may continue as to any person who has ceased to be director, officer, employee or agent and may inure to the benefit of the heirs, executors and administrators of such a person.
+^FINANCIAL TERMS
 
-^^By action of its Board of Directors. notwithstanding any interest of the directors in the action, the Corporation may purchase and maintain insurance in such amounts as the Board of Directors deems appropriate, to protect any director, officer, employee or agent of the Corporation or any other person who is serving at the request of the Corporation in any such capacity with another corporation, partnership, joint venture, trust or other enterprise (including, without limitation any employee benefit plan) against any liability asserted against him or incurred by him in any such capacity or arising out of his status as such (including. without limitation, expenses, judgments, fines and amounts paid in settlement) to the fullest extent permitted by the General Corporation Law of the State of Delaware as it exists on the date hereof or as it may hereafter be amended, and whether or not the Corporation would have the power or would be required to indemnify any such person under the terms of any agreement or by-law or the General Corporation Law of the State of Delaware. For purposes of this paragraph (c), "fines" shall include any excise taxes assessed on a person with respect to any employee benefit plan.
+^^Royalties and License Fees.
 
-**SEVENTH**: Whenever the vote of holders of shares of any class or series at a meeting thereof is required or permitted to be taken for or in connection with any corporate action by any provision of the General Corporation Law of the State of Delaware, the meeting and vote of such stockholders may be dispensed with if such action is taken with the written consent of such holders representing not less than a majority of the voting power of all the capital stock of such class or series entitled to be voted upon such action if a meeting were held; provided that in no case shall the written consent be by such holders having less than the minimum percentage of the vote required by statute for such action and provided that prompt notice is given in writing to all such stockholders entitled to vote thereon of the taking of corporate action without a meeting and by less than unanimous written consent.
+^^[***] For each paid admission to a 3D Show at each Auditorium [***] that is then using the RealD System, excluding any paid admission for which Licensee refunds the price therefore (each, a “[***]”), Licensee will pay to RealD a royalty [***]
 
-**EIGHTH**: The number of directors of the Corporation shall be such as from time to time shall be fixed by or in the manner provided in the by-laws. Election of directors need not be by ballot unless the by-laws so provide.
+^^With respect to each Location [***] which has [***] Auditoriums that is then using a RealD System (each such Location, an [***]
 
-**NINTH:** The Board of Directors shall have power without the assent or vote of the stockholders:
+[***]
 
-^^to fix and vary the amount of capital to be reserved for any proper purpose;
+^^[***]
 
-^^to authorize and cause to be executed mortgages and liens upon all or any part of the property of the Corporation;
+^[***]
 
-^^to determine the use and disposition of any surplus or net profits;
+^[***]
 
-^^to fix the times for the declaration and payment of dividends;
+^^[***] Each of Licensee and RealD acknowledges and agrees that, in no event, and at no time, shall [***]
 
-^^to determine from time to time whether, and to what times and places, and under what conditions the accounts and books of the Corporation (other that the stock ledger) or any of them, shall be open to the inspection of the stockholders:
+^^Reports and Payments. Within [***] (“Play Month”), Licensee shall provide RealD with a report showing the number of [***]. Within [***] days thereafter, RealD shall invoice Licensee for such Play Month [***] in accordance with such report. Payment in full of any amounts due will be made within [***] days of the date of such invoice.
 
-^^the directors in their discretion may submit any contract or act for approval or ratification at any annual meeting of the stockholders, at any meeting of the stockholders called for the purpose of considering any such act or contract, or through a written consent in lieu of a meeting in accordance with the requirements of the General Corporation Law of Delaware as amended from time to time and any contract or act that shall be so approved or be so ratified by the vote of the holders of a majority of the stock of the Corporation which is represented in person or by proxy at such meeting (or by written consent whether received directly or through a proxy) and entitled to vote thereon (provided that a lawful quorum of stockholders be represented in person or by proxy) shall be as valid and as binding upon the Corporation and upon all the stockholders as though it had been approved, ratified or consented to by every stockholder of the Corporation, whether or not the contract or act would otherwise be open to legal attack because of any directors’ interest or for any other reason.
+^^Audit Rights. Licensee shall maintain for [***] years after the expiration of each calendar year during the Term and for [***] years after termination of this Agreement, complete and accurate records of all reports which may give rise to a payment obligation under this Agreement during the [***] immediately preceding calendar years. RealD shall have the right to inspect, at RealD’s expense (except as provided below) and upon reasonable prior written notice to Licensee and during normal business hours, the records of Licensee upon which Licensee’s Paid Admissions and Royalty calculations are based. Such inspection shall be conducted in a manner that does not interfere with Licensee’s operations. Notwithstanding the foregoing, RealD shall be permitted to exercise the foregoing inspection right not more than one time per calendar year. Any information obtained by RealD as a result of such inspection shall be held in strict confidence by RealD, except in litigation between the parties. In the event such audit reveals an underpayment to RealD, then Licensee shall promptly pay RealD the amount of such underpayment. [***]
 
-^^in addition to the powers and authorities hereinafter or by statute expressly conferred upon them, the directors are hereby empowered to exercise all such powers and do all such acts and things as may be exercised or done by the Corporation; subject, nevertheless, to the provisions of the statutes of Delaware, of this Certificate of Incorporation, and to any by-laws from time to time made by the stockholders; provided, however, that no by-law so made shall invalidate any prior act of the directors which would have been valid if such by-law had not been made.
+^^Duties and Taxes. [***]
 
-**TENTH:** The Corporation reserves the right to amend, alter, change or repeal any provision contained in this Second Amended and Restated Certificate of Incorporation, in the manner now or hereafter prescribed by statute, and all rights conferred upon stockholders herein are granted subject to this reservation.
+^^Transmission of Payments. All payments to be made to RealD pursuant to this Agreement shall be transmitted by electronic funds transfer (“**EFT**”) to an account designated by RealD. Any EFT, wire transfer or other transaction fees incurred in connection with the payment or transmittal of funds by Licensee shall be paid by Licensee and shall not be deducted from amounts payable to RealD under this Agreement.
 
-**ELEVENTH:** This Second Amended and Restated Certificate of Incorporation his been duly approved by the Board of Directors of the Corporation.
+^^Late Fee. In the event that any payment required under this Agreement is not paid within [***] days after the date when such payment is due, a late charge equal to [***] of the payment then due may be added to such payment by RealD and shall be paid concurrently with the overdue payment.
 
-**TWELFTH:** This Second Amended and Restated Certificate of Incorporation has been duly adopted in accordance with the provisions of Sections 228, 242 and 245 of the General Corporation Law of the State of Delaware by the stockholders of the Corporation. The required percentage of the outstanding shares of Common Stock approved this Second Amended and Restated Certificate of Incorporation by written consent in accordance with Section 228 or the General Corporation Law of the State of Delaware and written notice of such was given by the Corporation in accordance with said Section 228.
+^^Stock Option Grant. Upon execution of this Agreement, RealD shall provide documentation (in the form of Exhibit A) to Licensee that evidences the amended grant, pursuant to this Section 5.7, to Licensee of an option to purchase [[Shares 1: Number]] shares of Common Stock of RealD previously granted to Licensee pursuant to that certain Nonqualified Stock Option Grant dated [[Date 7: Date]] and related stock option agreement (the “**Option**”). The Option shall have an exercise price of U.S. $[[USD Value 1: Number]] per share, and shall have a term of ten (10) years. [***]
 
-**THIRTEENTH**: Whenever a compromise or arrangement is proposed between this Corporation and its creditors or any class of them and/or between this Corporation and its stockholders or any class of them, any court of equitable jurisdiction within the State of [[State of Formation: State]] [[Organization: EntityType]] or of any creditor or stockholder thereof or on the application of any receiver or receivers appointed for this Corporation under Section 291 of Title 8 of the [[State of Formation: State]] [[Organization: EntityType]] under Section 279 of Title 8 of the [[State of Formation: State]] [[Organization: EntityType]], as the case may be, to be summoned in such manner as said court directs. If a majority in number representing three fourths in value of the creditors or class of creditors, and/or of the stockholders or class of stockholders of this Corporation, as the case may be, agree to any compromise or arrangement and to any reorganization of this Corporation as a consequence of such compromise or arrangement, said compromise or arrangement and said reorganization shall, if sanctioned by the court to which said application has been made, be binding on all the creditors or class of creditors, and/or on all the stockholders or class of stockholders, of this Corporation, as the case may be, and also on this Corporation.
+^^[***]
 
-IN WITNESS WHEREOF, the Corporation has caused this certificate to be signed by its authorized officer as of this [[Date 3: Date]].
+^OWNERSHIP AND PROPRIETARY RIGHTS
 
-**CHINA FOR-GEN CORP.**
+^^Ownership of RealD System. Notwithstanding anything to the contrary expressed or implied in this Agreement or otherwise, and regardless of whether the RealD System may become affixed or attached at the Auditorium or other property, RealD retains all right, title and interest in and to the RealD System and the Equipment, including without limitation all intellectual property rights associated therewith and any developments or improvements arising therefrom. Licensee shall have no right, title or interest in the RealD System or the Equipment, or any intellectual property or other rights associated therewith or any developments or improvements arising therefrom, other than those that are expressly licensed pursuant to the terms of this Agreement. While the RealD System and the Equipment is within its possession, Licensee shall keep the RealD System, including the Equipment, free and clear of all liens, encumbrances and charges of any nature caused by Licensee. Upon request of RealD and at RealD’s cost, Licensee shall mark the RealD System and the Equipment to indicate the nature of Licensee’s interest therein. The RealD System and the Equipment is, and at all times shall remain, the personal property of RealD. Licensee shall not permanently affix or attach the RealD System or the Equipment to any real property or permanent improvement thereon. For the avoidance of doubt, the RealD System does not include the Screen, the Port Glass or any digital projection system to which it may be attached.
 
-[[CHINA FOR-GEN CORP. Signatory Email: Identity | Signature]]
+^^License Restrictions. Except as otherwise expressly provided in this Agreement, RealD grants, and Licensee obtains, no rights, title or other interest, express, implied, or by estoppel, in the RealD System, the Equipment or any proprietary rights of RealD, and Licensee shall have no right, and specifically agrees not to (i) copy, display, transfer, adapt, modify, distribute or reproduce, in any manner, and whether in tangible or intangible form, the RealD System, the Equipment or any part or component of either, (ii) decompile, decrypt, reverse engineer, disassemble or otherwise determine, attempt to determine or reduce the software contained in the RealD System to human-readable form; (iii) modify or create derivative works of any portion of the RealD System; (iv) except as provided in Section 10.1, sublease, sublicense, transfer or assign any part of the RealD System or the Equipment; or (v) modify or remove any part of the RealD System, or use any firmware, middleware or software included in the Equipment or the RealD System or otherwise provided by RealD, other than solely with the RealD System, and agrees not to permit or authorize anyone else to do any of the foregoing. To the extent that Licensee owns any rights to any modification or improvement of the RealD System by operation of law or otherwise, Licensee hereby assigns all such rights to RealD for a consideration of U.S. $[[USD Value 2: Number]], the receipt of which is hereby acknowledged by Licensee.
+
+^^Protection of Proprietary Information. Licensee agrees and acknowledges that (i) RealD has expended and will continue to expend substantial time, money and effort developing the proprietary rights evidenced by, associated with or embodied in or related to the RealD System, (ii) Licensee will take commercially reasonable steps to preserve the proprietary information contained in the RealD System and the Equipment, and (iii) Licensee will take commercially reasonable steps to assist RealD’s efforts to prevent any theft, unauthorized use, or misappropriation of the RealD System and the Equipment, by, among other things, at all times maintaining the RealD System and the Equipment at a locked and secured location, with access restricted to persons employed by Licensee with a need to access the RealD System and the Equipment or such location. Licensee agrees that it will promptly notify RealD of any loss, theft, unauthorized use, or misappropriation of the RealD System.
+
+^^Right to Inspect Locations. Licensee shall permit RealD, or RealD’s agents, to enter Licensee’s Locations at mutually agreed times to determine Licensee’s adherence to the terms and conditions of this Agreement. Such inspection shall be conducted in a manner that does not interfere with Licensee’s operations. Notwithstanding the foregoing, RealD shall be permitted to exercise the foregoing inspection right not more than twice per calendar year. Any information obtained by RealD as a result of such inspection shall be held in strict confidence by RealD, except in litigation between the parties.
+
+^^Additional Filings; Cooperation. Licensee shall execute such documents, render such reasonable assistance, and take such other action as RealD may reasonably request, at RealD’s expense, to apply for, register, perfect, confirm and protect RealD’s rights in the Equipment and/or the RealD System. Licensee acknowledges that the trade names, trademarks and service marks used by RealD in relation to the Equipment and the RealD System which are listed on Schedule A are the exclusive property of RealD (the “**RealD Trademarks**”). Licensee agrees that it shall not file any trademark or service mark applications which are confusingly similar to the RealD Trademarks, and will not hold itself out as having acquired any proprietary right or goodwill to any of the RealD Trademarks by virtue of its use pursuant to this Agreement.
+
+^REPRESENTATIONS AND WARRANTIES
+
+^^Representations. Each party represents and warrants to the other party that: (i) such party is duly organized and validly existing under the laws of the state of its incorporation or formation and has full power and authority to enter into this Agreement and to carry out the provisions hereof; (ii) this Agreement is a legal and valid obligation of such party, binding upon such party and enforceable against such party in accordance with the terms of this Agreement; and (iii) it has the right to enter into this Agreement and grant the rights granted herein. RealD further represents and warrants that (a) RealD owns or has the right to use and sublicense all necessary intellectual property rights in the RealD System, including all necessary patents and trademarks; and (b) the RealD System does not, and will not, infringe on the intellectual property rights of any third party. RealD shall defend, indemnify, and hold harmless Licensee and its affiliates from and against any and all losses, obligations, risks, costs, claims, liabilities, settlements, damages, liens, judgments, awards, fines, penalties, expenses and other obligations whatsoever (including, without limitation, the reasonable fees and disbursements of attorneys and of any consultants or experts and their expenses of investigation) (“**Costs**”) suffered or incurred by Licensee or its affiliates in connection with, as a result of, based upon, or relating to, any infringement, violation, misappropriation, or misuse of any third-party intellectual property rights by RealD.
+
+^^DISCLAIMER OF ADDITIONAL REPRESENTATIONS AND WARRANTIES. EXCEPT AS SPECIFICALLY SET FORTH HEREIN, REALD MAKES NO OTHER REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, WITH RESPECT TO THE REALD SYSTEM, AND DISCLAIMS ALL OTHER REPRESENTATIONS AND WARRANTIES, INCLUDING WITHOUT LIMITATION ANY REPRESENTATIONS AND WARRANTIES OF MERCHANTABILITY.
+
+^^LIMITATION OF LIABILITY. WITHOUT LIMITING THE GENERALITY OF SECTION 7.2, BUT SUBJECT TO THE OTHER TERMS OF THIS AGREEMENT (INCLUDING, WITHOUT LIMITATION, REALD’S OBLIGATION TO INDEMNIFY LICENSEE FOR ALL INDEMNIFIABLE COSTS UNDER SECTION 7.1 OF WHATEVER CHARACTER), AND APPLICABLE LAW, NEITHER PARTY SHALL BE LIABLE OR RESPONSIBLE FOR ANY INDIRECT OR CONSEQUENTIAL LOSS OR DAMAGE TO PERSONS OR PROPERTY RESULTING FROM A BREACH OF THIS AGREEMENT, OR FOR LOSS OF USE OF THE EQUIPMENT OR THE REALD SYSTEM OR FOR ANY INTERRUPTION IN BUSINESS CAUSED BY LOSS OF USE OF THE EQUIPMENT OR THE REALD SYSTEM FOR ANY REASON WHATSOEVER; PROVIDED THAT, IN ACCORDANCE WITH THE LAST SENTENCE OF SECTION 7.1, REALD SHALL INDEMNIFY LICENSEE FOR ALL COSTS OF ANY NATURE REFERRED TO THEREIN.
+
+^^[***]
+
+[***]
+
+^CONFIDENTIALITY
+
+^^Confidential Information. By virtue of this Agreement, each party may have access to certain confidential information of the other party (“**Confidential Information**”). In particular, each party acknowledges, understands and agrees that the terms and provisions of this Agreement (including without limitation, Section 5.7 contained herein), shall constitute Confidential Information for all purposes of this Section 8.1 and of all other terms and provisions of this Agreement. Each party agrees to hold the other party’s Confidential Information in strict confidence, using the same degree of care it uses with its own Confidential Information of a similar type (but in no event using less than a reasonable degree of care) and not to publish, disclose or otherwise make available, directly or indirectly, the other party’s Confidential Information or any part thereof to any third party, or use the other party’s Confidential Information for any purpose other than in accordance with this Agreement, except as required by law, or in connection with any litigation, mediation or arbitration between the parties, without the other party’s prior written consent. Each party shall disclose Confidential Information to employees and agents only on a “need to know” basis. Each party shall take all reasonable steps to ensure that the other party’s Confidential Information is not disclosed or distributed by the receiving party’s agents or employees in violation of the provisions of this Agreement. Confidential Information does not include any information that: (i) was in a party’s possession or known to such party, without an obligation to keep it confidential; (ii) is or becomes public knowledge other than by disclosure by a party in violation of this Section 8.1; or (iii) is or becomes lawfully available to a party from a source other than the other party, which to such party’s knowledge was not bound by any duty or obligation of confidentiality.
+
+^TERM AND TERMINATION
+
+^^Term. This Agreement shall commence and become effective on the Effective Date and continue until the latest termination date set forth on an Equipment Schedule, unless terminated earlier as provided under this Agreement. The Initial Term as to a specific Location shall be [***] years from the Installation Date for that Location (the “**Initial Term**”). Licensee shall have the right to renew as to a Location for successive [***] year terms (“**Renewal Term(s)**”) by providing written notice to RealD of such renewal for a Location at least [***]) days prior to the expiration of the Initial Term or, thereafter, [***] days prior to the expiration of the Initial Renewal Term or then current Renewal Term as to such Location. For purposes of Section 5.8 and this Section 9.1, the “**Initial Renewal Term**” means the first [***] term immediately after the Initial Term. The Initial Term, the Initial Renewal Term and any Renewal Term(s) shall be collectively referred to as the “**Term**”.
+
+^^Events of Default. The occurrence of any of the following events shall constitute an “**Event of Default**” hereunder:
+
+^^if any party fails to make any payment due hereunder, within ten (10) days of notice of failure to make such payment;
+
+^^a material breach by the other party of any representation or warranty or any of its obligations hereunder, including but not limited to Section 2.2, other than a breach of a party’s payment obligations which is governed by Section 9.2(a), upon thirty (30) days’ prior written notice to the breaching party if such breaching party fails to remedy such breach within such thirty (30) days, or, in the event such breach cannot be remedied within such thirty (30) days, if such breaching party has not undertaken substantial good faith efforts to remedy such breach within such thirty (30) day period and is continuing in good faith with such efforts;
+
+^^the making of an assignment by a party for the benefit of their respective creditors or the admission by a party in writing of its inability to pay its debts as they become due, or the filing by a party of a voluntary petition in bankruptcy, or the adjudication of a party as bankrupt or insolvent, or the filing by a party of any petition or answer seeking for itself any reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief under any present or future statute, law or regulation, or the filing of any answer by a party admitting, or the failure by a party to deny, the material allegations of a petition filed against it for any such relief, or the seeking or consenting by a party to, or acquiescence by a party in, the appointment of any trustee, receiver or liquidator of either party or of all or any substantial part of the properties or assets of a party; and
+
+^^within ninety (90) days after the commencement of any proceedings against a party seeking reorganization, arrangement, composition, readjustment, liquidation or similar relief under the federal bankruptcy laws or any similar federal or state statute, law or regulation, such proceedings shall not have been dismissed, or if within ninety (90) days after the appointment without a party’s consent or acquiescence of any trustee, custodian, receiver or liquidator for the RealD Systems, such party or any substantial part of a party’s assets or properties, such appointment shall not have been vacated.
+
+^^Remedies. Upon the occurrence and during the continuation of any Event of Default, the non-defaulting party may, at its option, declare this Agreement to be in default, and may exercise any remedy available to it, at law or in equity, including the remedies below, as such non-defaulting party in its sole and absolute discretion may elect, it being the intention of both parties that all of such remedies are cumulative and will not limit any other rights or remedies a non-defaulting party may have hereunder, at law or in equity:
+
+^^proceed by appropriate court action, either at law or in equity, to recover any and all damages and expenses, including reasonable attorney’s fees and costs, which the non-breaching party will have sustained by reason of such Event of Default or on account of such party’s enforcement of its remedies hereunder; or
+
+^^terminate this Agreement in its entirety or only with respect to one or more Locations (in which event, if RealD is the party exercising this remedy, it may retake possession of the RealD Systems affected thereby).
+
+^^Effect of Termination. In the event that this Agreement is terminated pursuant to Section 9.2(a) or (b), the duties and obligations of the breaching party which have accrued prior to termination shall not be released or discharged by such termination. Any licenses or other rights granted the non-breaching party shall continue in effect at the option of the non-breaching party as long as the non-breaching party abides by the terms of the surviving provisions of this Agreement, including but not limited to the obligation to make payments required hereunder. Sections 5.1 and 5.2 (as they pertain to Play Months ending on or before the termination date) 5.3, 5.4, 5.5, 5.6, 5.7, 5.8, 6, 7, 8 and 10 and this Section 9 shall survive termination of this Agreement under Section 9.2 (a) or (b).
+
+^^Surrender. At the expiration or earlier termination of this Agreement, Licensee shall relinquish possession and control of the RealD System, including the Equipment (but excluding the Screen). Upon the expiration of the Initial Term or a Renewal Term, as applicable, or the earlier termination of this Agreement, RealD shall have the right, at its sole cost and expense, to retake possession of any or all of the RealD Systems (but excluding the Screen), and for such purpose RealD shall have the right to enter upon any premises where any or all of the RealD Systems is located at mutually agreed upon times by RealD and Licensee and remove same. Such removal must be performed under supervision of Licensee. RealD shall repair all damage to the Auditoriums or the Location, digital projectors and/or pedestals caused by RealD’s removal of such RealD System. If RealD fails to remove the RealD System within thirty (30) days of the expiration or earlier termination of the applicable Equipment Schedule, Licensee may remove and store such RealD System and any expenses incurred by Licensee as a result of such removal shall be paid by RealD to Licensee within thirty (30) days of RealD’s receipt of an invoice. If RealD fails to reclaim such RealD System within ninety (90) days of expiration or earlier termination of the applicable Equipment Schedule, Licensee may sell or destroy such RealD System without any further liability or obligation to RealD. This provision shall survive the expiration or earlier termination of this Agreement or the applicable Equipment Schedule.
+
+^^Termination of Prior License Agreement, First Restated Agreement, the Amendment, the Second Amendment and the Proposal, and Treatment of RealD Systems Currently Installed in the Pre-Existing Auditoriums. Each of Licensee and RealD acknowledges and agrees that, on the Effective Date, the Prior License Agreement, the First Restated Agreement, the Amendment, the Second Amendment and the Proposal (each of which are defined in the third recital of this Agreement) shall be terminated and of no further force or effect; provided, that, notwithstanding the foregoing: (a) [***]
+
+^GENERAL
+
+^^Assignment. Neither party may assign or transfer its rights and obligations under this Agreement without the other party’s prior written consent, which consent shall not be unreasonably withheld; provided, however, that (a) either party may assign all of its right, title and interest under this Agreement to any (i) person or entity with which such party is merged or consolidated, or (ii) person or entity that acquires all or substantially all of the assigning party’s assets or equity securities of whatever type, (b) Licensee may assign its right, title and interest under this Agreement to any affiliate of Licensee that becomes the primary operating entity of substantially all of Licensee’s theatres, and (c) RealD may assign its right, title and interest under this Agreement to any entity that provides debt or equity financing to RealD, as full or partial security to such entity in connection with such financing. Each party shall give the other party written notice of any assignment permitted under this Section 10.1. This Agreement shall bind, inure to the benefit of and be enforceable by the successors and permitted assigns hereto. Notwithstanding anything to the contrary contained herein, RealD may assign and transfer this Agreement and its right, title, and interest hereunder without the written consent of, or notice to, Licensee in connection with any transaction effected solely to change RealD’s state of incorporation.
+
+^^Relationship of Parties. The parties to this Agreement are independent contractors, and this Agreement shall not establish any relationship of partnership, joint venture, employment, franchise, or agency between the parties. This Agreement does not give either party the power to bind the other or incur obligations on the other’s behalf without the other’s prior written consent.
+
+^^Counterparts; Facsimile Signatures. This Agreement and any amendment hereto may be executed in counterparts, and by using facsimile signature pages, each of which when executed and delivered shall be deemed an original and all of which taken together shall constitute one and the same instrument.
+
+^^Compliance with Laws. Licensee shall, at its own expense, procure all necessary approvals, licenses, permits, permissions, waivers, certificates and consents that may be required from any governmental authorities (and any lessees or landlords) for the installation and use of the RealD System at the Locations in accordance with the terms of this Agreement.
+
+^^Infringement Notification. Licensee shall promptly give notice to RealD of any allegation, claim or challenge that Licensee’s use of the RealD System infringes on the intellectual property rights of a third party. In the event of a claim of infringement against Licensee relating to the RealD System, RealD shall, at its option (i) secure for Licensee, at the sole cost and expense of RealD, the rights necessary to continue to use and operate the RealD System under this Agreement, (ii) assume control of the defense or settlement of such claim, at the sole cost and expense of RealD, or (iii) terminate this Agreement upon not less than thirty (30) days prior written notice.
+
+^^Injunctive Relief. It is understood and agreed that, notwithstanding any other provision of this Agreement, any breach of Section 6 or Section 8 by either party may cause irreparable damage for which recovery of money damages may be inadequate, and that the non-breaching party will therefore be entitled to seek timely injunctive relief from a court of competent jurisdiction to protect such party’s rights under this Agreement in addition to any and all remedies available at law.
+
+^^Applicable Law; Venue. This Agreement is to be governed by and construed in accordance with the internal laws of the State of California, excluding that body of law pertaining to conflict of laws. The parties expressly agree that the United Nations Convention on Contracts for the International Sale of Goods or the Uniform Computer Information Transactions Act shall not apply to this Agreement.
+
+^^Notices. All notices, consents, waivers, and other communications intended to have legal effect under this Agreement must be in writing, must be delivered to the other party at the address set forth below by personal delivery, by registered or certified mail (postage pre-paid), by an internationally recognized overnight courier, and will be effective upon receipt (or when delivery is refused). Each party may change its address for receipt of notices by giving notice of the new address to the other party.
+
+RealD:   [[RealD]] [[Address 2: Address]]  Attn: Craig S. Gatarz, Executive Vice President and General Counsel
+
+With copies to:   Sheppard Mullin Richter & Hampton LLP 1111 Chapala Street, Third Floor [[Address 3: Address]] Attn: C. Thomas Hopkins, Esq.
+
+Licensee:   American Multi-Cinema, Inc. 920 Main Street [[Address 1: Address]]  Attn: Frank Rash, Senior Vice President, Strategic Development & Marketing
+
+With copies to:   American Multi-Cinema, Inc. 920 Main Street [[Address 1: Address]] Attn: General Counsel
+
+^^Severability. If any provision of this Agreement is unenforceable or invalid under any applicable law or is so held by applicable court decision, such unenforceability or invalidity will not render this Agreement unenforceable or invalid as a whole, and such provision will be changed and interpreted so as to best accomplish the objectives of such unenforceable or invalid provision within the limits of applicable law or applicable court decisions.
+
+^^Jointly Drafted; Review by Counsel. The parties have participated jointly in the negotiation and drafting of this Agreement and have had the opportunity to review this Agreement with counsel of their choosing. In the event an ambiguity or question of intent or interpretation arises, no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement.
+
+^^Entire Agreement; Waiver. This Agreement, together with the schedules and Equipment Schedules hereto, all of which are hereby incorporated by reference, constitutes the entire agreement of the parties regarding its subject matter. The release on page 4 of the Proposal shall remain in full force and effect notwithstanding this Agreement, which otherwise supersedes, except as set forth in Section 9.6, all prior or contemporaneous understandings, agreements, or other communications between the parties, oral or written, regarding such subject matter, including without limitation the Prior License Agreement, First Restated Agreement, the Amendment, the Second Amendment and the Proposal. Neither this Agreement nor the schedules can be altered, amended or modified except in writing executed by both parties. The failure of a party to enforce any provision of this Agreement shall not be construed to be a waiver of the right of such party to thereafter enforce that provision or any other provision or right. Any waiver of any provision of this Agreement must be in writing and executed by the party waiving such provision.
+
+^^Headings. The captions to the several sections of this Agreement are not a part of this Agreement, but are included merely for convenience of reference only and shall not affect its meaning or interpretation.
+
+^^Publicity. Neither party will, without securing the prior written consent of the other, publicly announce the existence of this Agreement hereunder (except as may be required by law or any national securities exchange) or advertise or release any publicity in regard hereto.
+
+^^Auditorium Closures or Changes. Notwithstanding Section 10.1 above, if at any time during the Term of this Agreement, Licensee discontinues operations, through a sale, closure or otherwise, at any Auditorium with respect to which it has executed an Equipment Schedule or elects for whatever reason to move the RealD System from such Auditorium to another Auditorium in the Territory, Licensee shall have the option to terminate the Equipment Schedule with respect to such RealD System and return the RealD System to RealD or alternatively utilize the RealD System located at such Auditorium in any other Auditorium operated by Licensee or its Affiliates which does not have a RealD System in the Territory. If Licensee elects to move the RealD System in accordance with the above, Licensee and RealD shall execute a new Equipment Schedule for the remaining balance of the Term of such terminated Equipment Schedule for the Location in which the RealD System is installed in accordance with the terms of this Agreement. Licensee shall pay the reasonable costs for the installation of the RealD System at the new Auditorium pursuant to this Section 10.14.
+
+^^Location Sales. Notwithstanding Section 10.1 above, if during the Term of this Agreement, Licensee or its Affiliates sell, transfer, convey or assign to a third party their respective interest in any particular Location with respect to which Licensee has executed an Equipment Schedule, Licensee or its Affiliates may elect to terminate the Equipment Schedule with respect to such RealD System and return the RealD System to RealD or transfer the RealD System in such transaction; provided, in the case of a transfer, that such acquirer or transferee (i) is approved by RealD (such approval not to be unreasonably withheld), and (ii) executes and delivers to RealD an agreement approved by RealD containing terms and conditions comparable to the then prevailing RealD agreement for similar companies and an Equipment Schedule for the remaining Term applicable to such RealD System. Upon such transfer, Licensee shall have no further obligation under this Agreement or the Equipment Schedule for such Location.
+
+^^Choice of Language. The parties have requested that this Agreement and the documents relating hereto be drawn up in the English language. The English language text and American usage thereof shall control the interpretation and construction of this Agreement and all other writings between the parties. Each party agrees and acknowledges that it fully understands all of the terms and consequences of this Agreement and that it has had the opportunity to consult with an attorney of its own choosing regarding this Agreement.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed by their authorized representatives as of the Effective Date.
+
+[[RealD]]      **American Multi-Cinema, Inc.**
+
+[[RealD      American Multi-Cinema Inc. Signatory Email: Identity | Signature]]
 __________________________________________
-{{CHINA FOR-GEN CORP. Entity => By: [[CHINA FOR-GEN CORP. Signatory First Name]] [[CHINA FOR-GEN CORP. Signatory Last Name]]
-Title: [[CHINA FOR-GEN CORP. Signatory Title]]}}
+{{RealD      American Multi-Cinema Inc. Entity => By: [[RealD      American Multi-Cinema Inc. Signatory First Name]] [[RealD      American Multi-Cinema Inc. Signatory Last Name]]
+Title: [[RealD      American Multi-Cinema Inc. Signatory Title]]}}
 
 
-\centered **EXHIBIT A**
+\centered **SCHEDULE A**
 
-\centered **Certificate of Designation**s of Series A Convertible Preferred Stock
+**EQUIPMENT**
+
+^RealD Cinema System Control Module
+
+^In each Auditorium, either (i) RealD Cinema System Z-Screen and RealD Cinema System Z-Screen Mounting Hardware, or (ii) RealD Cinema System XL and RealD Cinema System XL Mounting Hardware, or (iii) a lens assembly including three lenses for use in a single projection system using a projector manufactured exclusively for RealD by Sony Electronics for the projection of 3D images from such projector, which lenses are further identified as follows: models LKRL-A002, LKRL-A003, and any subsequently released new product of Sony Electronics in the same product line or for essentially the same purpose; in each case as determined and designated by RealD in its sole judgment.
+
+**GLASSES**
+
+The RealD System requires circular polarized glasses, manufactured exclusively for, and distributed by, RealD, which glasses will be purchased separately by Licensee or a third party, as set forth at Section 3 of the Agreement.
+
+**SOFTWARE**
+
+System Software: The RealD Cinema System Control Module contains embedded software, which is an integral part of the RealD System and is proprietary to RealD.
+
+The RealD authorized installers will install configuration files in the projector which are necessary for the 3D projector formats.
+
+**TRADEMARKS**
+
+THE PREMIER DIGITAL 3D EXPERIENCE (US)  78/915, 774
+
+THE NEW REALITY (US)  78/904, 792
+
+REAL D (US)  78/318, 006
+
+**UPGRADES**
+
+For purposes of clarification, this Schedule shall specifically include each upgrade to the software and hardware described on this Schedule A that a reasonable person would determine affects the viewing experience of the general public or that otherwise enhances the reliability or operation of the equipment listed above.
+
+**REPLACEMENTS**
+
+All replacement parts, replacements, additions, modifications and repairs incorporated into the above equipment and software and/or affixed thereto.
+
+\centered **SCHEDULE 1.1 to the Second Amended and Restated RealD System License Agreement (2010), between [[RealD]] and American Multi-Cinema, Inc. dated [[Date 1]]**
+
+\centered **Equipment Schedule No. dated as of** 
+
+^[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+\centered **SCHEDULE 5.1(b) to the Second Amended and Restated RealD System License Agreement (2009),**
+
+\centered **between [[RealD]] and American Multi-Cinema, Inc. dated [[Date 1]]**
+
+\centered **[***]**
+
+**For [***]**
+
+**For each paid admission to a 3D Show at each Auditorium** [***] that is then using the RealD System, excluding any paid admission for which Licensee refunds the price therefore, Licensee will pay to RealD a royalty in an amount equal to U.S. [***].
+
+**For [***]**
+
+**[***]**      \centered (A)  [***]Auditorium  at a Location      \centered (B)  [***]  Auditoriums  at a Location      \centered (C)  [***]Auditorium  at a Location  (1)      \centered (D)  [***]  Auditoriums  at a Location  (2)      \centered (E)  [***] (at  Effective  Date)      \centered (F)  [***]  Auditorium  at a Location  in [***]  (3)      \centered (G)  [***]  Auditoriums  at a Location  in [***] (4)      \centered (H)  [***]  Auditorium  at a Location  in [***] (5)      \centered (I)  [***]  Auditoriums  at a Location  in [***]  (6)      \centered (J)  [***] paid  to RealD
+None.
+
+^[***]
+
+^[***]
+
+^In no event shall the [***]
+
+^In no event shall the [***]
+
+^In no event shall the [***]
+
+^In no event shall the [***]
+
+\centered **SCHEDULE 5.1(c) to the Second Amended and Restated RealD System License Agreement (2010), between [[RealD]] and American Multi-Cinema, Inc. dated [[Date 1]]**
+
+\centered **[***]**
+
+\centered **(Updated as of [[Date 1]])**
+
+\centered **Location**      
+
+\centered **Number of Screens** None      None  
+
+\centered **SCHEDULE 9.6 to the Second Amended and Restated RealD System License Agreement (2010), between [[RealD]] and American Multi-Cinema, Inc. dated [[Date 1]]**
+
+**[***]**
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+[***]
+
+**[***]**
+
+**[***]**
+
+**[***]**
+
+**[***]**
+
+\centered **EXHIBIT A to the Second Amended and Restated RealD System License Agreement (2010), between [[RealD]] and American Multi-Cinema, Inc. dated [[Date 1]]**
+
+\centered **Form of Amended and Restated Nonqualified Stock Option Grant**
+
+\centered [See Exhibit Number 10.24]

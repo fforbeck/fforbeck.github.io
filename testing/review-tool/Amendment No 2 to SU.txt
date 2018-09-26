@@ -1,0 +1,58 @@
+\centered **Amendment No. 2 to**
+
+\centered **SUBSCRIPTION AGREEMENT**
+
+\centered **___________________________________**
+
+This Amendment No. 2 to the Subscription Agreement (this “**Amendment**”) is made as of May __, 2010 by and between the undersigned (the “**Investor**”).and Global Telecom & Technology, Inc., a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”).
+
+**Background**:  
+
+The Investor and the Company are parties to a Subscription Agreement, as amended (the “**Subscription Agreement**”), pursuant to which the Investor has purchased from the Company Units (as defined in the Subscription Agreement), with each Unit comprised of $[[USD Value 1: Number]] principal amount of Notes (as defined in the Subscription Agreement) and [[Shares 1: Number]] shares of Common Stock (as defined in the Subscription Agreement). Pursuant to Section 3.5 of the Subscription Agreement, the Units would be cancelled, and the Investor’s subscription payment returned to the Investor, without interest and without deduction, if the consummation of the Company’s acquisition of certain assets of Global Capacity (as defined in the Subscription Agreement) did not occur on or before [[Date 1: Date]].
+
+The acquisition of the Global Capacity assets did not occur on or before [[Date 1]], and the Purchase Agreement (as defined in the Subscription Agreement) has been terminated. In accordance with the Subscription Agreement, the Company is prepared to cancel each Unit purchased by the Investor and to return to the Investor the full amount of the Investor’s subscription payment. Several purchasers of Units, however, have requested the opportunity to retain some or all of their Units, notwithstanding that the Global Capacity transaction did not occur. The Company is willing to permit purchasers of Units to cancel less than all of their Units on the terms and conditions set forth in this Amendment.
+
+Accordingly, Investor and the Company agree as follows:
+
+**Agreement:**  
+
+^**Election by Investor to Cancel Units**. Section 3.5(b) of the Subscription Agreement is amended to permit the Investor to determine the amount, if any, of the Units subscribed for by the Investor that will be cancelled as a result of the failure of the closing of the Global Capacity acquisition to occur on or before [[Date 1]]. Such cancellation may be (a) in whole or in part as to any Unit subscribed for by the Investor and (b) in whole or in part as to the Notes and the Common Stock included in each such Unit. The election of the Investor is as follows (Investor, please mark one of the following boxes):
+
+^^I elect not to cancel any of my Units. The certificates representing the Notes and the Common Stock included in such Units will be delivered to me and my full subscription payment will be retained by the Company.
+
+^^I elect to cancel, in part, the Units I subscribed for, as follows (if this option is selected, please complete the following for both the Notes and the Common Stock):
+
+**Notes**: I elect to cancel $___________ in principal (face) amount of the Notes included in my Units. Such amount of the Notes will be cancelled and a certificate representing the remainder of the Notes included in the Units I subscribed for (if any) will be delivered to me. The amount of my subscription payment attributable to the Notes cancelled (based on a purchase price of $[[USD Value 1]] in principal (face) amount of the Notes) shall be paid to me (without deduction and together with interest as provided in Section 2 of this Amendment).
+
+**Common Stock**: I elect to cancel _______ of the shares of Common Stock included in my Units. Such number of shares will be cancelled and a certificate representing the remainder of the shares of Common Stock included in the Units I subscribed for (if any) will be delivered to me. The amount of my subscription payment attributable to the shares of Common Stock cancelled (based on an effective subscription price of $[[USD Value 2: Number]] per share) shall be paid to me, without deduction and without interest. o   I elect to cancel, in full, all of the Units I subscribed for. The Notes and the Common Stock included in such Units will be cancelled and the full purchase price paid for such Units shall be paid to me without deduction (and together with interest as provided in Section 2 of this Amendment).
+
+If this Amendment is not properly executed by the Investor, with this Section 2 fully completed, and delivered to the Company on or before [[Date 2: Date]], the Investor’s Units will be treated as if the Investor has elected to cancel the Units (as would be provided under the Subscription Agreement as in effect before this Amendment, but with the interest contemplated by Section 2 of this Amendment).
+
+^**Interest on Notes**. The Company will pay interest on the principal (face) amount of any Note cancelled pursuant to Section 3.5 of the Subscription Agreement (as amended by this Amendment), at the interest rate set forth in the Notes, from [[Date 3: Date]] through the date on which the Company releases an electronic funds transfer to satisfy the principal (face) amount of notes cancelled pursuant to Section 3.5 of the Subscription Agreement (as amended by this Amendment).
+
+^**No Other Changes; Effectiveness**. This Amendment relates solely to the matters set forth in Sections 1 and 2 hereof and, except as expressly set forth in Sections 1 and 2 hereof, all of the provisions of the Subscription Agreement shall remain in full force and effect.
+
+^**Governing Law**. THIS AMENDMENT SHALL BE CONSTRUED IN ACCORDANCE WITH, AND GOVERNED BY, THE LAWS OF THE STATE OF VIRGINIA.
+
+^**Facsimile Signatures; Counterparts**. This Amendment may be executed in two or more counterparts, each of which shall be deemed to be an original but all of which together shall constitute one and the same instrument. Counterparts may be delivered by facsimile, electronic mail (including pdf) or other transmission method, and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+IN WITNESS WHEREOF, this Amendment No. 2 to the Subscription Agreement has been executed as of the date above.
+
+**The Company:**  
+GLOBAL TELECOM & TECHNOLOGY, INC.   
+[[GLOBAL TELECOM & TECHNOLOGY INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GLOBAL TELECOM & TECHNOLOGY INC. Entity => By: [[GLOBAL TELECOM & TECHNOLOGY INC. Signatory First Name]] [[GLOBAL TELECOM & TECHNOLOGY INC. Signatory Last Name]]
+Title: [[GLOBAL TELECOM & TECHNOLOGY INC. Signatory Title]]}}
+
+**The Investor** (please provide the appropriate signature):
+
+**If the Investor is an individual: If the Investor is an entity:**
+
+Name (print): Name (print): **& #160;**   
+Signature: By: **& #160;**  
+
+Name: 
+
+Title:   
+ 

@@ -1,262 +1,103 @@
-\centered **SEVENTH AMENDMENT TO REVOLVING LINE OF CREDIT LOAN AGREEMENT, TERM LOAN AGREEMENT AND SECURITY AGREEMENT**
+\centered **SEVENTH AMENDMENT TO**
 
-THIS SEVENTH AMENDMENT TO REVOLVING LINE OF CREDIT LOAN AGREEMENT, TERM LOAN AGREEMENT AND SECURITY AGREEMENT (this “Seventh Amendment”) is made as of [[Date 1: Date]], by and among **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (formerly known as EFJ, Inc.), **[[State of Formation: State]] [[Organization: EntityType]] (successor-by-merger to Transcrypt International, Inc.), and **[[Party 3]]**, a [[State of Formation: State]] [[Organization: EntityType]] (collectively, jointly and severally, the “Borrower”), all having an address at c/o **[[Borrower]]**, [[Address 1: Address]]; and **BANK OF AMERICA, N.A.**, a national banking association (the “Lender”).
+\centered **LOAN AND SECURITY AGREEMENT**
 
-\centered RECITALS
+This Seventh Amendment to Loan and Security Agreement (this “Amendment”) is dated as of the [[Date 1: Date]], and is made by and among [[Borrower]], a [[State of Formation: State]] [[Organization: EntityType]] (“Borrower”), Bank of America, N.A. (“Lender”), and the other Obligors party to that certain Loan and Security Agreement dated [[Date 2: Date]] (as amended, [[Agreement]], supplemented or restated from time to time, the “Agreement”). Borrower, Lender and [[Party 3]], subject to the conditions set forth herein. Capitalized terms used in this Amendment and not otherwise defined herein have the meanings given to such terms in the Agreement.
 
-^The Borrower and the Lender are parties to that certain Revolving Line of Credit Loan Agreement and Security Agreement, dated as of [[Date 2: Date]], as amended by that certain First Amendment to Revolving Line of Credit Loan Agreement and Security Agreement dated as of [[Date 3: Date]], and as further amended by that certain Second Amendment to Revolving Line of Credit Loan Agreement and Security Agreement dated as of [[Date 4: Date]] (the “Second Amendment”), and as further amended by that certain Third Amendment to Revolving Line of Credit Loan Agreement, Term Loan Agreement and Security Agreement dated as of [[Date 5: Date]], and as further amended by that certain Fourth Amendment to Revolving Line of Credit Loan Agreement, Term Loan Agreement and Security Agreement dated as of [[Date 6: Date]], and as further amended by that certain Fifth Amendment to Revolving Line of Credit Loan Agreement, Term Loan Agreement and Security Agreement dated as of [[Date 7: Date]], and as further amended by that certain Sixth Amendment to Revolving Line of Credit Loan Agreement, Term Loan Agreement and Security Agreement dated as of [[Date 8: Date]] (the “Sixth Amendment”) (as amended and in effect, the “Loan Agreement”).
+NOW, THEREFORE, in consideration of the foregoing recitals, the mutual covenants and agreements set forth herein and other good and valuable consideration, the receipt and sufficiency of which are acknowledged, Borrower, such other Obligors and Lender agree as follows:
 
-^The Loan Agreement governs and secures (1) a certain revolving line of credit loan in the maximum principal amount of Three Million Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 1: Number]]), which loan is evidenced by that certain Revolving Note dated as of [[Date 2]], as amended by that certain First Amendment to Revolving Note dated as of [[Date 3]], and as further amended by that certain Second Amendment to Revolving Note dated as of [[Date 4]], and as further amended by that certain Third Amendment to Revolving Note dated as of [[Date 6]], and as further amended by that certain Fourth Amendment to Revolving Note dated as of [[Date 7]], and as further amended by that certain Fifth Amendment to Revolving Note dated as of [[Date 8]], made by the Borrower payable to the Lender in the original maximum principal amount of Ten Million and 00/100 Dollars ($[[USD Value 2: Number]]) and currently in the maximum principal amount of Three Million Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 1]]) (as amended and in effect, the 
+^Effective as of [[Date 3: Date]], subsection 14(a) of the Agreement is amended to read in its entirety as follows:
 
-“Revolving Note”); and (2) a certain term loan in the original principal amount of Fifteen Million and 00/100 Dollars ($[[USD Value 3: Number]]), evidenced by that certain Term Note dated as of [[Date 4]], as amended by that certain First Amendment to Term Note dated as of [[Date 6]], and as further amended by that certain Second Amendment to Term Note dated as of [[Date 7]], and as further amended by that certain Third Amendment to Term Note dated as of [[Date 8]], made by the Borrower payable to the Lender in the original principal amount of Fifteen Million and 00/100 Dollars ($[[USD Value 3]]) (as amended and in effect, the “Term Note”).
+“Commencing with the fiscal quarter ended [[Date 4: Date]], as of the last day of each fiscal quarter for the 6-month period ending on such date, no Obligor shall permit the Fixed Charge Coverage Ratio to be less than 1.50 to 1.0.”
 
-^Contemporaneously with the execution and delivery of this Seventh Amendment, the Borrower and the Lender are entering into (1) that certain Sixth Amendment to Revolving Note dated as of [[Date 1]] (the “Amendment to Revolving Note”), (2) that certain Fourth Amendment to Term Note dated as of [[Date 1]] (the “Amendment to Term Note”), and (3) that certain Second Amendment to Pledge Agreement dated as of [[Date 1]] (the “Amendment to Pledge Agreement”).
+^Effective as of [[Date 3]], subsection 14(b) of the Agreement is amended to read in its entirety as follows:
 
-^The Borrower has informed the Lender that it intends to pursue a sale of the Borrower to a third party in order to repay in full the Obligations (as defined below) on or before [[Date 9: Date]]. The Borrower has made a request to the Lender to extend the maturity dates of the loans governed and secured by the Loan Agreement and to waive certain financial covenants set forth in Section 6.14 of the Loan Agreement for the fiscal quarter of the Borrower ending [[Date 10: Date]]. The Lender is willing to extend such maturity dates and to waive such financial covenants on a one time basis subject to the terms and conditions set forth in this Seventh Amendment.
+“No Obligor shall permit the Consolidated EBITDA of Borrower and its Subsidiaries to be less than the amount set forth below for the corresponding period set forth below:
 
-\centered AGREEMENTS
+**Period**    **Minimum EBI TDA**  
+Three months ending [[Date 3]] $ 500,000
 
-NOW, THEREFORE, in consideration of the mutual agreements herein contained, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Borrower and the Lender hereby agree as follows:
+Three months ending [[Date 4]] $ 500,000
 
-^ \centered 1. **Capitalized Terms**. Capitalized terms used in this Seventh Amendment but not defined herein have the meanings ascribed to them in the Loan Agreement. 
+Three months ending [[Date 5: Date]] $[[USD Value 1: Number]]”
 
-^ \centered 2. **Representations and Warranties**. To induce the Lender to enter into this Seventh Amendment, the Borrower provides the following representations and warranties to the Lender: 
+^Borrower shall pay an amendment and waiver fee to Lender in the amount of $[[USD Value 2: Number]] Borrower shall pay all expenses, including attorney fees, which Lender incurs in connection with the preparation of this Amendment and any related documents. All such fees and expenses maybe charged against Borrower’s loan account
 
-^^ \centered a. The Borrower’s books and records properly reflect the Borrower’s financial condition, and no material adverse change in the Borrower’s financial condition has occurred since the last date that the Borrower provided financial reports to the Lender; 
+^To induce Lender to enter into this Amendment, Obligors make the following representations and warranties:
 
-^^ \centered b. No litigation which, in the aggregate, is material to Borrower’s operations or financial condition, is pending or threatened against the Borrower of which the     
+^^Each recital, representation and warranty contained in this Amendment, in the Agreement as amended by this Amendment and in the Other Agreements, is true and correct as of the date of this Amendment and does not omit to state a material fact required to make such recital, representation or warranty not misleading; and
 
-^^ \centered Borrower has not informed the Lender in writing or which is not disclosed in the Borrower’s required public filings with the Securities and Exchange Commission; 
+^^No Event of Default or event which, with the passage of time or the giving of notice or both, would constitute an Event of Default has occurred and is continuing under the Agreement or any of the Other Agreements.
 
-^^ \centered c. The Borrower is in compliance with all provisions of the Loan Agreement, with all provisions of the other Loan Documents, and with all applicable laws and regulations; 
+^Each Obligor waives any and all defenses, claims, counterclaims and offsets against Lender which may have arisen or accrued through the date of this Amendment. Each Obligor acknowledges that Lender and its employees, officers, agents and attorneys have made no representations or promises except as specifically reflected in this Amendment and in the written agreements which have been previously executed.
 
-^^ \centered d. The Borrower has the power and authority to enter into this Seventh Amendment, to perform its obligations hereunder, to execute all documents, instruments, and agreements required in connection herewith or related hereto, and to incur the obligations provided for herein, all of which have been duly authorized and approved in accordance with the Borrower’s organizational documents; 
+^Each Obligor represents and warrants to Lender that this Amendment has been approved by all necessary corporate action, and the individual signing below represents and warrants that he or she is fully authorized to do so.
 
-^^ \centered e. This Seventh Amendment, together with all documents, instruments, and agreements required in connection herewith or related hereto, constitute the valid and legally binding obligations of the Borrower in accordance with their respective terms; 
+^This Amendment shall not become effective until this Amendment and the Guarantors’ Acknowledgement attached hereto have been fully executed by all parties hereto or thereto and delivered to Lender.
 
-^^ \centered f. The obligations of the Borrower under the Loan Documents remain valid and enforceable obligations, and the execution and delivery of this Seventh Amendment and the other documents executed in connection herewith shall not be construed as a novation of the Loan Agreement or the other Loan Documents; and 
+^Except as expressly amended hereby and by any other supplemental documents or instruments executed by either party hereto in order to effectuate the transactions contemplated by this Amendment, the Agreement and all Exhibits thereto are ratified and confirmed by Obligors and Lender and remain in full force and effect in accordance with their terms.
 
-^^ \centered g. There have been no changes to the Borrower’s organizational documents as of the date of this Seventh Amendment, except as have been fully disclosed and previously delivered to the Lender, and all of the Borrower’s organizational documents previously delivered to the Lender in conjunction with the Loan Agreement remain in full force and effect and unmodified. 
+^This Amendment may be executed in any number of counterparts, each of which shall be an original, but all of which, taken together, shall constitute one and the same agreement. This Amendment may be delivered by facsimile, and when so delivered will have the same force and effect as delivery of an original signature.
 
-^ \centered 3. **Acknowledgement of Indebtedness**. The Borrower hereby acknowledges and agrees that, in accordance with the terms and conditions of the Loan Documents, it is liable to the Lender as follows: 
+\centered [Signatures appear on the following page.]
 
-^^ \centered a. Owed under the Revolving Note as of [[Date 11: Date]]: 
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first above written.
 
-Principal      $   0.00
-Interest      $   0.00
-
-Total      $   0.00
-
-
-^^ \centered b. Owed under the Term Note as of [[Date 11]]: 
-
-Principal      $   15,000,000.00
-Interest      $   74,376.01
-
-Total      $   15,074,376.01
-
-
-^^ \centered c. For all amounts now due, or hereafter coming due, to the Lender under or in connection with any credit card agreements, Letters of Credit (including, without     
-
-^^ \centered limitation, the Existing Letter of Credit), banker’s acceptances, automated clearinghouse agreements, cash management agreements, deposit account agreements, or similar account agreements or arrangements and/or under any hedge or swap agreements. 
-
-^^ \centered d. For all interest accruing upon the principal balances of the Notes from and after [[Date 11]], and for all fees, costs, expenses, and costs of collection (including attorneys’ fees and expenses) heretofore or hereafter accruing or incurred by the Lender in connection with the Loan Documents, including, without limitation, all reasonable attorneys’ fees and expenses incurred in connection with the negotiation and preparation of this Seventh Amendment and all documents, instruments, and agreements required in connection herewith or related hereto (collectively, the “Amendment Documents”). 
-
-^^ \centered Hereinafter all amounts due as set forth in this Paragraph 3, and all amounts payable under or in connection with this Seventh Amendment, and all other amounts due under the Loan Documents, as amended hereby, shall be referred to collectively as the “Obligations”. 
-
-^ \centered 4. **Waiver of Claims; Release**. In consideration of Lender’s agreements set forth herein, the Borrower hereby acknowledges and agrees that it has no offsets, defenses, claims, or counterclaims against the Lender or the Lender’s officers, directors, employees, attorneys, representatives, predecessors, parent, subsidiaries, shareholder, affiliates, successors, and assigns (collectively, the “Lender Parties”) with respect to the Obligations, the Loan Documents, and/or the transactions related thereto, and that if the Borrower now has, or ever did have, any offsets, defenses, claims, or counterclaims against the Lender Parties, or any one of them, whether known or unknown, at law or in equity, from the beginning of the world through this date and through the time of execution of this Seventh Amendment, all of them are hereby expressly **WAIVED**, and the Borrower hereby **RELEASES** the Lender Parties from any liability therefor. 
-
-^ \centered 5. **Ratification of Loan Documents; Cross-Default; Cross-Collateralization; Further Assurances**. The Borrower: 
-
-^^ \centered a. Hereby ratifies, confirms, and reaffirms all and singular the terms and conditions of the Loan Documents. The Borrower further acknowledges and agrees that except as specifically amended in this Seventh Amendment and the Amendment Documents, all terms and conditions of the Loan Documents shall remain in full force and effect; 
-
-^^ \centered b. Hereby ratifies, confirms, and reaffirms that (i) the obligations secured by the Loan Documents include, without limitation, the Obligations, and any future modifications, amendments, substitutions or renewals thereof, (ii) all Collateral, whether now existing or hereafter acquired, granted to the Lender pursuant to the Loan Documents, the Amendment Documents, or otherwise shall secure all of the Obligations until full and final payment of the Obligations, and (iii) the occurrence of a default and/or event of default under any Loan Document and/or any Amendment Document shall constitute an event of default under all of the Loan Documents and all of the Amendment Documents, it being the express intent of the Borrower that all of the Obligations be fully cross-collateralized and cross-defaulted; and    
-
-^^ \centered c. Shall, from and after the execution of this Seventh Amendment, execute and deliver to the Lender whatever additional documents, instruments, and agreements that the Lender may require in order to vest or perfect the Loan Documents and the Amendment Documents and the collateral granted herein and therein more securely in the Lender and to otherwise give effect to the terms and conditions of this Seventh Amendment and the other Amendment Documents. 
-
-^ \centered 6. **Conditions Precedent**. The Lender’s agreements set forth herein shall not be effective unless and until each of the following conditions precedent have been fulfilled, all as determined by the Lender in its sole and exclusive discretion: 
-
-^^ \centered a. The Lender shall have received evidence that the Borrower has entered into a definitive agreement for the sale of the Borrower to a third party upon terms and conditions acceptable to the Lender in all respects in its sole and exclusive discretion; 
-
-^^ \centered b. The Lender shall have received the Amendment to Revolving Note in the form attached hereto as Exhibit “A” executed by the Borrower; 
-
-^^ \centered c. The Lender shall have received the Amendment to Term Note in the form attached hereto as Exhibit “B” executed by the Borrower; 
-
-^^ \centered d. The Lender shall have received the Amendment to Pledge Agreement in the form attached hereto as Exhibit “C” executed by the Borrower; 
-
-^^ \centered e. All action on the part of the Borrower necessary for the valid execution, delivery and performance by the Borrower of this Seventh Amendment and the other Amendment Documents shall have been duly and effectively taken and evidence thereof satisfactory to the Lender shall have been provided to the Lender; and 
-
-^^ \centered f. This Seventh Amendment, and the other Amendment Documents, shall be executed and delivered to the Lender by the parties thereto, shall be in full force and effect and shall be of form and substance satisfactory to the Lender. 
-
-^ \centered 7. **Amendments to Loan Agreement**. The following definitions set forth in Section 1.1 of the Loan Agreement are hereby amended as follows: 
-
-^^ \centered a. The following definition of “Existing Letter of Credit” is hereby added to Section 1.1 of the Loan Agreement in the appropriate alphabetical order: 
-
-^^ \centered ““Existing Letter of Credit” means that certain outstanding Standby Letter of Credit in the amount of Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 4: Number]]).” 
-
-^^ \centered b. The definition of “Letter of Credit Sublimit” set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and the following inserted in its place: 
-
-^^ \centered ““Letter of Credit Sublimit” means Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 4]]); *provided, however*, that the Letter of Credit Sublimit shall be automatically reduced by any amounts drawn upon under the Existing Letter of Credit     
-
-^^ \centered and automatically reduced to Zero Dollars ($[[USD Value 9: Number]]) upon the expiration or cancellation thereof.” 
-
-^^ \centered c. The definition of “Maximum Revolving Commitment Amount” set forth in Section 1.1 of the Loan Agreement shall be deleted in its entirety and the following inserted in its place: 
-
-^^ \centered ““Maximum Revolving Commitment Amount” means: (a) prior to [[Date 12: Date]], Three Million Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 1]]), or such lesser amount that the Borrower may request as hereinafter provided; and (b) from and after [[Date 12]], Six Million and 00/100 Dollars ($[[USD Value 5: Number]]), or such lesser amount that the Borrower may request as hereinafter provided; subject in each case to reduction by an amount equal to the undrawn amount of the Existing Letter of Credit upon the expiration or cancellation thereof.” 
-
-^^ \centered d. The definition of “Revolving Loan” set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and the following inserted in its place: 
-
-^^ \centered ““Revolving Loan” means: (a) prior to [[Date 12]], the revolving loan facility made available by the Lender to the Borrower pursuant to this Agreement in the maximum principal amount of Three Million Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 1]]), evidenced by the Revolving Note; and (b) from and after [[Date 12]], the revolving loan facility made available by the Lender to the Borrower pursuant to this Agreement in the maximum principal amount of Six Million and 00/100 Dollars ($[[USD Value 5]]), evidenced by the Revolving Note; subject in each case to reduction by an amount equal to the undrawn amount of the Existing Letter of Credit upon the expiration or cancellation thereof.” 
-
-^^ \centered e. The definition of “Revolving Note” set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and the following inserted in its place: 
-
-^^ \centered ““Revolving Note” means that certain Revolving Note dated as of [[Date 2]], in the original maximum principal amount of Ten Million and 00/100 Dollars ($[[USD Value 2]]), executed by the Borrower and payable to the order of the Lender, and evidencing the Borrower’s obligation to repay the Revolving Loan, as such Revolving Note may be amended from time to time.” 
-
-^^ \centered f. The definition of “Ending Date” set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and the following inserted in its place: 
-
-^^ \centered ““Ending Date” means [[Date 9]]; *provided, however*, if no Event of Default has occurred, Lender may (by written notice delivered to Borrower), as determined in Lender’s sole and absolute discretion, elect to extend the Ending Date upon such terms and conditions as may be acceptable to Lender, in Lender’s sole and absolute discretion. Borrower shall, upon request of Lender, execute all documents and take all action necessary or requested by Lender to effectuate or evidence such extension, all at the sole cost of Borrower.” 
-
-^ \centered 8. **Repayment of the Obligations**. From and after the execution of this Seventh Amendment the Obligations shall be paid, as follows: 
-
-^^ \centered a. The Borrower shall continue to make all payments of interest and other amounts as and when due under the terms and conditions of the Notes; and    
-
-^^ \centered b. In addition, the Borrower shall make one or more principal payments on the Term Note such that the outstanding principal balance thereof on [[Date 12]] shall be not more than Five Million and 00/100 Dollars ($[[USD Value 6: Number]]). 
-
-^ \centered 9. **Waiver of Certain Financial Covenants; Next Quarterly Testing**. The Lender will not be testing for compliance of the Funded Debt to EBITDA covenant and the Fixed Charge Coverage Ratio covenant set forth in Section 6.14 of the Loan Agreement for the fiscal quarter ending [[Date 10]] and hereby waives compliance by the Borrower with such covenants for such quarter. This waiver relates only to the specific covenants identified in the preceding sentence for the specific time period indicated, is a one-time waiver, and shall not be deemed to constitute (a) a continuing waiver of the provisions of Section 6.14 of the Loan Agreement, or a waiver of any other provisions of the Loan Agreement or of the other Loan Documents, or (b) a waiver of any Events of Default, whether now existing or hereafter arising. 
-
-^ \centered 10. **Prepayments**. The Lender hereby agrees that partial prepayments of the Obligations do not, on their own, require the termination of the hedge or swap agreements currently in effect between the Lender and the Borrower, or require the payment of a prepayment fee or premium thereunder, provided, however, that the Borrower acknowledges and agrees that reductions in the outstanding amount of the Obligations as a result of partial prepayments may not be recognized under any such hedge or swap agreements(1). 
-
-^ \centered 11. **Discretionary Advances; Letters of Credit**. All Advances shall continue to be on a discretionary basis, and all Letters of Credit shall continue to be subject to the restrictions, set forth in more detail in Paragraphs 10 and 11, respectively, of the Sixth Amendment. 
-
-^ \centered 12. **Additional Cash Collateral**. In addition to any other Collateral, the Borrower shall, as additional security for the Obligations: 
-
-^^ \centered a. Contemporaneously with the execution and delivery of this Seventh Amendment, execute and deliver to the Lender the Amendment to Pledge Agreement which, among other things, shall amend that certain Pledge Agreement dated [[Date 7]] (the “Pledge Agreement”) by and between the Borrower and the Lender to include all Obligations within the definition of “Indebtedness” set forth therein. 
-
-^^ \centered b. On or before [[Date 13: Date]], in good and collected funds, deliver to the Lender all additional cash collateral required under Paragraph 12c. of the Sixth Amendment. 
-
-^^ \centered c. Provided that delivery of all additional cash collateral required under Paragraph 12 of the Sixth Amendment has been made as and when provided for therein, the Borrower may direct the Lender to apply the funds held by the Lender in the Pledged Account (as defined in the Sixth Amendment) in reduction of the amounts owed under    
-^ \centered (1) By way of example, and for the avoidance of doubt, if the outstanding principal balance of the Term Loan is Fifteen Million and 00/100 Dollars ($[[USD Value 3]]) and the Borrower prepays the Term Loan such that the outstanding principal balance thereof is then Ten Million and 00/100 Dollars ($[[USD Value 2]]), the Borrower acknowledges that it may be required to continue to make payments under a hedge or swap agreement as if the outstanding principal balance of the Term Loan was still Fifteen Million and 00/100 Dollars ($[[USD Value 3]]).    
-
-^^ \centered the Term Note (including, without limitation, the payments required under Section 8.b hereof), provided, however, that no such application shall be made by the Lender if such application would result in the Pledged Account having a balance of less than Seven Hundred Fifty Thousand and 00/100 Dollars ($[[USD Value 4]]). 
-
-^ \centered 13. **Supplemental Financial Reporting**. In addition to the financial reporting currently required under the Loan Documents, on (i) the date of the execution of this Seventh Amendment, (ii) [[Date 14: Date]], (iii) [[Date 15: Date]], and (iv) [[Date 16: Date]], the Borrower shall provide the Lender with a thirteen (13) week rolling cash flow report and forecast of the Borrower’s business operations in form and substance satisfactory to the Lender in its sole and exclusive discretion (each a “Cash Flow Report”), which Cash Flow Reports shall include a comparison of the most recent Cash Flow Report to actual results of the Borrower’s business operations for the prior month. 
-
-^ \centered 14. **Amendment Fee**. In consideration of the Lender’s agreements set forth herein, the Borrower shall pay the Lender a fee (the “Amendment Fee”) in an amount equal to Thirty One Thousand Eight Hundred Twenty Five and 00/100 Dollars ($[[USD Value 7: Number]]). The Amendment Fee shall be: (a) fully earned as of the date of the execution of this Seventh Amendment; (b) retained by the Lender as a fee and not applied in reduction of any other Obligations; (c) part of the Obligations and secured by all of the Collateral; and (d) paid to the Lender on or before [[Date 10]]. Further, the Amendment Fee shall be in addition to any fees previously required by the Lender, including, without limitation, the portion of the fee required under Paragraph 14a.iii. of the Sixth Amendment, which the Borrower hereby acknowledges and agrees shall be in an amount equal to Thirty Nine Thousand Three Hundred Fifty Eight and 00/100 Dollars ($[[USD Value 8: Number]]) and shall be due and payable by the Borrower on or before [[Date 12]]. 
-
-^ \centered 15. **Costs and Expenses**. The Borrower shall reimburse the Lender on demand for any and all unreimbursed costs, expenses, and costs of collection (including attorneys’ fees and expenses) heretofore or hereafter incurred by the Lender in connection with the protection, preservation, and enforcement by the Lender of its rights and remedies under the Loan Documents, this Seventh Amendment and/or the other Amendment Documents, including, without limitation, the negotiation and preparation of this Seventh Amendment and the other Amendment Documents. 
-
-^ \centered 16. **Arbitration**. 
-
-This paragraph concerns the resolution of any controversies or claims between the Borrower and the Lender, whether arising in contract, tort or by statute, including but not limited to controversies or claims that arise out of or relate to: (i) the Loan Agreement or this Seventh Amendment (including any renewals, amendments, extensions, or modifications of the same); or (ii) any other Loan Document or Amendment Document (collectively, a “Claim”).
-
-At the request of the Borrower or the Lender, any Claim shall be resolved by binding arbitration in accordance with the Federal Arbitration Act (Title 9, U.S. Code) (the “Act”). The Act will apply even though the Loan Agreement provides that it is governed by the law of a specified state.
-
-Arbitration proceedings will be determined in accordance with the Act, the applicable rules and procedures for the arbitration of disputes of JAMS or any successor thereof (“JAMS”), and the terms of this paragraph. In the event of any inconsistency, the terms of this paragraph shall control.
-
-The arbitration shall be administered by JAMS and conducted in any U.S. state where real or tangible personal property collateral for this credit is located or if there is no such collateral, in Maryland. All Claims shall be determined by one arbitrator; however, if Claims exceed Five Million and 00/100 Dollars ($[[USD Value 6]]), upon the request of any party, the Claims shall be decided by three arbitrators. All arbitration hearings shall commence within ninety (90) days of the demand for arbitration and close within ninety (90) days of commencement and the award of the arbitrator(s) shall be issued within thirty (30) days of the close of the hearing. However, the arbitrator(s), upon a showing of good cause, may extend the commencement of the hearing for up to an additional sixty (60) days. The arbitrator(s) shall provide a concise written statement of reasons for the award. The arbitration award may be submitted to any court having jurisdiction to be confirmed and enforced.
-
-The arbitrator(s) will have the authority to decide whether any Claim is barred by the statute of limitations and, if so, to dismiss the arbitration on that basis. For purposes of the application of the statute of limitations, the service on JAMS under applicable JAMS rules of a notice of Claim is the equivalent of the filing of a lawsuit. Any dispute concerning this arbitration provision or whether a claim is arbitrable shall be determined by the arbitrator(s). The arbitrator(s) shall have the power to award legal fees pursuant to the terms of the Loan Agreement.
-
-This paragraph does not limit the right of the Lender to: (i) exercise self-help remedies, such as but not limited to, setoff; (ii) initiate judicial or nonjudicial foreclosure against any real or personal property collateral; (iii) exercise any judicial or power of sale rights; or (iv) act in a court of law to obtain an interim remedy, such as but not limited to, injunctive relief, writ of possession or appointment of a receiver, or additional or supplementary remedies.
-
-^ \centered 17. **WAIVER OF JURY TRIAL**. BY AGREEING TO BINDING ARBITRATION, THE BORROWER AND THE LENDER IRREVOCABLY AND VOLUNTARILY WAIVE ANY RIGHT THEY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF A CLAIM. FURTHERMORE, WITHOUT INTENDING IN ANY WAY TO LIMIT THIS AGREEMENT TO ARBITRATE, TO THE EXTENT ANY CLAIM IS NOT ARBITRATED, THE PARTIES IRREVOCABLY AND VOLUNTARILY WAIVE ANY RIGHT THEY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF SUCH CLAIM. THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE PARTIES ENTERING INTO THIS SEVENTH AMENDMENT AND THE LOAN AGREEMENT. 
-
-^ \centered 18. **No Oral Agreements**. This Seventh Amendment, the Loan Agreement, the other Loan Documents, and the other Amendment Documents constitute the entire agreement of the parties concerning the subject matter hereof and may not be contradicted by evidence of prior, contemporaneous or subsequent oral agreements of the parties. There are no unwritten or oral agreements between the parties.    
-
-^ \centered 19. **Illegality or Unenforceability**.  Any determination that any provision or application of this Seventh Amendment is invalid, illegal, or unenforceable in any respect, or in any instance, shall not affect the validity, legality, or enforceability of any such provision in any other instance, or the validity, legality, or enforceability of any other provision of this Seventh Amendment. 
-
-^ \centered 20. **Counterparts**. This Seventh Amendment may be executed in multiple identical counterparts, each of which when duly executed shall be deemed an original, and all of which shall be construed together as one agreement. This Seventh Amendment will not be binding on or constitute evidence of a contract between the parties hereto until such time as a counterpart has been executed by such party and a copy thereof is delivered to each other party to this Seventh Amendment. 
-
-\centered (Signatures and Notary Acknowledgments continue on following pages)
-
-IN WITNESS WHEREOF, the undersigned have duly executed and delivered this Seventh Amendment to Revolving Line of Credit Loan Agreement, Term Loan Agreement and Security Agreement under seal as of the day and year first hereinabove set forth.
-
-**[[Borrower]]**, a Delaware corporation (formerly known as EFJ, INC.)
-
-[[Borrower a Delaware corporation formerly known as EFJ INC. Signatory Email: Identity | Signature]]
+[[Borrower]]  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{Borrower a Delaware corporation formerly known as EFJ INC. Entity => By: [[Borrower a Delaware corporation formerly known as EFJ INC. Signatory First Name]] [[Borrower a Delaware corporation formerly known as EFJ INC. Signatory Last Name]]
-Title: [[Borrower a Delaware corporation formerly known as EFJ INC. Signatory Title]]}}
-
-
-State of Texas   )
-County of Dallas   ) To Wit:
-
-Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of **[[Borrower]]** (formerly known as EFJ, Inc.), a Delaware corporation, this 15th of [[Date 17: Date]].
-
-[[Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of Borrower formerly known as EFJ Inc. a Delaware corporation this 15th of Date 17 Date. Signatory Email: Identity | Signature]]
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
+   
+EMCORE IRB COMPANY  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of Borrower formerly known as EFJ Inc. a Delaware corporation this 15th of Date 17 Date. Entity => By: [[Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of Borrower formerly known as EFJ Inc. a Delaware corporation this 15th of Date 17 Date. Signatory First Name]] [[Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of Borrower formerly known as EFJ Inc. a Delaware corporation this 15th of Date 17 Date. Signatory Last Name]]
-Title: [[Acknowledged before me by Jana Ahlfinger Bell as Executive Vice President and Chief Financial Officer of Borrower formerly known as EFJ Inc. a Delaware corporation this 15th of Date 17 Date. Signatory Title]]}}
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
 
-My commission expires: 09/23/2013 My registration number: 00138409-5
-
-**E.F. [[Party 2]] COMPANY**, a [[State of Formation: State]] [[Organization: EntityType]]
-
-[[E.F. Party 2 COMPANY a State of Formation State Organization EntityType Signatory Email: Identity | Signature]]
+OPTICOMM CORP.  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{E.F. Party 2 COMPANY a State of Formation State Organization EntityType Entity => By: [[E.F. Party 2 COMPANY a State of Formation State Organization EntityType Signatory First Name]] [[E.F. Party 2 COMPANY a State of Formation State Organization EntityType Signatory Last Name]]
-Title: [[E.F. Party 2 COMPANY a State of Formation State Organization EntityType Signatory Title]]}}
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
 
-
-State of Texas   )
-County of Dallas   ) To Wit:
-
-Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. [[Party 2]] Company, a Minnesota corporation, this 15th of [[Date 17]].
-
-[[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. Party 2 Company a Minnesota corporation this 15th of Date 17. Signatory Email: Identity | Signature]]
+EMCORE SOLAR POWER, INC.  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. Party 2 Company a Minnesota corporation this 15th of Date 17. Entity => By: [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. Party 2 Company a Minnesota corporation this 15th of Date 17. Signatory First Name]] [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. Party 2 Company a Minnesota corporation this 15th of Date 17. Signatory Last Name]]
-Title: [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of E.F. Party 2 Company a Minnesota corporation this 15th of Date 17. Signatory Title]]}}
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
 
-My commission expires: 09/23/2013 My registration number: 00138409-5
-
-
-
-[[My commission expires 09/23/2013 My registration number 00138409-5 Signatory Email: Identity | Signature]]
+BANK OF AMERICA, N.A.  
+**/s/ Joe Fudacz**  
+[[/s/ Joe Fudacz Signatory Email: Identity | Signature]]
 __________________________________________
-{{My commission expires 09/23/2013 My registration number 00138409-5 Entity => By: [[My commission expires 09/23/2013 My registration number 00138409-5 Signatory First Name]] [[My commission expires 09/23/2013 My registration number 00138409-5 Signatory Last Name]]
-Title: [[My commission expires 09/23/2013 My registration number 00138409-5 Signatory Title]]}}
+{{/s/ Joe Fudacz Entity => By: [[/s/ Joe Fudacz Signatory First Name]] [[/s/ Joe Fudacz Signatory Last Name]]
+Title: [[/s/ Joe Fudacz Signatory Title]]}}
 
 
-State of Texas   )
-County of Dallas   ) To Wit:
+\centered GUARANTORS’ ACKNOWLEDGMENT
 
-Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of **[[Party 3]]**, a Maryland corporation, this 15th of [[Date 17]].
+The undersigned guarantors acknowledge that Bank of America, N.A. (“Lender”) has no obligation to provide them with notice of, or to obtain their consent to, the terms of the foregoing Seventh Amendment to Loan and Security Agreement (the “Amendment”). The undersigned guarantors nevertheless: (i) acknowledge and agree to the terms and conditions of the Amendment; (ii) acknowledge that their guaranties remain fully valid, binding, and enforceable; and (iii) waive any and all defenses, claims, counterclaims, and offsets which they may have against Lender through the date of the Amendment.
 
-[[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of Party 3 a Maryland corporation this 15th of Date 17. Signatory Email: Identity | Signature]]
+EMCORE IRB COMPANY  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of Party 3 a Maryland corporation this 15th of Date 17. Entity => By: [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of Party 3 a Maryland corporation this 15th of Date 17. Signatory First Name]] [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of Party 3 a Maryland corporation this 15th of Date 17. Signatory Last Name]]
-Title: [[Acknowledged before me by Jana Ahlfinger Bell as Chief Financial Officer of Party 3 a Maryland corporation this 15th of Date 17. Signatory Title]]}}
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
 
-My commission expires: 09/23/2013 My registration number: 00138409-5
-
-**BANK OF AMERICA, N.A.**, a national banking association
-
-[[BANK OF AMERICA N.A. a national banking association Signatory Email: Identity | Signature]]
+OPTICOMM CORP.  
+**/s/ Keith Kosco**  
+[[/s/ Keith Kosco Signatory Email: Identity | Signature]]
 __________________________________________
-{{BANK OF AMERICA N.A. a national banking association Entity => By: [[BANK OF AMERICA N.A. a national banking association Signatory First Name]] [[BANK OF AMERICA N.A. a national banking association Signatory Last Name]]
-Title: [[BANK OF AMERICA N.A. a national banking association Signatory Title]]}}
+{{/s/ Keith Kosco Entity => By: [[/s/ Keith Kosco Signatory First Name]] [[/s/ Keith Kosco Signatory Last Name]]
+Title: [[/s/ Keith Kosco Signatory Title]]}}
 
-
-State of Rhode Island   )
-County of Providence   ) To Wit:
-
-Acknowledged before me by Fred. P. Lucy, II as Sr. Vice President of Bank of America, N.A., this [[Date 18: Date]].
-
-/s/ Jane A. Martin
-Notary Public
-
-My commission expires: 2/12/14 My registration number: 42760
-
-\centered Exhibit “A”
-
-\centered Form of Sixth Amendment to Revolving Note
-
-\centered Exhibit “B”
-
-\centered Form of Fourth Amendment to Term Note
-
-\centered Exhibit “C”
-
-\centered Form of Second Amendment to Pledge Agreement
+EMCORE SOLAR POWER, INC.  
+**/s/ Keith Kosco**  
+By: Keith J. Kosco, Esq. 
+Title: CLO and Corporate Secretary

@@ -1,0 +1,127 @@
+To Be Used With Employment Agreement
+
+\centered Restricted Stock Unit Agreement under
+
+\centered Assured Guaranty Ltd. 2004 Long-Term Incentive Plan
+
+THIS AGREEMENT is effective as of the Grant Date (as defined in paragraph 1), and is by and between the Participant and Assured Guaranty Ltd. (the “Company”).
+
+WHEREAS, the Company maintains the Assured Guaranty Ltd. 2004 Long-Term Incentive Plan (the “Plan”), and the Participant has been selected by the committee administering the Plan (the “Committee”) to receive a Restricted Stock Unit Award under the Plan; and
+
+NOW, THEREFORE, IT IS AGREED, by and between the Company and the Participant, as follows:
+
+^Terms of Award. The following words and phrases used in this Agreement shall have the meanings set forth in this paragraph 1:
+
+^^The “Participant” is
+
+^^The “Grant Date” is [[Date 1: Date]] **.**
+
+^^The number of “Covered Units” granted under this Agreement is Units. Each “Unit” represents the right to receive one share of Stock on the Delivery Date, to the extent that the Participant is vested in such Units as of the Delivery Date, subject to the terms of this Agreement and the Plan.
+
+^^The “Delivery Date” with respect to each Installment shall be the earliest to occur of:
+
+^^^The date on which the Participant vests in that Installment in accordance with the schedule set forth in paragraph 3 (determined without regard to paragraphs 3(a), 3(b), 3(c), or 3(d)).
+
+^^^The Participant’s Date of Termination that occurs by reason of the Participant’s death.
+
+^^^The date on which the Participant becomes Permanently Disabled on or before the Participant’s Date of Termination.
+
+^^^The date of a Change in Control on or before the Participant’s Date of Termination, but only if the Change in Control also satisfies the definition of “change in control event” as set forth in Treas. Reg. 1.409A-3(i)(5).
+
+^^^If an Installment constitutes nonqualified deferred compensation subject to Code section 457A, the date on which the amount is no longer treated as subject to a substantial risk of forfeiture.
+
+Other words and phrases used in this Agreement are defined pursuant to paragraph 17, elsewhere in this Agreement or the Plan.
+
+^Restricted Stock Unit Award. This Agreement specifies the terms of the “Restricted Stock Unit Award” granted to the Participant.
+
+^Restricted Period. If the Date of Termination does not occur during the Restricted Period with respect to any Installment of the Covered Units, then the Participant shall become vested in such Installment at the end of such Restricted Period. With respect to all Covered Units, the “Restricted Period” for each Installment of Covered Units shall begin on the Grant Date. The Restricted Period with respect to each Installment shall end as described in the following schedule (but only if the Date of Termination has not occurred before the end of the Restricted Period):
+
+\centered **INSTALLMENT:**      \centered **RESTRICTED PERIOD WILL END ON:** 
+
+\centered ¼ of Covered Units      \centered One year anniversary of the Grant Date 
+
+\centered ¼ of Covered Units      \centered Two year anniversary of the Grant Date 
+
+\centered ¼ of Covered Units      \centered Three year anniversary of the Grant Date 
+
+\centered ¼ of Covered Units      
+
+\centered Four year anniversary of the Grant Date  
+
+The Restricted Period shall end prior to the date specified in the foregoing schedule to the extent set forth below:
+
+^^For Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Restricted Period for such Installments shall end upon the Participant’s Date of Termination, if the Date of Termination occurs by reason of the Participant’s Disability or death.
+
+^^For Installments as to which the Restricted Period has not otherwise ended prior to the date of a Change in Control, the Restricted Period for such Installments shall end upon a Change in Control, provided that such Change in Control occurs on or before the Date of Termination.
+
+^^If the Participant’s employment is Terminated Without Cause, then for Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Participant shall be vested on the Date of Termination (and the Restricted Period shall end) with respect to the Installments (if any) that would vest on or before the two-year anniversary of the Date of Termination, determined as though the Participant had remained employed through the two-year anniversary of the Date of Termination. The terms “Cause” and “Terminated Without Cause” shall be defined as set forth in the Employment Agreement. Notwithstanding the foregoing, if the Executive’s employment is Terminated Without Cause, the provisions of this paragraph (c) shall apply only if the Executive executes and returns to the Company a general release and waiver of all claims against the Company as required under the Employment Agreement; provided that the Participant shall be eligible for vesting under this paragraph (c) only if the release is returned by such time as is established by the Committee; and further provided that to the extent benefits provided pursuant to this paragraph (c) would constitute deferred compensation subject to section 409A of the Code, such benefits shall be distributed to the Participant only if the release is returned in time to permit the distribution of the benefits to satisfy the requirements of section 409A of the Code with respect to the time of distribution.
+
+^^If the Participant’s Date of Termination occurs because of Retirement, then for Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Restricted Period shall end on the Participant’s Date of Termination, and the Participant shall be vested in those Installments, subject to paragraph 17(g) (relating to the definition of Retirement).
+
+^Transfer of Shares and Forfeiture of Units. On the Delivery Date, the Participant shall receive one share of Stock for each Unit in which the Participant is then vested, and such shares shall be free of restrictions otherwise imposed by this Agreement, subject to the terms of this Agreement applicable after such Delivery Date (including, without limitation, paragraph 9) and the Plan. If any vested Units attributable to any Installment are allocated to the Participant after the date otherwise specified as the Delivery Date for that Installment (by reason of payment of dividends or otherwise), then, as soon as practicable after the date of allocation of such Units, the Participant will receive one share of Stock with respect to each such Unit. As of the date of distribution of Shares with respect to any Units, such Units shall be canceled. If the Restricted Period with respect to any Installments does not end on or before the Participant’s Date of Termination, then as of the Participant’s Date of Termination, the Participant shall forfeit such Installments. However, the Committee, in its sole discretion, may accelerate the end of the Restricted Period or provide for the vesting of the Covered Units under circumstances that such vesting would not otherwise occur in its sole discretion, based on such factors as the Committee deems appropriate.
+
+^Withholding. All deliveries and distributions under this Agreement are subject to withholding of all applicable taxes. At the election of the Participant, and subject to such rules and limitations as may be established by the Committee from time to time, such withholding obligations may be satisfied through the surrender of shares of Stock which the Participant already owns, or to which the Participant is otherwise entitled under the Plan; provided, however, that such shares may be used to satisfy not more than the Company’s minimum statutory withholding obligation (based on minimum statutory withholding rates for Federal and state tax purposes, including payroll taxes, that are applicable to such taxable income).
+
+^Transferability. Except as otherwise provided by the Committee, the Restricted Stock Unit Award may not be sold, assigned, transferred, pledged or otherwise encumbered during the Restricted Period.
+
+^Dividends. The Participant will be credited with additional Units to reflect dividends payable with respect to Stock during the period between the Grant Date and the Delivery Date, with the increase in the number of Units equal to the number of shares of Stock which could be purchased with the dividends (assuming each Unit was a share of Stock), based on the value of such Stock at the time such dividends are paid. The Units credited on account of the preceding sentence shall be vested and distributed in accordance with the same schedule as the Units to which such dividends are attributable. No dividends shall be credited to or for the benefit of the Participant for Units with respect to record dates occurring prior to the Grant Date, or with respect to record dates occurring on or after the date, if any, on which the Participant has forfeited those Units.
+
+^Voting. The Participant shall not be a shareholder of record with respect to the Units and shall have no voting rights with respect to the Units during the Restricted Period or prior to the Delivery Date.
+
+^Cancellation and Rescission of Restricted Stock Unit Award.
+
+^^The Committee may cancel, rescind, suspend, withhold or otherwise limit or restrict the Restricted Stock Unit Award at any time if the Participant engages in any “Detrimental Activity.”
+
+^^Immediately prior to the Delivery Date with respect to an Installment and prior to the transfer of the shares of Stock to the Participant, the Participant shall certify, to the extent required by the Committee, in a manner acceptable to the Committee, that the Participant is not engaging and has not engaged in any Detrimental Activity. In the event a Participant has engaged in any Detrimental Activity prior to, or during the twelve months after, the Delivery Date with respect to any Installment of Covered Units, the right to delivery of shares with respect to such Installment may be rescinded by the Committee within two years thereafter. In the event of any such rescission, the Participant shall pay to the Company the amount of any gain realized as a result of the prior delivery of shares applicable to the rescinded Installment(s), in such manner and on such terms and conditions as may be required by the Company, and the Company shall be entitled to set-off against the amount of any such gain any amount owed to the Participant by the Company and/or Subsidiary.
+
+^Heirs and Successors. This Agreement shall be binding upon, and inure to the benefit of, the Company and its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. If any benefits deliverable to the Participant under this Agreement have not been delivered at the time of the Participant’s death, such benefits shall be delivered to the Designated Beneficiary, in accordance with the provisions of this Agreement and the Plan. The “Designated Beneficiary” shall be the beneficiary or beneficiaries designated by the Participant in a writing filed with the Committee in such form and at such time as the Committee shall require. If a deceased Participant fails to designate a beneficiary, or if the Designated Beneficiary does not survive the Participant, any rights that would have been exercisable by the Participant and any benefits distributable to the Participant shall be distributed to the legal representative of the estate of the Participant. If a deceased Participant designates a beneficiary and the Designated Beneficiary survives the Participant but dies before the complete distribution of benefits to the Designated Beneficiary under this Agreement, then any benefits distributable to the Designated Beneficiary shall be distributed to the legal representative of the estate of the Designated Beneficiary.
+
+^Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of this Agreement by the Committee and any decision made by it with respect to this Agreement is final and binding on all persons. The Committee shall have the authority to obtain such information from the Participant (including tax return information) as it determines may be necessary to confirm that the Participant is in compliance with the requirements applicable to Detrimental Activity, and if the Participant fails to provide such information, the Committee may conclude that the Participant is not in compliance with such requirements.
+
+^Plan Governs. Notwithstanding anything in this Agreement to the contrary, this Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company; and this Agreement is subject to all interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan.
+
+^Not an Employment Contract. The Restricted Stock Unit Award will not confer on the Participant any right with respect to continuance of employment or other service with the Company or any Related Company, nor will it interfere in any way with any right the Company or any Related Company would otherwise have to terminate or modify the terms of such Participant’s employment or other service at any time.
+
+^Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office.
+
+^Fractional Shares. In lieu of issuing a fraction of a share, resulting from an adjustment of the Restricted Stock Unit Award pursuant to the Plan or otherwise, the Company will be entitled to pay to the Participant an amount equal to the fair market value of such fractional share.
+
+^Amendment. This Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Participant and the Company without the consent of any other person.
+
+^Definitions. For purposes of this Agreement, words and phrases shall be defined as follows:
+
+^^Change in Control. The term “Change in Control” shall be defined as set forth in the Plan.
+
+^^Date of Termination. A Participant’s “Date of Termination” means, with respect to an employee, the date on which the Participant’s employment with the Company and Subsidiaries terminates for any reason, and with respect to a Director, the date immediately following the last day on which the Participant serves as a Director; provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s transfer of employment between the Company and a Subsidiary or between two Subsidiaries; further provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s cessation of service as a Director if immediately following such cessation of service the Participant becomes or continues to be employed by the Company or a Subsidiary, nor by reason of a Participant’s termination of employment with the Company or a Subsidiary if immediately following such termination of employment the Participant becomes or continues to be a Director; and further provided that a Participant’s employment shall not be considered terminated while the Participant is on a leave of absence from the Company or a Subsidiary approved by the Participant’s employer.
+
+^^Detrimental Activity. The term “Detrimental Activity” shall mean (i) a violation of paragraph 11 of the Employment Agreement (relating to competition) during the period in which such activity is prohibited under the Employment Agreement; or (ii) a violation of paragraph 12 of the Employment Agreement (relating to confidentiality).
+
+^^Director. The term “Director” means a member of the Board of Directors of Assured Guaranty, Ltd., who may or may not be an employee of the Company or a Subsidiary.
+
+^^Disability. The Participant shall be considered to have a “Disability” during the period in which the Participant is unable, by reason of a medically determinable physical or mental impairment, to engage in any substantial gainful activity, which condition, in the opinion of a physician selected by the Committee, is expected to have a duration of not less than 120 days. The Participant shall be considered to be Permanently Disabled if he would be treated as “disabled” in accordance with the provisions of Treas. Reg. §1.409A-3(i)(4).
+
+^^Employment Agreement. “Employment Agreement” shall mean the agreement between the Participant and the Company as amended and restated as of [[[Date 2: Date]]] [[[Date 3: Date]] for SMcC] or any successor agreement thereto.
+
+^^Retirement. “Retirement” of a Participant will be determined in accordance with the following:
+
+^^^Retirement shall mean the occurrence of a Participant’s Date of Termination with the consent of the Participant’s employer after the Participant has completed three years of service and attained age 55.(1)
+
+^^^For purposes of defining “Retirement,” years of service shall be determined in accordance with rules which may be established by the Committee, and shall take into
+
+^“Retirement” for Mr. Bailenson, 55 years of age with 5 years of service and the consent of the Compensation Committee or 60 years of age with 5 years of service. account service with the Company and the Subsidiaries. If, on or before the date of the initial public offering of stock of the Company, the Participant was employed by the Company or its Subsidiaries, years of service shall also include service with ACE Limited and its subsidiaries occurring prior to such initial public offering.
+
+^^^Notwithstanding that the Participant’s Date of Termination satisfies the requirements of paragraph (i) above, the Participant will not be considered to have retired (or have terminated by reason of Retirement) with respect to any Installment if the Committee determines that the Participant has provided significant commercial or business services to any one or more persons or entities on or before the Delivery Date applicable to that Installment, regardless of whether such entity is owned or controlled by the Participant; provided that the Participant may devote reasonable time to the supervision of his personal investments, and activities involving professional, charitable, community, educational, religious and similar types of organizations, speaking engagements, membership on the boards of directors of other organizations, and similar types of activities, to the extent that the Committee, in its discretion, determines that such activities are consistent with the Participant’s Retirement.
+
+^^^At the request of the Committee, and as a condition of receiving a distribution of Shares in settlement of an Installment, the Participant shall be required to provide a listing of the activities engaged in by the Participant following the Participant’s Date of Termination and prior to the Delivery Date applicable to such Installment and such other information that the Committee determines may be necessary from time to time to establish whether the Participant has acted in a manner that is consistent with the requirements of paragraph (iii). Such listing and information shall be provided promptly by the Participant, but in no event more than 10 days after written request is delivered to the Participant.
+
+^^^At the request of the Participant, the Committee shall determine whether a proposed activity of the Participant will be consistent with the requirements of paragraph (iii). Such request shall be accompanied by a description of the proposed activities, and the Participant shall provide such additional information as the Committee may determine is necessary to make the determination. Such a determination shall be made promptly, but in no event more than 30 days after the written request, together with any additional information requested of the Participant, is delivered to the Committee.
+
+^^^If, prior to the Delivery Date applicable to any Installment, a Participant engages in one or more activities that the Committee determines to be inconsistent with Retirement, as set forth in paragraph (iii) above, the right to a distribution of Shares with respect to the Installment (including the right to distribution of Shares attributable to dividends) may be canceled by the Committee.
+
+^^Plan Definitions. Except where the context clearly implies or indicates the contrary, a word, term, or phrase used in the Plan is similarly used in this Agreement.
+
+Agreed Upon:
+
+Assured Guaranty Ltd.
+
+Participant

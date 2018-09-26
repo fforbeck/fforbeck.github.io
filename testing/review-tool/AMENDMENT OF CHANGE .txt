@@ -1,0 +1,43 @@
+\centered **AMENDMENT OF**
+
+\centered **CHANGE OF CONTROL AGREEMENT**
+
+WHEREAS, EVEREST REINSURANCE COMPANY (the “Company”), EVEREST REINSURANCE HOLDINGS, INC. (“Holdings”), EVEREST RE GROUP, LTD. (“Group”), EVEREST GLOBAL SERVICES, INC. (“Everest Services”) and [[Taranto]] (“Taranto”) are parties to an Amended and Restated Change of Control Agreement effective as of [[Date 1: Date]] (the “Change of Control Agreement”), which amended and restated the Change of Control Agreement entered into as of [[Date 2: Date]], and all amendments thereto.
+
+WHEREAS, the Change of Control Agreement is intended to track and exist in concert with the Employment Agreement entered into between the Company, Holdings, Group, Everest Services and Taranto and effective as of [[Date 3: Date]] (the “Employment Agreement”), and all amendments thereto.
+
+WHEREAS, the Employment Agreement was amended as of [[Date 4: Date]], to reflect an extension of Taranto’s term of employment under the Employment Agreement to continue through [[Date 5: Date]], unless sooner terminated in accordance with the Employment Agreement.
+
+WHEREAS, the parties have agreed to a further modification to the Change of Control Agreement and it is now desirable to amend the Change of Control Agreement to reflect consistency with the Employment Agreement.
+
+WHEREAS, the Company, Holdings, Group and Everest Services have consented to such amendment.
+
+NOW, THEREFORE, the Change of Control Agreement is hereby amended, effective as of [[Date 4]], by substituting the following for Paragraph F of Section 3 of the Change of Control Agreement:
+
+“F. This Agreement shall terminate on the earliest of: (i) one year following a Material Change; (ii) termination by Taranto of his employment with Everest Services under circumstances not following a Material Change; (iii) Everest Services’ termination of Taranto’s employment for Due Cause; or (iv) [[Date 5]]. Termination of this Agreement shall not relieve the Everest Parties of their respective obligations to Taranto under this Agreement relating to a Material Change which occurs prior to such termination.”
+
+IN WITNESS WHEREOF, the parties have executed this amendment to the Change of Control Agreement as of [[Date 6: Date]].
+
+EVEREST REINSURANCE      EVEREST REINSURANCE COMPANY
+HOLDINGS, INC.
+
+[[HOLDINGS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HOLDINGS INC. Entity => By: [[HOLDINGS INC. Signatory First Name]] [[HOLDINGS INC. Signatory Last Name]]
+Title: [[HOLDINGS INC. Signatory Title]]}}
+
+Sanjoy Mukherjee      Sanjoy Mukherjee
+Senior Vice President      Senior Vice President
+
+EVEREST RE GROUP, LTD.      EVEREST GLOBAL SERVICES, INC.
+
+[[EVEREST RE GROUP LTD.      EVEREST GLOBAL SERVICES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{EVEREST RE GROUP LTD.      EVEREST GLOBAL SERVICES INC. Entity => By: [[EVEREST RE GROUP LTD.      EVEREST GLOBAL SERVICES INC. Signatory First Name]] [[EVEREST RE GROUP LTD.      EVEREST GLOBAL SERVICES INC. Signatory Last Name]]
+Title: [[EVEREST RE GROUP LTD.      EVEREST GLOBAL SERVICES INC. Signatory Title]]}}
+
+Sanjoy Mukherjee      Sanjoy Mukherjee
+Senior Vice President      Senior Vice President
+
+\centered **/S/ [[Taranto]]
+\centered [[Taranto]]

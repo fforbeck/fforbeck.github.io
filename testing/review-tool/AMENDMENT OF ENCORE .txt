@@ -1,0 +1,54 @@
+.1**  
+
+\centered **AMENDMENT OF ENCORE ACQUISITION COMPANY 2008 INCENTIVE STOCK PLAN AND AWARDS** 
+
+**WHEREAS**, in connection with the merger of Encore Acquisition Company (“Encore”) with and into Denbury Resources Inc., pursuant to an Agreement and Plan of Merger dated as of [[Date 1: Date]] (“Merger Agreement”), EAP Properties, Inc. (“Corporation”) has become the employer of the former Encore employees effective on [[Date 2: Date]], and, additionally, has on that date become the sponsor of the Encore Acquisition Company 2008 Incentive Stock Plan (“Plan”); 
+
+**WHEREAS**, the Corporation desires to amend the Plan and the underlying Awards, as defined in Section 1 of the Plan (“Awards”), to reflect the change in sponsorship and to make certain other changes; and 
+
+**WHEREAS**, pursuant to resolutions adopted by the Board of Directors of the Corporation, the authority to make such amendments has been delegated to the Vice President of Human Resources of Denbury Resources Inc., and Denbury Resources Inc. wishes to acknowledge its responsibilities under the Merger Agreement to guarantee performance under this Plan. 
+
+**NOW THEREFORE**, the Plan and each and every one of the Awards are hereby amended by this amendment (“Amendment”), effective [[Date 2]], as follows: 
+
+^The Plan and each and every one of the Awards are hereby amended by deleting “Encore Acquisition Company” from every place that it appears therein, and replacing it with “EAP Properties, Inc.” in every place that “Encore Acquisition Company” was deleted. 
+
+^The definition of “Common Stock” in Section 1 of the Plan is amended in its entirety to read as follows: 
+
+“ ‘Common Stock’ or ‘Stock’ means the $[[USD Value 1: Number]] par value Common Stock of Denbury Resources Inc.” 
+
+^Each and every one of the Awards is amended such that the term “Common Stock” or “Stock” as used therein shall be defined by reference to the Common Stock of Denbury Resources Inc. as set forth in the paragraph 2. of this Amendment. 
+
+^The reference to the Company’s address as it appears every time in each and every one of the Awards, as applicable, is deleted in its entirety and the following is substituted in each and every place that the Company’s address was deleted as follows: 
+
+“Denbury Resources Inc., [[Address 1: Address]].” 
+
+^^^^^ 
+^The definition of “Change in Control” in **Section 6(b)** **of the Plan and each and every one of the Awards, as applicable, is amended by adding the following paragraph to the of the end thereof**: 
+
+“Notwithstanding anything in the Plan to the contrary, no event described in the foregoing paragraphs that occurs after [[Date 2]], the date Encore Acquisition Company was merged with and into Denbury Resources Inc. pursuant to that certain Agreement and Plan of Merger dated as of [[Date 1]], shall constitute a Change in Control for any purposes under the Plan.” 
+
+^In all other respects, the Plan and the Awards shall remain unchanged and in full force and effect. 
+
+**IN WITNESS WHEREOF,** EAP Properties, Inc. has caused this Amendment to be executed on this 8th day of March, , effective as set forth above. 
+
+**EAP PROPERTIES, INC.**
+[[EAP PROPERTIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{EAP PROPERTIES INC. Entity => By: [[EAP PROPERTIES INC. Signatory First Name]] [[EAP PROPERTIES INC. Signatory Last Name]]
+Title: [[EAP PROPERTIES INC. Signatory Title]]}}
+
+Vice President, Human Resources
+Denbury Resources Inc.
+
+In accordance with the terms of Section 2.1(f)(iii) of the Merger Agreement, Denbury Resources Inc. accepts and acknowledges its obligation under the Merger Agreement and hereby guarantees the Corporation’s performance under the Plan and agrees to perform all responsibilities and obligations under the Plan to the same extent as the Corporation in the event that the Corporation fails to perform all of its responsibilities and obligations under the Plan. 
+
+On this 8th day of March, ,  
+
+**DENBURY RESOURCES INC.**
+[[DENBURY RESOURCES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DENBURY RESOURCES INC. Entity => By: [[DENBURY RESOURCES INC. Signatory First Name]] [[DENBURY RESOURCES INC. Signatory Last Name]]
+Title: [[DENBURY RESOURCES INC. Signatory Title]]}}
+
+Vice President, Human Resources
+Denbury Resources Inc.

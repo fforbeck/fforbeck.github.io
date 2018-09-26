@@ -1,0 +1,459 @@
+\centered **FIFTH LOAN MODIFICATION AGREEMENT**
+
+This Fifth Loan Modification Agreement (this “**Loan Modification Agreement**”) is entered into as of the Fifth Loan Modification Effective Date by and between **[[Bank]]**, a [[State of Formation: State]] [[Organization: EntityType]], with its pr**[[Borrower]]**ipal place of business at 3003 Tasman Drive, [[Address 1: Address]] and with a loan production office located at One Newton Executive Park, Suite 200, [[Address 2: Address]] (“**Bank**”) and **[[Satcon]]**, a [[State of Formation: State]] [[Organization: EntityType]] “**Satcon**”); **SATCON POWER SYSTEMS, **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]]; **SATCON ELECTRONICS, **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]], each with offices located at 27 Drydock Avenue, [[Address 3: Address]]; and **SATCON POWER SYSTEMS [[State of Formation: State]] [[Organization: EntityType]] organized under the laws of the Prov**[[Borrower]]**e of [[State of Formation: State]] [[Organization: EntityType]]ly and collectively, jointly and severally, “**Borrower**”).
+
+^ \centered 1. DESCRIPTION OF EXISTING INDEBTEDNESS AND OBLIGATIONS. Among other indebtedness and obligations which may be owing by Borrower to Bank, Borrower is indebted to Bank pursuant to a loan arrangement dated as of [[Date 1: Date]], evidenced by, among other documents, a certain Loan and Security Agreement dated as of [[Date 1]], as amended by that certain First Loan Modification Agreement, dated as of the First Loan Modification Effective Date, as further amended by that certain Second Loan Modification Agreement, dated as of the Second Loan Modification Effective Date, as further amended by that certain Third Loan Modification Agreement, dated as of the Third Loan Modification Effective Date, and as further amended by that certain Waiver and Fourth Loan Modification Agreement, dated as of the Fourth Loan Modification Effective Date (as amended, the “**Loan Agreement**”). Capitalized terms used but not otherwise defined herein shall have the same meaning as in the Loan Agreement. 
+
+^ \centered 2. DESCRIPTION OF COLLATERAL. Repayment of the Obligations is secured by the Collateral as described in the Loan Agreement and a certain Intellectual Property Security Agreement dated as of [[Date 1]], as may be amended from time to time (the “**IP Agreement**”). 
+
+^ \centered Hereinafter, the Loan Agreement and the IP Agreement, together with all other documents executed in connection therewith evidencing, securing or otherwise relating to the Obligations (other than this Loan Modification Agreement) shall be referred to as the “**Existing Loan Documents**”. 
+
+^ \centered 3. DESCRIPTION OF CHANGE IN TERMS. 
+
+^^ \centered A. Modifications to Loan Agreement. 
+
+^^^ \centered  The Loan Agreement shall be amended by inserting the following new Section 2.1.5 immediately following Section 2.14: 
+
+^^^ \centered “**2.1.5****Term Loans.** 
+
+^^^ \centered (a) Availability. Subject to the terms and conditions of this Agreement, Bank agrees to make (i) one (1) Tranche A Term Loan (the “**Tranche A Term Loan**”) in an amount up to the Tranche A Term Loan Amount and (ii) one (1) Tranche B Term Loan (the “**Tranche B Term Loan**”) in an amount up to the Tranche B Term Loan Amount. 
+
+^^^ \centered (i) Tranche A Term Loan. The Tranche A Term Loan will be available only during the Tranche A Term Loan Availability Period. 
+
+^^^ \centered (ii) Tranche B Term Loan. The Tranche B Term Loan will be available only during the Tranche B Term Loan Availability Period.    
+
+^^^ \centered (b) Repayment. Borrower shall repay each Term Loan in (i) thirty-six (36) equal installments of pr**[[Borrower]]**ipal, plus (ii) monthly payments of accrued interest (the “**Term Loan Payment**”). Beginning on the last day of the month following the month in which the Funding Date occurs, each Term Loan Payment shall be payable on the last day of each month. Borrower’s final Term Loan Payment, due on the respective Tranche A Term Loan Maturity Date or Tranche B Term Loan Maturity Date, shall **[[Borrower]]**lude all outstanding pr**[[Borrower]]**ipal and accrued and unpaid interest under the applicable Term Loan. Once repaid, no Term Loan may be reborrowed. 
+
+^^^ \centered (c) Prepayment. Term Loans may be prepaid, in whole or in part prior to the respective Term Loan Maturity Date by Borrower, effective three (3) Business Days after written notice of such prepayment is given to Bank. Notwithstanding any such prepayment, Bank’s lien and security interest in the Collateral shall continue until Borrower fully satisfies its Obligations. If such prepayment is at Borrower’s election or at Bank’s election due to the occurrence and continuance of an Event of Default, Borrower shall pay to Bank, in addition to the payment of any other expenses or fees then-owing, a termination fee in an amount equal to (i) if such prepayment occurs after the Funding Date of any Term Loan but prior to the day that is 365 days after the Funding Date of such Term Loan (the “**Applicable Term Loan** **First Anniversary**”), one percent ([[Percentage 1: Number]]%) of the pr**[[Borrower]]**ipal amount of the applicable Term Loan so prepaid; (ii) if such prepayment occurs after the Applicable Term Loan First Anniversary but prior to the day that is 365 days from the Applicable Term Loan First Anniversary (the “**Applicable Term Loan** **Second Anniversary**”), one-half of one percent ([[Percentage 2: Number]]%) of the pr**[[Borrower]]**ipal amount of the applicable Term Loan so prepaid; and (iii) if such prepayment occurs after the Applicable Term Loan Second Anniversary, zero percent ([[Percentage 3: Number]]%) of the applicable Term Loan so prepaid; provided that no termination fee shall be charged if any Term Loan hereunder is replaced with a new facility from another division of **[[Bank]]** Upon payment in full of the Obligations and at such time as Bank’s obligation to make Credit Extensions has terminated, Bank shall terminate and release its liens and security interests in the Collateral and all rights therein shall revert to Borrower.” 
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 2.3(a) thereof: 
+
+^^^ \centered “(a) Advances. Each Advance shall bear interest on the outstanding pr**[[Borrower]]**ipal amount thereof from the date when made, continued or converted until paid in full at a rate per annum equal to the Prime Rate plus the Prime Rate Margin (as such term is defined in the LIBOR Supplement attached hereto) or the LIBOR Rate plus the LIBOR Rate Margin (as such term is defined in the LIBOR Supplement attached hereto), as the case may be. On and after the expiration of any Interest Period applicable to any LIBOR Advance outstanding on the date of occurrence of an Event of Default or acceleration of the Obligations, the Effective Amount of such LIBOR Advance shall, during the continuance of such Event of Default or after acceleration, bear interest at a rate per annum equal to the Prime Rate plus five percent ([[Percentage 4: Number]]%). Pursuant to the terms hereof, interest on each Advance shall be paid in arrears on each Interest Payment Date. Interest shall also be paid on the date of any prepayment of any Advance pursuant to the Loan Agreement for the portion of any Advance so prepaid and upon payment (**[[Borrower]]**luding prepayment) in full thereof. All accrued but unpaid interest on the Advances shall be due and payable on the Revolving Line Maturity Date.” 
+
+and inserting the following in lieu thereof:
+
+“(a) (i) Advances. Subject to Section 2.3(b), the pr**[[Borrower]]**ipal amount outstanding under the Revolving Line shall accrue interest at a floating per annum rate equal to the Prime Rate plus one percent ([[Percentage 1]]%), which interest shall be payable monthly, in arrears, in accordance with Section 2.3(g) below.”
+
+^^^Term Loan. Subject to Section 2.3(b), the pr**[[Borrower]]**ipal amount outstanding under any Term Loan shall accrue interest at a floating per annum rate equal to the Prime Rate plus two and one-half percent ([[Percentage 5: Number]]%), which interest shall be payable monthly, in arrears, in accordance with Section 2.3(g) below.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 2.3(d) thereof: 
+
+^^^ \centered “(d) LIBOR Advances. The interest rate applicable to each LIBOR Advance shall be determined in accordance with Section 5(a) of the LIBOR Supplement. Subject to Sections 5 and 6 of the LIBOR Supplement, such rate shall apply during the entire Interest Period applicable to such LIBOR Advance, and interest calculated thereon shall be payable on the Interest Payment Date applicable to such LIBOR Advance.” 
+
+and inserting the following in lieu thereof:
+
+“(d) [Intentionally omitted.]”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 2.4(c) thereof: 
+
+^^^ \centered “(c) Termination Fee. Subject to the terms of Section 4.1, a termination fee;” 
+
+and inserting the following in lieu thereof:
+
+“(c) Termination Fee. Subject to the terms of Section 2.1.5(c) with respect to Term Loans and Section 4.1 with respect to Advances, a termination fee;”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 2.4(e) thereof: 
+
+^^^ \centered “(e) Collateral Monitoring Fee. During each month in which any Obligations are outstanding under this Agreement, a monthly collateral monitoring fee of $750, payable in arrears on the last day of each month (prorated for any partial month) at the beginning and upon termination of this Agreement; provided, however, such fee shall be waived for any month in which Borrower’s unrestricted cash on deposit at Bank plus unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein, is greater than $[[USD Value 1: Number]] at all times during such month; and 
+
+and inserting in lieu thereof the following:
+
+“(e) Collateral Monitoring Fee. A monthly collateral monitoring fee of $850, payable in arrears on the last day of each month (prorated for any partial month at the beginning and upon termination of this Agreement);”
+
+^^^ \centered  The Loan Agreement shall be amended by inserting the following new Section 2.4(g) immediately following Section 2.4(f): 
+
+“(g) Term Loan Fee. (i) on the Funding Date of the Tranche A Term Loan, a fee equal to three-eighths of one percent ([[Percentage 6: Number]]%) of the Tranche A Term Loan; and (ii) on the Funding Date of the Tranche B Term Loan, a fee equal to three-eighths of one percent ([[Percentage 6]]%) of the Tranche B Term Loan.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 3.4 thereof: 
+
+“3.4 **Procedures for Borrowing**. In addition to and supplemental of the requirements set forth in Section 3 the LIBOR Supplement to the Loan Agreement attached hereto as Exhibit E and specifically **[[Borrower]]**orporated by reference herein, subject to the prior satisfaction of all other applicable conditions to the making of an Advance set forth in this Agreement, to obtain an Advance (other than Advances under Sections 2.1.2 or 2.1.4), Borrower shall notify Bank (which notice shall be irrevocable) by electronic mail, facsimile, or telephone by 12:00 p.m. Eastern time on the Funding Date of the Advance. Together with such notification, Borrower must promptly deliver to Bank by electronic mail or facsimile a completed Transaction Report executed by a Responsible Officer or his or her designee. Bank shall credit Advances to the Designated Deposit Account. Bank may make Advances under this Agreement based on instructions from a Responsible Officer or his or her designee or without instructions if the Advances are necessary to meet Obligations which have become due. Bank may rely on any telephone notice given by a person whom Bank believes is a Responsible Officer or designee.”
+
+and inserting in lieu thereof the following:
+
+“3.4 **Procedures for Borrowing.**
+
+^^Advances. Subject to the prior satisfaction of all other applicable conditions to the making of an Advance set forth in this Agreement, to obtain an Advance other than Advances under Sections 2.1.2 or 2.1.4), Borrower shall notify Bank (which notice shall be irrevocable) by electronic mail, facsimile, or telephone by 12:00 noon, Eastern time on the Funding Date of the Advance. Together with any such electronic or facsimile notification, Borrower shall deliver to Bank by electronic mail or facsimile a completed Transaction Report executed by a Responsible Officer or his or her designee. Bank may rely on any telephone notice given by a person whom Bank believes is a Responsible Officer or designee. Bank shall credit Advances to the Designated Deposit Account. Bank may make Advances under this Agreement based on instructions from a Responsible Officer or his or her designee or without instructions if the Advances are necessary to meet Obligations which have become due.
+
+^^Term Loan. Subject to the prior satisfaction of all other applicable conditions to the making of any Term Loan set forth in this Agreement, to obtain a Term Loan, Borrower shall notify Bank (which notice shall be irrevocable) by electronic mail, facsimile, or telephone by 12:00 noon, Eastern time on the Funding Date of the applicable Term Loan. Together with such notification, Borrower must promptly deliver to Bank by electronic mail or facsimile a completed Payment/Advance Form executed by a Responsible Officer or his or her designee. Bank shall credit the Term Loan to the Designated Deposit Account. Bank may make Term Loans under this Agreement based on instructions from a Responsible Officer or his or her designee or without instructions if the Term Loan or Term Loans are necessary to meet Obligations which have become due. Bank may rely on any telephone notice given by a person whom Bank believes is a Responsible Officer or designee.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing in Section 4.1 thereof: 
+
+“This Agreement may be terminated prior to the Revolving Line Maturity Date by Borrower, effective three (3) Business Days after written notice of termination is given to Bank or if Bank’s obligation to fund Credit Extensions terminates pursuant to the terms of Section 2.1.1(c). Notwithstanding any such termination, Bank’s lien and security interest in the Collateral shall continue until Borrower fully satisfies its Obligations. If such termination is at Borrower’s election or at Bank’s election due to the occurrence and continuance of an Event of Default, Borrower shall pay to Bank, in addition to the payment of any other expenses or fees then-owing, a termination fee in an amount equal to one percent ([[Percentage 1]]%) of the Revolving Line provided that no termination fee shall be charged if the credit facility hereunder is (i) terminated after twelve months after the Effective Date or (ii) replaced with a new facility from another division of **[[Bank]]** Upon payment in full of the Obligations and at such time as Bank’s obligation to make Credit Extensions has terminated, Bank shall release its liens and security interests in the Collateral and all rights therein shall revert to Borrower.”
+
+and inserting in lieu thereof the following:
+
+“From and after the Fifth Loan Modification Effective Date, the Revolving Line may be terminated prior to the Revolving Line Maturity Date by Borrower, effective three (3) Business Days after written notice of such prepayment is given to Bank. Notwithstanding any such prepayment, Bank’s lien and security interest in the Collateral shall continue until Borrower fully satisfies its Obligations. If such prepayment is at Borrower’s election or at Bank’s election due to the occurrence and continuance of an Event of Default, Borrower shall pay to Bank, in addition to the payment of any other expenses or fees then-owing, a termination fee in an amount equal to (i) if such prepayment occurs after the Fifth Loan Modification Effective Date but prior to the day that is 180 days after the Fifth Loan Modification Effective Date, one percent ([[Percentage 1]]%) of the Revolving Line (i.e. $[[USD Value 2: Number]]); (ii) if such prepayment occurs on or after the date that is 180 days after the Fifth Loan Modification Effective Date, but prior to the day that is 365 days from the Fifth Loan Modification Effective Date (the “**Revolving Line First** Anniversary**”), one-half of one percent ([[Percentage 2]]%) of the Revolving Line (i.e. $[[USD Value 3: Number]]); and (iii) if such prepayment occurs after the Revolving Line First Anniversary, zero percent ([[Percentage 3]]%) of the Revolving Line; provided that no termination fee shall be charged if the Revolving Line is replaced with a new facility from another division of [[Bank]]** Upon payment in full of the Obligations and at such time as Bank’s obligation to make Credit Extensions has terminated, Bank shall terminate and release its liens and security interests in the Collateral and all rights therein shall revert to Borrower.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 6.2(a)(i) thereof: 
+
+^^^ \centered “(i) twice per month as of the 15th day and as of the last day of each month (monthly, in the event Borrower maintains or exceeds $[[USD Value 1]] in (A) Borrower’s unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line    
+
+^^^ \centered under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein), and upon each request for a Credit Extension, a Transaction Report;” 
+
+and inserting in lieu thereof the following:
+
+“(i) twice per month, as of the 15th day and as of the last day of each month, if there are outstanding Credit Extensions under the Revolving Line (monthly, in the event (I) there are no outstanding Credit Extensions under the Revolving line for the entire calendar month then ended or (II) Borrower maintains or exceeds $[[USD Value 1]] in (A) Borrower’s unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein), and upon each request for a Credit Extension, a Transaction Report;”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 6.3(c) thereof: 
+
+^^^ \centered “(c) Collection of Accounts. Borrower shall have the right to collect all Accounts, unless and until a Default or an Event of Default has occurred and is continuing. Accounts shall be deposited by Borrower into a lockbox account, or such other “blocked account” as Bank may specify, pursuant to a blocked account agreement in such form as Bank may specify in its good faith business judgment. Whether or not an Event of Default has occurred and is continuing, Borrower shall hold all Payments on, and proceeds of, Accounts in trust for Bank, and Borrower shall immediately deliver all such payments and proceeds to Bank in their original form, duly endorsed, to be applied to the Obligations pursuant to the terms of Section 9.4 hereof; provided, however, in the event (i) Borrower maintains or exceeds $[[USD Value 1]] in (A) Borrower’s unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein and (ii) no Default or Event of Default has occurred and in is continuing, Payments on, and proceeds of, Accounts shall be applied to the Obligations pursuant to the terms of Section 9.4 hereof only in the event the outstanding pr**[[Borrower]]**ipal amount of the Obligations then exceeds $[[USD Value 4: Number]] (and only to the extent the Obligations then exceed $[[USD Value 4]]) and shall otherwise be transferred by Bank to an operating account of Borrower maintained at Bank.” 
+
+and inserting in lieu thereof the following:
+
+“(c) Collection of Accounts. Borrower shall have the right to collect all Accounts, unless and until a Default or an Event of Default has occurred and is continuing. All payments on, and proceeds of, Accounts shall be deposited directly by the applicable Account Debtor into a lockbox account, or such other “blocked account” as Bank may specify, pursuant to a blocked account agreement in form and substance satisfactory to Bank in its sole discretion. Whether or not an Event of Default has occurred and is continuing, Borrower shall hold all payments on, and proceeds of, Accounts in trust for Bank, and Borrower shall promptly deliver all such payments and proceeds to Bank in their original form, duly endorsed, to be applied to be applied to the Obligations pursuant to the terms of Section 9.4 hereof; provided, however, in the event (i) Borrower maintains or exceeds $[[USD Value 1]] in (A) Borrower’s unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein and (ii) no Default or Event of Default has occurred and in is continuing, Payments on, and proceeds of,
+
+Accounts shall be applied to the Obligations pursuant to the terms of Section 9.4 hereof only in the event the outstanding pr**[[Borrower]]**ipal amount of the Obligations then exceeds $[[USD Value 5: Number]] (and only to the extent the Obligations then exceed $[[USD Value 5]]) and shall otherwise be transferred by Bank to an operating account of Borrower maintained at Bank.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following text appearing as Section 6.6 thereof: 
+
+^^ \centered “ 6.9 **Financial Covenants**. 
+
+Borrower shall maintain at all times, to be certified by the Borrower as of the last day of each month, unless otherwise noted, on a consolidated basis with respect to Borrower and its Subsidiaries:
+
+^^Liquidity. Borrower’s (A) unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein, of at least $[[USD Value 6: Number]]
+
+^^Tangible Net Worth. A Tangible Net Worth, tested as of the last day of each fiscal quarter, of at least (i) as of the quarter ending [[Date 2: Date]], $[[USD Value 7: Number]] and (ii) as of the quarter ending [[Date 3: Date]] and as of the end of each fiscal quarter of Borrower thereafter, $[[USD Value 8: Number]] The Tangible Net Worth requirements set forth herein shall**[[Borrower]]**rease by [[Percentage 7: Number]]% of quarterly Net **[[Borrower]]**ome and [[Percentage 7]]% of issuances of equity after the Third Loan Modification Effective Date.”
+
+and inserting in lieu thereof the following:
+
+^^ \centered “ 6.9 **Financial Covenants**. 
+
+Borrower shall maintain at all times, to be certified by the Borrower as of the last day of each month, unless otherwise noted, on a consolidated basis with respect to Borrower and its Subsidiaries:
+
+^^Liquidity. Borrower’s (A) unrestricted cash on deposit at Bank plus (B) the difference between (i) gross Borrowing Base availability (as determined by Bank from Borrower’s most recent Borrowing Base Certificate) minus (ii) all outstanding Obligations owed by Borrower to Bank, of at least $[[USD Value 6]]
+
+^^Tangible Net Worth. A Tangible Net Worth, tested as of the last day of each fiscal quarter, of at least the following for the periods listed below:
+
+**Quarterly Period Ending**      \centered **Minimum Tangible Net Worth**
+
+[[Date 4: Date]]      $   7,500,000
+
+[[Date 5: Date]]      $   8,000,000
+
+[[Date 6: Date]], [[Date 7: Date]] and [[Date 8: Date]]      $   11,000,000
+
+[[Date 9: Date]], and each quarterly period ending thereafter      $   13,000,000
+
+The Tangible Net Worth requirements set forth above shall**[[Borrower]]**rease by [[Percentage 7]]% of the proceeds from issuances of equity and/or the **[[Borrower]]**urrence of Subordinated Debt after the Fifth Loan Modification Effective Date.”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following definitions appearing in Section 13.1 thereof, entitled “Definitions”: 
+
+^^^ \centered “ “**Availability Amount**” is (a) the lesser of (i) the Revolving Line or (ii) the Borrowing Base minus (b) the amount of all outstanding Letters of Credit (**[[Borrower]]**luding drawn but unreimbursed Letters of Credit plus an amount equal to the Letter of Credit Reserves), minus (c) the FX Reserve, and minus (d) the outstanding pr**[[Borrower]]**ipal balance of any Advances (**[[Borrower]]**luding any amounts used for Cash Management Services). 
+
+^^^ \centered “**Borrowing Base**” is [[Percentage 8: Number]]% of Eligible Accounts, as determined by Bank from Borrower’s most recent Borrowing Base Certificate, provided, however, that Bank may decrease the foregoing percentagein its good faith business judgment based on events, conditions, contingencies, or risks which, as determined by Bank, may adversely affect Collateral. 
+
+^^^ \centered “**Credit Extension**” is any Advance, Letter of Credit, FX Forward Contract, amount utilized for Cash Management Services, or any other extension of credit by Bank for Borrower’s benefit. 
+
+^^^ \centered “**Revolving Line Maturity Date**” is [[Date 10: Date]].” 
+
+and inserting in lieu thereof the following:
+
+“ “**Availability Amount**” is (a) the lesser of (i) the Revolving Line minus [[Percentage 9: Number]]% of the outstanding pr**[[Borrower]]**ipal balance of and accrued but unpaid interest on the Term Loans or (ii) the Borrowing Base, minus (b) the amount of all outstanding Letters of Credit (**[[Borrower]]**luding drawn but unreimbursed Letters of Credit plus an amount equal to the Letter of Credit Reserves), minus (c) the FX Reserve, and minus (d) the outstanding pr**[[Borrower]]**ipal balance of any Advances (**[[Borrower]]**luding any amounts used for Cash Management Services).
+
+“**Borrowing Base**” is [[Percentage 8]]% of Eligible Accounts, as determined by Bank from Borrower’s most recent Borrowing Base Certificate minus [[Percentage 9]]% of the outstanding pr**[[Borrower]]**ipal balance of and accrued but unpaid interest on the Term Loans, provided, however, that Bank may decrease the foregoing advance rate percentagein its good faith business judgment based on events, conditions, contingencies, or risks which, as determined by Bank, may adversely affect Collateral.
+
+“**Credit Extension**” is any Advance, Letter of Credit, FX Forward Contract, amount utilized for Cash Management Services, Term Loan, or any other extension of credit by Bank for Borrower’s benefit.
+
+“**Revolving Line Maturity Date**” is [[Date 11: Date]].”
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following clause (m) from the definition of “Eligible Accounts” in Section 13.1 thereof:    
+
+^^^ \centered “(m) Accounts owing from an Account Debtor with respect to which Borrower has received deferred revenue (but only to the extent of such deferred revenue);” 
+
+and inserting in lieu thereof the following:
+
+“(m) in Bank’s sole discretion, Accounts owing from an Account Debtor with respect to which Borrower has received Deferred Revenue (but only to the extent of such Deferred Revenue);”
+
+^^^ \centered  The Loan Agreement shall be amended by inserting the following definitions in the appropriate alphabetical order in Section 13.1 thereof: 
+
+^^^ \centered “ “**Fifth Loan Modification Agreement**” means that certain Fifth Loan Modification Agreement, dated as of the Fifth Loan Modification Effective Date, by and between Borrower and Bank.” 
+
+“**Fifth Loan Modification Effective Date**” is the date noted on the signature page to the Fifth Loan Modification Agreement.
+
+“**Payment/Advance Form**” is that certain form attached as Exhibit B to the Fifth Loan Modification Agreement.
+
+“**Tranche A Term Loan**” is defined in Section 2.1.5.
+
+“**Tranche A Term Loan Amount**” is an aggregate pr**[[Borrower]]**ipal amount up to One Million Dollars ($[[USD Value 9: Number]]) plus any accrued but unpaid interest thereon outstanding at any time.
+
+“**Tranche A Term Loan Availability Period**” means the period commencing on the date that Borrower provides Bank evidence satisfactory to Bank, in its reasonable discretion, that Borrower has a Tangible Net Worth of not less than Nine Million Dollars ($[[USD Value 10: Number]]) for the quarterly period ending [[Date 4]] and terminating on the earlier to occur of (x) the occurrence of an Event of Default and (y) [[Date 6]].
+
+“**Tranche A Term Loan Maturity Date**” is the earlier to occur of (i) the occurrence of an Event of Default and (ii) the last day of the month that is thirty-five (35) months from the last day of the month following the month in which the Funding Date of the Tranche A Term Loan occurs.
+
+“**Tranche B Term Loan**” is defined in Section 2.1.5.
+
+“**Tranche B Term Loan Amount**” is an aggregate pr**[[Borrower]]**ipal amount up to One Million Dollars ($[[USD Value 9]]) plus any accrued but unpaid interest thereon outstanding at any time.
+
+“**Tranche B Term Loan Availability Period**” means the period commencing on the date that Borrower provides Bank evidence satisfactory to Bank, in its reasonable discretion, that Borrower has a Tangible Net Worth of not less than Nine Million Dollars ($[[USD Value 10]]) for the quarterly period ending [[Date 5]] and terminating on the earlier to occur of (i) the occurrence of an Event of Default and (ii) [[Date 7]].
+
+“**Tranche B Term Loan Maturity Date**” is the earlier to occur of (i) the occurrence of an Event of Default and (ii) the last day of the month that is thirty-five (35) months from the last day of the month following the month in which the Funding Date of the Tranche B Term Loan occurs.
+
+“**Term Loan**” or “**Term Loans**” means the Tranche A Term Loan and the Tranche B Term Loan.
+
+“**Term Loan Maturity Date**” means either or both of the Tranche A Term Loan Maturity Date or the Tranche B Term Loan Maturity Date, as applicable.”
+
+^^^ \centered  The Compliance Certificate appearing as **Exhibit D** to the Loan Agreement is hereby replaced with the Compliance Certificate attached as **Exhibit A** hereto. 
+
+^^^ \centered  The LIBOR Supplement to Agreement appearing as **Exhibit E** to the Loan Agreement is hereby replaced with the Payment/Advance Form attached as **Exhibit B** hereto. 
+
+^ \centered 4. CONDITIONS PRECEDENT. Borrower hereby agrees that the following documents shall be delivered to the Bank prior to or concurrently with the Fifth Loan Modification Effective Date, each in form and substance satisfactory to the Bank (collectively, the “**Conditions Precedent**”): 
+
+^^ \centered A. copies, certified by a duly authorized officer of the Borrower to be true and complete as of the date hereof, of each of (i) the governing documents of the Borrower as in effect on the date hereof, (ii) the resolutions of the Borrower authorizing the execution and delivery of this Loan Modification Agreement, the other documents executed in connection herewith and the Borrower’s performance of all of the transactions contemplated hereby, and (iii) an **[[Borrower]]**umbency certificate giving the name and bearing a specimen signature of each individual who shall be so authorized; 
+
+^^ \centered B. a certificate from the Secretary of State of the applicable State of organization of a recent date as to the Borrower’s existence and good standing, together with a certificate of foreign qualification from each applicable jurisdiction; 
+
+^^ \centered C. updated Perfection Certificates, duly executed by the Borrower; 
+
+^^ \centered D. an opinion from Borrower’s counsel as to authority of the Borrower to execute and deliver this Loan Modification Agreement and enforceability of this Loan Modification Agreement; 
+
+^^ \centered E. updated property insurance and liability insurance certificates; and 
+
+^^ \centered F. such other documents and/or instruments as Bank may request, in its reasonable discretion. 
+
+^ \centered 5. FEES. Borrower shall pay to Bank a modification fee in the amount of Thirty Seven Thousand Five Hundred Dollars ($[[USD Value 11: Number]]), which fee shall be due and payable and fully earned as of the date hereof. Borrower shall also reimburse Bank for all legal fees and expenses **[[Borrower]]**urred by Bank in connection with the Existing Loan Documents and this amendment thereto. 
+
+^ \centered 6. RATIFICATION OF INTELLECTUAL PROPERTY SECURITY AGREEMENT. Borrower hereby ratifies, confirms, and reaffirms, all and singular, the terms and conditions of the IP Agreement and acknowledges, confirms and agrees that the IP Agreement contains an accurate and complete listing of all Intellectual Property. 
+
+^ \centered 7. AUTHORIZATION TO FILE. Borrower hereby authorizes Bank to file UCC financing statements without notice to Borrower, with all appropriate jurisdictions, as Bank deems appropriate, in order to further perfect or 
+^ \centered    
+
+
+^ \centered protect Bank’s interest in the Collateral, **[[Borrower]]**luding a notice that any disposition of the Collateral, by either the Borrower or any other Person, shall be deemed to violate the rights of the Bank under the Code. 
+
+^ \centered 8. CONSISTENT CHANGES. The Existing Loan Documents are hereby amended wherever necessary to reflect the changes described above. 
+
+^ \centered 9. RATIFICATION OF LOAN DOCUMENTS. Borrower hereby ratifies, confirms, and reaffirms all terms and conditions of all security or other collateral granted to the Bank, and confirms that the indebtedness secured thereby **[[Borrower]]**ludes, without limitation, the Obligations. 
+
+^ \centered 10. NO DEFENSES OF BORROWER. Borrower hereby acknowledges and agrees that, as of the date of this Loan Modification Agreement, Borrower has no offsets, defenses, claims, or counterclaims against Bank with respect to the Obligations, or otherwise, and that if Borrower now has, or ever did have, any offsets, defenses, claims, or counterclaims against Bank, whether known or unknown, at law or in equity, all of them are hereby expressly WAIVED and Borrower hereby RELEASES Bank from any liability thereunder. 
+
+^ \centered 11. CONTINUING VALIDITY. Borrower understands and agrees that in modifying the existing Obligations, Bank is relying upon Borrower’s representations, warranties, and agreements, as set forth in the Existing Loan Documents. Except as expressly modified pursuant to this Loan Modification Agreement, the terms of the Existing Loan Documents remain unchanged and in full force and effect. Bank’s agreement to modifications to the existing Obligations pursuant to this Loan Modification Agreement in no way shall obligate Bank to make any future modifications to the Obligations. Nothing in this Loan Modification Agreement shall constitute a satisfaction of the Obligations. It is the intention of Bank and Borrower to retain as liable parties all makers of Existing Loan Documents, unless the party is expressly released by Bank in writing. No maker will be released by virtue of this Loan Modification Agreement. 
+
+^ \centered 12. RIGHT OF SET-OFF. In consideration of Bank’s agreement to enter into this Loan Modification Agreement, Borrower hereby reaffirms and hereby grants to Bank, a lien, security interest and right of set off as security for all Obligations to Bank, whether now existing or hereafter arising upon and against all deposits, credits, collateral and property, now or hereafter in the possession, custody, safekeeping or control of Bank or any entity under the control of Bank (**[[Borrower]]**luding a Bank subsidiary) or in transit to any of them. At any time after the occurrence and during the continuance of an Event of Default, without demand or notice, Bank may set off the same or any part thereof and apply the same to any Obligation of Borrower, even though unmatured and regardless of the adequacy of any other collateral securing the Obligations. ANY AND ALL RIGHTS TO REQUIRE BANK TO EXERCISE ITS RIGHTS OR REMEDIES WITH RESPECT TO ANY OTHER COLLATERAL WHICH SECURES THE OBLIGATIONS, PRIOR TO EXERCISING ITS RIGHT OF SETOFF WITH RESPECT TO SUCH DEPOSITS, CREDITS OR OTHER PROPERTY OF BORROWER ARE HEREBY KNOWINGLY, VOLUNTARILY AND IRREVOCABLY WAIVED. 
+
+^ \centered 13. JURISDICTION/VENUE. Borrower accepts for itself and in connection with its properties, unconditionally, the exclusive jurisdiction of any state or federal court of competent jurisdiction in the Commonwealth of Massachusetts in any action, suit, or proceeding of any kind against it which arises out of or by reason of this Loan Modification Agreement. NOTWITHSTANDING THE FOREGOING, THE BANK SHALL HAVE THE RIGHT TO BRING ANY ACTION OR PROCEEDING AGAINST ANY BORROWER OR ANY OF THEIR PROPERTY IN THE COURTS OF ANY OTHER JURISDICTION WHICH THE BANK DEEMS NECESSARY OR APPROPRIATE IN ORDER TO REALIZE ON THE COLLATERAL OR TO OTHERWISE ENFORCE THE BANK’S RIGHTS AGAINST THE BORROWER OR ITS PROPERTY. 
+
+^ \centered 14. COUNTERSIGNATURE. This Loan Modification Agreement shall become effective only when it shall have been executed by Borrower and Bank.    
+
+**IN WITNESS WHEREOF**, the parties hereto have caused this Loan Modification Agreement to be executed as a sealed instrument under the laws of the Commonwealth of Massachusetts as of the Fifth Loan Modification Effective Date.
+
+**BORROWER:**
+
+**[[Satcon]]**
+
+[[Satcon Signatory Email: Identity | Signature]]
+__________________________________________
+{{Satcon Entity => By: [[Satcon Signatory First Name]] [[Satcon Signatory Last Name]]
+Title: [[Satcon Signatory Title]]}}
+
+
+SATCON POWER SYSTEMS, **[[Borrower]]**
+
+[[SATCON POWER SYSTEMS Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON POWER SYSTEMS Borrower Entity => By: [[SATCON POWER SYSTEMS Borrower Signatory First Name]] [[SATCON POWER SYSTEMS Borrower Signatory Last Name]]
+Title: [[SATCON POWER SYSTEMS Borrower Signatory Title]]}}
+
+
+SATCON ELECTRONICS, **[[Borrower]]**
+
+[[SATCON ELECTRONICS Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON ELECTRONICS Borrower Entity => By: [[SATCON ELECTRONICS Borrower Signatory First Name]] [[SATCON ELECTRONICS Borrower Signatory Last Name]]
+Title: [[SATCON ELECTRONICS Borrower Signatory Title]]}}
+
+
+SATCON POWER SYSTEMS CANADA LTD.
+
+[[SATCON POWER SYSTEMS CANADA LTD. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON POWER SYSTEMS CANADA LTD. Entity => By: [[SATCON POWER SYSTEMS CANADA LTD. Signatory First Name]] [[SATCON POWER SYSTEMS CANADA LTD. Signatory Last Name]]
+Title: [[SATCON POWER SYSTEMS CANADA LTD. Signatory Title]]}}
+
+
+**BANK:**
+
+**[[Bank]]**
+
+[[Bank Signatory Email: Identity | Signature]]
+__________________________________________
+{{Bank Entity => By: [[Bank Signatory First Name]] [[Bank Signatory Last Name]]
+Title: [[Bank Signatory Title]]}}
+
+
+Fifth Loan Modification Effective Date: [[Date 12: Date]]
+
+\centered [Satcon Fifth Loan Modification Agreement Signature Page]
+
+**Exhibit A to Fifth Loan Modification Agreement**
+
+\centered **EXHIBIT D**
+
+\centered **COMPLIANCE CERTIFICATE**
+
+TO:   **[[Bank]]**   Date:
+FROM:   **[[Satcon]]**, et al.
+
+The undersigned authorized officer of **[[Satcon]]** and its Subsidiaries (“**Borrower**”) certifies that under the terms and conditions of the Loan and Security Agreement between Borrower and Bank (the “**Agreement**”), (1) Borrower is in complete compliance for the period ending with all required covenants except as noted below, (2) there are no Events of Default, (3) all representations and warranties in the Agreement are true and correct in all material respects on this date except as noted below; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date, (4) Borrower, and each of its Subsidiaries, has timely filed all required tax returns and reports, and Borrower has timely paid all foreign, federal, state and local taxes, assessments, deposits and contributions owed by Borrower except as otherwise permitted pursuant to the terms of Section 5.9 of the Agreement, and (5) no Liens have been levied or claims made against Borrower or any of its Subsidiaries, if any, relating to unpaid employee payroll or benefits of which Borrower has not previously provided written notification to Bank. Attached are the required documents supporting the certification. The undersigned certifies that these are prepared in accordance with generally GAAP consistently applied from one period to the next except as explained in an accompanying letter or footnotes. The undersigned acknowledges that no borrowings may be requested at any time or date of determination that Borrower is not in compliance with any of the terms of the Agreement, and that compliance is determined not just at the date this certificate is delivered. Capitalized terms used but not otherwise defined herein shall have the meanings given them in the Agreement.
+
+**Please indicate compliance status by circling Yes/No under “Complies” column.**
+
+**Reporting Covenant**      \centered **Required**      \centered **Complies**
+
+Monthly financial statements with Compliance Certificate      Monthly within 30 days      \centered Yes No
+Annual financial statement (CPA Audited) + CC      FYE within 120 days      \centered Yes No
+10-Q, 10-K and 8-K      Within 5 days after filing with SEC      \centered Yes No
+A/R & A/P Agings      Monthly within 15 days      \centered Yes No
+Projections      Annually      \centered Yes No
+Transaction Reports      Bi-weekly (monthly, in the event (I) there are no outstanding Credit Extensions under the Revolving line for the entire calendar month then ended or (II) Borrower maintains or exceeds $[[USD Value 1]] in (A) Borrower’s unrestricted cash on deposit at Bank plus (B) unused availability pursuant to the Revolving Line under this Agreement, as determined by Bank with reference to the Availability Amount set forth herein      \centered Yes No
+
+The following Intellectual Property was registered after the Effective Date (if no registrations, state “None”)
+
+**Financial Covenant**      \centered **Required**      \centered **Actual**      \centered **Complies**
+
+**Maintain, as indicated:**
+**Minimum Liquidity (at all times, certified monthly)**      **$**   **4,000,000**      **$**         \centered **Yes** **No**
+**Minimum Tangible Net Worth (quarterly)**      **$**      ***   **$**         \centered **Yes**  No**
+
+***See Section 6.9(b)**
+
+The following financial covenant analyses and information set forth in Schedule 1 attached hereto are true and accurate as of the date of this Certificate.
+
+The following are the exceptions with respect to the certification above: (If no exceptions exist, state “No exceptions to note.”)
+
+**[[Satcon]]**, et al.   **BANK USE ONLY**
+
+Received by:
+[[Received by Signatory Email: Identity | Signature]]
+__________________________________________
+{{Received by Entity => By: [[Received by Signatory First Name]] [[Received by Signatory Last Name]]
+Title: [[Received by Signatory Title]]}}
+
+Verified:
+AUTHORIZED SIGNER
+Date:
+
+Compliance Status: Yes No
+
+\centered **Schedule 1 to Compliance Certificate**
+
+\centered **Financial Covenants of Borrower**
+
+Dated: 
+
+^**Liquidity** (Section 6.9(a))
+
+Required: $[[USD Value 12: Number]] (at all times)
+
+Actual:
+
+^Unrestricted cash at Bank      $
+
+^Gross Borrowing Base availability (as determined by Bank from Borrower’s most recent Borrowing Base Certificate)      $
+
+^All outstanding Obligations owed by Borrower to Bank      $
+
+^Net Borrowing Base Availability (line B minus line C)      $
+
+^Liquidity (line A plus line D)      $
+
+Is line E equal to or greater than $[[USD Value 12]] ?
+
+No, not in compliance   Yes, in compliance
+
+^^^**Tangible Net Worth** (Section 6.9(b))
+
+Required: A Tangible Net Worth, tested as of the last day of each fiscal quarter, of at least the following for the periods listed below:
+
+**Quarterly Period Ending**      \centered **Minimum Tangible Net Worth**
+[[Date 4]]      $   7,500,000
+[[Date 5]]      $   8,000,000
+[[Date 6]], [[Date 7]] and [[Date 8]]      $   11,000,000
+[[Date 9]], and each quarterly period ending thereafter      $   13,000,000
+
+The Tangible Net Worth requirements set forth above shall**[[Borrower]]**rease by [[Percentage 7]]% of the proceeds from issuances of equity and/or the **[[Borrower]]**urrence of Subordinated Debt after the Fifth Loan Modification Effective Date.
+
+Actual:
+
+^Aggregate value of total assets of Borrower      $
+
+^Deferred Financing Costs      $
+
+^Aggregate value of goodwill of Borrower      $
+
+^Aggregate value of intangible assets of Borrower      $
+
+^Aggregate value of obligations owing to Borrower from officers or other directors      $
+
+^Aggregate value of any reserves not already deducted from assets      $
+
+^Total Liabilities      $
+
+^Value of line A plus B minus C minus D minus E minus F minus G      $
+
+Is line H equal to or greater than the sum of (i) $ plus (ii) % of the proceeds from issuances of equity and/or the **[[Borrower]]**urrence of Subordinated Debt after the Fifth Loan Modification Effective Date?
+
+No, not in compliance   Yes, in compliance
+
+Is Line H equal to or greater than $[[USD Value 10]] for the quarterly period ended [[Date 4]]?
+
+No, no Tranche A Term Loan Availability   Yes, can borrow Tranche A Term Loan through
+[[Date 6]] (provided no Event of Default)
+
+Is Line H equal to or greater than $[[USD Value 10]] for the quarterly period ended [[Date 5]]?
+
+No, no Tranche B Term Loan Availability   Yes, can borrow Tranche B Term Loan through
+[[Date 7]] (provided no Event of Default)
+
+**Exhibit B to Fifth Loan Modification Agreement**
+
+\centered **LOAN PAYMENT/ADVANCE REQUEST FORM**
+
+\centered **DEADLINE FOR SAME DAY PROCESSING IS NOON E.S.T**
+
+\centered Fax To:      Date:  
+
+**LOAN PAYMENT:**
+
+\centered **[[Satcon]]**, et al.**
+
+\centered 
+
+From Account #         To Account # \centered (Deposit Account #)         
+
+\centered (Loan Account #) Pr**[[Borrower]]**ipal $         and/or Interest $ 
+
+**Authorized Signature:**         Phone Number: Print Name/Title: 
+
+**LOAN ADVANCE:**
+
+Complete *Outgoing Wire Request* section below if all or a portion of the funds from this loan advance are for an outgoing wire.
+
+\centered From Account #         To Account # \centered (Loan Account #)         
+
+\centered (Deposit Account #)  
+
+\centered Amount of Advance $  
+
+All Borrower’s representations and warranties in the Loan and Security Agreement are true, accurate and complete in all material respects on the date of the request for an advance; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date:
+
+\centered **Authorized Signature:**         Phone Number: Print Name/Title: 
+
+**OUTGOING WIRE REQUEST:**
+
+**Complete only if all or a portion of funds from the loan advance above is to be wired.**
+
+Deadline for same day processing is noon, P.S.T.
+
+\centered Beneficiary Name:         Amount of Wire: $ Beneficiary Bank:         Account Number: City and State: 
+
+\centered Beneficiary Bank Transit (ABA) #:         Beneficiary Bank Code (Swift, Sort, Chip, etc.): **(For International Wire Only)**  
+
+\centered 
+
+Intermediary Bank:         Transit (ABA) #: For Further Credit to: 
+
+Special Instruction: 
+
+*By signing below, I (we) acknowledge and agree that my (our) funds transfer request shall be processed in accordance with and subject to the terms and conditions set forth in the agreements(s) covering funds transfer service(s), which agreements(s) were previously received and executed by me (us).*
+
+Authorized Signature:         nd Signature (if required): Beneficiary Bank:         Print Name/Title: Telephone #:         Telephone #:

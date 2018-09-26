@@ -1,250 +1,880 @@
+Certain confidential information contained in this exhibit was omitted by means of redacting a portion of the text and replacing it with [***]. This exhibit (containing the non-public information) has been filed separately with the Secretary of the Securities and Exchange Commission without redaction pursuant to a Confidential Treatment Request under Rule 24b-2 of the Securities Exchange Act of 1934. 
+
 \centered **EXECUTIVE EMPLOYMENT AGREEMENT** 
 
-This Executive Employment Agreement (the “Agreement”) is made and entered into as of the [[Date 1: Date]], by and between [[Executive]] (the “Executive”) and [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”). 
+This Executive Employment Agreement (“***Agreement***”) is made effective as of [[Date 1: Date]] (“***Effective Date***”), by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (“***Company***”) and [[Executive]] (“***Executive***”) (either party individually, a “***Party***”; collectively, the “***Parties***”)*.* 
 
-**WHEREAS**, the Company desires to employ Executive and to enter into an agreement, embodying the terms of such employment; and 
+WHEREAS, Company desires to retain the services of Executive as Executive Vice President and Chief Financial Officer; 
 
-**WHEREAS**, Executive desires to accept such employment and enter into such an agreement; 
+WHEREAS, the Parties desire to enter into this Agreement to set forth the terms and conditions of Executive’s employment by Company and to address certain matters related to Executive’s employment with Company; 
 
-**NOW, THEREFORE**, in consideration of the premises and mutual covenants herein and for other good and valuable consideration, the parties agree as follows: 
+NOW, THEREFORE, in consideration of the foregoing and the mutual provisions contained herein, and for other good and valuable consideration, the Parties hereto agree as follows: 
 
-^Term of Employment. Subject to the provisions of Section 8 of this Agreement, Executive shall be employed by the Company for a period commencing on [[Date 2: Date]] (the “Effective Date”) and ending five (5) years after the Effective Date, unless terminated earlier, as provided herein, in accordance with the provisions of Section 8 of this Agreement (the “Employment Term”). 
+^Employment. Company hereby employs Executive, and Executive hereby accepts such employment, upon the terms and conditions set forth herein. 
 
-^Position. 
+^Duties.  
 
-^^During the Employment Term, Executive shall serve as the Chief Executive Officer of the Company. Executive shall also have the option of assuming the title of President of the Company. In such position, Executive shall have such duties and authority as shall be determined from time to time by the Compensation Committee of the Board of Directors (“Comp Committee”) or such other designees of the Board of Directors’ authority hereunder as the Board of Directors may designate (collectively, the “Board”). Executive agrees to serve, if requested, without additional compensation, as an officer for each of the Company’s subsidiaries and other affiliates, including any entities in which the Company has a significant investment. Executive shall be nominated to serve as a member of the Board of Directors of the Company on or prior to the Company’s 2010 Annual Meeting. Executive shall serve as a member of the Boards of Directors of the Company and any of its subsidiaries or other affiliates without additional compensation, if requested. As used in this Agreement, the term “affiliates” will include any entity controlled by, controlling, or under common control of the Company. 
+^^Position. Executive is employed as Executive Vice President and Chief Financial Officer and shall report to and have the duties and responsibilities assigned by Company’s Chief Executive Officer (“***CEO***”) as may be reasonably assigned from time to time. Executive shall perform faithfully and diligently all duties assigned to Executive. Company reserves the right to modify Executive’s position and duties at any time in its sole and absolute discretion, provided that the duties assigned are consistent with the position of Executive Vice President and Chief Financial Officer or are otherwise agreed upon with Executive. 
 
-^^During the Employment Term, Executive will devote Executive’s full business time and best efforts to the performance of Executive’s duties hereunder and will not engage in any other business, profession or occupation for compensation or otherwise which would conflict or interfere with the rendition of such services, either directly or indirectly, without the prior written consent of the Board; provided that nothing herein shall preclude Executive, subject to the prior approval of the Board, from accepting appointment to or continuing to serve on any board of directors or trustees of any business corporation or any charitable organization or any industry association further provided, in each case, and in the aggregate, that such activities do not conflict or interfere with the performance of Executive’s duties hereunder or conflict with Section 9 or Section 10. Set forth on Exhibit A hereto is a complete list, as of the Effective Date, of the Executive’s positions on any board of directors or trustees of any business corporation or any charitable organization. 
+^^Standard of Conduct/Full-time. During the term of this Agreement, Executive will act loyally and in good faith to discharge the duties of Executive Vice President and Chief Financial Officer, and will abide by all policies and decisions made by Company, as well as all applicable federal, state and local laws, regulations or ordinances. Executive will act solely on behalf of Company at all times. Executive shall devote Executive’s full business time and efforts to the performance of Executive’s assigned duties for Company, unless Executive notifies the CEO in advance of Executive’s intent to engage in other paid work and receives the CEO’s express written consent to do so. Notwithstanding the foregoing, the Company hereby consents to Executive serving as a member of the board of directors of one (1) company which is not a Restricted Business (as defined in Section 9.2) any time after 12 months following the Effective Date. 
 
-^^At all times during the Employment Term, Executive shall strictly adhere to and obey all of the Company’s written rules, regulations and policies, including without limitation the [[Company]] Code of Ethics and Corporate Insider Trading Policy as provided to Executive on February , 2010, and as amended from time to time to conform to applicable rules and regulations or as determined by the Board or a committee thereof, which govern the operation of the Company’s business and the conduct of employees of the Company. 
+^^Work Location. Executive’s principal place of work shall be located in [[Address 1: Address]] such other location as the parties may agree upon from time to time. 
 
-^Base Salary. During the Employment Term, the Company shall pay Executive a base salary at the annual rate of $[[USD Value 1: Number]] payable in regular installments in accordance with the Company’s usual payment practices. Executive’s base salary shall be reviewed annually by the Comp Committee. Executive shall be entitled to such increases in Executive’s base salary, if any, as may be determined from time to time in the sole discretion of the Comp Committee. Executive’s annual base salary, as in effect from time to time, is hereinafter referred to as the “Base Salary.” 
+^At-Will Employment. Executive’s employment with the Company is at-will and not for any specified period and may be terminated at any time, with or without cause (as defined below), by either Executive or the Company subject to the provisions regarding termination set forth below in Section 7. Any change to the at-will employment relationship must be by specific, written agreement signed by Executive and the Company, and must be approved by the Company’s CEO and the Company’s Board of Directors. Nothing in this Agreement is intended to or should be construed to contradict, modify or alter this at-will relationship. 
 
-^Annual Bonus. 
+^^^^^ 
+^Compensation.  
 
-^^With respect to the 2010 fiscal year and each full fiscal year of the Company during the Employment Term (“Fiscal Year”), Executive shall be eligible to earn an annual bonus award (an “Annual Bonus”). The amount of each Annual Bonus shall be based on achievement of the annual targets (collectively, the “Bonus Targets”) mutually determined by the Comp Committee and Executive, which Bonus Targets shall include the following metrics: gross profit, net income, personal goals and achievements, Company revenue, share price, and such other metrics as agreed to by Executive and the Comp Committee on an annual basis, commencing with the Bonus Targets for the Company’s Fiscal Year commencing [[Date 3: Date]] and ending [[Date 4: Date]]. Within 90 days following the Effective Date and thereafter on or before the date which is 30 days prior to the end of each of the Company’s subsequent Fiscal Year ends, the Comp Committee will propose Bonus Targets for the upcoming Fiscal Year in consultation with the Executive and will make any adjustments to the Bonus Targets that the Comp Committee and the Executive agree are reasonable and appropriate. For each full Fiscal Year, if the Company achieves [[Percentage 1: Number]]% of its Bonus Targets for such Fiscal Year, the Annual Bonus shall have a target value equal to [[Percentage 1]]% of Executive’s Base Salary for that Fiscal Year. The Annual Bonus Target value shall be pro rated for the 2010 Fiscal Year based upon the percentage equal to number of days of such Fiscal Year following the Effective Date divided by 365. The Comp Committee will determine in its discretion what adjustments, if any, will be made to the Annual Bonus amount to be paid to Executive in the event the Company meets some but not all of its Bonus Targets for a Fiscal year. 
+^^Base Salary. As compensation for Executive’s performance of Executive’s duties hereunder, Company shall pay to Executive a salary of $[[USD Value 1: Number]] per year, payable in equal monthly installments and in accordance with the normal payroll practices of Company, less required deductions for state and federal withholding tax, social security and all other employment taxes and authorized payroll deductions. 
 
-^^Each Annual Bonus shall be deemed to vest and accrue at the end of the last day of the Fiscal Year for which it is earned. Each Annual Bonus shall be paid as soon as practicable following the end of the Fiscal Year for which it is earned, subject to the certification by the Chief Financial Officer of the Company and approval by the Comp Committee of achievement of the applicable performance targets and goals described in this Section 4 above and the amount of such Annual Bonus. The Annual Bonus, if any, shall be paid to Executive in all cases within the later of i) two and one-half (2.5) months after the end of the Fiscal Year or ii) 30 days after the completion of an external audit to the satisfaction of the Comp Committee, but in no event later than two and one-half (2.5) months after the end of the calendar year in which the Annual Bonus vests. 
+^^Equity. As an inducement to join the Company, Executive will receive the following equity awards (the “***Inducement Awards***”): (a) an award of 50,000 restricted stock units subject to the terms and conditions set forth in the Notice of Grant of Restricted Stock Units and Restricted Stock Units Agreement attached hereto as Exhibit A-1, (b) an award of 50,000 restricted stock units subject to the terms and conditions set forth in the Notice of Grant of Restricted Stock Units and Restricted Stock Units Agreement attached hereto as Exhibit A-2, and (c) an award of 25,000 performance shares subject to the terms and conditions set forth in the Notice of Grant of Performance Shares and 2009 Performance Share Agreement attached hereto as Exhibit A-3. Unless otherwise requested by Executive reasonably in advance of the date on which any tax withholding obligation arises, the Company will satisfy its tax withholding obligation with respect to the Inducement Awards as set forth in the applicable agreements attached in such exhibits. Subject to approval by Company’s Board of Directors (the “***Board***”), Company may from time to time grant to Executive various forms of equity awards of Company’s common stock (the “***Equity Awards***”); provided, however, that for the Company’s 2010 fiscal year, Executive shall be guaranteed a target award of 50,000 performance shares pursuant to the Company’s annual performance share program. The Equity Awards will be subject to the terms and conditions of Company’s 2005 Performance Incentive Plan, or any other subsequent employee equity plan approved in the future by the Board and, if applicable, the Company’s shareholders, as designated by the Board (the “***Plan***”). The Inducement Awards and the Equity Awards will be subject to the terms and conditions contained in the applicable forms of award agreement adopted by the Board and certain vesting acceleration provisions described in this Agreement. 
 
-^^Notwithstanding anything herein to the contrary, if the Company implements a plan from which the Company grants and administers cash incentive payments and the intent of such plan is to make the awards thereunder “qualified performance based compensation” under Section 162(m) of the Code, then on the day immediately prior to the day such plan is approved by shareholders (a) Section 4.a. shall be automatically and without further action amended and restated to read “With respect to each fiscal year of the Company during the Employment Term (“Fiscal Year”), Executive shall be eligible to earn an annual bonus award (an “Annual Bonus”) pursuant to and in accordance with the terms set from time to time by the Comp Committee.” and (b) Section 8.c.(ii)(B)(ii) shall be automatically and without further action amended and restated to read “the Annual Bonus for the Company’s Fiscal Year during which Executive’s termination without Cause occurred, based upon actual performance and prorated for the number of days employed during that Fiscal Year and paid within two and one half months after the end of such year”. 
+^^Incentive Compensation. In addition, Executive will also be eligible to receive incentive compensation subject to the terms and conditions contained in the Executive Bonus Plan, which is approved by the Board and is subject to amendment from time to time by the Board in its sole and absolute discretion (a “***Bonus***”). For 2009, the Company will guarantee that Executive will receive a minimum Bonus equal to $[[USD Value 2: Number]] (which is [[Percentage 1: Number]]% of the portion of Executive’s annual target bonus rate of $[[USD Value 1]] applicable to the second half of the 2009 fiscal year). For subsequent fiscal years, Executive will have a minimum annual target Bonus of $[[USD Value 3: Number]] Unless otherwise provided herein, the payment of any Bonus pursuant to this Section 4.3 shall be made in accordance with the normal payroll practices of Company, less required deductions for state and federal withholding tax, social security and all other employment taxes and authorized payroll deductions. 
 
-^Stock Option Award. On or as soon as practicable following the Effective Date, Executive will be granted under the [[Company]] 2007 Equity Incentive Plan (the “Plan”) an option agreement (the “Option Agreement”) containing incentive options for shares of common stock, up to the amount permitted by applicable law, and non-qualified stock options for the remainder resulting in the aggregate right to purchase up to [[Shares 1: Number]] shares of the Company’s common stock, subject to the terms and conditions of the Plan, and subject to the action of the committee that administers such Plan (the “Stock Options”). The per-share exercise price for the Stock Options will be the fair market value of a share of the Company’s common stock on the date of grant as provided in the Plan. The Stock Options shall have a ten (10) year term. The Stock Options will vest in five (5) equal installments on each of the first five (5) anniversary dates of the Effective Date of this Agreement, as long as Executive is employed by the Company on such date. Additionally, the Option Agreement shall have the other terms as set forth in Exhibit B and other reasonable and customary Company stock option agreement terms not inconsistent with those set forth in Exhibit B. 
+^^Performance and Salary Review. The Board will periodically review Executive’s performance on no less than an annual basis. Adjustments to salary or other compensation, if any, will be made by the Board in its sole and absolute discretion. 
 
-^Employee Benefits. 
+^Customary Fringe Benefits and Facilities. Executive will be eligible for all customary and usual fringe benefits generally available to executives of Company subject to the terms and conditions of Company’s benefit plan documents. Notwithstanding the Company’s policies, Executive will receive four (4) weeks of paid vacation annually. Company reserves the right to change or eliminate the fringe benefits on a prospective basis, at any time, effective upon notice to Executive; provided, however, that during the period of employment under this Agreement, Executive and his spouse and eligible dependents shall be 
 
-^^During the Employment Term, Executive shall be entitled to participate in the employee benefit plans of the Company or The Kirk & Blum Manufacturing Company (other than annual bonus plans, severance plans, and incentive plans) as in effect from time to time (collectively, “Employee Benefits”), on the same basis as those benefits are generally made available to other similarly situated executives. 
+^^^^^ 
+entitled to receive all benefits of employment generally available to other senior executives of the Company and those benefits for which key executives are or shall become eligible, when and as Executive becomes eligible therefore, including, without limitation, group health, life and disability insurance benefits and participation in Company’s 401 (k) plan. 
 
-^^Executive shall receive three (3) weeks paid vacation, of which not more than ten (10) days shall be taken consecutively, during each year of employment to accumulate from year to year to the extent not used and to be paid in cash to the extent not taken during the Employment Term, and such holiday and sick time as the as provided under the Company’s policies from time to time. 
+^Business Expenses. Executive will be reimbursed for all reasonable, out-of pocket business expenses incurred in the performance of Executive’s duties on behalf of Company. To obtain reimbursement, expenses must be submitted promptly with appropriate supporting documentation in accordance with Company’s policies. Any reimbursement Executive is entitled to receive shall (a) be paid no later than the last day of Executive’s tax year following the tax year in which the expense was incurred, (b) not be affected by any other expenses that are eligible for reimbursement in any tax year and (c) not be subject to liquidation or exchange for another benefit. 
 
-^^Executive shall receive a car allowance of $[[USD Value 2: Number]] per month. 
+^Termination of Executive’s Employment. 
 
-^^The Company and Executive acknowledge that Executive shall incur relocation expenses in connection with the Executive’s employment by the Company. The Company agrees that Executive shall be reimbursed for relocation expenses up to $[[USD Value 3: Number]] Any amounts in excess of $[[USD Value 4: Number]] shall require written approval of the Comp Committee. 
+^^Termination for Cause or Disability by Company; Death. Company may terminate Executive’s employment immediately at any time for Cause or following Executive’s Disability (as defined below). Executive’s employment shall terminate automatically upon Executive’s death. For purposes of this Agreement, “***Cause***” is defined as: (a) theft, material dishonesty in connection with Executive’s employment, or intentional falsification of any employment or Company records; improper disclosure of Company’s confidential or proprietary information; (b) Executive’s conviction (including any plea of guilty or *nolo contendere*) for any criminal act that materially impairs his ability to perform his duties for Company; (c) willful misconduct or breach of fiduciary duty for personal profit by Executive, (d) Executive’s material failure to abide by the Company’s code of conduct or code of ethics policies resulting in demonstrable injury to the Company or its reputation, or (e) a material breach of this Agreement by Executive which is not cured within thirty (30) days of receipt by Executive of reasonably detailed written notice from Company. For purposes of this Agreement, “***Disability***” shall have the meaning assigned to it in the group long term disability insurance policy maintained by the Company for the benefit of its employees. In the absence of such a policy, “***Disability”*** means that, as a result of Executive’s mental or physical illness, Executive is unable to perform (with or without reasonable accommodation in accordance with the Americans with Disabilities Act) the duties of Executive’s position pursuant to this Agreement for a continuous period of three (3) months. In the event Executive’s employment is terminated in accordance with this Section 7.1, Executive shall be entitled to receive only unpaid Base Salary then in effect, prorated to the date of termination, together with any amounts to which Executive is entitled pursuant to Sections 5 or 6 hereof. All other Company obligations to Executive pursuant to this Agreement will become automatically terminated and completely extinguished. Except as specifically set forth in this Section 7.1, Executive will not be entitled to receive the Severance Benefits described in Section 7.2, below. 
 
-^Business Expenses. During the Employment Term, reasonable travel, entertainment and other business expenses incurred by Executive in the performance of Executive’s as in effect from time to time duties hereunder shall be reimbursed by the Company in accordance with Company policies. 
+^^Termination Without Cause by Company; Severance. Company may terminate Executive’s employment under this Agreement without Cause at any time on sixty (60) days’ advance written notice to Executive. In the event of such termination, Executive will receive the unpaid Base Salary then in effect, prorated to the effective date of termination, together with any amounts to which Executive is entitled pursuant to Sections 5 or 6 hereof. In addition, the Company shall (X) pay a lump sum on the forty-fifth (45th) day following such termination in an amount equal to his Base Salary for twenty-four (24) months from the termination date, plus one year’s base Bonus pursuant to Section 4.3 of this Agreement for the calendar year during which the termination occurs, calculated based on the Bonus that would be paid to Executive if he had not been terminated and if all performance based milestones were achieved at the [[Percentage 2: Number]]% level by both Company and the Executive, such Bonus to be, solely for the purpose of defining Severance Benefits, not less than $[[USD Value 4: Number]] and all unpaid, but earned Bonus amounts during the year in which the termination occurs through the most recently completed fiscal 
 
-^Termination. The Employment Term and Executive’s employment hereunder may be terminated by either party at any time, with or without cause or for any or no cause; provided that Executive will be required to give the Company at least 60 days advance written notice of any resignation of Executive’s employment. Notwithstanding any other provision of this Agreement, the provisions of this Section 8 shall exclusively govern Executive’s rights upon termination of employment with the Company and its affiliates. 
+^^^^^ 
+quarter prior to the termination date; (Y) cause the immediate acceleration of the vesting of all outstanding earned-but-unvested Equity Awards; and (Z) in the event that Executive timely elects to obtain continued group health insurance coverage under COBRA following termination of employment under this Section 7.2, the Company will pay the premiums for such coverage through the earlier of (i) the date that is eighteen (18) months following the Termination Date, or (ii) the first date on which Executive becomes eligible for other group health insurance coverage pursuant to Executive’s subsequent employment (such amounts, accelerated vesting and insurance coverage, together with any amounts to which Executive is entitled pursuant to Sections 5 or 6 hereof as of the date of termination, shall be referred to herein as the “***Severance Benefits***”)*,* provided that (A) Executive and the Company execute a mutual full general release, releasing all claims, known or unknown, that they may have against each other arising out of or any way related to this Agreement or Executive’s employment or termination of employment with Company and such release has become effective in accordance with its terms prior to the forty-fifth (45th) day following such termination, in the form attached hereto as Exhibit B, as such form may be amended to comply with applicable law, and (B) the Severance Benefits shall be subject to Section 7.5 below. For purposes of this agreement, an “earned-but-unvested Equity Award” means an Equity Award or any portion thereof that remains subject to a substantial risk of forfeiture until both (i) one or more applicable corporate financial or other business performance goals have been satisfied and (ii) Executive’s service with the Company has continued through a specified date, and with respect to such Equity Award the condition specified in clause (i) of this sentence has been satisfied but the condition specified in clause (ii) of this sentence has not been satisfied. All other Company obligations to Executive will be automatically terminated and completely extinguished upon termination of employment. The provisions of this Section 7.2 shall not apply to termination of Executive’s employment by reason of death or Disability. 
 
-^^By the Company For Cause or By Executive Resignation. 
+^^Termination for Good Reason by Executive; Severance. Executive may terminate Executive’s employment under this Agreement for Good Reason (defined below) at any time on five (5) days’ advance written notice to Company given within one hundred eighty (180) days following the initial existence of a condition constituting Good Reason. In the event of such termination for Good Reason, Executive will receive the unpaid Base Salary then in effect, prorated to the effective date of termination together with any amounts to which Executive is entitled pursuant to Sections 5 and 6 hereof. In addition, Executive will be entitled to receive the Severance Benefits described in Section 7.2, above, provided that Executive complies with the conditions to receiving the Severance Benefits described in Sections 7.2(A) and 7.2(B), above. All other Company obligations to Executive will be automatically terminated and completely extinguished upon termination of employment. For purposes of this Agreement, “***Good Reason***” is defined as the occurrence and continuation of any of the following conditions, provided that Executive has delivered written notice to the Company of such condition within ninety (90) days after its initial existence and the Company has failed to cure such condition within thirty (30) days following such written notice: 
 
-^^^The Employment Term and Executive’s employment hereunder may be terminated by the Company for Cause (as defined below) and shall terminate automatically upon Executive’s resignation; provided that Executive shall be required to give the Company at least 60 days advance written notice of a resignation. 
+^^a material, adverse change in Executive’s authority, responsibilities or duties; provided, that for purposes of this Agreement and without limiting the generality of the foregoing, a material, adverse change shall be deemed to occur if Executive no longer serves as Chief Financial Officer (who shall be the most senior financial executive) of a publicly-traded company reporting directly to the CEO; 
 
-For purposes of this Agreement, “Cause” shall mean: 
+^^the relocation of Executive’s work place for Company over Executive’s written objection, to a location more than thirty (30) miles from [[Address 2: Address]]; 
 
-^the wilfull and material breach of Executive of any provision of this Agreement;
+^^a failure to pay, or any material reduction of Executive’s Base Salary or Executive’s Bonus without Executive’s written consent (subject to applicable performance requirements with respect to the actual amount of Bonus earned by Executive); or 
 
-^any act by Executive of fraud or dishonesty including, but not limited to, stealing or falsification of company records, with respect to the Company or its affiliates;
+^^^^^ 
+^^any material breach of this Agreement by Company that is not cured within thirty (30) days of Company’s receipt of written notice from Executive specifying the material breach of this Agreement. 
 
-^failure by Executive to perform his duties as lawfully directed by the Board, provided the Company has delivered to Executive a written notice setting forth such failure and shall have given Executive an opportunity to meet with the Company and to remedy or cure such failure within 15 business days following delivery of such written notice;
+^^Voluntary Resignation by Executive. Executive may voluntarily resign Executive’s position with Company for any reason, at any time after the Effective Date, on five (5) days’ advance written notice. In the event of Executive’s resignation, Executive will be entitled to receive only the Base Salary for the five-day notice period and no other amount (other than amounts to which Executive is entitled pursuant to Section 5 or 6 hereof). All other Company obligations to Executive pursuant to this Agreement will become automatically terminated and completely extinguished upon termination of employment. In addition, Executive will not be entitled to receive any other Severance Benefits described in Section 7.2, above. The provisions of this Section 7.4 shall not apply to Executive’s resignation for Good Reason. 
 
-^misappropriation of Company funds or of any corporate opportunity;
+^^Forfeiture of Severance Benefits. The right of Executive to receive or to retain Severance Benefits pursuant to Section 7.2 or Section 7.3 shall be subject to Executive’s continued compliance with the Covenants (as defined in Section 12). In the event that an arbitrator finds in accordance with the procedures described in Section 13 that Executive has engaged in a material breach of any of the Covenants, the Company shall have the right to (a) terminate any further provision of Severance Benefits not yet paid or provided, (b) seek reimbursement from Executive for any and all such Severance Benefits previously paid or provided to Executive, (c) recover from Executive all shares of stock of the Company the vesting of which was accelerated by reason of the Severance Benefits (or the proceeds therefrom, reduced by any exercise or purchase price paid to acquire such shares), and (d) to immediately cancel all Equity Awards the vesting of which was accelerated by reason of the Severance Benefits. 
 
-^any unauthorized use or disclosure of Confidential Information (as defined herein);
+^^Acceleration of Vesting on a Change in Control. In the event of a Change in Control (as defined by the applicable award agreements described in Section 4.2 or, absent such definition therein, as defined by the Company’s 2005 Performance Incentive Plan or other employee equity plan approved by the Board), the vesting of all then unvested Inducement Awards and Equity Awards granted to Executive will accelerate immediately prior to, but contingent upon the consummation of, the Change in Control, irrespective of whether, within a period of four (4) months prior to such Change in Control, Executive has been involuntarily terminated by the Company without Cause as described in Section 7.2 or has terminated his employment for Good Reason as described in Section 7.3. 
 
-^conviction of Executive of a felony, or of a crime that the Company, in its sole discretion, determines involves a subject matter which may reflect negatively on the reputation or business of the Company or any of its affiliates (or a plea of *nolo contendere* thereto), excluding minor traffic violations and similar incidents;
+^No Conflict of Interest. During the term of Executive’s employment with Company, Executive must not engage in any work, paid or unpaid, that creates an actual or potential conflict of interest with Company. If the Board reasonably believes such a conflict exists during the term of this Agreement, the Board may ask Executive to choose to discontinue the other work or resign employment with Company. 
 
-^acts by Executive attempting to secure or securing any personal profit not fully disclosed to and approved by the Board in connection with any transaction entered into on behalf of the Company or any of its affiliates;
+^Post-Termination Non-Competition.  
 
-^gross, willful or wanton negligence, misconduct, or other conduct on the part of Executive, which constitutes a breach of any fiduciary duty or duty of loyalty owed to the Company by Executive; provided the Company has delivered to Executive a written notice setting forth such conduct and shall have given Executive an opportunity to meet with the Company and to remedy or cure such conduct within 15 business days following delivery of such written notice;
+^^Consideration For Promise To Refrain From Competing. Executive agrees that Executive’s services are special and unique, that Company’s disclosure of confidential, proprietary information and specialized training and knowledge to Executive, and that Executive’s level of compensation and benefits are partly in consideration of and conditioned upon Executive not competing with Company. Executive acknowledges that such consideration is adequate for Executive’s promises contained within this Section 9. 
 
-^acceptance by Executive of employment with another employer, other than employment approved by the Board of Directors in accordance with Section 2(b) of this Agreement;
+^^^^^ 
+^^Promise To Refrain From Competing. Executive understands Company’s need for Executive’s promise not to compete with Company is based on the following: (a) Company has expended, and will continue to expend, substantial time, money and effort in developing its proprietary information; (b) Executive will in the course of Executive’s employment develop, be personally entrusted with and exposed to Company’s proprietary information; (c) both during and after the term of Executive’s employment, Company will be engaged in the highly competitive retail demand chain software industry; (d) Company provides products and services nationally and internationally; and (e) Company will suffer great loss and irreparable harm if Executive were to enter into competition with Company. Therefore, in exchange for the consideration described in Section 9.1 above, Executive agrees that for the period of nine (9) months following the date Executive ceases to render services to Company (the “***Covenant Period***”), Executive will not either directly or indirectly, whether as an owner, director, officer, manager, consultant, agent or employee: (i) work for a competitor of Company, which is defined to include those entities or persons in the business of developing, marketing, selling and supporting software designed for businesses in the retail and consumer packaged goods markets or in the business of helping companies synchronize their inventory decisions with advanced supply chain, inventory management and data mining solutions, in any country in which Company does business (the “***Restricted Business***”) or (ii) make or hold during the Covenant Period any investment in any Restricted Business, whether such investment be by way of loan, purchase of stock or otherwise, provided that there shall be excluded from the foregoing the ownership of not more than [[Percentage 3: Number]]% of the listed or traded stock of any publicly held corporation. For purposes of this Section 9, the term “***Company***” shall mean and include Company, any subsidiary or affiliate of Company, any successor to the business of Company (by merger, consolidation, sale of assets or stock or otherwise) and any other corporation or entity of which Executive may serve as a director, officer or employee at the request of Company or any successor of Company. 
 
-^conduct on the part of Executive, even if not in connection with the performance of Executive’s duties contemplated under this Agreement, that could result in serious prejudice to the interests of the Company or any of its affiliates, as determined by the Board in its sole discretion, and failure by Executive to cease such conduct immediately upon receipt of notice to cease such conduct;
+^^Reasonableness of Restrictions. Executive represents and agrees that the restrictions on competition, as to time, geographic area, and scope of activity, required by this Section 9 are reasonable, do not impose a greater restraint than is necessary to protect the goodwill and business interests of Company, and are not unduly burdensome to Executive. Executive expressly acknowledges that Company competes on an international basis and that the geographical scope of these limitations is reasonable and necessary for the protection of Company’s trade secrets and other confidential and proprietary information. Executive further agrees that these restrictions allow Executive an adequate number and variety of employment alternatives, based on Executive’s varied skills and abilities. Executive represents that Executive is willing and able to compete in other employment not prohibited by this Agreement. 
 
-^violation of any material federal or state securities laws, rules or regulations, as determined by the Board in its sole and good faith discretion; or
+^^Reformation if Necessary. In the event a court of competent jurisdiction determines that the geographic area, duration, or scope of activity of any restriction under this Section 9 and its subsections is unenforceable, the restrictions under this section and its subsections shall not be terminated but shall be reformed and modified to the extent required to render them valid and enforceable. Executive further agrees that the court may reform this Agreement to extend the Covenant Period by an amount of time equal to any period in which Executive is in breach of this covenant. 
 
-^(A) obstructing or impeding; (B) endeavoring to influence, obstruct or impede, or (C) failing to materially cooperate with, any investigation authorized by the Board or any governmental or self-regulatory entity (an “Investigation”). However, Executive’s failure to waive attorney-client privilege relating to communications with Executive’s own attorney in connection with an Investigation will not constitute “Cause”.
+^Confidentiality and Proprietary Rights. Executive agrees to read, sign and abide by Company’s Employee Innovations and Proprietary Rights Assignment Agreement attached hereto as Exhibit C and incorporated herein by reference. 
 
-^^^If Executive’s employment is terminated by the Company for Cause, or if Executive resigns, Executive shall be entitled to receive: 
+^Nonsolicitation.  
 
-^the Base Salary through the date of termination;
+^^Nonsolicitation of Customers or Prospects. Executive acknowledges that information about Company’s customers is confidential and constitutes trade secrets. Accordingly, Executive agrees that during the term of this Agreement and the Covenant Period, Executive will not, 
 
-^reimbursement, within 30 days following submission by Executive to the Company of appropriate supporting documentation, for any unreimbursed business expenses properly incurred by Executive in accordance with Company policy prior to the date of Executive’s termination; provided claims for such reimbursement (accompanied by appropriate supporting documentation) are submitted to the Company within 90 days following the date of Executive’s termination of employment;
+^^^^^ 
+either directly or indirectly, separately or in association with others, interfere with, impair, disrupt or damage Company’s relationship with any of its customers or customer prospects (defined as prospective customers who had received a written proposal from the Company for Company products or services within the past 12 months) by soliciting or encouraging others to solicit any of them for the purpose of diverting or taking away business from Company. 
 
-^accrued and unused vacation that the Company is legally obligated to pay to Executive; and
+^^Nonsolicitation of Company’s Employees. Executive agrees that during the term of this Agreement and the Covenant Period, Executive will not, either directly or indirectly, separately or in association with others, interfere with, impair, disrupt or damage Company’s business by soliciting, encouraging, hiring or attempting to hire any of Company’s employees or causing others to solicit or encourage any of Company’s employees to discontinue their employment with Company. 
 
-^such Employee Benefits, if any, as to which Executive may be entitled under the employee benefit plans as described in Section 6 (the amounts described in clauses (A) through (D) hereof being referred to as the “Accrued Rights”).
+^Injunctive Relief. Executive acknowledges that Executive’s breach of the covenants contained in Sections 9-11 (collectively “***Covenants***”) would cause irreparable injury to Company and agrees that in the event of any such breach, Company shall, in addition to the action it is authorized to take pursuant to Section 7.5, be entitled to seek temporary, preliminary and permanent injunctive relief without the necessity of proving actual damages or posting any bond or other security. 
 
-Following the termination of Executive’s employment by the Company for Cause or resignation by Executive, except as set forth in this Section 8(a)(ii), Executive shall have no further rights to any compensation or any other benefits under this Agreement. 
+^Agreement to Mediate and Arbitrate. In the event a dispute arises in connection with this Agreement, the Company and Executive agree to submit the dispute to non-binding mediation, with the mediator to be selected and compensated by the Company. In the event a resolution is not reached through mediation, then, to the fullest extent permitted by law, Executive and Company agree to arbitrate any controversy, claim or dispute between them arising out of or in any way related to this Agreement, the employment relationship between Company and Executive and any disputes upon termination of employment, including but not limited to breach of contract, tort, discrimination, harassment, wrongful termination, demotion, discipline, failure to accommodate, family and medical leave, compensation or benefits claims, constitutional claims; and any claims for violation of any local, state or federal law, statute, regulation or ordinance or common law. Claims for breach of Company’s Employee Innovations and Proprietary Rights Agreement, workers’ compensation, unemployment insurance benefits and Company’s right to obtain injunctive relief pursuant to Section 12 above are excluded. For the purpose of this agreement to arbitrate, references to “Company” include all parent, subsidiary or related entities and their employees, supervisors, officers, directors, agents, pension or benefit plans, pension or benefit plan sponsors, fiduciaries, administrators, affiliates and all successors and assigns of any of them, and this Agreement shall apply to them to the extent Executive’s claims arise out of or relate to their actions on behalf of Company. 
 
-^^Disability or Death. 
+^^Initiation of Arbitration. Either party may exercise the right to arbitrate by providing the other party with written notice of any and all claims forming the basis of such right in sufficient detail to inform the other party of the substance of such claims. In no event shall the request for arbitration be made after the date when institution of legal or equitable proceedings based on such claims would be barred by the applicable statute of limitations. 
 
-^^^The Employment Term and Executive’s employment hereunder shall terminate upon Executive’s death and may be terminated by the Company if Executive becomes physically or mentally incapacitated and is therefore unable for a period of six (6) consecutive months or for an aggregate of nine (9) months in any twenty-four (24) consecutive month period to perform Executive’s duties (such incapacity is hereinafter referred to as “Disability”). Any question as to the existence of the Disability of Executive as to which Executive and the Company cannot agree shall be determined in writing by a qualified independent physician mutually acceptable to Executive and the Company. If Executive and the Company cannot agree as to a qualified independent physician, each shall appoint such a physician and those two physicians shall select a third who shall make such determination in writing. The determination of Disability made in writing to the Company and Executive shall be final and conclusive for all purposes of the Agreement. 
+^^Arbitration Procedure. The arbitration will be conducted in Maricopa County, Arizona, by a single neutral arbitrator and in accordance with the then current rules for resolution of employment disputes of the American Arbitration Association *(*“***AAA***”)*.* The parties are entitled to representation by an attorney or other representative of their choosing. The arbitrator shall have the power to enter any award that could be entered by a judge of the trial court of the State of Arizona, and only such power, and shall follow the law. The parties agree to abide by and perform any award rendered by the arbitrator. Judgment on the award may be entered in any court having jurisdiction thereof. 
 
-^^^Upon termination of Executive’s employment hereunder for either Disability or death, Executive or Executive’s estate (as the case may be) shall be entitled to receive: 
+^^^^^ 
+^^Costs of Arbitration. Each party shall bear one half the cost of the arbitration filing and hearing fees, and the cost of the arbitrator. 
 
-^the Accrued Rights; and 
+^General Provisions.  
 
-^subject to Executive’s continued compliance with the provisions of Sections 9 and 10, continued payment of the Base Salary in accordance with the Company’s normal payroll practices, as in effect on the date of termination of Executive’s employment, for a period of three (3) months following the date of such termination. 
+^^Successors and Assigns. The rights and obligations of Company under this Agreement shall inure to the benefit of and shall be binding upon the successors and assigns of Company, provided such successors and assigns agree in writing to be bound by the terms of the Agreement. Executive shall not be entitled to assign any of Executive’s rights or obligations under this Agreement. 
 
-The amounts and other benefits set forth in Section 8(b)(ii)(B) shall be in lieu of, and not in addition to, any severance benefits under any severance plan or policy of the Company or any of its affiliates. Following Executive’s termination of employment due to death or Disability, except as set forth in this Section 8(b)(ii), Executive shall have no further rights to any compensation or any other benefits under this Agreement. 
+^^Waiver. Either party’s failure to enforce any provision of this Agreement shall not in any way be construed as a waiver of any such provision, or prevent that party thereafter from enforcing each and every other provision of this Agreement. 
 
-^^By the Company Without Cause. 
+^^Attorneys’ Fees. In any dispute relating to this Agreement, each party shall pay its or his own attorneys’ fees unless a statute awards attorneys’ fees to the prevailing party. Any reimbursement of attorney’s fees to which Executive is entitled and which are treated for federal income tax purposes as compensation shall (a) be paid no later than the last day of Executive’s tax year following the tax year in which the expense was incurred, (b) not be affected by any other expenses that are eligible for reimbursement in any tax year and (c) not be subject to liquidation or exchange for another benefit. 
 
-^^^The Employment Term and Executive’s employment hereunder may be terminated by the Company without Cause. 
+^^Severability. In the event any provision of this Agreement is found to be unenforceable by an arbitrator or court of competent jurisdiction, such provision shall be deemed modified to the extent necessary to allow enforceability of the provision as so limited, it being intended that the parties shall receive the benefit contemplated herein to the fullest extent permitted by law. If a deemed modification is not satisfactory in the judgment of such arbitrator or court, the unenforceable provision shall be deemed deleted, and the validity and enforceability of the remaining provisions shall not be affected thereby. 
 
-^^^If Executive’s employment is terminated by the Company without Cause (other than by reason of death or Disability), Executive shall be entitled to receive: 
+^^Interpretation; Construction. The headings set forth in this Agreement are for convenience only and shall not be used in interpreting this Agreement. This Agreement has been drafted by legal counsel representing Company, but Executive has participated in the negotiation of its terms. Furthermore, Executive acknowledges that Executive has had an opportunity to review and revise the Agreement and have it reviewed by legal counsel, if desired, and, therefore, the normal rule of construction to the effect that any ambiguities are to be resolved against the drafting party shall not be employed in the interpretation of this Agreement. 
 
-^the Accrued Rights; and 
+^^Governing Law. This Agreement will be governed by and construed in accordance with the laws of the United States and the State of Arizona. Each party consents to the jurisdiction and venue of the state or federal courts in Maricopa County, Arizona, if applicable, in any action, suit, or proceeding arising out of or relating to this Agreement. 
 
-^subject to Executive’s continued compliance with the provisions of Sections 9 and 10, (i) continued payment of the Base Salary in accordance with the Company’s normal payroll practices, as in effect on the date of termination of Executive’s employment, for a period of twelve (12) months following the date of such termination, (ii) continuation of medical benefits under the Company’s then current medical plans at the same level provided by the Company on the date of termination, for a period of twelve (12) months, provided that such medical benefits shall end earlier if Executive becomes eligible to participate in a medical plan offered by a subsequent employer, and (iii) the Annual Bonus as of the end of the Company’s Fiscal Year during which Executive’s termination without Cause occurred, based upon the then current Bonus Targets and the percentage of Base Salary applicable to the Annual Bonus for the previous Fiscal Year during the Employment Term (and if there is no prior Fiscal Year during the Employment Term, based on the percentage of Base Salary established for the Annual Bonus for the year ending [[Date 4]]). In addition, the Stock Options held by Executive to the extent such Stock Options have already vested and become exercisable, will remain exercisable for a period of ninety (90) days from the date of termination, after which date all Stock Options will expire. The Executive’s receipt of any Severance Payments and the Company’s payment of the foregoing amounts to Executive under this Section 8(c)(ii)(B) shall be expressly conditioned upon and in consideration of Executive’s execution and nonrevocation of a General Release in favor of the Company, in a form substantially the same as Exhibit C hereto and a separation agreement with reasonable and customary terms and conditions. (The period during which Executive is entitled to receive his Base Salary after termination of employment is referred to as the “Severance Period” and the amount so received as “Severance Payments.”) 
+^^Notices. Any notice required or permitted by this Agreement shall be in writing and shall be delivered as follows with notice deemed given as indicated: (a) by personal delivery when delivered personally; (b) by overnight courier upon written verification of receipt; (c) by telecopy or facsimile transmission upon acknowledgment of receipt of electronic transmission; or (d) by certified or registered mail, return receipt requested, upon verification of receipt. Notice shall be sent to the addresses set forth below, or such other address as either party may specify in writing. 
 
-The amount set forth in Section 8(c)(ii)(B) shall be in lieu of, and not in addition to, any severance benefits under any severance plan or policy of the Company or any of its affiliates. Following Executive’s termination of employment by the Company without Cause (other than by reason of Executive’s death or Disability), except as set forth in this Section 8(c)(ii), Executive shall have no further rights to any compensation or any other benefits under this Agreement. 
+^^Survival. Sections 8 (“No Conflict of Interest”), 9 (“Post-Termination Non-Competition”), 10 (“Confidentiality and Proprietary Rights”), 11 (“Nonsolicitation”), 12 (“Injunctive 
 
-^^Notice of Termination. Any purported termination of employment by the Company or by Executive (other than due to Executive’s death) shall be communicated by written Notice of Termination to the other party hereto in accordance with Section 13(j) hereof. For purposes of this Agreement, a “Notice of Termination” shall mean a notice which shall indicate the specific termination provision in this Agreement relied upon and shall set forth in reasonable detail the facts and circumstances claimed to provide a basis for termination of employment under the provision so indicated. 
+^^^^^ 
+Relief’), 13 (“Agreement to Arbitrate”), 14 (“General Provisions”) and 15 (“Entire Agreement”) of this Agreement shall survive Executive’s employment by Company. 
 
-^^Board/Committee Resignation. Upon termination of Executive’s employment for any reason, Executive agrees to resign, as of the date of such termination and to the extent applicable, from the Board of Directors of the Company (and any committees thereof) and as an officer and from the Board of Directors (and any committees thereof) of any of the Company’s subsidiaries and other affiliates. 
+^^Application of Section 409A.  
 
-^Non-Competition. 
+^^Notwithstanding anything set forth in this Agreement to the contrary, no amount payable pursuant to this Agreement which constitutes a “deferral of compensation” within the meaning of the Treasury Regulations issued pursuant to Section 409A of the Code (the “***Section 409A Regulations***”) shall be paid unless and until Executive has incurred a “separation from service” within the meaning of the Section 409A Regulations. Furthermore, to the extent that Executive is a “specified employee” within the meaning of the Section 409A Regulations as of the date of Executive’s separation from service, no amount that constitutes a deferral of compensation within the meaning of the Section 409A Regulations which is payable on account of Executive’s separation from service shall paid to Executive before the date (the “***Delayed Payment Date***”) which is first day of the seventh month after the date of Executive’s separation from service or, if earlier, the date of Executive’s death following such separation from service. All such amounts that would, but for this Section, become payable prior to the Delayed Payment Date will be accumulated and paid on the Delayed Payment Date. 
 
-^^Executive acknowledges and recognizes the highly competitive nature of the businesses of the Company and its affiliates and accordingly agrees as follows: 
+^^If the Executive or the Company believes, at any time, that any payment pursuant to this Agreement is subject to taxation under Section 409A of the Code, then (i) it shall advise the other and (ii) to the extent such correction is possible to avoid taxation under Section 409A without any material diminution in the value of the payments or benefits to Employee, the Company and Executive shall reasonably cooperate in good faith to take such steps as necessary, including amending (and, as required, consenting to the amendment of) the terms of any plan or program under which such payments are to be made, in the least restrictive manner necessary in order to comply with the provisions of Section 409A and the Section 409A Regulations in order to avoid taxation under Section 409A. 
 
-^During the Employment Term and, for the Severance Period following the date Executive ceases to be employed by the Company if the Executive is terminated by the Company without Cause, or if Executive’s employment otherwise is terminated and (B) Executive is not entitled to Severance as a result of such termination, then in such cases, for the two years following termination of employment (collectively, the “Restricted Period”), Executive will not, whether on Executive’s own behalf or on behalf of or in conjunction with any person, firm, partnership, limited liability company, limited liability partnership, joint venture, association, trust, corporation or other business organization, entity or enterprise whatsoever (“Person”), directly or indirectly: 
+^^The Company intends that income provided to Executive pursuant to this Agreement will not be subject to taxation under Section 409A of the Code. The provisions of this Agreement shall be interpreted and construed in favor of satisfying any applicable requirements of Section 409A of the Code. **However, the Company does not guarantee any particular tax effect for income provided to Executive pursuant to this Agreement.** 
 
-^^^engage in any business that competes with any of the businesses of the Company or its affiliates (including, without limitation, businesses which the Company or its affiliates have specific plans to conduct in the future and as to which plans Executive is aware) in any geographical area in which the Company or its affiliates produces, sells, manufactures, leases, rents, licenses or otherwise provides its products or services, including without limitation the manufacture of industrial air pollution control equipment and engineering solutions (a “Competitive Business”);
+^Executive Attorney Fees. The Company will reimburse Executive’s legal counsel fees in connection with the negotiation of this Agreement not to exceed $[[USD Value 5: Number]] Any reimbursement Executive is entitled to receive pursuant to this Section shall (a) be paid no later than the last day of Executive’s tax year following the tax year in which the expense was incurred, (b) not be affected by any other expenses that are eligible for reimbursement in any tax year and (c) not be subject to liquidation or exchange for another benefit. 
 
-^^^enter the employ of, or render any services to, any Person (or any division or controlled or controlling affiliate of any Person) who or which engages in a Competitive Business;
+^Entire Agreement. This Agreement, together with the Plan and any agreement evidencing an Equity Award described in Section 4.2, the Executive Bonus Plan described in Section 4.3, the Employee Innovations and Proprietary Rights Assignment Agreement described in Section 10 and the Form of Confidential Separation and Release Agreement attached hereto as Exhibit B, constitutes the entire agreement between the parties relating to this subject matter and supersedes all prior or simultaneous representations, discussions, negotiations, and agreements, whether written or oral. This Agreement may be amended or modified only with the written consent of Executive and the Board of Company. No oral waiver, amendment or modification will be effective under any circumstances whatsoever. Notwithstanding the foregoing, if there is a conflict between this Agreement and any other policy or plan of the Company, this Agreement will govern. 
 
-^^^acquire a financial interest in, or otherwise become actively involved with, any Competitive Business, directly or indirectly, as an individual, partner, shareholder, officer, director, principal, agent, trustee, consultant, adviser, franchisee, financier, lender, or guarantor; or
+^^^^^ 
+THE PARTIES TO THIS AGREEMENT HAVE READ THE FOREGOING AGREEMENT AND FULLY UNDERSTAND EACH AND EVERY PROVISION CONTAINED HEREIN. WHEREFORE, THE PARTIES HAVE EXECUTED THIS AGREEMENT ON THE DATES SHOWN BELOW. 
 
-^^^interfere with, or attempt to interfere with, business relationships (whether formed before, on or after the date of this Agreement) between the Company or any of its affiliates and customers, clients, agents, contractors, managers, consultants, suppliers, bankers or investors.
+\centered 
 
-^Notwithstanding anything to the contrary in this Agreement, Executive may, directly or indirectly, own, solely as an investment, securities of any Person engaged in a Competitive Business which are publicly traded on a national or regional stock exchange or on the over-the-counter market if Executive (i) is not a controlling person of, or a member of a group which controls, such person and (ii) does not, directly or indirectly, own [[Percentage 2: Number]]% or more of any class of securities of such Person. 
+EXECUTIVE 
 
-^During the Restricted Period, Executive will not, whether on Executive’s own behalf or on behalf of or in conjunction with any Person, directly or indirectly: 
+Dated: [[Date 1]]    /s/ [[Executive]]  [[Executive]] [[Address 3: Address]]  
 
-^^^Solicit, encourage or attempt to solicit or encourage any employee of the Company or any of its affiliates to leave the employment of the Company or its affiliates; or
+\centered 
 
-^^^Hire, engage or employ any such employee who was employed by the Company or its affiliates as of the date of Executive’s termination of employment with the Company or who left the employment of the Company or its affiliates coincident with, or within one year prior to or after, the termination of Executive’s employment with the Company; provided that, this prohibition shall not apply to solicitations for employment and hiring resulting from general advertisements appearing in newspapers, periodicals, trade journals or other media of broad circulation, or to solicitations to employees of the Company or any of its affiliates after they are no longer employed by the Company or any affiliate of the Company.
+COMPANY 
 
-^During the Restricted Period, neither Executive nor any business in which Executive may engage or participate in, will directly or indirectly solicit, encourage or attempt to solicit or encourage any customer or prospective customer of the Company or any of its affiliates or any independent contractor providing services to the Company or any of its affiliates, determined, in each case, as of the date of termination, to terminate, modify or diminish its relationship with the Company or any of its affiliates or to seek to persuade any customer of the Company or any of its affiliates, determined as of the date of termination, to conduct with anyone else any business or activity that such customer conducts or could conduct with the Company or any of its affiliates. 
+Dated: [[Date 1]]    By:    /s/ Hamish N. Brewer Hamish N. Brewer, President and Chief Executive Officer  
 
-^During the Restricted Period, nether Executive, nor any business in which Executive may engage or participate in, will, directly or indirectly, compete with the Company or any of its affiliates by merging with or acquiring any other company or business (whether by a purchase of stock or other equity interests, or a purchase of assets or otherwise) which is a Competitive Business. 
+\centered [Signature Page to Executive Employment Agreement] 
 
-^^It is expressly understood and agreed that although Executive and the Company consider the restrictions contained in this Section 9 to be reasonable, if a final judicial determination is made by a court of competent jurisdiction that the time or territory or any other restriction contained in this Agreement is an unenforceable restriction against Executive, the provisions of this Agreement shall not be rendered void but shall be deemed amended to apply as to such maximum time and territory and to such maximum extent as such court may judicially determine or indicate to be enforceable. Alternatively, if any court of competent jurisdiction finds that any restriction contained in this Agreement is unenforceable, and such restriction cannot be amended so as to make it enforceable, such finding shall not affect the enforceability of any of the other restrictions contained herein. The provisions of this Section 9 shall survive the termination of Executive’s employment for any reason. 
+^^^^^ 
+\centered **EXHIBIT A-1** 
 
-^Confidentiality; Intellectual Property. 
+\centered **Time-Vesting Restricted Stock Unit Award:** 
 
-^^Confidentiality. 
+\centered **Notice of Grant of Restricted Stock Units** 
 
-^^^Except as prohibited by Section 10(b)(v) below, Executive will not at any time (whether during or after Executive’s employment with the Company) (x) retain or use for the benefit, purposes or account of Executive or any other Person, or (y) disclose, divulge, reveal, communicate, share, transfer or provide access to any Person outside the Company (other than its professional advisers who are bound by confidentiality obligations), any non-public, proprietary or confidential information (including without limitation trade secrets, know-how, knowledge capital, research and development, software, consulting techniques, engineering techniques, source codes, databases, inventions, processes, formulae, databases, technology, designs and other intellectual property, information concerning finances, investments, projections, profits, strategies, pricing, costs, products, services, service providers, vendors, customers, clients, partners, investors, personnel, compensation, recruiting, training, advertising, sales, marketing, promotions, government and regulatory activities and approvals), in whatever form or media, concerning the past, current or future business, activities and operations of the Company, its subsidiaries or affiliates and/or any third party that has disclosed or provided any of same to the Company on a confidential basis, including any such information obtained prior to the Effective Date (“Confidential Information”) without the prior written authorization of the Board. 
+\centered **and** 
 
-^^^“Confidential Information” shall not include any information that is (x) generally known to the industry or the public other than as a result of Executive’s breach of this covenant or any breach of other confidentiality obligations by third parties, (y) made legitimately available to Executive by a third party without breach of any confidentiality obligation, or (z) required by law to be disclosed; provided that Executive shall give prompt written notice to the Company of such requirement, disclose no more information than is so required, and cooperate with any attempts by the Company to obtain a protective order or similar treatment for such Confidential Information. 
+\centered **Restricted Stock Units Agreement** 
 
-^^^Upon termination of Executive’s employment with the Company for any reason, Executive shall (x) cease and not thereafter commence use of any Confidential Information or intellectual property (including without limitation, any patent, invention, copyright, trade secret, trademark, trade name, logo, domain name or other source indicator) owned or used by the Company or any of its affiliates, (y) immediately destroy, delete, or return to the Company, at the Company’s option, all originals and copies in any form or medium (including memoranda, books, papers, plans, computer files, thumb drives, letters and other data) in Executive’s possession or control (including any of the foregoing stored or located in Executive’s office, home, laptop or other computer, or in other location whether or not company property) that contain Confidential Information or otherwise relate to the business of the Company or any of its affiliates, except that Executive may retain only those portions of any personal notes, notebooks and diaries that do not contain any Confidential Information, and (z) notify and fully cooperate with the Company regarding the delivery or destruction of any other Confidential Information of which Executive is or becomes aware. 
+^^^^^ 
+\centered [[Company]] NOTICE OF GRANT OF RESTRICTED STOCK UNITS (NON-PLAN AWARD)** 
 
-^^Intellectual Property. 
+[[Company]] (the ***Company***) has granted to [[Executive]] (the ***Participant***) an award of Restricted Stock Units (the ***Award***), each of which represents the right to receive on the applicable Settlement Date one (1) share of the Common Stock of the Company, upon the terms and conditions set forth in this Notice of Grant of Restricted Stock Units (the ***Grant Notice***) and the Restricted Stock Units Agreement attached hereto (the ***Agreement***). 
 
-^^^If Executive has created, invented, designed, developed, contributed to or improved any works of authorship, inventions, intellectual property, materials, documents or other work product (including without limitation, research, reports, software, databases, systems, applications, presentations, textual works, content, or audiovisual materials) (“Works”), either alone or with third parties, prior to Executive’s employment by the Company hereunder, that are relevant to or implicated by such employment (“Prior Works”), Executive hereby grants the Company a perpetual, non-exclusive, royalty-free, worldwide, assignable, sublicensable license under all rights and intellectual property rights (including rights under patent, industrial property, copyright, trademark, trade secret, unfair competition and related laws) therein for all purposes in connection with the Company’s current and future business. 
+\centered 
 
-^^^If Executive creates, invents, designs, develops, contributes to, perfects or improves any Works, either alone or with third parties, at any time during Executive’s employment by the Company and within the scope of such employment and/or with the use of any the Company resources (“Company Works”), Executive shall promptly and fully disclose same to the Company and hereby irrevocably assigns, transfers and conveys, to the maximum extent permitted by applicable law, all rights, title, interest and intellectual property rights therein (including rights under patent, industrial property, copyright, trademark, trade secret, unfair competition and related laws) to the Company to the extent ownership of any such rights does not vest originally in the Company. 
+**Date of Grant:**    [[Date 1]] 
 
-^^^Executive agrees to keep and maintain adequate and current written records (in the form of notes, sketches, drawings, and any other form or media requested by the Company) of all Company Works. The records will be available to and remain the sole property and intellectual property of the Company at all times. 
+**Number of Restricted Stock Units:**    50,000, subject to adjustment as provided by the Agreement. 
 
-^^^Executive shall take all requested actions and execute all requested documents (including any licenses or assignments required by a government contract) at the Company’s expense (but without further remuneration) to assist the Company in validating, maintaining, protecting, enforcing, perfecting, recording, patenting or registering any of the Company’s rights in the Prior Works and Company Works. If the Company is unable for any other reason to secure Executive’s signature on any document for this purpose, then Executive hereby irrevocably designates and appoints the Company and its duly authorized officers and agents as Executive’s agent and attorney in fact, to act for and in Executive’s behalf and stead to execute any documents and to do all other lawfully permitted acts in connection with the foregoing. 
+**Initial Vesting Date:**    [[Date 2: Date]] 
 
-^^Executive shall not improperly use for the benefit of, bring to any premises of, divulge, disclose, communicate, reveal, transfer or provide access to, or share with the Company any confidential, proprietary or non-public information or intellectual property relating to a former employer or other third party without the prior written permission of such third party. Executive hereby indemnifies, holds harmless and agrees to defend the Company and its officers, directors, partners, employees, agents and representatives from any breach of the foregoing covenant. Executive shall comply with all relevant policies and guidelines of the Company, including regarding the protection of confidential information and intellectual property and potential conflicts of interest. Executive acknowledges that the Company may amend any such policies and guidelines from time to time, and that Executive remains at all times bound by their most current version. 
+**Settlement Date:**    For each Unit, except as otherwise provided by the Agreement, the date on which such Unit becomes a Vested Unit in accordance with the vesting schedule set forth below. 
 
-^^Nondisparagement. During the Employment Term and Restricted Period, Executive will not knowingly disparage, criticize, or otherwise make any derogatory statements regarding the Company, its affiliates or their directors or officers. The Company will instruct its and its affiliates’ officers and directors to not knowingly disparage, criticize, or otherwise make any derogatory statements regarding Executive during the Employment Term and Restricted Period. Notwithstanding the foregoing, nothing contained in this agreement will be deemed to restrict Executive, the Company or any of the Company’s or its affiliates current or former officers and/or directors from providing information to any governmental or regulatory agency (or in any way limit the content of any such information) to the extent they are requested or required to provide such information pursuant to applicable law or regulation. 
+**Vested Units:** Except as provided by the Agreement and provided that the Participant’s Service has not terminated prior to the relevant date except as otherwise provided below, the number of Vested Units (disregarding any resulting fractional Unit) as of any date is determined by multiplying the Number of Restricted Stock Units by the ***Vested Ratio*** determined as of such date as follows:  
 
-^^Title. The provisions of this Section 10 shall survive the termination of Executive’s employment for any reason. 
+**Vested Ratio** Prior to Initial Vesting Date       
 
-^Specific Performance. Executive acknowledges and agrees that the Company’s remedies at law for a breach or threatened breach of any of the provisions of Section 9 or Section 10 would be inadequate and the Company would suffer irreparable damages as a result of such breach or threatened breach. In recognition of this fact, Executive agrees that, in the event of such a breach or threatened breach, in addition to any remedies at law, the Company, without posting any bond, shall be entitled to obtain equitable relief in the form of specific performance, temporary restraining order, temporary or permanent injunction or any other equitable remedy which may then be available. 
+On Initial Vesting Date       1/3 
 
-^Change in Control. In the event of a Change in Control of the Company, if Executive is not offered employment with the successor entity or purchaser as chief executive officer with a compensation package equal to or better than the combination of Executive’s Base Salary and Annual Bonus under this Agreement, then Executive shall resign as of the date of the Change in Control or agree to resign as of the end of a reasonable transition period after the Change in Control and shall be paid in a lump sum on the date of the Change in Control an amount equal to the sum of his annual Base Salary plus his Annual Bonus in an amount equal to the same percentage of his Base Salary as the Annual Bonus, if any, that he received for the most recently ended Fiscal Year. For purpose of this Agreement, the term Change in Control shall have the same meaning as set forth in the Plan. Immediately prior to the closing of a Change in Control the Stock Options held by Executive, to the extent such Stock Options have not already vested and become exercisable, will immediately vest and become exercisable. 
+Plus 
 
-^Miscellaneous. 
+For each additional full month of the Participant’s continuous Service following the Initial Vesting Date until the Vested Ratio equals 1/1, an additional       1/36 
 
-^^Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Ohio, without regard to conflicts of laws principles thereof. 
+**Accelerated Vesting:**    In the event that the Participant becomes entitled to “Severance Benefits” in accordance with either Section 7.2 or Section 7.3 of the Employment Agreement, then the vesting of all Restricted Stock Units which are not Vested Units as of the date of the Participant’s termination of employment shall accelerate in full and all such Restricted Stock Units shall be deemed Vested Units effective on the forty-fifth day following the date of the Participant’s termination of employment. 
 
-^^Entire Agreement/Amendments. This Agreement contains the entire understanding of the parties with respect to the employment of Executive by the Company. There are no restrictions, agreements, promises, warranties, covenants or undertakings between the parties with respect to the subject matter herein other than those expressly set forth herein. This Agreement may not be altered, modified, or amended except by written instrument signed by the parties hereto. 
+**Employment Agreement:**    That certain Executive Employment Agreement by and between the Company and the Participant, dated [[Date 1]].  
 
-^^No Waiver. The failure of a party to insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver of such party’s rights or deprive such party of the right thereafter to insist upon strict adherence to that term or any other term of this Agreement. 
+\centered [Remainder of page intentionally blank.] 
 
-^^Severability. In the event that any one or more of the provisions of this Agreement shall be or become invalid, illegal or unenforceable in any respect, the validity, legality and enforceability of the remaining provisions of this Agreement shall not be affected thereby. 
+^^^^^ 
+[[^^^^^ Signatory Email: Identity | Signature]]
+__________________________________________
+{{^^^^^ Entity => By: [[^^^^^ Signatory First Name]] [[^^^^^ Signatory Last Name]]
+Title: [[^^^^^ Signatory Title]]}}
 
-^^Assignment. This Agreement, and all of Executive’s rights and duties hereunder, shall not be assignable or delegable by Executive. Any purported assignment or delegation by Executive in violation of the foregoing shall be null and void *ab initio* and of no force and effect. This Agreement may be assigned by the Company to a person or entity which is an affiliate or a successor in interest to substantially all of the business operations of the Company. Upon such assignment, the rights and obligations of the Company hereunder shall become the rights and obligations of such affiliate or successor person or entity. 
 
-^^Set Off; No Mitigation. The Company’s obligation to pay Executive the amounts provided and to make the arrangements provided hereunder shall be subject to set-off, counterclaim or recoupment of amounts owed by Executive to the Company or its affiliates. Executive shall not be required to mitigate the amount of any payment provided for pursuant to this Agreement by seeking other employment. Anything in this Agreement to the contrary notwithstanding, in the event that Executive provides services for pay to anyone other than the Company or any of its affiliates during the term of Executive’s employment hereunder, all amounts paid to Executive during such period pursuant to this Agreement shall be reduced (or if paid to Executive, refunded to the Company by Executive) by the amounts of salary, bonus or other cash or in-kind compensation earned by, paid or granted to Executive during such period as a result of Executive’s performing such services (regardless of when such earned amounts are actually paid to Executive). 
+\centered 
 
-^^Code Section 409A. 
+[[Company]]        PARTICIPANT 
 
-^^^“Section 409A” shall mean Section 409A of the Code, and any proposed or final regulations and guidance promulgated thereunder. Notwithstanding anything to the contrary in this Agreement, no Deferred Compensation Separation Benefits (as defined below) will become payable under this Agreement until Executive has a “separation from service” which means a termination of employment of Executive with the Company, whether voluntarily or involuntarily, other than by reason of death or Disability, as determined by the Comp Committee in accordance with Treas. Reg. §1.409A-1(h). Executive shall be considered to have experienced a termination of employment when the facts and circumstances indicate that Executive and the Company reasonably anticipate that either (a) no further services will be performed for the Company after a certain date, or (b) that the level of bona fide services Executive will perform for the Company after such date (whether as an employee or as an independent contractor) will permanently decrease to less than [[Percentage 3: Number]]% of the average level of bona fide services performed by Executive (whether as an employee or an independent contractor) over the immediately preceding 36-month period (or the full period of services to the Company if Executive has been providing services to the Company less than 36 months). Further, if the amount paid under this Agreement on separation from service is deferred compensation subject to Section 409A and if Executive is a “specified employee” within the meaning of Section 409A at the time of Executive’s termination (other than due to death), and the severance payable to Executive, if any, pursuant to this Agreement, when considered together with any other severance payments or separation benefits, are considered deferred compensation under Section 409A (together, the “Deferred Compensation Separation Benefits”), such Deferred Compensation Separation Payments that are otherwise payable within the first six (6) months following Executive’s termination of employment will become payable on the first payroll date that occurs on or after the date six (6) months and one (1) day following the date of Executive’s termination of employment. All subsequent Deferred Compensation Separation Benefits, if any, will be payable in accordance with the payment schedule applicable to each payment or benefit. Notwithstanding anything herein to the contrary, if Executive dies following his termination but prior to the six (6) month anniversary of his termination, then any payments delayed in accordance with this paragraph will be payable in a lump sum as soon as administratively practicable after the date of Executive’s death and all other Deferred Compensation Separation Benefits will be payable in accordance with the payment schedule applicable to each payment or benefit. Each payment and benefit payable under this Agreement is intended to constitute separate payments for purposes of Section 1.409A-2(b)(2) of the Treasury Regulations. 
+[[Company        PARTICIPANT Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company        PARTICIPANT Entity => By: [[Company        PARTICIPANT Signatory First Name]] [[Company        PARTICIPANT Signatory Last Name]]
+Title: [[Company        PARTICIPANT Signatory Title]]}}
 
-^^^Any amount paid under this Agreement that satisfies the requirements of the “short-term deferral” rule set forth in Section 1.409A-1(b)(4) of the Treasury Regulations shall not constitute Deferred Compensation Separation Benefits for purposes of Section 13(g)(i) above. 
 
-^^^Any amount paid under this Agreement that qualifies as a payment made as a result of an involuntary separation from service pursuant to Section 1.409A-1(b)(9)(iii) of the Treasury Regulations that does not exceed the Section 409A Limit (as defined below) shall not constitute Deferred Compensation Separation Benefits for purposes of Section 13(g)(i) above. For purposes of this Section 13(g)(iii) “Section 409A Limit” will mean the lesser of two (2) times: (i) Executive’s annualized compensation based upon the annual rate of pay paid to Executive during the Company’s taxable year preceding the Company’s taxable year of Executive’s termination of employment as determined under Treasury Regulation 1.409A-1(b)(9)(iii)(A)(1); or (ii) the maximum amount that may be taken into account under a qualified plan pursuant to Section 401(a)(17) of the Code for the year in which Executive’s employment is terminated. 
+Address:    14400 N. 87th Street [[Address 4: Address]]        Address 
 
-^^^The foregoing provisions are intended to comply with the requirements of Section 409A so that none of the severance payments and benefits to be provided hereunder will be subject to the additional tax imposed under Section 409A, and any ambiguities herein will be interpreted to so comply. The Company and Executive agree to work together in good faith to consider amendments to this Agreement and to take such reasonable actions which are necessary, appropriate or desirable to avoid imposition of any additional tax or income recognition prior to actual payment to Executive under Section 409A. 
+ATTACHMENTS: Restricted Stock Units Agreement and Award Prospectus 
 
-^^Excise Taxes. In the event that the benefits provided for in this Agreement constitute “parachute payments” within the meaning of Section 280G of the Code and will be subject to the excise tax imposed by Section 4999 of the Code (the “Excise Tax”), then Executive’s severance benefits payable under the terms of this Agreement will be either (i) delivered in full, or (ii) delivered as to such lesser extent which would result in no portion of such severance benefits being subject to the Excise Tax, whichever of the foregoing amounts, taking into account the applicable federal, state and local income taxes and the Excise Tax, results in the receipt by Executive on an after-tax basis, of the greatest amount of severance benefits, notwithstanding that all or some portion of such severance benefits may be taxable under Section 4999 of the Code. Unless the Company and Executive otherwise agree in writing, any determination required under this Section 13(h) will be made in writing by the Company’s independent public accountants (the “Accountants”), whose determination will be conclusive and binding upon Executive and the Company for all purposes. For purposes of making the calculations required by this Section 13(h), the Accountants may make reasonable assumptions and approximations concerning applicable taxes and may rely on reasonable, good faith interpretations concerning the application of Section 280G and 4999 of the Code. The Company and Executive will furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make a determination under this Section 13(h). The Company will bear all costs the Accountants may reasonably incur in connection with any calculations contemplated by this Section 13(h). Any reduction in payments and/or benefits required by this Section 13(h) shall occur in the following order: (1) reduction of cash payments; (2) reduction of vesting acceleration of equity awards; and (3) reduction of other benefits paid or provided to Executive. In the event that acceleration of vesting of equity awards is to be reduced, such acceleration of vesting shall be cancelled in the reverse order of the date of grant for the Executive’s equity awards. If two or more equity awards are granted on the same day, the equity awards will be reduced on a pro-rata basis. 
+^^^^^ 
+\centered [[Company]] RESTRICTED STOCK UNITS AGREEMENT (NON-PLAN AWARD)** 
 
-^^Successors; Binding Agreement. This Agreement shall inure to the benefit of and be binding upon personal or legal representatives, executors, administrators, successors, heirs, distributees, devisees and legatees. 
+[[Company]] has granted to the Participant named in the *Notice of Grant of Restricted Stock Units* (the ***Grant Notice***) to which this Restricted Stock Units Agreement (the ***Agreement***) is attached an Award consisting of Restricted Stock Units subject to the terms and conditions set forth in the Grant Notice and this Agreement. This Award has not been granted pursuant to the [[Company]] 2005 Performance Incentive Plan or any other stock-based compensation plan of the Company in reliance on NASDAQ Marketplace Rule 5635(c)(4). By signing the Grant Notice, the Participant: (a) acknowledges receipt of and represents that the Participant has read and is familiar with the Grant Notice, this Agreement and a prospectus for the Award prepared in connection with the registration with the Securities and Exchange Commission of the shares issuable pursuant to the Award (the ***Award Prospectus***), (b) accepts the Award subject to all of the terms and conditions of the Grant Notice and this Agreement and (c) agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee upon any questions arising under the Grant Notice or this Agreement. 
 
-^^Notice. For the purpose of this Agreement, notices and all other communications provided for in the Agreement shall be in writing and shall be deemed to have been duly given when delivered by hand or overnight courier or three business days after it has been mailed by United States registered mail, return receipt requested, postage prepaid, addressed to the respective addresses set forth below in this Agreement, or to such other address as either party may have furnished to the other in writing in accordance herewith, except that notice of change of address shall be effective only upon receipt. 
+^**Definitions and Construction****.**  
 
-If to the Company: 
+^^**Definitions*****.*** Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Grant Notice. 
+
+^^***Change in Control***means the occurrence of any of the following: 
+
+^^^any “person” (as such term is used in Sections 13(d) and 14(d) of the Exchange Act), other than (1) a trustee or other fiduciary holding stock of the Company under an employee benefit plan of a Participating Company or (2) a corporation owned directly or indirectly by the stockholders of the Company in substantially the same proportions as their ownership of the stock of the Company, becomes the “beneficial owner” (as defined in Rule 13d-3 promulgated under the Exchange Act), directly or indirectly, of stock of the Company representing more than fifty percent ([[Percentage 1]]%) of the total combined voting power of the Company’s then-outstanding voting stock; or 
+
+^^^an Ownership Change Event or series of related Ownership Change Events (collectively, a ***Transaction***) in which the stockholders of the Company immediately before the Transaction do not retain immediately after the Transaction direct or indirect beneficial ownership of more than fifty percent ([[Percentage 1]]%) of the total combined voting power of the outstanding voting securities of the Company or, in the case of an Ownership Change Event described in Section 1.1(h)(iii), the entity to which the assets of the Company were transferred (the ***Transferee***), as the case may be; or 
+
+^^^a liquidation or dissolution of the Company. 
+
+For purposes of the preceding sentence, indirect beneficial ownership shall include, without limitation, an interest resulting from ownership of the voting securities of one or more 
+
+^^^^^ 
+corporations or other business entities which own the Company or the Transferee, as the case may be, either directly or through one or more subsidiary corporations or other business entities. The Committee shall have the right to determine whether multiple sales or exchanges of the voting securities of the Company or multiple Ownership Change Events are related, and its determination shall be final, binding and conclusive. 
+
+^^***Code***means the Internal Revenue Code of 1986, as amended, and any applicable regulations promulgated thereunder. 
+
+^^***Committee***means the Compensation Committee or other committee of the Board of Directors of the Company (the ***Board***) duly appointed to administer the Award and having such powers as shall be specified by the Board. If no committee of the Board has been appointed to administer the Award, the Board shall exercise all of the powers of the Committee granted herein, and, in any event, the Board may in its discretion exercise any or all of such powers. 
+
+^^***Company***means [[Company]], a Delaware corporation, or any successor corporation thereto. 
+
+^^***Dividend Equivalent Units***mean additional Restricted Stock Units credited pursuant to Section 3.3. 
+
+^^***Exchange Act***means the Securities Exchange Act of 1934, as amended. 
+
+^^***Fair Market Value***means, as of any date, the value of a share of Stock or other property as determined by the Committee, in its discretion, or by the Company, in its discretion, if such determination is expressly allocated to the Company herein, subject to the following: 
+
+^^^Except as otherwise determined by the Committee, if, on such date, the Stock is listed on a national or regional securities exchange or market system, the Fair Market Value of a share of Stock shall be the closing price of a share of Stock (or the mean of the closing bid and asked prices of a share of Stock if the Stock is so quoted instead) as quoted on the national or regional securities exchange or market system constituting the primary market for the Stock, as reported in *The Wall Street Journal* or such other source as the Company deems reliable. If the relevant date does not fall on a day on which the Stock has traded on such securities exchange or market system, the date on which the Fair Market Value shall be established shall be the last day on which the Stock was so traded prior to the relevant date, or such other appropriate day as shall be determined by the Committee, in its discretion. 
+
+^^^If, on such date, the Stock is not listed on a national or regional securities exchange or market system, the Fair Market Value of a share of Stock shall be as determined by the Committee in good faith without regard to any restriction other than a restriction which, by its terms, will never lapse, and in a manner consistent with the requirements of Section 409A of the Code. 
+
+^^^^^ 
+^^***Ownership Change Event***means the occurrence of any of the following with respect to the Company: (i) the direct or indirect sale or exchange in a single or series of related transactions by the stockholders of the Company of more than fifty percent ([[Percentage 1]]%) of the voting stock of the Company; (ii) a merger or consolidation in which the Company is a party; or (iii) the sale, exchange, or transfer of all or substantially all of the assets of the Company (other than a sale, exchange or transfer to one or more subsidiaries of the Company). 
+
+^^***Participating Company***means the Company or any parent corporation or subsidiary corporation the Company. 
+
+^^***Participating Company Group***means, at any point in time, all entities collectively which are then Participating Companies. 
+
+^^***Service***means the Participant’s employment or service with the Participating Company Group, whether in the capacity of an employee, a director or a consultant. The Participant’s Service shall not be deemed to have terminated merely because of a change in the capacity in which the Participant renders such Service or a change in the Participating Company for which the Participant renders such Service, provided that there is no interruption or termination of the Participant’s Service. Furthermore, the Participant’s Service shall not be deemed to have terminated if the Participant takes any military leave, sick leave, or other bona fide leave of absence approved by the Company. Notwithstanding the foregoing, unless otherwise designated by the Company or required by law, a leave of absence shall not be treated as Service for purposes of determining vesting under the Award. The Participant’s Service shall be deemed to have terminated either upon an actual termination of Service or upon the entity for which the Participant performs Service ceasing to be a Participating Company. Subject to the foregoing, the Company, in its discretion, shall determine whether the Participant’s Service has terminated and the effective date of such termination. 
+
+^^***Stock***means the common stock of the Company, as adjusted from time to time in accordance with Section 9. 
+
+^^***Units***mean the Restricted Stock Units originally granted pursuant to the Award and the Dividend Equivalent Units credited pursuant to the Award, as both shall be adjusted from time to time pursuant to Section 9. 
+
+^^**Construction*****.*** Captions and titles contained herein are for convenience only and shall not affect the meaning or interpretation of any provision of this Agreement. Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular. Use of the term “or” is not intended to be exclusive, unless the context clearly requires otherwise. 
+
+^**Administration****.**  
+
+All questions of interpretation concerning the Grant Notice and this Agreement shall be determined by the Committee. All determinations by the Committee shall be final and binding upon all persons having an interest in the Award. Any officer of the Company shall have the authority to act on behalf of the Company with respect to any matter, right, obligation, 
+
+^^^^^ 
+or election which is the responsibility of or which is allocated to the Company herein, provided the officer has apparent authority with respect to such matter, right, obligation, or election. 
+
+^**The Award****.**  
+
+^^**Grant of Restricted Stock Units.** On the Date of Grant, the Participant shall acquire, subject to the provisions of this Agreement, the Number of Restricted Stock Units set forth in the Grant Notice, subject to adjustment as provided in Section 3.3 and Section 9. Each Unit represents a right to receive on a date determined in accordance with the Grant Notice and this Agreement one (1) share of Stock. 
+
+^^**No Monetary Payment Required.** The Participant is not required to make any monetary payment (other than applicable tax withholding, if any) as a condition to receiving the Units or shares of Stock issued upon settlement of the Units, the consideration for which shall be past services actually rendered and/or future services to be rendered to a Participating Company or for its benefit. Notwithstanding the foregoing, if required by applicable state corporate law, the Participant shall furnish consideration in the form of cash or past services rendered to a Participating Company or for its benefit having a value not less than the par value of the shares of Stock issued upon settlement of the Units. 
+
+^^**Dividend Equivalent Units.** On the date that the Company pays a cash dividend to holders of Stock generally, the Participant shall be credited with a number of additional whole Dividend Equivalent Units determined by dividing (a) the product of (i) the dollar amount of the cash dividend paid per share of Stock on such date and (ii) the total number of Restricted Stock Units and Dividend Equivalent Units previously credited to the Participant pursuant to the Award and which have not been settled or forfeited pursuant to the Company Reacquisition Right (as defined below) as of such date, by (b) the Fair Market Value per share of Stock on such date. Any resulting fractional Dividend Equivalent Unit shall be rounded to the nearest whole number. Such additional Dividend Equivalent Units shall be subject to the same terms and conditions and shall be settled or forfeited in the same manner and at the same time as the Restricted Stock Units originally subject to the Award with respect to which they have been credited. 
+
+^**Vesting of Units**.  
+
+^^**Normal Vesting.** Except as provided in Section 4.2, the Restricted Stock Units shall vest and become Vested Units as provided in the Grant Notice. Dividend Equivalent Units shall become Vested Units at the same time as the Restricted Stock Units originally subject to the Award with respect to which they have been credited. 
+
+^^**Acceleration of Vesting Upon a Change in Control**. In the event of a Change in Control, and provided that the Participant’s Service has not terminated prior to the date of consummation of the Change in Control, all unvested Units shall become Vested Units and shall be settled in accordance with Section 6 immediately prior to (and contingent upon) the consummation of the Change in Control. Notwithstanding any provision of this Agreement or the Grant Notice to the contrary, for purposes of the acceleration of vesting of the Units provided by this Section, termination of the Participant’s employment with the Company within a period 
+
+^^^^^ 
+of four (4) months prior to the consummation of the Change in Control either as a result of involuntary termination by the Company without Cause, as described in Section 7.2 of the Employment Agreement, or as a result of termination by the Participant for Good Reason, as described in Section 7.3 of the Employment Agreement, shall not be treated as termination of the Participant’s Service prior to the consummation of the Change in Control. 
+
+^^**Federal Excise Tax Under Section 4999 of the Code.** 
+
+^^**Excess Parachute Payment.** In the event that any acceleration of vesting pursuant to this Agreement and any other payment or benefit received or to be received by the Participant would subject the Participant to any excise tax pursuant to Section 4999 of the Code due to the characterization of such acceleration of vesting, payment or benefit as an excess parachute payment under Section 280G of the Code, the Participant may elect, in his or her sole discretion, to reduce the amount of any acceleration of vesting called for under this Agreement in order to avoid such characterization. 
+
+^^**Determination by Independent Accountants.** To aid the Participant in making any election called for under Section 4.3(a), in connection with any event that might reasonably be anticipated to give rise to the acceleration of vesting under Section 4.3(a), the Company shall promptly request a determination in writing by independent public accountants selected by the Company (the ***Accountants***). Unless the Company and the Participant otherwise agree in writing, the Accountants shall determine and report to the Company and the Participant the amount of such acceleration of vesting, payments and benefits which would produce the greatest after-tax benefit to the Participant. For the purposes of such determination, the Accountants may rely on reasonable, good faith interpretations concerning the application of Sections 280G and 4999 of the Code. The Company and the Participant shall furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make their required determination. The Company shall bear all fees and expenses the Accountants may reasonably charge in connection with their services contemplated by this section. 
+
+^**Company Reacquisition Right****.**  
+
+^^**Grant of Company Reacquisition Right***.*** In the event that the Participant’s Service terminates for any reason or no reason, with or without cause, the Participant shall forfeit and the Company shall automatically reacquire all Units which are not, as of the time of such termination, Vested Units, and the Participant shall not be entitled to any payment therefor (the *Company Reacquisition Right***), subject to the provisions of any employment, service or other agreement between the Participant and a Participating Company referring to this Award. 
+
+^^**Ownership Change Event*****.*** For purposes of determining the number of Vested Units following an Ownership Change Event, credited Service shall include all Service with any corporation which is a Participating Company at the time the Service is rendered, whether or not such corporation is a Participating Company both before and after the Ownership Change Event. 
+
+^^^^^ 
+^**Settlement of the Award****.**  
+
+^^**Issuance of Shares of Stock***.*** Subject to the provisions of Section 6.3 below, the Company shall issue to the Participant, on the Settlement Date with respect to each Unit to be settled on such date, one (1) share of Stock; provided however, that if such Settlement Date is a date on which a sale by the Participant of the Stock to be issued in settlement of such Unit would violate the Insider Trading Policy of the Company, then the Settlement Date with respect to such Unit shall be the earlier of (a) the next day on which such sale would not violate the Insider Trading Policy or (b) the date that is two and one-half (2/) months following the last day of the calendar year in which such Unit became a Vested Unit. For purposes of this section, *Insider Trading Policy***means the written policy of the Company pertaining to the sale, transfer or other disposition of the Company’s equity securities by members of the Board, officers or other employees who may possess material, non-public information regarding the Company, as in effect at the time of a disposition of any shares of Stock. Shares of Stock issued in settlement of Units shall not be subject to any restriction on transfer other than any such restriction as may be required pursuant to Section 6.3. 
+
+^^**Beneficial Ownership of Shares; Certificate Registration*****.*** The Participant hereby authorizes the Company, in its sole discretion, to deposit for the benefit of the Participant with any broker with which the Participant has an account relationship of which the Company has notice any or all shares acquired by the Participant pursuant to the settlement of the Award. Except as provided by the preceding sentence, a certificate for the shares as to which the Award is settled shall be registered in the name of the Participant, or, if applicable, in the names of the heirs of the Participant. 
+
+^^**Restrictions on Grant of the Award and Issuance of Shares*****.*** The grant of the Award and issuance of shares of Stock upon settlement of the Award shall be subject to compliance with all applicable requirements of federal, state or foreign law with respect to such securities. No shares of Stock may be issued hereunder if the issuance of such shares would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Stock may then be listed. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance of any shares subject to the Award shall relieve the Company of any liability in respect of the failure to issue such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the Award, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company. 
+
+^^**Fractional Shares*****.*** The Company shall not be required to issue fractional shares upon the settlement of the Award. 
+
+^**Tax Withholding****.**  
+
+^^**In General.** At the time the Grant Notice is executed, or at any time thereafter as requested by a Participating Company, the Participant hereby authorizes 
+
+^^^^^ 
+withholding from payroll and any other amounts payable to the Participant, and otherwise agrees to make adequate provision for, any sums required to satisfy the federal, state, local and foreign tax withholding obligations of the Participating Company, if any, which arise in connection with the Award or the issuance of shares of Stock in settlement thereof. The Company shall have no obligation to deliver shares of Stock until the tax withholding obligations of the Company have been satisfied by the Participant. 
+
+^^**Withholding in Shares.** Unless otherwise determined by the Company, the Company shall satisfy the tax withholding obligations (except with respect to any fractional share) of the Company or any other Participating Company by deducting from the shares of Stock otherwise deliverable to the Participant in settlement of the Award a number of whole shares of Stock having a fair market value, as determined by the Company as of the date on which the tax withholding obligations arise, not in excess of the amount of such tax withholding obligations determined by the applicable minimum statutory withholding rates. The Company is authorized to satisfy the tax withholding obligations, if any, remaining following the procedure described in this Section 7.2 by withholding from payroll or any other amounts payable to the Participant. 
+
+^**Effect of Change in Control on Award*****.*** 
+
+In the event of a Change in Control, the vesting and settlement of the Award shall be accelerated as provided by Section 4.2. 
+
+^**Adjustments for Changes in Capital Structure****.** 
+
+Subject to any required action by the stockholders of the Company, in the event of any change in the Stock effected without receipt of consideration by the Company, whether through merger, consolidation, reorganization, reincorporation, recapitalization, reclassification, stock dividend, stock split, reverse stock split, split-up, split-off, spin-off, combination of shares, exchange of shares, or similar change in the capital structure of the Company, or in the event of payment of a dividend or distribution to the stockholders of the Company in a form other than Stock (excepting normal cash dividends) that has a material effect on the Fair Market Value of shares of Stock, appropriate and proportionate adjustments shall be made in the number of Units subject to the Award and/or the number and kind of shares to be issued in settlement of the Award, in order to prevent dilution or enlargement of the Participant’s rights under the Award. For purposes of the foregoing, conversion of any convertible securities of the Company shall not be treated as “effected without receipt of consideration by the Company.” Any fractional Unit or share resulting from an adjustment pursuant to this section shall be rounded down to the nearest whole number. Such adjustments shall be determined by the Committee, and its determination shall be final, binding and conclusive. 
+
+^**Rights as a Stockholder, Director, Employee or Consultant****.** 
+
+The Participant shall have no rights as a stockholder with respect to any shares which may be issued in settlement of this Award until the date of the issuance of a certificate for such shares (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company). No adjustment shall be made for dividends, 
+
+^^^^^ 
+distributions or other rights for which the record date is prior to the date such certificate is issued, except as provided in Section 3.3 and Section 9. If the Participant is an employee, the Participant understands and acknowledges that, except as otherwise provided in a separate, written employment agreement between a Participating Company and the Participant, the Participant’s employment is “at will” and is for no specified term. Nothing in this Agreement shall confer upon the Participant any right to continue in the Service of a Participating Company or interfere in any way with any right of the Participating Company Group to terminate the Participant’s Service at any time. 
+
+^**Legends****.**  
+
+The Company may at any time place legends referencing any applicable federal, state or foreign securities law restrictions on all certificates representing shares of stock issued pursuant to this Agreement. The Participant shall, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to this Award in the possession of the Participant in order to carry out the provisions of this section. 
+
+^**Compliance with Section 409A****.**  
+
+It is intended that any election, payment or benefit which is made or provided pursuant to or in connection with this Award that may result in a deferral of compensation as described in Section 409A of the Code (***Section 409A Deferred Compensation***) shall comply in all respects with the applicable requirements of Section 409A (including applicable regulations or other administrative guidance thereunder, as determined by the Committee in good faith) to avoid the unfavorable tax consequences provided therein for non-compliance. In connection with effecting such compliance with Section 409A, the following shall apply: 
+
+^^**Required Delay in** Payment **to Specified Employee.** If the Participant is a “specified employee” of a publicly traded corporation as defined under Section 409A(a)(2)(B)(i) of the Code, unless subject to an applicable exception under Section 409A, any payment of Section 409A Deferred Compensation in connection with a “separation from service” (as determined for purposes of Section 409A) shall not be made until six (6) months after the Participant’s separation from service (the “**Section 409A Deferral Period**”). In the event such payments are otherwise due to be made in installments or periodically during the Section 409A Deferral Period, the payments of Section 409A Deferred Compensation which would otherwise have been made in the Section 409A Deferral Period shall be accumulated and paid in a lump sum as soon as the Section 409A Deferral Period ends, and the balance of the payments shall be made as otherwise scheduled. 
+
+^^**Other Delays in Payment.** Neither the Participant nor the Company shall take any action to accelerate or delay the payment of any benefits under this Agreement in any manner which would not be in compliance with Section 409A of the Code. 
+
+^^**Amendments to Comply with Section 409A; Indemnification.** Notwithstanding any other provision of this Agreement to the contrary, the Company is authorized to amend this Agreement, to void or amend any election made by the Participant under this Agreement and/or to delay the payment of any monies and/or provision of any 
+
+^^^^^ 
+benefits in such manner as may be determined by the Company, in its discretion, to be necessary or appropriate to comply with Section 409A of the Code without prior notice to or consent of the Participant. The Participant hereby releases and holds harmless the Company, its directors, officers and stockholders from any and all claims that may arise from or relate to any tax liability, penalties, interest, costs, fees or other liability incurred by the Participant in connection with the Award, including as a result of the application of Section 409A of the Code. 
+
+^**Miscellaneous Provisions****.**  
+
+^^**Termination or Amendment.** The Committee may terminate or amend this Agreement at any time; provided, however, that no such termination or amendment may adversely affect the Participant’s rights under this Agreement without the consent of the Participant unless such termination or amendment is necessary to comply with applicable law or government regulation or as provided in Section 12.3. No amendment or addition to this Agreement shall be effective unless in writing. 
+
+^^**Nontransferability of the Award.** Prior to the issuance of shares of Stock on the applicable Settlement Date, neither this Award nor any Units subject to this Award shall be subject in any manner to anticipation, alienation, sale, exchange, transfer, assignment, pledge, encumbrance, or garnishment by creditors of the Participant or the Participant’s beneficiary, except transfer by will or by the laws of descent and distribution. All rights with respect to the Award shall be exercisable during the Participant’s lifetime only by the Participant or the Participant’s guardian or legal representative. 
+
+^^**Further Instruments.** The parties hereto agree to execute such further instruments and to take such further action as may reasonably be necessary to carry out the intent of this Agreement. 
+
+^^**Binding Effect.** This Agreement shall inure to the benefit of the successors and assigns of the Company and, subject to the restrictions on transfer set forth herein, be binding upon the Participant and the Participant’s heirs, executors, administrators, successors and assigns. 
+
+^^**Delivery of Documents and Notices.** Any document relating to the Award or any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given (except to the extent that this Agreement provides for effectiveness only upon actual receipt of such notice) upon personal delivery, electronic delivery at the e-mail address, if any, provided for the Participant by a Participating Company, or upon deposit in the U.S. Post Office or foreign postal service, by registered or certified mail, or with a nationally recognized overnight courier service, with postage and fees prepaid, addressed to the other party at the address shown below that party’s signature to the Grant Notice or at such other address as such party may designate in writing from time to time to the other party. 
+
+^^**Description of Electronic Delivery*****.*** The Award documents, which may include but do not necessarily include: the Grant Notice, this Agreement, the Award Prospectus, and any reports of the Company provided generally to the Company’s stockholders, may be delivered to the Participant electronically. In addition, the Participant may deliver 
+
+^^^^^ 
+electronically the Grant Notice to the Company or to such third party involved in administering the Award as the Company may designate from time to time. Such means of electronic delivery may include but do not necessarily include the delivery of a link to a Company intranet or the Internet site of a third party involved in administering the Award, the delivery of the document via e-mail or such other means of electronic delivery specified by the Company. 
+
+^^**Consent to Electronic Delivery.** The Participant acknowledges that the Participant has read Section 13.5(a) of this Agreement and consents to the electronic delivery of the Award documents, as described in Section 13.5(a). The Participant acknowledges that he or she may receive from the Company a paper copy of any documents delivered electronically at no cost to the Participant by contacting the Company by telephone or in writing. The Participant further acknowledges that the Participant will be provided with a paper copy of any documents if the attempted electronic delivery of such documents fails. Similarly, the Participant understands that the Participant must provide the Company or any designated third party administrator with a paper copy of any documents if the attempted electronic delivery of such documents fails. The Participant may revoke his or her consent to the electronic delivery of documents described in Section 13.5(a) or may change the electronic mail address to which such documents are to be delivered (if Participant has provided an electronic mail address) at any time by notifying the Company of such revoked consent or revised e-mail address by telephone, postal service or electronic mail. Finally, the Participant understands that he or she is not required to consent to electronic delivery of documents described in Section 13.5(a). 
+
+^^**Integrated Agreement.** The Grant Notice and this Agreement, together with any employment, service or other agreement between the Participant and a Participating Company referring to the Award, shall constitute the entire understanding and agreement of the Participant and the Participating Company Group with respect to the subject matter contained herein or therein and supersedes any prior agreements, understandings, restrictions, representations, or warranties among the Participant and the Participating Company Group with respect to such subject matter other than those as set forth or provided for herein or therein. To the extent contemplated herein or therein, the provisions of the Grant Notice and the Agreement shall survive any settlement of the Award and shall remain in full force and effect. 
+
+^^**Applicable Law.** This Agreement shall be governed by the laws of the State of Arizona as such laws are applied to agreements between Arizona residents entered into and to be performed entirely within the State of Arizona. 
+
+^^**Counterparts.** The Grant Notice may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+
+^^^^^ 
+\centered **EXHIBIT A-2** 
+
+\centered **Performance-Vesting Restricted Stock Unit Award:** 
+
+\centered **Notice of Grant of Restricted Stock Units** 
+
+\centered **and** 
+
+\centered **Restricted Stock Units Agreement** 
+
+^^^^^ 
+\centered [[Company]] NOTICE OF GRANT OF RESTRICTED STOCK UNITS (NON-PLAN AWARD)** 
+
+[[Company]] (the ***Company***) has granted to [[Executive]] (the ***Participant***) an award of Restricted Stock Units (the ***Award***), each of which represents the right to receive on the applicable Settlement Date one (1) share of the Common Stock of the Company, upon the terms and conditions set forth in this Notice of Grant of Restricted Stock Units (the ***Grant Notice***) and the Restricted Stock Units Agreement attached hereto (the ***Agreement***). 
+
+\centered 
+
+**Date of Grant:**    [[Date 1]] 
+
+**Number of Restricted Stock Units:**    50,000, subject to adjustment as provided by the Agreement. 
+
+**Settlement Date:**    For each Unit, except as otherwise provided by the Agreement, as soon as practicable following the date on which such Unit becomes a Vested Unit in accordance with the vesting schedule set forth below, provided that in no event shall the Settlement Date with respect to any Vested Unit be later than the 15th day of the third month following the later of (i) the last day of the calendar year in which such Unit becomes a Vested Unit or (ii) the last day of the Company fiscal year in which such Unit becomes a Vested Unit. 
+
+**Vested Units:** Except as provided by the Agreement and provided that the Participant’s Service has not terminated prior to the relevant date except as otherwise provided by the Pro Rata Vesting provision below, the number of Vested Units (disregarding any resulting fractional Unit) as of any date is determined by multiplying the Number of Restricted Stock Units by the ***Vested Ratio***determined as of such date as follows:  
+
+\centered 
+
+**Vested Ratio** On the 60th day following the end of the first successive four fiscal quarters of the Company in which the Company achieves EBITDA of $[***].    1/3 
+
+On the 60th day following the end of the first successive four fiscal quarters of the Company in which the Company achieves EBITDA of $[***], an additional    1/3 
+
+On the 60th day following the end of the first successive four fiscal quarters of the Company in which the Company achieves EBITDA of $[***], an additional    1/3 
+
+**EBITDA:**    For the **purposes of this Award, “EBI**TDA” means the Company’s earnings before income tax, depreciation and amortization as approved by the Audit Committee of the Board. EBITDA shall include the reduction in earnings resulting from the accrual of compensation expense for awards granted under the Company’s 2005 Performance Incentive Plan or under individual non-plan equity awards granted to any service provider. The Audit Committee of the Board shall adjust  
+
+***    Confidential information on this page has been omitted and filed separately with the Securities Exchange Commission pursuant to a Confidential Treatment Request.
+
+^^^^^ 
+\centered 
+
+EBITDA, as it deems appropriate, to exclude the effect (whether positive or negative) of any of the following occurring after the grant of the Award: (a) a change in accounting standards required by generally accepted accounting principles or (b) any extraordinary, unusual or nonrecurring item. Each such adjustment, if any, shall be made solely for the purpose of providing a consistent basis from period to period for the calculation of EBITDA in order to prevent the dilution or enlargement of the Participant’s rights with respect to the Award. 
+
+**Pro Rata Vesting:**    In the event that the Participant becomes entitled to “Severance Benefits” in accordance with either Section 7.2 or Section 7.3 of the Employment Agreement, then a number of Restricted Stock Units shall become Vested Units, effective on the forty-fifth day following the date of the Participant’s termination of employment, in an amount equal to: 
+
+^^,000 x ((X  $[***]) / $[***]))  Y, where 
+
+“X” is equal to EBITDA achieved during the four consecutive fiscal quarter period of the Company beginning on or after the Date of Grant and ending prior to the Participant’s employment termination date which has the greatest EBITDA; and 
+
+“Y” is equal to the number of Vested Units previously determined without regard to this provision. 
+
+**Employment Agreement:**    That certain Executive Employment Agreement by and between the Company and the Participant, dated [[Date 1]].  
+
+[[Employment Agreement    That certain Executive Employment Agreement by and between the Company and the Participant dated Date 1. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Employment Agreement    That certain Executive Employment Agreement by and between the Company and the Participant dated Date 1. Entity => By: [[Employment Agreement    That certain Executive Employment Agreement by and between the Company and the Participant dated Date 1. Signatory First Name]] [[Employment Agreement    That certain Executive Employment Agreement by and between the Company and the Participant dated Date 1. Signatory Last Name]]
+Title: [[Employment Agreement    That certain Executive Employment Agreement by and between the Company and the Participant dated Date 1. Signatory Title]]}}
+
+
+\centered 
+
+[[Company]]        PARTICIPANT 
+
+[[Company        PARTICIPANT Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company        PARTICIPANT Entity => By: [[Company        PARTICIPANT Signatory First Name]] [[Company        PARTICIPANT Signatory Last Name]]
+Title: [[Company        PARTICIPANT Signatory Title]]}}
+Address:    14400 N. 87th Street [[Address 4: Address]]        Address 
+
+ATTACHMENTS: Restricted Stock Units Agreement and Award Prospectus 
+
+***    Confidential information on this page has been omitted and filed separately with the Securities Exchange Commission pursuant to a Confidential Treatment Request.
+
+^^^^^ 
+\centered **EXHIBIT A-3** 
+
+\centered **2009 Performance Share Award:** 
+
+\centered **Notice of Grant of Performance Shares** 
+
+\centered **and** 
+
+\centered **2009 Performance Share Agreement** 
+
+^^^^^ 
+\centered [[Company]] NOTICE OF GRANT OF PERFORMANCE SHARES (NON-PLAN AWARD)** 
+
+[[Company]] (the ***Company***) has granted to [[Executive]] (the ***Participant***) an award of Performance Shares (the ***Award***), each of which represents the right to receive on the applicable Settlement Date one (1) share of the Common Stock of the Company, upon the terms and conditions set forth in this Notice of Grant of Performance Shares (the ***Grant Notice***) and the 2009 Performance Share Agreement attached hereto (the ***Agreement***). 
+
+\centered 
+
+**Grant Date:**    [[Date 1]] **Grant No.:** 
+
+**Target Number of Performance Shares:**    25,000, subject to adjustment as provided by the Agreement. 
+
+**Maximum Number of Performance Shares:**    31,250, subject to adjustment as provided by the Agreement. 
+
+**Performance Period:**    Company fiscal year beginning [[Date 3: Date]] and ending [[Date 4: Date]]. 
+
+**Initial Vesting Date:**    [[Date 5: Date]], provided the Company’s Audit Committee has approved the Company’s Fiscal Year 2009 financial results. If the Audit Committee has not approved the 2009 financial results by [[Date 5]], then the Initial Vesting Date shall be the 28th day of the first month beginning after the date of such approval but in no event later than [[Date 6: Date]]. 
+
+**Vested Performance Shares:**    Except as provided in the Agreement and provided that the Participant’s Service has not terminated prior to the relevant vesting date, the vesting of the Performance Shares shall be as follows: On the Initial Vesting Date, the applicable number of Performance Shares set forth in column 2 of the table below shall become Vested Performance Shares to the extent of the attainment of the Performance Milestone set forth in column 1 of the table, and the applicable the number of Performance Shares set forth in column 3 of the table shall be forfeited on the Initial Vesting Date. In addition, on and after the Initial Vesting Date, 1/24 of the applicable number of Performance Shares set forth in column 4 of the table below, to the extent of the attainment of the Performance Milestone set forth in column 1 of the table, shall become Vested Performance Shares for each full month of the Participant’s Service completed during the 24 month period commencing on [[Date 5]]. 
+
+**Settlement Date:**    For each Performance Share, except as otherwise provided by the Agreement, the date on which such Performance Share becomes a Vested Performance Share in accordance with the vesting schedule set forth below. 
+
+**Employment Agreement:**    That certain Executive Employment Agreement by and between the Company and the Participant, dated [[Date 1]].  
+
+^^^^^ 
+
+**# of** **Performance**    **# of Performance Shares** **# of Performance Shares Vesting on**    **Shares**    **Subject to Time Based** **Performance Milestone**    **Initial Vesting Date**    **Forfeited**    **Vesting** Company’s EBITDA in fiscal year 2009: 
+
+Less than $[[USD Value 6: Number]]      Target Number of Performance Shares    
+
+Equal to or greater than $[[USD Value 6]] and less than $[[USD Value 7: Number]]    [[Percentage 1]]% x A    (Target Number of Performance Shares)  A    [[Percentage 1]]% x A 
+
+Equal to or greater than $[[USD Value 7]] and less than $[[USD Value 8: Number]]    [[Percentage 1]]% x B    (Target Number of Performance Shares)  B (but not below zero (0))    [[Percentage 1]]% x B 
+
+Equal to or greater than $[[USD Value 8]]    [[Percentage 4: Number]]% x (Target Number of Performance Shares)      [[Percentage 4]]% x (Target Number of Performance Shares)  
+
+^^^^^ 
+^= (0.5 * Target Number of Performance Shares) * (1-((70,000,000  FY09EBITDA) / 21,500,000)) 
+
+^= Target Number of Performance Shares + ((0.25 * Target Number of Performance Shares) * (1-((110,000,000  FY09EBITDA) / 18,500,000))) 
+
+[[B = Target Number of Performance Shares + 0.25  Target Number of Performance Shares  1-110000000  FY09EBITDA / 18500000 Signatory Email: Identity | Signature]]
+__________________________________________
+{{B = Target Number of Performance Shares + 0.25  Target Number of Performance Shares  1-110000000  FY09EBITDA / 18500000 Entity => By: [[B = Target Number of Performance Shares + 0.25  Target Number of Performance Shares  1-110000000  FY09EBITDA / 18500000 Signatory First Name]] [[B = Target Number of Performance Shares + 0.25  Target Number of Performance Shares  1-110000000  FY09EBITDA / 18500000 Signatory Last Name]]
+Title: [[B = Target Number of Performance Shares + 0.25  Target Number of Performance Shares  1-110000000  FY09EBITDA / 18500000 Signatory Title]]}}
+
+^The Company and the Participant agree that the Award is governed by this Grant Notice and by the provisions of the Agreement, both of which are made part of this document. 
+
+^The Participant acknowledges that this Award has not been granted pursuant to the Company’s 2005 Performance Incentive Plan. 
+
+^The Participant acknowledges receipt of the Agreement and the prospectus for this Award. 
+
+^The Participant represents that the Participant has read and is familiar with the provisions of the Agreement and hereby accepts the Award subject to all of its terms and conditions. 
+
+\centered 
+
+[[Company]]        PARTICIPANT 
+
+By: Signature Its: Date 
+
+Address:    14400 N. 87th Street [[Address 4: Address]]        Address 
+
+ATTACHMENTS: 2009 Performance Share Agreement and Award Prospectus 
+
+^^^^^ 
+\centered [[Company]] 2009 PERFORMANCE SHARE AGREEMENT (NON-PLAN AWARD)** 
+
+[[Company]] has granted to the Participant named in the *Notice of Grant of Performance Shares* (the ***Grant Notice***) to which this 2009 Performance Share Agreement (the ***Agreement***) is attached an Award consisting of Performance Shares subject to the terms and conditions set forth in the Grant Notice and this Agreement. This Award has not been granted pursuant to the [[Company]] 2005 Performance Incentive Plan or any other stock-based compensation plan of the Company in reliance on NASDAQ Marketplace Rule 5635(c)(4). By signing the Grant Notice, the Participant: (a) acknowledges receipt of and represents that the Participant has read and is familiar with the Grant Notice, this Agreement and a prospectus for the Award prepared in connection with the registration with the Securities and Exchange Commission of the shares issuable pursuant to the Award (the ***Award Prospectus***), (b) accepts the Award subject to all of the terms and conditions of the Grant Notice and this Agreement and (c) agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee upon any questions arising under the Grant Notice or this Agreement. 
+
+^**Definitions and Construction.**  
+
+^^**Definitions*****.*** Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Grant Notice. 
+
+^^***Change in Control***means the occurrence of any of the following: 
+
+^^^any “person” (as such term is used in Sections 13(d) and 14(d) of the Exchange Act), other than (1) a trustee or other fiduciary holding stock of the Company under an employee benefit plan of a Participating Company or (2) a corporation owned directly or indirectly by the stockholders of the Company in substantially the same proportions as their ownership of the stock of the Company, becomes the “beneficial owner” (as defined in Rule 13d-3 promulgated under the Exchange Act), directly or indirectly, of stock of the Company representing more than fifty percent ([[Percentage 1]]%) of the total combined voting power of the Company’s then-outstanding voting stock; or 
+
+^^^an Ownership Change Event or series of related Ownership Change Events (collectively, a ***Transaction***) in which the stockholders of the Company immediately before the Transaction do not retain immediately after the Transaction direct or indirect beneficial ownership of more than fifty percent ([[Percentage 1]]%) of the total combined voting power of the outstanding voting securities of the Company or, in the case of an Ownership Change Event described in Section 1.1(h)(iii), the entity to which the assets of the Company were transferred (the ***Transferee***), as the case may be; or 
+
+^^^a liquidation or dissolution of the Company. 
+
+For purposes of the preceding sentence, indirect beneficial ownership shall include, without limitation, an interest resulting from ownership of the voting securities of one or more 
+
+^^^^^ 
+corporations or other business entities which own the Company or the Transferee, as the case may be, either directly or through one or more subsidiary corporations or other business entities. The Committee shall have the right to determine whether multiple sales or exchanges of the voting securities of the Company or multiple Ownership Change Events are related, and its determination shall be final, binding and conclusive. 
+
+^^***Code***means the Internal Revenue Code of 1986, as amended, and any applicable regulations promulgated thereunder. 
+
+^^***Committee***means the Compensation Committee or other committee of the Board of Directors of the Company (the ***Board***) duly appointed to administer the Award and having such powers as shall be specified by the Board. If no committee of the Board has been appointed to administer the Award, the Board shall exercise all of the powers of the Committee granted herein, and, in any event, the Board may in its discretion exercise any or all of such powers. 
+
+^^***Common Shares***mean shares of Stock issued in settlement of the Award. 
+
+^^***Company***means [[Company]], a Delaware corporation, or any successor corporation thereto. 
+
+^^***Dividend Equivalent Shares***means additional Performance Shares credited pursuant to Section 3.3. 
+
+^^“***EBITDA***” means the Company’s earnings before income tax, depreciation and amortization as approved by the Audit Committee of the Board. EBITDA shall include the reduction in earnings resulting from the accrual of compensation expense for awards granted under the Plan, including but not limited to, Performance Shares and shall be subject to adjustment as provided by Section 4.2. 
+
+^^***Exchange Act***means the Securities Exchange Act of 1934, as amended. 
+
+^^^***Fair Market Value***means, as of any date, the value of a share of Stock or other property as determined by the Committee, in its discretion, or by the Company, in its discretion, if such determination is expressly allocated to the Company herein, subject to the following: 
+
+^^^Except as otherwise determined by the Committee, if, on such date, the Stock is listed on a national or regional securities exchange or market system, the Fair Market Value of a share of Stock shall be the closing price of a share of Stock (or the mean of the closing bid and asked prices of a share of Stock if the Stock is so quoted instead) as quoted on the national or regional securities exchange or market system constituting the primary market for the Stock, as reported in *The Wall Street Journal* or such other source as the Company deems reliable. If the relevant date does not fall on a day on which the Stock has traded on such securities exchange or market system, the date on which the Fair Market Value shall be 
+
+^^^^^ 
+established shall be the last day on which the Stock was so traded prior to the relevant date, or such other appropriate day as shall be determined by the Committee, in its discretion. 
+
+^^^If, on such date, the Stock is not listed on a national or regional securities exchange or market system, the Fair Market Value of a share of Stock shall be as determined by the Committee in good faith without regard to any restriction other than a restriction which, by its terms, will never lapse, and in a manner consistent with the requirements of Section 409A of the Code. 
+
+^^***Insider Trading Policy***means the written policy of the Company pertaining to the sale, transfer or other disposition of the Company’s equity securities by members of the Board, Officers or other employees who may possess material, non-public information regarding the Company, as in effect at the time of a disposition of any Common Shares. 
+
+^^***Ownership Change Event***means the occurrence of any of the following with respect to the Company: (i) the direct or indirect sale or exchange in a single or series of related transactions by the stockholders of the Company of more than fifty percent ([[Percentage 1]]%) of the voting stock of the Company; (ii) a merger or consolidation in which the Company is a party; or (iii) the sale, exchange, or transfer of all or substantially all of the assets of the Company (other than a sale, exchange or transfer to one or more subsidiaries of the Company). 
+
+^^***Participating Company***means the Company or any parent corporation or subsidiary corporation the Company. 
+
+^^***Participating Company Group***means, at any point in time, all entities collectively which are then Participating Companies. 
+
+^^***Performance Share***means a right to receive on the Settlement Date one (1) Common Share, if such Performance Share becomes a Vested Performance Share. 
+
+^^***Section 409A***means Section 409A of the Code and any applicable regulations or administrative guidelines promulgated thereunder. 
+
+^^***Section 409A Deferred Compensation***means compensation payable pursuant to the Award granted to a Participant subject to United States income taxation that constitutes nonqualified deferred compensation for purposes of Section 409A. 
+
+^^***Stock***means the common stock of the Company, as adjusted from time to time in accordance with Section 9. 
+
+^^**Construction*****.*** Captions and titles contained herein are for convenience only and shall not affect the meaning or interpretation of any provision of this Agreement. Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular. Use of the term “or” is not intended to be exclusive, unless the context clearly requires otherwise. 
+
+^^^^^ 
+^**Administration****.**  
+
+All questions of interpretation concerning the Grant Notice and this Agreement shall be determined by the Committee. All determinations by the Committee shall be final and binding upon all persons having an interest in the Award. Any officer of the Company shall have the authority to act on behalf of the Company with respect to any matter, right, obligation, or election which is the responsibility of or which is allocated to the Company herein, provided the officer has apparent authority with respect to such matter, right, obligation, or election. The Company intends that the Award either be exempt from or comply with Section 409A (including any amendments or replacements of such section), and the provisions of this Agreement shall be construed and administered in a manner consistent with this intent. 
+
+^**The Award****.**  
+
+^^**Grant of Performance Shares.** On the Grant Date, the Participant shall acquire, subject to the provisions of this Agreement, a right to receive a number of Performance Shares which shall not exceed the Maximum Number of Performance Shares set forth in the Grant Notice, subject to adjustment as provided in Section 9. The number of Performance Shares, if any, ultimately earned by the Participant, shall be that number of Performance Shares which become Vested Performance Shares. 
+
+^^**No Monetary Payment Required.** The Participant is not required to make any monetary payment (other than applicable tax withholding, if any) as a condition to receiving the Performance Shares or the Common Shares issued upon settlement of the Performance Shares, the consideration for which shall be past services actually rendered and/or future services to be rendered to a Participating Company or for its benefit. Notwithstanding the foregoing, if required by applicable state corporate law, the Participant shall furnish consideration in the form of cash or past services rendered to the a Participating Company or for its benefit having a value not less than the par value of the Common Shares issued upon settlement of the Performance Shares. 
+
+^^**Dividend Equivalent Shares.** On the date that the Company pays a cash dividend to holders of Stock generally, the Participant shall be credited with a number of additional whole Dividend Equivalent Shares determined by dividing (a) the product of (i) the dollar amount of the cash dividend paid per share of Stock on such date and (ii) the total number of Performance Shares and Dividend Equivalent Shares previously credited to the Participant pursuant to the Award and which have not been settled or forfeited pursuant to Section 5.2 as of such date, by (b) the Fair Market Value per share of Stock on such date. Any resulting fractional Dividend Equivalent Share shall be rounded to the nearest whole number. Such additional Dividend Equivalent Shares shall be subject to the same vesting and other terms and conditions and shall be settled or forfeited in the same manner and at the same time as the Performance Shares originally subject to the Award with respect to which they have been credited. 
+
+^**Determination of 2009 EBITDA****.**  
+
+^^**2009 Financial Results.** Following completion of the Performance Period, the Audit Committee of the Board shall approve the Company’s 2009 financial results, and 
+
+^^^^^ 
+following such approval, the Committee shall determine in accordance with the schedule set forth in the Grant Notice the resulting number of Performance Shares which shall become Vested Performance Shares on the Initial Vesting Date and the number of Performance Shares subject to time-based vesting, subject to the Participant’s continued Service through the vesting period, except as otherwise provided by Section 5. The Company shall promptly notify the Participant of the determination by the Committee. 
+
+^^**Adjustment to EBITDA for Extraordinary Items.** The Audit Committee of the Board shall adjust EBITDA, as it deems appropriate, to exclude the effect (whether positive or negative) of any of the following occurring after the grant of the Award: (a) a change in accounting standards required by generally accepted accounting principles or (b) any extraordinary, unusual or nonrecurring item. Each such adjustment, if any, shall be made solely for the purpose of providing a consistent basis from period to period for the calculation of EBITDA in order to prevent the dilution or enlargement of the Participant’s rights with respect to the Award. 
+
+^**Vesting of Performance Shares**.   
+
+^^**Vesting.** Except as provided by Section 8, the Performance Shares shall vest and become Vested Performance Shares as provided in the Grant Notice and as determined by the Committee. Dividend Equivalent Shares shall become Vested Performance Shares at the same time as the Performance Shares originally subject to the Award with respect to which they have been credited. 
+
+^^**Forfeiture of Unvested Performance Shares.** Except as otherwise provided by Section 8, on the Initial Vesting Date, the Participant shall forfeit and the Company shall automatically reacquire all Performance Shares subject to the Award set forth in column 3 of the table in the Grant Notice. In addition, and subject to the provisions of any employment, service or other agreement between the Participant and a Participating Company, in the event that the Participant’s Service terminates for any reason or no reason, with or without cause, the Participant shall forfeit and the Company shall automatically reacquire all Performance Shares which are not, as of the time of such termination, Vested Performance Shares. The Participant shall not be entitled to any payment for any forfeited Performance Shares. 
+
+^**Settlement of the Award****.**  
+
+^^**Issuance of Common Shares*****.*** Subject to the provisions of Section 6.3 below, the Company shall issue to the Participant on the Settlement Date with respect to each Vested Performance Share one (1) Common Share. Common Shares issued in settlement of Performance Shares shall be subject to restrictions as may be required pursuant to Sections 6.3, 7, 12 or the Insider Trading Policy. 
+
+^^**Beneficial Ownership of Common Shares; Certificate Registration*****.*** The Participant hereby authorizes the Company, in its sole discretion, to deposit for the benefit of the Participant with any broker with which the Participant has an account relationship of which the Company has notice Common Shares acquired by the Participant pursuant to the settlement of the Award. Except as otherwise provided by this Section 6.2, a certificate for the Common 
+
+^^^^^ 
+Shares as to which the Award is settled shall be registered in the name of the Participant, or, if applicable, in the names of the heirs of the Participant. 
+
+^^**Restrictions on Grant of the Award and Issuance of Common Shares*****.*** The grant of the Award and issuance of Common Shares upon settlement of the Award shall be subject to compliance with all applicable requirements of federal, state law or foreign law with respect to such securities. No Common Shares may be issued hereunder if the issuance of such shares would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Stock may then be listed. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance of any Common Shares subject to the Award shall relieve the Company of any liability in respect of the failure to issue such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the Award, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company. 
+
+^^**Fractional Shares*****.*** The Company shall not be required to issue fractional Common Shares upon the settlement of the Award. Any fractional share resulting from the determination of the number of Vested Performance Shares shall be rounded up to the nearest whole number. 
+
+^**Tax Withholding****.**  
+
+^^**In General.** At the time the Grant Notice is executed, or at any time thereafter as requested by the Company, the Participant hereby authorizes withholding from payroll and any other amounts payable to the Participant, and otherwise agrees to make adequate provision for, any sums required to satisfy the federal, state, local and foreign tax withholding obligations of the Company, if any, which arise in connection with the Award or the issuance of Common Shares in settlement thereof. The Company shall have no obligation to process the settlement of the Award or to deliver Common Shares until the tax withholding obligations as described in this Section have been satisfied by the Participant. 
+
+^^**Withholding in Common Shares.** Unless otherwise determined by the Company, the Company shall satisfy the tax withholding obligations (except with respect to any fractional share) of the Company or any other Participating Company by deducting from the Common Shares otherwise deliverable to the Participant in settlement of the Award a number of whole Common Shares having a fair market value, as determined by the Company as of the date on which the tax withholding obligations arise, not in excess of the amount of such tax withholding obligations determined by the applicable minimum statutory withholding rates. The Company is authorized to satisfy the tax withholding obligations, if any, remaining following the procedure described in this Section 7.2 by withholding from payroll or any other amounts payable to the Participant. 
+
+^^^^^ 
+^**CHANGE IN CONTROL*****.***  
+
+^^**Effect of Change in Control on Performance Shares.** In the event of a Change in Control prior to the Initial Vesting Date and provided that the Participant’s Service has not terminated prior to the consummation of the Change in Control (except as otherwise provided below), [[Percentage 2]]% of the Target Number of Performance Shares shall become Vested Performance Shares and shall be settled in accordance with Section 6 immediately prior to (and contingent upon) the consummation of the Change in Control. In the event of a Change in Control on or after the Initial Vesting Date and provided that the Participant’s Service has not terminated prior to the consummation of the Change in Control (except as otherwise provided below), then, in addition to the number of Performance Shares which became Vested Performance Shares on the Initial Vesting Date, as provided in the Grant Notice and as determined by the Committee, [[Percentage 2]]% of the Performance Shares subject to time based vesting, as provided in the Grant Notice and as determined by the Committee, shall become Vested Performance Shares and shall be settled in accordance with Section 6 immediately prior to (and contingent upon) the consummation of the Change in Control. Notwithstanding any provision of this Agreement or the Grant Notice to the contrary, for purposes of the acceleration of vesting of the Performance Shares provided by this Section, termination of the Participant’s employment with the Company within a period of four (4) months prior to the consummation of the Change in Control either as a result of involuntary termination by the Company without Cause, as described in Section 7.2 of the Employment Agreement, or as a result of termination by the Participant for Good Reason, as described in Section 7.3 of the Employment Agreement, shall not be treated as termination of the Participant’s Service prior to the consummation of the Change in Control. 
+
+^^**Federal Excise Tax Under Section 4999 of the Code.** 
+
+^^**Excess Parachute Payment.** In the event that any acceleration of vesting the Performance Shares and any other payment or benefit received or to be received by the Participant would subject the Participant to any excise tax pursuant to Section 4999 of the Code due to the characterization of such acceleration of vesting, payment or benefit as an “excess parachute payment” under Section 280G of the Code, the Participant may elect, in his or her sole discretion, to reduce the amount of any acceleration of vesting called for by this Agreement in order to avoid such characterization. 
+
+^^**Determination by Independent Accountants.** To aid the Participant in making any election called for under Section 8.2(a), in connection with any event that might reasonably be anticipated to give rise to the acceleration of vesting under Section 8.1, the Company shall promptly request a determination in writing by independent public accountants selected by the Company (the ***Accountants***). Unless the Company and the Participant otherwise agree in writing, the Accountants shall determine and report to the Company and the Participant the amount of such acceleration of vesting, payments and benefits which would produce the greatest after-tax benefit to the Participant. For the purposes of such determination, the Accountants may rely on reasonable, good faith interpretations concerning the application of Sections 280G and 4999 of the Code. The Company and the Participant shall furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make their required determination. The Company shall bear all fees and expenses the 
+
+^^^^^ 
+Accountants may reasonably charge in connection with their services contemplated by this Section 8.2(b). 
+
+^**Adjustments for Changes in Capital Structure****.** 
+
+Subject to any required action by the stockholders of the Company, in the event of any change in the Stock effected without receipt of consideration by the Company, whether through merger, consolidation, reorganization, reincorporation, recapitalization, reclassification, stock dividend, stock split, reverse stock split, split-up, split-off, spin-off, combination of shares, exchange of shares, or similar change in the capital structure of the Company, or in the event of payment of a dividend or distribution to the stockholders of the Company in a form other than Stock (excepting normal cash dividends) that has a material effect on the Fair Market Value of shares of Stock, appropriate adjustments shall be made in the number of Performance Shares and/or the number and kind of shares to be issued in settlement of the Award, in order to prevent dilution or enlargement of the Participant’s rights under the Award. For purposes of the foregoing, conversion of any convertible securities of the Company shall not be treated as “effected without receipt of consideration by the Company.” Any fractional share resulting from an adjustment pursuant to this Section shall be rounded down to the nearest whole number. Such adjustments shall be determined by the Plan Administrator, and its determination shall be final, binding and conclusive. 
+
+^**Rights as a Stockholder or Employee****.** 
+
+The Participant shall have no rights as a stockholder with respect to any Common Shares which may be issued in settlement of this Award until the date of the issuance of a certificate for such shares (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company). No adjustment shall be made for dividends, distributions or other rights for which the record date is prior to the date such certificate is issued, except as provided in Sections 3.3 and 9. If the Participant is an employee, the Participant understands and acknowledges that, except as otherwise provided in a separate, written employment agreement between a Participating Company and the Participant, the Participant’s employment is “at will” and is for no specified term. Nothing in this Agreement shall confer upon the Participant any right to continue in Service interfere in any way with any right of any Participating Company to terminate the Participant’s Service at any time. 
+
+^**Legends****.**  
+
+The Company may at any time place legends referencing any applicable federal, state or foreign securities law restrictions on all certificates representing Common Shares issued pursuant to this Agreement. The Participant shall, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to this Award in the possession of the Participant in order to carry out the provisions of this Section. 
+
+^**Compliance with Section 409A****.**  
+
+It is intended that any election, payment or benefit which is made or provided pursuant to or in connection with this Award that may result in Section 409A Deferred Compensation shall comply in all respects with the applicable requirements of Section 409A 
+
+^^^^^ 
+(including applicable regulations or other administrative guidance thereunder, as determined by the Committee in good faith) to avoid the unfavorable tax consequences provided therein for non-compliance. In connection with effecting such compliance with Section 409A, the following shall apply: 
+
+^^**Required Delay in** Payment **to Specified Employee.** If the Participant is a “specified employee” of a publicly traded corporation as defined under Section 409A(a)(2)(B)(i) of the Code, unless subject to an applicable exception under Section 409A, any payment of Section 409A Deferred Compensation in connection with a “separation from service” (as determined for purposes of Section 409A) shall not be made until six (6) months after the Participant’s separation from service (the “**Section 409A Deferral Period**”). In the event such payments are otherwise due to be made in installments or periodically during the Section 409A Deferral Period, the payments of Section 409A Deferred Compensation which would otherwise have been made in the Section 409A Deferral Period shall be accumulated and paid in a lump sum as soon as the Section 409A Deferral Period ends, and the balance of the payments shall be made as otherwise scheduled. 
+
+^^**Other Delays in Payment.** Neither the Participant nor the Company shall take any action to accelerate or delay the payment of any benefits under this Agreement in any manner which would not be in compliance with Code Section 409A. 
+
+^^**Amendments to Comply with Section 409A; Indemnification.** Notwithstanding any other provision of this Agreement to the contrary, the Company is authorized to amend this Agreement, to void or amend any election made by the Participant under this Agreement and/or to delay the payment of any monies and/or provision of any benefits in such manner as may be determined by the Company, in its discretion, to be necessary or appropriate to comply with Section 409A without prior notice to or consent of the Participant. The Participant hereby releases and holds harmless the Company, its directors, officers and stockholders from any and all claims that may arise from or relate to any tax liability, penalties, interest, costs, fees or other liability incurred by the Participant in connection with the Award, including as a result of the application of Section 409A. 
+
+^**Miscellaneous Provisions****.**  
+
+^^**Termination or Amendment.** The Committee may terminate or amend this Agreement at any time; provided, however, that no such termination or amendment may adversely affect the Participant’s rights under this Agreement without the consent of the Participant unless such termination or amendment is necessary to comply with applicable law or government regulation or as provided in Section 12.3. No amendment or addition to this Agreement shall be effective unless in writing. 
+
+^^**Nontransferability of the Award.** Prior the issuance of Common Shares on the Settlement Date, neither this Award nor any Performance Shares subject to this Award shall be subject in any manner to anticipation, alienation, sale, exchange, transfer, assignment, pledge, encumbrance, or garnishment by creditors of the Participant or the Participant’s beneficiary, except transfer by will or by the laws of descent and distribution. All rights with 
+
+^^^^^ 
+respect to the Award shall be exercisable during the Participant’s lifetime only by the Participant or the Participant’s guardian or legal representative. 
+
+^^**Unfunded Obligation.** The Participant shall have the status of a general unsecured creditor of the Company. Any amounts payable to the Participant pursuant to the Award shall be an unfunded and unsecured obligation for all purposes, including, without limitation, Title I of the Employee Retirement Income Security Act of 1974. The Company shall not be required to segregate any monies from its general funds, or to create any trusts, or establish any special accounts with respect to such obligations. 
+
+^^**Further** Instruments**.** The parties hereto agree to execute such further instruments and to take such further action as may reasonably be necessary to carry out the intent of this Agreement. 
+
+^^**Binding Effect.** This Agreement shall inure to the benefit of the successors and assigns of the Company and, subject to the restrictions on transfer set forth herein, be binding upon the Participant and the Participant’s heirs, executors, administrators, successors and assigns. 
+
+^^**Delivery of Documents and Notices.** Any document relating to the Award or any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given (except to the extent that this Agreement provides for effectiveness only upon actual receipt of such notice) upon personal delivery, electronic delivery at the e-mail address, if any, provided for the Participant by a Participating Company, or upon deposit in the U.S. Post Office or foreign postal service, by registered or certified mail, or with a nationally recognized overnight courier service, with postage and fees prepaid, addressed to the other party at the address shown below that party’s signature to the Grant Notice or at such other address as such party may designate in writing from time to time to the other party. 
+
+^^**Description of Electronic Delivery*****.*** The Award documents, which may include but do not necessarily include: the Grant Notice, this Agreement, the Award Prospectus, and any reports of the Company provided generally to the Company’s stockholders, may be delivered to the Participant electronically. In addition, the Participant may deliver electronically the Grant Notice to the Company or to such third party involved in administering the Award as the Company may designate from time to time. Such means of electronic delivery may include but do not necessarily include the delivery of a link to a Company intranet or the Internet site of a third party involved in administering the Award, the delivery of the document via e-mail or such other means of electronic delivery specified by the Company. 
+
+^^**Consent to Electronic Delivery.** The Participant acknowledges that the Participant has read Section 13.6(a) of this Agreement and consents to the electronic delivery of the Award documents, as described in Section 13.6(a). The Participant acknowledges that he or she may receive from the Company a paper copy of any documents delivered electronically at no cost to the Participant by contacting the Company by telephone or in writing. The Participant further acknowledges that the Participant will be provided with a paper copy of any documents if the attempted electronic delivery of such documents fails. Similarly, the Participant understands that the Participant must provide the Company or any designated third party administrator with a 
+
+^^^^^ 
+paper copy of any documents if the attempted electronic delivery of such documents fails. The Participant may revoke his or her consent to the electronic delivery of documents described in Section 13.6(a) or may change the electronic mail address to which such documents are to be delivered (if Participant has provided an electronic mail address) at any time by notifying the Company of such revoked consent or revised e-mail address by telephone, postal service or electronic mail. Finally, the Participant understands that he or she is not required to consent to electronic delivery of documents described in Section 13.6(a). 
+
+^^**Integrated Agreement.** The Grant Notice and this Agreement, together with any employment, service or other agreement between the Participant and a Participating Company referring to the Award, shall constitute the entire understanding and agreement of the Participant and the Participating Company Group with respect to the subject matter contained herein or therein and supersedes any prior agreements, understandings, restrictions, representations, or warranties between the Participant and the Participating Company Group with respect to such subject matter other than those as set forth or provided for herein or therein. To the extent contemplated herein or therein, the provisions of the Grant Notice and the Agreement shall survive any settlement of the Award and shall remain in full force and effect. 
+
+^^**Applicable Law.** This Agreement shall be governed by the laws of the State of Arizona as such laws are applied to agreements between Arizona residents entered into and to be performed entirely within the State of Arizona. 
+
+^^**Counterparts.** The Grant Notice may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+
+^^^^^ 
+\centered **EXHIBIT B** 
+
+\centered FORM OF  CONFIDENTIAL SEPARATION AND RELEASE AGREEMENT 
+
+This Confidential Separation and Release Agreement (“***Agreement***”) is between  (“***Employee***”) and [[Company]] (the “***Company***”) (hereinafter the “***parties***”), and is entered into as of . This Agreement will not become effective until the expiration of seven (7) days from Employee’s execution of this Agreement (the “***Effective Date***”)*.* 
+
+WHEREAS, Employee has been employed by the Company as  and is a party to that certain Employment Agreement dated  , as amended by and between the Company and Employee as then in effect immediately prior to the Effective Date (the ***Employment Agreement***); 
+
+WHEREAS, the last day of Employee’s employment with the Company was  *;* and 
+
+WHEREAS, the Company and Employee desire to avoid disputes and/or litigation regarding Employee’s separation from employment or any events or circumstances preceding or coincident with Employee’s separation from employment; 
+
+NOW, THEREFORE, in consideration of these recitals and the promises and agreements set forth in this Agreement, Employee’s employment with the Company will terminate upon the following terms: 
+
+^Mutual General Release:  
+
+^^Employee for himself or herself and on behalf of Employee’s attorneys, heirs, assigns, successors, executors, and administrators IRREVOCABLY AND UNCONDITIONALLY RELEASES, ACQUITS AND FOREVER DISCHARGES the Company and any current or former stockholders, directors, parent, subsidiary, affiliated, and related corporations, firms, associations, partnerships, and entities, and their successors and assigns, from any and all claims and causes of action whatsoever, whether known or unknown or whether connected with Employee’s employment by the Company or not, which may have arisen, or which may arise, prior to, or at the time of, the execution of this Agreement, including, but not limited to, any claim or cause of action arising out of any contract, express or implied, any covenant of good faith and fair dealing, express or implied, any tort (whether intentional or released in this agreement), or under Title VII of the Civil Rights Act of 1964, the Age Discrimination in Employment Act, the Americans with Disabilities Act, the Worker Adjustment and Retraining Notification (WARN) Act, the Older Workers Benefit Protection Act, or any other municipal, local, state, or federal law, common or statutory. The foregoing release shall not apply to indemnification or hold harmless obligations the Company may have that by their terms survive the termination of the Employee’s employment with the Company. 
+
+^^The Company for itself and on behalf of its current or former stockholders, directors, parent, subsidiary, affiliated, and related corporations, firms, associations, partnerships, and entities, and their successors and assigns IRREVOCABLY AND UNCONDITIONALLY RELEASES, ACQUITS AND FOREVER DISCHARGES, Employee and his personal representatives, administrators, trustees, heirs and assigns from any and all claims and causes of action whatsoever, whether known or unknown or whether connected with Employee’s employment by the Company or not, which may have arisen, or which may arise, prior to or at the time of, the execution of this Agreement, including, but not limited to, any claim or cause of action arising out of any contract, express or implied, any covenant of good faith and fair dealing, express or implied, any tort (whether intentional or released in this agreement), or any other municipal, local, state, or federal law, common or statutory. 
+
+^^^^^ 
+^Covenant Not to Sue: Employee also COVENANTS NOT TO SUE, OR OTHERWISE PARTICIPATE IN ANY ACTION OR CLASS ACTION against the Company or any of the released parties based upon any of the claims released in this Agreement. 
+
+^Severance Terms: Upon the expiration of seven (7) days from Employee’s execution of this Agreement and provided that this Agreement has become effective in accordance with its terms, in consideration for the promises, covenants, agreements, and releases set forth herein and in the Employment Agreement, the Company agrees to pay Employee the Severance Benefits as defined in and pursuant to the Employment Agreement (the ***Severance Benefits***), subject to the provisions for forfeiture of such Severance Benefits set forth in Section 7.5 of the Employment Agreement. 
+
+^Right to Revoke: Employee may revoke this Agreement by notice to the Company, in writing, received within seven (7) days of the date of its execution by Employee (the “***Revocation Period***”)*.* Employee agrees that Employee will not receive the benefits provided by this Agreement if Employee revokes this Agreement. Employee also acknowledges and agrees that if the Company has not received from Employee notice of Employee’s revocation of this Agreement prior to the expiration of the Revocation Period, Employee will have forever waived Employee’s right to revoke this Agreement, and this Agreement shall thereafter be enforceable and have full force and effect. 
+
+^Acknowledgement: Employee acknowledges and agrees that: (A) except as to any Severance Benefits which remain unpaid as of the date of this Agreement, no additional consideration, including salary, wages, bonuses or Equity Awards as described in the Employment Agreement, is to be paid to him by the Company in connection with this Agreement; (B) except as provided by this Agreement, Employee has no contractual right or claim to the Severance Benefits; and, (C) payments pursuant to this Agreement shall terminate immediately if Employee breaches any of the provisions of this Agreement. 
+
+^Non-Admissions: Employee acknowledges that by entering into this Agreement, the Company does not admit, and does specifically deny, any violation of any local, state, or federal law. 
+
+^Confidentiality: Employee agrees that Employee shall not directly or indirectly disclose the terms, amount or fact of this Agreement to anyone other than Employee’s immediate family or counsel, except as such disclosure may be required for accounting or tax reporting purposes or as otherwise may be required by law. 
+
+^Nondisparagement: Each party agrees that it will not make any statements, written or verbal, or cause or encourage others to make any statements, written or verbal, that defame, disparage or in any way criticize the personal or business reputation, practices or conduct of the other including, in the case of the Company, its employees, directors and stockholders. 
+
+^Acknowledgement of Restrictions; Confidential Information: Employee acknowledges and agrees that Employee has continuing non-competition, non-solicitation and non-disclosure obligations under the Employment Agreement and the Employee Innovations and Proprietary Rights Assignment Agreement between Employee and the Company (the “***Proprietary Rights Agreement***”)*.* Employee acknowledges and reaffirms Employee’s obligation to continue abide fully and completely with all post-employment provisions of the Employment Agreement and the Proprietary Rights Agreement and agrees that nothing in this Agreement shall operate to excuse or otherwise relieve Employee of such obligations. 
+
+^Severability: If any provision of this Agreement is held to be illegal, invalid, or unenforceable, such provision shall be fully severable and/or construed in remaining part to the full extent allowed by law, with the remaining provisions of this Agreement continuing in full force and effect. 
+
+^^^^^ 
+^Entire Agreement: This Agreement, along with the Employment Agreement and the Proprietary Rights Agreement which are referred to above, constitute the entire agreement between the Employee and the Company, and supersede all prior and contemporaneous negotiations and agreements, oral or written. This Agreement cannot be changed or terminated except pursuant to a written agreement executed by the parties. 
+
+^Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Arizona, except where preempted by federal law. 
+
+^Statement of Understanding: By executing this Agreement, Employee acknowledges that (a) Employee has had at least twenty-one (21) or forty-five (45) days, as applicable in accordance with the Age Discrimination in Employment Act, as amended, to consider the terms of this Agreement and has considered its terms for such a period of time or has knowingly and voluntarily waived Employee’s right to do so by executing this Agreement and returning it to the Company; (b) Employee has been advised by the Company to consult with an attorney regarding the terms of this Agreement; (c) Employee has consulted with, or has had sufficient opportunity to consult with, an attorney of Employee’s own choosing regarding the terms of this Agreement; (d) any and all questions regarding the terms of this Agreement have been asked and answered to Employee’s complete satisfaction; (e) Employee has read this Agreement and fully understands its terms and their import; (f) except as provided by this Agreement, Employee has no contractual right or claim to the benefits and payments described herein; (g) the consideration provided for herein is good and valuable; and (h) Employee is entering into this Agreement voluntarily, of Employee’s own free will, and without any coercion, undue influence, threat, or intimidation of any kind or type whatsoever. 
+
+EXECUTED in , this day of , 20.  
+
+\centered 
+
+**EMPLOYEE**  
+
+EXECUTED in , this day of , 20 .  
+
+\centered 
 
 [[Company]] 
 
-2300 Yonge Street 
-
-P.O. Box 2408 
-
-Toronto, Ontario M4P 1E4 
-
-Canada 
-
-Attention: Phillip DeZwirek 
-
-If to Executive: 
-
-To the most recent address of Executive set forth in the personnel records of the Company. 
-
-^^Tax Withholding. All payments made pursuant to this Agreement will be subject to withholding of applicable taxes. 
-
-^^Executive Representation. Executive hereby represents to the Company that the execution and delivery of this Agreement by Executive and the Company and the performance by Executive of Executive’s duties hereunder shall not constitute a breach of, or otherwise contravene, the terms of any employment agreement or other agreement or policy to which Executive is a party or otherwise bound. 
-
-^^Prior Agreements. This Agreement supersedes all prior agreements and understandings (including verbal agreements) between Executive and the Company and/or its affiliates regarding the terms and conditions of Executive’s employment with the Company and/or its affiliates. 
-
-^^Cooperation. Executive shall provide Executive’s reasonable cooperation in connection with any action or proceeding (or any appeal from any action or proceeding) which relates to events occurring during Executive’s employment hereunder. This provision shall survive any termination of this Agreement. 
-
-^^Withholding Taxes. The Company may withhold from any amounts payable under this Agreement such Federal, state and local taxes as may be required to be withheld pursuant to any applicable law or regulation. 
-
-^^Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. 
-
-\centered [signature page follows] 
-
-IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the day and year first above written. 
-
-[[Company]]            **EXECUTIVE**
-
-[[Company            EXECUTIVE Signatory Email: Identity | Signature]]
+[[Company Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company            EXECUTIVE Entity => By: [[Company            EXECUTIVE Signatory First Name]] [[Company            EXECUTIVE Signatory Last Name]]
-Title: [[Company            EXECUTIVE Signatory Title]]}}
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
 
-[[Title Executive Signatory Title}} Signatory Email: Identity | Signature]]
+
+^^^^^ 
+\centered **EXHIBIT C** 
+
+\centered **Employee Innovations and Proprietary Rights Assignment Agreement** 
+
+^^^^^ 
+Confidentiality Agreement  
+[[Date 7: Date]]  
+Mr. [[Executive]]
+
+[[Address 5: Address]] 
+
+Dear Pete:  
+This letter agreement (“Agreement”) sets forth and confirms certain understandings between you and [[Company]], a Delaware corporation and its current and future affiliates (collectively, “JDA”), and third parties who have provided confidential information to JDA (“Third-Party Beneficiaries”) with respect to your employment with JDA Software, Inc. and your responsibilities and obligations to JDA. Your signature of this Agreement is a condition of your employment with JDA. 
+
+JDA’s disclosure of confidential information to you is conditioned upon and in consideration for your entering into this Agreement. This Agreement is intended to protect important interests of JDA and the Third-Party Beneficiaries, particularly their interests in valuable technology, customers, personnel, business interests and confidential information that JDA has acquired or obtained access to over the years. 
+
+During your employment, you will obtain access to information regarding the business of JDA and which is confidential to JDA or Third-Party Beneficiaries (“Confidential Information”). “Confidential Information” includes but is not limited to: 
+
+^Application, data base, and other computer software developed or acquired by JDA, whether now or existing in the future, and all modifications, enhancements and versions of the software and all options available with respect to the software, and all future products developed or derived from the software;
+
+^Source and object codes, flowcharts, algorithms, coding sheets, routines, sub-routines, design concepts and related documentation and manuals;
+
+^Marketing techniques and arrangements, mailing lists, purchasing information, pricing policies, quoting procedures, financial information, customer and prospect names and requirements, employee, customer, supplier and distributor data and other materials and information relating to JDA’s business and activities and the manner in which JDA does business;
+
+^Discoveries, concepts and ideas including, without limitation, the nature and results of research and development activities, processes, formulas, inventions, computer-related equipment or technology, techniques, “know-how”, designs, drawings and specifications;
+
+^Organizational charts, internal telephone lists and employee directories, salary information, benefits, and other personnel information that is not publicly available;
+
+^Any other materials or information related to the business or activities of JDA that are not generally known to others engaged in similar businesses or activities;
+
+^All ideas which are derived from or relate to your access to or knowledge of any of the above enumerated materials and information; and
+
+\centered Page 1 of 4 
+
+^^^^^ 
+Confidentiality Agreement  
+^Any materials or information related to the business or activities of the Third-Party Beneficiaries that are received by JDA in confidence or subject to nondisclosure or similar covenants, including without limitation, confidential proprietary business records, financial information, trade secrets, strategies, methods and practices of licensees of JDA software.
+
+Confidential Information does not include inventions or other confidential information, if any, listed on Exhibit A of this Agreement. 
+
+Maintaining the confidentiality of the Confidential Information is of utmost importance to JDA. Accordingly, you agree that, except in the performance of your duties as an employee of JDA, from and after the date of this Agreement (including after the termination of your relationship with JDA, for whatever reason), you will not disclose to any person, association, firm, corporation or other entity in any manner, directly or indirectly, any of the Confidential Information (in whatever form), received, acquired, or developed by you through your association with JDA, or use, or permit any person, association, corporation or other entity to use, in any manner, directly or indirectly, any such Confidential Information. 
+
+You acknowledge that any computer programs, documentation or other copyrightable works created in whole or in part by you during your employment with JDA are “works made for hire” under the United States Copyright Act, 17 U.S.C. § 101, and become part of the Confidential Information. 
+
+Confidential Information that you make, conceive, discover or develop, whether alone or jointly with others, at any time during your employment with JDA, whether at the request or upon the suggestion of JDA or otherwise, are the sole and exclusive property of JDA if such items relate to or are useful in connection with any business now or hereafter carried on or contemplated by JDA, including developments or expansions of JDA’s present field of operations. You must promptly disclose to JDA all Confidential Information made, conceived, discovered, or developed in whole or in part by you for JDA during your employment with JDA and to assign to JDA any right, title or interest you may have in such Confidential Information. You agree to execute any instruments and to do all other things reasonably requested by JDA (both during and after your employment with JDA) in order to vest more fully in JDA all ownership rights in those items hereby transferred by you to JDA. If any one or more of such items are protectible by copyright, and are deemed in any way to fall within the definition of “work made for hire”, as that term is defined in 17 U.S.C. § 101, such works shall be considered “works made for hire”, the copyright of which shall be owned solely, completely and exclusively by JDA. If any one or more of the items are protectible by copyright and are not considered to be included in the categories of works covered by the “work made for hire” definition contained in 17 U.S.C. § 101, such works shall be deemed to be assigned and transferred completely and exclusively to JDA by virtue of your execution of this letter. 
+
+You agree to maintain the confidentiality of the Confidential Information during your employment and perpetually after the date of your termination. This Agreement shall be binding upon you and JDA, and its successors and assigns and shall inure to the benefit of JDA and the Third-Party Beneficiaries. JDA’s failure to require performance of your obligations under this Agreement does not affect the right of JDA to enforce any provisions of this Agreement at a subsequent time, and does not constitute a waiver of any rights arising out of any subsequent or prior breach. 
+
+Upon voluntary or involuntary termination of your employment with JDA, you agree to sign an acknowledgement that the obligations set forth herein pertaining to Confidential Information shall continue beyond the last day of your employment at JDA. This Agreement (a) may not be modified orally, but only by written agreement signed by you and JDA’s President; (b) contains the entire understanding between you and JDA with respect to this subject matter, and (c) supersedes any prior agreements on this subject. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of the other provisions of this Agreement. 
+
+\centered Page 2 of 4 
+
+^^^^^ 
+Confidentiality Agreement  
+Nothing in this Agreement should be construed as a guarantee that your employment will continue for any specific period of time. This Agreement does not create or imply a contract of employment or constitute a promise of employment or continued employment. Your employment with JDA remains “at-will” unless you and JDA have signed a separate contract of employment expressly and explicitly modifying your status as an at-will employee. 
+
+You must not use or disclose your own or any other party’s confidential or proprietary documents, materials, or information to JDA or any third party in the course of performing your duties as an employee of JDA, unless the owner of the information has authorized the use or disclosure. 
+
+When your relationship with JDA ends (regardless of the reason), and earlier if JDA requests, you must immediately return to JDA all materials, correspondence, documents and other writings, computer programs and printouts, and other information in written, graphic, magnetic, optical, computerized or other form, which relate to or reflect any Confidential Information, or the business of JDA, and you must not retain any copies thereof, regardless of where or by whom such materials and information were kept or prepared. 
+
+This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit, legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona, and to the application of Arizona law therein. 
+
+[[This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona and to the application of Arizona law therein. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Title Executive Signatory Title}} Entity => By: [[Title Executive Signatory Title}} Signatory First Name]] [[Title Executive Signatory Title}} Signatory Last Name]]
-Title: [[Title Executive Signatory Title}} Signatory Title]]}}
+{{This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona and to the application of Arizona law therein. Entity => By: [[This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona and to the application of Arizona law therein. Signatory First Name]] [[This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona and to the application of Arizona law therein. Signatory Last Name]]
+Title: [[This Agreement shall be governed by and construed in accordance with the laws of Arizona. Any suit legal action or other legal proceeding arising out of or relating to this Agreement shall be brought exclusively in the federal or state courts located in the State of Arizona. You agree to submit to personal jurisdiction in the foregoing courts and to venue in those courts. You further agree to waive all legal challenges and defenses to the propriety of a forum in Arizona and to the application of Arizona law therein. Signatory Title]]}}
 
+ACCEPTED AND AGREED:  
+
+\centered 
+
+Name  
+
+\centered Page 3 of 4 
+
+^^^^^ 
+Confidentiality Agreement  
+
+\centered **EXHIBIT A** 
+
+[[Company]]
+
+14400 North 87th Street
+
+[[Address 6: Address]]-3649 
+
+Dear Sir or Madam:  
+^The following is a complete list of all inventions or improvements relevant to the subject matter of my employment by [[Company]] (the “Company”) that have been made or conceived or first reduced to practice by me alone or jointly with others prior to my employment by the Company, that I desire to remove from the operation of the Company’s Proprietary Information and Inventions Agreement. 
+
+No inventions or improvements.  
+
+See below:  
+
+Additional sheets attached.  
+
+^I propose to bring to the Company, as part of my employment, the following materials and documents of a former employer: 
+
+No materials or documents.  
+
+See below:  
+
+\centered 
+
+Employee  
+
+\centered Page 4 of 4

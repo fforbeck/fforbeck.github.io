@@ -1,0 +1,353 @@
+\centered THIRD AMENDMENT TO CREDIT AGREEMENT 
+
+THIRD AMENDMENT TO CREDIT AGREEMENT (this “Third Amendment”), dated as of [[Date 1: Date]], among FRESENIUS SE, a societas europaea organized under the laws of Germany (“FSE”), APP PHARMACEUTICALS, a Delaware limited liability company (“APP”), FRESENIUS FINANCE I S.A., a public limited liability company organized under the laws of the Grand Duchy of Luxembourg (“Luxco”), FRESENIUS US FINANCE I, INC., a Delaware corporation (“New Finco1”), APP PHARMACEUTICALS, INC., a Delaware corporation (“APP Inc.”), FRESENIUS KABI PHARMACEUTICALS HOLDING, INC., a Delaware corporation (“FKPH”), FRESENIUS PROSERVE GMBH, a limited liability company organized under the laws of Germany (“Fresenius ProServe”), FRESENIUS KABI AG, a stock corporation organized under the laws of Germany (“Fresenius Kabi AG”), various Lenders party to the Credit Agreement referred to below, and DEUTSCHE BANK AG, LONDON BRANCH, as Administrative Agent (in such capacity, the “Administrative Agent”). Unless otherwise defined herein, all capitalized terms used herein and defined in the Credit Agreement referred to below are used herein as therein defined. 
+
+\centered W I T N E S S E T H : 
+
+WHEREAS, FSE, Fresenius ProServe, Fresenius Kabi AG, New Finco1, Luxco, APP, APP Inc., various Lenders and the Administrative Agent have entered into a Credit Agreement, dated as of [[Date 2: Date]] (as amended, modified and/or supplemented to, but not including, the date hereof, the “Credit Agreement”); 
+
+WHEREAS, FSE and the Borrowers have requested certain amendments to the Credit Agreement, in each case as described below; 
+
+WHEREAS, subject to the terms and conditions of this Amendment, the parties hereto wish to amend certain provisions of, and enter into certain agreements with respect to, the Credit Agreement as herein provided; 
+
+NOW, THEREFORE, it is agreed: 
+
+^Amendments to Credit Agreement.
+
+^Section 1.01 of the Credit Agreement is hereby amended by inserting the following new definitions in such Section 1.01 in the appropriate place to preserve the alphabetical order of the definitions in such Section 1.01: 
+
+“Aggregate Tranche C1 Dollar Term Loan Committed Amount” means, at any time, the sum of the Tranche C1 Dollar Term Loan Commitments of all the Tranche C1 Dollar Term Lenders at such time, with such amount being the amount set forth in Schedule 2.01 upon the effectiveness of the Tranche C1 Term Loan Joinder Agreement (after giving effect to the amendments to Schedule 2.01 occurring upon such effectiveness of the Tranche C1 Term Loan Joinder Agreement) and as same may be reduced from time to time in accordance with the terms of this Credit Agreement. 
+
+“Aggregate Tranche C1 Euro Term Loan Committed Amount” means, at any time, the sum of the Tranche C1 Euro Term Loan Commitments of all the Tranche C1 Euro Term Lenders at such time, with such amount being the amount set forth in Schedule 2.01 upon the effectiveness of the Tranche C1 Term Loan Joinder Agreement (after giving effect to the amendments to Schedule 2.01 occurring upon such effectiveness of the Tranche C1 Term Loan Joinder Agreement) and as same may be reduced from time to time in accordance with the terms of this Credit Agreement. 
+
+“Aggregate Tranche C1 Term Loan Committed Amount” means, at any time, the sum of the Aggregate Tranche C1 Dollar Term Loan Committed Amount and the Aggregate Tranche C1 Euro Term Loan Committed Amount. 
+
+“Aggregate Tranche C2 Term Loan Committed Amount” means, at any time, the sum of the Tranche C2 Term Loan Commitments of all the Tranche C2 Term Lenders at such time, with such amount being the amount set forth in Schedule 2.01 upon the effectiveness of the Tranche C2 Term Loan Joinder Agreement (after giving effect to the amendments to Schedule 2.01 occurring upon such effectiveness of the Tranche C2 Term Loan Joinder Agreement) and as same may be reduced from time to time in accordance with the terms of this Credit Agreement. 
+
+“Consolidated EBITDAR” means, for any period for the Consolidated Group, the sum of (i) Consolidated EBITDA, plus (ii) rent expenses under operating leases, in such case on a consolidated basis determined in accordance with GAAP. Except as otherwise expressly provided, the applicable period shall be the four consecutive fiscal quarters ending as of the date of determination. 
+
+“Required Tranche C1 Term Lenders” means, as of any date of determination, Lenders holding in the aggregate more than fifty percent ([[Percentage 1: Number]]%) of the Tranche C1 Term Loan (or, if prior to the funding of the Tranche C1 Term Loan, holding Tranche C1 Term Loan Commitments representing more than fifty percent ([[Percentage 1]]%) of the Aggregate Tranche C1 Term Loan Committed Amount); provided that the portion of the Tranche C1 Term Loan (or related Commitments) held or deemed held by any Defaulting Lender shall be excluded for purposes of making a determination of Required Tranche C1 Term Lenders. 
+
+“Required Tranche C2 Term Lenders” means, as of any date of determination, Lenders holding in the aggregate more than fifty percent ([[Percentage 1]]%) of the Tranche C2 Term Loan (or, if prior to the funding of the Tranche C2 Term Loan, holding Tranche C2 Term Loan Commitments representing more than fifty percent ([[Percentage 1]]%) of the Aggregate Tranche C2 Term Loan Committed Amount); provided that the portion of the Tranche C2 Term Loan (or related Commitments) held or deemed held by any Defaulting Lender shall be excluded for purposes of making a determination of Required Tranche C2 Term Lenders. 
+
+“Third Amendment” shall mean the Third Amendment to the Credit Agreement, dated as of [[Date 1]], among FSE, the Borrowers, the Guarantors, various Lenders and the Administrative Agent. 
+
+“Third Amendment Effective Date” shall have the meaning provided in the Third Amendment. 
+
+“Tranche C Term Lenders” means the Tranche C1 Term Lenders and the Tranche C2 Term Lenders. 
+
+“Tranche C Term Loan” means the Tranche C1 Term Loan and the Tranche C2 Term Loan. 
+
+“Tranche C Term Loan Commitment” means the Tranche C1 Term Loan Commitment and the Tranche C2 Term Loan Commitment. 
+
+“Tranche C Term Loan Committed Amount” means the Tranche C1 Term Loan Committed Amount and the Tranche C2 Term Loan Committed Amount. 
+
+“Tranche C Term Loan Joinder Agreements” means the Tranche C1 Term Loan Joinder Agreement and the Tranche C2 Term Loan Joinder Agreement. 
+
+“Tranche C1 Dollar Term Lenders” means, upon establishment of a Tranche C1 Dollar Term Loan pursuant to Section 2.01(l), those Lenders having a Tranche C1 Dollar Term Loan Commitment (or after the funding of the Tranche C1 Dollar Term Loan, holding a portion of the Tranche C1 Dollar Term Loan), together with their successors and permitted assigns. The initial Tranche C1 Dollar Term Lenders will be identified in the Tranche C1 Term Loan Joinder Agreement. 
+
+“Tranche C1 Dollar Term Loan” has the meaning provided in Section 2.01(l). 
+
+“Tranche C1 Dollar Term Loan Commitments” means, upon the establishment of a Tranche C1 Dollar Term Loan, for each Tranche C1 Dollar Term Lender, the commitment of such Lender to make a portion of the Tranche C1 Dollar Term Loan hereunder; provided that, at any time after funding of the Tranche C1 Dollar Term Loan, determinations of “Required Lenders” and “Required Tranche C1 Term Lenders” shall be based on the outstanding principal amount of the Tranche C1 Dollar Term Loan. 
+
+“Tranche C1 Euro Term Lenders” means, upon establishment of a Tranche C1 Euro Term Loan pursuant to Section 2.01(l), those Lenders having a Tranche C1 Euro Term Loan Commitment (or after the funding of the Tranche C1 Euro Term Loan, holding a portion of the Tranche C1 Euro Term Loan), together with their successors and permitted assigns. The initial Tranche C1 Euro Term Lenders will be identified in the Tranche C1 Term Loan Joinder Agreement. 
+
+“Tranche C1 Euro Term Loan” has the meaning provided in Section 2.01(l). 
+
+“Tranche C1 Euro Term Loan Commitments” means, upon the establishment of a Tranche C1 Euro Term Loan, for each Tranche C1 Euro Term Lender, the commitment of such Lender to make a portion of the Tranche C1 
+
+Euro Term Loan hereunder; provided that, at any time after funding of the Tranche C1 Euro Term Loan, determinations of “Required Lenders” and “Required Tranche C1 Term Lenders” shall be based on the outstanding principal amount of the Tranche C1 Euro Term Loan. 
+
+“Tranche C1 Term Lenders” means the Tranche C1 Dollar Term Lenders and the Tranche C1 Euro Term Lenders. 
+
+“Tranche C1 Term Loan” has the meaning provided in Section 2.01(l). 
+
+“Tranche C1 Term Loan Commitment” means the Tranche C1 Dollar Term Loan Commitments and the Tranche C1 Euro Term Loan Commitments. 
+
+“Tranche C1 Term Loan Commitment Percentage” means, for each Tranche C1 Term Lender, a fraction (expressed as a percentage carried to the ninth decimal place), the numerator of which is the principal amount of such Lender’s Tranche C1 Term Loan Commitment (or, for determinations made after the funding of the Tranche C1 Term Loan, the outstanding principal amount of the Tranche C1 Term Loan of such Lender), and the denominator of which is the aggregate Tranche C1 Term Loan Commitments of all Tranche C1 Term Lenders at such time (or, if the determination is made after the funding of the Tranche C1 Term Loan, the Outstanding Amount of the Tranche C1 Term Loan at such time). The initial Tranche C1 Term Loan Commitment Percentages will be set forth in the Tranche C1 Term Loan Joinder Agreement. 
+
+“Tranche C1 Term Loan Committed Amount” means upon establishment of a Tranche C1 Term Loan under Section 2.01(l), for each Tranche C1 Term Lender, the amount of such Lender’s Tranche C1 Term Loan Commitment. The initial Tranche C1 Term Loan Committed Amounts will be set forth in the Tranche C1 Term Loan Joinder Agreement. 
+
+“Tranche C1 Term Loan Joinder Agreement” means a joinder agreement substantially in the form of (l). 
+
+“Tranche C1 Term Note” means the promissory notes substantially in the form of Exhibit 2.09-7, if any, given to evidence the Tranche C1 Term Loan as amended, restated, modified, supplemented, extended, renewed or replaced. 
+
+“Tranche C2 Term Lenders” means, upon establishment of a Tranche C2 Term Loan pursuant to Section 2.01(m), those Lenders having a Tranche C2 Term Loan Commitment (or after the funding of the Tranche C2 Term Loan, holding a portion of the Tranche C2 Term Loan), together with their successors and permitted assigns. The initial Tranche C2 Term Lenders will be identified in the Tranche C2 Term Loan Joinder Agreement. 
+
+“Tranche C2 Term Loan” has the meaning provided in Section 2.01(m). 
+
+“Tranche C2 Term Loan Commitment” means, upon the establishment of a Tranche C2 Term Loan, for each Tranche C2 Term Lender, the commitment of such Lender to make a portion of the Tranche C2 Term Loan hereunder; provided that, at any time after funding of the Tranche C2 Term Loan, determinations of “Required Lenders” and “Required Tranche C2 Term Lenders” shall be based on the outstanding principal amount of the Tranche C2 Term Loan. 
+
+“Tranche C2 Term Loan Commitment Percentage” means, for each Tranche C2 Term Lender, a fraction (expressed as a percentage carried to the ninth decimal place), the numerator of which is the principal amount of such Lender’s Tranche C2 Term Loan Commitment (or, for determinations made after the funding of the Tranche C2 Term Loan, the outstanding principal amount of the Tranche C2 Term Loan of such Lender), and the denominator of which is the aggregate Tranche C2 Term Loan Commitments of all Tranche C2 Term Lenders at such time (or, if the determination is made after the funding of the Tranche C2 Term Loan, the Outstanding Amount of the Tranche C2 Term Loan at such time). The initial Tranche C2 Term Loan Commitment Percentages will be set forth in the Tranche C2 Term Loan Joinder Agreement. 
+
+“Tranche C2 Term Loan Committed Amount” means upon establishment of a Tranche C2 Term Loan under Section 2.01(m), for each Tranche C2 Term Lender, the amount of such Lender’s Tranche C2 Term Loan Commitment. The initial Tranche C2 Term Loan Committed Amounts will be set forth in the Tranche C2 Term Loan Joinder Agreement. 
+
+“Tranche C2 Term Loan Joinder Agreement” means a joinder agreement substantially in the form of Exhibit 2.01(m). 
+
+“Tranche C2 Term Note” means the promissory notes substantially in the form of Exhibit 2.09-8, if any, given to evidence the Tranche C2 Term Loan as amended, restated, modified, supplemented, extended, renewed or replaced. 
+
+“Weighted Average Life to Maturity” means, when applied to any Indebtedness, at any date, the quotient obtained by dividing (a) the sum of the products of the number of years from the date of determination to the date of each successive scheduled principal payment of such Indebtedness multiplied by the amount of such payment; by (b) the sum of all such payments. 
+
+^The defined term “Applicable Margin” appearing in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the text “and” appearing immediately before the text “(v)” appearing in said definition and inserting a comma in lieu thereof, and (ii) inserting the text “(vi) in the case of Tranche C1 Term Loans, the rate as set forth in the Tranche C1 Term Loan Joinder Agreement and (vii) in the case of Tranche C2 Term Loans, the rate as set forth in the Tranche C2 Term Loan Joinder Agreement,” immediately preceding the period appearing at the end of the final sentence of such definition. 
+
+^The defined term “Borrowers” appearing in Section 1.01 of the Credit Agreement is hereby amended by (i) adding the text “(or a Tranche C Term Loan Joinder Agreement if applicable)” immediately after the text “Borrower Joinder Agreement” in said definition, (ii) deleting the word “and” immediately preceding clause (d) in said Section, and (iii) adding the following new clauses (e) and (f) at the end of said definition: “(e) in the case of Tranche C1 Term Loan, New Finco1 and (f) in the case of Tranche C2 Term Loan, APP.”. 
+
+^The defined term “Commitment Percentages” appearing in Section 1.01 of the Credit Agreement is hereby amended by deleting the definition of said term in its entirety and replacing the definition of said term with the following in lieu thereof: 
+
+“Commitment Percentages” means the Target Revolving Commitment Percentage, the Group Revolving Commitment Percentage, the Tranche A1 Term Loan Commitment Percentage, the Tranche A2 Term Loan Commitment Percentage, the Tranche B1 Term Loan Commitment Percentage, the Tranche B2 Term Loan Commitment Percentage, the Tranche C1 Term Loan Commitment Percentage, and/or the Tranche C2 Term Loan Commitment Percentage as context requires. 
+
+^The defined term “Consolidated Fixed Charges” appearing in Section 1.01 of the Credit Agreement is hereby amended by deleting the definition of said term in its entirety and replacing the definition of said term with the following in lieu thereof: 
+
+“Consolidated Fixed Charges” means, for any period for the Consolidated Group, the sum of (i) Consolidated Net Interest Expense, plus (ii) rent expense under operating leases, plus (iii) scheduled maturities of Consolidated Funded Debt (excluding, for purposes hereof the final bullet payments relating to the Existing Notes and the Schuldscheindarlehen (and any replacement or refinancing thereof), and the Revolving Obligations paid during the applicable period (provided that refinancings and extensions shall not be considered payments or repayments for purposes hereof)), plus (iv) without duplication, Restricted Payments made by FSE, plus (v) cash tax payments based on income during the applicable period (other than payments due in respect of contingent tax liabilities as a result of, in connection with, arising from, or triggered by the transactions (and any related transactions, including the APP Acquisition) pursuant to the Separation and Distribution Agreement) during that period by the Consolidated Group (and adding the amount of any cash receipts during that period in respect of any tax rebates or credits), net of any portion of such amounts that are attributable to the operations of FMC KGaA and its Subsidiaries to the extent such amounts are in fact paid by FMC KGaA and its Subsidiaries (including by payment to FSE on or before the due date of the respective such payments). Except as otherwise expressly provided, the applicable period shall be the four consecutive fiscal quarters ending as of the date of determination. 
+
+^The defined term “Consolidated Fixed Charge Coverage Ratio” appearing in Section 1.01 is hereby amended by deleting the text “Consolidated Cash Flow” appearing in clause (i) of said definition, and inserting the text “Consolidated EBITDAR” in lieu thereof. 
+
+^The defined term “Credit Documents” appearing in Section 1.01 of the Credit Agreement is hereby amended by inserting the text “, the Tranche C Term Loan Joinder Agreements” immediately after the text “the Guarantor Joinder agreements” appearing in said definition. 
+
+^The defined term “Eurocurrency Rate” appearing in Section 1.01 of the Credit Agreement is hereby amended by inserting the text “and in relation to any 
+
+Eurocurrency Rate Loan that is a Tranche C Term Loan, LIBOR or EURIBOR, as applicable, shall at all times be deemed to be the higher of (x) [[Percentage 2: Number]]% per annum or such higher amount set forth in any Tranche C Term Loan Joinder Agreement and (y) the rate determined in accordance with the definition of LIBOR or EURIBOR contained herein” immediately preceding the text “and (B)” appearing in the first proviso to said definition. 
+
+^The defined term “Outstanding Amount” appearing in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the word “and” appearing immediately before the text “(g)” appearing in said definition and inserting a semi-colon in lieu thereof, and (ii) inserting the text “(h) with respect to the Tranche C1 Term Loan on any date, the aggregate outstanding principal amount thereof after giving effect to any prepayment or repayments of the Tranche C1 Term Loan on such date and (i) with respect to the Tranche C2 Term Loan on any date, the aggregate outstanding principal amount thereof after giving effect to any prepayment or repayments of the Tranche C2 Term Loan on such date” immediately preceding the period appearing at the end of the first sentence of such definition. 
+
+^The defined term “Permitted Acquired Debt” appearing in Section 1.01 of the Credit Agreement is hereby amended by (i) deleting the text “(i)” appearing in the proviso of said definition and (ii) deleting the text “and (ii) the aggregate principal amount of all such Indebtedness shall not exceed the applicable limits set out in Section 8.01(e)” appearing at the end of said definition. 
+
+^The following defined terms appearing in Section 1.01 of the Credit agreement are hereby amended in their entirety to read as follows: 
+
+“Term Loan” means the Tranche A Term Loan, the Tranche B Term Loan, and the Tranche C Term Loan. 
+
+“Term Loan Commitments” means the Tranche A Term Loan Commitment, the Tranche B Term Loan Commitment, and the Tranche C Term Loan Commitment. 
+
+“Term Loan Termination Date” means, (i) with respect to the Tranche A Term Loan, the fifth anniversary of the Closing Date, (ii) with respect to the Tranche B Term Loan, the sixth anniversary of the Closing Date, (iii) with respect to the Tranche C1 Term Loan, the applicable date as set forth in the Tranche C1 Term Loan Joinder Agreement and (iv) with respect to the Tranche C2 Term Loan, the applicable date as set forth in the Tranche C2 Term Loan Joinder Agreement. 
+
+“Term Notes” means the Tranche A1 Term Notes, the Tranche A2 Term Notes, the Tranche B1 Term Notes, the Tranche B2 Term Notes, the Tranche C1 Term Notes and the Tranche C2 Term Notes. 
+
+“Tranche” shall mean the respective facility and commitments utilized in making Loans hereunder, with there being eight separate Tranches upon the establishment of the Tranche C1 Term Loans pursuant to Section 2.01(l) and the Tranche C2 Term Loans pursuant to Section 2.01(m), i.e., the Tranche A1 Term Loan, the Tranche A2 Term Loan, the Tranche B1 Term Loan, the Tranche B2 Term Loan, the Tranche C1 Term Loan, Tranche C2 Term Loan, Target Revolving Loans and Group Revolving Loans. 
+
+^Section 1.07 of the Credit Agreement is hereby amended by adding the text “and Tranche C1 Euro Term Loans” immediately after the text “Additional Tranche B1 Euro Term Loans” in said Section. 
+
+^Section 2.01 of the Credit Agreement is hereby amended by adding the following new clauses (l) and (m) at the end of said Section: 
+
+“(l) Tranche C1 Term Loan Commitment. On or after the Third Amendment Effective Date, New Finco1 may, (x) upon written notice to the Administrative Agent and the Tranche C1 Dollar Term Lenders pursuant to the terms hereof and the Tranche C1 Term Loan Joinder Agreement, agree with one or more Tranche C1 Dollar Term Lenders to severally make a new term loan (the “Tranche C1 Dollar Term Loan”) or (y) upon written notice to the Administrative Agent and the Tranche C1 Euro Term Lenders pursuant to the terms hereof and the Tranche C1 Term Loan Joinder Agreement, agree with one or more Tranche C1 Euro Term Lenders to severally make a new term loan (the “Tranche C1 Euro Term Loan” and together with the Tranche C1 Dollar Term Loan, the “Tranche C1 Term Loan”), in each case provided that: 
+
+^^^the Tranche C1 Dollar Term Lenders or Tranche C1 Euro Term Lenders shall be any combination of existing Lenders or other commercial banks and financial institutions chosen or arranged by New Finco1 and reasonably acceptable to the Administrative Agent, which Lenders and such other commercial banks and financial institutions shall join in this Credit Agreement as Tranche C1 Dollar Term Lenders or Tranche C1 Euro Term Lenders (as applicable) pursuant to the Tranche C1 Term Loan Joinder Agreement or by another arrangement reasonably acceptable to the Administrative Agent and New Finco1; 
+
+^^^the aggregate principal amount of (a) the Tranche C1 Dollar Term Loan shall not exceed the principal amount of Dollar Denominated Tranche B1 Term Loans outstanding immediately prior to the incurrence of Tranche C1 Dollar Term Loans and (b) the Tranche C1 Euro Term Loan shall not exceed the principal amount of Tranche B1 Euro Term Loans outstanding immediately prior to the incurrence of Tranche C1 Euro Term Loans; 
+
+^^^the Applicable Margin for the Tranche C1 Term Loan shall be subject to mutual agreement of the Tranche C1 Term Lenders and New Finco1 and shall be set forth in the Tranche C1 Term Loan Joinder Agreement; 
+
+^^^the final maturity date for the Tranche C1 Term Loan shall be not sooner than the final maturity date for the Tranche B1 Term Loan as in effect on the Third Amendment Effective Date ([[Date 3: Date]]); 
+
+^^^on or before the date of the funding of the Tranche C1 Dollar Term Loan, the Administrative Agent shall have received for the benefit of the Tranche C1 Dollar Term Lenders, opinions of counsel to the Borrowers and the Guarantors (or counsel to the Administrative Agent where customary according to market practice in the relevant jurisdiction) in form and substance satisfactory to the Administrative Agent and the Tranche C1 Dollar Term Lenders provided that if the funding date of the Tranche C1 Dollar Term Loan occurs on the Third Amendment Effective Date, the opinions required pursuant to Article III, Section 3(ii) of this Third Amendment shall satisfy this requirement so long as the same are addressed to the Tranche C1 Dollar Term Lenders; 
+
+^^^on or before the date of the funding of the Tranche C1 Euro Term Loan, the Administrative Agent shall have received for the benefit of the Tranche C1 Euro Term Lenders, opinions of counsel to the Borrowers and the Guarantors (or counsel to the Administrative Agent where customary according to market practice in the relevant jurisdiction) in form and substance satisfactory to the Administrative Agent and the Tranche C1 Euro Term Lenders provided that if the funding date of the Tranche C1 Euro Term Loan occurs on the Third Amendment Effective Date, the opinions required pursuant to Article III, Section 3(ii) of this Third Amendment shall satisfy this requirement so long as the same are addressed to the Tranche C1 Euro Term Lenders; 
+
+^^^on or before the date of the funding of any Tranche C1 Term Loan, to the extent reasonably necessary in the judgment of the Administrative Agent, the relevant Credit Parties shall have entered into and delivered to the Administrative Agent such amendments to the New Finco1 Intercompany Term Loan Documents as may be reasonably requested by the Administrative Agent; 
+
+^^^on the date of the funding of any Tranche C1 Term Loan, the conditions to the making of Credit Extensions in Section 5.02 shall be satisfied; 
+
+^^^on or before the date of the funding of any Tranche C1 Term Loan, the Borrowers shall have paid the reasonable expenses of the Administrative Agent and reasonable fees and expenses of counsel to the Administrative Agent, including foreign counsel, to the extent invoiced, in connection with establishment of any Tranche C1 Term Loan; 
+
+^^^the Weighted Average Life to Maturity of (a) the Tranche C1 Dollar Term Loans shall not be shorter than the Weighted Average Life to Maturity of the Dollar Denominated Tranche B1 Term Loans and (b) the Tranche C1 Euro Term Loans shall not be shorter than the Weighted Average Life to Maturity of the Tranche B1 Euro Term Loans, in each case, as of the date of the funding of such Tranche C1 Term Loans; and 
+
+^^^concurrently with the funding of any Tranche C1 Term Loans, FSE shall pay to each Lender with Tranche B Loans being prepaid with proceeds of the Tranche C1 Term Loans or (without duplication) to an affiliate thereof as directed by any such Lender, a fee in an amount equal to [[Percentage 3: Number]]% of the aggregate principal amount (taking the Dollar Equivalent of any amount denominated in Euros) so prepaid in accordance with Section 2.04(h)(z). 
+
+The Tranche C1 Term Loan shall be comprised solely of Eurocurrency Rate Loans. Amounts repaid on the Tranche C1 Term Loan may not be reborrowed. 
+
+^^Tranche C2 Term Loan Commitment. On or after the Third Amendment Effective Date, APP may, upon written notice to the Administrative Agent and the 
+
+Tranche C2 Term Lenders pursuant to the terms hereof and the Tranche C2 Term Loan Joinder Agreement, agree with one or more Tranche C2 Term Lenders to severally make a new term loan (the “Tranche C2 Term Loan”), provided that: 
+
+^^^the Tranche C2 Term Lenders shall be any combination of existing Lenders or other commercial banks and financial institutions chosen or arranged by APP and reasonably acceptable to the Administrative Agent, which Lenders and such other commercial banks and financial institutions shall join in this Credit Agreement as Tranche C2 Term Lenders pursuant to the Tranche C2 Term Loan Joinder Agreement or by another arrangement reasonably acceptable to the Administrative Agent and APP; 
+
+^^^the aggregate principal amount of the Tranche C2 Term Loan shall not exceed the principal amount of Tranche B2 Term Loans outstanding immediately prior to the incurrence of Tranche C2 Term Loans; 
+
+^^^the Applicable Margin for the Tranche C2 Term Loan shall be subject to mutual agreement of the Tranche C2 Term Lenders and APP and shall be set forth in the Tranche C2 Term Loan Joinder Agreement; 
+
+^^^the final maturity date for the Tranche C2 Term Loan shall be not sooner than the final maturity date for the Tranche B2 Term Loan as in effect on the Third Amendment Effective Date ([[Date 3]]); 
+
+^^^on or before the date of the funding of the Tranche C2 Term Loan, the Administrative Agent shall have received for the benefit of the Tranche C2 Term Lenders, opinions of counsel to the Borrowers and the Guarantors (or counsel to the Administrative Agent where customary according to market practice in the relevant jurisdiction) in form and substance satisfactory to the Administrative Agent and the Tranche C2 Term Lenders provided that if the funding date of the Tranche C2 Term Loan occurs on the Third Amendment Effective Date, the opinions required pursuant to Article III, Section 3(ii) of this Third Amendment shall satisfy this requirement so long as the same are addressed to the Tranche C2 Term Lenders; 
+
+^^^on or before the date of the funding of the Tranche C2 Term Loan, to the extent reasonably necessary in the judgment of the Administrative Agent, the relevant Credit Parties shall have entered into and delivered to the Administrative Agent amendments to the Collateral Documents, in each case, pursuant to documentation reasonably satisfactory to the Administrative Agent; 
+
+^^^on the date of the funding of the Tranche C2 Term Loan, the conditions to the making of Credit Extensions in Section 5.02 shall be satisfied; 
+
+^^^on or before the date of the funding of the Tranche C2 Term Loan, the Borrowers shall have paid the reasonable expenses of the Administrative Agent and reasonable fees and expenses of counsel to the Administrative Agent, including foreign counsel, to the extent invoiced, in connection with establishment of the Tranche C2 Term Loan; 
+
+^^^the Weighted Average Life to Maturity of the Tranche C2 Term Loans shall not be shorter than the Weighted Average Life to Maturity of the Tranche B2 Term Loans, as of the date of the funding of the Tranche C2 Term Loan; and 
+
+^^^concurrently with the funding of the Tranche C2 Term Loans, FSE shall pay to each Lender with Tranche B Loans being prepaid with proceeds of the Tranche C2 Term Loans or (without duplication) to an affiliate thereof as directed by any such Lender, a fee in an amount equal to [[Percentage 3]]% of the aggregate principal amount so prepaid in accordance with Section 2.04(h)(z). 
+
+The Tranche C2 Term Loan shall be comprised solely of Eurocurrency Rate Loans. Amounts repaid on the Tranche C2 Term Loan may not be reborrowed.” 
+
+^Section 2.02(e) is hereby amended by deleting the text of said Section in its entirety and inserting the following new text in lieu thereof: 
+
+“No Interest Period may be selected (whether pursuant to a new Borrowing, a conversion or a continuation) with respect to any Eurocurrency Rate Loans if the amount of the respective Borrowing to which such Interest Period would apply shall be less than the Minimum Principal Amount. After giving effect to all Borrowings, all conversions of Loans from one Type to the other, and all continuations of Loans as the same Type, (i) there shall not be more than six Interest Periods in effect with respect to the Tranche A1 Term Loan, (ii) there shall not be more than six Interest Periods in effect with respect to the Tranche A2 Term Loan, (iii) there shall not be more than twelve Interest Periods in effect with respect to the Tranche B1 Term Loan, (iv) there shall not be more than six Interest Periods in effect with respect to the Tranche B2 Term Loan, (v) there shall not be more than twelve Interest Periods in effect with respect to the Tranche C1 Term Loan, (vi) there shall not be more than six Interest Periods in effect with respect to the Tranche C2 Term Loan and (vii) there shall not be more than ten Target Revolving Loans or ten Group Revolving Loans outstanding at any time; provided in each case that, for purposes hereof, Interest Periods with respect to Loans (whether or not of the same Type) with separate or different Interest Periods will be considered as separate Interest Periods, even if such Interest Periods end on the same date.” 
+
+^Section 2.04 of the Credit Agreement is hereby amended by adding new subsection (i) at the end of said Section: 
+
+“(i) (x) Mandatory prepayments of Tranche C Term Loans made pursuant to Section 2.06(b)(ii) and required as a result of any Debt Transaction where the respective Indebtedness issued or incurred has (or can be reasonably expected, over the remaining life of the Tranche C Term Loans determined without regard to any prepayments thereof, to have) interest rates applicable thereto which are lower than those which would have applied to the Tranche C Term Loans being repaid, (y) any assignment or prepayment of Tranche C Term Loans made in connection with the replacement of any Lender pursuant to Section 11.16 as a result of such Lender's refusal to consent to an amendment that includes a reduction in interest payable on Tranche C Term Loans or (z) any repayment of Tranche C Term Loans made in connection with an amendment that includes a reduction in interest payable on Tranche C Term Loans that was not consented to by such 
+
+Lender, in each case will be subject to payment to the Administrative Agent, for the ratable account of each Lender whose Loans are being assigned or prepaid, as the case may be, (based on the relative principal amounts being assigned or repaid, taking the Dollar Equivalent of any amounts in Euros), of a fee (payable in Dollars) in an amount equal to in the case of any such prepayment or assignment made on or before the first anniversary of the date of initial incurrence of such Loans, [[Percentage 3]]%, of the aggregate principal amount (taking the Dollar Equivalent of any amounts denominated in Euros) so assigned or prepaid (as the case may be). Such fees shall be due and payable upon the date of any such assignment or prepayment.” 
+
+^Section 2.05 of the Credit Agreement is hereby amended by adding new subsections (f) and (g) at the end of said Section: 
+
+“(f) Tranche C1 Term Loan. New Finco1 shall repay to the Lenders the principal amount of the Tranche C1 Term Loan as provided in the Tranche C Term Loan Joinder Agreement. 
+
+^^Tranche C2 Term Loan. APP shall repay to the Lenders the principal amount of the Tranche C2 Term Loan as provided in the Tranche C Term Loan Joinder Agreement.” 
+
+^Section 2.06(b)(vi) of the Credit Agreement is hereby amended by (i) inserting the text “(and after the Tranche B1 Term Loan has been paid in full, the Tranche A1 Term Loan and the Tranche C1 Term Loan)” immediately after the text “and Tranche B1 Term Loan” appearing in the first sentence of said Section, and (ii) by deleting the text “and/or Tranche B1 Term Loan” appearing in the first sentence of said Section and inserting the text “, Tranche B1 Term Loan and/or Tranche C1 Term Loan” in lieu thereof. 
+
+^Section 2.06(b) of the Credit Agreement is hereby amended by adding new subsection (xv) at the end of said Section: 
+
+“(xv) Tranche C prepayments. Mandatory prepayments of Tranche C Term Loans required to be made pursuant to this clause 2.06(b) on or prior to the first anniversary of the of the date of initial incurrence of such Loans shall be subject to the payment of the fee described in Section 2.04(i).” 
+
+^Section 2.06(c)(i) of the Credit Agreement is hereby amended by adding the following text immediately preceding the period appearing at the end of the final sentence of such Section: 
+
+“and all voluntary prepayments of the Tranche C1 Term Loan shall be allocated pro rata (based on the Outstanding Amounts at such time) amongst the Tranche C1 Dollar Term Loan and the Tranche C1 Euro Term Loan of the relevant Lenders.” 
+
+^Section 2.06(c)(ii) of the Credit Agreement is hereby amended by deleting the text “pro rata to the Term Loans until paid in full” appearing in clause (i) of the third sentence of said Section and inserting the text “pro rata to the Tranche A Term Loan and Tranche B Term Loan, and following the repayment in full of the Tranche B Term Loan; pro rata to the Tranche A Term Loan and the Tranche C Term Loan”, (ii) deleting the text 
+
+“and/or Tranche B1 Term Loan” appearing in the fourth sentence of said Section and inserting the text “Tranche B1 Term Loan and/or Tranche C1 Term Loan” in lieu thereof, (iii) deleting the text “and Tranche B1 Term Loan” appearing in the fifth sentence of said Section and inserting the text “, Tranche B1 Term Loan and Tranche C1 Term Loan” in lieu thereof, and (iv) adding the following text immediately after the text “Additional Tranche B1 Euro Term Loan of the relevant Lenders” appearing in such Section: 
+
+“and all mandatory prepayments of the Tranche C1 Term Loan to be applied pursuant to this subsection (ii) shall be allocated pro rata (based on the Outstanding Amounts at such time) amongst the Tranche C1 Dollar Term Loan and the Tranche C1 Euro Term Loan of the relevant Lenders” 
+
+^Section 2.06(c)(iii) of the Credit Agreement is amended by deleting said Section deleted in its entirety and inserting the following new Section 2.06(c)(iii) in lieu thereof: 
+
+“(iii) Tranche B Term Loans and Tranche C Term Loans. Notwithstanding anything to the contrary contained in the preceding subsection (c)(ii) above, with respect to mandatory prepayments of the Tranche B1 Term Loan, Tranche B2 Term Loan, Tranche C1 Term Loan and Tranche C2 Term Loan required by subsections (b)(i), (ii), (iv) and (viii) above, the amounts required to be applied to prepay principal of such Tranche B1 Term Loan, Tranche B2 Term Loan, Tranche C1 Term Loan, or Tranche C2 Term Loan, shall be delivered to the Administrative Agent and held by it for application to the required prepayment of such Loans otherwise required by the preceding provisions of this Section 2.06) on the date which is five Business Days after the date the respective mandatory prepayment would otherwise have been made. At the time of the receipt of such amounts, the Administrative Agent shall notify the respective Lenders of the Tranche B1 Term Loan, Tranche B2 Term Loan, Tranche C1 Term Loan and Tranche C2 Term Loan of the respective amounts they will receive. If any Lender participating in the Tranche B1 Term Loan, Tranche B2 Term Loan, Tranche C1 Term Loan or Tranche C2 Term Loan, as the case may be, notifies the Administrative Agent at least one (1) Business Day prior to the application of such amount to its outstanding Tranche B1 Term Loan, Tranche B2 Term Loan, Tranche C1 Term Loan or Tranche C2 Term Loan that it declines to accept such payment, the Administrative Agent shall instead use such amount to repay (i) first, the Loans of the respective Tranche of other Lenders who have not declined the prepayment, (ii) second, to non-declining Lenders from the other such Tranche (i.e., by way of example, in case the declining Lender is of the Tranche B1 Term Loan, to non-declining Lenders of the Tranche B2 Term Loan, Tranche C1 Term Loan and Tranche C2 Term Loan), and (iii) third, the Tranche A1 Term Loan and Tranche A2 Term Loan on a pro rata basis (based on the relative outstanding principal amounts that are owed). Repayments of the Tranche B1 Term Loan to be made by the Administrative Agent pursuant to clauses (i) and (ii) of the immediately preceding sentence shall be allocated pro rata (based on the Outstanding Amounts at such time) amongst the Dollar Denominated Tranche B1 Term Loan and the Additional Tranche B1 Euro Term Loan of the relevant Lenders. Repayments of the Tranche C1 Term Loan to be made by the Administrative Agent pursuant to clauses (i) and (ii) of the second preceding sentence shall be allocated pro rata (based on the Outstanding Amounts at such time) amongst the Tranche C1 Dollar Term Loan and the Tranche C1 Euro Term Loan of the relevant 
+
+Lenders. Any additional interest owing as a result of the five Business Day delay described above shall be for the account of the respective Borrower.” 
+
+^Section 2.07 of the Credit Agreement is hereby amended by inserting the following clause (D) at the conclusion thereof: 
+
+“(D) The Tranche C1 Term Loan Commitment shall terminate on the date provided in the Tranche C1 Term Loan Joinder Agreement and the Tranche C2 Term Loan Commitments shall terminate on the date provided in the Tranche C2 Term Loan Joinder Agreement.” 
+
+^Section 2.09(a) of the Credit Agreement is hereby amended by deleting the fifth sentence of said Section in its entirety and inserting the following new sentence in lieu thereof: 
+
+“The respective Borrowers shall execute and deliver to the Administrative Agent (i) a Tranche A1 Term Note for each Tranche A1 Term Lender that so requests, (ii) a Tranche A2 Term Note for each Tranche A2 Term Lender that so requests, (iii) a Tranche B1 Term Note for each Tranche B1 Term Lender that so requests, (iv) a Tranche B2 Term Note for each Tranche B2 Term Lender that so requests, (v) a Target Revolving Note for each Target Revolving Lender that so requests, (vi) a Group Revolving Note for each Group Revolving Lender that so requests, (vi) a Tranche C1 Term Note for each Tranche C1 Term Lender that so requests and (vii) a Tranche C2 Term Note for each Tranche C2 Term Lender that so requests, which Notes, in addition to such accounts or records, shall evidence such Lender’s Loans.” 
+
+^Section 2.10 (a) of the Credit Agreement is hereby amended by (i) renumbering clause “(vii)” of said Section as clause “(ix)” and (ii) adding the following new clauses (vii) and (viii) immediately after clause (vi) of said Section: 
+
+“(vii) with respect to such payments on the Tranche C1 Term Loan, its Tranche C1 Term Loan Commitment Percentage thereof, and (viii) with respect to such payments on the Tranche C2 Term Loan, its Tranche C2 Term Loan Commitment Percentage thereof,” 
+
+^Section 7.11 of the Credit Agreement, is hereby amended by adding the following new clause (g) at the end of said Section: 
+
+“(g) All proceeds from (x) the Tranche C1 Dollar Term Loans incurred pursuant to the Tranche C1 Term Loan Joinder Agreement shall be used by New Finco1, to voluntarily repay the outstanding principal amount of the Dollar Denominated Tranche B1 Term Loans in accordance with Section 2.06(a)(iii), (y) the Tranche C1 Euro Term Loans incurred pursuant to the Tranche C1 Term Loan Joinder Agreement shall be used by New Finco1, to voluntarily repay the outstanding principal amount of the Additional Tranche B1 Euro Term Loans in accordance with Section 2.06(a)(iii) and (z) the Tranche C2 Term Loans incurred pursuant to the Tranche C2 Term Loan Joinder Agreement shall be used by APP, to voluntarily repay the outstanding principal amount of the Tranche B2 Term Loans in accordance with Section 2.06(a)(iii).” 
+
+^Section 8.01(e) is hereby amended by deleting the text of said Section in its entirety and inserting the following new text in lieu thereof: 
+
+“(e) Indebtedness of the Consolidated Group in an aggregate outstanding principal amount not in excess of 1,100 million at any time, such amount to be increased by 200 million with effect from [[Date 4: Date]]; provided, that the aggregate amount of Indebtedness incurred pursuant to this Section 8.01(e) by members of the Consolidated Group other than FSE, the Existing Notes Issuer, the Existing Notes Guarantors, New Finco2, the New Finco2 Guarantors and/or any other Finance Subsidiary at any time shall not exceed [[Percentage 4: Number]]% of Consolidated Funded Debt at such time.” 
+
+^Section 8.01 of the Credit Agreement is hereby amended by (i) deleting the word “and” appearing at the end of clause (m) of said Section, (ii) deleting the period at the end of clause (n) of said Section and inserting the text “; and” in lieu thereof, and (iii) inserting the following new clause (o) immediately after clause (n) of said Section: 
+
+“(o) unsecured Indebtedness of FSE or a Finance Subsidiary in an aggregate principal amount not to exceed 500 million (and pursuant to any refinancings thereof by FSE or a Finance Subsidiary, provided that all obligations thereunder remain unsecured and the principal amount of Indebtedness outstanding pursuant to this clause (o) is not increased as a result thereof), and unsecured guarantees thereof by New Finco2 Guarantors or the Existing Notes Guarantors, provided that the maturities applicable to any Indebtedness incurred under this Section 8.01(o) shall be no earlier than [[Date 3]].” 
+
+^Section 8.01 of the Credit Agreement is hereby amended by deleting the text of Clause (A) of the last sentence thereof in its entirety and inserting the text “intentionally omitted” in lieu thereof. 
+
+^Section 8.02(r) of the Credit Agreement is hereby amended by deleting the text of said Section in its entirety and inserting the following new text in lieu thereof: 
+
+“(r) Liens securing Indebtedness permitted to be incurred under Section 8.01(e), provided that (x) the aggregate amount of Indebtedness secured by Liens permitted under this Section 8.02(r) at any time shall not exceed [[Percentage 4]]% of Consolidated Funded Debt at such time and (y) such Liens do not at any time encumber any of the Collateral or any of the collateral securing obligations pursuant to the Intercompany Loan Documents;”. 
+
+^Section 8.09 of the Credit Agreement is hereby amended by deleting the reference in said Section to “subsections (b), (c), (d), (e), (h), (i), (j), (k) and (l) of Section 8.01” and replacing it with a reference to “subsections (b), (c), (d), (e), (h), (i), (j), (k), (l) and (o) of Section 8.01”. 
+
+^Section 8.14(a) of the Credit Agreement is hereby amended by deleting the table appearing in said Section in its entirety and inserting the following new table in lieu thereof: 
+
+**“Fiscal Quarters Ending Closest to**      **Maximum Consolidated Leverage Ratio**
+[[Date 5: Date]]      4.75:1.00
+[[Date 6: Date]]      4.75:1.00
+[[Date 7: Date]]      4.75:1.00
+[[Date 4]]      4.75:1.00
+[[Date 8: Date]]      4.75:1.00
+[[Date 9: Date]]      4.75:1.00
+[[Date 10: Date]]      4.50:1.00
+[[Date 11: Date]]      4.50:1.00
+[[Date 12: Date]]      4.50:1.00
+[[Date 13: Date]]      4.00:1.00
+[[Date 14: Date]]      4.00:1.00
+[[Date 15: Date]]      4.00:1.00
+[[Date 16: Date]]      3.75:1.00
+[[Date 17: Date]]      3.50:1.00
+[[Date 18: Date]]      3.50:1.00
+[[Date 19: Date]] and each fiscal quarter ended thereafter      3.25:1.00”
+
+^Section 8.14(b) of the Credit Agreement is amended by adding the text “(or, for any fiscal quarter ending on or after the Third Amendment Effective Date, 1.20 : 1.00)” immediately after the text “1.00 : 1.00” appearing in said Section. 
+
+^Section 8.14(c) of the Credit Agreement is hereby amended by deleting the table appearing in said Section in its entirety and inserting the following new table in lieu thereof: 
+
+**“Fiscal Quarters Ending Closest to**      **Minimum Interest Expense Cover Ratio**
+[[Date 5]]      2.55:1.00
+[[Date 6]]      2.55:1.00
+[[Date 7]]      2.55:1.00
+[[Date 4]]      2.55:1.00
+[[Date 8]]      2.55:1.00
+[[Date 9]]      2.55:1.00
+[[Date 10]]      2.60:1.00
+[[Date 11]]      2.70:1.00
+[[Date 12]]      2.75:1.00
+[[Date 13]]      2.85:1.00
+[[Date 14]]      2.95:1.00
+[[Date 15]]      3.05:1.00
+[[Date 16]]      3.15:1.00
+[[Date 17]]      3.25:1.00
+[[Date 18]]      3.45:1.00
+[[Date 19]] and each fiscal quarter ended thereafter      3.65:1.00”
+
+^Section 8.14(d) of the Credit Agreement is hereby amended by the table appearing in said Section in its entirety and inserting the following new table in lieu thereof: 
+
+**“Fiscal Year Ended Closest to**
+[[Date 4]]      500 million
+[[Date 11]]      500 million
+[[Date 15]]      500 million
+[[Date 19]]      500 million”
+
+^Section 11.01 of the Credit Agreement, is hereby amended by adding the following clauses (l) and (m) at the end of said Section: 
+
+“(l) unless also consented to in writing by the Required Tranche C1 Term Lenders, no such amendment, waiver or consent shall: 
+
+^^^amend or waive any mandatory prepayment on the Tranche C1 Term Loan under Section 2.06(b) or the manner of application thereof to the Tranche C1 Term Loan under Section 2.06(c), or 
+
+^^^amend or waive the provisions of this Section 11.01(l) or the definition of “Required Tranche C1 Term Lenders”; 
+
+^^unless also consented to in writing by the Required Tranche C2 Term Lenders, no such amendment, waiver or consent shall: 
+
+^^^amend or waive any mandatory prepayment on the Tranche C2 Term Loan under Section 2.06(b) or the manner of application thereof to the Tranche C2 Term Loan under Section 2.06(c), or 
+
+^^^amend or waive the provisions of this Section 11.01(m) or the definition of “Required Tranche C2 Term Lenders”;” 
+
+^Schedule 2.01 to the Credit Agreement will be amended as of the date of effectiveness of each of the Tranche C1 Term Loan Joinder Agreement and Tranche C2 Term Loan Joinder Agreement to set forth the Tranche C1 Term Loan Commitments and initial Tranche C1 Term Loan Commitment Percentages according to the terms set forth in the Tranche C1 Term Loan Joinder Agreement and the Tranche C2 Term Loan Commitments and initial Tranche C2 Term Loan Commitment Percentages according to the terms set forth in the Tranche C2 Term Loan Joinder Agreement, as applicable. 
+
+^Schedule 11.02 will be amended as of the date of effectiveness of each of the Tranche C1 Term Loan Joinder Agreement and the Tranche C2 Term Loan Joinder Agreement to include the addresses of the Tranche C1 Term Loan Lenders and the Tranche C2 Term Loan Lenders, as applicable. 
+
+^The Credit Agreement is hereby further amended by replacing Exhibit 2.02 (Form of Loan Notice) in its entirety with Exhibit 2.02 attached hereto. 
+
+^The Credit Agreement is hereby further amended by inserting a new Exhibit 2.09-7 (Form of Tranche C1 Term Note) in the form of Exhibit 2.09-7 attached hereto. 
+
+^The Credit Agreement is hereby further amended by inserting a new Exhibit 2.09-8 (Form of Tranche C2 Term Note) in the form of Exhibit 2.09-8 attached hereto. 
+
+^The Credit Agreement is hereby further amended by replacing Exhibit 11.07 (Form of Assignment and Assumption Agreement) with Exhibit 11.07 attached hereto. 
+
+^The Credit Agreement is hereby further amended by inserting a new Exhibit 2.01(l) (Form of Tranche C1 Term Loan Joinder Agreement) in the form of Exhibit 2.01(l) attached hereto. 
+
+^The Credit Agreement is hereby further amended by inserting a new Exhibit 2.01(m) (Form of Tranche C2 Term Loan Joinder Agreement) in the form of Exhibit 2.01(m) attached hereto. 
+
+^^^Acknowledgments.
+
+^For avoidance of doubt, each Credit Party hereby acknowledges and confirms its due authorization, execution and delivery of all Credit Documents (each Credit Document as amended, restated, modified and/or supplemented through and including the date hereof) to which it is a party, including all instruments, financing statements, agreements, certificates and documents executed and delivered in connection therewith, and hereby ratifies all actions heretofore taken in connection therewith. 
+
+^^^Miscellaneous.
+
+^This Third Amendment may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each of which counterparts when executed and delivered shall be an original, but all of which shall together constitute one and the same instrument. A complete set of counterparts shall be lodged with FSE, the Borrowers and the Administrative Agent. 
+
+^THIS THIRD AMENDMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE CONSTRUED IN ACCORDANCE WITH AND GOVERNED BY THE LAW OF THE STATE OF NEW YORK. 
+
+^This Third Amendment shall become effective on the date (the “Third Amendment Effective Date”) when (i) the Credit Parties, the Intercompany Loan Credit Parties, the Required Lenders, Lenders constituting the Required Tranche A1 Lenders and Lenders constituting the Required Tranche A2 Lenders shall have signed a counterpart hereof (whether the same or different counterparts) and shall have delivered (including by way of facsimile or other electronic transmission) the same to the Administrative Agent, (ii) the Administrative 
+
+Agent shall have received one or more opinions of counsel to the Credit Parties (or counsel to the Administrative Agent where customary according to market practice in the relevant jurisdiction), each in form and substance reasonably satisfactory to the Administrative Agent, with respect to the transactions contemplated by this Amendment, (iii) the Administrative Agent shall have received from each Credit Party certified copies of resolutions of their respective Boards of Directors (or the equivalent governing body) or statements of unanimous written consent in lieu thereof of each such Credit Party with respect to the matters set forth in this Amendment and the transactions contemplated herein, and such resolutions or statements, as the case may be, shall be in form and substance reasonably satisfactory to the Administrative Agent, (iv) FSE and each of the Borrowers shall have paid to the Administrative Agent and the Lenders all fees, costs and expenses (including, without limitation, legal fees and expenses) payable to each of the Administrative Agent and the Lenders pursuant to the terms of the Credit Agreement to the extent then due and (v) the Administrative Agent shall have received from the Borrowers a non-refundable fee payable in immediately available funds (the “Amendment Fee”) in the same currencies as the currencies of relevant outstanding Term Loans and Revolving Committed Amounts on the Third Amendment Effective Date for the account of each Lender which executes and delivers to the Administrative Agent (or its designee) a counterpart hereof by 5:00 P.M. (London time) on [[Date 20: Date]], in an amount equal to 25.0 basis points (i.e., [[Percentage 5: Number]]%) in an amount equal to the sum of (i) the aggregate principal amount of all Term Loans of such Lender outstanding on the Third Amendment Effective Date and (ii) the Revolving Committed Amount of such Lender, if any, as in effect on the Third Amendment Effective Date. The Amendment Fee shall not be subject to counterclaim or set-off, or be otherwise affected by, any claim or dispute relating to any other matter. 
+
+^In order to induce the Lenders to enter into this Third Amendment, FSE and the Borrowers hereby represent and warrant that (i) no Default or Event of Default exists as of the Third Amendment Effective Date, both before and after giving effect to this Third Amendment, and (ii) on the Third Amendment Effective Date, both before and after giving effect to this Third Amendment, all representations and warranties contained in the Credit Agreement and in the Credit Documents are true and correct in all material respects (it being understood and agreed that any representation or warranty which by its terms is made as of a specified date shall be true and correct in all material respects only as of such specified date). 
+
+^From and after the Third Amendment Effective Date, all references in the Credit Agreement, the Credit Documents and the Intercompany Loan Documents to the Credit Agreement shall be deemed to be references to the Credit Agreement as amended hereby. 
+
+^This Third Amendment is limited as specified to the amendments set forth in Section I above and shall not constitute a modification, acceptance or waiver of any other provision of the Credit Agreement or any other Credit Document, each of which other provisions remain unchanged and in full force and effect. 
+
+\centered * * * 

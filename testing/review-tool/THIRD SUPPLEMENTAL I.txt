@@ -1,0 +1,64 @@
+\centered THIRD SUPPLEMENTAL INDENTURE GOVERNING  [[Percentage 1: Number]]% SENIOR NOTES DUE 2016  OF ARCH COAL, INC. 
+
+This THIRD SUPPLEMENTAL INDENTURE (this “Supplemental Indenture”), dated as of [[Date 1: Date]], among Otter Creek Coal, a Delaware limited liability company (the “Guaranteeing Subsidiary”), Arch Coal, Inc., a Delaware corporation (the “Company”), the other Guarantors (as defined in the Indenture referred to below) and U.S. Bank National Association, as trustee under the Indenture referred to below (the “Trustee”). 
+
+\centered WITNESSETH 
+
+WHEREAS, the Guaranteeing Subsidiary is a subsidiary of the Company; and 
+
+WHEREAS, the Company and certain Guarantors have heretofore entered into an Indenture, dated [[Date 2: Date]] (as heretofore supplemented, the “Indenture”), among the Company, such Guarantors and the Trustee, providing for the issuance of [[Percentage 1]]% Senior Notes due 2016 (the “Notes”), the related First Supplemental Indenture, dated [[Date 3: Date]], among the Company, certain Guarantors and the Trustee, and the related Second Supplemental Indenture, dated [[Date 4: Date]], among the Company, certain Guarantors and the Trustee; and 
+
+WHEREAS, the Indenture provides that the Company shall cause any Person which becomes obligated to Guarantee the Notes, pursuant to the terms of Section 4.13 of the Indenture, to execute a supplemental indenture pursuant to which such Person shall Guarantee the obligations of the Company under the Notes and the Indenture in accordance with Article Ten of the Indenture with the same effect and to the same extent as if such Person had been named in the Indenture as a Guarantor; and 
+
+WHEREAS, pursuant to Section 9.01 of the Indenture, the Trustee is authorized to execute and deliver this Supplemental Indenture. 
+
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt of which is hereby acknowledged, the Guaranteeing Subsidiary and the Trustee mutually covenant and agree for the equal and ratable benefit of the Holders of the Notes as follows: 
+
+^CAPITALIZED TERMS. Capitalized terms used herein without definition shall have the meanings assigned to them in the Indenture. 
+
+^AGREEMENT TO GUARANTEE. The Guaranteeing Subsidiary hereby agrees to provide a Guarantee on the terms and subject to the conditions set forth in the Indenture including, but not limited to, Article Ten thereof. From and after the date hereof, the Guaranteeing Subsidiary shall be a Guarantor for all purposes under the Indenture and the Notes. 
+
+^NO RECOURSE AGAINST OTHERS. No past, present or future member, manager, director, officer, employee or agent of the Guaranteeing Subsidiary, as such, shall have any 
+
+^^^^^ 
+liability for any obligations of the Company, the Guaranteeing Subsidiary, or any other Guarantor, under the Notes, any Guarantee, the Indenture or this Supplemental Indenture or for any claim based on, in respect of, or by reason of, such obligations or their creation. Each Holder of the Notes or any Guarantee by accepting a Note waives and releases all such liability. The waiver and release are part of the consideration for issuance of the Notes and the Guarantee. 
+
+^NEW YORK LAW TO GOVERN. THE INTERNAL LAW OF THE STATE OF NEW YORK SHALL GOVERN AND BE USED TO CONSTRUE THIS SUPPLEMENTAL INDENTURE WITHOUT GIVING EFFECT TO APPLICABLE PRINCIPLES OF CONFLICTS OF LAW TO THE EXTENT THAT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION WOULD BE REQUIRED THEREBY. 
+
+^COUNTERPARTS. The parties may sign any number of copies of this Supplemental Indenture. Each signed copy shall be an original, but all of them together represent the same agreement. 
+
+^EFFECT OF HEADINGS. The Section headings herein are for convenience only and shall not affect the construction hereof. 
+
+^THE TRUSTEE. The Trustee shall not be responsible in any manner whatsoever for or in respect of the validity or sufficiency of this Supplemental Indenture or for or in respect of the recitals contained herein, all of which recitals are made solely by the Guaranteeing Subsidiary and the Company. 
+
+\centered [SIGNATURE PAGES FOLLOW] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have caused this Supplemental Indenture to be duly executed and attested, all as of the date first above written. 
+
+SIGNATURES  ARCH COAL, INC. as Issuer
+[[SIGNATURES  ARCH COAL INC. as Issuer Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNATURES  ARCH COAL INC. as Issuer Entity => By: [[SIGNATURES  ARCH COAL INC. as Issuer Signatory First Name]] [[SIGNATURES  ARCH COAL INC. as Issuer Signatory Last Name]]
+Title: [[SIGNATURES  ARCH COAL INC. as Issuer Signatory Title]]}}
+
+
+ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY, INC. ARCH COAL TERMINAL, INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES, INC. ARK LAND COMPANY ARK LAND KH, INC. ARK LAND LT, INC. ARK LAND WR, INC. ASHLAND TERMINAL, INC. CATENARY COAL HOLDINGS, INC. COAL-MAC, INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING, INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND, INC. MOUNTAIN MINING, INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS, INC. WESTERN ENERGY RESOURCES, INC. each as a Guarantor
+[[ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY INC. ARCH COAL TERMINAL INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES INC. ARK LAND COMPANY ARK LAND KH INC. ARK LAND LT INC. ARK LAND WR INC. ASHLAND TERMINAL INC. CATENARY COAL HOLDINGS INC. COAL-MAC INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND INC. MOUNTAIN MINING INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS INC. WESTERN ENERGY RESOURCES INC. each as a Guarantor Signatory Email: Identity | Signature]]
+__________________________________________
+{{ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY INC. ARCH COAL TERMINAL INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES INC. ARK LAND COMPANY ARK LAND KH INC. ARK LAND LT INC. ARK LAND WR INC. ASHLAND TERMINAL INC. CATENARY COAL HOLDINGS INC. COAL-MAC INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND INC. MOUNTAIN MINING INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS INC. WESTERN ENERGY RESOURCES INC. each as a Guarantor Entity => By: [[ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY INC. ARCH COAL TERMINAL INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES INC. ARK LAND COMPANY ARK LAND KH INC. ARK LAND LT INC. ARK LAND WR INC. ASHLAND TERMINAL INC. CATENARY COAL HOLDINGS INC. COAL-MAC INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND INC. MOUNTAIN MINING INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS INC. WESTERN ENERGY RESOURCES INC. each as a Guarantor Signatory First Name]] [[ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY INC. ARCH COAL TERMINAL INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES INC. ARK LAND COMPANY ARK LAND KH INC. ARK LAND LT INC. ARK LAND WR INC. ASHLAND TERMINAL INC. CATENARY COAL HOLDINGS INC. COAL-MAC INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND INC. MOUNTAIN MINING INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS INC. WESTERN ENERGY RESOURCES INC. each as a Guarantor Signatory Last Name]]
+Title: [[ALLEGHENY LAND COMPANY ARCH COAL SALES COMPANY INC. ARCH COAL TERMINAL INC. ARCH DEVELOPMENT ARCH ENERGY RESOURCES ARCH RECLAMATION SERVICES INC. ARK LAND COMPANY ARK LAND KH INC. ARK LAND LT INC. ARK LAND WR INC. ASHLAND TERMINAL INC. CATENARY COAL HOLDINGS INC. COAL-MAC INC. CUMBERLAND RIVER COAL COMPANY LONE MOUNTAIN PROCESSING INC. MINGO LOGAN COAL COMPANY MOUNTAIN GEM LAND INC. MOUNTAIN MINING INC. MOUNTAINEER LAND COMPANY OTTER CREEK COAL PRAIRIE HOLDINGS INC. WESTERN ENERGY RESOURCES INC. each as a Guarantor Signatory Title]]}}
+
+
+\centered *Signature Page to Third Supplemental Indenture* 
+
+^^^^^ 
+
+U.S. BANK NATIONAL ASSOCIATION as Trustee
+[[U.S. BANK NATIONAL ASSOCIATION as Trustee Signatory Email: Identity | Signature]]
+__________________________________________
+{{U.S. BANK NATIONAL ASSOCIATION as Trustee Entity => By: [[U.S. BANK NATIONAL ASSOCIATION as Trustee Signatory First Name]] [[U.S. BANK NATIONAL ASSOCIATION as Trustee Signatory Last Name]]
+Title: [[U.S. BANK NATIONAL ASSOCIATION as Trustee Signatory Title]]}}
+
+
+\centered *Signature Page to Third Supplemental Indenture*

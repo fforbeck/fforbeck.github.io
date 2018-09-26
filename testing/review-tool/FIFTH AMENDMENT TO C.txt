@@ -1,0 +1,267 @@
+\centered FIFTH AMENDMENT TO CREDIT AGREEMENT,
+
+\centered CONSENT AND WAIVER
+
+THIS FIFTH AMENDMENT TO CREDIT AGREEMENT, CONSENT AND WAIVER dated as of [[Date 1: Date]] (the “Agreement”) is entered into among GFI GROUP INC., a Delaware corporation (“GFI”), GFI HOLDINGS LIMITED, a company incorporated under the laws of England and Wales (the “Foreign Borrower”; together with GFI, the “Borrowers”), the Guarantors, the Lenders party hereto and BANK OF AMERICA, N.A., as Administrative Agent (in such capacity, the “Administrative Agent”). All capitalized terms used herein and not otherwise defined herein shall have the meanings given to such terms in the Credit Agreement (as defined below).
+
+\centered RECITALS
+
+WHEREAS, the Borrowers, the Guarantors, the Lenders and the Administrative Agent entered into that certain Amended and Restated Credit Agreement dated as of [[Date 2: Date]] (as amended or modified from time to time, the “Credit Agreement”);
+
+WHEREAS, the Borrowers have requested, and the Lenders have agreed, to consent to certain transactions related to the Borrowers’ global reorganization and amend certain terms of the Credit Agreement as set forth below;
+
+WHEREAS, the Borrowers have requested, and the Lenders have agreed, to not require GFI Group S.à.r.l., a Luxembourg limited liability company (“GFI Group Sarl”) to guarantee the Foreign Obligations and pledge its assets to secure such Foreign Obligations, notwithstanding the terms of Sections 7.12(c) and 7.14(b) of the Credit Agreement,
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+. Consent. Notwithstanding any provision in the Loan Documents to the contrary, the Lenders hereby consent to the transactions of GFI and its Subsidiaries described on Schedule 1 hereto. This consent is limited solely to the transactions identified on Schedule 1 attached hereto, and nothing contained in this Agreement shall be deemed to constitute a waiver of any other rights or remedies the Administrative Agent or any Lender may have under the Credit Agreement or any other Loan Documents or under applicable law.
+
+^Waiver. Notwithstanding the terms of Sections 7.12(c) and 7.14(b) of the Credit Agreement or any other provision of any Loan Document, the Lenders hereby agree that GFI Group Sarl shall not be required to guarantee the Foreign Obligations and pledge its assets to secure such Foreign Obligations. This waiver is limited solely to the specific waiver described above, and nothing contained in this Agreement shall be deemed to constitute a waiver of Section 7.12(c) or Section 7.14(b) of the Credit Agreement or any other provision of any Loan Document in the future or any other rights or remedies the Administrative Agent or any Lender may have under the Credit Agreement or any other Loan Document or under applicable law.
+
+^Amendments. The Credit Agreement is hereby amended as follows:
+
+^^The following new definitions are hereby added to Section 1.01 of the Credit Agreement in the appropriate alphabetical order to read as follows:
+
+“Fifth Amendment” means that certain Fifth Amendment to Credit Agreement, Consent and Waiver dated as of [[Date 3: Date]] among GFI, the Foreign Borrower, the Guarantors, the Lenders party thereto and Bank of America, as Administrative Agent.
+
+“GFI Finance Sarl” means GFI Finance S.à.r.l., a Luxembourg limited liability company.
+
+“GFI Group Sarl” means GFI Group S.à.r.l., a Luxembourg limited liability company.
+
+^^Section 8.06(e) of the Credit Agreement is hereby amended to read as follows:
+
+^^GFI may purchase shares of its Capital Stock issued by GFI to shareholders of GFI and declare and make dividends or other distributions to its shareholders in an aggregate amount not to exceed $[[USD Value 1: Number]] in any fiscal year; provided that after giving effect to any such purchases, dividends or distributions, GFI is in compliance with Section 8.11(a) on a Pro Forma Basis; and
+
+^^A new subsection (d) is hereby added at the end of Section 8.15 of the Credit Agreement to read as follows:
+
+^^With respect to the Indebtedness evidenced by the $[[USD Value 2: Number]] in promissory notes issued by the Foreign Borrower in connection with the reorganization permitted pursuant to the Fifth Amendment, (i) make or offer to make any principal payments with respect to such Indebtedness, (ii) redeem or offer to redeem any of such Indebtedness, or (iii) deposit any funds intended to discharge such Indebtedness, except to the extent any such prepayment, redemption or discharge of such Indebtedness is paid directly to GFI LLC.
+
+^^A new Section 8.16 is hereby added at the end of Article VIII of the Credit Agreement to read as follows:
+
+^^Limitations.
+
+^^Permit GFI Group Sarl to:
+
+^^^hold any assets other than (A) the Equity Interests of the Foreign Borrower and GFI Finance Sarl, (B) minute books and other corporate books and records of GFI Group Sarl, (C) between $[[USD Value 3: Number]] and $[[USD Value 4: Number]] in cash in order to meet [[State of Formation: State]] [[Organization: EntityType]]) and (E) such additional cash or other assets as may be required to comply with Luxembourg law or regulation from time to time;
+
+^^^have any liabilities other than (A) tax liabilities arising in the ordinary course of business, (B) corporate, administrative and operating expenses in the ordinary course of business and (C) other liabilities imposed by Luxembourg law or regulation from time to time; or
+
+^^^engage in any activities or business other than holding the assets and incurring the liabilities described in this Section 8.16(a) and activities incidental and related thereto.
+
+^^Permit GFI Finance Sarl to:
+
+^^^hold any assets other than (A) the Equity Interests of GFI Group Services Lux Ltd., (B) minute books and other corporate books and records of GFI Finance Sarl, (C) between $[[USD Value 3]] and $[[USD Value 4]] in cash in order to meet Luxembourg law minimum capital requirements, (D) transitory cash received from any Subsidiary (which transitory cash will then be promptly distributed to GFI LLC) and (E) such additional cash or other assets as may be required to comply with Luxembourg law or regulation from time to time;
+
+^^^have any liabilities other than (A) tax liabilities arising in the ordinary course of business, (B) corporate, administrative and operating expenses in the ordinary course of business and (C) other liabilities imposed by Luxembourg law or regulation from time to time; or
+
+^^^engage in any activities or business other than holding the assets and incurring the liabilities described in this Section 8.16(b) and activities incidental and related thereto.
+
+^Conditions Precedent. This Agreement shall be effective upon receipt by the Administrative Agent of counterparts of this Agreement duly executed by the Borrowers, the Guarantors, the Administrative Agent and the Required Lenders.
+
+^Conditions Subsequent. Within sixty (60) days of the date of completion of the transactions of GFI and its Subsidiaries described on Schedule 1 hereto (which completion GFI agrees to provide prompt written notice thereof to the Administrative Agent), GFI LLC shall (i) pledge to the Collateral Agent [[Percentage 1: Number]]% of the issued and outstanding voting stock in GFI Group Sarl pursuant to the terms and conditions of those certain Collateral Documents as the Collateral Agent shall reasonably request and (ii) deliver such other documentation as the Collateral Agent may reasonably request in connection with the foregoing, including, without limitation, certified resolutions and other organizational and authorizing documents, favorable opinions of counsel and other items of the types required to be delivered pursuant to Section 5.01(h), all in form, content and scope reasonably satisfactory to the Collateral Agent. Failure of GFI LLC to comply with the terms of this Section 4 shall constitute an Event of Default under the Credit Agreement unless GFI LLC is working diligently to comply with such terms in the reasonable opinion of the Collateral Agent.
+
+^Miscellaneous.
+
+^^The Credit Agreement, and the obligations of the Loan Parties thereunder and under the other Loan Documents, are hereby ratified and confirmed and shall remain in full force and effect according to their terms.
+
+^^Each Guarantor (i) acknowledges and consents to all of the terms and conditions of this Agreement, (ii) affirms all of its obligations under the Loan Documents and (iii) agrees that this Agreement and all documents executed in connection herewith do not operate to reduce or discharge its obligations under the Credit Agreement (as amended hereby) or the other Loan Documents.
+
+^^The Borrowers and the Guarantors hereby represent and warrant as follows:
+
+^^^Each Loan Party has taken all necessary action to authorize the execution, delivery and performance of this Agreement.
+
+^^^This Agreement has been duly executed and delivered by the Loan Parties and constitutes each of the Loan Parties’ legal, valid and binding obligations, enforceable against it in accordance with its terms, except as such enforceability may be subject to (A) bankruptcy, insolvency, reorganization, fraudulent conveyance or transfer, moratorium or similar laws affecting creditors’ rights generally and (B) general principles of equity (regardless of whether such enforceability is considered in a proceeding at law or in equity).
+
+^^^No consent, approval, authorization or order of, or filing, registration or qualification with, any court or governmental authority or third party is required in connection with the execution, delivery or performance by any Loan Party of this Agreement other than those which have been obtained and are in full force and effect.
+
+^^^The representations and warranties of the Loan Parties set forth in Article VI of the Credit Agreement and in each other Loan Document are true and correct in all material respects as of the date hereof with the same effect as if made on and as of the date hereof, except to the extent such representations and warranties expressly relate solely to an earlier date.
+
+^^No event has occurred and is continuing which constitutes a Default or an Event of Default.
+
+^^This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be an original, but all of which shall constitute one and the same instrument. Delivery of an executed counterpart of this Agreement by telecopy or electronic mail shall be effective as an original and shall constitute a representation that an executed original shall be delivered.
+
+^^**THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK.**
+
+\centered [remainder of page intentionally left blank]
+
+Each of the parties hereto has caused a counterpart of this Agreement to be duly executed and delivered as of the date first above written.
+
+GFI:      GFI GROUP INC.,
+^^Delaware corporation, as a Borrower and, with
+respect to the Foreign Obligations, as a Guarantor
+
+[[Respect to the Foreign Obligations as a Guarantor Signatory Email: Identity | Signature]]
+__________________________________________
+{{Respect to the Foreign Obligations as a Guarantor Entity => By: [[Respect to the Foreign Obligations as a Guarantor Signatory First Name]] [[Respect to the Foreign Obligations as a Guarantor Signatory Last Name]]
+Title: [[Respect to the Foreign Obligations as a Guarantor Signatory Title]]}}
+
+
+FOREIGN BORROWER:      GFI HOLDINGS LIMITED,
+^^company incorporated under the
+laws of England and Wales
+
+[[Laws of England and Wales Signatory Email: Identity | Signature]]
+__________________________________________
+{{Laws of England and Wales Entity => By: [[Laws of England and Wales Signatory First Name]] [[Laws of England and Wales Signatory Last Name]]
+Title: [[Laws of England and Wales Signatory Title]]}}
+
+
+DOMESTIC GUARANTORS:      GFI GROUP LLC,
+
+
+[[DOMESTIC GUARANTORS      GFI GROUP LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{DOMESTIC GUARANTORS      GFI GROUP LLC Entity => By: [[DOMESTIC GUARANTORS      GFI GROUP LLC Signatory First Name]] [[DOMESTIC GUARANTORS      GFI GROUP LLC Signatory Last Name]]
+Title: [[DOMESTIC GUARANTORS      GFI GROUP LLC Signatory Title]]}}
+
+
+GFINET INC.,
+
+
+[[GFINET INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GFINET INC. Entity => By: [[GFINET INC. Signatory First Name]] [[GFINET INC. Signatory Last Name]]
+Title: [[GFINET INC. Signatory Title]]}}
+
+
+GFI BROKERS LLC,
+
+
+[[GFI BROKERS LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{GFI BROKERS LLC Entity => By: [[GFI BROKERS LLC Signatory First Name]] [[GFI BROKERS LLC Signatory Last Name]]
+Title: [[GFI BROKERS LLC Signatory Title]]}}
+
+
+INTERACTIVE VENTURES LLC,
+
+
+[[INTERACTIVE VENTURES LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{INTERACTIVE VENTURES LLC Entity => By: [[INTERACTIVE VENTURES LLC Signatory First Name]] [[INTERACTIVE VENTURES LLC Signatory Last Name]]
+Title: [[INTERACTIVE VENTURES LLC Signatory Title]]}}
+
+
+**GFI GROUP INC.**
+
+**FIFTH AMENDMENT, CONSENT AND WAIVER**
+
+DOMESTIC GUARANTORS:      FENICS SOFTWARE INC.,
+
+
+[[DOMESTIC GUARANTORS      FENICS SOFTWARE INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DOMESTIC GUARANTORS      FENICS SOFTWARE INC. Entity => By: [[DOMESTIC GUARANTORS      FENICS SOFTWARE INC. Signatory First Name]] [[DOMESTIC GUARANTORS      FENICS SOFTWARE INC. Signatory Last Name]]
+Title: [[DOMESTIC GUARANTORS      FENICS SOFTWARE INC. Signatory Title]]}}
+
+
+AMEREX BROKERS LLC,
+
+
+[[AMEREX BROKERS LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{AMEREX BROKERS LLC Entity => By: [[AMEREX BROKERS LLC Signatory First Name]] [[AMEREX BROKERS LLC Signatory Last Name]]
+Title: [[AMEREX BROKERS LLC Signatory Title]]}}
+
+
+FOREIGN GUARANTORS:      FENICS LIMITED,
+^^company incorporated under the
+laws of England and Wales
+
+[[Laws of England and Wales Signatory Email: Identity | Signature]]
+__________________________________________
+{{Laws of England and Wales Entity => By: [[Laws of England and Wales Signatory First Name]] [[Laws of England and Wales Signatory Last Name]]
+Title: [[Laws of England and Wales Signatory Title]]}}
+
+
+FENICS SOFTWARE LIMITED,
+^^company incorporated under the
+laws of England and Wales
+
+[[Laws of England and Wales Signatory Email: Identity | Signature]]
+__________________________________________
+{{Laws of England and Wales Entity => By: [[Laws of England and Wales Signatory First Name]] [[Laws of England and Wales Signatory Last Name]]
+Title: [[Laws of England and Wales Signatory Title]]}}
+
+
+GFINET EUROPE LIMITED,
+^^company incorporated under the
+laws of England and Wales
+
+[[Laws of England and Wales Signatory Email: Identity | Signature]]
+__________________________________________
+{{Laws of England and Wales Entity => By: [[Laws of England and Wales Signatory First Name]] [[Laws of England and Wales Signatory Last Name]]
+Title: [[Laws of England and Wales Signatory Title]]}}
+
+
+**GFI GROUP INC.**
+
+**FIFTH AMENDMENT, CONSENT AND WAIVER**
+
+ADMINISTRATIVE AGENT:      BANK OF AMERICA, N.A.,
+as Administrative Agent
+
+[[As Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrative Agent Entity => By: [[As Administrative Agent Signatory First Name]] [[As Administrative Agent Signatory Last Name]]
+Title: [[As Administrative Agent Signatory Title]]}}
+
+
+LENDERS:      BANK OF AMERICA, N.A.,
+as a Lender and an L/C Issuer
+
+[[As a Lender and an L/C Issuer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As a Lender and an L/C Issuer Entity => By: [[As a Lender and an L/C Issuer Signatory First Name]] [[As a Lender and an L/C Issuer Signatory Last Name]]
+Title: [[As a Lender and an L/C Issuer Signatory Title]]}}
+
+
+BANK OF MONTREAL,
+as a Lender
+
+By:   Bank of Montreal  Chicago Branch
+
+[[By   Bank of Montreal  Chicago Branch Signatory Email: Identity | Signature]]
+__________________________________________
+{{By   Bank of Montreal  Chicago Branch Entity => By: [[By   Bank of Montreal  Chicago Branch Signatory First Name]] [[By   Bank of Montreal  Chicago Branch Signatory Last Name]]
+Title: [[By   Bank of Montreal  Chicago Branch Signatory Title]]}}
+
+
+By:   Bank of Montreal  London Branch
+
+[[By   Bank of Montreal  London Branch Signatory Email: Identity | Signature]]
+__________________________________________
+{{By   Bank of Montreal  London Branch Entity => By: [[By   Bank of Montreal  London Branch Signatory First Name]] [[By   Bank of Montreal  London Branch Signatory Last Name]]
+Title: [[By   Bank of Montreal  London Branch Signatory Title]]}}
+
+
+BARCLAYS BANK PLC,
+as a Lender
+
+[[As a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{As a Lender Entity => By: [[As a Lender Signatory First Name]] [[As a Lender Signatory Last Name]]
+Title: [[As a Lender Signatory Title]]}}
+
+
+BROWN BROTHERS HARRIMAN & CO.,
+as a Lender
+
+By:
+Name:
+Title:
+
+THE ROYAL BANK OF SCOTLAND PLC,
+as a Lender
+
+By:
+Name:
+Title:
+
+**GFI GROUP INC.**
+
+**FIFTH AMENDMENT, CONSENT AND WAIVER**
+
+\centered SCHEDULE 1
+
+\centered [Attached]

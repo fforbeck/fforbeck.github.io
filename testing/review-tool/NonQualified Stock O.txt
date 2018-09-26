@@ -1,0 +1,143 @@
+To Be Used With Employment Agreement
+
+\centered Non-Qualified Stock Option Agreement under
+
+\centered Assured Guaranty Ltd. 2004 Long-Term Incentive Plan
+
+THIS AGREEMENT is effective as of the Grant Date, by and between the Participant and Assured Guaranty Ltd. (the “Company”).
+
+WHEREAS, the Company maintains the Assured Guaranty Ltd. 2004 Long-Term Incentive Plan (the “Plan”), and the Participant has been selected by the committee administering the Plan (the “Committee”) to receive a Non-Qualified Stock Option Award under the Plan; and
+
+NOW, THEREFORE, IT IS AGREED, by and between the Company and the Participant, as follows:
+
+^Terms of Award. The following words and phrases used in this Agreement shall have the meanings set forth in this paragraph 1:
+
+^^The “Participant” is
+
+^^The “Grant Date” is [[Date 1: Date]]**.**
+
+^^The number of “Covered Shares” shall be shares of Stock.
+
+^^The “Exercise Price” is $ per share.
+
+Other words and phrases used in this Agreement are defined pursuant to paragraph 17, elsewhere in this Agreement or the Plan.
+
+^Non-Qualified Stock Option. This Agreement specifies the terms of the option (the “Option”) granted to the Participant to purchase the number of Covered Shares of Stock at the Exercise Price per share as set forth in paragraph 1. The Option is not intended to constitute an “incentive stock option” as that term is used in Code section 422.
+
+^Date of Exercise. Subject to the limitations of this Agreement, each Installment of Covered Shares of the Option shall be exercisable on and after the Vesting Date for such Installment as described in the following schedule (but only if the Date of Termination has not occurred before the Vesting Date):
+
+\centered **INSTALLMENT**      \centered **VESTING DATE APPLICABLE TO INSTALLMENT** 
+
+\centered 1/3 of Covered Shares      \centered One year anniversary of the Grant Date 
+
+\centered 1/3 of Covered Shares      \centered Two year anniversary of the Grant Date 
+
+\centered 1/3 of Covered Shares      
+
+\centered Three year anniversary of the Grant Date  
+
+Notwithstanding the foregoing provisions of this paragraph 3, the Option shall become vested and exercisable as follows:
+
+^^The Option shall become fully exercisable upon the Date of Termination, if the Date of Termination occurs by reason of the Participant’s death or Disability.
+
+^^The Option shall become fully exercisable upon a Change in Control that occurs on or before the Date of Termination.
+
+^^If the Option is not fully exercisable upon the Participant’s Date of Termination, and the Participant’s Date of Termination occurs because of Retirement, then, for purposes of this paragraph 3 and subject to paragraph 17(g), the Participant shall be treated as though employed by the Company and Subsidiaries after the Participant’s actual Date of Termination until the Vesting Date has occurred with respect to all of the Covered Shares.
+
+^^If the Option is not fully exercisable upon the Participant’s Date of Termination, and the Participant’s Date of Termination occurs by virtue of a Termination Without Cause, then for purposes of applying the foregoing vesting schedule, the Participant shall be treated as though employed by the Company and Subsidiaries after the Participant’s actual Date of Termination until the two-year anniversary of the Date of Termination. The terms “Cause” and “Terminated Without Cause” shall be defined as set forth in the Employment Agreement. Notwithstanding the foregoing, if the Executive’s employment is Terminated without Cause, the provisions of this paragraph (d) shall apply, and the provisions of paragraph 4(e) with respect to Retirement shall apply only if the Executive executes and returns to the Company a general release and waiver of all claims against the Company as required under the Employment Agreement.
+
+Subject to paragraphs (c) and (d) above, the Option may be exercised on or after the Date of Termination only as to that portion of the Covered Shares for which it was exercisable immediately prior to (or became exercisable on) the Date of Termination. Notwithstanding the foregoing provisions of this paragraph 3, as of the Participant’s Date of Termination for Cause, the Option shall be canceled as to any Covered Shares as to which it has not previously been exercised.
+
+^Expiration. The Option shall not be exercisable after the Company’s close of business on the last business day that occurs prior to the Expiration Date. The “Expiration Date” shall be the earliest to occur of:
+
+^^the ten-year anniversary of the Grant Date;
+
+^^if the Participant’s Date of Termination occurs by reason of death or Disability, the two-year anniversary of such Date of Termination;
+
+^^if the Participant’s Date of Termination occurs for Cause, the Date of Termination;
+
+^^if the Participant’s Date of Termination occurs because of a Termination Without Cause, the two-year anniversary of the Date of Termination;
+
+^^if the Participant’s Date of Termination occurs because of Retirement, the ten-year anniversary of the Grant Date, subject to paragraph 17(g); or
+
+^^if the Participant’s Date of Termination occurs for any reason other than those listed in subparagraph (b), (c), (d), or (e) of this paragraph 4, the 90 day anniversary of such Date of Termination.
+
+Notwithstanding the foregoing provisions of this paragraph 4, if a Change in Control occurs on or before the Participant’s Date of Termination, the Expiration Date shall be the ten-year anniversary of the Grant Date.
+
+^Method of Option Exercise. Subject to this Agreement and the Plan, the Option may be exercised in whole or in part by filing a written notice with the Secretary of the Company at its corporate headquarters prior to the Company’s close of business on the last business day that occurs prior to the Expiration Date. Such notice shall specify the number of shares of Stock which the Participant elects to purchase, and shall be accompanied by payment of the Exercise Price for such shares of Stock indicated by the Participant’s election. Payment shall be by cash or by check payable to the Company. Except as otherwise provided by the Committee before the Option is exercised: (i) all or a portion of the Exercise Price may be paid by the Participant by delivery of shares of Stock owned by the Participant and acceptable to the Committee having an aggregate Fair Market Value (valued as of the date of exercise) that is equal to the amount of cash that would otherwise be required; and (ii) the Participant may pay the Exercise Price by authorizing a third party to sell shares of Stock (or a sufficient portion of the shares) acquired upon exercise of the Option and remit to the Company a sufficient portion of the sale proceeds to pay the entire Exercise Price and any tax withholding resulting from such exercise. The Option shall not be exercisable if and to the extent the Company determines that such exercise would violate applicable state or Federal securities laws or the rules and regulations of any securities exchange on which the Stock is traded. If the Company makes such a determination, it shall use all reasonable efforts to obtain compliance with such laws, rules and regulations. In making any determination hereunder, the Company may rely on the opinion of counsel for the Company.
+
+^Withholding. All deliveries and distributions under this Agreement are subject to withholding of all applicable taxes. At the election of the Participant, and subject to such rules and limitations as may be established by the Committee from time to time, such withholding obligations may be satisfied through the surrender of shares of Stock which the Participant already owns, or to which the Participant is otherwise entitled under the Plan; provided, however, that such shares may be used to satisfy not more than the Company’s minimum statutory withholding obligation (based on minimum statutory withholding rates for Federal and state tax purposes, including payroll taxes, that are applicable to such supplemental taxable income).
+
+^Transferability. Except as otherwise provided by the Committee, the Option is not transferable other than as designated by the Participant by will or by the laws of descent and distribution, and during the Participant’s life, may be exercised only by the Participant.
+
+^Cancellation and Rescission of Options.
+
+^^The Committee may cancel, rescind, suspend, withhold or otherwise limit or restrict the Option at any time if the Participant engages in any “Detrimental Activity.”
+
+^^Upon exercise of the Option, the Participant shall certify, to the extent provided by the Committee, in a manner acceptable to the Committee, that the Participant is not engaging and has not engaged in any Detrimental Activity. In the event a Participant has engaged in any Detrimental Activity prior to, or during the twelve months after, any exercise of the Option, such exercise may be rescinded by the Committee within two years thereafter. In the event of any such rescission, the Participant shall pay to the Company the amount of any gain realized as a result of the rescinded exercise, in such manner and on such terms and conditions as may be required, and the Company shall be entitled to set-off against the amount of any such gain any amount owed to the Participant by the Company and/or Subsidiary.
+
+^Heirs and Successors. This Agreement shall be binding upon, and inure to the benefit of, the Company and its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. If any rights exercisable by the Participant or benefits deliverable to the Participant under this Agreement have not been exercised or delivered, respectively, at the time of the Participant’s death, such rights shall be exercisable by the Designated Beneficiary, and such benefits shall be delivered to the Designated Beneficiary, in accordance with the provisions of this Agreement and the Plan. The “Designated Beneficiary” shall be the beneficiary or beneficiaries designated by the Participant in a writing filed with the Committee in such form and at such time as the Committee shall require. If a deceased Participant fails to designate a beneficiary, or if the Designated Beneficiary does not survive the Participant, any rights that would have been exercisable by the Participant and any benefits distributable to the Participant shall be exercised by or distributed to the legal representative of the estate of the Participant. If a deceased Participant designates a beneficiary and the Designated Beneficiary survives the Participant but dies before the Designated Beneficiary’s exercise of all rights under this Agreement or before the complete distribution of benefits to the Designated Beneficiary under this Agreement, then any rights that would have been exercisable by the Designated Beneficiary shall be exercised by the legal representative of the estate of the Designated Beneficiary, and any benefits distributable to the Designated Beneficiary shall be distributed to the legal representative of the estate of the Designated Beneficiary.
+
+^Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of this Agreement by the Committee and any decision made by it with respect to this Agreement is final and binding on all persons. The Committee shall have the authority to obtain such information from the Participant (including tax return information) as it determines may be necessary to confirm that the Participant is in compliance with the requirements applicable to Detrimental Activity, and if the Participant fails to provide such information, the Committee may conclude that the Participant is not in compliance with such requirements.
+
+^Recoupment and Plan Provisions Govern.
+
+^^**Notwithstanding anything in this Agreement to the contrary, the Participant’s rights with respect to the Option shall be subject to the Assured Guaranty Ltd. Executive Officer Recoupment Policy as in effect on the Grant Date, a copy of which policy is set forth in the Company’s Code of Conduct.**
+
+^^Notwithstanding anything in this Agreement to the contrary, but subject to paragraph (a) above, this Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company; and this Agreement is subject to all interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan.
+
+^Not an Employment Contract. The Option will not confer on the Participant any right with respect to continuance of employment or other service with the Company or any Subsidiary, nor will it interfere in any way with any right the Company or any Subsidiary would otherwise have to terminate or modify the terms of such Participant’s employment or other service at any time.
+
+^Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office.
+
+^Fractional Shares. In lieu of issuing a fraction of a share upon any exercise of the Option, resulting from an adjustment of the Option pursuant to the Plan or otherwise, the Company will be entitled to pay to the Participant an amount equal to the fair market value of such fractional share.
+
+^No Rights As Shareholder. The Participant shall not have any rights of a shareholder with respect to the shares subject to the Option, until a stock certificate has been duly issued following exercise of the Option as provided herein.
+
+^Amendment. This Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Participant and the Company without the consent of any other person.
+
+^Definitions. For purposes of this Agreement, words and phrases shall be defined as follows:
+
+^^Change in Control. The term “Change in Control” shall be defined as set forth in the Plan.
+
+^^Date of Termination. A Participant’s “Date of Termination” means, with respect to an employee, the date on which the Participant’s employment with the Company and Subsidiaries terminates for any reason, and with respect to a Director, the date immediately following the last day on which the Participant serves as a Director; provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s transfer of employment between the Company and a Subsidiary or between two Subsidiaries; further provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s cessation of service as a Director if immediately following such cessation of service the Participant becomes or continues to be employed by the Company or a Subsidiary, nor by reason of a Participant’s termination of employment with the Company or a Subsidiary if immediately following such termination of employment the Participant becomes or continues to be a Director; and further provided that a Participant’s employment shall not be considered terminated while the Participant is on a leave of absence from the Company or a Subsidiary approved by the Participant’s employer.
+
+^^Detrimental Activity. The term “Detrimental Activity” shall mean (i) a violation of paragraph 11 of the Employment Agreement (relating to competition) during the period in which such activity is prohibited under the Employment Agreement; or (ii) a violation of paragraph 12 of the Employment Agreement (relating to confidentiality).
+
+^^Director. The term “Director” means a member of the Board of Directors of Assured Guaranty Ltd., who may or may not be an employee of the Company or a Subsidiary.
+
+^^Disability. The Participant shall be considered to have a “Disability” during the period in which the Participant is unable, by reason of a medically determinable physical or mental impairment, to engage in any substantial gainful activity, which condition, in the opinion of a physician selected by the Committee, is expected to have a duration of not less than 120 days.
+
+^^Employment Agreement. “Employment Agreement” shall mean the agreement between the Participant and the Company as amended and restated as of [[[Date 2: Date]]] [[[Date 3: Date]] for SMcC] or any successor agreement thereto.
+
+^^Retirement. “Retirement” of a Participant will be determined in accordance with the following:
+
+^^^Retirement shall mean the occurrence of a Participant’s Date of Termination with the consent of the Participant’s employer after the Participant has completed three years of service and attained age 55. (1)
+
+^^^For purposes of defining “Retirement,” years of service shall be determined in accordance with rules which may be established by the Committee, and shall take into account service with the Company and the Subsidiaries. If, on or before the date of the initial public offering of stock of the Company, the Participant was employed by the Company or its Subsidiaries, years of service shall also include service with ACE Limited and its subsidiaries occurring prior to such initial public offering.
+
+^^^Notwithstanding that the Participant’s Date of Termination satisfies the requirements of paragraph (i) above, the Participant will not be considered to have retired (or have terminated by reason of Retirement) with respect to any unexercised portion of the Option if the Committee determines that the Participant has provided significant commercial or business services to any one or more persons or entities on or before the Option exercise, regardless of whether such entity is owned or controlled by the Participant; provided that the Participant may devote reasonable time to the supervision of his personal investments, and activities involving professional, charitable, community, educational, religious and similar types of organizations, speaking engagements, membership on the boards of directors of other organizations, and similar types of activities, to the extent that the Committee, in its discretion, determines that such activities are consistent with the Participant’s Retirement.
+
+^^^At the request of the Committee, and as a condition of exercising the Option, the Participant shall be required to provide a listing of the activities engaged in by the Participant following the Participant’s Date of Termination and prior to such exercise and such other information that the Committee determines may be necessary from time to time to establish whether the Participant has acted in a manner that is consistent with the requirements of paragraph (iii). Such listing and information shall be provided promptly by the Participant, but in no event more than 10 days after written request is delivered to the Participant.
+
+^^^At the request of the Participant, the Committee shall determine whether a proposed activity of the Participant will be consistent with the requirements of paragraph (iii). Such request shall be accompanied by a description of the proposed activities, and the Participant shall provide such additional information as the Committee may determine is necessary to make the determination. Such a determination shall be made promptly, but in no event more than 30 days after the written request, together with any additional information requested of the Participant, is delivered to the Committee.
+
+^^^If, prior to the exercise of the Option with respect to a portion of the Covered Shares (including the exercise with respect to all the Covered Shares), the Participant engages in one or more activities that the Committee determines to be inconsistent with
+
+^“Retirement” for Mr. Bailenson, 55 years of age with 5 years of service and the consent of the Compensation Committee or 60 years of age with 5 years of service.
+
+Retirement, as set forth in paragraph (iii) above, the right to exercise the Option with respect to a portion of the Covered Shares (including the exercise with respect to all the Covered Shares) as of or after the date the Participant first engages in such activities may be canceled by the Committee. If, after the Option has been exercised with respect to all or any portion of the Covered Shares, the Committee determines that the Participant engaged in activities prior to such exercise that are inconsistent with Retirement, as set forth in paragraph (iii) above, such exercise may be rescinded by the Committee within two years after the exercise. In the event of any such rescission, the Participant shall pay to the Company the amount of any gain realized as a result of the rescinded exercise, in such manner and on such terms and conditions as may be required by the Committee, and the Company shall be entitled to set-off against the amount of any such gain any amount owed to the Participant by the Company and/or Subsidiary. For the avoidance of doubt, it is recited that the cancellation of the right to exercise the Option shall include cancellation of the right to vest in the Option.
+
+^^Plan Definitions. Except where the context clearly implies or indicates the contrary, a word, term, or phrase used in the Plan is similarly used in this Agreement.
+
+IN WITNESS WHEREOF, the Participant has executed the Agreement, and the Company has caused these presents to be executed in its name and on its behalf, all as of the Grant Date.
+
+Assured Guaranty Ltd.
+
+[[Assured Guaranty Ltd. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Assured Guaranty Ltd. Entity => By: [[Assured Guaranty Ltd. Signatory First Name]] [[Assured Guaranty Ltd. Signatory Last Name]]
+Title: [[Assured Guaranty Ltd. Signatory Title]]}}
+
+
+Participant

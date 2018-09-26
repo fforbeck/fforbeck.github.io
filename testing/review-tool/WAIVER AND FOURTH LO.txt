@@ -1,0 +1,114 @@
+\centered **WAIVER AND FOURTH LOAN MODIFICATION AGREEMENT**
+
+This Waiver and Fourth Loan Modification Agreement (this “**Loan Modification Agreement**”) is entered into as of the Fourth Loan Modification Effective Date by and between **[[Bank]]**, a [[State of Formation: State]] [[Organization: EntityType]], with its pr**[[Borrower]]**ipal place of business at 3003 Tasman Drive, [[Address 1: Address]] and with a loan production office located at One Newton Executive Park, Suite 200, [[Address 2: Address]] (“**Bank**”) and **[[Satcon]]**, a [[State of Formation: State]] [[Organization: EntityType]] “**Satcon**”); **SATCON POWER SYSTEMS, **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]]; **SATCON ELECTRONICS, **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]]; each with offices located at 27 Drydock Avenue, [[Address 3: Address]]; and (ii) **SATCON POWER SYSTEMS [[State of Formation: State]] [[Organization: EntityType]] organized under the laws of the Prov**[[Borrower]]**e of [[State of Formation: State]] [[Organization: EntityType]]ly and collectively, jointly and severally, “**Borrower**”).
+
+Pursuant to a certain Consent and Release Agreement, by and between Borrower and Bank, dated as of [[Date 1: Date]], Bank consented to the sale of Satcon Applied Technology, **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] and former co-borrower under the Loan Agreement (as defined below), as more fully described in that certain Stock Purchase Agreement, dated as of [[Date 1]], by and between Satcon and RCT Holdings, **[[Borrower]]**, a Maryland corporation.
+
+^ \centered 1. DESCRIPTION OF EXISTING INDEBTEDNESS AND OBLIGATIONS. Among other indebtedness and obligations which may be owing by Borrower to Bank, Borrower is indebted to Bank pursuant to a loan arrangement dated as of [[Date 2: Date]], evidenced by, among other documents, a certain Loan and Security Agreement dated as of [[Date 2]], as amended by that certain First Loan Modification Agreement, dated as of the First Loan Modification Effective Date, as further amended by that certain Second Loan Modification Agreement, dated as of the Second Loan Modification Effective Date, and as further amended by that certain Third Loan Modification Agreement, dated as of the Third Loan Modification Effective Date (as amended, the “**Loan Agreement**”). Capitalized terms used but not otherwise defined herein shall have the same meaning as in the Loan Agreement. 
+
+^ \centered DESCRIPTION OF COLLATERAL. Repayment of the Obligations is secured by the Collateral as described in the Loan Agreement and a certain Intellectual Property Security Agreement dated as of [[Date 2]], as may be amended from time to time (the “**IP Agreement**”). 
+
+^ \centered 2. Hereinafter, the Loan Agreement and the IP Agreement, together with all other documents executed in connection therewith evidencing, securing or otherwise relating to the Obligations (other than this Loan Modification Agreement) shall be referred to as the “**Existing Loan Documents**”. 
+
+^ \centered 3. DESCRIPTION OF CHANGE IN TERMS. 
+
+^^ \centered A. Modifications to Loan Agreement. 
+
+^^^ \centered  The Loan Agreement shall be amended by deleting the following definitions appearing in Section 13.1 thereof, entitled “Definitions”: 
+
+^^^ \centered “ “**Revolving Line Maturity Date**” is [[Date 3: Date]].” 
+
+and inserting in lieu thereof the following:
+
+“ “**Revolving Line Maturity Date**” is [[Date 4: Date]].”
+
+
+^^^ \centered  The Loan Agreement shall be amended by inserting the following definitions in the appropriate alphabetical order in Section 13.1 thereof, entitled “Definitions”:    
+
+^^^ \centered “ “**Fourth Loan Modification Agreement**” means that certain Waiver and Fourth Loan Modification Agreement, dated as of the Fourth Loan Modification Effective Date, by and between Borrower and Bank.” 
+
+“**Fourth Loan Modification Effective Date**” is the date noted on the signature page to the Fourth Loan Modification Agreement.”
+
+^^ \centered B. ACKNOWLEDGEMENT OF DEFAULT; WAIVER. 
+
+^^^ \centered  Borrower has informed Bank that it anticipates that it will fail to comply with the Tangible Net Worth financial covenant set forth in Section 6.9(b) of the Loan Agreement for the quarterly compliance period ended [[Date 5: Date]] (the **“Anticipated Default**). 
+
+^^^ \centered  Bank hereby waives Borrower’s Anticipated Default under the Loan Agreement. Bank’s waiver shall only apply to the Anticipated Default described above, and only for the specific compliance period described above. Borrower hereby acknowledges and agrees that, except as specifically provided herein, nothing in this Section or anywhere in this Loan Modification Agreement shall be deemed or otherwise construed as a waiver by the Bank of any of its rights and remedies pursuant to the Existing Loan Documents, applicable law or otherwise. 
+
+^ \centered 4. FEES. Borrower shall pay to Bank a modification fee in the amount of Two Thousand Five Hundred Dollars ($[[USD Value 1: Number]]), which fee shall be due and payable and fully earned as of the date hereof. Borrower shall also reimburse Bank for all legal fees and expenses **[[Borrower]]**urred by Bank in connection with the Existing Loan Documents and this amendment thereto. 
+
+^ \centered 5. RATIFICATION OF INTELLECTUAL PROPERTY SECURITY AGREEMENT. Borrower hereby ratifies, confirms, and reaffirms, all and singular, the terms and conditions of the IP Agreement and acknowledges, confirms and agrees that the IP Agreement contains an accurate and complete listing of all Intellectual Property. 
+
+^ \centered 6. RATIFICATION OF PERFECTION CERTIFICATE. Borrower hereby ratifies, confirms and reaffirms, all and singular, the terms and disclosures contained in a certain Perfection Certificate dated as of [[Date 2]] between Borrower and Bank, and acknowledges, confirms and agrees the disclosures Borrower provided to Bank in the Perfection Certificate, as amended, has not changed. 
+
+^ \centered 7. AUTHORIZATION TO FILE. Borrower hereby authorizes Bank to file UCC financing statements without notice to Borrower, with all appropriate jurisdictions, as Bank deems appropriate, in order to further perfect or protect Bank’s interest in the Collateral, **[[Borrower]]**luding a notice that any disposition of the Collateral, by either the Borrower or any other Person, shall be deemed to violate the rights of the Bank under the Code. 
+
+^ \centered 8. CONSISTENT CHANGES. The Existing Loan Documents are hereby amended wherever necessary to reflect the changes described above. 
+
+^ \centered 9. RATIFICATION OF LOAN DOCUMENTS. Borrower hereby ratifies, confirms, and reaffirms all terms and conditions of all security or other collateral granted to the Bank, and confirms that the indebtedness secured thereby **[[Borrower]]**ludes, without limitation, the Obligations. 
+
+^ \centered 10. NO DEFENSES OF BORROWER. Borrower hereby acknowledges and agrees that, as of the date of this Loan Modification Agreement, Borrower has no offsets, defenses, claims, or counterclaims against Bank with respect to the Obligations, or otherwise, and that if Borrower now has, or ever did have, any offsets, defenses,  
+^ \centered    
+
+
+^ \centered claims, or counterclaims against Bank, whether known or unknown, at law or in equity, all of them are hereby expressly WAIVED and Borrower hereby RELEASES Bank from any liability thereunder. 
+
+^ \centered 11. CONTINUING VALIDITY. Borrower understands and agrees that in modifying the existing Obligations, Bank is relying upon Borrower’s representations, warranties, and agreements, as set forth in the Existing Loan Documents. Except as expressly modified pursuant to this Loan Modification Agreement, the terms of the Existing Loan Documents remain unchanged and in full force and effect. Bank’s agreement to modifications to the existing Obligations pursuant to this Loan Modification Agreement in no way shall obligate Bank to make any future modifications to the Obligations. Nothing in this Loan Modification Agreement shall constitute a satisfaction of the Obligations. It is the intention of Bank and Borrower to retain as liable parties all makers of Existing Loan Documents, unless the party is expressly released by Bank in writing. No maker will be released by virtue of this Loan Modification Agreement. 
+
+^ \centered 12. RIGHT OF SET-OFF. In consideration of Bank’s agreement to enter into this Loan Modification Agreement, Borrower hereby reaffirms and hereby grants to Bank, a lien, security interest and right of set off as security for all Obligations to Bank, whether now existing or hereafter arising upon and against all deposits, credits, collateral and property, now or hereafter in the possession, custody, safekeeping or control of Bank or any entity under the control of Bank (**[[Borrower]]**luding a Bank subsidiary) or in transit to any of them. At any time after the occurrence and during the continuance of an Event of Default, without demand or notice, Bank may set off the same or any part thereof and apply the same to any Obligation of Borrower, even though unmatured and regardless of the adequacy of any other collateral securing the Obligations. ANY AND ALL RIGHTS TO REQUIRE BANK TO EXERCISE ITS RIGHTS OR REMEDIES WITH RESPECT TO ANY OTHER COLLATERAL WHICH SECURES THE OBLIGATIONS, PRIOR TO EXERCISING ITS RIGHT OF SETOFF WITH RESPECT TO SUCH DEPOSITS, CREDITS OR OTHER PROPERTY OF BORROWER ARE HEREBY KNOWINGLY, VOLUNTARILY AND IRREVOCABLY WAIVED. 
+
+^ \centered 13. JURISDICTION/VENUE. Borrower accepts for itself and in connection with its properties, unconditionally, the exclusive jurisdiction of any state or federal court of competent jurisdiction in the Commonwealth of Massachusetts in any action, suit, or proceeding of any kind against it which arises out of or by reason of this Loan Modification Agreement. NOTWITHSTANDING THE FOREGOING, THE BANK SHALL HAVE THE RIGHT TO BRING ANY ACTION OR PROCEEDING AGAINST ANY BORROWER OR ANY OF THEIR PROPERTY IN THE COURTS OF ANY OTHER JURISDICTION WHICH THE BANK DEEMS NECESSARY OR APPROPRIATE IN ORDER TO REALIZE ON THE COLLATERAL OR TO OTHERWISE ENFORCE THE BANK’S RIGHTS AGAINST THE BORROWER OR ITS PROPERTY. 
+
+^ \centered 14. COUNTERSIGNATURE. This Loan Modification Agreement shall become effective only when it shall have been executed by Borrower and Bank. 
+
+\centered *[The remainder of this page is intentionally left blank]*
+
+**IN WITNESS WHEREOF**, the parties hereto have caused this Loan Modification Agreement to be executed as a sealed instrument under the laws of the Commonwealth of Massachusetts as of the Fourth Loan Modification Effective Date.
+
+**BORROWER:**
+
+
+
+[[BORROWER Signatory Email: Identity | Signature]]
+__________________________________________
+{{BORROWER Entity => By: [[BORROWER Signatory First Name]] [[BORROWER Signatory Last Name]]
+Title: [[BORROWER Signatory Title]]}}
+
+
+SATCON POWER SYSTEMS, **[[Borrower]]**
+
+[[SATCON POWER SYSTEMS Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON POWER SYSTEMS Borrower Entity => By: [[SATCON POWER SYSTEMS Borrower Signatory First Name]] [[SATCON POWER SYSTEMS Borrower Signatory Last Name]]
+Title: [[SATCON POWER SYSTEMS Borrower Signatory Title]]}}
+
+
+SATCON ELECTRONICS, **[[Borrower]]**
+
+[[SATCON ELECTRONICS Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON ELECTRONICS Borrower Entity => By: [[SATCON ELECTRONICS Borrower Signatory First Name]] [[SATCON ELECTRONICS Borrower Signatory Last Name]]
+Title: [[SATCON ELECTRONICS Borrower Signatory Title]]}}
+
+
+SATCON POWER SYSTEMS CANADA LTD.
+
+[[SATCON POWER SYSTEMS CANADA LTD. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SATCON POWER SYSTEMS CANADA LTD. Entity => By: [[SATCON POWER SYSTEMS CANADA LTD. Signatory First Name]] [[SATCON POWER SYSTEMS CANADA LTD. Signatory Last Name]]
+Title: [[SATCON POWER SYSTEMS CANADA LTD. Signatory Title]]}}
+
+
+**BANK:**
+
+**[[Bank]]**
+
+[[Bank Signatory Email: Identity | Signature]]
+__________________________________________
+{{Bank Entity => By: [[Bank Signatory First Name]] [[Bank Signatory Last Name]]
+Title: [[Bank Signatory Title]]}}
+
+
+Fourth Loan Modification Effective Date: [[Date 3]]
+
+\centered [Satcon Waiver and Fourth Loan Modification Agreement Signature Page]

@@ -1,139 +1,114 @@
-\centered **RESTRICTED STOCK AGREEMENT**
+\centered **RESTRICTED STOCK AGREEMENT** 
 
-\centered **NEUROMETRIX, INC.**
+**THIS RESTRICTED STOCK AGREEMENT**  (the “Agreement”), made this  day of , 20, between [[Corporation]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Corporation”), and  (the “Participant”). 
 
-AGREEMENT made as of the day of , 20XX (the “Grant Date”), between [[Participant]], a [[State of Formation: State]] [[Organization: EntityType]] having its principal place of business in Waltham, Massachusetts and (the “Participant”).
+\centered **WITNESSETH:** 
 
-WHEREAS, the Company has adopted the Third Amended and Restated 2004 Stock Option and Incentive Plan (the “Plan”) to promote the interests of the Company by providing an incentive for employees, directors and consultants of the Company or its Subsidiaries;
+**WHEREAS**, the Participant is an employee and executive officer of the Corporation; and 
 
-WHEREAS, pursuant to the provisions of the Plan, the Company desires to offer to the Participant a Restricted Stock Award to purchase shares of the Company’s common stock, $[[USD Value 1: Number]]1 par value per share (“Common Stock”), in accordance with the provisions of the Plan, all on the terms and conditions hereinafter set forth;
+**WHEREAS**, the Corporation adopted the Amended and Restated [[Corporation]] 2005 Long-Term Incentive Plan (the “Plan”) in order to provide non-employee directors and select officers and key employees with incentives to achieve long-term corporate objectives; and 
 
-WHEREAS, the Participant wishes to accept said offer; and
+**WHEREAS**, the Compensation Committee of the Corporation’s Board of Directors has decided that the Participant should be granted restricted shares of the Corporation’s common stock, $[[USD Value 1: Number]] par value per share (“Common Stock”), on the terms and conditions set forth below in accordance with the terms of the Plan. 
 
-WHEREAS, the parties hereto understand and agree that any terms used and not defined herein have the meanings ascribed to such terms in the Plan.
+**NOW, THEREFORE**, in consideration of the past and future services provided to the Corporation by the Participant and the various covenants and agreements herein contained, and intending to be legally bound hereby, the parties hereto agree as follows: 
 
-NOW, THEREFORE, in consideration of the premises and the mutual covenants contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+^**Grant of Restricted Stock**.  
 
-^Terms of Restricted Stock Award. The Participant hereby accepts the offer of the Company to issue to the Participant, in accordance with the terms of the Plan and this Agreement, ( )Shares of the Company’s Common Stock (such shares, subject to adjustment pursuant to Section 3(b) of the Plan and Section 2(h) hereof, the “Granted Shares”) at a purchase price per share of $[[USD Value 1]]1 (the “Purchase Price”), receipt of which is hereby acknowledged by the Participant’s prior service to the Company and which amount will be reported as income on the Participant’s W-2 for this calendar year.
+The Corporation hereby grants to the Participant a total of  shares of the Common Stock of the Corporation (the “Restricted Shares”), subject to the transfer restrictions, vesting schedule and other conditions set forth in this Agreement. The Participant shall not be required to provide the Corporation with any payment (other than his or her past and future services to the Corporation) in exchange for such Restricted Shares. 
 
-^Forfeiture Provisions.
+As provided in Section 4, the Corporation shall cause the Restricted Shares to be issued in book entry form and registered in the name of the Participant promptly upon execution of this Agreement. On or before the date of execution of this Agreement (if required by the Corporation), the Participant shall deliver to the Corporation one or more stock powers endorsed in blank relating to the Restricted Shares. 
 
-^^Lapsing Forfeiture Right. In the event that for any reason the Participant is no longer an employee or consultant of the Company or a Subsidiary prior to , 20XX (the “Termination”), the Participant shall, on the date of Termination, immediately forfeit to the Company all of the Granted Shares which have not yet lapsed in accordance with the schedule set forth below (the “Lapsing Forfeiture Right”) except as otherwise set forth in Section 2(b) or (c). The Company’s Lapsing Forfeiture Right is as follows:
+^**Restrictions**.  
 
-The Granted Shares will vest and no longer be subject to the Company’s Lapsing Forfeiture Right with respect to [[Percentage 1: Number]]% of the Granted Shares on , 20XX and an additional 1/16th of the Granted Shares on each , , and thereafter until , 20XX; provided that the total number of Shares for which the Lapsing Forfeiture Right expires will be rounded down on each date to the nearest whole Share.
+^^The Participant shall have all rights and privileges of a stockholder of the Corporation with respect to the Restricted Shares, including voting rights and the right to receive dividends paid with respect to the Restricted Shares, except that the following restrictions shall apply until such time or times as these restrictions lapse under Section 3 or any other provision of this Agreement: 
 
-Accordingly, for the avoidance of doubt:
+^^^the Participant shall not be entitled to delivery of any certificates for any of the Restricted Shares until the restrictions imposed by this Agreement have lapsed with respect to those Restricted Shares; 
 
-^^^if the Participant’s termination is prior to , 20XX, [[Percentage 2: Number]]% of the Granted Shares shall be forfeited to the Company;
+^^^the Restricted Shares may not be sold, transferred, assigned, pledged or otherwise encumbered or disposed of by the Participant before these restrictions have lapsed, except with the consent of the Corporation; and 
 
-^^^if the Participant’s termination is on or after , 20XX, but prior to , 20XX, [[Percentage 3: Number]]% of the Granted Shares shall be forfeited to the Company;
+^^^the Restricted Shares shall be subject to forfeiture upon termination of the Participant’s employment with the Corporation to the extent set forth in Section 6 below. 
 
-^^^if the Participant’s termination is on or after , 20XX, but prior to , 20XX, [[Percentage 4: Number]]% of the Granted Shares shall be forfeited to the Company;
+If any portion of the Restricted Shares become vested under Section 3 below (or Sections 6, 7, 8 or 9), such newly vested shares shall no longer be subject to the preceding restrictions. 
 
-^^^if the Participant’s termination is on or after , 20XX, but prior to , 20XX, [[Percentage 5: Number]]% of the Granted Shares shall be forfeited to the Company;
+^^Any attempt to dispose of Restricted Shares in a manner contrary to the restrictions set forth in this Agreement shall be ineffective. 
 
-^^^if the Participant’s termination is on or after , 20XX, but prior to , 20XX, [[Percentage 6: Number]]% of the Granted Shares shall be forfeited to the Company;
+^**Vesting; When Restrictions Lapse**.  
 
-^^^if the Participant’s termination is on or after , 20XX, but prior to , 20XX, [[Percentage 7: Number]]% of the Granted Shares shall be forfeited to the Company.
+The Restricted Shares shall vest in five annual installments, on , 20 and the next four anniversaries of such date, or at such earlier time as the restrictions may lapse pursuant to Sections 6, 7, 8 or 9 of this Agreement. In the absence of 
 
-And so forth until on or after , 20XX at which time all Granted Shares shall no longer be subject to the Company’s Lapsing Forfeiture Right.
+^^^^^ 
+any accelerated vesting and lapse of the restrictions under Sections 6, 7, 8 or 9, the restrictions set forth in this Agreement shall lapse with respect to the following numbers of shares on the following dates: 
 
-^^ \centered (b) Termination Due to Death. If the Participant’s employment terminates by reason of death, the Company’s Lapsing Forfeiture Right shall terminate as to all of the Granted Shares then subject. 
+\centered 
 
-^^ \centered (c) Termination Due to Disability. If the Participant’s employment terminates by reason of disability (as determined by the Administrator), the Company’s Lapsing Forfeiture Right shall terminate as to all of the Granted Shares then subject. 
+NUMBER OF SHARES DATE    THAT BECOME VESTED , 20    shares 
 
-^^ \centered (d) Effect of a For Cause Termination. Notwithstanding anything to the contrary contained in this Agreement, in the event the Company or a Subsidiary terminates the Participant’s employment or service for “cause”(for purposes hereof, “cause” shall mean a vote by the Board of Directors resolving that the Participant shall be dismissed as a result of (i) any material breach by the Participant of any agreement between the Participant and the Company; (ii) the conviction of or plea of nolo contendere by the Participant to a felony or a crime involving moral turpitude; or (iii) any material misconduct or willful and deliberate non-performance (other than by reason of disability) by the Participant of the Participant’s duties to the Company) or in the event the Board of Directors determines, within one year after the Participant’s termination, that either prior or subsequent to the Participant’s termination the Participant engaged in conduct that would constitute “cause,” all of the Granted Shares (regardless of whether they are then subject to the Company’s Lapsing Forfeiture Right) then held by the Participant shall be forfeited to the Company immediately as of the time the Participant is notified that he or she has been terminated for “cause” or that he or she engaged in conduct which would constitute “cause”. 
+, 20    shares 
 
-The Administrator’s determination of the reason for termination of the Participant’s employment shall be conclusive and binding on the Participant and his or her representatives or legatees.
+, 20    shares 
 
-^^Escrow. The certificates representing all Granted Shares acquired by the Participant hereunder which from time to time are subject to the Lapsing Forfeiture Right shall be delivered to the Company and the Company shall hold such Granted Shares in escrow as provided in this Section 2(e). Upon the request of the Participant, the Company shall promptly release from escrow and deliver to the Participant the whole number of Granted Shares, if any, as to which the Company’s Lapsing
+, 20    shares 
 
-Forfeiture Right has lapsed and without the legend set forth in Section 5. In the event of forfeiture to the Company of Granted Shares subject to the Lapsing Forfeiture Right, the Company shall release from escrow and cancel a certificate for the number of Granted Shares so forfeited. Any securities distributed in respect of the Granted Shares held in escrow, including, without limitation, shares issued as a result of stock splits, stock dividends or other recapitalizations, shall also be held in escrow in the same manner as the Granted Shares.
+, 20    shares  
 
-^^Prohibition on Transfer. The Participant recognizes and agrees that all Granted Shares which are subject to the Lapsing Forfeiture Right may not be sold, transferred, assigned, hypothecated, pledged, encumbered or otherwise disposed of, whether voluntarily or by operation of law, other than to the Company. The Company shall not be required to transfer any Granted Shares on its books which shall have been sold, assigned or otherwise transferred in violation of this Section 2(f), or to treat as the owner of such Granted Shares, or to accord the right to vote as such owner or to pay dividends to, any person or organization to which any such Granted Shares shall have been so sold, assigned or otherwise transferred, in violation of this Section 2(f).
+^**Issuance of Shares**.  
 
-^^Failure to Deliver Granted Shares to be Forfeited. In the event that the Granted Shares to be forfeited to the Company under this Agreement are not in the Company’s possession pursuant to Section 2(e) above or otherwise and the Participant fails to deliver such Granted Shares to the Company, the Company may immediately take such action as is appropriate to transfer record title of such Granted Shares from the Participant to the Company and treat the Participant and such Granted Shares in all respects as if delivery of such Granted Shares had been made as required by this Agreement. The Participant hereby irrevocably grants the Company a power of attorney which shall be coupled with an interest for the purpose of effectuating the preceding sentence.
+The book entry for the Restricted Shares shall bear the following legend: 
 
-^Securities Law Compliance. The Participant specifically acknowledges and agrees that any sales of Granted Shares shall be made in accordance with the requirements of the 1933 Act.
+“The transferability of the shares of stock represented hereby is subject to the terms and conditions (including possible forfeiture) of a Restricted Stock Agreement entered into between the registered owner and [[Corporation]] A copy of such Restricted Stock Agreement is on file in the offices of the Corporate Secretary, [[Corporation]], One SeaGate, Suite 1500, [[Address 1: Address]].” 
 
-^Rights as a Stockholder. The Participant shall have all the rights of a stockholder with respect to the Granted Shares, including voting and dividend rights, subject to the transfer and other restrictions set forth herein and in the Plan.
+Once the restrictions imposed by this Agreement have lapsed with respect to any portion of the Restricted Shares, the book entry for such portion of the Restricted Shares shall be modified to remove the foregoing legend, but not before the Participant has made arrangements satisfactory to the Corporation for tax withholding (as required by Section 5), and the portion of the newly vested shares (if any) that the Participant applies to satisfy his or her tax withholding obligations pursuant to Section 5(b) below shall be transferred to the treasury of the Corporation. 
 
-^Legend. In addition to any legend required pursuant to the Plan, all certificates representing the Granted Shares to be issued to the Participant pursuant to this Agreement shall have endorsed thereon a legend substantially as follows:
+^**Tax Withholding**.  
 
-“The shares represented by this certificate are subject to restrictions set forth in a Restricted Stock Agreement dated as of , 20XX with this Company, a copy of which Agreement is available for inspection at the offices of the Company or will be made available upon request.”
+Whenever the restrictions applicable to all or a portion of the Restricted Shares lapse under the terms of this Agreement, the Corporation shall notify the Participant of the amount of tax that must be withheld by the Corporation under all applicable federal, state and local tax laws. The Participant agrees to make arrangements with the Corporation to (a) remit the required amount to the Corporation in cash, (b) deliver to the Corporation shares of Common Stock currently held by the Participant (including newly vested shares) with a value equal to the required amount, (c) authorize the deduction of the required amount from the Participant’s compensation, or (d) otherwise provide for payment of the required amount in a manner satisfactory to the Corporation. 
 
-^Incorporation of the Plan. The Participant specifically understands and agrees that the Granted Shares issued under the Plan are being sold to the Participant pursuant to the Plan, a copy of which Plan the Participant acknowledges he or she has read and understands and by which Plan he or she agrees to be bound. The provisions of the Plan are incorporated herein by reference.
+^**Termination of Employment; Change in Corporate Control**. 
 
-^Tax Liability of the Participant and Payment of Taxes. The Participant acknowledges and agrees that any income or other taxes due from the Participant with respect to the Granted Shares issued pursuant to this Agreement, including, without limitation, the Lapsing Forfeiture Right, shall be the Participant’s responsibility. Without limiting the foregoing, the Participant agrees that, to the extent that the lapsing of restrictions on disposition of any of the Granted Shares or the declaration of dividends on any such shares before the lapse of such restrictions on disposition results in the Participant’s being deemed to be in receipt of earned income under the provisions of the Code, the Company shall be entitled to immediate payment from the Participant of the amount of any tax required to be withheld by the Company.
+If the Participant’s employment with the Corporation is involuntarily terminated for “Cause” (as defined in the Participant’s Employment Agreement) during the term of this Agreement, or if the Participant voluntarily terminates his or her employment with the Corporation (other than after a Change in Corporate Control (as described below) occurring after the date hereof or as provided in Sections 7, 8 or 9 below), including any termination after the term of the Participant’s Employment Agreement expires by reason of the Participant’s election not to extend the term of the Employment Agreement, any Restricted Shares that remain subject to the restrictions imposed by this Agreement shall be forfeited. 
 
-In connection with the foregoing, the Participant agrees that if an arrangement to pay the withholding obligation in cash has not been received by the Company prior to the date that Granted Shares shall be released from the Lapsing Forfeiture Right, the Company shall authorize a registered broker (the “Broker”) to sell on such date such number of Granted Shares otherwise deliverable to the Participant on that date as the Company instructs the Broker to sell to satisfy the Company’s withholding obligation, after deduction of the Broker’s commission, and the Broker shall remit to the Company the cash necessary in order for the Company to satisfy its withholding obligation. If such sale is not sufficient to pay the withholding obligation the Participant agrees to pay to the Company as soon as practicable, including through additional payroll withholding, the amounts that are not satisfied by the sale of shares of Common Stock. The Participant agrees to hold the Company and the Broker harmless from all costs, damages or expenses relating to any such sale. The Participant acknowledges that the Company and the Broker are under no obligation to arrange for such sale at any particular price. In connection with such sale of Granted Shares, the Participant shall execute any such documents requested by Broker in order to effectuate the sale of the Granted Shares and payment of the withholding obligation to the Company. The Company shall not deliver any of the Granted Shares to the Participant until all withholdings have been made. The Participant acknowledges that this paragraph is intended to comply with Section 10b5-1(c)(1(i)(B) under the Exchange Act of 1934, as amended. Notwithstanding the foregoing, the Company shall have the right to require the withholding obligation to be made in cash instead of through the sale of shares of Common Stock if it reasonably believes that the sale of shares would violate applicable securities laws.
+If the Participant’s employment is terminated involuntarily without Cause, including an involuntary termination without Cause as a result of the Corporation’s election not to extend the term of the Participant’s Employment Agreement, or in the event of a Change in Corporate Control, vesting shall be accelerated, the restrictions imposed by this Agreement on the remaining Restricted Shares shall lapse immediately, and no Restricted Shares shall be forfeited. 
 
-Upon execution of this Agreement, the Participant may file an election under Section 83 of the Code. The Participant acknowledges that if he does not file such an election, as the Granted Shares are released from the Lapsing Forfeiture Right in accordance with Section 2, the Participant will have income for tax purposes equal to the fair market value of the Granted Shares at such date, less the price paid for the Granted Shares by the Participant.
+For purposes of this Section 6, a “Change in Corporate Control” shall have the meaning set forth in the Participant’s Employment Agreement. To the extent that there is a conflict between the definition set forth in the Participant’s Employment Agreement and the definition set forth in the Plan, the definition of “Change in Corporate Control” set forth in the Participant’s Employment Agreement shall control. 
 
-^Equitable Relief. The Participant specifically acknowledges and agrees that in the event of a breach or threatened breach of the provisions of this Agreement or the Plan, including the attempted transfer of the Granted Shares by the Participant in violation of this Agreement, monetary damages may not be adequate to compensate the Company, and, therefore, in the event of such a breach or threatened breach, in addition to any right to damages, the Company shall be entitled to equitable relief in any court having competent jurisdiction. Nothing herein shall be construed as prohibiting the Company from pursuing any other remedies available to it for any such breach or threatened breach.
+^^^^^ 
+^**Effect of Death**.  
 
-^No Obligation to Maintain Relationship. The Company is not by the Plan or this Agreement obligated to continue the Participant as an employee or consultant of the Company or a Subsidiary. The Participant acknowledges: (i) that the Plan is discretionary in nature and may be suspended or terminated by the Company at any time; (ii) that the grant of the Shares is a one-time benefit which does not create any contractual or other right to receive future grants of shares, or benefits in lieu of shares; (iii) that all determinations with respect to any such future grants, including, but not limited to, the times when shares shall be granted, the number of shares to be granted, the purchase price, and the time or times when each share shall be free from a lapsing forfeiture right, will be at the sole discretion of the Company; (iv) that the Participant’s participation in the Plan is voluntary; (v) that the value of the Shares is an extraordinary item of compensation which is outside the scope of the Participant’s employment contract, if any; and (vi) that the Shares are not part of normal or expected compensation for purposes of calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments.
+If the termination of the Participant’s employment occurs as a result of the Participant’s death, vesting shall be accelerated and all of the restrictions imposed on the Restricted Shares by this Agreement shall lapse immediately. 
 
-^Notices. Any notices required or permitted by the terms of this Agreement or the Plan shall be given by recognized courier service, facsimile, registered or certified mail, return receipt requested, addressed as follows:
+^**Effect of Permanent and Total Disability**. 
 
-If to the Company:
+If the termination of the Participant’s employment occurs after a finding of the Participant’s permanent and total disability, vesting shall be accelerated and all of the restrictions imposed on the Restricted Shares by this Agreement shall lapse immediately. 
 
-NeuroMetrix, Inc.
+^**Effect of Retirement**.  
 
-[[Address 1: Address]]
+If the termination of the Participant’s employment occurs as a result of the Participant’s retirement after age 55 and the sum of the Participant’s age and years of service to the Corporation is equal to 65 or more, vesting shall be accelerated and all of the restrictions imposed on the Restricted Shares by this Agreement shall lapse immediately upon retirement, provided that the Participant delivered to the Corporation, at least six months prior to the date of his or her retirement, written notice specifying such retirement date and the Participant remained in the continuous service of the Corporation from the date such notice was provided until his or her retirement date. Such written notice may not be modified or revoked. The Participant’s retirement under any circumstances other than as specified in the preceding provisions of this Section 9 shall result in the immediate forfeiture of all Restricted Shares that remain subject to the restrictions imposed by this Agreement. 
 
-Attn: Stock Administrator
+^**Securities Laws**.  
 
-If to the Participant:
+The Corporation may from time to time impose such conditions on the transfer of the Restricted Shares as it deems necessary or advisable to ensure that any transfers of the Restricted Shares will satisfy the applicable requirements of federal and state securities laws. Such conditions may include, without limitation, the partial or complete suspension of the right to transfer the Restricted Shares until the Restricted Shares have been registered under the Securities Act of 1933, as amended. 
 
-or to such other address or addresses of which notice in the same manner has previously been given. Any such notice shall be deemed to have been given on the earliest of receipt, one business day following delivery by the sender to a recognized courier service, or three business days following mailing by registered or certified mail.
+^**Grant Not to Affect Employment**.  
 
-^Benefit of Agreement. Subject to the provisions of the Plan and the other provisions hereof, this Agreement shall be for the benefit of and shall be binding upon the heirs, executors, administrators, successors and assigns of the parties hereto.
+Neither this Agreement nor the Restricted Shares granted hereunder shall confer upon the Participant any right to continued employment with the Corporation. This Agreement shall not in any way modify or restrict any rights the Corporation may have to terminate such employment under the terms of the Participant’s Employment Agreement with the Corporation. 
 
-^Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without giving effect to the conflict of law principles thereof. For the purpose of litigating any dispute that arises under this Agreement, whether at law or in equity, the parties hereby consent to exclusive jurisdiction in Massachusetts and agree that such litigation shall be conducted in the courts of the Commonwealth of Massachusetts or the federal courts of the United States for the District of Massachusetts.
+^**Miscellaneous**.  
 
-^Severability. If any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, then such provision or provisions shall be modified to the extent necessary to make such provision valid and enforceable, and to the extent that this is impossible, then such provision shall be deemed to be excised from this Agreement, and the validity, legality and enforceability of the rest of this Agreement shall not be affected thereby.
+^^This Agreement may be executed in one or more counterparts, all of which taken together will constitute one and the same instrument. 
 
-^Entire Agreement. This Agreement, together with the Plan, constitutes the entire agreement and understanding between the parties hereto with respect to the subject matter hereof and supersedes all prior oral or written agreements and understandings relating to the subject matter hereof. No statement, representation, warranty, covenant or agreement not expressly set forth in this Agreement shall affect or be used to interpret, change or restrict the express terms and provisions of this Agreement provided, however, in any event, this Agreement shall be subject to and governed by the Plan.
+^^The terms of this Agreement may only be amended, modified or waived by a written agreement executed by both of the parties hereto. 
 
-^Modifications and Amendments; Waivers and Consents. The terms and provisions of this Agreement may be modified or amended as provided in the Plan. Except as provided in the Plan, the terms and provisions of this Agreement may be waived, or consent for the departure therefrom granted, only by written document executed by the party entitled to the benefits of such terms or provisions. No such waiver or consent shall be deemed to be or shall constitute a waiver or consent with respect to any other terms or provisions of this Agreement, whether or not similar. Each such waiver or consent shall be effective only in the specific instance and for the purpose for which it was given, and shall not constitute a continuing waiver or consent.
+^^The validity, performance, construction and effect of this Agreement shall be governed by the laws of the State of Ohio, without giving effect to principles of conflicts of law; provided, however, that matters of corporate law, including the issuance of shares of Common Stock, shall be governed by the Delaware General Corporation Law. 
 
-^Consent of Spouse/Domestic Partner. If the Participant has a spouse or domestic partner as of the date of this Agreement, the Participant’s spouse or domestic partner shall execute a Consent of Spouse/Domestic Partner in the form of Exhibit A hereto, effective as of the date hereof. Such consent shall not be deemed to confer or convey to the spouse or domestic partner any rights in the Granted Shares that do not otherwise exist by operation of law or the agreement of the parties. If the Participant subsequent to the date hereof, marries, remarries or applies to the Company for domestic partner benefits, the Participant shall, not later than 60 days thereafter, obtain his or her new spouse/domestic partner’s acknowledgement of and consent to the existence and binding effect of all restrictions contained in this Agreement by having such spouse/domestic partner execute and deliver a Consent of Spouse/Domestic Partner in the form of Exhibit A.
+**IN WITNESS WHEREOF**, the parties have executed this Agreement on the date and year first above written. 
 
-^Counterparts. This Agreement may be executed in one or more counterparts, and by different parties hereto on separate counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+\centered 
 
-^Data Privacy. By entering into this Agreement, the Participant: (i) authorizes the Company and each Subsidiary, and any agent of the Company or any Subsidiary administering the Plan or providing Plan record keeping services, to disclose to the Company or any of its Subsidiaries such information and data as the Company or any such Subsidiary shall request in order to facilitate the grant of Shares and the administration of the Plan; (ii) waives any data privacy rights he or she may have with respect to such information; and (iii) authorizes the Company and each Subsidiary to store and transmit such information in electronic form.
+**ATTEST:**        [[Corporation]] 
 
-\centered [THE NEXT PAGE IS THE SIGNATURE PAGE]
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
-
-NEUROMETRIX, INC.
-
-[[NEUROMETRIX INC. Signatory Email: Identity | Signature]]
+[[ATTEST        Corporation Signatory Email: Identity | Signature]]
 __________________________________________
-{{NEUROMETRIX INC. Entity => By: [[NEUROMETRIX INC. Signatory First Name]] [[NEUROMETRIX INC. Signatory Last Name]]
-Title: [[NEUROMETRIX INC. Signatory Title]]}}
+{{ATTEST        Corporation Entity => By: [[ATTEST        Corporation Signatory First Name]] [[ATTEST        Corporation Signatory Last Name]]
+Title: [[ATTEST        Corporation Signatory Title]]}}
 
-
-Participant:
-
-Print Name:
-
-EXHIBIT A
-
-\centered CONSENT OF SPOUSE/DOMESTIC PARTNER
-
-^, , spouse or domestic partner of , acknowledge that I have read the RESTRICTED STOCK AGREEMENT dated as of , 20XX (the “Agreement”) to which this Consent is attached as Exhibit A and that I know its contents. Capitalized terms used and not defined herein shall have the meanings assigned to such terms in the Agreement. I am aware that by its provisions the Granted Shares granted to my spouse/domestic partner pursuant to the Agreement are subject to a Lapsing Forfeiture Right in favor of [[Participant]] and that, accordingly, I may be required to forfeit to the Company any or all of the Granted Shares of which I may become possessed as a result of a gift from my spouse/domestic partner or a court decree and/or any property settlement in any domestic litigation.
-
-^hereby agree that my interest, if any, in the Granted Shares subject to the Agreement shall be irrevocably bound by the Agreement and further understand and agree that any community property interest I may have in the Granted Shares shall be similarly bound by the Agreement.
-
-^agree to the Lapsing Forfeiture Right described in the Agreement and I hereby consent to the forfeiture of the Granted Shares to the Company by my spouse/domestic partner or my spouse/domestic partner’s legal representative in accordance with the provisions of the Agreement. Further, as part of the consideration for the Agreement, I agree that at my death, if I have not disposed of any interest of mine in the Granted Shares by an outright bequest of the Granted Shares to my spouse or domestic partner, then the Company shall have the same rights against my legal representative to exercise its rights to the Granted Shares with respect to any interest of mine in the Granted Shares as it would have had pursuant to the Agreement if I had acquired the Granted Shares pursuant to a court decree in domestic litigation.
-
-^AM AWARE THAT THE LEGAL, FINANCIAL AND RELATED MATTERS CONTAINED IN THE AGREEMENT ARE COMPLEX AND THAT I AM FREE TO SEEK INDEPENDENT PROFESSIONAL GUIDANCE OR COUNSEL WITH RESPECT TO THIS CONSENT. I HAVE EITHER SOUGHT SUCH GUIDANCE OR COUNSEL OR DETERMINED AFTER REVIEWING THE AGREEMENT CAREFULLY THAT I WILL WAIVE SUCH RIGHT.
-
-Dated as of the day of , 20XX.
-
-Print name:
-
-\centered A-1
+**WITNESS:**        **PARTICIPANT:**

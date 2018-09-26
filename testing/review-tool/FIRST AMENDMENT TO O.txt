@@ -1,25 +1,99 @@
-\centered **FIRST AMENDMENT** 
+\centered **FIRST AMENDMENT TO OFFICE BUILDING LEASE**
 
-\centered **TO** 
+**THIS FIRST AMENDMENT TO OFFICE BUILDING LEASE** (this “Amendment”) is made and entered into this [[Date 1: Date]], by and between [[Landlord]], a [[State of Formation: State]] [[Organization: EntityType]] (hereinafter referred to as “Landlord”) and AMERICAN TELECONFERENCING SERVICES, LTD., DBA PREMIERE GLOBAL SERVICES (hereinafter referred to as “Tenant”).
 
-\centered **OFFICER EMPLOYMENT AGREEMENT** 
+\centered **WITNESSETH:**
 
-Pursuant to Section 14 of the Officer Employment Agreement effective as of (the “Agreement”) entitled “Waiver; Modification,” the parties to the Agreement hereby modify the Agreement as provided below. 
+WHEREAS, Landlord and Tenant entered into that certain Office Building Lease, dated as of [[Date 2: Date]] (the “Lease”);
 
-**Section 6(b)(ii) shall be amended by deleting the second sentence thereto and by replacing it with the following sentence:** 
+WHEREAS, Landlord and Tenant desire to confirm certain dates set forth in the Lease and to make those certain other changes set forth herein;
 
-Such payment shall be made, in the Company’s sole discretion, either (1) in accordance with normal payroll procedures applicable to senior executive officers at the time of such termination; (2) in a single lump sum payment; or (3) in a combination of normal payroll procedures followed by a lump sum payment for the balance of the payment; provided, that, in all cases, all payments shall be completed within the taxable year in which the Officer terminates employment, or such later time as permitted under Section 409A of the Internal Revenue Code or its successor and the guidance provided by the Internal Revenue Service or Department of Treasury, such that the amount paid shall not be considered “deferred compensation” within the meaning of Section 409A. 
+**NOW, THEREFORE**, for and in consideration of TEN DOLLARS ($10.00) and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto for themselves and their successors and assigns do hereby agree as follows:
 
-All other provisions of the Agreement shall remain in full force and unamended. 
+^Definitions. Any capitalized terms not defined herein shall have the meaning as set forth in the Lease.
 
-Dated this 1st day of February of 2005. 
+^Commencement Date. The Commencement Date of the Lease shall be [[Date 3: Date]].
+
+^Expiration Date. The Expiration Date of the Lease shall be [[Date 4: Date]].
+
+^Existing FF&E. Section 4.b of the Lease is hereby deleted in its entirety and replaced with the following:
+
+“Pursuant to the terms of this Section, Landlord will transfer to Tenant ownership of certain of the Systems Panel Furniture cubicles currently located in Suites D4 and D5 on the 4th and 5th floors of Building D. Within thirty (30) days after the date of this Amendment, Landlord, at its sole cost and expense, will relocate the System Panel Furniture cubicles in D4 to Suite D5 on the 5th floor of Building D. Any damaged cubicles will be removed by Tenant within the above thirty (30) day period and discarded at Tenant’s sole cost and expense. Following the relocation of the cubicles from Suite D4 to Suite D5 pursuant to this Section, Tenant shall be the owner of all of the cubicles located in Suite D5 and such cubicles shall be referred to herein as the “Existing FF&E.” Landlord will store the Existing FF&E in Suite D5 through [[Date 5: Date]] at no charge to Tenant. Following [[Date 5]], Tenant may elect to extend such storage period on a month-to-month basis (but not to exceed ninety (90) days (such extension period is referred to in this paragraph as the “Extension Period”)), provided that (x) Tenant shall provide Landlord written notice of such extension of the storage period no later than [[Date 6: Date]], and (y) Tenant shall pay to Landlord, as Additional Rent, $[[USD Value 12: Number]] per month per square foot of storage space leased. For purposes of calculating such Additional Rent (whether pursuant to this paragraph or last grammatical paragraph of this Section), the “storage space leased” shall mean the actual square footage occupied by the Existing FF&E. During the Extension Period, either party shall have the right to terminate the term of Tenant's storage rights by giving at least thirty (30) days notice to the other; however, the effective date of any such termination shall not be any earlier than [[Date 7: Date]].
+
+Prior to [[Date 5]], or the expiration of the Extension Period (if exercised), Tenant shall relocate the Existing FF&E to the Premises at its sole cost and expenses. Tenant shall provide Landlord no less than five (5) business days notice of the intended relocation. At any time prior to [[Date 5]], or during the Extension Period (if exercised), Landlord shall have the one (1) time right, upon thirty (30) days prior written notice to Tenant, to require Tenant to relocate the Existing FF&E to a location or locations identified by Landlord in Building D at Tenant’s sole cost and expenses.
+
+Tenant shall have sole liability for any damage that occurs to the Existing FF&E while it is being stored outside of the Premises. Except as otherwise provided herein, Tenant shall accept the Existing FF&E in its “as-is” condition. Landlord represents and warrants that Landlord owns the Existing FF&E free and clear of all liens and encumbrances. Tenant shall protect, defend, indemnify and hold Landlord harmless from and against any and all claims, losses and liabilities in any way arising or resulting from or in connection with the Existing FF&E which arise after the delivery of the Premises to Tenant.
+
+The Existing FF&E shall be included in the definition of “Tenant’s Property” in Section 13.2 of the Lease, and may be removed by Tenant at any time during the Term, subject to the provisions of Section 13.2 of the Lease. Prior to the expiration or earlier termination of the Lease, Tenant shall remove the Existing FF&E from the Premises at its sole cost and expense. Tenant shall be responsible for disposing of any of the Existing FF&E it will not use at Tenant's sole cost and expense within the time frames provided above.
+
+Unless Landlord allows Tenant in writing, at Landlord’s sole discretion, to remain at the storage space on a month to month basis on the same terms and conditions as provided above, if Tenant fails to surrender the storage space by [[Date 5]], or upon expiration or earlier termination of the Extension Period if extended as provided above, the Additional Rent for such storage space shall immediately be $[[USD Value 13: Number]] per month per square foot of storage space leased and the leasing of such storage space shall be terminable at will at any time by Landlord upon notice to Tenant. Additionally, in the event of such holdover, Landlord shall have all of its rights set forth in Section 18 of the Lease.
+
+^Base Rent. The definition of Base Rent in Section 2.a of the Lease is hereby deleted in its entirety and replaced with the following:
+
+“***Base Rent***:
+
+**Period**   **Annual Base Rent (Per Sq. Ft. Rentable Area)**   **Monthly Base Rent**
+[[Date 8: Date]]  [[Date 9: Date]]   $11.25   $[[USD Value 1: Number]]
+[[Date 10: Date]]  [[Date 11: Date]]   $11.75   $[[USD Value 2: Number]]
+[[Date 12: Date]]  [[Date 13: Date]]   $12.25   $[[USD Value 3: Number]]
+[[Date 14: Date]]  [[Date 15: Date]]   $12.75   $[[USD Value 4: Number]]
+
+**Period**   **Annual Base Rent (Per Sq. Ft. Rentable Area)**   **Monthly Base Rent**
+[[Date 16: Date]]  [[Date 17: Date]]   $13.25   $[[USD Value 5: Number]]
+[[Date 18: Date]]  [[Date 19: Date]]   $13.75   $[[USD Value 6: Number]]
+[[Date 20: Date]]  [[Date 21: Date]]   $14.25   $[[USD Value 7: Number]]
+[[Date 22: Date]]  [[Date 23: Date]]   $14.75   $[[USD Value 8: Number]]
+[[Date 24: Date]]  [[Date 25: Date]]   $15.25   $[[USD Value 9: Number]]
+[[Date 26: Date]]  [[Date 27: Date]]   $15.75   $[[USD Value 10: Number]]
+[[Date 28: Date]]  [[Date 4]]   $16.25   $[[USD Value 11: Number]]
+
+> The foregoing schedule is based upon [[Date 8]] being the Rent Commencement Date. In the event that the actual Rent Commencement Date occurs before [[Date 8]], the parties shall execute an amendment to modify this schedule accordingly. However, in no event shall the Expiration Date change due to the Rent Commencement Date occurring prior to [[Date 8]].”
+
+^Reduction Date. Subject to the terms of Section 7, the first Reduction Date pursuant to Section 7.4 shall be [[Date 29: Date]], and subsequent Reduction Dates shall occur on each anniversary of such date for the remainder of the Term.
+
+^Exercise of Options to Extend. The dates within which Tenant may deliver an Interest Notice to exercise the Options pursuant to Section 40.3 shall be as follows: for the first Option Term, Tenant shall deliver the Interest Notice from and including [[Date 30: Date]] through and including [[Date 31: Date]]; for the second Option Term, Tenant shall deliver the Interest Notice from and including [[Date 32: Date]] through and including [[Date 33: Date]].
+
+^Notice for Building Manager. The following is hereby added to Section 30 of the Lease:
+
+“The mailing address for the Building manager is as follows:
+
+Brett Laplante
+
+Manager, Real Estate Operations
+
+[[Address 1: Address]]”
+
+^Landlord’s Mailing Address. Landlord’s Mailing Address set forth following Section 2.f of the Lease is hereby deleted and replaced with the following:
+
+“Landlord’s Mailing Address:   Verizon Portfolio Management
+Attn: Lease Administration
+[[Address 2: Address]]
+Mail Code FLG1-300 - CSPRCO
+
+With copy to:   [[Landlord]]
+15505 Sand Canyon Drive
+Building C
+[[Address 3: Address]]
+Attn: Manager, Real Estate, West Area
+
+^Miscellaneous. Landlord and Tenant hereby ratify and affirm the Lease, except as amended hereby. The Lease, as amended hereby, constitutes the entire agreement of Landlord and Tenant with respect to the subject matter herein. This Amendment may be executed in several counterparts, each of which when so executed and delivered shall be an original, but such counterparts shall together constitute one and the same Amendment. This Amendment may be executed by each party upon a separate copy, and one or more execution pages may be detached from one copy of this Amendment and attached to another copy in order to form one or more counterparts. Signature pages exchanged by facsimile shall be fully binding.
+
+[Signature page follows]
+
+**IN WITNESS WHEREOF**, Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written.
 
 
 
-[[Dated this 1st day of February of 2005. Signatory Email: Identity | Signature]]
+[[IN WITNESS WHEREOF Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Dated this 1st day of February of 2005. Entity => By: [[Dated this 1st day of February of 2005. Signatory First Name]] [[Dated this 1st day of February of 2005. Signatory Last Name]]
-Title: [[Dated this 1st day of February of 2005. Signatory Title]]}}
+{{IN WITNESS WHEREOF Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written. Entity => By: [[IN WITNESS WHEREOF Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written. Signatory First Name]] [[IN WITNESS WHEREOF Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written. Signatory Last Name]]
+Title: [[IN WITNESS WHEREOF Landlord and Tenant have caused this Amendment to be executed as of the date and year first above written. Signatory Title]]}}
 
 
-OFFICER
+**TENANT:**  **AMERICAN TELECONFERENCING SERVICES, LTD.,** dba Premiere Global Services
+
+[[TENANT  AMERICAN TELECONFERENCING SERVICES LTD. dba Premiere Global Services Signatory Email: Identity | Signature]]
+__________________________________________
+{{TENANT  AMERICAN TELECONFERENCING SERVICES LTD. dba Premiere Global Services Entity => By: [[TENANT  AMERICAN TELECONFERENCING SERVICES LTD. dba Premiere Global Services Signatory First Name]] [[TENANT  AMERICAN TELECONFERENCING SERVICES LTD. dba Premiere Global Services Signatory Last Name]]
+Title: [[TENANT  AMERICAN TELECONFERENCING SERVICES LTD. dba Premiere Global Services Signatory Title]]}}
+

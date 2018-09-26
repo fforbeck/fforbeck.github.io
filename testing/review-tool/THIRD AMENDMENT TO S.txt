@@ -1,0 +1,70 @@
+\centered **THIRD AMENDMENT TO** 
+
+\centered **SCHNITZER NORTH CREEK** 
+
+\centered **LEASE AGREEMENT** 
+
+THIS THIRD AMENDMENT TO SCHNITZER NORTH CREEK LEASE AGREEMENT (this “Amendment”) is dated for reference purposes as of the [[Date 1: Date]], by and between **[[Landlord]]**, a [[State of Formation: State]] [[Organization: EntityType]]** (“Landlord”), and **[[Tenant]]**, a [[State of Formation: State]] [[Organization: EntityType]]** (“Tenant”). 
+
+\centered RECITALS 
+
+^Landlord and Tenant’s predecessor in interest, LUMERA CORPORATION, a Delaware corporation (“Lumera”), entered into that certain Schnitzer North Creek Lease Agreement dated [[Date 2: Date]], as amended by a First Amendment to Lease dated [[Date 3: Date]], and a Second Amendment to Lease dated [[Date 4: Date]] (as amended, the “Lease”), for the lease of certain premises consisting of approximately 31,739 rentable square feet in Suite 100 of Building F, Schnitzer North Creek Tech Campus I, 19910 North Creek Parkway, [[Address 1: Address]] (the “Premises”). Lumera’s interest in the Lease was transferred to Tenant pursuant to a merger transaction consented to by Landlord in that certain Landlord’s Consent to Assignment of Lease in Connection with Merger dated [[Date 5: Date]] (the “Consent”). 
+
+^Landlord and Tenant desire to amend the Lease as set forth below. 
+
+Now, therefore, for valuable consideration, the parties agree as follows: 
+
+^Defined Terms. Unless otherwise defined in this Amendment, capitalized terms used herein shall have the same meaning as they are given in the Lease. 
+
+^Reduction in Premises. Commencing effective on [[Date 6: Date]] (the “Effective Date”), the Premises shall be reduced to 11,666 rentable square feet of space consisting of the area shown on **Exhibit A** attached hereto. Prior to the Effective Date, Tenant shall (i) vacate and surrender to Landlord the space being removed from the Premises (the “Returned Space”) in broom clean condition with Tenant’s personal property, furniture, and trade fixtures removed (except that Tenant shall leave the existing conference room tables in place), and with all Hazardous Materials therein (if any) remediated in accordance with the terms of Section 10.02 of the Lease, and (ii) remove Tenant’s exterior Building signage and repair and restore any damage caused by such removal in accordance with the terms of the Lease. Tenant represents and warrants that the Returned Space will be surrendered to Landlord free from any Hazardous Materials brought upon, kept, generated or used by Tenant. 
+
+^Extension of Term. In connection with Tenant’s Option to Extend pursuant to Section 4.03 of the Lease, the Term of the Lease is hereby extended through [[Date 7: Date]]. The period of time from the Effective Date through [[Date 7]] is referred to in this Amendment as the “New Term”. 
+
+^Base Rent. 
+
+^^The Base Rent for the Premises for the period of [[Date 8: Date]], through [[Date 9: Date]], shall be as follows: 
+
+**Months**      **Monthly Installment**
+4/1/10  1/31/11      $   39,569.70
+
+^^The Base Rent for the Premises during the New Term shall be as follows: 
+
+**Months**      **Monthly Installment**
+2/1/11  1/31/12      $   16,526.83
+2/1/12  1/31/13      $   17,012.92
+2/1/13  1/31/14      $   17,499.00
+2/1/14  3/31/14      $   17,985.08
+
+^Tenant’s Share. For the purposes of determining “Tenant’s Share” during the New Term, Tenant’s Share of the Building shall be [[Percentage 1: Number]]% and Tenant’s Share of the Project shall be [[Percentage 2: Number]]%. 
+
+^Letter of Credit. Landlord currently holds a Letter of Credit (the “LC”) pursuant to Section 5.05 of the Lease in the amount of $[[USD Value 1: Number]]. Upon the date of mutual execution of this Amendment, Tenant may reduce the amount of the LC to $[[USD Value 2: Number]]. In addition, provided that Tenant has never been in default under the Lease (as amended by this Amendment) at any time during the New Term, the LC may be further reduced by Tenant by an additional $[[USD Value 3: Number]] on [[Date 10: Date]], [[Date 11: Date]], [[Date 12: Date]], and [[Date 13: Date]] (such that, absent any default by Tenant, the LC will be $[[USD Value 4: Number]] as of [[Date 14: Date]]). Tenant shall pay all costs associated with the reduction of the LC. 
+
+^Parking. During the New Term, Tenant shall have the right to use a total of 35 uncovered, unreserved surface parking spaces in the Project. 
+
+^No Option to Extend. Tenant shall not have the option to extend the Term beyond the expiration of the New Term and Section 4.03 of the Lease entitled “Option to Extend” is hereby deleted. 
+
+^No Exterior Sign. Notwithstanding the terms of Section 10.03 of the Lease to the contrary, Tenant shall not have the right to install a sign on the Building exterior during the New Term. 
+
+^Real Estate Agency. Tenant and Landlord warrant that neither party has had any discussions, negotiations and/or other dealings with any real estate broker or agent, and that they know of no real estate broker or agent who is or may be entitled to any commission or finder’s fee in connection with this Amendment. Landlord and Tenant agree and confirm that no leasing commissions are due or payable with respect to this Amendment. 
+
+^Lender Protection. If, in connection with obtaining approval of this Amendment by Landlord’s lender, Landlord’s lender shall request that Landlord and/or Tenant execute additional documentation as a condition to such approval, Tenant shall not unreasonably withhold, delay or defer its consent to and/or execution of such documentation, provided such documentation does not materially adversely affect Tenant’s rights under this Amendment. 
+
+^Financial Status. This Amendment is contingent upon Landlord’s verification that Tenant has approximately $[[USD Value 5: Number]] in cash as evidenced by Tenant’s balance sheet as of [[Date 15: Date]]. This contingency may be waived or satisfied by Landlord in Landlord’s sole discretion. 
+
+^Ratification. Except as set forth herein, the Lease shall remain in full force and effect and is hereby ratified by Landlord and Tenant. 
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first above written. 
+
+“Landlord”            “Tenant”
+
+S/I NORTH CREEK III            **[[Tenant]]**
+
+[[S/I NORTH CREEK III            Tenant Signatory Email: Identity | Signature]]
+__________________________________________
+{{S/I NORTH CREEK III            Tenant Entity => By: [[S/I NORTH CREEK III            Tenant Signatory First Name]] [[S/I NORTH CREEK III            Tenant Signatory Last Name]]
+Title: [[S/I NORTH CREEK III            Tenant Signatory Title]]}}
+
+
+\centered EXHIBIT A 
+
+\centered REDUCED PREMISES LOCATION 

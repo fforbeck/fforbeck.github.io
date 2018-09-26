@@ -1,0 +1,28 @@
+[[Date 1: Date]]   
+Citibank, N.A. 
+[[Address 1: Address]]-3702 
+Attention: Gina Losito 
+[[Email 1]]  
+Ladies and Gentlemen:  
+This letter shall constitute notice pursuant to Section 2.4(a) of the Amended & Restated Omnibus Credit Agreement, dated as of [[Date 2: Date]] (as amended by Amendment No.1 dated as of [[Date 3: Date]], and as the same may be further amended, supplemented, restated or otherwise modified from time to time, the “**Agreement**”), by and among (i) The Student Loan Corporation, as borrower, (ii) Citibank, [[State of Formation: State]] [[Organization: EntityType]] capacity but solely in its separate capacity as the Trustee under the Trust Agreement referred to in the Agreement, solely for purposes of the sections of the Agreement specified therein, and (iv) the Non-Securitization Subsidiaries that become parties to the Agreement from time to time pursuant to Joind er Agreements, that the Commitment with respect to Private Loan Funding shall be reduced to $[[USD Value 1: Number]] effective as of [[Date 4: Date]].
+
+Capitalized terms used and not defined herein have the meanings set forth or incorporated by reference in the Agreement.
+
+\centered THE STUDENT LOAN CORPORATION 
+[[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+
+cc: Citibank, N.A. 
+[[Address 1: Address]]-3702 
+Attention: Bob Kohl 
+[[Email 2]]  
+Citibank, N.A. 
+[[Address 1: Address]]-3702 
+Attention: Madelyn Arroyo 
+[[Email 3]]  
+Citibank, N.A. 
+[[Address 2: Address]] 
+Attention: SLC Trust – Credit Agreement

@@ -1,0 +1,102 @@
+[[Date 1: Date]] 
+
+\centered FARMER BROS. CO. 
+
+\centered 20333 South Normandie Avenue 
+
+\centered [[Address 1: Address]] 
+
+Wells Fargo Bank, National Association, 
+
+successor by merger to Wachovia Bank, 
+
+National Association 
+
+[[Address 2: Address]] 
+
+Attention: Portfolio Manager 
+
+Re:   Waiver of Event of Default
+
+Ladies and Gentlemen: 
+
+Wells Fargo Bank, National Association, successor by merger to Wachovia Bank, National Association (“Lender”) has made and may make loans and advances and provide other financial accommodations to Farmer Bros. Co., a Delaware corporation (as surviving corporation of the merger with FBC Realty formerly known as SL Realty, a Delaware limited liability company, “Farmer”) and Coffee Bean International, Inc., an Oregon corporation (“CBI” and together with Farmer, each individually a “Borrower” and collectively, “Borrowers”), Coffee Bean Holding Co., Inc., a Delaware corporation (“Coffee Holding”), FBC Finance Company, a California corporation (“Finance” and together with Coffee Holding, each individually a “Guarantor” and collectively, “Guarantors”) pursuant to the Loan Agreement (as hereinafter defined), by and among Borrowers, Guarantors and Lender (as the same now exists or may hereafter be further amended, [[Loan Agreement]] “Loan Agreement”), and the other agreements, documents and instruments referred to therein or at any time executed and/or delivered in connection therewith or related thereto (all of the foregoing, together with the Loan Agreement, as the same now exist or may hereafter be amended, modified, supplemented, extended, renewed, restated or replaced, being collectively referred to herein as the “Financing Agreements”). All capitalized terms used herein shall have the meaning assigned thereto in the Loan Agreement, unless otherwise defined herein. 
+
+Borrowers and Guarantors have requested that Lender waive an Event of Default, and Lender is willing to agree to such waiver, subject to the terms and conditions set forth herein. 
+
+Accordingly, Borrowers, Guarantors and Lender hereby agree as follows: 
+
+^Waiver of Event of Default. Subject to the satisfaction of each of the conditions precedent set forth herein, Lender hereby waives any Event of Default under Section 10.1(a)(iii) of the Loan Agreement arising as a result of the failure of Borrowers and Guarantors to comply with the provisions of Section 9.18 of the Loan Agreement for the periods ending [[Date 2: Date]] and [[Date 3: Date]] (the “Specified Event of Default”). 
+
+^Effect of Waivers. Lender has not waived and is not by this agreement waiving, and has no present intention of waiving, any other Event of Default, which may have occurred prior to the date hereof, or may be continuing on the date hereof or any Event of Default which may occur after the date hereof, other than the Specified Event of Default, whether the same or similar to the Specified Event of Default or otherwise. Lender reserves the right, in its discretion, to exercise any or all of its or its rights and remedies arising under the Financing Agreements, applicable law or otherwise, as a result of any other Event of Default which may have occurred prior to the date hereof, or is continuing on the date hereof, or any Event of Default which may occur after the date hereof, whether the same or similar to the Specified Event of Default. 
+
+^Representations, Warranties and Covenants. Borrowers and Guarantors represent, warrant and covenant with and to Lender as follows, which representations, warranties and covenants are continuing and shall survive the execution and delivery hereof, the truth and accuracy of, or compliance with each, together with the representations, warranties and covenants in the Loan Agreement and the other Financing Agreements, being a continuing condition of the making or providing of any Loans by Lender to Borrowers: 
+
+^^this letter agreement has been duly executed and delivered by Borrowers and Guarantors and the agreements and obligations of Borrowers and Guarantors contained herein constitute legal, valid and binding obligations of Borrowers and Guarantors enforceable against Borrowers and Guarantors in accordance with their respective terms; and 
+
+^^after giving effect to the waiver of the Specified Event of Default, no Default or Event of Default has occurred and is continuing, including without limitation any default in the payment of principal, interest or fees under the Financing Agreements. 
+
+^Conditions Precedent. The waiver contained herein shall only be effective upon the satisfaction of each of the following conditions precedent in a manner satisfactory to Lender: 
+
+^^Lender shall have received executed original counterparts of this letter agreement, duly authorized, executed and delivered by the Borrowers and Guarantors; and 
+
+^^after giving effect to the waiver of the Specified Event of Default, no Default or Event of Default has occurred and is continuing, including without limitation any default in the payment of principal, interest or fees under the Financing Agreements. 
+
+^Binding Effect. This letter agreement shall be binding upon and inure to the benefit of each of the parties hereto and their respective successors and assigns. 
+
+^Governing Law. The validity, interpretation and enforcement of this letter agreement and any dispute arising out of the relationship between the parties hereto, whether in contract, tort, equity or otherwise, shall be governed by the internal laws of the State of California but excluding any principles of conflicts of law or other rule of law that would cause the application of the law of any jurisdiction other than the laws of the State of California. 
+
+^Counterparts. This letter agreement may be executed in any number of counterparts, each of which shall be an original, but all of which taken together shall constitute one and the same agreement. Delivery of an executed counterpart of this letter agreement by telefacsimile or other electronic method of transmission s shall have the same force and effect as the delivery of an original executed counterpart of this letter agreement. Any party delivering an executed counterpart of this letter agreement by telefacsimile or other electronic method of transmission shall also deliver an original executed counterpart of this letter agreement, but the failure to do so shall not affect the validity, enforceability, and binding effect of this letter agreement. 
+
+\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+
+[[Loan Agreement Signatory Email: Identity | Signature]]
+__________________________________________
+{{Loan Agreement Entity => By: [[Loan Agreement Signatory First Name]] [[Loan Agreement Signatory Last Name]]
+Title: [[Loan Agreement Signatory Title]]}}
+
+Very truly yours,
+
+FARMER BROS. CO.
+
+[[FARMER BROS. CO. Signatory Email: Identity | Signature]]
+__________________________________________
+{{FARMER BROS. CO. Entity => By: [[FARMER BROS. CO. Signatory First Name]] [[FARMER BROS. CO. Signatory Last Name]]
+Title: [[FARMER BROS. CO. Signatory Title]]}}
+
+
+COFFEE BEAN INTERNATIONAL, INC.
+
+[[COFFEE BEAN INTERNATIONAL INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{COFFEE BEAN INTERNATIONAL INC. Entity => By: [[COFFEE BEAN INTERNATIONAL INC. Signatory First Name]] [[COFFEE BEAN INTERNATIONAL INC. Signatory Last Name]]
+Title: [[COFFEE BEAN INTERNATIONAL INC. Signatory Title]]}}
+
+
+COFFEE BEAN HOLDING CO., INC.
+
+[[COFFEE BEAN HOLDING CO. INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{COFFEE BEAN HOLDING CO. INC. Entity => By: [[COFFEE BEAN HOLDING CO. INC. Signatory First Name]] [[COFFEE BEAN HOLDING CO. INC. Signatory Last Name]]
+Title: [[COFFEE BEAN HOLDING CO. INC. Signatory Title]]}}
+
+
+FBC FINANCE COMPANY
+
+[[FBC FINANCE COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{FBC FINANCE COMPANY Entity => By: [[FBC FINANCE COMPANY Signatory First Name]] [[FBC FINANCE COMPANY Signatory Last Name]]
+Title: [[FBC FINANCE COMPANY Signatory Title]]}}
+
+
+AGREED:
+
+WELLS FARGO BANK, NATIONAL ASSOCIATION, successor by merger to Wachovia Bank, National Association
+
+[[WELLS FARGO BANK NATIONAL ASSOCIATION successor by merger to Wachovia Bank National Association Signatory Email: Identity | Signature]]
+__________________________________________
+{{WELLS FARGO BANK NATIONAL ASSOCIATION successor by merger to Wachovia Bank National Association Entity => By: [[WELLS FARGO BANK NATIONAL ASSOCIATION successor by merger to Wachovia Bank National Association Signatory First Name]] [[WELLS FARGO BANK NATIONAL ASSOCIATION successor by merger to Wachovia Bank National Association Signatory Last Name]]
+Title: [[WELLS FARGO BANK NATIONAL ASSOCIATION successor by merger to Wachovia Bank National Association Signatory Title]]}}
+
+
+[Waiver Letter]

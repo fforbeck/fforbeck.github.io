@@ -1,0 +1,21 @@
+\centered **FORM OF RESTRICTED UNIT AWARD AGREEMENT**
+
+This agreement (“Agreement”) entered into as of <<GRANT DATE>>, by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (“Company”), and <<NAME>> (“Grantee” or “you”) evidences and confirms the following Restricted Unit Award by the Committee (as defined in the Plan) under the [[Company]] 2000 Restricted Stock Plan for Non-Employee Directors, as amended (the “Plan”). Your Restricted Unit Award is made subject to all the terms and conditions of the Plan, a copy of which is enclosed herewith.
+
+Your Restricted Unit Award consists of <<NUMBER>> Units, which Units shall become earned and payable in cash as the transfer restrictions on the <<RSS NUMBER>> shares of restricted stock awarded to you concurrently herewith (the “Restricted Stock”) pursuant to the Restricted Stock Purchase Agreement by and between you and the Company lapse. Your Restricted Unit Award is subject to the same transfer restrictions and repurchase rights as the Restricted Stock. Each Unit shall be equal in value to the closing price per share at which the common stock of the Company is sold in the regular way on the New York Stock Exchange on the date upon which such Unit becomes earned and payable. The proceeds of this Restricted Unit Award shall be applied in payment of taxes arising from the lapse of restrictions on the Restricted Stock and arising from this award (or portion thereof) becoming earned and payable. Any remaining balance of the proceeds shall be remitted to you.
+
+This Agreement shall be construed, administered and enforced in accordance with the laws of the State of Texas. Except as specifically provided herein, all capitalized terms shall have the meanings set forth in the Plan.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first hereinabove written.
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Carlos M. Hernandez
+Chief Legal Officer & Secretary
+
+Grantee

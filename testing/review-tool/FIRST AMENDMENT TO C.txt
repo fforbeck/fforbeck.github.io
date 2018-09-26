@@ -1,159 +1,191 @@
-\centered FIRST AMENDMENT TO CREDIT AGREEMENT
+\centered **FIRST AMENDMENT TO CREDIT AND SECURITY AGREEMENT**
 
-THIS FIRST AMENDMENT TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is made as of [[Date 1: Date]], as an amendment to that certain Amended and Restated Credit Agreement dated as of [[Date 2: Date]], by and among [[Credit Agreement]] & Dunlop Multifamily, [[Party 2]] & Dunlop GP, Green Park Financial Limited Partnership, Walker & Dunlop, [[Party 2]] & Dunlop, Bank of America, N.A., as Administrative Agent and Collateral Agent, and the Lenders party thereto, as amended (the “Credit Agreement”). Capitalized terms used herein without definition have the meanings specified therefor in the Credit Agreement.
+This First Amendment to Credit and Security Agreement (“Amendment”) is entered into as of [[Date 1: Date]], by and between **[[Borrower]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“Borrower”) and **City National Bank,** a national banking association (“CNB”).
 
-\centered RECITALS
+\centered **RECITALS**
 
-The Loan Parties and WDLLC (collectively, the “Obligor Group”) have requested that the Administrative Agent and the Lenders agree to amend the Credit Agreement, and the Administrative Agent and the Lenders have agreed to do so, on, and subject to, the terms and conditions set forth herein.
+^Borrower and CNB are parties to that certain Credit and Security Agreement, dated as of [[Date 2: Date]] (the “Credit Agreement”).
 
-NOW, THEREFORE, in consideration of the agreements of the parties set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+^Borrower and CNB desire to supplement and amend the Credit Agreement as hereinafter set forth.
 
-^Amendment to Definition of EBITDA. Effective as of the Effective Date (as hereafter defined), the Credit Agreement is hereby amended by amending the definition of EBITDA to read as follows:
+**NOW, THEREFORE,** the parties agree as follows:
 
-“EBITDA” means, at any date of determination thereof, an amount equal to the following, all as determined in accordance with GAAP (net of intercompany transactions and without duplication):
+^**Definitions.** Capitalized terms used in this Amendment without definition shall have the meanings set forth in the Credit Agreement.
 
-^^Net Income for the most recently completed Measurement Period;
+^**Amendments.** The Credit Agreement is amended as follows:
 
-plus
+^^Sections 1.3, 1.5, 1.12, 1.18, 1.19.5, 1.37 and 1.54 are deleted in their entirety and reserved for future use.
 
-^^to the extent deducted in calculating Consolidated Net Income: the sum of (i) depreciation expenses, (ii) amortization and write-offs of Servicing Contracts and (iii) any unrealized losses under the Rate Cap Agreement;
+^^Sections 1.7, 1.17, 1.20, 1.21, 1.23, 1.24, 1.39, 1.47 and 1.53 in the Definitions section are stricken and replaced with the following:
 
-plus
+^^**“Borrowing Base”** will be in an amount, determined by CNB, equal to the lesser of (a) the sum of (i) seventy five percent ([[Percentage 1: Number]]%) of Eligible Recurring Revenues, plus (ii) fifty percent ([[Percentage 2: Number]]%) of the Paid Admission Based Payments, or (b) the Backlog divided by 3. In no event will the Borrowing Base exceed the lesser of the Revolving Credit Commitment.
 
-^^to the extent deducted in calculating Net Income, and to the extent prefunded or to be funded by CGL, the following, to be deducted on a one time basis (i) up to $[[USD Value 1: Number]] in the aggregate, of termination fees and other costs associated with terminating WDLLC’s servicing contract with Capmark and transferring the services previously provided by Capmark to WDLLC, (ii) up to $[[USD Value 2: Number]] in the aggregate, in compensation expenses associated with WDLLC employment of former employees of CGL, (iii) up to $[[USD Value 3: Number]], in the aggregate, of losses arising out of CGL’s Servicing Portfolio, and (iv) up to $[[USD Value 4: Number]], in the aggregate, of professional fees incurred in connection with the Transaction,
+^^**“EBITDA”** will be determined on a consolidated basis for Borrower and the Subsidiaries, in accordance with GAAP, and means the sum of (a) net income after eliminating extraordinary gains and losses, plus (b) interest expense, plus (c) provisions for income taxes, plus (d) property and use taxes not reimbursed to Borrower, plus (e) depreciation and amortization, plus (f) monitoring fees (in an aggregate amount not to exceed $[[USD Value 1: Number]] per year) paid by Borrower to Shamrock, plus (g) restructuring charges, severance costs and reserves (including restructuring charges relating to acquisitions and the consolidation of facilities), plus (h) impairment of long lived assets, each of such items determined based on the months in the fiscal period ending on the date of determination.
 
-plus
+^^**“Eligible Period”** means, for any measurement date, (a) for purposes of calculating the Borrowing Base, the twelve (12) month period beginning on the measurement date, and (b) for purposes of calculating the Backlog, the thirty-six (36) month period beginning on the measurement date.
 
-^^to the extent deducted in calculating Net Income, and to the extent prefunded or to be funded by CGL, the following, to be deducted for calendar year 2009 only
+^^**“Eligible Recurring Revenues”** means, for any Eligible Period, the sum of Release Based Payments plus Scheduled License Payments.
 
-^up to $[[USD Value 5: Number]] in the aggregate, of operating deficits assumed by WDLLC in respect of CGL’s FHA lending operation, and (ii) up to $[[USD Value 6: Number]], in the aggregate, of non-cash leasing expenses.
+^^**“Facility Fee”** is $[[USD Value 2: Number]]
 
-plus
+^^**“Fixed Charges”** means, as of the date of determination, the sum (without duplication) of (a) the aggregate amount of Current Maturity of Long-Term Debt (“Current Maturity of Long-Term Debt” means that portion Borrower’s consolidated long-term liabilities, determined in accordance with GAAP for borrowed money, which will, by the terms thereof, become due and payable within one (1) year following the date of the balance sheet upon which such calculations are based; provided, however, that the outstanding principal balance of the Loans due and payable within such one (1) year period shall not be included in Fixed Charges), plus (b) all interest incurred on borrowed money, plus (c) provisions for income taxes, plus (d) all capital expenditures for maintenance, other than any costs related to the roll-out of new **[[Borrower]]** 3-D theater systems, each of such items to be determined based on the number of months elapsed in the fiscal period ending on the date of determination. Capital expenditures for maintenance will specifically exclude (i) any replacement of Z Screens with XLs (i.e., upgrades), and (ii) any purchases of Digital Link Projectors and servers. The provision for income taxes will specifically exclude sales and use taxes and property taxes.
 
-^^to the extent deducted in calculating Net Income, an amount equal to any Passed-Through Interest Distributions made during the applicable Measurement Period.
+^^**“Paid Admission Based Payments”** means, for an Eligible Period, with respect to those Eligible License Agreements under which royalty payments are based on an admission fee for each paid admission for each Screen for each motion picture the estimated box office receipts shown on the Paid Admission Based Payments Schedule provided by Borrower to CNB.
 
-minus
+^^**“Revolving Credit Commitment”** or **“Commitment”** means CNB’s commitment to make the Loans in the aggregate principal amount outstanding at any one time of up to (a) Fifteen Million Dollars ($[[USD Value 3: Number]]) if the minimum number of Screens is less than 3,300, (b) Twenty Million Dollars ($[[USD Value 4: Number]]) if the minimum number of Screens equals or exceeds 3,300 but are less than 3,450, and (c) Twenty Five Million Dollars ($[[USD Value 5: Number]]) if the minimum number of Screens equals or exceeds 3,450.
 
-^^to the extent included in calculating Net Income, (i) capitalized amounts attributable to origination of Servicing Contract rights and (ii) cash received under the Rate Cap Agreement and any unrealized gains under the Rate Cap Agreement.
+^^**“Termination Date”** means the earlier to occur of (a) [[Date 3: Date]], or (b) the Initial Public Offering Date, unless the term of this Agreement is renewed by CNB for an additional period under Section 3, or such earlier terminated date under Section 9.3 upon the occurrence of an Event of Default. Upon any renewal, the Termination Date will be the renewed maturity date determined by CNB.
 
-^Obligor Group Acknowledgments. Each member of the Obligor Group acknowledges, confirms and agrees that:
+^^New Sections 1.55, 1.56, 1.57, 1.58, 1.59 and 1.60 are added as follows:
 
-^^Except as provided herein, the terms and conditions of the Credit Agreement and the other Loan Documents (each, as previously amended to the date hereof) remain in full force and effect, and each hereby (x) ratifies, confirms and reaffirms all and singular of the terms and conditions of the Credit Agreement and the other Loan Documents applicable to such Person, and (y) represents and warrants that:
+^^**“Backlog”** means, for an Eligible Period, an amount, determined by CNB, equal to the sum of (a) one hundred percent ([[Percentage 3: Number]]%) of Eligible Recurring Revenues plus (b) fifty percent ([[Percentage 2]]%) of the Paid Admission Based Payments shown on the Paid Admission Based Payments Schedule; provided, however, that the amount of
 
-^^^no Default or Event of Default exists as of the date such Person executes this Amendment, nor will a Default or Event of Default exist as of the Effective Date.
+Released Based Payments included in Eligible Recurring Revenues shall be based on a maximum number of 5,000 Screens for any motion picture. For the purposes of this calculation, all 3-D motion pictures that are announced by studios to occur with releases scheduled shall be included, even if the release has been scheduled for a period (e.g. Christmas 2011 or Summer 2012) rather than a specific date, and the related box office receipts (whether estimated or actual) shall include those for both foreign and domestic Screens.
 
-^^^the representations and warranties made by, or with respect to, each such Person in the Credit Agreement and the other Loan Documents are true and correct as of the date hereof as if remade herein, and will be true and correct as of the Effective Date, except as to (1) matters which speak to a specific date, and (2) changes in the ordinary course to the extent permitted and contemplated by the Credit Agreement.
+^^**“Backlog Report”** means a report, in form and substance satisfactory to CNB, executed by Borrower to evidence the Backlog.
 
-^^^each such Person has the power and authority and legal right to execute, deliver and perform this Amendment, has taken any necessary action to authorize the execution, delivery, and performance of this Amendment, and the individual executing and delivering this Amendment on behalf of such Person is duly authorized to do so.
+^^**“First Amendment”** means that certain First Amendment to Credit and Security Agreement dated as of [[Date 1]] between CNB and Borrower.
 
-^^^this Amendment has been duly executed and delivered on behalf of such Person and constitutes the legal, valid and binding obligation of such Person, enforceable against such Person in accordance with its terms, subject to the effect of applicable bankruptcy and other similar laws affecting the rights of creditors generally and the effect of equitable principles whether applied in an action at law or a suit in equity.
+^^**“Initial Public Offering Date”** means the date on which Borrower completes an initial public stock offering or a debt offering , either case, in excess of Fifty Million Dollars ($[[USD Value 6: Number]]) in the aggregate to Persons who are not shareholders of Borrower as of the date of the First Amendment.
 
-^^This Amendment constitutes a Loan Document, and the Obligations include the Obligations as amended by this Amendment.
+^^**“Paid Admission Based Payments Schedule”** means, a schedule, in form and substance satisfactory to CNB, listing of the motion pictures scheduled or tentatively scheduled for release (and whether or not then titled) in the next twelve (12) month and thirty-six (36) month periods from the date of determination, the release date of each such motion picture, and the estimated box office receipts and resulting Paid Admission Based Payments for each such motion picture for such periods; provided, however, that the estimated box office receipts and resulting Paid Admission Based Payments due to Borrower shall be calculated based on an assumed ticket price of $10.00 and a $.50 Paid Admission Based Payment. For the purposes of this calculation, all 3-D motion pictures that are announced by studios to occur with releases scheduled shall be included, even if the release has been scheduled for a period (e.g. Christmas 2011 or Summer 2012) rather than a specific date, and the related box office receipts (whether estimated or actual) shall include those for both foreign and domestic Screens.
 
-^^Such Person has no defenses, set offs or counterclaims with respect to any of its obligations to the Lenders, and hereby releases, waives, and forever relinquishes all claims, demands, obligations, liabilities, and causes of action whatever kind or nature, whether known or unknown, which it has or may have as of the date hereof and as of the Effective Date against the Administrative Agent, the Collateral Agent, and/or any of the Lenders, or their respective affiliates, officers, directors, employees, agents, attorneys, independent contractors, and predecessors, together with their successors and assigns, directly or indirectly arising out of or based upon any matter connected with the Credit Agreement or the administration thereof or the obligations created thereby.
+^^**“Change in Control”** means (a) that date upon which both Stephen Royer and Andy Howard are no longer members of the Board of Directors of Borrower, or (b) any merger or other acquisition of Borrower with an unrelated third party in circumstances in which those shareholders holding a majority of the outstanding capital stock of Borrower prior to such transaction no longer do so after the closing of such transaction, or a sale of all or substantially all of the assets of Borrower to an unrelated third party.
 
-^Conditions Precedent. This Amendment shall be effective upon the satisfaction by the Obligor Group of, or written waiver by the Administrative Agent of, the following conditions and any other conditions set forth in this Amendment, by no later than 5:00 p.m. on the date set forth above (or such later date as may be set forth below as to any particular item), as such date may be extended in writing by the Administrative Agent, in its sole discretion (with the date, if at all, by which such conditions have been satisfied or waived being referred to herein as, the “Effective Date”), failing which this Amendment and all related documents shall be null and void at the option of the Administrative Agent:
+^^Section 2.1.1 is stricken and replaced with the following:
 
-^^Delivery to the Administrative Agent of the following:
+^^**Interest.** The Loans will bear interest from disbursement until due (whether at stated maturity, by acceleration on otherwise) at an annual rate equal to, at Borrower’s option, either (a) for a LIBOR Loan, the LIBOR Interest Rate plus four and one-quarter percent ([[Percentage 4: Number]]%), or (b) for a Prime Loan, the fluctuating Prime Rate plus two and three-quarters percent ([[Percentage 5: Number]]%). Interest on the Loans and other charges incurred under this Agreement will accrue daily and be payable (a) except in respect of a LIBOR Loan, quarterly in arrears, commencing on [[Date 4: Date]], and on the first day of January, April and July thereafter; (b) if a LIBOR Loan, on the last day of each Interest Period therefore and upon any prepayment thereof (to the extent accrued on the amount prepaid); and (c) at the Termination Date. A Loan tied to the LIBOR Interest Rate is called a “LIBOR Loan,” and a Loan tied to the Prime Rate is called a “Prime Loan.” A Loan will be a Prime Loan any time it is not a LIBOR Loan.
 
-^^^This Amendment, duly executed by each member of the Obligor Group,
+^^Section 2.3 is stricken and replaced with the following:
 
-^^^Such other documents as the Administrative Agent or Collateral Agent reasonably may require, duly executed and delivered.
+^^**Prepayments.**
 
-^^No Default or Event of Default shall have occurred and be continuing.
+2.3.1 **Optional Prepayments.** Subject to the provisions of Section 2.6, Borrower will have the right to prepay, without premium or penalty, all or any portion of the Loans; provided, that on each prepayment, Borrower will pay the accrued interest on the prepaid principal, to the date of such prepayment.
 
-^^In addition to all other expense payment and reimbursement obligations of the Obligor Group under the Credit Agreement and other Loan Documents, the Borrower will, promptly following its receipt of an appropriate invoice therefor, pay or reimburse the Agents for all of its reasonable out of pocket costs and expenses (including, without limitation, reasonable attorneys’ fees and expenses and disbursements) incurred in connection with the preparation of this Amendment and any other documents in connection herewith and the matters addressed in and contemplated by, this Amendment
+2.3.2. **Mandatory Prepayment.** Subject to the provisions of Section 2.6, Borrower agrees that on the Initial Public Offering Date, or in the event of a Change in Control, Borrower will repay in full the Obligations. In addition, if at any time the Backlog is less than three (3) times the outstanding aggregate principal balance of the Loans, Borrower shall prepay to CNB fifty percent ([[Percentage 2]]%) of each Paid Admission Based Payment, Release Based Payment and Scheduled License Payment due and received by Borrower under License Agreements until such time as the Backlog equals or exceeds three (3) times the outstanding aggregate principal balance of the Loans.
 
-^Miscellaneous.
+^^Clause (c) in Section 2.6 is amended by deleting the phrase “the Administrative Agent” contained therein and inserting in its place and stead “CNB”.
 
-^^The Borrower shall promptly pay upon receipt of an invoice or statement therefor the reasonable attorneys’ fees and expenses and disbursements incurred by the Agents in connection with this Amendment.
+^^Section 6.2 is stricken and replaced with the following:
 
-^^The terms and provisions of this Amendment shall modify and supersede all inconsistent terms and provisions of the Credit Agreement and the documents related thereto and, except as expressly modified by this Amendment, the terms and provisions of the Credit Agreement and such other documents are ratified and confirmed and shall continue in full force and effect.
+^^**Financial Statements.** Borrower will furnish to CNB on a continuing basis:
 
-^^This Amendment shall be governed in accordance with the internal laws of the Commonwealth of Massachusetts (without regard to conflict of laws principles) as an instrument under seal.
+6.2.1 Within thirty (30) days after the end of each month, or sooner if available, a financial statement consisting of not less than a balance sheet, income statement, reconciliation of net worth and statement of cash flows, prepared consistent with prior periods and in accordance with GAAP, which financial statement may be internally prepared;
 
-^^This Amendment may be executed in one or more counterparts, each of which when so executed shall be deemed to be an original, but all of which when taken together shall constitute one and the same instrument. Signatures transmitted electronically (including by fax or e-mail) shall have the same legal effect as originals, but each party nevertheless shall deliver original signed counterparts of this Amendment to each other party if so requested by such other party.
+6.2.2 Within one hundred fifty (150) days after the close of Borrower’s fiscal year, a copy of the annual audit report for Borrower and the Subsidiaries, including therein a balance sheet, income statement, reconciliation of net worth and statement of cash flows, with notes thereto, the balance sheet, income statement and statement of cash flows to be audited by a certified public accountant acceptable to CNB, certified by such accountant to have been prepared in accordance with GAAP and accompanied by the following: (a) supporting schedules of costs of goods sold, operating expenses and other income and expense items, and (b) Borrower’s certification as to whether any event has occurred which constitutes an Event of Default or Potential Event of Default, and if so, stating the facts with respect thereto;
 
-^^This Amendment constitutes the complete agreement among the Obligor Group and the Credit Parties with respect to the subject matter hereof and thereof and supersedes all prior agreements and understanding relating to the subject matter of this Amendment, and may not be modified, altered, or amended except in accordance with the Credit Agreement.
+6.2.3 Within forty five (45) days after the end of each quarterly accounting period of each fiscal year, Borrower’s Covenant Compliance Certificate; and
 
-^^Time is of the essence with respect to all aspects of this Amendment. 
+6.2.4 Upon request by CNB, a copy of the Federal Income Tax Return of Borrower.
 
-\centered [Remainder of page intentionally left blank]
+^^Section 6.3.3 is stricken and replaced with the following:
 
-Executed as a sealed instrument as of the date first above written.
+6.3.3 Within thirty (30) days after the end of each month, a Borrowing Base Certificate, together with the Backlog Report, including the Paid Admission Based Payments Schedule.
 
-**GPF ACQUISITION**
+^^Sections 6.10 and 6.11 are stricken and replaced with the following:
 
-**By: Walker & Dunlop GP, its Managing Member**
+^^**Financial Tests.** Borrower will maintain:
 
-[[By Walker & Dunlop GP its Managing Member Signatory Email: Identity | Signature]]
+6.10.1 EBITDA of not less than (a) $[[USD Value 7: Number]] for the fiscal quarter ending [[Date 5: Date]], (b) $[[USD Value 8: Number]] for the six month fiscal period ending [[Date 6: Date]], (c) $[[USD Value 9: Number]] for the nine month fiscal period ending [[Date 7: Date]], and (d) $[[USD Value 10: Number]] for the trailing twelve months ending [[Date 8: Date]] and each trailing twelve months thereafter, measured on a quarterly basis; and
+
+6.10.2 A ratio of EBITDA to Fixed Charges of not less than 1.25 at all times, with the measurements of EBITDA and Fixed Charges based on the fiscal periods specified in Section 6.10.1 above.
+
+^^**Minimum Screens.** Borrower will have Screens subject to License Agreements of not less than (a) 3,200 from the date of the First Amendment through [[Date 9: Date]], and (b) 4,000 on and after [[Date 7]].
+
+^^The Covenant Compliance Certificate in Exhibit A is stricken and replaced with the one attached to this Amendment.
+
+^**Existing Agreement.** Except as expressly amended herein, the Credit Agreement shall remain in full force and effect, and in all other respects is affirmed.
+
+^**Conditions Precedent.** This Amendment shall become effective upon the fulfillment of all of the following conditions to CNB’s satisfaction:
+
+^^CNB shall have received this Amendment duly executed by Borrower;
+
+^^CNB shall have received a separate Continuing Guaranty from and executed by each of the Guarantors guarantying repayment of all Obligations of Borrower to CNB; and
+
+^^CNB shall have received an amendment fee equal to $[[USD Value 11: Number]].
+
+^**Counterparts.** This Amendment may be executed in any number of counterparts, and all such counterparts taken together shall be deemed to constitute one and the same instrument.
+
+^**Governing Law.** This Amendment and the rights and obligations of the parties hereto shall be construed in accordance with, and governed by the laws of the State of California.
+
+**IN WITNESS WHEREOF,** the parties have executed this Amendment as of the day and year first above written.
+
+“Borrower”   **[[Borrower]]**,**
+
+
+[[“Borrower”   Borrower Signatory Email: Identity | Signature]]
 __________________________________________
-{{By Walker & Dunlop GP its Managing Member Entity => By: [[By Walker & Dunlop GP its Managing Member Signatory First Name]] [[By Walker & Dunlop GP its Managing Member Signatory Last Name]]
-Title: [[By Walker & Dunlop GP its Managing Member Signatory Title]]}}
+{{“Borrower”   Borrower Entity => By: [[“Borrower”   Borrower Signatory First Name]] [[“Borrower”   Borrower Signatory Last Name]]
+Title: [[“Borrower”   Borrower Signatory Title]]}}
 
+**Michael V. Lewis,** Chairman and Chief
+Executive Officer
 
-**WALKER & DUNLOP MULTIFAMILY, INC.**
+“CNB”   **City National Bank,** a national
+banking association
 
-[[WALKER & DUNLOP MULTIFAMILY INC. Signatory Email: Identity | Signature]]
+[[Banking association Signatory Email: Identity | Signature]]
 __________________________________________
-{{WALKER & DUNLOP MULTIFAMILY INC. Entity => By: [[WALKER & DUNLOP MULTIFAMILY INC. Signatory First Name]] [[WALKER & DUNLOP MULTIFAMILY INC. Signatory Last Name]]
-Title: [[WALKER & DUNLOP MULTIFAMILY INC. Signatory Title]]}}
+{{Banking association Entity => By: [[Banking association Signatory First Name]] [[Banking association Signatory Last Name]]
+Title: [[Banking association Signatory Title]]}}
 
+**Aaron Cohen,** Senior Vice President
 
-**WALKER & DUNLOP GP**
+EXHIBIT A
 
-[[WALKER & DUNLOP GP Signatory Email: Identity | Signature]]
-__________________________________________
-{{WALKER & DUNLOP GP Entity => By: [[WALKER & DUNLOP GP Signatory First Name]] [[WALKER & DUNLOP GP Signatory Last Name]]
-Title: [[WALKER & DUNLOP GP Signatory Title]]}}
+\centered **COVENANT COMPLIANCE CERTIFICATE**
 
+The undersigned, , the of **[[Borrower]]**,** a California corporation (“Borrower”) delivers this certificate pursuant to the Credit and Security Agreement (the “Credit Agreement”) dated as of [[Date 2]], between Borrower and City National Bank (“CNB”), as amended. Terms and Section numbers used herein shall have the same meaning as the Credit Agreement.
 
-**GREEN PARK FINANCIAL LIMITED PARTNERSHIP**
+The undersigned certifies the accuracy of this Certificate as of , (the “Effective Date”).
 
-[[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Email: Identity | Signature]]
-__________________________________________
-{{GREEN PARK FINANCIAL LIMITED PARTNERSHIP Entity => By: [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory First Name]] [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Last Name]]
-Title: [[GREEN PARK FINANCIAL LIMITED PARTNERSHIP Signatory Title]]}}
+^**EBITDA (Section 6.10.1)**
 
+^^EBITDA:
 
-[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+1.1.1   Net income (after eliminating extraordinary gains and losses):   $
 
+1.1.2   All interest on Debt:   $
 
-**WALKER & DUNLOP, INC.**
+1.1.3   Cash paid for income taxes (including property and use taxes not reimbursed to Borrower):   $
 
-[[WALKER & DUNLOP INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{WALKER & DUNLOP INC. Entity => By: [[WALKER & DUNLOP INC. Signatory First Name]] [[WALKER & DUNLOP INC. Signatory Last Name]]
-Title: [[WALKER & DUNLOP INC. Signatory Title]]}}
+1.1.4   Depreciation and Amortization:   $
 
+1.1.5   Monitoring fees (in an aggregate amount not to exceed $[[USD Value 1]] per year) paid by Borrower to Shamrock   $
 
-**WALKER & DUNLOP**
+1.1.6   1.1.1, 1.1.2, 1.1.3, 1.1.4, plus 1.1.5   $
 
-[[WALKER & DUNLOP Signatory Email: Identity | Signature]]
-__________________________________________
-{{WALKER & DUNLOP Entity => By: [[WALKER & DUNLOP Signatory First Name]] [[WALKER & DUNLOP Signatory Last Name]]
-Title: [[WALKER & DUNLOP Signatory Title]]}}
+**Required:** Not less than $ .. **[In blank space insert figure required in Credit Agreement]**
 
+^**Ratio of EBITDA to Fixed Charges (Section 6.10.2):**
 
-\centered S-1
+^^EBITDA (from 1.1.6 above):   $
 
-**BANK OF AMERICA, N.A.,** as Administrative Agent, Collateral Agent, and a Lender
+^^Fixed Charges:
 
-[[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Entity => By: [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory First Name]] [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Last Name]]
-Title: [[BANK OF AMERICA N.A. as Administrative Agent Collateral Agent and a Lender Signatory Title]]}}
+2.2.1   Current Maturity of Long Term Debt:   $
 
+2.2.2   Interest incurred on borrowed money:   $
 
-**NATIONAL CITY BANK,** as a Lender
+2.2.3   Cash paid for Income Taxes (excluding property and sales and use taxes not reimbursed to Borrower):      $
 
-[[NATIONAL CITY BANK as a Lender Signatory Email: Identity | Signature]]
-__________________________________________
-{{NATIONAL CITY BANK as a Lender Entity => By: [[NATIONAL CITY BANK as a Lender Signatory First Name]] [[NATIONAL CITY BANK as a Lender Signatory Last Name]]
-Title: [[NATIONAL CITY BANK as a Lender Signatory Title]]}}
+2.2.4   Maintenance Capital Expenditures (excluding (a) any replacement of Z Screens with XLs (i.e. upgrades), (b) purchases of Digital Link projectors and servers and (c) any costs related to the roll-out of new **[[Borrower]]** 3-D theater systems):      $
 
+2.2.5   Total of 2.2.1, 2.2.2, 2.2.3, and 2.2.4:   $
 
-\centered S-2
+^^Ratio of 2.1 to 2.2:   to one (1)
+
+**Required:** At least to 1 **[In blank space insert figure required in Credit Agreement]**
+
+^**Minimum Screens (Section 6.11)**
+
+**Required:** At least **[In blank space insert figure required in Credit Agreement]**
+
+**CERTIFICATION:**
+
+Each of the above stated information is true and correct as of the date hereof and Borrower has met each of the Conditions set forth in Section 4.2 of the Credit Agreement, and no Events of Default or Potential Events of Default presently exist.
+
+^declare under penalty of perjury that the foregoing is true and correct.
+
+Date:
+\centered (Signature and Title)

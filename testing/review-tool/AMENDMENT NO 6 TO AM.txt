@@ -1,0 +1,214 @@
+.6**
+
+\centered AMENDMENT NO. 6
+
+\centered TO AMENDED AND RESTATED CREDIT AGREEMENT
+
+THIS AMENDMENT NO. 6 TO AMENDED AND RESTATED CREDIT AGREEMENT (this “Amendment”) is entered into as of [[Date 1: Date]], between [[Borrower]], a [[State of Formation: State]] [[Organization: EntityType]] (“Borrower”), and Bank of America, N.A., as Administrative Agent, with reference to the Amended and Restated Credit Agreement dated as of [[Date 2: Date]] (as heretofore amended, the “Credit Agreement”), among Borrower, the Lenders described therein, and the Administrative Agent. Capitalized terms used but not otherwise defined herein are used with the meanings set forth for those terms in the Credit Agreement.
+
+The parties hereto enter into this Amendment with reference to the following facts:
+
+^Borrower has informed the Administrative Agent and the Lenders of its intention to enter into an Agreement and Plan of Merger concurrently herewith substantially in the form attached hereto as Exhibit A (the “Merger Agreement”). Upon the consummation of the transactions described in the Merger Agreement, each issued and outstanding share of the Borrower’s common stock will be converted into the right to receive cash, and the Borrower will be wholly-owned by the entity identified as the “Parent” under the Merger Agreement.
+
+^The execution and delivery of the Merger Agreement contemplated by the Borrower (i) would cause a Change of Control to occur under clause (c) of such definition and would cause an Event of Default to occur under Section 8.01(k) of the Credit Agreement, and (ii) would cause a breach of Section 7.09 of the Credit Agreement and would cause an Event of Default to occur under Section 8.01(b) of the Credit Agreement (collectively, the “Anticipated Defaults”). Borrower has requested that the Lenders waive the Anticipated Defaults that would occur upon execution and delivery of the Merger Agreement.
+
+^Pursuant to Section 10.01 of the Credit Agreement, the Required Lenders have agreed to waive the Anticipated Defaults on the terms set forth in this Amendment.
+
+NOW, THEREFORE, Borrower and Administrative Agent, acting with the consent of the Required Lenders pursuant to Section 10.01 of the Credit Agreement, agree as follows:
+
+^Representations and Warranties. Borrower represents and warrants to Administrative Agent and the Lenders that:
+
+^^after giving effect to this Amendment, no Default or Event of Default has occurred and remains continuing;
+
+^^after giving effect to this Amendment, each of the representations and warranties set forth in Article V of the Credit Agreement are true and correct as of the date of this Amendment (other than those representations which relate solely to a prior date, each of which was true as of that date), provided that Schedules 5.06 and 5.09 are updated in the manner attached to Amendment No. 2 to Amended and Restated Credit Agreement dated as of [[Date 3: Date]], between the Borrower and the Administrative Agent; and
+
+^^neither Borrower nor any of its Subsidiaries is in default of, and the execution and delivery of the Merger Agreement will not cause a default under, any indenture, loan or credit agreement or similar agreement governing Indebtedness in a principal amount which exceeds $[[USD Value 1: Number]] in any manner which entitles the holder of such Indebtedness, or which would entitle the holder of such Indebtedness with the giving of any notice, the passage of time (including any cure period) or both, to require the payment of any such Indebtedness prior to the date upon which such Indebtedness would otherwise be due and payable.
+
+^Waiver of Anticipated Defaults. Subject to the provisions in this Section 2 and in reliance upon the agreements, representations and warranties set forth in this Amendment, the Required Lenders hereby waive the Anticipated Defaults resulting from the execution and delivery of the Merger Agreement. The waiver herein constitutes a one-time waiver of the Anticipated Defaults resulting from the execution and delivery of the Merger Agreement, but the waiver herein does not and shall not constitute a waiver of (i) any Default or Event of Default resulting from the Change of Control that will occur upon the consummation of the merger transactions described in the Merger Agreement, (ii) any Default or Event of Default resulting from the Borrower’s or its Subsidiaries’ (x) performance or non-performance of their respective obligations under the Merger Agreement or (y) compliance or non-compliance with the terms and provisions of the Merger Agreement, including, without limitation, the covenants set forth in Article V of the Merger Agreement or payment or non-payment of any termination fee or expenses under the Merger Agreement, or (iii) any other or future Defaults or Events of Default, whether or not similar to the Anticipated Defaults.
+
+^Amendment to Section 5.18 of the Credit Agreement. Section 5.18(b) of the Credit Agreement is hereby amended to read in full as follows: “(b) restrictions set forth in future instruments, documents and agreements which have been entered into in compliance with Section 7.09, and the restrictions set forth in the Merger Agreement (as defined in Amendment No. 6 to Amended and Restated Credit Agreement dated as of [[Date 1]], by and among the Borrower and the Administrative Agent.)”
+
+^Covenant Regarding Amendment to Merger Agreement. Borrower hereby covenants and agrees not to amend, change, supplement, restate or otherwise modify the Merger Agreement in any manner which either individually or in the aggregate (i) increases the termination fees or expenses payable by the Borrower or its Subsidiaries thereunder or modifies the circumstances under which or the date or time when such termination fees or expenses are payable by the Borrower or its Subsidiaries, (ii) restricts or impairs the ability of the Borrower and its Subsidiaries from conducting their respective businesses in all material respects in the ordinary course consistent with past practice, or (iii) is materially adverse to the Borrower or its Subsidiaries or the Lenders, in each case without the prior written consent of the Required Lenders. The Borrower acknowledges and agrees that each failure by the Borrower to comply with the covenant set forth in this Section 3 shall in each case constitute an immediate Event of Default under the Credit Agreement with respect to which the Administrative Agent and the Lenders shall have all rights and remedies set forth therein, in equity and at law.
+
+^Conditions to Effectiveness. The effectiveness of this Amendment shall be subject to the prior satisfaction of the following conditions precedent:
+
+^^the Administrative Agent shall have received a consent of the Guarantors in the form of Exhibit B hereto executed by each of the parties thereto;
+
+^^the Administrative Agent shall have received the written consent of the Required Lenders as required under Section 10.01 of the Credit Agreement in the form of Exhibit C hereto; and
+
+^^the Administrative Agent shall have received an amendment fee in the amount of $[[USD Value 2: Number]] (the “Amendment Fee”), which Amendment Fee shall be for the account of the Lenders which have executed a consent hereto prior to 5:00 p.m. (Los Angeles time) on
+
+[[Date 1]] (or any extension of such deadline announced via the Intralinks system) (each a “Consenting Lender”). Each Consenting Lender shall receive a portion of the Amendment Fee based on the percentage of all Consenting Lenders’ Commitments under the Credit Agreement represented by such Consenting Lender’s Commitment under the Credit Agreement.
+
+^Effectiveness of the Credit Agreement. Except as hereby expressly amended, the Credit Agreement remains in full force and effect, and is hereby ratified and confirmed in all respects.
+
+^Counterparts. This Amendment may be executed in any number of counterparts and all of such counterparts taken together shall be deemed to constitute one and the same instrument. Delivery of an executed counterpart of a signature page of this Amendment by telecopy or other electronic imaging means shall be effective as delivery of a manually executed counterpart of this Amendment.
+
+\centered *[Signature Page Follows]*
+
+IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be duly executed and delivered as of the date first written above.
+
+[[Borrower]], a Delaware corporation,
+as Borrower
+
+[[As Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Borrower Entity => By: [[As Borrower Signatory First Name]] [[As Borrower Signatory Last Name]]
+Title: [[As Borrower Signatory Title]]}}
+
+
+BANK OF AMERICA, N.A.,
+as Administrative Agent
+
+[[As Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrative Agent Entity => By: [[As Administrative Agent Signatory First Name]] [[As Administrative Agent Signatory Last Name]]
+Title: [[As Administrative Agent Signatory Title]]}}
+
+
+\centered Signature Page
+
+\centered Exhibit A to Amendment
+
+\centered MERGER AGREEMENT
+
+\centered [See Attached]
+
+\centered Exhibit A
+
+\centered Exhibit B to Amendment
+
+\centered CONSENT OF GUARANTORS
+
+This Consent of Guarantors (this “Consent of Guarantors”) is delivered with reference to (a) the Amended and Restated Credit Agreement dated as of [[Date 2]] (as heretofore amended, restated, extended, supplemented, or otherwise modified, the “Credit Agreement”), among [[Borrower]], a Delaware corporation (“Borrower”), the lenders from time to time party thereto (collectively, the “Lenders”), and Bank of America, N.A., as Administrative Agent (“Administrative Agent”) and (b) the Amended and Restated Continuing Guaranty dated as of [[Date 2]], made by each of the undersigned Guarantors (as heretofore amended, restated, extended, supplemented, or otherwise modified, the “Guaranty”). Capitalized terms used but not otherwise defined herein are used with the meanings set forth for those terms in the Credit Agreement.
+
+Each of the undersigned Guarantors (i) consents to and approves Borrower’s execution and delivery of the attached Amendment No. 6 to Amended and Restated Credit Agreement (the “Amendment”), (ii) agrees that such Amendment does not and shall not limit or diminish in any manner the obligations of such Guarantor under the Guaranty and that such obligations would not be limited or diminished in any manner even if such Guarantor had not executed this Consent of Guarantors, (iii) reaffirms the Guaranty, and (iv) agrees that the Guaranty remains in full force and effect and is hereby ratified and confirmed.
+
+Dated as of ________________, 2010.
+
+ECO RESOURCES, INC.,
+
+
+[[ECO RESOURCES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ECO RESOURCES INC. Entity => By: [[ECO RESOURCES INC. Signatory First Name]] [[ECO RESOURCES INC. Signatory Last Name]]
+Title: [[ECO RESOURCES INC. Signatory Title]]}}
+
+
+OPERATIONS TECHNOLOGIES, INC.,
+
+
+[[OPERATIONS TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{OPERATIONS TECHNOLOGIES INC. Entity => By: [[OPERATIONS TECHNOLOGIES INC. Signatory First Name]] [[OPERATIONS TECHNOLOGIES INC. Signatory Last Name]]
+Title: [[OPERATIONS TECHNOLOGIES INC. Signatory Title]]}}
+
+
+SWWC SERVICES, INC.,
+
+
+[[SWWC SERVICES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SWWC SERVICES INC. Entity => By: [[SWWC SERVICES INC. Signatory First Name]] [[SWWC SERVICES INC. Signatory Last Name]]
+Title: [[SWWC SERVICES INC. Signatory Title]]}}
+
+
+\centered Exhibit B
+
+METRO-H2O, LTD.,
+^^Texas limited partnership
+
+[[A Texas limited partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Texas limited partnership Entity => By: [[A Texas limited partnership Signatory First Name]] [[A Texas limited partnership Signatory Last Name]]
+Title: [[A Texas limited partnership Signatory Title]]}}
+
+
+[[Title Borrower2 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Borrower2 Signatory Title}} Entity => By: [[Title Borrower2 Signatory Title}} Signatory First Name]] [[Title Borrower2 Signatory Title}} Signatory Last Name]]
+Title: [[Title Borrower2 Signatory Title}} Signatory Title]]}}
+
+
+METRO-H2O UTILITIES, INC.,
+
+
+[[METRO-H2O UTILITIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{METRO-H2O UTILITIES INC. Entity => By: [[METRO-H2O UTILITIES INC. Signatory First Name]] [[METRO-H2O UTILITIES INC. Signatory Last Name]]
+Title: [[METRO-H2O UTILITIES INC. Signatory Title]]}}
+
+
+SWWC ENTERPRISES, INC.,
+
+
+[[SWWC ENTERPRISES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SWWC ENTERPRISES INC. Entity => By: [[SWWC ENTERPRISES INC. Signatory First Name]] [[SWWC ENTERPRISES INC. Signatory Last Name]]
+Title: [[SWWC ENTERPRISES INC. Signatory Title]]}}
+
+
+SWWC UTILITIES, INC.,
+
+
+[[SWWC UTILITIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SWWC UTILITIES INC. Entity => By: [[SWWC UTILITIES INC. Signatory First Name]] [[SWWC UTILITIES INC. Signatory Last Name]]
+Title: [[SWWC UTILITIES INC. Signatory Title]]}}
+
+
+CDC MAINTENANCE, INC.,
+
+
+[[CDC MAINTENANCE INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{CDC MAINTENANCE INC. Entity => By: [[CDC MAINTENANCE INC. Signatory First Name]] [[CDC MAINTENANCE INC. Signatory Last Name]]
+Title: [[CDC MAINTENANCE INC. Signatory Title]]}}
+
+
+NEW MEXICO UTILITIES, INC.,
+^^New Mexico corporation,
+
+[[A New Mexico corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{A New Mexico corporation Entity => By: [[A New Mexico corporation Signatory First Name]] [[A New Mexico corporation Signatory Last Name]]
+Title: [[A New Mexico corporation Signatory Title]]}}
+
+
+\centered Exhibit B
+
+\centered Exhibit C to Amendment
+
+\centered **CONSENT OF LENDER**
+
+Reference is hereby made to the Amended and Restated Credit Agreement dated as of [[Date 2]] (as heretofore amended, restated, extended, supplemented, or otherwise modified, the “Credit Agreement”), among [[Borrower]], a Delaware corporation (“Borrower”), the lenders from time to time party thereto (collectively, the “Lenders”), and Bank of America, N.A., as Administrative Agent (“Administrative Agent”). Capitalized terms used but not otherwise defined herein are used with the meanings set forth for those terms in the Credit Agreement.
+
+The undersigned Lender hereby consents to the execution and delivery of an Amendment No. 6 to Amended and Restated Credit Agreement by Administrative Agent on its behalf, substantially in the form of the most recent draft thereof presented to the undersigned Lender.
+
+Dated as of ________________, 2010.
+
+[Name of Lender]
+
+[[Name of Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{Name of Lender Entity => By: [[Name of Lender Signatory First Name]] [[Name of Lender Signatory Last Name]]
+Title: [[Name of Lender Signatory Title]]}}
+
+
+*[Note to consenting Lender - - Please fax or email this consent to:*
+
+*Charbel F. Lahoud*
+
+*Sheppard, Mullin Richter & Hampton, LLP*
+
+*[[Address 1: Address]], 90071*
+
+*[[Email 1]]*
+
+*telecopier: [[Phone 1]]*
+
+*telephone [[Phone 2]]*
+
+*Email submissions will be confirmed by return email.*
+
+There is no need to submit original signatures.]

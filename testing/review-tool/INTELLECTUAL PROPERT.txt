@@ -1,136 +1,69 @@
-\centered **INTELLECTUAL PROPERTY LICENSE AGREEMENT**
+\centered **INTELLECTUAL PROPERTY SECURITY AGREEMENT**
 
-This Intellectual Property License Agreement (“**Agreement**”) is entered into as of [[Date 1: Date]] (the “**Effective Date**”), by and between Vishay S.A., a French company, as licensee (“**Vishay S.A.**”), and Vishay Precision Foil GmbH (“**VPG GmbH**”). 
+This intellectual Property Security Agreement is entered into as of the Effective Date by and between SILICON VALLEY BANK ("Bank") and ENERGY AND POWER SOLUTIONS, INC. ("Grantor").
 
-\centered **RECITALS**: 
+\centered **RECITALS**
 
-WHEREAS, VPG GmbH is the owner of certain intellectual property formerly owned by Vishay S.A. and used in the manufacture of finished RCK foil resistor products (“**Licensed IP**”); and 
+^Bank has agreed to make certain advances of money and to extend certain financial accommodation to Grantor (the "Loans") in the amounts and manner set forth in that certain Loan and Security Agreement by and between Bank and Grantor dated the Effective Date (as the same may be amended, modified or supplemented from time to time, the "Loan Agreement"; capitalized terms used herein are used as defined in the Loan Agreement), Bank is willing to make the Loans to Grantor, but only upon the condition, among others, that Grantor shall grant to Bank a security interest in certain Copyrights, Trademarks, Patents, and Mask Works (as each term is described below) to secure the obligations of Grantor under the Loan Agreement.
 
-WHEREAS, in order to effect and consummate the separation (the “**Separation**”) contemplated by that certain Master Separation and Distribution Agreement between Vishay S.A. and VPG GmbH’s affiliate dated as of the [[Date 2: Date]] (the “**Master Separation** **Agreement**”), VPG GmbH desires to grant to Vishay S.A. a non-exclusive license to the Licensed IP to manufacture, use and sell Licensed Products (as defined herein) on behalf of VPG GmbH; and 
+^Pursuant to the terms of the Loan Agreement, Grantor has granted to Bank a security interest in all of Grantor's right, title and interest, whether presently existing or hereafter acquired, in, to and under all of the Collateral.
 
-NOW, THEREFORE, in consideration of the terms and provisions of this Agreement and the Separation, and for other good and valuable consideration, the receipt of which is acknowledged by the execution and delivery hereof, VPG GmbH and Vishay S.A. hereby agree as follows:
+NOW, THEREFORE, for good and valuable consideration, receipt of which is hereby acknowledged, and intending to be legally bound, as collateral security for the prompt and complete payment when due of its obligations under the Loan Agreement, Grantor hereby represents, warrants, covenants and agrees as follows:
 
-\centered **Definitions**
+\centered **AGREEMENT**
 
-Terms used but not otherwise defined herein shall have the meanings given to them in this Article I. 
+To secure its obligations under the Loan Agreement, Grantor grants and pledges to Bank a security interest in all of Grantor's right, title and interest in, to and under its intellectual property (all of which shall collectively be called the "Intellectual Property Collateral"), including, without limitation, the following:
 
-^“**Licensed Products**” shall mean the finished RCK foil resistor products specified in Schedule A, that were manufactured by Vishay S.A. prior to the Separation.
+^^Any and all copyright rights, copyright applications, copyright registrations and like protections in each work or authorship and derivative work thereof, whether published or unpublished and whether or not the same also constitutes a trade secret, now or hereafter existing, created, acquired or held, including without limitation those set forth on Exhibit A attached hereto (collectively, the "Copyrights");
 
-^“**Manufacturing Agreement**” shall refer to that certain Manufacturing Agreement dated as of [[Date 1]] between Vishay S.A. and VPG GmbH.
+^^Any and all trade secrets, and any and all intellectual property rights in computer software and computer software products now or hereafter existing, created, acquired or held;
 
-\centered **Intellectual Property License**
+^^Any and all design rights that may be available to Grantor now or hereafter existing, created, acquired or held;
 
-^**License Grant**. Subject to the terms and conditions set forth in this Agreement, VPG GmbH hereby grants to Vishay S.A., a non-exclusive, irrevocable, worldwide right and license to the Licensed IP to make, have made, use, sell, offer for sale, export and import Licensed Products. Vishay S.A. may only sell and offer for sale Licensed Products pursuant to the Manufacturing Agreement to customers of VPG GmbH or as otherwise approved in writing by VPG GmbH.
+^^All patents, patent applications and like protections including, without limitation, improvements, divisions, continuations, renewals, reissues, extensions and continuations-in-part of the same, including without limitation the patents and patent applications set forth on Exhibit B attached hereto (collectively, the "Patents");
 
-^**License Fees**. For the license and rights granted herein, Vishay S.A. shall pay VPG GmbH USD10.
+^^Any trademark and servicemark rights, whether registered or not, applications to register and registrations of the same and like protections, and the entire goodwill of the business of Grantor connected with and symbolized by such trademarks, including without limitation those set forth on Exhibit C attached hereto (collectively, the "Trademarks");
 
-^**Improvements**. Licensee acknowledges and agrees that any modification, change, development, enhancement, derivative or improvement (collectively, “**Improvements**”) made by, or on behalf of, Licensee to the Licensed IP or Licensed Product, shall be owned exclusively by Licensor, and to the extent that Licensee retains any rights therein, Licensee irrevocably assigns all right, title and interest therein to Licensor. All Improvements shall be deemed Licensed IP or Licensed Products, as appropriate, and shall be subject to the terms of this Agreement.
+^^All mask works or similar rights available for the protection of semiconductor chips, now owned or hereafter acquired, including, without limitation those set forth on Exhibit D attached hereto (collectively, the "Mask Works");
 
-^**Enforcement**. Vishay S.A. shall cooperate fully and promptly with VPG GmbH in the protection of VPG GmbH’s rights in the Licensed IP, in such manner and to such extent as VPG GmbH may reasonably request, and at VPG GmbH’s expense.
+^^Any and all claims for damages by way of past, present and future infringements of any of the rights included above, with the right, but not the obligation, to sue for and collect such damages for said use or infringement of the intellectual property rights identified above;
 
-^Each party shall promptly notify the other party in writing of any actual or potential infringement, or any other unauthorized use of or violation of the Licensed IP of which it becomes aware (each an “**Infringement**”). VPG GmbH may take such action as it, in its sole discretion, deems necessary or advisable to stop any Infringement. Vishay S.A. may request in writing that VPG GmbH institute an action to stop an Infringement affecting the Licensed Products. If VPG GmbH receives such a written request and does not institute such action within thirty (30) days, Vishay S.A. shall be entitled to institute such action as it deems necessary or advisable to stop such Infringement, in which VPG GmbH shall be entitled to join; **provided** that Vishay S.A. shall not compromise or settle any claim or action regarding the Licensed IP in any manner that would affect the rights of VPG GmbH without the written consent of VPG GmbH, which consent shall not be unreasonably withheld or delayed. The party not taking the lead in any action shall cooperate fully with the other party at the other party’s reasonable request and expense, including VPG GmbH joining a suit instituted by Vishay S.A. in accordance with this Section to the extent necessary for Vishay S.A. to have standing. 2. Any monetary recovery or sums obtained in settlement of any action to stop an Infringement shall be allocated between VPG GmbH and Vishay S.A. as shall be fair and equitable, taking into account their actual out-of-pocket costs and expenses, including reasonable attorneys’ fees, and the damages sustained by each of them. Any dispute with respect to the allocation of recoveries shall be resolved in accordance with the resolution procedures referred to in .
+^^All licenses or other rights to use any of the Copyrights, Patents, Trademarks, or Mask Works and all license fees and royalties arising from such use to the extent permitted by such license or rights;
 
-\centered **Warranties** 
+^^All amendments, extensions, renewals and extensions of any of the Copyrights, Trademarks, Patents, or Mask Works; and
 
-^**Warranties of the Parties**. VPG GmbH warrants that it has the right and power to enter into this Agreement, and that there are no outstanding assignments, grants, licenses, encumbrances, obligations or agreements, either written or oral or implied, that prevent it from doing so. Vishay S.A. warrants that it has the right and power to enter into this Agreement, and that there are no outstanding assignments, grants, licenses, encumbrances, obligations or agreements, either written or oral or implied, that prevent it from doing so.
+^^All proceeds and products of the foregoing, including without limitation all payments under insurance or any indemnity or warranty payable in respect of any of the foregoing.
 
-^**WARRANTY DISCLAIMER**. EXCEPT AS EXPRESSLY SET FORTH IN THIS
+This security interest is granted in conjunction with the security interest granted to Bank under the Loan Agreement. The rights and remedies of Bank with respect to the security interest granted hereby are in addition to those set forth in the Loan Agreement and the other Loan Documents, and those which are now or hereafter available to Bank as a matter of law or equity. Each right, power and remedy of Bank provided for herein or in the Loan Agreement or any of the Loan Documents, or now or hereafter existing at law or in equity shall be cumulative and concurrent and shall be in addition to every right, power or remedy provided for herein and the exercise by Bank of any one or more of the rights, powers or remedies provided for in this Intellectual Property Security Agreement, the Loan Agreement or any of the other Loan Documents, or now or hereafter existing at law or in equity, shall not preclude the simultaneous or later exercise by any person, including Bank, of any or all other rights, powers or remedies.
 
--  -
+\centered [Signature page follows.]
 
-AGREEMENT, NEITHER PARTY MAKES ANY OTHER REPRESENTATION, GUARANTEE OR WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR OTHERWISE, UNDER THIS AGREEMENT INCLUDING REPRESENTATIONS, GUARANTEES OR WARRANTIES AS TO THE RESULTS TO BE EXPECTED FROM USE OF ANY OF THE LICENSED IP OR FROM MANUFACTURE OR SALE OF ANY LICENSED PRODUCT. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, VPG GMBH SHALL HAVE NO RESPONSIBILITY FOR THE ABILITY OR INABILITY OF VISHAY S.A. TO USE THE LICENSED IP; FOR THE CLAIMS OF THIRD PARTIES RELATING TO ANY PRODUCTS MANUFACTURED OR SOLD BY VISHAY S.A.; OR FOR ANY FAILURE IN PRODUCTION, DESIGN OR OPERATION OF ANY PRODUCT MANUFACTURED OR SOLD BY VISHAY S.A. THE LIMITATIONS OF LIABILITY CONTAINED IN THIS AGREEMENT ARE A FUNDAMENTAL PART OF THE BASIS OF EACH PARTY’S BARGAIN HEREUNDER, AND NEITHER PARTY WOULD ENTER INTO THIS AGREEMENT ABSENT SUCH LIMITATIONS.
+IN WITNESS WHEREOF, the parties have caused this Intellectual Property Security Agreement to be duly executed by its officers thereunto duly authorized as of the first date written above.
 
-\centered **Term**
+[[Address 1: Address]]   GRANTOR: ENERGY AND POWER SOLUTIONS, INC. By: **/s/ Peter Ludlum** Title: **CFO**
 
-^**Term**. This Agreement shall remain in full force and effect for so long as Vishay S.A. is obligated to manufacture and deliver finished RCK products under the Manufacturing Agreement.
+[[Address 2: Address]]   BANK: SILICON VALLEY BANK By: **/s/ Kurt Miklinski** Title: **Vice President**
 
-^Upon the termination of this Agreement, all rights of Vishay S.A. granted hereunder shall terminate, and Vishay S.A. shall return or destroy (and certify such destruction in writing to VPG GmbH if requested), at VPG GmbH’s election, all embodiments of the Licensed IP.
+\centered EXHIBIT A
 
-^All rights and remedies of the parties in respect of any breach of this Agreement occurring prior to the effective date of its termination shall survive the termination of this Agreement. In addition, the following provisions of this Agreement shall explicitly survive its termination: (“Warranties”); ; and  (“Miscellaneous”).
+\centered Copyrights
 
-\centered **Miscellaneous** 
+\centered [INTENTIONALLY OMITTED]
 
-^**Notices**. All notices, demands and other communications required to be given to a party hereunder shall be in writing and shall be deemed to have been duly given if and when personally delivered; one business day after being sent by a nationally recognized overnight courier; when transmitted by facsimile and actually received; or five (5) days after being mailed by registered or certified mail (postage prepaid, return receipt requested) to such party at the relevant street address or facsimile number set forth below (or at such other street address or facsimile number as such party may designate from time to time by written notice in accordance with this provision):
+\centered EXHIBIT B
 
--  - 
+\centered Patents
 
-If to Vishay S.A.: Vishay S.A. c/o Vishay Intertechnology, Inc. 63 Lancaster Avenue Malvern, PA 19355-2120 Attention: Dr. Lior E. Yahalomi, Chief Financial Officer Telephone: [[Phone 1]] Facsimile: [[Phone 2]] If to VPG GmbH: Vishay Precision Foil GmbH c/o Vishay Precision Group 3 Great Valley Parkway Malvern, PA 19355-1307 Attn: William M. Clancy, Chief Financial Officer Facsimile: [[Phone 3]] Confirm: [[Phone 4]]      With a copy to: Kramer Levin Naftalis & Frankel LLP 1177 Avenue of the Americas New York, New York 10036 Attn: Ernest Wechsler, Esq. Facsimile: [[Phone 5]] Confirm: [[Phone 6]] With a copy to: Pepper Hamilton LLP 3000 Two Logan Square Eighteenth and Arch Streets Philadelphia, PA 19103-2799 Attn: Barry Abelson, Esq. Facsimile: [[Phone 7]] Confirm: [[Phone 8]]
+\centered [INTENTIONALLY OMITTED]
 
-^**Further Assurances**. In addition to the actions specifically provided for elsewhere in this Agreement, VPG GmbH and Vishay S.A. agree to execute or cause to be executed and to record or cause to be recorded such other agreements, instruments and other documents, and to take such other action, as reasonably necessary or desirable to fully effectuate the intents and purposes of this Agreement.
+\centered EXHIBIT C
 
-^**Relationship of the Parties**. This Agreement shall not be construed to place the parties in the relationship of legal representatives, partners, joint venturers or agents of or with each other. No party shall have any power to obligate or bind the other party in any manner whatsoever, except as specifically provided herein.
+\centered Trademarks
 
-^**Third Party Beneficiaries**. Except for indemnification of any Indemnified Parties (as hereafter defined), the provisions of this Agreement are solely for the benefit of the parties hereto and their respective successors and permitted assigns, and are not intended to confer upon any person, except the parties hereto and their respective successors and permitted assigns, any rights or remedies hereunder.
+\centered [INTENTIONALLY OMITTED]
 
-^**Assignability**. This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.
+\centered EXHIBIT D
 
-^**Press Releases; Public Announcements**. Neither party shall issue any release or make any other public announcement concerning this Agreement or the transactions contemplated hereby without the prior written approval of the other party, which approval shall not be unreasonably withheld or delayed; **provided**, **however**, that either party shall be permitted to make any release or public announcement that in the opinion of its counsel it is required to make by law or the rules of any national securities exchange of which its securities are listed; **provided further** that it has made efforts that
+\centered Mask Works
 
--  - 
-
-are reasonable in the circumstances to obtain the prior approval of the other party.
-
-^**Waiver of Defaults**. Waiver by any party hereto of any default by the other party hereto of any provision of this Agreement shall not be construed to be a waiver by the waiving party of any subsequent or other default, nor shall it in any way affect the validity of this Agreement or prejudice the rights of the other party thereafter to enforce each and every such provision. No failure or delay by any party hereto in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege.
-
-^**Severability**. If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby, as the case may be, is not affected in any manner adverse to any party hereto or thereto. Upon such determination, the parties hereto shall negotiate in good faith in an effort to agree upon a suitable and equitable provision to effect the original intent of the parties hereto.
-
-^**Indemnification**. Each of the parties shall indemnify, defend and hold harmless the other party, each of its respective current and former directors, officers and employees, and each of their respective heirs, executors, successors and assigns (“**Indemnified Parties**”), from and against any and all liabilities relating to a claim by a third party arising out of or resulting from any breach of, or failure to perform or comply with, any covenant, undertaking or obligation of, this Agreement by the indemnifying party. All indemnification procedures and payments shall be governed by Sections 5.6, 5.7 and 5.8 of the Master Separation Agreement, as applicable. The foregoing indemnification obligations shall survive any termination or expiration of this Agreement.
-
-^**LIMITATION OF LIABILITY**. IN NO EVENT SHALL VPG GMBH OR VISHAY S.A. BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT, COLLATERAL, INCIDENTAL OR PUNITIVE DAMAGES OR LOST PROFITS OR FAILURE TO REALIZE EXPECTED SAVINGS OR OTHER COMMERCIAL OR ECONOMIC LOSS OF ANY KIND, ARISING OUT OF THIS AGREEMENT; PROVIDED, HOWEVER, THAT THE FOREGOING LIMITATIONS SHALL NOT LIMIT EITHER PARTY’S INDEMNIFICATION OBLIGATIONS WITH RESPECT TO THIRD PARTY CLAIMS.
-
-^**Confidential Information**. VPG GmbH and Vishay S.A. shall hold and shall cause each of their respective affiliates, directors, officers, employees, agents, consultants, advisors and other representatives to hold, in strict confidence and not to disclose or release without the prior written consent of the other party, any and all proprietary or confidential information, material or data of the other party that comes into its possession in connection with the performance by the parties of their rights and obligations under this Agreement. The provisions of Section 4.5 of the Master Purchase Agreement shall govern, mutatis mutandis, the confidentiality obligations of the parties under this Section.
-
--  -
-
-^**Attorneys’ Fees**. In any action hereunder to enforce the provisions of this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys’ fees in addition to any other recovery hereunder.
-
-^**Governing Law**. This Agreement and the legal relations between the parties shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflict of laws rules thereof to the extent such rules would require the application of the law of another jurisdiction.
-
-^**Consent to Jurisdiction**. Subject to the provisions referenced in , each of the parties irrevocably submits to the jurisdiction of the federal and state courts located in Philadelphia, Pennsylvania for the purposes of any suit, action or other proceeding to compel arbitration, for the enforcement of any arbitration award or for specific performance or other equitable relief pursuant to . Each of the parties further agrees that service of process, summons or other document by U.S. registered mail to such parties address as provided in shall be effective service of process for any action, suit or other proceeding with respect to any matters for which it has submitted to jurisdiction pursuant to this Section. Each of the parties irrevocably waives any objection to venue in the federal and state courts located in Philadelphia, Pennsylvania of any action, suit or proceeding arising out of this Agreement or the transactions contemplated hereby.
-
-^**Specific Performance**. The parties hereto agree that the remedy at law for any breach of this Agreement may be inadequate, and that any party hereto shall be entitled to specific performance in addition to any other appropriate relief or remedy. Such party may, in its sole discretion, apply to a court of competent jurisdiction for specific performance or injunctive or such other relief as such court may deem just and proper in order to enforce this Agreement.
-
-^**Dispute Resolution**. The procedures set forth in Article VIII of the Master Separation Agreement shall apply to the resolution of all disputes arising under this Agreement, except that all proceedings provided for therein shall be conducted in Philadelphia, Pennsylvania.
-
-^**Entire Agreement**. This Agreement and the Schedules hereto, as well as any other agreements and documents referred to herein, constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, understandings, writings, commitments and conversations between the parties with respect to such subject matter.
-
-^**Waiver of Jury Trial**. SUBJECT TO **SECTION L.16**, EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY COURT PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF AND PERMITTED UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.
-
-^**Amendments**. No provisions of this Agreement shall be deemed amended, modified or
-
--  -
-
-supplemented by any party hereto, unless such amendment, supplement or modification is in writing and signed by the authorized representative of the party against whom it is sought to enforce such amendment, supplement or modification.
-
-^**Counterparts**. This Agreement may be executed in any number of counterparts, including by facsimile or electronic signature, and each such counterpart shall be deemed an original instrument, and all of such counterparts together shall constitute but one agreement. A facsimile or electronic signature is deemed an original signature for all purposes under this Agreement.
-
-\centered [SIGNATURE PAGES FOLLOW]
-
--  -
-
-IN WITNESS WHEREOF, the parties have caused their duly authorized representatives to execute this Agreement as of the Effective Date. 
-
-VISHAY S.A.
-
-[[VISHAY S.A. Signatory Email: Identity | Signature]]
-__________________________________________
-{{VISHAY S.A. Entity => By: [[VISHAY S.A. Signatory First Name]] [[VISHAY S.A. Signatory Last Name]]
-Title: [[VISHAY S.A. Signatory Title]]}}
-
-
-VISHAY PRECISION FOIL GMBH
-
-[[VISHAY PRECISION FOIL GMBH Signatory Email: Identity | Signature]]
-__________________________________________
-{{VISHAY PRECISION FOIL GMBH Entity => By: [[VISHAY PRECISION FOIL GMBH Signatory First Name]] [[VISHAY PRECISION FOIL GMBH Signatory Last Name]]
-Title: [[VISHAY PRECISION FOIL GMBH Signatory Title]]}}
-
-
-\centered [Signature Page to RCK Intellectual Property License Agreement]
-
-\centered **SCHEDULE A** **LICENSED PRODUCTS**
-
-RCKHR02LEVB  
-RCKHR02LEVC  
-RCKHR02ALEVB  
-RCKHR02ALEVC
+\centered [INTENTIONALLY OMITTED]

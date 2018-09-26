@@ -1,0 +1,39 @@
+WAREHOUSE ASSOCIATES  
+
+\centered LEASE AMENDMENT #2
+
+This LEASE AMENDMENT #2 (the “Agreement”) is made and entered as of the [[Date 1: Date]] by and between Sharps Compliance, Inc. (“Tenant”) and Warehouse Associates Corporate Centre Kirby II, Ltd. (“Landlord”).
+
+\centered WITNESSETH:
+
+^Landlord**,** or its predecessor in Interest, and Tenant**,** or its predecessor in Interest, have heretofore entered into that certain lease dated [[Date 2: Date]] (the “Lease”), and for Lease Amendment #1 dated [[Date 3: Date]] for 9220 Kirby Drive, Suite 500 containing 18,231 rentablesquare feet in the Project known as Corporate Centre Kirby II, located at 9220-9230 Kirby Drive, [[Address 1: Address]], 77054 (the “Premises”),
+
+^The parties mutually desire to amend the Lease, subject to the terms and conditions hereof.
+
+NOW THEREFORE, in consideration of the mutual terms and conditions herein contained, the parties hereby agree as follows:
+
+^The parties agree that:   
+^The Lease Expiration Date shall be [[Date 4: Date]];
+
+^Landlord, at its sole cost, remove the grassy area on the dock side of the building and will also pave and stripe all areas on the dock side of the building in order to facilitate maximum additional parking spaces; and
+
+^There is no change in the base rent payable under the Lease during the term noted in A above.
+
+^Effective Date. This Agreementshall be effective as of the [[Date 1]] (herein referred to as the “Effective Date”).
+
+^Whole Agreement. This Agreement sets forth the entire agreement between the parties with respect to the matters set forth herein. There have been no additional oral or written representations or agreements. As amended herein, the Lease between the parties shall remain in full force and effect. In case of any inconsistency between the provisions of the Lease and this Agreement, the latter provisions shall govern and control.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+LANDLORD: Warehouse Associates Corporate Centre Kirby II, Ltd
+
+[[LANDLORD Warehouse Associates Corporate Centre Kirby II Ltd Signatory Email: Identity | Signature]]
+__________________________________________
+{{LANDLORD Warehouse Associates Corporate Centre Kirby II Ltd Entity => By: [[LANDLORD Warehouse Associates Corporate Centre Kirby II Ltd Signatory First Name]] [[LANDLORD Warehouse Associates Corporate Centre Kirby II Ltd Signatory Last Name]]
+Title: [[LANDLORD Warehouse Associates Corporate Centre Kirby II Ltd Signatory Title]]}}
+
+TENANT: Sharps Compliance, Inc.   
+[[TENANT Sharps Compliance Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{TENANT Sharps Compliance Inc. Entity => By: [[TENANT Sharps Compliance Inc. Signatory First Name]] [[TENANT Sharps Compliance Inc. Signatory Last Name]]
+Title: [[TENANT Sharps Compliance Inc. Signatory Title]]}}

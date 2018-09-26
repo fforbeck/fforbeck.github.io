@@ -1,126 +1,46 @@
-\centered **AMENDMENT AGREEMENT**
+\centered **AMENDMENT AGREEMENT** 
 
-This Amendment Agreement (this “***Agreement***”), dated as of [[Date 1: Date]], is entered into by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “***Company***”), [[Guarantor]], a [[State of Formation: State]] [[Organization: EntityType]] and wholly-owned subsidiary of the Company (“***Guarantor***”), GEMINI STRATEGIES, a [[State of Formation: State]] [[Organization: EntityType]] (the “***Collateral Agent***”), and [[Investor]], a Cayman Islands corporation (the “**Investor**”). The Company and the Guarantor are sometimes referred to herein individually as an “***Axis Entity***” and collectively as the “***Axis Entities***”.
+**THIS AMENDMENT AGREEMENT** (the “Amendment”) is entered into as of [[Date 1: Date]], by and between **[[Company]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and **LINCOLN PARK CAPITAL FUND**, an [[State of Formation: State]] [[Organization: EntityType]] (the “Investor”). 
 
-\centered R E C I T A L S:
+\centered **WHEREAS:** 
 
-WHEREAS, the Company and the Investor are party to that certain Securities Purchase Agreement, dated as of [[Date 2: Date]] (the “***Purchase Agreement***”), pursuant to which the Company issued to the Investor (i) a [[Percentage 1: Number]]% Senior Secured Convertible Note in the original principal amount of $[[USD Value 1: Number]] (the “***Initial****Note***”), convertible into shares of common stock of the Company, par value $[[USD Value 5: Number]] per share (the “**Common Stock**”), and (ii) a Warrant to purchase [[Shares 1: Number]] shares of Common Stock (the “*Warrant***”);
+The Company and the Investor have entered into a Purchase Agreement as of [[Date 2: Date]] (the “Purchase Agreement”). The parties desire to amend Section 2(i) of the Purchase Agreement to fully comply with the rules of the Principal Market as defined in the Purchase Agreement. 
 
-WHEREAS, on or about [[Date 3: Date]], the Investor loaned the Company additional funds and in consideration therefor the Company issued to the Investor a [[Percentage 1]]% Senior Secured Note in the original principal amount of $[[USD Value 2: Number]], which was due on [[Date 4: Date]] (“***Second*** ***Note***”, and together with the “***Initial*** ***Note***”, the “***Notes***”);
+NOW THEREFORE, the Company and the Investor hereby agree as follows: 
 
-WHEREAS, the Guarantor has entered into that certain Subsidiary Guarantee, dated as of [[Date 2]] (the “***Guarantee***”), pursuant to which each Guarantor has guaranteed the satisfaction of all the obligations of the Company under the Existing Transaction Documents (as defined below);
+^CHANGE TO PURCHASE AGREEMENT. The first paragraph of Section 2(i) of the Purchase Agreement shall be changed to read in full as follows: 
 
-WHEREAS, Guarantor has entered into that certain Intellectual Property Security Agreement, dated as of [[Date 2]] (the “***IP*** ***Security Agreement***”), pursuant to which Guarantor granted a security interest in its intellectual property to the Investor and the Collateral Agent to secure the satisfaction of all the obligations of the Axis Entities under the Existing Transaction Documents;
+^^^Compliance with Principal Market Rules; Company Rights Agreement. The Company shall not effect any sale or issuance of shares of Common Stock under this Agreement and the Investor shall not have the right or the obligation to purchase or accept issuance of any shares of Common Stock under this Agreement to the extent that after giving effect to such purchase or issuance the “Exchange Cap” shall be deemed to be reached. The “Exchange Cap” shall be deemed to have been reached if, at any time prior to the shareholders of the Company approving the transaction contemplated by this Agreement, upon a purchase or issuance under this Agreement, the Purchase Shares, Commitment Shares, and Warrant Shares issuable pursuant to such purchase or issuance would, together with all Purchase Shares, Commitment Shares, and Warrant Shares previously issued under this Agreement, exceed [[Shares 1: Number]] shares of Common Stock ([[Percentage 1: Number]]% of the 21,250,304 outstanding shares of Common Stock as of the date of this Agreement). The Company may, but shall be under no obligation to, request its shareholders to approve the transaction contemplated by this Agreement. The Company shall not be required to issue any Purchase Shares, Commitment Shares, or Warrant Shares under this Agreement if such issuance would breach the Company’s obligations under the rules or regulations of the Principal Market. 
 
-WHEREAS, the Company and the Guarantor have entered into that certain Security Agreement dated as of [[Date 2]] (together with the IP Security Agreement, the “***Security Agreements***”), pursuant to which the Company and the Guarantor have each granted a security interest in its assets and properties to the Investor and the Collateral Agent to secure the satisfaction of all the obligations of the Axis Entities under the Existing Transaction Documents;
+^NO CHANGE. The Company and the Investor agree that, except as modified by this Amendment, any and all provisions of the Purchase Agreement remain in full force and effect. 
 
-WHEREAS, the Company has failed to repay the Second Note and failed to make all Monthly Redemption payments required under the Initial Note, among other things;
+^COUNTERPARTS. This Amendment may be executed in two identical counterparts, both of which shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party; provided that a facsimile signature or signature delivered by e-mail in a “.pdf” format data file shall be considered due execution and shall be binding upon the signatory thereto with the same force and effect as if the signature were an original, not a facsimile signature or a signature in a “.pdf” format data file. 
 
-WHEREAS, the aggregate Mandatory Default Amount under both Notes together as of the date hereof is $[[USD Value 3: Number]]; and
+**IN WITNESS WHEREOF,** the Investor and the Company have caused this Amendment Agreement to be duly executed as of the date first written above. 
 
-WHEREAS, the Company parties wish to extend certain due dates under Notes on the terms set forth herein;
+**COMPANY:** 
 
-\centered A G R E E M E N T:
+**[[Company]]** 
 
-NOW, THEREFORE, in consideration of the foregoing and subject to the terms and conditions herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
-
-^**DEFINITIONS**.  
-^^**Certain Defined Terms**. As used in this Agreement, the following terms shall have the meanings set forth below:
-
-“***Existing Transaction Documents***” means the Purchase Agreement, the Notes, the Warrant, the Security Agreements, the Guarantee and all other agreements, instruments and other documents executed and delivered by or on behalf of the Axis Entities or any of their officers in connection with any of the foregoing agreements.
-
-“***Transaction Documents***” means the Existing Transaction Documents (as amended by this Agreement), this Agreement, the Amended and Restated Note (as defined below), the Warrant, and all other agreements, instruments and other documents executed and delivered by or on behalf of the Axis Entities or any of their officers in connection with this Agreement.
-
-Each initially capitalized term used herein and not otherwise defined shall have the meaning set forth in the Existing Transaction Documents.
-
-^^**Terms Defined in the Purchase Agreement**. Capitalized terms used in this Agreement and not otherwise defined herein have the respective meanings ascribed to them in the Purchase Agreement.
-
-^**AMENDMENT AND RESTATEMENT OF NOTES**.  
-^^**The Note**. The Notes are hereby amended and are being combined into a single restated Note in the form attached hereto as ***Exhibit A*** (the “***Amended and Restated Note***”), which shall provide, among other things, that (i) the original principal face amount of the Amended and Restated Note is $[[USD Value 3]], (ii) the Conversion Price (as defined therein) in effect as of the date hereof is the lesser of $[[USD Value 6: Number]] (subject to further adjustment as provided therein) and [[Percentage 2: Number]]% of the lowest closing bid price during the 20 Trading Days preceding conv ersion; (iii) the Maturity Date shall be [[Date 5: Date]] without any Monthly Redemptions; and (iv) the Company may prepay the Amended and Restated Note at any time with ten (10) Trading Days prior written notice.
-
-^^**Delivery**. The Company hereby irrevocably commits to deliver the Amended and Restated Note to the Investor on or prior to [[Date 6: Date]] in exchange for the Notes.
-
-^**ADDITONAL AMENDMENTS AND OTHER AGREEMENTS**.
-
-^^**Reservation of Common Stock**. At all times hereafter the Company shall cause to be authorized and reserved for issuance to the Investor from its duly authorized capital stock a number of shares of Common Stock for issuance of the Underlying Shares at least equal to the Required Minimum (after taking into account the amendments contemplated hereby).
-
-^^**References to Notes and Transaction Documents**. All references in the Existing Transaction Documents to (i) “Note” shall be deemed to be references to the Amended and Restated Note (together with any future Notes issued pursuant to the Purchase Agreement), and (ii) “Transaction Documents” shall be deemed to mean the Existing Transaction Documents (as amended by this Agreement), this Agreement, the Amended and Restated Note (together with any future Notes issued pursuant to the Purchase Agreement), and all other agreements, instruments and other documents executed and delivered by or on behalf of the Axis Entities or any of their officers in connection with this Agreement.
-
-^^**Indemnification of Investor and Collateral Agent**. Each of the Axis Entities will jointly and severally indemnify and hold the Investor and Collateral Agent and each of their directors, managers, officers, shareholders, members, partners, employees and agents (each, an “***Investor Party***”) harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all judgments, amounts paid in settlements, court costs and reasonable attorneys’ fees and costs of investigation that any such Investor Party may suf fer or incur as a result of or relating to (a) any breach of any of the representations, warranties, covenants or agreements made by an Axis Entity in this Agreement or in the other Transaction Documents or (b) any action instituted against the Investor, or any of its Affiliates, by any shareholder of an Axis Entity who is not an Affiliate of the Investor, with respect to any of the transactions contemplated by the Transaction Documents.
-
-^^**No Novation; Rule 144**. The Amended and Restated Note issued hereunder is in substitution for and not in satisfaction of the Notes. Such Amended and Restated Note shall not constitute a novation or satisfaction and accord of the Notes. The Company hereby acknowledges and agrees that such Amended and Restated Note shall amend, restate, modify, renew and continue the terms and provisions contained in the Notes and shall not extinguish or release the Company or Guarantor under any Transaction Document or otherwise constitute a novation of their obligations thereunder. For purposes of Rule 144 promulgated under the Se curities Act, the holding period of the Amended and Restated Note shall be tacked to the applicable holding period of the Notes. Without limiting the foregoing, if at any time it is determined that such holding period does not so tack, the Company will promptly, but no later than 30 days thereafter, cause the registration of all such Underlying Shares under the Securities Act (without regard to any beneficial ownership or issuance limitations contained in the Amended and Restated Note). In connection with any registration of Underlying Shares pursuant to this Section, the Company and the Investor shall enter into a registration rights agreement containing customary and reasonable provisions regarding the registration of securities under the Securities Act.
-
-^^**Security Continued**. The Axis Entities’ obligations under all the Transaction Documents, including without limitation this Agreement, the Amended and Restated Note and the Warrant, shall be secured by all the assets of the Axis Entities pursuant to the Security Agreements (and guaranteed by the Guarantor under the Guarantee) as if this Agreement and the Amended and Restated Note were each in effect at the time of execution of such Security Agreements and referenced therein. The Company shall execute such other agreements, documents and financing statements reasonably requested by Investor, which will be filed at the Company’ ;s expense with the applicable jurisdictions and authorities.
-
-^^**Disclosure**. The Company shall, by 8:30 a.m. (New York City time) on [[Date 6]], issue a press release disclosing the material terms of the transactions contemplated hereby. The Company and the Investor shall consult with each other in issuing such press release and any other press releases with respect to the transactions contemplated hereby.
-
-^**REPRESENTATIONS AND WARRANTIES OF THE AXIS ENTITIES**.
-
-Each of the Axis Entities hereby jointly and severally represents and warrants to the Investor as of the date hereof:
-
-^^**Organization**. Such Axis Entity is duly organized, validly existing and in good standing under the laws of its organization.
-
-^^**Authorization**. Such Axis Entity has the requisite corporate power and authority to execute, deliver and perform this Agreement and the other Transaction Documents to which it is a party. All corporate action on the part of such Axis Entity and by its officers, directors and shareholders necessary for the authorization, execution and delivery of, and the performance by such Axis Entity of its obligations under this Agreement and the other Transaction Documents to which it is a party has been taken, and no further consent or authorization of any other party is required.
-
-^^**Enforceability**. This Agreement and the other Transaction Documents to which such Axis Entity is a party constitute such Axis Entity’s valid and legally binding obligation, enforceable in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium or other similar laws of general application relating to or affecting the enforcement of creditors’ rights generally and (ii) general principles of equity.
-
-^^**No Conflicts**. The execution, delivery and performance of this Agreement and the other Transaction Documents to which such Axis Entity is a party, and the consummation of the transactions contemplated hereby and thereby, will not result in any violation of any provisions of any of such Axis Entity’s organizational documents or in a default under any provision of any instrument or contract to which such Axis Entity is a party or by which any of its assets are bound, or in violation of any provision of any governmental requirement applicable to such Axis Entity or be in conflict with or constitute, with or without the passage of time and giving of notice, either a default under any such pr ovision, instrument or contract or the triggering of any preemptive or anti-dilution rights (including without limitation pursuant to any “reset” or similar provisions) or rights of first refusal or first offer.
-
-^^**Valid Issuance**. The Amended and Restated Note has been duly authorized and, when issued and delivered in accordance with the terms of this Agreement, will be duly and validly issued, free and clear of any Liens imposed by or through any of the Axis Entities.
-
-^**REPRESENTATIONS AND WARRANTIES OF THE INVESTOR**.
-
-The Investor represents and warrants to the Company as of the date hereof:
-
-^^**Organization**. The Investor is duly organized, validly existing and in good standing under the laws of its organization.
-
-^^**Authorization**. The Investor has the requisite corporate power and authority to execute, deliver and perform this Agreement and the other Transaction Documents to which it is a party. All corporate action on the part of the Investor and by its officers, directors and shareholders necessary for the authorization, execution and delivery of, and the performance by the Investor of its obligations under this Agreement and the other Transaction Documents to which it is a party has been taken, and no further consent or authorization of any other party is required.
-
-^^**Enforceability**. This Agreement and the other Transaction Documents to which the Investor is a party constitute the Investor’s valid and legally binding obligation, enforceable in accordance with its terms, subject to (i) applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium or other similar laws of general application relating to or affecting the enforcement of creditors’ rights generally and (ii) general principles of equity.
-
-^^**No Conflicts**. The execution, delivery and performance of this Agreement and the other Transaction Documents to which the Investor is a party, and the consummation of the transactions contemplated hereby and thereby, will not result in any violation of any provisions of any of the Investor’s organizational documents or in a default under any provision of any instrument or contract to which the Investor is a party or by which any of its assets are bound, or in violation of any provision of any governmental requirement applicable to the Investor or be in conflict with or constitute, with or without the passage of time and giving of notice, a default under any such provision, instrument or contract.
-
-^**MISCELLANEOUS**.   
-
-^^**Severability**. In the event that any provision of this Agreement becomes or is declared by a court of competent jurisdiction to be illegal, unenforceable or void, this Agreement shall continue in full force and effect without said provision; provided that in such case the parties shall negotiate in good faith to replace such provision with a new provision which is not illegal, unenforceable or void, as long as such new provision does not materially change the economic benefits of this Agreement to the parties.
-
-^^**Successors and Assigns**. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and permitted assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and permitted assigns any rights, remedies, obligations or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. The Investor may assign its rights and obligations hereunder, as long as, as a condition precedent to such transfer, the transferee executes an acknowledgment agreeing to be bound by the applicable provisions of this Agreement, in which case the term “Investor” shall be deemed to refer to such transferee as though such transferee were an original signatory hereto. None of the Axis Entities may assign its rights or obligations under this Agreement.
-
-^^**No Reliance**. Each party acknowledges that (i) it has such knowledge in business and financial matters as to be fully capable of evaluating this Agreement and the transactions contemplated hereby and thereby, (ii) it is not relying on any advice or representation of any other party in connection with entering into this Agreement or such transactions (other than the representations made in this Agreement), (iii) it has not received from any other party any assurance or guarantee as to the merits (whether legal, regulatory, tax, financial or otherwise) of entering into this Agreement or the performance of its obligations hereunder and thereunder, a nd (iv) it has consulted with its own legal, regulatory, tax, business, investment, financial and accounting advisors to the extent that it has deemed necessary, and has entered into this Agreement based on its own independent judgment and, if applicable, on the advice of such advisors, and not on any view (whether written or oral) expressed by any other party.
-
-^^**Injunctive Relief**. Each of the Axis Entities acknowledges and agrees that a breach by it of its obligations hereunder will cause irreparable harm to the Investor and that the remedy or remedies at law for any such breach will be inadequate and agrees, in the event of any such breach, in addition to all other available remedies, the Investor shall be entitled to an injunction restraining any breach and requiring immediate and specific performance of such obligations without the necessity of showing economic loss or the posting of any bond.
-
-^^**Governing Law; Jurisdiction; Waiver of Jury Trial**. (a) This Agreement shall be governed by and construed under the laws of the State of New York applicable to contracts made and to be performed entirely within the State of New York. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in the City and County of New York for the adjudication of any dispute hereunder or any other Transaction Document or in connection herewith or therewith or with any transaction contemplated hereby or thereby, and hereby irrevocably waives, and agrees not to assert in any suit, action or p roceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is brought in an inconvenient forum or that the venue of such suit, action or proceeding is improper. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law.
-
-^^EACH PARTY TO THIS AGREEMENT ACKNOWLEDGES AND AGREES THAT ANY DISPUTE OR CONTROVERSY THAT MAY ARISE UNDER THIS AGREEMENT OR THE OTHER TRANSACTION DOCUMENTS IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES AND, THEREFORE, EACH PARTY HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT SUCH PARTY MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT, OR THE BREACH, TERMINATION OR VALIDITY OF THIS AGREEMENT OR THE OTHER TRANSACTION DOCUMENTS, OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY.
-
-^^**Counterparts**. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original, and all of which together shall constitute one and the same instrument. This Agreement may be executed and delivered by facsimile transmission or by email of a digital image format file.
-
-^^**Headings**. The headings used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
-
-^^**Notices**. Any notice, demand or request required or permitted to be given by an Axis Entity or the Investor pursuant to the terms of this Agreement shall be in writing and shall be deemed delivered (i) when delivered personally or by verifiable facsimile transmission, unless such delivery is made on a day that is not a Business Day, in which case such delivery will be deemed to be made on the next succeeding Business Day, (ii) on the next Business Day after timely delivery to an overnight courier and (iii) on the Business Day actually received if deposited in the U.S. mail (certified or registered mail, return receipt requested, postage prepaid), addressed in accordance with the notice provisions contained in the Purchase Agreement.
-
-^^**Entire Agreement; Amendments**. This Agreement and the other Transaction Documents constitute the entire agreement between the parties with regard to the subject matter hereof and thereof, superseding all prior agreements or understandings, whether written or oral, between or among the parties.
-
-^^**Full Force and Effect**. Except as specifically waived and amended hereby and for the purposes described herein, the Existing Transaction Documents shall remain in full force and effect in accordance with their respective terms. Except for the waiver and amendment contained herein, this Agreement shall not in any way waive or prejudice any of the rights of the Investor or obligations of the Company under the Transaction Documents, or under any law, in equity or otherwise, and such waiver and amendment shall not constitute a waiver or amendment of any other provision of the Transaction Documents nor a waiver or amendment of any subsequent default o r breach of any obligation of the Company or of any subsequent right of the Investor.
-
-^^**Fees and Expenses**. The Axis Entities and the Investor shall pay all costs and expenses that it incurs in connection with the negotiation, execution, delivery and performance of this Agreement and the other Transaction Documents, provided, however, that the Company shall, concurrently with the execution of this Agreement, pay the Investor the non-accountable sum of $[[USD Value 4: Number]] in immediately available funds for its expenses (including without limitation legal fees and expenses) incurred or to be incurred by it in connection with the Company’s defaults described herein and with the negotiation and pr eparation of this Agreement and the other Transaction Documents to be delivered in connection herewith.
-
-\centered [Signature Page to Follow]
-
-IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed on the day and year first above written.
-
-[[Company]]      [[Investor]]
-[[Company      Investor Signatory Email: Identity | Signature]]
+[[Company Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company      Investor Entity => By: [[Company      Investor Signatory First Name]] [[Company      Investor Signatory Last Name]]
-Title: [[Company      Investor Signatory Title]]}}
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
 
-Title:   President
 
-[[Guarantor]]      **GEMINI STRATEGIES**
+**INVESTOR:** 
 
-[[Guarantor      GEMINI STRATEGIES Signatory Email: Identity | Signature]]
+**LINCOLN PARK CAPITAL FUND** 
+
+**BY: LINCOLN PARK CAPITAL** 
+
+**PARTNERS** 
+
+**BY: ROCKLEDGE CAPITAL** 
+
+**CORPORATION** 
+
+[[CORPORATION Signatory Email: Identity | Signature]]
 __________________________________________
-{{Guarantor      GEMINI STRATEGIES Entity => By: [[Guarantor      GEMINI STRATEGIES Signatory First Name]] [[Guarantor      GEMINI STRATEGIES Signatory Last Name]]
-Title: [[Guarantor      GEMINI STRATEGIES Signatory Title]]}}
+{{CORPORATION Entity => By: [[CORPORATION Signatory First Name]] [[CORPORATION Signatory Last Name]]
+Title: [[CORPORATION Signatory Title]]}}

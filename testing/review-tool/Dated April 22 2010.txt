@@ -1,0 +1,1377 @@
+This Master Agreement has been included to provide investors with information regarding its terms. It is not intended to provide any other factual information about the Registrant. The representations, warranties and covenants contained in the Master Agreement were made only for purposes of such agreement and as of the specific dates therein, were solely for the benefit of the parties to such agreement, and may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures exchanged between the parties in connection with the execution of the Master Agreement. The representations and warranties may have been made for the purposes of allocating contractual risk between the parties to the agreement instead of establishing those matters as facts, and may be subject to standards of materiality applicable to the contracting parties that differ from those applicable to investors. Investors are not third party beneficiaries under the Master Agreement and should not rely on the representations, warranties and covenants or any descriptions thereof as characterizations of the actual state of facts or condition of the Registrant or any other party to the Master Agreement. Moreover, information concerning the subject matter of the representations and warranties may change after the date of the Master Agreement, which subsequent information may or may not be fully reflected in the Registrant’s public disclosures.
+
+\centered **Master Agreement** Dated [[Date 1: Date]] 20[[Shares [[Shares 1]]: Number]]0 Macquarie DDR Management Limited (ACN 101 743 926) (“**MDML**”) (as responsible entity of Macquarie DDR Trust (ARSN 106 570 352) (“**MDT**”)) Macquarie DDR Management LLC, a Delaware limited liability company (“**US Manager**”) EPN GP, a Delaware limited liability company (“**Investor**”) Developers Diversified Realty Corporation, an Ohio corporation (“**DDR Corp.**”) DDR MDT Holdings II Trust, a Maryland real estate investment trust (“**DDR**”) DDR Macquarie Fund LLC, a Delaware limited liability company (“**US LLC**”) DDR MDT PS LLC, a Delaware limited liability company (“**PS LLC**”) DDR MDT MV LLC, a Delaware limited liability company (“**Mervyns LLC**”) Macquarie DDR U.S. Trust Inc., a Maryland corporation (“**US REIT I**”) Macquarie DDR U.S. Trust II Inc., a Maryland corporation (“**US REIT II**”) Macquarie MDT Holdings Trust, a Maryland real estate investment trust (“**MBL US Trust**”) Macquarie MDT Holdings Inc., a Maryland corporation (“**MBL US Inc.**”) Belike Nominees Pty Limited (ACN 008 604 966), in its capacity as trustee of Macquarie Blended Property Trust (“**Belike**”) Macquarie Group Services Australia Pty Limited (ACN 116 467 031) (“**MGS**”) **Mallesons Stephen Jaques** Level 61 Governor Phillip Tower 1 Farrer Place [[Address 1: Address]] Australia T +61 2 9296 2000 F +61 2 9296 3999 DX 113 [[Address 2: Address]].mallesons.com Ref: MCW:SP  
+
+**Details**  
+**General terms**  
+** [Definitions and interpretation](#1)**  
+** [Execution of documents](#2)**  
+** [Implementation obligations](#3)**  
+** [Use of proceeds](#4)**  
+** [Representations and warranties](#5)**  
+** [Public announcements](#6)**  
+** [Confidential Information](#7)**  
+** [Notices and other communications](#8)**  
+** [MDML and Belike limitation of liability](#9)**  
+** [Acknowledgements](#10)**  
+** [Miscellaneous](#11)**  
+
+**Schedule 1 - Timetable**  
+**Schedule 2 – MDML’s representations and warranties**  
+**Schedule 3 - Investor’s representations and warranties**  
+**Schedule 4 - Macquarie MDT Unitholder ’s representations and warranties**  
+**Signing page**  
+**Annexure A - Subscription Agreement**  
+**Annexure B - Unit Sale Agreement**  
+**Annexure C – US Manager Assignment and Assumption Agreement**  
+**Annexure D - Deed of Termination of Licence Agreement**  
+**Annexure E - Deed of Termination of Resources Agreement**  
+**Annexure F - Transitional Services Agreement**  
+**Annexure G - Entitlement Offer Commitment Deed**  
+**Annexure H - Underwriting Agreement**  
+**Annexure I - Sub-underwriting Agreement**  
+**Annexure J - First MDT Supplemental Deed**  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2: Date]]   ii
+
+**Annexure K – US Manager Operating Agreement**  
+**Annexure L – REIT Shares Redemption Agreement**  
+**Annexure M – Form of US REIT I and US REIT II Director/Officer Resignation**  
+**Annexure N – US REIT I Charter**  
+**Annexure O – US REIT I Bylaws**  
+**Annexure P – US REIT II Charter**  
+**Annexure Q – US REIT II Bylaws**  
+**Annexure R – Documents**  
+**Annexure S – Notice to Bank of America re Venice Assets**  
+**Annexure T – Termination of US REIT I Class B-1 Exchange Agreement**  
+**Annexure U – Termination of US REIT I Class B-2 Exchange Agreement**  
+**Annexure V – Termination US REIT II Class B-2 Exchange Agreement**  
+**Annexure W – US Manager US Redemption Agreement**  
+**Annexure X – US Manager PS Redemption Agreement**  
+**Annexure Y – US Manager Mervyns Redemption Agreement**  
+**Annexure Z – Seventh Amended and Restated US LLC Agreement**  
+**Annexure AA – Fourth Amended and Restated Mervyns LLC Agreement**  
+**Annexure BB – Third Amended and Restated PS LLC Agreement**  
+**Annexure CC- Transaction Announcement**  
+**Annexure DD - Third MDT Supplemental Deed**  
+**Annexure EE - MDML Shareholder Resolutions**  
+**Annexure FF - Intellectual Property Licence**  
+**Annexure GG – EPN US REIT I Class B-2 Exchange Agreement**  
+**Annexure HH – EPN US REIT II Class B-2 Exchange Agreement**  
+**Annexure II – DDR US REIT I Class B-2 Exchange Agreement**  
+**Annexure JJ – Second MDT Supplemental Deed**  
+**Annexure KK - Letters of Credit**  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]   iii
+
+**Master Agreement**   
+Details  
+**Parties**   **MDML, US Manager, the Investor, DDR, DDR Corp., US LLC, PS LLC, Mervyns LLC, US REIT I, US REIT II, MBL US Trust, MBL US Inc., Belike and MGS**
+**MDML**   Name   **Macquarie DDR Management Limited**
+ACN   101 743 926
+Capacity   As responsible entity of Macquarie DDR Trust (ARSN 106 570 352) (“**MDT**”)
+Address   No 1 Martin Place [[Address 1: Address]]
+Fax   612 8232 4713
+Attention   Christine Williams
+**US Manager**   Name   **Macquarie DDR Management LLC**
+Address   c/o Macquarie DDR Management Limited No 1 Martin Place [[Address 1: Address]] Cc c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Capacity   Individually and as managing member of US LLC, PS LLC and Mervyns LLC
+Fax   +61 2 8232 4713 (attention Christine Williams) and [[Phone 1]] (attention General Counsel)
+**Investor**   Name   **EPN GP**
+Address   c/- Elbit Plaza USA, L.P. 707 Skokie Boulevard, Suite 600 [[Address 4: Address]] USA
+Fax   +1 972-3-608-6051
+Attention   Mr Dudi Machluf, CFO
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]] with copy to:   Elbit Imaging Ltd. 2 Weitzman Street, Tel Aviv 64239 Israel
+Fax   +1 972-3-608-6050
+Attention   Mr Zvi Maayan, Adv.
+and with copy to:   NCH Capital, Inc. 712 Fifth Avenue [[Address 5: Address]]-4108 USA
+Fax   [[Phone 2]]
+Attention   Gregory Katz, Esq. Senior General Counsel
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**DDR**   Name   **DDR MDT Holdings II Trust**
+Address   c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Fax   [[Phone 3]]
+Attention   General Counsel
+**DDR Corp.**   Name   **Developers Diversified Realty Corporation**
+Address   c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Fax   [[Phone 3]]
+Attention   General Counsel
+**US LLC**   Name   **DDR Macquarie Fund LLC**
+Address   c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Fax   [[Phone 3]]
+Attention   General Counsel
+**PS LLC**   Name   **DDR MDT PS LLC**
+Address   c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Fax   [[Phone 3]]
+Attention   General Counsel
+**Mervyns LLC**   Name   **DDR MDT MV LLC**
+Address   c/o Developers Diversified Realty Corporation 3300 Enterprise Parkway [[Address 3: Address]] USA
+Fax   [[Phone 3]]
+Attention   General Counsel
+**US REIT I**   Name   **Macquarie DDR U.S. Trust Inc.**
+Address   One North Wacker Drive, 7th Floor [[Address 6: Address]] USA Attn: MDT Asset Manager
+Fax   [[Phone 4]]
+Attention   c/o Macquarie Capital Funds Inc.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**US REIT II**   Name   **Macquarie DDR U.S. Trust II Inc.**
+Address   One North Wacker Drive, 7th Floor [[Address 6: Address]] USA Attn: MDT Asset Manager
+Fax   [[Phone 4]]
+Attention   c/o Macquarie Capital Funds Inc.
+**MBL US Trust**   Name   **Macquarie MDT Holdings Trust**
+Address   125 West 55th Street Level 22 [[Address 5: Address]] USA +1 212 231 155
+Fax   +61 2 8232 4713
+Attention   Company Secretary cc Christine Williams
+**MBL US Inc.**   Name   **Macquarie MDT Holdings Inc.**
+Address   125 West 55th Street Level 22 [[Address 5: Address]] USA Cc c/o Macquarie DDR Management Limited No 1 Martin Place, [[Address 1: Address]]
+Fax   [[Phone 5]] Cc 61 2 8232 4713
+Attention   Company Secretary Cc Christine Williams
+**Belike**   Name   **Belike Nominees Pty Limited**
+ACN   008 604 966
+Capacity   As trustee of Macquarie Blended Property Trust
+Address   No 1 Martin Place [[Address 1: Address]]
+Fax   +61 2 8232 4713
+Attention   Christine Williams
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**MGS**   Name   **Macquarie Group Services Australia Pty Limited**
+ACN   116 467 031
+Address   No 1 Martin Place [[Address 1: Address]]
+Fax   +61 2 8232 4713
+Attention   Christine Williams
+**Recitals**   The Parties have agreed to implement the Transaction upon and subject to the terms and conditions of this agreement.
+**Governing law**   New South Wales
+**Date of agreement**   See Signing page
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**    
+General terms   
+
+**Definitions and interpretation**
+
+^^**Definitions**
+
+These meanings apply unless the contrary intention appears.
+
+**Amended and Restated US Joint Venture Agreements** means the Seventh Amended and Restated US LLC Agreement, the Fourth Amended and Restated Mervyns LLC Agreement and the Third Amended and Restated PS LLC Agreement.
+
+**ASIC** means the Australian Securities & Investments Commission.
+
+**ASX** means ASX Limited or the market operated by it, as the context requires.
+
+**Business Day** means a business day as defined in the Listing Rules.
+
+**CBA Standstill** means a standstill agreement for the period of the Entitlement Offer (on terms agreed between MDML and the Underwriters) from Commonwealth Bank of Australia as administrative agent and lender under the Credit Agreement dated 13 [[Date 3: Date]] between, amongst others, DDR MDT Great Northern LLC, DDR MDT Belden Park LLC, DDR MDT Beldon II Park LLC, DDR MDT Midway Marketplace LLC, DDR MDT Merriam Town Center LLC, DDR MDT Riverdale Village Inner Ring LLC, DDR MDT Monaca Township Marketplace LLC, DDR MDT Cool Springs Pointe LLC, DDR MDT Winter Park Palms LLC, DDR MDT Lake Walden Square LLC and DDR MDT Piedmont Plaza LLC.
+
+**Citi** means Citigroup Global Markets Australia Pty Limited (ACN 003 114 832).
+
+**Claim** means any claim, demand, legal proceedings or cause of action including any claim, demand, legal proceedings or cause of action:
+
+^^based in contract (including breach of warranty);
+
+^^based in tort (including misrepresentation or negligence);
+
+^^under common law; or
+
+^^under statute,
+
+in any way relating to this agreement and includes a claim, demand, legal proceedings or cause of action arising from a breach of warranty or under an indemnity in this agreement.
+
+**Class C Shares** means the Class C common stock of US REIT I and US REIT II which are held by employees and former employees of Macquarie Group Members.
+
+**Class C Shareholders** means the holders of the Class C Shares.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Code** means the United States Internal Revenue Code of 1986, as amended, and the United States Treasury Regulations promulgated thereunder.
+
+**Completion Date** means the first to occur of:
+
+^^^the date of the allotment of the Entitlement Offer Units under the Entitlement Offer; and
+
+^^^the date 60 days after the Entitlement Offer Announcement Materials are provided to ASX in accordance with clause 3.2 provided that the Investor has not breached its obligations under the Sub-underwriting Agreement.
+
+**Confidential Information** means Macquarie Confidential Information, MDT Confidential Information or Investor Entity Confidential Information.
+
+**Corporations Act** means the Australian Corporations Act 2001 (Cwlth).
+
+**Data Room** means the virtual data room established by MDML, and populated with information by MDML as listed in the data room index, a copy of which has been initialled by MDML and the Investor for identification on or prior to the execution of this agreement.
+
+**DDR REIT Officers** means each of:  
+^^Scott A. Wolstein;
+
+^^Daniel B. Hurwitz;
+
+^^David J. Oakes;
+
+^^Joan U. Allgood;
+
+^^Richard E. Brown;
+
+^^Paul Freddo;
+
+^^David E. Weiss; and
+
+^^Craig A. Schultz.
+
+**DDR US REIT I Class B-2 Exchange Agreement** means the DDR Class B-2 Exchange Agreement in the form or substantially the form set out in Annexure II by and between MDT and DDR.
+
+**Deed of Indemnity** means the deed of indemnity granted by the US Manager in favour of MDML dated on or around 1 [[Date 2]].
+
+**Deed of Termination of Licence Deed** means the deed of termination in the form set out in Annexure D under which Macquarie Bank Limited, MDML, the US Manager and DDR Management Fund LLC agree to terminate the licence deed between those parties dated 21 [[Date 4: Date]].
+
+**Deed of Termination of Resources Agreement** means the deed of termination in the form set out in Annexure E under which Macquarie Capital Group Limited and MDML agree to terminate the resources agreement between those parties dated 31 [[Date 5: Date]].
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Derivative Liabilities** means amounts which are required to be paid by the relevant MDT Entity to a Hedge Provider on a net basis under each MDT Derivative and each Macquarie DDR Fund LLC Derivative in order to close out each MDT Derivative and each Macquarie DDR Fund LLC Derivative on the Completion Date.
+
+**Due Diligence Q&A** means the omnibus of questions asked by the Investor and answered by MDML in relation to the Investor’s due diligence process, a copy of which has been initialled by MDML and the Investor for identification on or prior to the execution of this agreement.
+
+**Effective Time** means the time that the last of the Parties has executed this agreement.
+
+**Eligible Unitholders** has the meaning given to that term in the Underwriting Agreement.
+
+**Entitlement Offer** means the pro-rata entitlement offer to be made to Eligible Unitholders to raise approximately $[[USD Value 8: Number]] million on terms determined by MDML in consultation with the Investor.
+
+**Entitlement Offer Announcement Materials** means each of the following documents in the form determined by MDML in relation to the Entitlement Offer:
+
+^^a form of ASX announcement or press release in a form determined by MDML after consultation with the Investor;
+
+^^the PDS; and  
+^^an ASX Listing Rule Appendix 3B notice in relation to the Entitlement Offer.
+
+**Entitlement Offer Announcement Time** means the time determined by MDML after consultation with the Investor and the Underwriters at which the Entitlement Offer Announcement Materials are to be provided to ASX for release to the market.
+
+**Entitlement Offer Units** means those MDT Units to be offered pursuant to the Entitlement Offer.
+
+**EPN Entitlement Offer Commitment** **Deed** means the deed of undertaking pursuant to which the Investor undertakes to subscribe for and pay or procure payment for all of the new MDT units to which it will be entitled under the Entitlement Offer.
+
+**EPN MDML Directors** means the persons named by the Investor in a notice in writing to MDML, delivered not later than 5 Business Days before the Completion Date, as the Investor's nominees for appointment as directors of MDML in accordance with the constitution of MDML (as amended by the MDML Shareholder Resolutions).
+
+**EPN US REIT I Class B-2 Exchange Agreement** means the EPN Class B-2 Exchange Agreement in the form or substantially the form set out in Annexure GG by and between MDT and EPN.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**EPN US REIT II Class B-2 Exchange Agreement** means the EPN Class B-2 Exchange Agreement in the form or substantially the form set out in Annexure HH by and between MDT and EPN.
+
+**Excluded Information** means Confidential Information which:
+
+^^is in or becomes part of the public domain other than through breach of this agreement or an obligation of confidence owed to the party providing the Confidential Information; or
+
+^^was already known to the recipient at the time of disclosure by the party providing the Confidential Information (unless such knowledge arose from disclosure of information in breach of an obligation of confidentiality) and can be demonstrated to have been known; or
+
+^^the recipient of the Confidential Information acquires from a source other than the party providing the Confidential Information or any Related Body Corporate (as defined in the Corporations Act) or Representative of the party providing the Confidential Information where such source, to the knowledge of the recipient, is entitled to disclose it.
+
+**First MDT Supplemental Deed** means the supplemental deed to amend the constitution of MDT to insert a provision providing for the issue of the Placement Units at the Placement Price in the form attached as Annexure J.
+
+**Fourth Amended and Restated Mervyns LLC Agreement** means the Fourth Amended and Restated Limited Liability Company Agreement of Mervyns LLC in the form or substantially the form attached as Annexure AA.
+
+**Hedge Provider** means each counterparty to an MDT Derivative or a Macquarie DDR Fund LLC Derivative that is not an MDT Entity.
+
+**Intellectual Property Licence** means the Intellectual Property Licence in the form attached as Annexure FF.
+
+**Investor Entity** means the Investor and any of its related bodies corporate, as that term is defined in the Corporations Act.
+
+**Investor Entity Confidential Information** means all confidential, non-public or proprietary information regardless of how the information is stored or delivered, exchanged between the parties before, on, or after the date of this agreement relating to the business, technology or other affairs of an Investor Entity.
+
+**Last Accounts** means the audit reviewed financial report of MDT prepared for the half-year ended 31 [[Date 6: Date]] and given to ASX.
+
+**Letters of Credit** means the standby letters of credit, to be provided by JP Morgan Chase Bank, N.A and FIBI Bank Switzerland Limited, in the form set out in Annexure KK or otherwise reasonably agreed by the Investor and MDML to the Underwriters in accordance with clause 2.4.
+
+**Listing Rules** means the Listing Rules of ASX as waived or modified from time to time.
+
+**Losses** means all Claims, demands, damages, losses, costs, expenses and liabilities.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Macquarie** means Macquarie Group Limited (ACN 122 169 279).
+
+**Macquarie Confidential Information** means all confidential, non-public or proprietary information regardless of how the information is stored or delivered, exchanged between the parties before, on, or after the date of this agreement relating to the business, technology or other affairs of MDML or a Macquarie Group Member.
+
+**Macquarie Group Member** means Macquarie Group Limited and each of its Subsidiaries.
+
+**Macquarie MDML Directors** means each of:  
+^^Richard Sheppard;
+
+^^Simon Jones; and
+
+^^Stephen Girdis.
+
+**Macquarie MDT Unitholders** means Belike, MBL US Inc. and MGS.
+
+**Macquarie REIT Directors and Officers** means each of:
+
+^^Richard Sheppard;
+
+^^Stephen Girdis; and
+
+^^Mark Mullen.
+
+**Macquarie US REIT Derivatives** means the various derivative transactions between the US LLC and Macquarie Bank Limited and Citibank, N.A., and the derivative transactions between Longhorn II LLC and UBS Investment Bank under their respective ISDA Agreements.
+
+**MDML Shareholder Resolutions** means the resolutions in the form, or substantially the form, attached as Annexure EE pursuant to which the sole shareholder of MDML resolves to change the name of MDML to a name proposed by the Investor and DDR that does not include “Macquarie” or any substantially identical or deceptively similar word, amend the constitution of MDML and replace certain of the directors of MDML.
+
+**MDT Confidential Information** means all confidential, non-public or proprietary information regardless of how the information is stored or delivered, exchanged between the parties before, on, or after the date of this agreement relating to the business, technology or other affairs of an MDT, the US REITs and any of their subsidiaries and controlled entities.
+
+**MDT Derivatives** means the various derivative transactions between MDT and Macquarie Bank Limited, Societe Generale and The Hongkong and Shanghai Banking Corporation Limited under their ISDA Agreements and the various derivative transactions between MDT and Commonwealth Bank of Australia Limited under the relevant swap confirmations for those transactions.
+
+**MDT Entity** means MDML, MDT, US REIT I, US REIT II, US LLC, PS LLC or Mervyns LLC.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**MDT Register** means the unit register of MDT maintained in accordance with the constitution of MDT and the Corporations Act.
+
+**MDT Units** means fully paid ordinary units in MDT.
+
+**Mervyns LLC Agreement** means the Third Amended and Restated Limited Liability Company Agreement of Mervyns LLC, dated as of [[Date 7: Date]], as such agreement may be amended from time to time.
+
+**New MDT Units** means the Placement Units and the Entitlement Offer Units.
+
+**Notice to Bank of America re Venice Assets** means the notice to Bank of America, N.A. in the form or substantially the form attached as Annexure S.
+
+**Outgoing DDR MDML Director** means the director of MDML named by DDR in a notice in writing to MDML, delivered not later than 5 Business Days before the Completion Date, requesting the removal of that director on the Completion Date in accordance with the constitution of MDT.
+
+**PDS** means the product disclosure statement to be lodged with ASIC and sent to Eligible Unitholders in connection with the Entitlement Offer in a form to be agreed between MDML and the Underwriters.
+
+**Permitted Disposals** means the following disposals:
+
+^^the sale of the McDonough Marketplace property located at 101 Willow Lane, Mcdonough, Atlanta, Georgia for approximately US$[[USD Value 1: Number]];
+
+^^the sale of the West Covina Shopping Centre located at 2753 E Eastland Ctr Dr, West Covina, Los Angeles, California and the Fairfield property located at 1451 Gateway Boulevard, Fairfield, California to Westfield for approximately US$[[USD Value 2: Number]]; and
+
+^^the sale of the ex-Mervyn’s South San Diego property located at 575 Saturn Boulevard, San Diego, California to Wal-Mart for approximately US$[[USD Value 3: Number]]
+
+**Placement** means the private placement of the Placement Units to the Investor in accordance with the Subscription Agreement.
+
+**Placement** **Completion** means the registration of the Investor as the holder of the Placement Units in accordance with the Subscription Agreement.
+
+**Placement** **Units** means the 141,480,000 MDT Units to be issued to the Investor pursuant to the Placement at a price per MDT Unit of A$[[USD Value 10: Number]].
+
+**PS LLC Agreement** means the Second Amended and Restated Limited Liability Company Agreement of PS LLC, dated as of [[Date 7]], as such agreement may be amended from time to time.
+
+**REIT Bylaws** means the US REIT I Bylaws and the US REIT II Bylaws.
+
+**REIT Charters** means the US REIT I Charter and the US REIT II Charter.
+
+**REIT Redemption Agreement** means the Redemption Agreement by and among MBL US Trust, US REIT I and US REIT II in the form or substantially the form set out in Annexure L pursuant to which US REIT I and US REIT II agree to redeem all Class A and B-1 Shares in US REIT I, and all Class B-1 Shares in US REIT II, held by MBL US Trust.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Related Body Corporate** has the meaning given to it in the Corporations Act.
+
+**Representative** means any person acting for or on behalf of a person including any director, officer, employee, agent, contractor or professional adviser of a person.
+
+**Resources Agreement** means the resources agreement dated 31 [[Date 5]] between Macquarie Capital Group Limited and MDML, as such agreement may be amended from time to time.
+
+**Second MDT Supplemental Deed** means the supplemental deed to amend the constitution of MDT to insert a provision providing for the issue of the Entitlement Offer Units in the form or substantially the form attached as Annexure JJ.
+
+**Seventh Amended and Restated US LLC Agreement** means the Seventh Amended and Restated Limited Liability Company Agreement of US LLC in the form or substantially the form attached as Annexure Z.
+
+**Sixth Amended and Restated US Manager LLC Agreement** means the Sixth Amended and Restated Limited Liability Company Agreement of the US Manager, dated as of [[Date 7]].
+
+**Stand Still Agreements** meansthe CBA Standstill andan agreement (on terms agreed between MDML and the Underwriters) from each of the non-MDT Entity parties to the MDT Derivatives Liabilities and the Unsecured Debt Documents in respect of the MDT Derivatives Liabilities and the Unsecured Debt Documents, as relevant.
+
+**Subscription Agreement** means the subscription agreement in the form set out in Annexure A under which the Investor agrees to subscribe for, and MDML agrees to issue the Placement Units.
+
+**Subsidiary** has the meaning given in the Corporations Act.
+
+**Sub-underwriting Agreement** means the sub-underwriting agreement in the form, or substantially the form, set out in Annexure I between the Underwriters and the Investor pursuant to which the Investor agrees to sub-underwrite the Entitlement Offer up to an amount of $[[USD Value 9: Number]] million (or such higher amount as the Investor shall elect by notice in writing to the Underwriters by no later than Friday 23 [[Date 2]]).
+
+**Termination of US REIT I Class B-1 Exchange Agreement** means the Termination of Second Amended and Restated US REIT Class B-1 Exchange agreement in the form or substantially the form set out on Annexure T by and among MDML, US Manager, MBL US Trust and DDR.
+
+**Termination of US REIT I Class B-2 Exchange Agreement** means the Termination of Amended and Restated Class B-2 Exchange agreement in the form or substantially the form set out on Annexure U between MDML and MBL US Trust.
+
+**Termination of US REIT II Class B-2 Exchange Agreement** means the Termination of Amended and Restated Class B-2 Exchange agreement in the form or substantially the form set out on Annexure V between MDML and MBL US Trust.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Timetable** means the timetable for the Placement and Entitlement Offer as set out in schedule 1.
+
+**Third Amended and Restated PS LLC Agreement** means the Third Amended and Restated Limited Liability Company Agreement of PS LLC in the form or substantially the form attached as Annexure BB.
+
+**Third MDT Supplemental Deed** means the supplemental deed to amend the constitution of MDT to change the name of MDT and references to Macquarie in the form or substantially the form attached as Annexure DD.
+
+**Transaction** means the transaction described in the Transaction Documents together with the Entitlement Offer.
+
+**Transaction Announcement** meansthe ASX announcement in relation to the Transaction in substantially the form set out in Annexure CC.
+
+**Transaction Documents** means the documents set out in clauses 2.1, 2.2 and 2.3.
+
+**Transitional Services Agreement** means the transitional services deed in the form set out in Annexure F between Macquarie Capital Group Limited and MDML under which Macquarie Capital Group Limited agrees to provide certain services to MDML.
+
+**Trust Property** means the property of the relevant trust from time to time determined under the trust deed of that trust, and if there are any wholly owned sub-trusts means includes the property of those sub-trusts.
+
+**Underwriters** meansMacquarie Capital Advisers Limited and Citi.
+
+**Underwriting Agreement** means the underwriting agreement in the form, or substantially the form, set out in Annexure H between and the Underwriters and MDML pursuant to which the Underwriters agree to underwrite the Entitlement Offer.
+
+**Unit Sale Agreement** means the unit sale agreement in the form set out in Annexure B.
+
+**Unit Sale Completion** means the registration of the Investor as the holder of the MDT Units the subject of the Unit Sale Agreement in accordance with that agreement.
+
+**Unsecured Debt Documents** means the loan agreement between UBS AG, Australian Branch and Royal Bank of Scotland, plc Australian Branch with MDML as responsible entity of MDT and all other 'Finance Documents' as defined in that loan agreement.
+
+**US LLC Agreement** means the Sixth Amended and Restated Limited Liability Company Agreement of US LLC, dated as of [[Date 7]], as such agreement may be amended from time to time.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**US Manager Assignment and Assumption Agreement** means the agreement in the form or substantially the form set out in Annexure C pursuant to which:
+
+^^MBL US Trust agrees to sell and the Investor agrees to acquire all of MBL US Trust’s limited liability company interest in the US Manager, representing [[Percentage 1: Number]]% of the outstanding limited liability company interests in the US Manager; and
+
+^^US Manager agrees to distribute to DDR and MBL US Trust certain accrued fees and distributions related to US LLC and PS LLC.
+
+**US Manager Mervyns Redemption Agreement** means the Redemption Agreement between US Manager and Mervyns LLC in the form or substantially the form set out in Annexure Y.
+
+**US Manager Operating Agreement** means the Seventh Amended and Restated Limited Liability Company Agreement of US Manager in the form or substantially the form set out in Annexure K.
+
+**US Manager PS Redemption Agreement** means the Redemption Agreement between US Manager and PS LLC in the form or substantially the form set out in Annexure X.
+
+**US Manager Redemption Agreements** means the US Manager PS Redemption Agreement, the US Manager Mervyns Redemption Agreement and the US Manager US Redemption Agreement.
+
+**US Manager Sale** means the sale of MBL US Trust’s limited liability company interest in the US Manager to the Investor in accordance with the US Manager Assignment and Assumption Agreement.
+
+**US Manager US Redemption Agreement** means the Redemption Agreement between US Manager and US LLC in the form or substantially the form set out in Annexure W.
+
+**US REIT I Bylaws** means the Third Amended and Restated Bylaws of US REIT I in the form or substantially the form set out on Annexure O.
+
+**US REIT I Charter** means the Fourth Amended and Restated Articles of Incorporation of US REIT I in the form or substantially the form set out on Annexure N.
+
+**US REIT II Bylaws** means the Second Amended and Restated Bylaws of US REIT II in the form or substantially the form set out on Annexure Q.
+
+**US REIT II Charter** means the Third Amended and Restated Articles of Incorporation of US REIT II in the form or substantially the form set out on Annexure P.
+
+^^**References to certain general terms**
+
+Unless the contrary intention appears, a reference in this agreement to:
+
+^^**(variations or replacement)** a document (including this agreement) includes any variation or replacement of it;
+
+^^**(clauses, annexures and schedules)** a clause, annexure or schedule is a reference to a clause in or annexure or schedule to this agreement;
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**(reference to statutes)** a statute, ordinance, code or other law includes regulations and other instruments under it and consolidations, amendments, re-enactments or replacements of any of them;
+
+^^**(law)** law means common law, principles of equity, and laws made by parliament (and laws made by parliament include State, Territory and Commonwealth laws and regulations and other instruments under them, and consolidations, amendments, re-enactments or replacements of any of them);
+
+^^**(singular includes plural)** the singular includes the plural and vice versa;
+
+^^**(person)** the word “person” includes an individual, a firm, a body corporate, a partnership, a joint venture, an unincorporated body or association, any Regulatory Authority, or any other body, entity or representative whatsoever;
+
+^^**(executors, administrators, successors)** a particular person includes a reference to the person’s executors, administrators, successors, substitutes (including persons taking by novation) and assigns;
+
+^^**(two or more persons)** an agreement, representation or warranty in favour of two or more persons is for the benefit of them jointly and each of them individually;
+
+^^**(jointly and severally)** an agreement, representation or warranty by two or more persons binds them jointly and each of them individually;
+
+^^**(reference to a group of persons)** a group of persons or things is a reference to any two or more of them jointly and to each of them individually;
+
+^^**(dollars)** Australian dollars, dollars, A$ or $ is a reference to the lawful currency of Australia. US Dollars and US$ is a reference to the lawful currency of the United States of America;
+
+^^(**calculation of time**) a period of time dating from a given day or the day of an act or event, is to be calculated exclusive of that day;
+
+^^(**reference to a day)** a day is to be interpreted as the period of time commencing at midnight and ending 24 hours later;
+
+^^**(accounting terms)** an accounting term is a reference to that term as it is used in accounting standards under the Corporations Act, or, if not inconsistent with those standards, in accounting principles and practices generally accepted in Australia;
+
+^^**(meaning not limited)** the words “include”, “including”, “for example” or “such as” when introducing an example, do not limit the meaning of the words to which the example relates to that example or examples of a similar kind; and
+
+^^**(time of day)** time is a reference to Australian Eastern Standard Time or Australian Eastern Daylight Time as relevant.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Next day**
+
+If an act under this agreement to be done by a party on or by a given day is done after 5.30 pm on that day, it is taken to be done on the next day.
+
+^^**Next Business Day**
+
+If an event must occur on a stipulated day which is not a Business Day then the stipulated day will be taken to be the next Business Day.
+
+^^**Headings**
+
+Headings (including those in brackets at the beginning of paragraphs) are for convenience only and do not affect the interpretation of this agreement.
+
+**Execution of documents**
+
+^^**Entry into Transaction Documents**
+
+Immediately following the Effective Time, each of the Parties must enter into, or procure the entry into of, the following documents where they, or one of more of their respective controlled entities, are expressed as being a party to or responsible for executing the document:
+
+^^the Subscription Agreement (Annexure A);
+
+^^the Unit Sale Agreement (Annexure B);
+
+^^the Deed of Termination of Licence Agreement (Annexure D);
+
+^^the Deed of Termination of Resources Agreement (Annexure E);
+
+^^the Transitional Services Agreement (Annexure F);
+
+^^the EPN Entitlement Offer Commitment Deed (Annexure G);
+
+^^the First MDT Supplemental Deed;
+
+^^the Intellectual Property Licence (Annexure FF); and
+
+^^the Notice to Bank of America re Venice Assets (Annexure S).
+
+^^**Entitlement Offer obligations**
+
+^^On and from the date of execution, MDML and the Investor must use their reasonable best efforts to obtain:
+
+^^^fully executed copies of the Stand Still Agreements; and
+
+^^^the Underwriting Agreement and the Sub-underwriting Agreement signed by the Underwriters.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^On the date that MDML receives a fully signed copy of the Stand Still Agreements and a copy of the Underwriting Agreement and Sub-underwriting Agreement signed by the Underwriters and immediately prior to the Entitlement Offer Announcement Time, each of the Parties must enter into and deliver, or procure the entry into and delivery of, the following documents where they, or one of more of their respective controlled entities, are expressed as being a party to or responsible for executing the document:
+
+^^^the Underwriting Agreement (Annexure H);
+
+^^^the Sub-underwriting Agreement (Annexure I); and
+
+^^^the Second MDT Supplemental Deed (Annexure JJ).
+
+^^**US Manager and REIT Redemption Transaction Documents**
+
+^^On or prior to the Completion Date, each of the Parties must enter into, or procure the entry into of, the following documents where they, or one of more of their respective controlled entities, are expressed as being a party to or responsible for executing the document, in the order and priority set forth below:
+
+^^^the US Manager Redemption Agreements (Annexures W, X and Y);
+
+^^^the Amended and Restated US Joint Venture Agreements (Annexures Z, AA and BB);
+
+^^^the REIT Redemption Agreement (Annexure L);
+
+^^^the US Manager Assignment and Assumption Agreement (Annexure C);
+
+^^^the US Manager Operating Agreement (Annexure K);
+
+^^^the Termination of US REIT Class B-1 Exchange Agreement (Annexure T);
+
+^^^the Termination of US REIT I Class B-2 Exchange Agreement (Annexure U);
+
+^^^the Termination of US REIT II Class B-2 Exchange Agreement (Annexure V);
+
+^^^the EPN US REIT I Class B-2 Exchange Agreement (Annexure GG);
+
+^^^the EPN US REIT II Class B-2 Exchange Agreement (Annexure HH); and
+
+^^^the DDR US REIT I Class B-2 Exchange Agreement (Annexure II).
+
+^^During the period beginning at the Effective Time and ending on the date that the US Manager Assignment and Assumption Agreement is entered into (which shall in no event be later than the Completion Date), EPN, DDR and MBL US Trust agree to use reasonable efforts to determine in good faith the Net Asset Value (as defined in the US Manager Assignment and Assumption Agreement) of US Manager as of the date such agreement is entered into.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Letters of credit**
+
+Prior to the execution of the Sub-underwriting Agreement in accordance with clause 2.2(b), the Investor must procure the delivery to the Underwriters of the Letters of Credit to provide financial support for the obligations of the Investor under the Sub-underwriting Agreement.
+
+^^**MDT Supplemental Deeds**
+
+^^As soon as reasonably practicable after the execution of the First MDT Supplemental Deed in accordance with clause 2.1, MDML must lodge the changes to the constitution of MDT made by that deed with ASIC.
+
+^^As soon as reasonably practicable after the execution of the Second MDT Supplemental Deed in accordance with clause 2.2(b), MDML must lodge the changes to the constitution of MDT made by that deed with ASIC.
+
+^^On the Completion Date, MDML will execute the Third MDT Supplemental Deed (Annexure DD) and must as soon as practicable lodge the changes to the constitution of MDT made by that deed with ASIC.
+
+^^**MDML Shareholder Resolutions**
+
+On the Completion Date:  
+^^the Investor must provide to MDML:
+
+^^^a request for the removal of the Macquarie MDML Directors in accordance with clause 3.7 of the MDML Constitution as amended by the MDML Shareholder Resolutions (Annexure EE); and
+
+^^^a request to appoint the EPN MDML Directors in accordance with clause 3.5 of the MDML Constitution as amended by the MDML Shareholder Resolutions (Annexure EE).
+
+^^DDR Corp. must provide to MDML a request for the removal of the Outgoing DDR MDML Director in accordance with clause 3.7 of the MDML Constitution as amended by the MDML Shareholder Resolutions (Annexure EE); and
+
+^^the US Manager must execute and deliver to MDML the MDML Shareholder Resolutions (Annexure EE) and MDML must, as soon as practicable after the execution and delivery of the MDML Shareholder Resolutions to MDML, lodge with ASIC notice of:
+
+^^^the change of name of MDML;
+
+^^^the changes to the constitution of MDML; and
+
+^^^the changes to the directors of MDML.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Notice to Bank of America**
+
+As soon as reasonably practicable after the execution of the Notice to Bank of America re Venice Assets (Annexure S) in accordance with clause 2.1, MDML will provide a signed copy of the Notice to Bank of America re Venice Assets to Bank of America, N.A. at the address specified in that document.
+
+**Implementation obligations**
+
+^^**Obligation to announce**
+
+Immediately following the execution of the documents in accordance with clause 2.1, MDML must give to ASX the Transaction Announcement (Annexure CC) for release to the market.
+
+^^**Obligation to undertake Entitlement Offer**
+
+Immediately following the execution of the Underwriting Agreement and the Sub-underwriting Agreement by all the parties to those agreements in accordance with clause 2.2(b), MDML must:
+
+^^give the Entitlement Offer Announcement Materials to ASX for release to the market;
+
+^^undertake the Entitlement Offer in accordance with the Timetable; and
+
+^^ensure that the Entitlement Offer Announcement Materials comply with applicable law, the Listing Rules and applicable ASIC Regulatory Guides, including providing to the ASX and holders of MDT Units such further or new information as may arise after the release of the Entitlement Offer Announcement Materials and the despatch of the Product Disclosure Statement as is required by law,
+
+provided that (without prejudice to any Party's rights and remedies in respect of any breach of this agreement or the Transaction Documents) MDML’s obligations under this clause shall cease in the event that the Placement Completion, in accordance with the Subscription Agreement, and the Unit Sale Completion, in accordance with the Unit Sale Agreement, have not occurred prior to the record date for the Entitlement Offer as set out in the Timetable.
+
+^^**Use of Macquarie Name**
+
+In order to assist with giving effect to the Deed of Termination of Licence Agreement, the parties agree to use reasonable endeavours to:
+
+^^following the Effective Time, prepare, or cause to be prepared, such documents and procure, or cause to be procured, such approvals as may be required to change the name of each of US REIT I, US REIT II, US LLC and US Manager to a name that does not include “Macquarie” or any substantially identical or deceptively similar word; and
+
+^^on the Completion Date, file or cause to be filed with the Secretary of State of the State of Delaware and the Secretary of State of the State of Maryland, as the case may be, the documents prepared in accordance with clause (a) above.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Redemption of Class C Shares**
+
+On and from the Completion Date, MBL US Trust and the Investor agree to take, or cause their respective related bodies corporate to take, such actions as are necessary to ensure that, subject to receipt of any necessary third party consents or approvals, within 120 days after the Completion Date:
+
+^^US REIT I and US REIT II each issue shares of Class C common stock to each of the individuals identified by Investor and/or DDR; and
+
+^^following the issue of Class C common stock to the individuals designated by Investor and/or DDR pursuant to clause (a) above, US REIT I and US REIT II redeem the Class C Shares of the Class C Shareholders in consideration for the payment of the fair market value of those shares to Macquarie or an entity nominated by Macquarie;
+
+in each case in a manner that does not prejudicially affect the status of US REIT I or US REIT II as a real estate investment trust pursuant to the Code.
+
+Within 120 days after the Completion Date, DDR Corp. and the Investor shall, or shall cause their respective related bodies corporate to, mutually agree whether to redeem the Class C common shares of US REIT I and US REIT II which are held by employees and former employees of DDR Corp. in consideration for the payment of the fair market value of those shares, provided that US REIT I and US REIT II will both maintain 120 individual Class C shareholders after the redemption described in clause 3.4(b) and any potential redemption as described in this paragraph.
+
+^^**US REIT I and US REIT II Matters**
+
+On the Completion Date:  
+^^MBL US Trust will procure that each of the Macquarie REIT Directors and Officers execute and deliver to US REIT I and US REIT II a letter of resignation in substantially the form set out on Annexure M;
+
+^^DDR will procure that each of the DDR REIT Officers execute and deliver to US REIT I and US REIT II a letter of resignation in substantially the form set out on Annexure M; and
+
+^^Investor and MDML (on behalf of MDT, in its capacity as a shareholder of US REIT I and US REIT II), will:
+
+^^^enter into, or procure the entry into of, and file or cause to be filed with the Secretary of State of the State of Maryland, the US REIT I Charter and the US REIT II Charter; and
+
+^^^take such other actions as are required under the applicable REIT Charters to appoint the Investor's nominees as replacement directors and officers for each of US REIT I and US REIT II and adopt the REIT Bylaws.
+
+^^**Period before Completion Date - MDML and US Manager obligations**
+
+Between the date of this agreement and the Completion Date, MDML and the US Manager must ensure that:
+
+^^the businesses of MDT and the US Manager are conducted in the ordinary course;
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^there is no distribution or return of capital to MDT Unitholders or shareholders of the US Manager other than the payments by the US Manager to Macquarie Group Members contemplated by the Transaction Documents particularly the US Manager Assignment and Assumption Agreement;
+
+^^neither MDML, the US Manager, US REIT I, US REIT II, US LLC, PS LLC nor Mervyns LLC:
+
+^^^enters into any transaction which is abnormal, unusual or not on arm's length terms;
+
+^^^incurs any liability or makes any commitment in excess of $[[USD Value 4: Number]] (or its equivalent in US Dollars) or liabilities and commitments exceeding $[[USD Value 5: Number]] (or its equivalent in US Dollars) in aggregate;
+
+^^^disposes or agrees to dispose of any real property asset other than the Permitted Disposals;
+
+^^^borrows money, or commits to or raises any new financial facility;
+
+^^^enters into, or varies, terminates or waives any rights under, any contract requiring payments over the term of the contract in excess of $[[USD Value 4]] (or its equivalent in US Dollars) or with a term of more than 12 months;
+
+^^^approves or makes any offering of units or other equity ownership interests, or other change of capital structure involving the issue of units or options or other rights to acquire units or other equity ownership interests, or makes any other commitment entitling any person to acquire units or other equity ownership interests or to carry out any other amendment to its capital or financial structure through units or other equity ownership interests;
+
+^^^approves, proposes or gives effect to any merger, demerger or other extraordinary transaction;
+
+^^^solicits any takeover bid,
+
+provided that nothing in this clause restricts a Party from:
+
+^^doing anything that is expressly required on or before the Completion Date under this agreement or the Transaction Documents;
+
+^^incurring a liability or disposing of an asset if necessary for the Party to meet its legal obligations in force at the date of this agreement;
+
+^^doing anything approved in writing or e-mail by the Investor; or
+
+^^doing anything required to maintain the status of US REIT I or US REIT II as a real estate investment trust pursuant to the Code; or
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^performing, or causing to be performed, any leasing or property management activities contemplated by, and in material compliance with, any annual or operating budget or plan of US Manager, US LLC, PS LLC or Mervyns LLC that has been approved by the members of US Manager, US LLC, PS LLC or Mervyns LLC, as the case may be, in accordance with the Sixth Amended and Restated US Manager LLC Agreement, the US LLC Agreement, the PS LLC Agreement or the Mervyns LLC Agreement, as applicable, prior to the Effective Time; or
+
+^^entering into or approving the Longhorn II CMBS Forbearance Extension agreement titled “Agreement Regarding Loan (LBUBS 2005-C2; Loan No. M130201814)” in the form or substantially the form provided to the Investor on or around 20 [[Date 2]]; or
+
+^^making a directors’ recommendation in respect of, and taking all actions required under the Corporations Act in response to, a takeover bid.
+
+^^**Period before Completion Date - Investor obligation**
+
+Between the date of this agreement and the Completion Date, the Investor must provide to MDML all such further or new information of which it becomes aware concerning the Investor Entities which may arise after the Transaction Announcement is provided to ASX in accordance with clause 3.1 which would cause any statement concerning the Investor Entities included in the Transaction Announcement to be misleading or deceptive or contain any material omission.
+
+^^**Net tangible assets**
+
+On or before the Completion Date, the Investor and DDR must arrange either for:
+
+^^the net tangible assets of MDML, for the purposes of compliance with its Australian financial services licence (“**AFSL**”), to be at least the lesser of A$[[USD Value 6: Number]] and the amount required under the AFSL; or
+
+^^a guarantee or undertaking in a form acceptable to ASIC to be given in relation to MDML,
+
+so that ASIC releases the guarantee given by Macquarie Bank Limited for the purposes of MDML’s AFSL and MDML must cause that release.
+
+For the purposes of meeting the costs or funding of compliance with this clause 3.8, where the US Manager has:
+
+^^sufficient excess funds to capitalise MDML to the level required under this clause, the US Manager must capitalise MDML to that level; or
+
+^^insufficient excess funds to capitalise MDML to the level required under this clause, then the Investor and DDR must each contribute half of either the:
+
+^^^capital required under paragraph (c) and then the US Manager must then capitalise MDML to that level; or
+
+^^^cost of and any liability associated with the guarantee or undertaking under paragraph (b).
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**US Federal Income Tax Matters**
+
+^^Within thirty (30) calendar days after the Completion Date, MDML on behalf of MDT (or any successor) shall make an entity classification election to be treated as a partnership for United States federal income tax purposes pursuant to Section 301.7701-3(c) of the Income Tax Regulations promulgated under the Code.
+
+^^Immediately following the effective date of the entity classification election made pursuant to clause 3.9(a), the parties hereto (including, without limitation, MDML and the Investor) shall, and shall cause their affiliates to, use their reasonable best efforts to ensure that MDML on behalf of MDT (or any successor) or any of MDT’s non-United States unitholders will not derive any income that would cause MDT (or any successor) or any non-United States unitholder of MDT to be treated as engaged in a trade or business in the United States pursuant to Code Section 897 and to be subject to U.S. tax liability and tax return filing obligations as if the income derived were effectively connected with such trade or business (“Effectively Connected Income”). Such efforts shall include, but shall not be limited to:
+
+^^^causing US REIT I, US REIT II, any other real estate investment trust within the meaning of Code Section 856 or any United States real property holding corporation within the meaning of Code Section 897(c)(1)(A)(ii) to not make any capital gains distributions or other distributions that would be treated as Effectively Connected Income;
+
+^^^causing MDML on behalf of MDT to not enter into any sale or exchange of the shares of US REIT I, US REIT II, any other real estate investment trust within the meaning of Code Section 856 or any United States real property holding corporation within the meaning of Code Section 897(c)(1)(A)(ii) that gives rise to gain that is Effectively Connected Income; and
+
+^^^taking any other action as appropriate, including without limitation the application for tax exemptions or rulings with the United States tax authorities.
+
+^^Immediately following the effective date of the entity classification election made pursuant to clause 3.9(a), neither US REIT I nor US REIT II (or any other real estate investment trust within the meaning of Code Section 856) shall make a distribution within the meaning of Code Section 301 to MDT (and no party hereto shall cause, or allow any of their affiliates to cause, US REIT I, US REIT II or any other real estate investment trust within the meaning of Code Section 856 to make a distribution within the meaning of Code Section 301), if such distribution is not made out of such REIT’s earnings and profits and is applied against and reduces MDT’s adjusted basis in the stock of such REIT pursuant to Code Section 301(c)(2), without first making an application to obtain a withholding certificate from the United States Internal Revenue Service that excuses withholding on such distribution as set forth in United States Tre asury Regulation 1.1445-6, or any successor provision.
+
+^^If, as a result of a transaction or distribution, the unitholders of MDT (other than Investor and any other unitholder otherwise obligated to file US tax returns) becomes legally obligated to file US tax returns, MDML on behalf of MDT and the Investor shall use their reasonable best efforts to assist the unitholders of MDT in satisfying this obligation, including but not limited to through the appointment of a filing agent for the affected unitholders.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Use of proceeds**
+
+^^**Use of proceeds from the Placement**
+
+MDML agrees that, unless the Investor otherwise consents in writing, the net Placement Proceeds will be applied towards the repayment of the principal and interest and other amounts outstanding under the Unsecured Debt Documents and Derivative Liabilities.
+
+^^**Use of proceeds from the Entitlement Offer**
+
+MDML agrees that, unless the Investor otherwise consents in writing, any net Entitlement Offer Proceeds will be applied firstly towards the repayment of the principal and interest and other amounts outstanding under the Unsecured Debt Documents and to retire the Derivative Liabilities together with the payment to US LLC and PS LLC of an amount equal to the fees and distributions that have accrued to the US Manager on or prior to the Completion Date and are payable by the US Manager to DDR and MBL US Trust pursuant to the US Manager Assignment and Assumption Agreement and any other accrued fees and other payables.
+
+**Representations and warranties**
+
+^^**MDML’s representations and warranties**
+
+MDML represents and warrants to the Investor that each of the statements set out in schedule 2 is true and correct in all material respects and not otherwise misleading as at the date of this agreement and MDML will notify the Investor to the extent that such a statement ceases to be true and correct in all material respects and not otherwise misleading at any time up to the Completion Date except to the extent that a statement is expressed in its terms to operate only as at a particular date.
+
+^^**Limitations**
+
+^^The Investor acknowledges and agrees that the representations and warranties given by MDML under clause 5.1 are qualified by the:
+
+^^^actual knowledge of an Investor Entity or its employees prior to the entry into this agreement; and
+
+^^^matters fairly, clearly and accurately disclosed in this agreement, the Transaction Documents, the Data Room or in the Due Diligence Q&A.
+
+^^If, prior to the execution of the Underwriting Agreement and Sub-underwriting Agreement, MDML notifies the Investor that any of the statements in schedule 2 was, to a material extent in the circumstances, inaccurate or otherwise misleading as at the date of this agreement the Investor shall have a right to terminate the future obligations of the Parties under this agreement provided that this right shall lapse at the time the Underwriting Agreement and Sub-underwriting Agreement are signed.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^If the Investor has a right to terminate the future obligations of the Parties under this agreement by virtue of clause 5.2(b) and it does not do so then the representations and warranties given by MDML under clause 5.1 are qualified by the matters disclosed to the Investor under clause 5.2(b).
+
+^^**MDML’s indemnity**
+
+Subject to clause 5.2, MDML indemnifies the Investor against all Losses incurred directly as a result of any of the representations and warranties in clause 5.1 not being true and correct provided that the maximum aggregate amount that MDML are required to pay in response to this indemnity is limited to the aggregate of the amounts paid by the Investor to acquire the Placement Units and any MDT Units it acquires under the Entitlement Offer and the Sub-Underwriting Agreement, plus the amount of the Investor’s reasonably incurred legal fees and due diligence expenses invoiced directly relating to the Transaction.
+
+^^**Investor’s representations and warranties**
+
+The Investor represents and warrants to the Macquarie MDT Unitholders and MDML (on its own behalf and separately as trustee of MDT) that each of the statements set out in schedule 3 is true and correct in all material respects and not otherwise misleading as at the date of this agreement and will be true and correct in all material respects and not otherwise misleading on each day up to the Completion Date as if made on and as of each of those dates except to the extent that a statement is expressed in its terms to operate only as at a particular date.
+
+^^**Limitations**
+
+The Macquarie MDT Unitholders and MDML acknowledge and agree that the representations and warranties given by the Investor under clause [5.4](#_Ref241929783) are qualified by the:
+
+^^actual knowledge of the Macquarie MDT Unitholders and MDML or their employees prior to the entry into this agreement; and
+
+^^matters fairly, clearly and accurately disclosed in this agreement or the Transaction Documents.
+
+^^**Investor’s indemnity**
+
+^^Subject to clause 5.5, the Investor indemnifies the Macquarie MDT Unitholders against all Losses incurred directly as a result of any of the representations and warranties in clause 5.4 not being true and correct provided that the maximum aggregate amount that the Investor are required to pay in response to this indemnity, when aggregated with all other amounts paid by an Investor Entity in response to this indemnity, is limited to the amount of the Purchase Price as defined in the Unit Sale Agreement.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^Subject to clause 5.5, the Investor indemnifies MDML (on its own behalf and separately as trustee of MDT) against all Losses incurred directly as a result of any of the representations and warranties in clause 5.4 not being true and correct provided that the maximum aggregate amount that the Investor are required to pay in response to this indemnity, when aggregated with all other amounts paid by an Investor Entity in response to this indemnity, is limited to the aggregate of the amounts paid or agreed to be paid by the Investor to acquire the Placement Units and any MDT Units it acquires or is to acquire under the Entitlement Offer and the Sub-Underwriting Agreement.
+
+^^**Macquarie MDT Unitholders’ representations and warranties**
+
+Each of the Macquarie MDT Unitholders represent and warrant to the Investor that each of the statements set out in schedule 4 is true and correct in all material respects and not otherwise misleading as at the date of this agreement and will be true and correct in all material respects and not otherwise misleading on each day up to the Completion Date as if made on and as of each of those dates except to the extent that a statement is expressed in its terms to operate only as at a particular date.
+
+^^**Limitations**
+
+The Investor acknowledges and agrees that the representations and warranties given by each of the Macquarie MDT Unitholders under clause 5.7 are qualified by the matters fairly, clearly and accurately disclosed in this agreement, the Transaction Documents, the Data Room or in the Due Diligence Q&A.
+
+^^**Macquarie MDT Unitholders’ indemnity**
+
+Subject to clause 5.8, each of the Macquarie MDT Unitholders indemnifies the Investor against all Losses incurred directly as a result of any of the representations and warranties in clause 5.7 not being true and correct provided that the maximum aggregate amount that the Macquarie MDT Unitholders are required to pay in response to this indemnity is limited to the amount of the Purchase Price as defined in the Unit Sale Agreement.
+
+^^**Time limits**
+
+^^MDML and the Macquarie MDT Unitholders are not liable under a Claim:
+
+^^^in respect of a particular breach of representation or warranty, if any Investor Entity or any of their Representatives were aware of the breach prior to Completion Date and the Investor did not promptly notify MDML and each Macquarie MDT Unitholder, as relevant, of the breach so as to permit MDML and/or that Macquarie MDT Unitholder to seek to remedy the circumstances which gave rise to the breach to the extent that the amount of the Claim is increased by such failure by the Investor to notify it of the breach; or
+
+^^^if the Investor does not notify MDML or the Macquarie MDT Unitholder, as relevant, of the Claim and/or provide all relevant details (including the amount) then known to the Investor (or its Affiliates) of the events, matters or circumstances giving rise to the Claim within 12 months after the Completion Date.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^The Investor is not liable under a Claim:
+
+^^^in respect of a particular breach of representation or warranty, if MDML was aware of the breach prior to Completion Date and the MDML did not promptly notify the Investor of the breach so as to permit the Investor to seek to remedy the circumstances which gave rise to the breach to the extent that the amount of the Claim is increased by such failure by MDML to notify them of the breach; or
+
+^^^if MDML does not notify the Investor of the Claim and/or provide all relevant details (including the amount) then known to MDML or Macquarie (or its Affiliates) of the events, matters or circumstances giving rise to the Claim within 12 months after the Completion Date.
+
+^^**No double recovery**
+
+^^MDML and the Macquarie MDT Unitholders are not liable for any loss that an Investor Entity recovers, or is compensated for by any Macquarie Group Member or MDML under another Transaction Document.
+
+^^The Investor is not liable for any loss that MDML or a Macquarie Group Member recovers, or is compensated for, by any Investor Entity under another Transaction Document.
+
+^^**Survival**
+
+^^The representations and warranties, undertakings and indemnities in this agreement do not merge and are not extinguished on the Completion Date and will survive after the Completion Date subject to clause 5.10.
+
+^^Any accrued obligations under this clause 5 survive termination of this agreement.
+
+**Public announcements**
+
+Where a party is required by law, the Listing Rules or a memorandum of understanding with a Regulatory Authority to make any announcement or make any disclosure relating to a matter the subject of the Transaction, it may do so only after (to the extent legally permitted) it has given the other party as much notice as possible and has consulted to the fullest extent possible in the circumstances with the other party and its legal advisers.
+
+**Confidential Information**
+
+^^**Disclosure of Macquarie Confidential Information**
+
+No Macquarie Confidential Information, or MDT Confidential Information may be disclosed by an Investor Entity to any person except:
+
+^^as required by this agreement; or
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^another Investor Entity or their Representativesrequiring the information for the purposes of the Transaction contemplated by this agreement; or
+
+^^with the consent of Macquarie or MDML (as applicable) which consent may be given or withheld in its absolute discretion; or
+
+^^if the Investor Entity is required to do so by law or regulatory (including stock exchange) request or requirement; or
+
+^^if the Investor Entity is required to do so in connection with legal proceedings relating to this agreement; or
+
+^^disclosure by MDML or the US Manager of MDT Confidential Information in their discretion after the Completion Date.
+
+\centered 7.2   **Use of Macquarie Confidential Information**  
+
+The Investor Entities must use the Macquarie Confidential Information or MDT Confidential Information exclusively for the purpose of due diligence in relation to the Transaction.
+
+^^**Disclosure of Investor Entity Confidential Information**
+
+No Investor Entity Confidential Information may be disclosed by MDML, or a Macquarie Group Member to any person except:
+
+^^as required by this agreement; or
+
+^^MDML or another Macquarie Group Member or their Representativesrequiring the information for the purposes of the Transaction contemplated by this agreement; or
+
+^^to a bank or other financial institution (and its professional advisers including legal advisers) in connection with any existing loan or other financial accommodation or application for a loan or financial accommodation of MDML or its controlled entities; or
+
+^^with the consent of the Investor which consent may be given or withheld in its absolute discretion; or
+
+^^if MDML or the Macquarie Group Member is required to do so by law or regulatory (including stock exchange) request or requirement; or
+
+^^if MDML or the Macquarie Group Member is required to do so in connection with legal proceedings relating to this agreement.
+
+^^**Disclosure by recipient of Confidential Information**
+
+Any party disclosing information under clause 7.1(a) or clause 7.3(a) must use all reasonable endeavours to ensure that persons receiving Confidential Information from it do not disclose the information except in the circumstances permitted in clause 7.1 or clause 7.3.
+
+^^**Excluded Information**
+
+Clauses 7.1, 7.2, 7.3, and 7.4 do not apply to the Excluded Information.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Termination**
+
+This clause 7 will survive termination (for whatever reason) of completion of this agreement for a period of two years following such termination or completion.
+
+**Notices and other communications**
+
+^^**Form - all non-email communications**
+
+Unless expressly stated otherwise in this agreement, all notices, certificates, consents, approvals, waivers and other communications in connection with this agreement must be:
+
+^^in writing;
+
+^^signed by the sender (if an individual) or an Authorised Officer of the sender; and
+
+^^marked for the attention of the person identified in the Details or, if the recipient has notified otherwise, then marked for attention in the way last notified.
+
+^^**Form - communications sent by email**
+
+Communications sent by email need not be marked for attention in the way stated in clause 8.1. However, the email must state the first and last name of the sender. Communications sent by email are taken to be signed by the named sender.
+
+^^**Delivery**
+
+Communications must be:  
+^^left at the address set out or referred to in the Details;
+
+^^sent by prepaid ordinary post (airmail if appropriate) to the address set out or referred to in the Details;
+
+^^sent by fax to the fax number set out or referred to in the Details; or
+
+^^sent by email to the address set out or referred to in the Details or notified by the recipient to the sender for the purposes of communications under this agreement and the Transaction Documents from time to time; or
+
+^^given in any other way permitted by law.
+
+However, if the intended recipient has notified a changed address or fax number, then communications must be to that address or fax number.
+
+^^**When effective**
+
+Communications take effect from the time they are received or taken to be received under clause 8.5 (whichever happens first) unless a later time is specified.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**When taken to be received**
+
+Communications are taken to be received:
+
+^^if sent by courier, two days after sending (or four days after sending if sent from one country to another); or
+
+^^if sent by fax, at the time shown in the transmission report as the time that the whole fax was sent; or
+
+^^if sent by email;
+
+^^^when the sender receives an automated message confirming delivery; or
+
+^^^four hours after the time sent (as recorded on the device from which the sender sent the email) unless the sender receives an automated message that the email has not been delivered,
+
+whichever happens first.  
+^^**Receipt outside business hours**
+
+Despite clauses 8.4 and 8.5, if communications are received or taken to be received under clause 8.5 after 5.00pm in the place of receipt or on a non-Business Day, they are taken to be received at 9.00am on the next Business Day and take effect from that time unless a later time is specified.
+
+^^**Service of process**
+
+^^Without preventing any other mode of service, any document in an action (including any writ of summons or other originating process or any third or other party notice) may be served on any party by being delivered to or left for that party at its address set out or referred to in the Details.
+
+^^The Investor irrevocably appoints Minter Ellison (attention James Philips) as its agent for the service of process in Australia in relation to any matter arising out of this agreement. If Minter Ellison ceases to be able to act as such or have an address in Australia, the Investor agrees to appoint a new process agent in Australia and deliver to Macquarie within 10 Business Days a copy of a written acceptance of appointment by the process agent, upon receipt of which the new appointment becomes effective for the purpose of this agreement. The Investor must inform MDML in writing of any change in the address of its process agent within 10 Business Days of the change.
+
+**MDML and Belike limitation of liability**
+
+MDML enters into this agreement only in its capacity as responsible entity of MDT. Belike enters into this agreement only in its capacity as trustee of Macquarie Blended Property Trust. For the purposes of this clause MDML and Belike are each a “**Trustee**”.
+
+^^Subject to paragraph (c):
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^^a liability arising under or in connection with this agreement is limited to and can be enforced against a Trustee only to the extent to which it can be satisfied out of property of Trust Property out of which the Trustee is actually indemnified for the liability. This limitation of the Trustees’ liability applies despite any other provision of this agreement and extends to all liabilities and obligations of the Trustees in any way connected with any representation, warranty, conduct, omission, agreement or transaction related to this agreement; and
+
+^^^the other parties to this agreement may not sue a Trustee in any capacity other than as responsible entity or trustee of MDT or Macquarie Blended Property Trust, as applicable, including seeking the appointment of a receiver (except in relation to property of MDT or Macquarie Blended Property Trust, as applicable) a liquidator, an administrator or any similar person to a Trustee or prove in any liquidation, administration or arrangement of or affecting a Trustee (except in relation to Trust Property).
+
+^^Despite any other provision of this or any other agreement (including a deed or deed poll), paragraph (a) does not apply to any obligation or liability of a Trustee to the extent that it is not satisfied because under the constitution of the Trustee, or by operation of law, there is a reduction in the extent of the Trustee’s indemnification out of the assets of MDT or Macquarie Blended Property Trust, as applicable, as a result of the Trustee’s fraud, negligence or breach of trust or if there is a reduction in the extent of the Trustee’s indemnification as a result of:
+
+^^^the Trustee’s failure to exercise any right of indemnity it has under the constitution of MDT or Macquarie Blended Property Trust, as applicable, or by law, in respect of that obligation or liability; or
+
+^^^the Trustee’s release or waiver of any rights of indemnity it has under the constitution of MDT or Macquarie Blended Property Trust, as applicable, in respect of that obligation or liability.
+
+^^A Trustee is not obliged to enter into any commitment or obligation under this agreement unless its liability is limited in the same manner as in this clause 9.
+
+**Acknowledgements**
+
+^^**Acknowledgement by DDR, DDR Corp., MBL US Trust, US REIT I and US REIT II**
+
+DDR, DDR Corp., MBL US Trust, US REIT I and US REIT II each acknowledge and agree by signing this agreement that each such party waives, individually and on behalf of any related body corporate, any and all rights or options it or such related body corporate may have under the US LLC Agreement, the PS LLC Agreement or the Mervyns LLC Agreement (as each such agreement is in effect as of the Effective Time) that may arise as a result of signing this agreement or the completion of any transaction contemplated herein, including, without limitation, any and all rights or options it or such related body corporate may have under sections 7.2, 7.3 or 9.5 of the PS LLC Agreement or the Mervyns LLC Agreement, sections 7.2 or 9.5 of the US LLC Agreement, or sections 7.2, 9.5 or 9.6 of the Sixth Amended and Restated US Manager LLC Agreement (as each such agreement is in effect as of the Effective Time) that may arise as a arise as a result of signing this agreement or the completion of any transaction contemplated herein.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Acknowledgement by MDML**
+
+MDML acknowledges and agrees by signing this agreement that nothing in this agreement, any Transaction Document or any other agreement contemplated herein shall, nor shall any transaction contemplated by this agreement, relieve MDML of its obligations under that certain Settlement Agreement dated as of [[Date 8: Date]] by and among Holliday Fenoglio Fowler, L.P., MDML (as the responsible entity of MDT) and DDR Corp.
+
+^^**Acknowledgement by DDR**
+
+DDR acknowledges by signing this agreement it is consenting to the US Manager Sale and, in connection therewith, waives any and all rights and options it may have pursuant to the Sixth Amended and Restated US Manager LLC Agreement, in connection with the US Manager Sale and will co-operate to facilitate the completion of the transactions contemplated by this agreement.
+
+^^**Acknowledgement by the Investor**
+
+^^The Investor acknowledges by signing this agreement that the US Manager has granted an indemnity to MDML in the form of the Deed of Indemnity and the Investor covenants that it will not do anything or refrain from doing anything that would result in the US Manager breaching its obligations under the Deed of Indemnity provided that nothing in this agreement prevents the US Manager from terminating the Deed of Indemnity following the Completion Date or from seeking repayment of any amounts paid by the US Manager under the Deed of Indemnity after the Completion Date.
+
+^^The Investor acknowledges by signing this agreement that the lenders to MDML and its controlled entities, including the counterparties under the Unsecured Debt Documents and in respect of the Derivative Liabilities, (“**Lenders**”) have certain rights under their relevant loan or derivative documents and that the Investor will have no right to terminate this agreement as a result of one or more Lenders exercising any of their rights under these documents.
+
+^^**Acknowledgement by Parties**
+
+The Parties acknowledge and agree by signing this agreement that DDR shall continue to serve as property manager for US LLC, PS LLC, Mervyns LLC and their respective subsidiaries from and after the Effective Time, through and including the completion of the transactions contemplated by this agreement, pursuant to the terms and conditions of the Property Management Agreements (as such term is defined in the Sixth Amended and Restated US Manager LLC Agreement) in effect as of the Effective Time, and such transactions contemplated by this agreement, including, without limitation, the redemption of the US Manager’s equity interest in the US LLC, PS LLC and Mervyns LLC, shall not affect the existing parties’ rights or obligations of the parties under the Property Management Agreements or alter whether or not any party has a right to terminate the Property Management Agreements or permit any party the right to terminate such Property Management Agreements.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Miscellaneous**
+
+^^**Joint Venture Agreements**
+
+The parties acknowledge and agree that from and after the Completion Date, MBL US Trust shall no longer be a party to, and shall have no further right or obligation under, each of the US LLC Agreement, the PS LLC Agreement and the Mervyns LLC Agreement.
+
+^^**Discretion in exercising rights**
+
+^party may exercise a right or remedy or give or refuse its consent in any way it considers appropriate (including by imposing conditions), unless this agreement expressly states otherwise.
+
+^^**Partial exercising of rights**
+
+If a party does not exercise a right or remedy fully or at a given time, the party may still exercise it later.
+
+^^**No liability for loss**
+
+^party is not liable for loss caused by the exercise or attempted exercise of, failure to exercise, or delay in exercising a right or remedy under this agreement.
+
+^^**Approvals and consents**
+
+[[11.5   Approvals and consents Signatory Email: Identity | Signature]]
+__________________________________________
+{{11.5   Approvals and consents Entity => By: [[11.5   Approvals and consents Signatory First Name]] [[11.5   Approvals and consents Signatory Last Name]]
+Title: [[11.5   Approvals and consents Signatory Title]]}}
+
+
+^^**Conflict of interest**
+
+The parties’ rights and remedies under this agreement may be exercised even if it involves a conflict of duty or a party has a personal interest in their exercise.
+
+^^**Remedies cumulative**
+
+The rights and remedies in this agreement are in addition to other rights and remedies given by law independently of this agreement.
+
+^^**Variation and waiver**
+
+^provision of this agreement or a right created under it, may not be waived or varied except in writing, signed by the party or parties to be bound.
+
+^^**No merger**
+
+The warranties, undertakings and indemnities in this agreement do not merge on the Completion Date.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^**Indemnities**
+
+The indemnities in this agreement are continuing obligations, independent from the other obligations of the parties under this agreement and continue after this agreement ends. It is not necessary for a party to incur expense or make payment before enforcing a right of indemnity under this agreement.
+
+^^**Further steps**
+
+Each party agrees, at its own expense, to do anything the other party reasonably requests (such as obtaining consents, signing and producing documents and getting documents completed and signed):
+
+^^to bind the party and any other person intended to be bound under this agreement; or
+
+^^to show whether the party is complying with this agreement.
+
+^^**Construction**
+
+No rule of construction applies to the disadvantage of a party because that party was responsible for the preparation of, or seeks to rely on, this agreement or any part of it.
+
+^^**Costs**
+
+The parties agree to pay their own legal and other costs and expenses in connection with the preparation, execution and completion of this agreement and other related documentation except for stamp duty.
+
+^^**Entire agreement**
+
+This agreement constitutes the entire agreement of the parties about its subject matter and supersedes all previous agreements, understandings and negotiations on that subject matter.
+
+^^**Assignment**
+
+^party may not assign or otherwise deal with its rights under this agreement or allow any interest in them to arise or be varied in each case, without the consent of the other parties.
+
+^^**No representation or reliance**
+
+Each party acknowledges that:  
+^^no party (nor any person acting on its behalf) has made any representation or other inducement to it to enter into this agreement, except for representations or inducements expressly set out in this agreement;
+
+^^it does not enter into this agreement in reliance on any representation or other inducement by or on behalf of any other party, except for any representation or inducement expressly set out in this agreement; and
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+^^paragraphs (a) and (b) above do not prejudice any rights a party may have in relation to information which had been filed by the other party with ASIC or ASX.
+
+^^**Governing law**
+
+This agreement is governed by the law in force in the place specified in the Details. Each party submits to the non-exclusive jurisdiction of the courts of that place.
+
+^^**Counterparts**
+
+This agreement may be executed in counterparts. All counterparts when taken together are to be taken to constitute one instrument**.**
+
+**EXECUTED** as an agreement  
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+Schedule 1 - Timetable  
+**Business Days**   **Action/Step**
+^**Effective Time** 1. Execution of Master Agreement 2. Execution of all those documents listed in clause 2.1 (immediately following execution of Master Agreement) (First MDT Supplemental Deed to be lodged with ASIC) 3. Placement of new MDT units to the Investor (conditional on funds being transferred to MDML) - Appendix 3B for the placement to be lodged with ASX following the placement 4. Transfer of MDT units to the Investor (conditional on funds being transferred to Macquarie MDT Unitholders) 5. Release of the Transaction Announcement –ASX/Press release in relation to the transaction lodged with ASX
+^**Entitlement Offer Announcement Time** 1. Execution of Sub-underwriting Agreement 2. Execution of Underwriting Agreement 3. Execution of Second MDT Supplemental Deed (to be lodged with ASIC) 4. Release of the Entitlement Offer Announcement Materials (pre-Open) – Entitlement Offer Announcement Materials lodged with ASX which will include: · the Product Disclosure Statement for the entitlement offer; · an ASX announcement/press release; and · an Appendix 3B in relation to the entitlement offer units.
+**T+1**   **Eligible securityholders notification date** - notice containing information required by Appendix 3B sent to eligible securityholders
+**T+2**   **“Ex - date”** - rights commence trading and securities quoted as “ex-rights”
+**T+6** **(post-close)**   **Record Date** (after the market closes)
+**T+8**   **Despatch Date –**Offer Booklet and entitlement offer and acceptance forms despatched
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Business Days**   **Action/Step**
+**T+17**   **Rights trading ends**
+**T+18**   **Deferred settlement trading** - securities quoted on a deferred settlement basis
+**T+22** **(post-close)**   **Entitlement offer closes** (5pm)
+**T+25**   **ASX notified of level of under subscription**
+**T+27**   **Settlement Date**
+**T+28**   **Completion Date** 1. Allotment of new units under entitlement offer and sub-underwriting 2. Assignment of MBL US Trust shares in the US Manager to the Investor 3. Redemption of MBL US Trust shares in respect of US REIT I and US REIT II conditional on the placement and unit sale having completed (provided redemption can be performed without consent) 4. The following Transaction Documents to take effect: · Transitional Services Arrangement · Deed of Termination of Licence Agreement · Deed of Termination of Resources Agreement · Intellectual Property Licence 5. Constitutions of MDT and MDML to be amended. 6. Board of MDML to be changed 7. Names of entities to be changed to remove references to Macquarie 8. Completion announcement to be made to ASX
+**T+29**   **Normal trading of new units commences**
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+Schedule 2 – MDML’s representations and warranties
+
+**(Incorporation)** it is a valid existing corporation registered under the laws of its place of incorporation.  
+
+(**Sole trustee**) MDML is the only trustee and responsible entity of MDT.  
+
+(**MDT existence**) MDT has been duly established and has not been terminated.  
+
+(**Appointment and no removal**) MDML has been validly appointed as trustee and responsible entity of MDT and no action has been taken or proposed to remove it as trustee or responsible entity of MDT.  
+
+(**No termination**) no action has been taken or proposed to, either:  
+
+^^terminate MDT; or  
+^^wind-up MDT whether under Chapter 5C of the Corporations Act or otherwise.
+
+(**Execution**) the execution and delivery of this agreement has been properly authorised by all necessary corporate action of MDML.  
+
+(**Corporate power**) MDML has full corporate power and lawful authority to execute and deliver this agreement and to consummate and perform or cause to be performed its obligations under this agreement in accordance with its terms.  
+
+(**Binding obligations**) (subject to laws generally affecting creditors’ rights and the principles of equity) this agreement constitutes legal, valid and binding obligations on MDML.  
+
+(**Continuous disclosure**) MDML is not currently, and so far as MDML is aware, including having made due enquiry in relation to its continuous disclosure obligations over the previous 12 months, having made due enquiry has not in the past been, in breach of its continuous disclosure obligations under the Listing Rules (and has not received notice of, and is not otherwise aware of, any threatened litigation or proceedings against it in relation to such a breach), and is not relying on the carve-out in Listing Rule 3.1A to withhold any information from disclosure.  
+
+(**Accurate**) as far as MDML is aware all historical or current information in the Data Room and the Due Diligence Q&A prepared by or on behalf of MDML is accurate and is not misleading or deceptive, whether by way of omission or otherwise provided that no warranty is given in relation to forward looking statements or forward looking opinions and that historical information is only warranted as being accurate and not misleading or deceptive at the time that information was current.  
+
+(**Copies of documents**) as far as MDML is aware, the copies of the documents listed in Annexure R which were included in the Data Room or otherwise provided by or on behalf of MDML to the Investor before the date of this agreement, are true, complete and (save for historical information) up-to-date versions. For the purposes of this warranty, a copy of an agreement is taken to be up-to-date unless there has been a subsequent variation or amendment which was not included in the Data Room, or otherwise provided by or on behalf of MDML to the Investor before the date of this agreement.  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+(**Compliance**) as far as MDML is aware the MDT Entities have complied in all material respects with all material Australian and foreign laws and regulations applicable to them and orders of Australian and foreign governmental agencies having jurisdiction over them and have all material licenses, permits and franchises necessary for them to conduct their respective businesses as presently being conducted.  
+
+(**Disclosure Material**): MDML did not deliberately or knowingly include anything misleading in the Data Room or the Due Diligence Q&A provided to any Investor Entity or its Representatives, or deliberately, knowingly or recklessly omit anything material (in the context of the Placement, or the Transaction) from the Data Room or the Due Diligence Q&A and that all the information provided to the Investor Entities by MDML under the Data Room, the Due Diligence Q&A and otherwise provided in writing has been prepared and provided in good faith.  
+
+(**Disclosure of terms**) subject to the amendments to the constitution of MDT contemplated by the MDML Directors Resolutions, true copies of the constitution of MDT (including any amending documents) have been provided to the Investor Entities, and the constitution of MDT discloses all the terms of MDT.  
+
+(**Power**) MDML has power under the terms of the MDT constitution to enter into the documents to which it is a party and comply with its obligations under them.  
+
+(**Authorisations**) MDML has in full force and effect the authorisations necessary for it to enter into the documents to which it is a party, perform obligations under them and allow them to be enforced (including any authorisation required under the constitution of MDT).  
+
+(**Exercise of powers**) MDML has not exercised its powers under the constitution of MDT to release, abandon or restrict any power conferred on it by the constitution of MDML.  
+
+(**No default**) MDML is not in default under the constitution of MDT.  
+
+(**Benefit**) as far as MDML is aware entry into the Transaction Documents to which MDML is a party is a valid exercise of MDML’s powers under the constitution of MDT for the benefit of the beneficiaries.  
+
+(**Indemnity**) MDML has a right to be fully indemnified out of the trust property in respect of obligations incurred by it under the Transaction Documents to which it is a party, and there is nothing that would prevent MDML from being fully indemnified out of Trust Property for any obligations under or in connection with this agreement, the Transaction, or any of the transactions contemplated by this agreement.  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+(**Liabilities generally**) Except as disclosed in the Data Room and the Due Diligence Q&A or contemplated by the Transaction Documents, or specifically disclosed and quantified in the Last Accounts, the MDT Entities have no actual, prospective or contingent liabilities other than liabilities incurred in the ordinary course of their respective businesses and which do not exceed $[[USD Value 4]] (or its equivalent in US Dollars) individually and $[[USD Value 7: Number]] (or its equivalent in US Dollars) in aggregate.  
+
+(**Disclosure of finance liabilities**): The terms of, and the amounts payable by the MDT Entities under, the Unsecured Debt Documents, the Derivative Liabilities and other finance facilities provided to the MDT Entities, as at the date of this agreement, are accurately disclosed in the Data Room (subject to daily market movements in respect of amounts payable.  
+
+(**Income**) The income derived by the MDT Entities is materially in accordance with the tenancy schedules included in the Data Room.  
+
+(**Success fees**) There are no success fees or commissions payable by any MDT Entity to Macquarie Capital Advisers Limited and UBS AG, Australia Branch pursuant to the engagement letter between these parties and MDML dated 10 [[Date 9: Date]] as a result of the Transaction occurring. There are no success fees or commissions payable by any MDT Entity to Holliday Fenoglio Fowler, L.P. (“HFF”) pursuant to the agreement between HFF, DDR Corp. and MDML effective 31 [[Date 10: Date]], as a result of the Transaction occurring.  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+Schedule 3 - Investor’s representations and warranties
+
+**(Incorporation)** it is a valid existing corporation registered under the laws of its place of incorporation.  
+
+**(Execution)** the execution and delivery of this agreement has been properly authorised by all necessary corporate action of Investor.  
+
+**(Corporate power)** it has full corporate power and lawful authority to execute and deliver this agreement and to consummate and perform or cause to be performed its obligations under this agreement in accordance with its terms.  
+
+**(Binding obligations) (subject to laws generally affecting creditors’ rights and the principles of equity) this agreement constitutes legal, valid and binding obligations on it.**  
+
+**(Funding)** the Investor has, or has unrestricted access to, sufficient funds to satisfy its obligations under this agreement and the Transaction Documents, including in relation to the representations and warranties it has given under clause 7.4 of this agreement.  
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+Schedule 4 - Macquarie MDT Unitholder ’s representations and warranties
+
+(**Execution**) the execution and delivery of this agreement has been properly authorised by all necessary corporate action of each Macquarie MDT Unitholder.
+
+(**Corporate power**) each Macquarie MDT Unitholder has full corporate power and lawful authority to execute and deliver this agreement and to consummate and perform or cause to be performed its obligations under this agreement in accordance with its terms.
+
+(**Binding obligations**) (subject to laws generally affecting creditors’ rights and the principles of equity) this agreement constitutes legal, valid and binding obligations on each Macquarie MDT Unitholder.
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+Signing page  
+**DATED:** 22 [[Date 2]]  
+SIGNED by L. Petherbridge and Christine Williams as attorney for **MACQUARIE DDR MANAGEMENT LIMITED** as responsible entity of **MACQUARIE DDR TRUST** under power of attorney dated _________ in the presence of: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE DDR MANAGEMENT LIMITED as responsible entity of MACQUARIE DDR TRUST under power of attorney dated  in the presence of Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE DDR MANAGEMENT LIMITED as responsible entity of MACQUARIE DDR TRUST under power of attorney dated  in the presence of Entity => By: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE DDR MANAGEMENT LIMITED as responsible entity of MACQUARIE DDR TRUST under power of attorney dated  in the presence of Signatory First Name]] [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE DDR MANAGEMENT LIMITED as responsible entity of MACQUARIE DDR TRUST under power of attorney dated  in the presence of Signatory Last Name]]
+Title: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE DDR MANAGEMENT LIMITED as responsible entity of MACQUARIE DDR TRUST under power of attorney dated  in the presence of Signatory Title]]}}
+
+
+**EXECUTED** by **EPN GP** by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 [[Date 2]] in the presence of: [[EXECUTED by EPN GP by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 Signatory Email: Identity | Signature]]
+__________________________________________
+{{EXECUTED by EPN GP by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 Entity => By: [[EXECUTED by EPN GP by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 Signatory First Name]] [[EXECUTED by EPN GP by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 Signatory Last Name]]
+Title: [[EXECUTED by EPN GP by its signatory Alexander L. Berman duly authorised by the unanimous consent of the Managing Members dated 14 Signatory Title]]}}
+
+
+SIGNED by L. Petherbridge and Christine Williams as attorney for **BELIKE NOMINEES PTY LIMITED** as trustee of **MACQUARIE BLENDED PROPERTY TRUST** under power of attorney dated _________ in the presence of: [[SIGNED by L. Petherbridge and Christine Williams as attorney for BELIKE NOMINEES PTY LIMITED as trustee of MACQUARIE BLENDED PROPERTY TRUST under power of attorney dated  in the presence of Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED by L. Petherbridge and Christine Williams as attorney for BELIKE NOMINEES PTY LIMITED as trustee of MACQUARIE BLENDED PROPERTY TRUST under power of attorney dated  in the presence of Entity => By: [[SIGNED by L. Petherbridge and Christine Williams as attorney for BELIKE NOMINEES PTY LIMITED as trustee of MACQUARIE BLENDED PROPERTY TRUST under power of attorney dated  in the presence of Signatory First Name]] [[SIGNED by L. Petherbridge and Christine Williams as attorney for BELIKE NOMINEES PTY LIMITED as trustee of MACQUARIE BLENDED PROPERTY TRUST under power of attorney dated  in the presence of Signatory Last Name]]
+Title: [[SIGNED by L. Petherbridge and Christine Williams as attorney for BELIKE NOMINEES PTY LIMITED as trustee of MACQUARIE BLENDED PROPERTY TRUST under power of attorney dated  in the presence of Signatory Title]]}}
+
+
+©Mallesons Stephen Jaques 10278545_8   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+SIGNED by L. Petherbridge and Christine Williams as attorney for **MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED** under power of attorney dated _________ in the presence of: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED under power of attorney dated  in the presence of Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED under power of attorney dated  in the presence of Entity => By: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED under power of attorney dated  in the presence of Signatory First Name]] [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED under power of attorney dated  in the presence of Signatory Last Name]]
+Title: [[SIGNED by L. Petherbridge and Christine Williams as attorney for MACQUARIE GROUP SERVICES AUSTRALIA PTY LIMITED under power of attorney dated  in the presence of Signatory Title]]}}
+
+
+**MACQUARIE DDR MANAGEMENT LLC**, 
+^^Delaware limited liability company  
+[[A Delaware limited liability company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Delaware limited liability company Entity => By: [[A Delaware limited liability company Signatory First Name]] [[A Delaware limited liability company Signatory Last Name]]
+Title: [[A Delaware limited liability company Signatory Title]]}}
+
+[[Title Party 6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 6 Signatory Title}} Entity => By: [[Title Party 6 Signatory Title}} Signatory First Name]] [[Title Party 6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 6 Signatory Title}} Signatory Title]]}}
+
+
+**DEVELOPERS DIVERSIFIED REALTY** 
+**CORPORATION**, an Ohio corporation  
+[[CORPORATION an Ohio corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{CORPORATION an Ohio corporation Entity => By: [[CORPORATION an Ohio corporation Signatory First Name]] [[CORPORATION an Ohio corporation Signatory Last Name]]
+Title: [[CORPORATION an Ohio corporation Signatory Title]]}}
+
+
+**DDR MDT HOLDINGS II TRUST**, 
+^^Maryland real estate investment trust  
+[[A Maryland real estate investment trust Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Maryland real estate investment trust Entity => By: [[A Maryland real estate investment trust Signatory First Name]] [[A Maryland real estate investment trust Signatory Last Name]]
+Title: [[A Maryland real estate investment trust Signatory Title]]}}
+
+
+©Mallesons Stephen Jaques 10278545_6   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement** 
+
+**DDR MACQUARIE FUND LLC**, 
+^^Delaware limited liability company  
+[[A Delaware limited liability company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Delaware limited liability company Entity => By: [[A Delaware limited liability company Signatory First Name]] [[A Delaware limited liability company Signatory Last Name]]
+Title: [[A Delaware limited liability company Signatory Title]]}}
+
+[[Title Party 10 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 10 Signatory Title}} Entity => By: [[Title Party 10 Signatory Title}} Signatory First Name]] [[Title Party 10 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 10 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 13 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 13 Signatory Title}} Entity => By: [[Title Party 13 Signatory Title}} Signatory First Name]] [[Title Party 13 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 13 Signatory Title}} Signatory Title]]}}
+
+
+**DDR MDT PS LLC**, 
+^^Delaware limited liability company  
+[[A Delaware limited liability company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Delaware limited liability company Entity => By: [[A Delaware limited liability company Signatory First Name]] [[A Delaware limited liability company Signatory Last Name]]
+Title: [[A Delaware limited liability company Signatory Title]]}}
+
+[[Title Party 11 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 11 Signatory Title}} Entity => By: [[Title Party 11 Signatory Title}} Signatory First Name]] [[Title Party 11 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 11 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 14 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 14 Signatory Title}} Entity => By: [[Title Party 14 Signatory Title}} Signatory First Name]] [[Title Party 14 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 14 Signatory Title}} Signatory Title]]}}
+
+
+©Mallesons Stephen Jaques 10278545_6   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+**DDR MDT MV LLC,** 
+^^Delaware limited liability company  
+[[A Delaware limited liability company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Delaware limited liability company Entity => By: [[A Delaware limited liability company Signatory First Name]] [[A Delaware limited liability company Signatory Last Name]]
+Title: [[A Delaware limited liability company Signatory Title]]}}
+
+[[Title Party 12 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 12 Signatory Title}} Entity => By: [[Title Party 12 Signatory Title}} Signatory First Name]] [[Title Party 12 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 12 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 15 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 15 Signatory Title}} Entity => By: [[Title Party 15 Signatory Title}} Signatory First Name]] [[Title Party 15 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 15 Signatory Title}} Signatory Title]]}}
+
+
+**MACQUARIE DDR U.S. TRUST INC.**, 
+^^Maryland corporation   
+[[A Maryland corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Maryland corporation Entity => By: [[A Maryland corporation Signatory First Name]] [[A Maryland corporation Signatory Last Name]]
+Title: [[A Maryland corporation Signatory Title]]}}
+  
+**MACQUARIE DDR U.S. TRUST II INC.**, 
+^^Maryland corporation   
+[[A Maryland corporation Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Maryland corporation Entity => By: [[A Maryland corporation Signatory First Name]] [[A Maryland corporation Signatory Last Name]]
+Title: [[A Maryland corporation Signatory Title]]}}
+
+
+©Mallesons Stephen Jaques 10278545_6   Master Agreement 22 [[Date 2]]  
+
+**Master Agreement**   
+**MACQUARIE MDT HOLDINGS TRUST**, 
+^^Maryland real estate investment trust  
+[[A Maryland real estate investment trust Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Maryland real estate investment trust Entity => By: [[A Maryland real estate investment trust Signatory First Name]] [[A Maryland real estate investment trust Signatory Last Name]]
+Title: [[A Maryland real estate investment trust Signatory Title]]}}
+
+**MACQUARIE MDT HOLDINGS INC.**, 
+^^Delaware corporation  
+By: [[By Signatory Email: Identity | Signature]]
+__________________________________________
+{{By Entity => By: [[By Signatory First Name]] [[By Signatory Last Name]]
+Title: [[By Signatory Title]]}}
+
+
+Name: L. Petherbridge **Christine Williams**
+
+Title: 
+
+©Mallesons Stephen Jaques 10278545_6   Master Agreement 22 [[Date 2]]  

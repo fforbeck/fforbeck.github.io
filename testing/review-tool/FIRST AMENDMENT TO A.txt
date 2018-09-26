@@ -1,13 +1,54 @@
-\centered **FIRST AMENDMENT TO AMENDED AND RESTATED BYLAWS OF THE ST. JOE COMPANY** 
+\centered **FIRST AMENDMENT TO AMENDED AND RESTATED EMPLOYMENT AGREEMENT** 
 
-The undersigned duly elected Senior Vice President, Corporate Counsel and Secretary of The St. Joe Company, a Florida corporation (the “Company”), does hereby certify that the Board of Directors of the Company unanimously approved and adopted the following amendment to the Company’s Amended and Restated Bylaws on [[Date 1: Date]], effective as of such date: 
+This FIRST AMENDMENT TO AMENDED AND RESTATED EMPLOYMENT AGREEMENT (this “First Amendment”) is made as of [[Date 1: Date]], by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and [[Employee]] (the “Employee”). 
 
-The Company’s Amended and Restated Bylaws shall be amended by deleting Section 1 of Article III and replacing it with the following: 
+\centered W I T N E S S E T H 
 
-General Powers; Number. The business and property of the Company shall be managed under the direction of a Board of Directors. The number of Directors that shall constitute the Board of Directors shall be fixed exclusively by resolutions adopted by the Board of Directors from time to time; provided, however, that the Company shall not have less than five (5) directors. The Board of Directors shall have full control over the affairs of the Company and shall be authorized to exercise all of its corporate powers unless otherwise provided in these bylaws. The Directors shall be elected at the Annual Meeting of the Shareholders by a plurality of the votes cast at such election, for the term of one year, and shall serve until the election and acceptance of their duly qualified successors. 
+WHEREAS, the Employee is currently employed by the Company pursuant to that certain Amended and Restated Employment Agreement dated as of [[Date 2: Date]] (the “Agreement”); 
 
-IN WITNESS WHEREOF, the undersigned has executed this First Amendment as of [[Date 1]]. 
+WHEREAS, the Company and the Employee desire to extend the term of the Agreement to [[Date 3: Date]], and modify other terms of the Agreement. 
 
-/s/ Reece B. Alford
-Reece B. Alford
-Senior Vice President, Corporate Counsel and Secretary
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the parties hereto agree as follows: 
+
+^Employment and Term. Section 1 of the Agreement is modified as follows: 
+
+The Company hereby employs the Employee, and the Employee hereby accepts employment by the Company, in the capacity and upon the terms and conditions set forth herein. The term of employment under this Agreement shall be for the period commencing [[Date 4: Date]] and ending on [[Date 3]], unless earlier terminated as herein provided (the “Term of Employment”).
+
+^Compensation and Benefits. Section 3 of the Agreement is revised as follows: 
+
+Section 3 (a) of the Agreement is deleted in its entirety and replaced with the following: 
+
+^^Base Salary. The Company shall pay the Employee a base salary (“Base Salary”) at an annual rate of $[[USD Value 1: Number]] payable at such times and in accordance with the standard payroll practices of the Company until [[Date 5: Date]]. Beginning on [[Date 6: Date]], the Company shall pay the Employee a Base Salary at an annual rate of $[[USD Value 2: Number]] payable at such times and in accordance with the standard payroll practices of the Company. 
+
+^^3 (b) and 3 (c) are deleted in their entirety. 
+
+All other provisions of Section 3 are unmodified. 
+
+^Termination of Employment. Section 5(a)(i) of the Agreement is deleted entirely and replaced with the following: 
+
+^^^^^ 
+^^^On [[Date 3]] (absent the parties having entered into a written agreement for the renewal or extension of this Agreement); provided, however, that the Employee can terminate this Agreement upon 90 days prior written notice to the Company informing the Company of the earlier date upon which this Agreement will terminate (which date would become the Date of Termination). 
+
+The rest of Section 5(a) remains unmodified. 
+
+^Payments Upon Termination of Employment. Section 6 is amended as follows: 
+
+All references to the annual bonus are hereby deleted. Section 6(a) is deleted in its entirety and replaced with the following:
+
+6(a) Termination upon Expiration of Term of Employment. If the Employee’s employment hereunder is terminated pursuant to Section 5(a)(i), the Company shall pay or provide to Employee in a lump sum payment within thirty (30) days following the Date of Termination, all Base Salary pursuant to Section 3(a) hereof and any vacation pay pursuant to Section 3(g) hereof, in each case which has been earned but not been paid as of the Date of Termination. Notwithstanding any other provision regarding benefits, Employee shall be entitled to Cobra as permitted by law after the Date of Termination pursuant to the program guidelines. 
+
+All references in Section 6 to [[Date 5]] are here by replaced with [[Date 3]]. All other provisions of Section 6 remain the same.
+
+^Counterparts. This First Amendment may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which taken together shall constitute one and the same instrument. 
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this First Amendment as of the date first above written. 
+
+[[Company]]
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+/s/ [[Employee]]
+[[Employee]]

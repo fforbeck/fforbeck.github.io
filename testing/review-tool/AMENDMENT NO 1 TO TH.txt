@@ -1,84 +1,167 @@
-\centered **AMENDMENT NO. 1 TO THE SECURITIES PURCHASE AGREEMENT** 
+\centered AMENDMENT NO. 1 TO THIRD AMENDED AND RESTATED SHAREHOLDERS AGREEMENT
 
-This Amendment No. 1 (this “*Amendment*”) to the Securities Purchase Agreement, by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “*Company*”), and _________ (“*Investor*”) is dated as of [[Date 1: Date]] and amends the Securities Purchase Agreement dated as of [[Date 2: Date]] (the “*Purchase Agreement*”) by and among the Company and the Purchasers (as defined in the Purchase Agreement). Investor is one of the Purchasers party to the Purchase Agreement. The Company and the Investor shall be referred to collectively herein as the “*Parties*.” All capitalized terms used but not defined in this Amendment shall have the meanings assigned to such terms in the Purchase Agreement. 
+This Amendment No. 1 to Third Amended and Restated Shareholders Agreement (this “Amendment”) is made and entered into as of [[Date 1: Date]], by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and the undersigned shareholders of the Company (the “Consenting Shareholders”). Capitalized terms used but not otherwise defined herein shall have the respective meanings ascribed thereto in the Shareholders Agreement (as defined below).
 
-\centered RECITALS 
+\centered R E C I T A L S
 
-^The Purchase Agreement contemplates that the Company will issue and sell to the Purchasers thereunder an aggregate of [[Shares 1: Number]] Shares and Warrants to acquire up to that number of additional shares of Common Stock equal to seventy-five percent ([[Percentage 1: Number]]%) of the number of Shares purchased by each Purchaser (rounded down to the nearest whole share). 
+WHEREAS, the Company, the Consenting Shareholders and certain other shareholders of the Company have heretofore entered into that certain Third Amended and Restated Shareholders Agreement, dated as of [[Date 2: Date]] (the “Shareholders Agreement”);
 
-^Section 6.4 of the Purchase Agreement provides that any term thereof may be amended by a written instrument referencing the Purchase Agreement and signed by the Company and the Purchasers of at least two-thirds of the Shares purchased as of the Closing Date. 
+WHEREAS, Section 10.4 of the Shareholders Agreement provides that the Shareholders Agreement may be amended by a written agreement executed by (i) the Company, (ii) the holders of a majority of the Stock then held by the Series A Holders, (iii) the holders of a majority of the Stock then held by the Series B Holders, (iv) the holders of a majority of the Stock then held by the Series C Holders and (v) the Founders;
 
-^The Company and the Investor desire to amend the Purchase Agreement as set forth herein. 
+WHEREAS, the Company and the Consenting Shareholders constitute each of (i) the Company, (ii) the holders of a majority of the Stock then held by the Series A Holders, (iii) the holders of a majority of the Stock then held by the Series B Holders, (iv) the holders of a majority of the Stock then held by the Series C Holders and (v) the Founders; and
 
-NOW, THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Amendment, and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Company and the Purchasers hereby agree as follows: 
+WHEREAS, the Company and the Consenting Shareholders desire to amend the Shareholders Agreement as more fully set forth herein;
 
-\centered AGREEMENT 
+NOW, THEREFORE, in consideration of the agreements and obligations set forth herein and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
 
-^^Amendment to Exercise Price. That all references to the exercise price of the Warrants set forth in the Purchase Agreement and the form of Warrant attached thereto as Exhibit A shall be deemed to be $[[USD Value 1: Number]] per share. 
+\centered AGREEMENT
 
-^^Company Representations. The Company hereby represents and warrants to the Investor that this amendment is required by The NASDAQ Stock Market LLC to comply with its listing standards and no Purchaser has or will receive any consideration in connection with the amendment of the Purchase Agreement. 
+^Amendments to Definition of “Permitted Transfer”. The Company and the Consenting Shareholders agree that the definition of “Permitted Transfer” set forth in Section 1.1(j) of the Shareholders Agreement is hereby amended to (x) delete the word “and” at the end of clause (iii) of such definition, (y) renumber clause (iv) of such definition to become clause (v) of such definition and (z) insert a new clause (iv) of such definition to read in its entirety as follows:
 
-^^Condition to Effectiveness. The effectiveness of this Amendment shall be contingent on the execution by each Purchaser of an amendment to the Purchase Agreement that is substantially the same as this Amendment. 
+“ (iv) any transfers of Stock by Pequot Diversified Master Fund, Ltd. to any Affiliate of Pequot Diversified Master Fund, Ltd. that, at the time of such transfer but prior to giving effect to such transfer, is an existing holder of Stock of the Company; and”
 
-^^Effect of Amendment. Except as set forth in this Amendment, the provisions of the Purchase Agreement shall remain unchanged and shall continue in full force and effect. 
+^Governing Law. This Amendment shall be interpreted and enforced in accordance with and governed by the internal laws of the State of California without giving effect to the principles of conflicts of law of such state
 
-^^Governing Law. This Amendment shall be governed in all respects by the internal laws of the State of New York as applied to agreements entered into among New York residents to be performed entirely within New York, without regard to principles of conflicts of law. 
+^References to the Agreement. Except as amended by this Amendment, all other terms, conditions and covenants of the Shareholders Agreement are hereby confirmed by the parties hereto and remain unchanged and in full force and effect. From and after the date hereof, all references to the “Agreement” contained in the Shareholders Agreement, shall be deemed to be references to the Shareholders Agreement as amended by this Amendment.
 
-^^^^^ 
-^^Counterparts. This Amendment may be signed in any number of counterparts, each of which shall be deemed an original, and all of which together shall constitute one instrument 
+^Counterparts. This Amendment may be executed in multiple counterparts, each of which shall be deemed an original and all of which shall be deemed to constitute one and the same instrument, and it shall be sufficient for each party to have executed at least one, but not necessarily the same, counterpart.
 
-\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+\centered *[Signatures Follow]*
 
-^^^^^ 
-IN WITNESS WHEREOF, the parties hereto have caused this Amendment Number One to the Securities Purchase Agreement to be duly executed by their respective authorized signatories as of the date first indicated above. 
+IN WITNESS WHEREOF, this Amendment was executed as of the date first above written.
+
+**COMPANY:**
 
 [[Company]]
+
 [[Company Signatory Email: Identity | Signature]]
 __________________________________________
 {{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
 Title: [[Company Signatory Title]]}}
 
+Name: Andrew A Skarupa
+Title: CFO
 
-\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-^^^^^ 
+**FOUNDERS:**
 
-NAME OF PURCHASER:
-
-[[NAME OF PURCHASER Signatory Email: Identity | Signature]]
+[[FOUNDERS Signatory Email: Identity | Signature]]
 __________________________________________
-{{NAME OF PURCHASER Entity => By: [[NAME OF PURCHASER Signatory First Name]] [[NAME OF PURCHASER Signatory Last Name]]
-Title: [[NAME OF PURCHASER Signatory Title]]}}
+{{FOUNDERS Entity => By: [[FOUNDERS Signatory First Name]] [[FOUNDERS Signatory Last Name]]
+Title: [[FOUNDERS Signatory Title]]}}
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+[[Party 3 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 Entity => By: [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
+Title: [[Party 3 Signatory Title]]}}
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+Series A Holding
+
+[[Series A Holding Signatory Email: Identity | Signature]]
+__________________________________________
+{{Series A Holding Entity => By: [[Series A Holding Signatory First Name]] [[Series A Holding Signatory Last Name]]
+Title: [[Series A Holding Signatory Title]]}}
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+/s/ William D. Budinger
+William D. Budinger
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+HOBBIT INVESTMENTS
+[[HOBBIT INVESTMENTS Signatory Email: Identity | Signature]]
+__________________________________________
+{{HOBBIT INVESTMENTS Entity => By: [[HOBBIT INVESTMENTS Signatory First Name]] [[HOBBIT INVESTMENTS Signatory Last Name]]
+Title: [[HOBBIT INVESTMENTS Signatory Title]]}}
 
 
-Aggregate Purchase Price (Subscription Amount): $
+/s/ William M. Budinger
+Name: William M. Budinger
+Title: President
 
-Number of Shares to be Acquired:
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-Underlying Shares Subject to Warrant:
+**SERIES B HOLDERS:**
 
-(% of the number of Shares to be acquired)
+PERSPECTIVE INVESTMENTS
 
-Address for Notice:
+Name:
+Title:
 
-Telephone No.:
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-Facsimile No.:
+Series B Holding
 
-E-mail Address:
+[[Series B Holding Signatory Email: Identity | Signature]]
+__________________________________________
+{{Series B Holding Entity => By: [[Series B Holding Signatory First Name]] [[Series B Holding Signatory Last Name]]
+Title: [[Series B Holding Signatory Title]]}}
 
-Attention:
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-Delivery Instructions:
+/s/ William D. Budinger
+William D. Budinger
 
-(if different than above) 
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-c/o
+HOBBIT INVESTMENTS
+[[HOBBIT INVESTMENTS Signatory Email: Identity | Signature]]
+__________________________________________
+{{HOBBIT INVESTMENTS Entity => By: [[HOBBIT INVESTMENTS Signatory First Name]] [[HOBBIT INVESTMENTS Signatory Last Name]]
+Title: [[HOBBIT INVESTMENTS Signatory Title]]}}
 
-Street:
 
-City/State/Zip:
+/s/ William M. Budinger
+Name: William M. Budinger
+Title: President
 
-Attention:
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
 
-Telephone No.:
+THE SUSAN BUDINGER LONCKI
+SEPARATE PROPERTY TRUST
+
+[[SEPARATE PROPERTY TRUST Signatory Email: Identity | Signature]]
+__________________________________________
+{{SEPARATE PROPERTY TRUST Entity => By: [[SEPARATE PROPERTY TRUST Signatory First Name]] [[SEPARATE PROPERTY TRUST Signatory Last Name]]
+Title: [[SEPARATE PROPERTY TRUST Signatory Title]]}}
+
+Name: Susan Martin Budinger
+Title: Trustee
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+REAL BIG
+
+/s/ David L. Morris
+Name: David L. Morris
+Title: Member
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+[[Party 9 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 9 Entity => By: [[Party 9 Signatory First Name]] [[Party 9 Signatory Last Name]]
+Title: [[Party 9 Signatory Title]]}}
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+
+**SERIES C HOLDERS:**
+
+Shamrock Capital Growth Fund II, L.P.
+[[Shamrock Capital Growth Fund II L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Shamrock Capital Growth Fund II L.P. Entity => By: [[Shamrock Capital Growth Fund II L.P. Signatory First Name]] [[Shamrock Capital Growth Fund II L.P. Signatory Last Name]]
+Title: [[Shamrock Capital Growth Fund II L.P. Signatory Title]]}}
+
+
+/s/ Stephen D. Royer
+Stephen D. Royer
+Executive Vice President
+
+\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]

@@ -1,132 +1,188 @@
-\centered **Waiver Agreement**
+\centered **WAIVER AGREEMENT** 
 
-\centered **BL Capital B.V.**
+This WAIVER AGREEMENT (“Agreement”) dated as of [[Date 1: Date]], but effective as of [[Date 2: Date]] (the “Effective Date”) is among Willbros United States Holdings, Inc., a Delaware corporation (the “Borrower”), the guarantors party hereto (the “Guarantors”), the undersigned Lenders (as defined below), and Crédit Agricole Corporate and Investment Bank (formerly known as Calyon New York Branch), as administrative agent for the Lenders (the “Administrative Agent”). 
 
-\centered **Built to Build Vastgoed B.V.**
+\centered **PRELIMINARY STATEMENTS** 
 
-\centered **Opportunity Fund Brabant B.V.**
+WHEREAS, reference is made to the Credit Agreement dated as of [[Date 3: Date]] among the Borrower, the Guarantors, the lenders party thereto from time to time (the “Lenders”), and the Administrative Agent (as amended on or before the date hereof, the “Credit Agreement”; the defined terms of which are used herein unless otherwise defined herein). 
 
-\centered **-**
+WHEREAS, the Borrower, the Majority Lenders and the Administrative Agent wish to, subject to the terms and conditions of this Agreement, provide for a waiver of certain requirements under the Credit Agreement. 
 
-\centered **Playlogic International N.V.**
+\centered **AGREEMENTS** 
 
-\centered **Playlogic Entertainment, Inc.**
+NOW THEREFORE, in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, hereby agree as follows: 
 
-\centered **Playlogic Game Factory B.V.**
+^Waiver. The Borrower hereby acknowledges the existence of a Default as a result of the Borrower’s failure to comply with Section 6.17 of the Credit Agreement for the fiscal quarter ended [[Date 2]] (such Default shall be referred to herein as the “ Existing Default”). The Majority Lenders hereby agree, subject to the terms of this Agreement and satisfaction of the conditions precedent set forth below, (a) to waive the Existing Default and (b) that the Existing Default shall not constitute a Default or Event of Default under the Credit Agreement or the other Loan Documents. The foregoing waiver by the Majority Lenders is limited to the Existing Default and shall not be construed to be a waiver of the Borrower’s noncompliance with any other terms, provisions, covenants, warranties or agreements contained in the Credit Agreement or in any of the other Loan Documents or as a waiver of any other present or future Default or Event of Default. The Lenders reserve the right to exercise any rights and remedies available to them in connection with any other present or future defaults with respect to the Credit Agreement or any other provision of any Loan Document. 
 
-\centered **WAIVER AGREEMENT**
+^Effectiveness. This Agreement and the waiver set forth in Section 1 above shall be effective as of the Effective Date, but only upon the satisfaction of the following conditions precedent: 
 
-THE PARTIES:
-^**BL CAPTAL B.V.**, a limited liability company, incorporated under the laws of The Netherlands, having its corporate seat at ‘s-Hertogenbosch, registered in the trade register of the chamber of commerce under number 17200647, for this purpose duly represented by mr. R. Spoor,
+^^The Administrative Agent shall have received multiple original counterparts, as requested by the Administrative Agent, of this Agreement, duly and validly executed and delivered by duly authorized officers of the Borrower, the Guarantors, the Administrative Agent, and the Majority Lenders. 
 
-hereinafter referred to as: “BLC” or “Lender” or “Private Investor”;
+^^^^^ 
+^^No Default, other than the Existing Default, shall have occurred and be continuing as of the Effective Date. 
 
-^**BUILT TO BUILD VASTGOED B.V.**, a limited liability company, incorporated under the laws of The Netherlands, having its corporate seat at ‘s-Hertogenbosch, registered in the trade register of the chamber of commerce under number 16055893, for this purpose duly represented by mr. J.B.A.P. Groenewoud,
+^^The representations and warranties in this Agreement shall be true and correct in all material respects. 
 
-hereinafter referred to as: “BTB” or “Lender”;
+^Representations and Warranties. Each Loan Party represents and warrants that (a) except for the representations and warranties which are made only as of a prior date, the representations and warranties set forth in the Credit Agreement and in the other Loan Documents are true and correct in all respects as of the Effective Date as if made on and as of such date; (b) the execution, delivery and performance of this Agreement are within the power and authority of each Loan Party and have been duly authorized by appropriate action and proceedings; (c) this Agreement constitutes a legal, valid, and binding obligation of each Loan Party enforceable in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting the rights of creditors generally and general principles of equity; (d) there are no governmental or other third party consents, licenses and approvals required in connection with the execution, delivery, performance, validity and enforceability of this Agreement; and (e) other than the Existing Default, no Default or Event of Default has occurred and is continuing. 
 
-^**OPPORTUNITY FUND BRABANT B.V.**, a limited liability company, incorporated under the laws of The Netherlands, having its corporate seat at ‘s-Hertogenbosch, registered in the trade register of the chamber of commerce under number 17224321, for this purpose duly represented by mr. J.B.A.P. Groenewoud,
+^Reaffirmation of Guaranty and Liens. 
 
-hereinafter referred to as: “OFB” or “Lender” or “Private Investor”;
+^^Each Guarantor (i) has consented and agreed to the Credit Agreement, as amended hereby, (ii) has reviewed this Agreement, (iii) waives any defense arising by reason of any disability, lack of organizational authority or power, or other defense of the Borrower or any other guarantor of the Obligations, and (iv) agrees that according to and subject to its terms the guaranty by such Guarantors, as amended hereby, will continue in full force and effect to guaranty the Obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified, and such other amounts in accordance with the terms of the Article VIII of the Credit Agreement. 
 
-and
-^**PLAYLOGIC INTERNATIONAL N.V.**, a company limited by shares, incorporated under the laws of The Netherlands, having its corporate seat at Amsterdam, registered in the trade register of the chamber of commerce under number 34169344, for this purpose duly represented by mr. W.M. Smit,
+^^The Loan Parties (i) are party to certain Security Documents securing and supporting the Obligations, (ii) have reviewed this Agreement, (iii) waive any defense arising by reason of any disability, lack of organizational authority or power, or other defense of such Loan Party, and agrees that according to their terms the Security Documents to which the applicable Loan Party is a party will continue in full force and effect to secure the Obligations under the Loan Documents, as the same may be amended, supplemented, or otherwise modified, and (iv) acknowledge, represent, and warrant that the liens and security interests created by the Security Documents are valid and subsisting and create a first priority perfected security interest subject to Permitted Liens as amended herein. 
 
-^**PLAYLOGIC ENTERTAINMENT, INC.**, a public company, incorporated under the laws of Delaware (USA), having its statutory seat at Argyle, Texas (USA), registered at the Office of the Secretary of State at Delaware under number 3401183, for this purpose duly represented by mr. W.M. Smit,
+^Effect on Loan Documents; Acknowledgments. 
 
-Waiver Agrreement 
-\centered Page 2 of 5
+^^Except for the waiver of the Existing Default granted herein, the Credit Agreement (including the guaranty set forth in Article VIII thereof) and the other Loan Documents, as heretofore amended, remain in full force and effect as originally executed, and nothing herein shall act as a waiver of any of the Administrative Agent’s or Lenders’ rights under the Loan Documents, as amended. 
 
-\centered 6.  **PLAYLOGIC GAME FACTORY B.V.**, a limited liability company, incorporated under the laws of The Netherlands, having its corporate seat at Amsterdam, registered in the trade register of the chamber of commerce under number 34169345, for this purpose duly represented by Playlogic International N.V., in its turn for this purpose duly represented by mr. W.M. Smit,  
+^^^^^ 
+^^This Amendment is a Loan Document for the purposes of the provisions of the other Loan Documents. Without limiting the foregoing, any breach of representations, warranties, and covenants under this Amendment may be a Default or Event of Default under other Loan Documents. 
 
-The parties under 4., 5. and 6. hereinafter together or separately referred to as: “Playlogic c.s.” or ‘Borrower’;
+^^Upon and after the execution of this Amendment by each of the parties hereto, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as modified hereby. 
 
-the parties under 1. up to and including 6. hereinafter referred to as a “Party” or together as the “Parties”;
+^Counterparts. This Agreement may be signed in any number of counterparts, each of which shall be an original and all of which, taken together, constitute a single instrument. This Agreement may be executed by facsimile or other electronic signature and all such signatures shall be effective as originals. 
 
-WHEREAS:
-^Playlogic Entertainment, Inc. is a public company trading its stock on the NASDAQ (Over The Counter Bulletin Board). The ticker symbol is PLGC.OB. Playlogic Entertainment, Inc., owns [[Percentage 1: Number]]% of the shares in the capital of Playlogic International N.V. and Playlogic International N.V. owns [[Percentage 1]]% of the shares in the capital of Playlogic Game Factory B.V.;
+^Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns permitted pursuant to the Credit Agreement. 
 
-^OFB and BLC (in their capacity of shareholders hereinafter: the “Private Investors”) currently hold 28,223,736 of the ordinary shares in the share capital of Playlogic Entertainment, Inc., which represents approximately [[Percentage 2: Number]]% of the total outstanding capital of Playlogic Entertainment, Inc., hereinafter referred to as the “Share Package”;
+^Counterparts. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. Transmission by facsimile or other electronic transmission of an executed counterpart of this Amendment shall be deemed to constitute due and sufficient delivery of such counterpart. 
 
-^In the period [[Date 1: Date]] to [[Date 2: Date]] each of OFB, BTB and BLC (in their capacity of lender hereinafter: the “Lenders”) provided Playlogic with loans as referred to in the notarial deed of 6 [[Date 2]] (attached as **Appendix A**), the aggregate amount thereof (including accrued unpaid interest) as per 31 [[Date 3: Date]] being USD 27,038,003 (equaling EUR 18,776,391 based on the EUR/USD exchange rate as per 31 [[Date 3]]), hereinafter: the “Loans”;
+^Governing Law. **THIS AGREEMENT SHALL BE CONSTRUED IN ACCORDANCE WITH AND BE GOVERNED BY THE LAWS OF THE STATE OF NEW YORK.** 
 
-^Borrowers are in severe default with their (interest) obligations under the Loans;
+^Waiver of Jury Trial. **EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT IT MAY EFFECTIVELY DO SO UNDER APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO ANY LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY**. 
 
-^By virtue of the terms and conditions applicable to the Loans the Borrowers are obliged to provide (further) securities for the fulfillment of their obligations under the Loans upon the Lenders’ first request;
+^Entire Agreement. This Agreement, the Credit Agreement, as modified by this Agreement, and the other Loan Documents constitute the entire understanding among the parties hereto with respect to the subject matter hereof and supersede any prior agreements, written or oral, with respect thereto. 
 
-^Playlogic is contemplating to financially restructure the Playlogic group, which includes the sale of the Share Package (hereinafter: the “Financial Restructuring”);
+^^^^^ 
+In Witness Whereof, the parties hereto have caused this Agreement to be duly executed and delivered by their respective duly authorized representatives as of the Effective Date. 
 
-Waiver Agrreement 
-\centered Page 3 of 5
-
-^In order to optimize the possibility to find an interested investor and realize the contemplated Financial Restructuring, Playlogic has requested the Lenders to reduce the amount of the Loans substantially by way of a waiver;
-
-^The Lenders are prepared to reduce the amount of the Loans by way of a waiver provided that (i) the interest rate in respect of the remaining amount of the Loans will be increased and (ii) the Lenders will be granted a first right of pledge upon the shares in the capital of Playlogic Game Factory B.V.;
-
-^In view of the foregoing OFB, BTB and BLC in their capacity of Lenders and Playlogic c.s. in their capacity of Borrowers herewith confirm their understanding regarding the waiver as orally agreed in [[Date 3]];
-
-HAVE AGREED AS FOLLOWS:
-
-^Upon the terms and conditions as laid down in this agreement, each of the Lenders herewith waives for the benefit of Playlogic c.s. all its rights with respect to the Loans for an amount of USD 21,038,003 (twenty-one million thirty-eight thousand three US Dollar) as per 31 [[Date 3]]. This waiver applies pro rata parte to the loans referred to in the notarial deed included in appendix A.
-
-^For the avoidance of doubt, the waiver reflected in clause 1 does not affect the remaining amount of the Loans, being USD 6,000,000 (six million US Dollar) as per [[Date 4: Date]] (based on the EUR/USD exchange rate as per 31 [[Date 3]]), nor does this affect the other terms and conditions applicable to the loans, except for the interest rate as stipulated in clause 3 hereof.
-
-^With effect as of [[Date 4]], the Borrowers owe an interest on the remaining amount of the Loans (being USD 6,000,000 or the remainder thereof) equal to [[Percentage 3: Number]]% (thirty-one point twenty-one percent) per year, which interest must be paid in weekly instalments in arrear on or before every Friday of the week, for the first time on or before Friday 2 [[Date 5: Date]].
-
-^As additional security for the proper performance of its obligations under the Loans the Borrowers shall provide to the Lenders a first right of pledge upon all the issued and outstanding shares in the capital of Playlogic Game Factory B.V. in accordance with the draft deed of pledge (“Verpanding Aandelen Playlogic Game Factory B.V.”) of which a copy is attached to this agreement as **Appendix B**.
-
-For the avoidance of doubt: the Parties explicitly agreed that the Borrowers will pay for interest an amount of EUR 25,000 per week, being [[Percentage 3]]% of USD 6,000,000 per year (calculated against the exchange rate as per 31 [[Date 3]])
-
-Waiver Agrreement 
-\centered Page 4 of 5
-
-^If, for whatever reason, the aforementioned interest (rate) and/or the aforementioned pledge on the shares of Playlogic Game Factory B.V. would be dissolved, rescinded, nullified or declared null (and void), the same applies automatically for the aforementioned waiver and all claims of the Lenders will revive.
-
-^This agreement is governed by the laws of the Netherlands. Any dispute arising from this agreement shall be brought before the competent court of Amsterdam.
-
-THUS AGREED, drawn up in four copies, all of which are valid as an original copy and signed by
-
-**BL Capital B.V.**    **Built to Build Vastgoed B.V.**
-
-­­­­­­­­­[[­­­­­­­­­ Signatory Email: Identity | Signature]]
+**BORROWER****:**  WILLBROS UNITED STATES HOLDINGS, INC.
+[[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{­­­­­­­­­ Entity => By: [[­­­­­­­­­ Signatory First Name]] [[­­­­­­­­­ Signatory Last Name]]
-Title: [[­­­­­­­­­ Signatory Title]]}}
+{{BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Entity => By: [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory First Name]] [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Last Name]]
+Title: [[BORROWER  WILLBROS UNITED STATES HOLDINGS INC. Signatory Title]]}}
 
-[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
+[[Party 1]]
+Vice President, Corporate Development and Treasurer
+
+**GUARANTORS**:  WILLBROS GROUP, INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES, L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA, INC. WILLBROS ENGINEERS (U.S.) (f/k/a Willbros Engineers, Inc.). WILLBROS GOVERNMENT SERVICES (U.S.) (f/k/a Willbros Government Services, Inc.) WILLBROS GOVERNMENT HOLDINGS (U.S.) WILLBROS PROJECT SERVICES (U.S.) (f/k/a Willbros Project Services, Inc.) WILLBROS REFINERY AND MAINTENANCE SERVICES (U.S.) WILLBROS CONSTRUCTION (U.S.) (f/k/a Willbros RPI, Inc.) WINK ENGINEERING (f/k/a Wink Companies)
+[[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Email: Identity | Signature]]
 __________________________________________
-{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
+{{GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Entity => By: [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory First Name]] [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Last Name]]
+Title: [[GUARANTORS  WILLBROS GROUP INC. INTEGRATED SERVICE COMPANY LLC INTEGRATED SERVICE COMPANY OF OKLAHOMA INC. CONSTRUCTION & TURNAROUND SERVICES L.L.C. CONSTRUCTION & TURNAROUND SERVICES OF CALIFORNIA INC. WILLBROS ENGINEERS U.S. f/k/a Willbros Engineers Inc.. WILLBROS GOVERNMENT SERVICES U.S. f/k/a Willbros Government Services Inc. WILLBROS GOVERNMENT HOLDINGS U.S. WILLBROS PROJECT SERVICES U.S. f/k/a Willbros Project Services Inc. WILLBROS REFINERY AND MAINTENANCE SERVICES U.S. WILLBROS CONSTRUCTION U.S. f/k/a Willbros RPI Inc. WINK ENGINEERING f/k/a Wink Companies Signatory Title]]}}
 
-Date:    Date:
 
-**Opportunity Fund Brabant B.V.**    **Playlogic International N.V.**
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
 
-[[Opportunity Fund Brabant B.V.    Playlogic International N.V. Signatory Email: Identity | Signature]]
+^^^^^ 
+
+**ADMINISTRATIVE AGENT:**  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+[[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Email: Identity | Signature]]
 __________________________________________
-{{Opportunity Fund Brabant B.V.    Playlogic International N.V. Entity => By: [[Opportunity Fund Brabant B.V.    Playlogic International N.V. Signatory First Name]] [[Opportunity Fund Brabant B.V.    Playlogic International N.V. Signatory Last Name]]
-Title: [[Opportunity Fund Brabant B.V.    Playlogic International N.V. Signatory Title]]}}
+{{ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Entity => By: [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory First Name]] [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Last Name]]
+Title: [[ADMINISTRATIVE AGENT  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Title]]}}
+
 
 [[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
 __________________________________________
 {{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
 Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
 
-Date:    Date:
 
-**Playlogic Entertainment, Inc.**    **Playlogic Game Factory B.V.**
-
-[[Playlogic Entertainment Inc.    Playlogic Game Factory B.V. Signatory Email: Identity | Signature]]
+**LENDERS:**  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK
+[[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Email: Identity | Signature]]
 __________________________________________
-{{Playlogic Entertainment Inc.    Playlogic Game Factory B.V. Entity => By: [[Playlogic Entertainment Inc.    Playlogic Game Factory B.V. Signatory First Name]] [[Playlogic Entertainment Inc.    Playlogic Game Factory B.V. Signatory Last Name]]
-Title: [[Playlogic Entertainment Inc.    Playlogic Game Factory B.V. Signatory Title]]}}
+{{LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Entity => By: [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory First Name]] [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Last Name]]
+Title: [[LENDERS  CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK Signatory Title]]}}
 
-[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
 __________________________________________
-{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
 
-Date:    Date:
 
-Waiver Agrreement 
-\centered Page 5 of 5
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+CREDIT SUISSE, CAYMAN ISLANDS BRANCH as a Lender
+[[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Entity => By: [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory First Name]] [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Last Name]]
+Title: [[CREDIT SUISSE CAYMAN ISLANDS BRANCH as a Lender Signatory Title]]}}
+
+
+[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+UBS LOAN FINANCE LLC as a Lender
+[[UBS LOAN FINANCE LLC as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{UBS LOAN FINANCE LLC as a Lender Entity => By: [[UBS LOAN FINANCE LLC as a Lender Signatory First Name]] [[UBS LOAN FINANCE LLC as a Lender Signatory Last Name]]
+Title: [[UBS LOAN FINANCE LLC as a Lender Signatory Title]]}}
+
+
+[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+NATIXIS as a Lender
+[[NATIXIS as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{NATIXIS as a Lender Entity => By: [[NATIXIS as a Lender Signatory First Name]] [[NATIXIS as a Lender Signatory Last Name]]
+Title: [[NATIXIS as a Lender Signatory Title]]}}
+
+
+[[Title Party 11 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 11 Signatory Title}} Entity => By: [[Title Party 11 Signatory Title}} Signatory First Name]] [[Title Party 11 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 11 Signatory Title}} Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+AMEGY BANK N.A. as a Lender
+[[AMEGY BANK N.A. as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{AMEGY BANK N.A. as a Lender Entity => By: [[AMEGY BANK N.A. as a Lender Signatory First Name]] [[AMEGY BANK N.A. as a Lender Signatory Last Name]]
+Title: [[AMEGY BANK N.A. as a Lender Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+BANK OF TEXAS, N.A. as a Lender
+[[BANK OF TEXAS N.A. as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF TEXAS N.A. as a Lender Entity => By: [[BANK OF TEXAS N.A. as a Lender Signatory First Name]] [[BANK OF TEXAS N.A. as a Lender Signatory Last Name]]
+Title: [[BANK OF TEXAS N.A. as a Lender Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc. 
+
+^^^^^ 
+
+THE BANK OF NOVA SCOTIA as a Lender
+[[THE BANK OF NOVA SCOTIA as a Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{THE BANK OF NOVA SCOTIA as a Lender Entity => By: [[THE BANK OF NOVA SCOTIA as a Lender Signatory First Name]] [[THE BANK OF NOVA SCOTIA as a Lender Signatory Last Name]]
+Title: [[THE BANK OF NOVA SCOTIA as a Lender Signatory Title]]}}
+
+
+\centered Signature Page to Waiver Agreement  Willbros United States Holdings, Inc.

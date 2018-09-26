@@ -2,30 +2,59 @@
 
 \centered **TO** 
 
-\centered **EXECUTIVE EMPLOYMENT AGREEMENT** 
+\centered **EMPLOYMENT AGREEMENT** 
 
-Pursuant to Section 14 of the Executive Employment Agreement effective as of [[Date 1: Date]] (the “Agreement”) entitled “Waiver; Modification,” the parties to the Agreement hereby modify the Agreement as provided below. 
+This First Amendment to Employment Agreement (this “First Amendment”) is dated effective the [[Date 1: Date]] (the “Effective Date”) by and between [[Live Nation]], a [[State of Formation: State]] [[Organization: EntityType]] (“Live Nation”), and [[Employee]] (the “Employee”). 
 
-**Section 6(b)(ii) shall be amended by deleting the second sentence thereto and by replacing it with the following sentence:** 
+WHEREAS, the parties entered into that certain Employment Agreement dated effective [[Date 2: Date]] (together with the Addendum thereto effective as of [[Date 3: Date]], the “Original Agreement”). 
 
-Such payment shall be made, in the Company’s sole discretion, either (1) in accordance with normal payroll procedures applicable to senior officers at the time of such termination; (2) in a single lump sum payment; or (3) in a combination of normal payroll procedures followed by a lump sum payment for the balance of the payment; provided, that, in all cases, all payments shall be completed within the taxable year in which the Officer terminates employment, or such later time as permitted under Section 409A of the Internal Revenue Code or its successor and the guidance provided by the Internal Revenue Service or Department of Treasury, such that the amount paid shall not be considered “deferred compensation” within the meaning of Section 409A. 
+WHEREAS, the parties desire to amend the Original Agreement as set forth below. 
 
-**Section 6(b)(iii) and 6(c)(iii) shall be amended by deleting the provisions in their entirety and by replacing them with the following sentence:** 
+NOW, THEREFORE, in consideration of the mutual covenants and agreements included in this First Amendment and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties, intending to be legally bound, agree as follows: 
 
-Continued participation in the Company’s fringe benefits; provided, however, that such continuation of benefits after termination shall not apply to those fringe benefits which require a minimum number of hours of employment for participation, such as 401k, life insurance and other employee insurance. The Company shall reimburse Officer for COBRA payments for continued medical benefits and insurance for the severance period to the extent incurred. 
+^Section 1 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
 
-The Officer, to the extent determined to be nondiscriminatory under the Company’s qualified employee benefit plans, shall become fully vested in his benefits under such plans. Additionally, the Officer shall become fully vested with respect to any of the Company’s non-qualified benefit plans in which he is a participant. 
+“The Employee’s term of employment starts effective as of [[Date 4: Date]] and ends on the close of business on [[Date 5: Date]] (the “Term”), unless terminated earlier pursuant to the terms set forth in Section 7 below.” 
 
-All other provisions of the Agreement shall remain in full force and unamended. 
+^The first sentence of Section 2 of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
 
-Dated this 1st day February of 2005. 
+“The Employee’s title is Chief Executive Officer, Ticketing, as such title may be amended during the Term upon the mutual agreement of the parties.” 
 
+^The first sentence of Section 3(a) of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
 
+“Effective as of [[Date 4]], Live Nation will pay the Employee an annual gross base salary of $[[USD Value 1: Number]] less appropriate payroll deductions. All payments of base salary will be made in installments according to Live Nation’s regular payroll practice, prorated monthly or weekly where appropriate, and subject to any increases that are determined to be appropriate by Live Nation in its discretion.” 
 
-[[Dated this 1st day February of 2005. Signatory Email: Identity | Signature]]
-__________________________________________
-{{Dated this 1st day February of 2005. Entity => By: [[Dated this 1st day February of 2005. Signatory First Name]] [[Dated this 1st day February of 2005. Signatory Last Name]]
-Title: [[Dated this 1st day February of 2005. Signatory Title]]}}
+^Section 3(b) of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
 
+“For each calendar year of this Agreement beginning in 2009, the Employee will be eligible to receive a performance bonus (a “Performance Bonus”) of up to [[Percentage 1: Number]]% of his then-current base salary based on the achievement of performance targets to be set and determined annually by Live Nation in its sole and absolute discretion. The Performance Bonus, if any, shall be paid in one lump sum in the year following the year in which such Performance Bonus was earned.” 
 
-EXECUTIVE
+^Section 3(f) of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“Live Nation will, within 90 days of the date that the stockholders of Live Nation, Inc. approve either an amendment to the Live Nation, Inc. 2005 Stock Incentive Plan adding additional shares to such plan or a new equity incentive plan, recommend to the Compensation Committee of the Board of Directors of Live Nation, Inc. (the “Committee”) that the Employee be granted stock options to purchase [[Shares 1: Number]] shares of Live Nation, Inc. common stock. Such stock option grant shall: (i) be made in the sole and absolute discretion of the Committee; (ii) be made under the terms and conditions set forth in the applicable equity incentive plan and stock option agreement under which they are issued; and (iii) have a strike price equal to the closing price of Live Nation, Inc.’s common stock listed on the New York Stock Exchange on the date of the grant (or such other principal stock exchange on which such shares may be traded on the date of grant or, if Live Nation’s common stock are not so traded, at the fair market value of a share of Live Nation stock on the date of grant, as determined by the Committee).” 
+
+^Section 8(d) of the Original Agreement is hereby amended and restated in its entirety to read as follows: 
+
+“**Termination by Live Nation Without Cause.** If the Employee’s employment with Live Nation is terminated by Live Nation without Cause during the Term, Live Nation will pay to the Employee, in a lump sum amount, the Employee’s accrued and unpaid base salary, prorated bonus, if any, unreimbursed expenses and any payments to which the Employee may be entitled under any applicable employee benefit plan (according to the terms of such plans and policies) or under this Agreement (if any). In addition, if the Employee signs a general release of claims no later than 60 days following such termination in a form and manner satisfactory to Live Nation, then, subject to Section 8(g), within 90 days after such termination, Live Nation will (i) pay to the Employee a lump-sum amount, less appropriate withholdings, equal to the Employee’s then-current base salary for a period equal to the greater of (x) the remainder of the Term or (y) one year and (ii) accelerate the vesting and lapsing of restrictions on all unvested equity awards awarded to the Employee prior to the date of termination.” 
+
+^The Original Agreement is and shall continue to be in full force and effect, except as amended by this First Amendment, and except that all references in the Original Agreement to the “Agreement” or words of like import referring to the Original Agreement shall mean the Original Agreement as amended by this First Amendment. 
+
+^Any and all defined terms which are not explicitly defined herein shall have the meaning ascribed to them in the Original Agreement. 
+
+^This First Amendment may be signed in counterpart originals, which collectively shall have the same legal effect as if all signatures appeared on the same physical document. This First Amendment may be signed and exchanged by electronic or facsimile transmission, with the same legal effect as if the signatures had appeared in original handwriting on the same physical document. 
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this First Amendment effective as of the date first written above. 
+
+**THE EMPLOYEE**
+
+Date:      \centered 4/9/09            /S/ [[Employee]]
+
+[[Employee]]
+
+[[Live Nation]]
+
+Date:      [[Date 6: Date]]            By:      /S/ MICHAEL RAPINO
+
+Name:      **Michael Rapino**
+Title:      **Chief Executive Officer and President**
+
+\centered ***[Signature Page to First Amendment]*** 

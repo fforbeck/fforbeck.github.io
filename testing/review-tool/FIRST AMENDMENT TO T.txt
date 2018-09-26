@@ -1,15 +1,13 @@
-\centered FIRST AMENDMENT 
+\centered **FIRST AMENDMENT TO**
 
-\centered TO THE 
+\centered **THE PHOENIX COMPANIES, INC.**
 
-\centered WARNER CHILCOTT EQUITY INCENTIVE PLAN 
+\centered **EXCESS BENEFIT PLAN**
 
-WHEREAS, Section 5(b)(iii) of the Warner Chilcott Equity Incentive Plan (the “Plan”) provides that upon a change in control of Warner Chilcott plc, or any successor or parent thereto as designated by the board of directors (the “Company”), any unvested awards granted under the Plan which are subject to a time-based vesting schedule shall become fully vested and non-forfeitable; 
+\centered **As Amended and Restated Effective [[Date 1: Date]]**
 
-WHEREAS, the board of directors of the Company, upon the recommendation of the Compensation Committee, has determined that it is in the best interests of the Company to provide that all awards granted under the Plan on or after [[Date 1: Date]], to employees of the Company or its subsidiaries, shall not automatically vest upon the change in control, but shall instead vest in the event of an involuntary termination of the employment of the award recipient without cause or a voluntary termination of the employment of the award recipient for good reason within one year after the change in control; and 
+The Phoenix Companies, Inc. Excess Benefit Plan, as amended and restated effective [[Date 1]] (the “Plan”), is further amended effective [[Date 2: Date]], as follows:
 
-WHEREAS, pursuant to Section 17(b) of the Plan, the board of directors may amend the Plan at any time for any reason. 
+^^is amended to add a new subsection at the end to read as follows:
 
-NOW THEREFORE, Section 5(b) of the Plan is amended by deleting clause (iii) in its entirety and replacing it with the following: 
-
-“(iii) Vesting. Each Award agreement shall specify the dates and events on which all or any installment of the Award shall be vested and non-forfeitable. Notwithstanding the foregoing, unless explicitly provided otherwise under the binding terms of the Award agreement, in the event that a participant’s employment is terminated by the Company or its successor without Cause or by the participant for Good Reason (as such terms are defined in the Award agreement), in either case within one year after a Change in Control, such participant’s then outstanding unvested Awards shall vest and be non-forfeitable. Nothing in this Section 5(b)(iii) shall limit the application of the provisions of Section 14.”
+^^***Freeze of Accrued Benefits*** The benefits of each Participant under this Plan shall be determined based on the Participant's Accrued Benefits under the Pension Plan, including any of the Retirement Benefits (as defined in the Pension Plan) to which a Participant may become entitled under the terms of Appendix V of the Pension Plan, and such Accrued Benefits for all Participants under the Pension Plan were frozen effective [[Date 2]], pursuant to the Eighteenth Amendment to the Pension Plan.

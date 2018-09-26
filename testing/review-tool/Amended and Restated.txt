@@ -1,170 +1,1326 @@
-\centered **Amended and Restated Employment Security Agreement**
+.1**   
 
-This Amended and Restated Employment Security Agreement (the “Agreement”) by and between [[Executive]] (the “Executive”) and Smurfit-Stone Container Corporation (the “Company”) shall be deemed to have been made and entered into as of the date of the order of confirmation entered by the United States Bankruptcy Court for the District of Delaware with respect to the Company’s Plan of Reorganization (as defined below), and shall become effective as of [[Date 1: Date]], the effective date of the Plan of Reorganization (the “Effective Date”).
+\centered **Amended and Restated**  **Collateral Agreement** 
 
-WHEREAS, the Company and the Executive are parties to that certain Employment Security Agreement effective as of [[Date 2: Date]](such agreement referred to herein as the “Predecessor Agreement”) to, among other things, provide protection to the Executive in connection with a change in control of the Company; and
+\centered among 
 
-WHEREAS, the Company and the Executive desire to enter into this Agreement and, in so doing, to amend and restate the Predecessor Agreement in its entirety;
+\centered U.S. BANCORP, 
 
-NOW, THEREFORE, it is hereby agreed by and between the parties, for good and valuable consideration the receipt and sufficiency of which are hereby acknowledged, as follows:
+\centered U.S. BANK NATIONAL ASSOCIATION,  as Collateral Agent, Custodial Agent,  Securities Intermediary and Securities Registrar 
 
-^Payments and Benefits Upon Employment Termination On or After a Change in Control. If on or within two (2) years after a Change in Control (all capitalized terms as defined herein), the Company terminates the Executive’s employment with the Company and its Affiliates without Cause and for a reason other than death or Incapacity or the Executive voluntarily terminates such employment with Good Reason, subject to the terms and conditions of this Agreement, and provided that the Executive executes (without revoking) and returns to the Company an enforceable waiver and release in a form acceptable to the Company (a “Release Agreement”) within the time period specified by the Company (which time period shall not be more than sixty (60) calendar days after the Executive’s Date of Termination (as defined in Section 8 below)) and further provided that the Executive remains in compliance with Sections 8, 9 and 10 of this Agreement, the Company shall make the payments and provide the benefits as described below:
+\centered and 
 
-^^Cash Payment. The Company will pay to the Executive a gross amount equal to two (2) times the Executive’s Annual Compensation, payable in equal installments during the two (2) year period following the Executive’s Date of Termination.
+\centered USB CAPITAL IX,  acting through Wilmington Trust Company,  as Property Trustee 
 
-^^Welfare Benefit Plans. With respect to each Welfare Benefit Plan, for the period beginning on the Executive’s Date of Termination and ending on the earlier of (i) two years following the Executive’s Date of Termination, or (ii) the date the Executive becomes eligible for coverage by a welfare benefit plan or program maintained by an entity other than the Company or an Affiliate that provides coverage or benefits at least comparable, in all material respects, to such Welfare Benefit Plan, the Company will continue to pay the employer portion of the Executive’s premiums to continue the Executive’s then-current coverage as of the 
+\centered Dated as of [], 2010 
 
-Date of Termination under such Welfare Benefit Plan (the Executive to continue paying the employee portion at regular employee rates), with the period of such coverage to run concurrently with any coverage period provided under the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended (“COBRA”) (provided that the Executive has timely elected such COBRA coverage in accordance with Company policy and applicable law). The Executive shall report to the Company any coverage or benefits for which the Executive becomes eligible to receive from a Person other than the Company or any of its Affiliates.
+^^^^^ 
+\centered **Table of Contents** 
 
-^^Equity Awards. To the extent provided for in the Executive’s applicable award statements or agreements with respect to any awards under the Company’s Equity Incentive Plan (including without limitation, such awards made to the Executive pursuant to the Company’s Plan of Reorganization), the Company shall cause any and all unvested portions of the Executive’s restricted shares, stock options, and any and all other equity-based awards to become vested and exercisable (as applicable) as of the effective date of the Executive’s termination of employment to the extent (if any) that such awards are not already fully vested and exercisable (as applicable).
+**Page** **Definitions** Section 1.01 Definitions     **Pledge** Section 2.01 Pledge     Section 2.02 Control     Section 2.03 Termination     Section 2.04 Release for Subject Normal ITS     **Control** Section 3.01 Establishment of Collateral Account     Section 3.02 Treatment as Financial Assets     Section 3.03 Sole Control by Collateral Agent     Section 3.04 Securities Intermediary’s Location     Section 3.05 No Other Claims     Section 3.06 Investment and Release     Section 3.07 No Other Agreements     Section 3.08 Powers Coupled with an Interest     Section 3.09 Waiver of Lien; Waiver of Set-off     **Custody** Section 4.01 Appointment     Section 4.02 Custody     Section 4.03 Termination of Custody Account     Section 4.04 Waiver of Lien; Waiver of Set-off     **Distributions on Collateral and Custody Notes** Section 5.01 Interest on Notes     Section 5.02 Payments Following Termination Event     Section 5.03 Payments Prior to or on Stock Purchase Date     Section 5.04 Payments to Property Trustee     Section 5.05 Assets Not Properly Released      
 
-^^Payment of Accrued Amounts. The Company will pay the Executive (i) any accrued but unpaid base salary through the effective date of the Executive’s termination of employment, (ii) any earned but unpaid bonus under the Company’s annual incentive plan pursuant to, and in accordance with, the terms and conditions of such plan; (iii) any earned but unused vacation time as determined in accordance with the Company’s policies then in effect, and (iv) for any unreimbursed expenses existing at that time in accordance with the Company’s policies then in effect.
+Collateral Agreement  
 
-^Timing of Payments and Benefits. Subject to the terms and conditions of this Agreement (including without limitation Section 5(c)) and provided that the Executive executes (without revoking) a Release Agreement as set forth in Section 1 above and the applicable statutory revocation period with respect to such Release Agreement has expired, and further provided that the Executive remains in compliance with Sections 8, 9 and 10 of this Agreement, any payments or benefits made available to the Executive by the Company pursuant to this Section will be made or commence (as applicable) as follows: (a) any payments made pursuant to Section 1(a) will commence on the sixtieth (60th) calendar day following the Executive’s Date of Termination; and (b) the payments and benefits in Sections 1(b), (c) and (d) will be paid or commence (as applicable) at such times and in such manner as set forth in the applicable Company policy and plan documents.
+\centered -i- 
 
-^Change in Control. For purposes of this Agreement, “Change in Control” shall mean the occurrence of any one or more of the following:
+^^^^^ 
 
-^^The “beneficial ownership” of securities representing more than [[Percentage 1: Number]]% of the combined voting power of the then outstanding voting securities of the Company entitled to vote generally in the election of directors (the “Company Voting Securities”) is accumulated, held or acquired by a Person (as defined in Section 3(a)(9) of the Securities Exchange Act of 1934, as amended, and used in Sections 13(d) and 14(d) thereof) other than the Company, any trustee or other fiduciary holding securities under an employee benefit plan of the Company, or any corporation owned, directly or indirectly, by the Company’s stockholders in substantially the same proportions as their ownership of stock of the Company; provided, however, that any acquisition from the Company or any acquisition pursuant to a transaction that complies with clauses (A), (B) and (C) of subparagraph (c) of this definition will not be a Change in Control under this subparagraph (a), and provided further that immediately prior to such accumulation, holding or acquisition, such person was not a direct or indirect beneficial owner of [[Percentage 1]]% or more of the Company Voting Securities;
+**Page** **Initial Deposit; Exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS; Reinvestment of Proceeds of Pledged Treasury Securities** Section 6.01 Initial Deposit of Notes     Section 6.02 Exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS     Section 6.03 Exchange of Stripped ITS and Capital ITS for Normal ITS and Qualifying Treasury Securities     Section 6.04 Termination Event     Section 6.05 Reinvestment of Proceeds of Pledged Treasury Securities     Section 6.06 Application of Proceeds in Settlement of Stock Purchase Contracts     **Voting Rights  Notes** Section 7.01 Voting Rights     **Rights and Remedies** Section 8.01 Rights and Remedies of the Collateral Agent     Section 8.02 Remarketing; Contingent Exchange Elections by Holder of Normal ITS     Section 8.03 Contingent Disposition Election by Holder of Capital ITS     **Representations and Warranties; Covenants** Section 9.01 Representations and Warranties     Section 9.02 Covenants     **The Collateral Agent, The Custodial Agent, The Securities Intermediary and The Securities Registrar** Section 10.01 Appointment, Powers and Immunities     Section 10.02 Instructions of the Company     Section 10.03 Reliance by Collateral Agent, Custodial Agent, Securities Intermediary and Securities Registrar     Section 10.04 Certain Rights     Section 10.05 Merger, Conversion, Consolidation or Succession to Business     Section 10.06 Rights in Other Capacities     Section 10.07 Non-reliance on Collateral Agent, the Securities Intermediary, the Custodial Agent and Securities Registrar     Section 10.08 Compensation and Indemnity     Section 10.09 Failure to Act     Section 10.10 Resignation of Collateral Agent, the Securities Intermediary, the Custodial Agent and Securities Registrar     Section 10.11 Right to Appoint Agent or Advisor      
 
-^^Individuals who, as of the Effective Date, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that an individual becoming a director subsequent to that date whose election, or nomination for election by the Company’s stockholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board will be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board;
+Collateral Agreement  
 
-^^Consummation by the Company of a reorganization, merger or consolidation, or sale or other disposition of all or substantially all the assets of the Company or the acquisition of assets or stock of another entity (a “Business Combination”), in each case, unless immediately following such Business Combination: (A) more than [[Percentage 2: Number]]% of the combined voting power of then outstanding voting securities entitled to vote generally in the election of directors of (i) the corporation resulting from such Business Combination (the “Surviving Corporation”), or (ii) if applicable, a corporation that as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries (the “Parent Corporation”), is represented, directly or indirectly, by Company Voting Securities outstanding immediately prior to such Business Combination (or, if applicable, is represented by shares into which such Company Voting Securities were converted pursuant to such Business Combination), and such voting power among the holders thereof is in substantially the same proportions as their ownership, immediately prior to such Business Combination, of the Company Voting Securities; (B) no person (excluding any employee benefit plan (or related trust) of the Company or such corporation resulting from such Business Combination) beneficially owns, directly or indirectly, [[Percentage 1]]% or more of the combined voting power of the then outstanding voting securities eligible to elect directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) except to the extent that such ownership of the Company existed prior to the Business Combination; and (C) at least a majority of the members of the board of directors of the Parent Corporation (or, if there is no Parent Corporation, the Surviving Corporation) were members of the incumbent Board at the time of the execution of the initial agreement, or of the action of the Board, providing for such Business Combination;
+\centered -ii- 
 
-^^Approval by the Company’s stockholders of a complete liquidation or dissolution of the Company; or
+^^^^^ 
 
-^^The consummation of a reorganization, complete liquidation, or dissolution under the U.S. Bankruptcy Code subsequent to the Effective Date (and excluding the Plan of Reorganization as defined herein).
+**Page** Section 10.12 Survival     Section 10.13 Exculpation     Section 10.14 Statements and Confirmations     Section 10.15 Tax Allocations     **Amendment** Section 11.01 Amendment     Section 11.02 Execution of Amendments     **Miscellaneous** Section 12.01 No Waiver     Section 12.02 Governing Law; Submission to Jurisdiction; Waiver of Trial by Jury     Section 12.03 Notices     Section 12.04 Successors and Assigns     Section 12.05 Severability     Section 12.06 Expenses, Etc     Section 12.07 Security Interest Absolute     Section 12.08 Notice of Termination Event     Section 12.09 Incorporation by Reference     Section 12.10 No Recourse     Section 12.11 Amendment and Restatement      
 
-Notwithstanding anything to the contrary herein, neither a Change in Control with respect to any Affiliate of the Company nor the assignment of this Agreement to any reorganized entity of the Company pursuant to the Plan of Reorganization shall constitute a Change in Control for the purposes of this Agreement. In no event will a Change in Control be deemed to have occurred, with respect to the Executive, if the Executive is part of a purchasing group that consummates the Change in Control transaction. The Executive will be deemed “part of a purchasing group” for purposes of the preceding sentence if the Executive is an equity participant in the purchasing company or group (except if the Executive’s passive ownership of less than two percent ([[Percentage 3: Number]]%) of the stock of the purchasing company or the Executive’s ownership of equity participation in the purchasing company or group that is otherwise not significant, as determined prior to the Change in Control by a majority of the non-employee continuing directors on the Board.)
+EXHIBITS  
+Exhibit A  Form of Normal ITS Certificate
 
-^Other Definitions. For purposes of this Agreement:
+Exhibit B  Form of Stripped ITS Certificate
 
-^^“Affiliate” shall mean any entity that, directly or indirectly, is controlled by the Company, and any entity in which the Company has a [[Percentage 4: Number]]% or greater equity interest.
+Exhibit C  Form of Capital ITS Certificate 
 
-^^“Amount Payable Under Any Annual Bonus Plans” shall mean the greater of: (i) the average of the gross amounts earned by the Executive for the three complete fiscal years prior to the Executive’s Date of Termination under the MIP or any similar annual incentive bonus plan in which Executive participates as of the Executive’s Date of Termination, or (ii) the Executive’s actual bonus under the MIP or any similar annual incentive bonus plan in which the Executive participates for the fiscal year immediately preceding the fiscal year during which the Executive’s Date of Termination occurs.
+SCHEDULES  
+Schedule I  Reference Dealers
 
-^^“Annual Compensation” shall mean the sum of: (i) the Executive’s base salary in effect on the date of the Executive’s Date of Termination; and (ii) the Amount Payable Under Any Annual Bonus Plans in which the Executive participates.
+Schedule II  Contact Persons for Confirmation 
 
-^^“Employment Termination” shall mean the Executive’s termination of employment for any reason. For purposes of this Agreement, the Executive has terminated employment if the Executive has incurred a separation from service within the meaning of Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”), and Treasury Regulation §1.409A-1(h).
+Collateral Agreement  
 
-^^“Cause” shall mean any of the following: (i) the Executive’s willful and continued failure to substantially perform the Executive’s duties as an executive of the Company or any of its Affiliates (other than any such failure resulting from inability due to physical or mental illness or Incapacity), (ii) the Executive’s willful misconduct in the performance of the Executive’s duties or otherwise that results in injury to the Company, monetarily or otherwise, that is material or substantial, (iii) the Executive’s engaging in egregious misconduct to the extent that the Executive’s credibility and reputation no longer conforms to the standard of senior executive officers of the Company, or (iv) the Executive’s material breach or threatened material breach of any provision of this Agreement, including without limitation Section 9 of this Agreement, without the prior express written consent of a duly authorized member of the Board or the Chief Executive Officer of the Company; provided, however, that an occurrence which otherwise may constitute Cause hereunder shall not constitute Cause unless a notice is delivered to the Executive by the Board or the Chief Executive Officer of the Company that specifically identifies the conduct that the Board or the Company’s Chief Executive Officer believes constitutes Cause and, to the extent such conduct is reasonably capable of cure, the Company gives the Executive at least fifteen (15) days to cure such alleged conduct.
+\centered -iii- 
 
-^^“Incapacity” shall mean such physical or mental condition of the Executive which renders and is expected to render the Executive incapable of performing the essential functions of the Executive’s position hereunder with or without reasonable accommodation for ninety (90) consecutive calendar days, or for 120 calendar days (whether consecutive or not) within any 180-calendar-day period, as determined in good faith by the Board or the Company’s Chief Executive Officer upon consultation with a physician selected by the Board or the Company’s Chief Executive Officer in their discretion. The Executive hereby agrees to submit to any reasonable medical examination(s) as may be recommended by the Board or the Company’s Chief Executive Officer for the purpose of determining the existence or absence of Incapacity.
+^^^^^ 
+**Amended and Restated Collateral Agreement**, dated as of [  ], 2010, among **U.S.** **Bancorp**, a Delaware corporation (the “*Company*”), U.S. Bank National Association, a national banking association organized under the laws of the United States (“*USBNA*”), as collateral agent (in such capacity, the “*Collateral Agent*”), as Custodial Agent (in such capacity, the “*Custodial Agent*”), as securities intermediary (as defined in Section 8-102(a)(14) of the UCC) with respect to the Collateral Account (in such capacity, the “*Securities Intermediary*”), and as securities registrar with respect to the Trust Preferred Securities (in such capacity, the “*Securities Registrar*”), and **USB** **Capital IX**, a Delaware statutory trust (the “*Trust*”), acting through **Wilmington Trust Company**, not in its individual capacity but solely as Property Trustee on behalf of the Trust (in such capacity, the “*Property Trustee*”). 
 
-^^“Good Reason” shall exist if, without the Executive’s consent:
+\centered **Recitals** 
 
-^^^The Executive’s assigned duties and responsibilities are significantly diminished from the level or extent of such duties and responsibilities that were associated with the Executive’s status as a senior executive of the Company or any of its Affiliates prior to the Change in Control including, without limitation, any material diminution of the powers associated with such status or any material diminution of the Executive’s reporting responsibilities, titles or offices as in effect immediately prior to the Change in Control (or, if applicable, in effect with respect to such other position(s) that the Executive agreed to assume within the two-year period after a Change in Control);
+The Company, USBNA (in its capacities as Collateral Agent, Custodial Agent, Securities Intermediary and Securities Registrar), and the Trust (acting through the Property Trustee) are parties to that certain Collateral Agreement dated as of [[Date 1: Date]] (the “*Original Collateral Agreement*”). 
 
-^^^On or within the two-year period after the Change in Control, there is (A) a material reduction in the Executive’s base salary in effect as of the Effective Date, or (B) a material reduction in the Executive’s Target Bonus Opportunity from the lower of the Executive’s Target Bonus Opportunities for the Company’s 2010 MIP as approved by the Board prior to the Effective Date (unless such reduction is made on a consistent basis for other Company executives other than the Chief Executive Officer or President); or
+The Company and the Trust (acting through the Property Trustee) are parties to the Amended and Restated Stock Purchase Contract Agreement, dated as of the date hereof (as it may be further amended, modified and supplemented and in effect from time to time, the “*Stock Purchase Contract Agreement*”), pursuant to which the Company has issued certain stock purchase contracts (each, a “*Stock Purchase Contract*”) to the Trust. 
 
-^^^The Company fails to continue in effect after the Change in Control any broad-based bonus or incentive plan, welfare benefit, pension, retirement benefit or other benefit plan in which the Executive participates or becomes eligible to participate unless such discontinuance applies on a consistent basis to other Company executives that are at a similar level to the Executive;
+Each Stock Purchase Contract requires the Company to issue and sell, and the Property Trustee (on behalf of the Trust) to purchase, on the Stock Purchase Date (as defined in the Stock Purchase Contract Agreement), for an amount (the “*Purchase Price*”) equal to such Stock Purchase Contract’s Stated Amount (as defined in the Stock Purchase Contract Agreement), the Pro Rata Interest (as defined in the Stock Purchase Contract Agreement) in one share of the Company’s Series A Non Cumulative Perpetual Preferred Stock, $[[USD Value 1: Number]] liquidation preference per share (the “*Preferred Stock*”). 
 
-provided, however, that an occurrence which otherwise may constitute Good Reason hereunder shall not constitute Good Reason unless the Executive (X) provides to the Company, at least thirty (30)calendar days prior to the Executive’s contemplated resignation for Good Reason, a written notice containing reasonable detail setting forth the basis for the Executive’s claim that an occurrence constitutes Good Reason, and (Y) the Company fails to cure or otherwise remedy such occurrence within thirty (30) calendar days after receiving such notice from the Executive. Notwithstanding anything to the contrary herein, the parties hereto acknowledge and agree that the Executive must exercise the Executive’s right to terminate the Executive’s employment for Good Reason within ninety (90) calendar days after the event that gives rise to such right, and that if the Executive fails to timely exercise such right and subsequently resigns, such resignation shall be deemed for all purposes of this Agreement to be without Good Reason. The Executive acknowledges and agrees that the restructuring events that have taken place or will take place solely pursuant to the Company’s Plan of Reorganization shall not constitute Good Reason for purposes of this Agreement.
+Pursuant to the Trust Agreement (as hereinafter defined), the Stock Purchase Contract Agreement and the Stock Purchase Contracts, the Trust (acting through the Property Trustee), the Company and USBNA (in its capacities as Collateral Agent, Custodial Agent, Securities Intermediary and Securities Registrar) are entering into this Agreement in order to amend in certain respects, and to restate in its entirety as so amended, the Original Collateral Agreement (as so amended and restated, this “*Agreement*”), all things necessary to make this Agreement a valid agreement of the Company, in accordance with its terms, having been done, and all conditions precedent to the execution and delivery hereof having been satisfied. 
 
-^^“Person” shall have the meaning given in Section 3(a)(9) of the Exchange Act, as modified and used in Sections 13(d) and 14(d) thereof.
+**Now, therefore, this Amended and Restated Collateral Agreement witnesseth:** For and in consideration of the agreements and obligations set forth herein and for other good and valuable consideration the receipt and sufficiency of which is hereby acknowledged, the Company, the Collateral Agent, the Custodial Agent, the Securities Intermediary, the Securities Registrar and the Trust mutually agree as follows: 
 
-^^“Plan of Reorganization” shall mean the Joint Plan of Reorganization for Smurfit-Stone Container Corporation and Its Debtor Subsidiaries and Plan of Compromise and Arrangement for Smurfit-Stone Container Canada Inc. and Affiliated Canadian Debtors filed in Case No. 09-10235 (BLS) pending in the United States Bankruptcy Court for the District of Delaware.
+Collateral Agreement  
 
-^^“Target Bonus Opportunity” shall mean the bonus, as a percentage of the Executive’s base salary, that the Executive is eligible to earn on an annualized basis, at the target level, under the MIP or any similar annual incentive bonus plan in which the Executive participates on or after the Effective Date.
+^^^^^ 
+\centered **Definitions** 
 
-^^“Welfare Benefit Plan” shall mean the Company’s comprehensive medical and dental plans in which the Executive was participating as of the Executive’s Date of Termination.
+Section 1.01 *Definitions.*  
 
-^Limitation on Payments and Benefits. Notwithstanding any other provisions of this Agreement, in the event that any payment or benefit received or to be received by the Executive in connection with a Change in Control or Executive’s Employment Termination (whether pursuant to the terms of this Agreement or any other plan, arrangement or agreement with the Company, any Person whose actions result in a Change in Control or any Person affiliated with the Company or such Person) (all such payments and benefits being hereinafter called “Total Payments”) would be an “excess parachute payment” pursuant to Code Section 280G or any successor or substitute provision of the Code, with the effect that Executive would be liable for the payment of the excise tax described in Code Section 4999 or any successor or substitute provision of the Code, or any interest or penalties are incurred by Executive with respect to such Total Payments (such excise tax, together with any such interest and penalties, are hereinafter collectively referred to as the “Excise Tax”), then, after taking into account any reduction in the Total Payments provided by reason of Code Section 280G in such other plan, arrangement or agreement, the cash payments provided in Section 1 of this Agreement shall first be reduced, and the non-cash payments and benefits shall thereafter be reduced, to the extent necessary so that no portion of the Total Payments is subject to the Excise Tax. Notwithstanding the foregoing, no payments or benefits under this Agreement will be reduced unless: (i) the net amount of the Total Payments, as so reduced (and after subtracting the net amount of federal, state and local income taxes on such reduced Total Payments) is greater than (ii) the excess of (A) the net amount of such Total Payments, without reduction (but after subtracting the net amount of federal, state and local income taxes on such Total Payments), over (B) the amount of Excise Tax to which the Executive would be subject in respect of such unreduced Total Payments.
+For all purposes of this Agreement, except as otherwise expressly provided or unless the context otherwise requires: 
 
-^^Subject to the provisions of paragraph (b) below, all determinations required to be made under this Section, and the assumptions to be utilized in arriving at such determinations, shall be made by the public accounting firm that serves as the Company’s auditors (the “Accounting Firm”), which shall provide detailed supporting calculations both to the Company and Executive within 15 business days of the receipt of notice from the Company or Executive that there have been Total Payments, or such earlier time as is requested by the Company. In the event that the Accounting Firm is serving as accountant or auditor for the individual, entity or group effecting the Change in Control, Executive shall designate another nationally recognized accounting firm to make the determinations required hereunder (which accounting firm shall then be referred to as the Accounting Firm hereunder). All fees and expenses of the Accounting Firm shall be borne solely by the Company. If the Accounting Firm determines that no Excise Tax is payable by Executive, it shall furnish Executive with a written opinion that failure to report the Excise Tax on Executive’s applicable federal income tax return would not result in the imposition of a negligence or similar penalty. Any determination by the Accounting Firm shall be binding upon the Company and Executive, except as provided in paragraph (b) below.
+^^The terms defined in this Article have the meanings assigned to them in this Article and include the plural as well as the singular, and nouns and pronouns of the masculine gender include the feminine and neuter genders. 
 
-^^As a result of the uncertainty in the application of Code Section 280G at the time of the initial determination by the Accounting Firm hereunder, it is possible that the Internal Revenue Service (“IRS”) or other agency will claim that an Excise Tax, or a greater Excise Tax, is due, and thus the Company should have made a lesser amount of Total Payment than that determined pursuant to paragraph (a) above. Executive shall notify the Company in writing of any claim by the IRS or other agency that, if successful, would require Executive to pay an Excise Tax or an additional Excise Tax. If the IRS or other agency makes a claim that, if successful, could require Executive to pay an Excise Tax or an additional Excise Tax, the Company shall reduce or further reduce Executive’s payments and benefits in accordance with this Section 5 to the amount necessary to eliminate such Excise Tax or additional Excise Tax. The Company shall pay all fees and expenses of the Executive relating to such a claim by the IRS or other agency.
+^^The words “*herein*,” “*hereof*” and “*hereunder*” and other words of similar import refer to this Agreement as a whole and not to any particular Article, Section or other subdivision and references to any Article, Section or other subdivision are references to an Article, Section or other subdivision of this Agreement. 
 
-^^All references in this Agreement to the Executive’s termination of employment shall mean the Executive’s separation from service within the meaning of Section 409A of the Code and Treasury regulations promulgated thereunder. In the event the terms of this Agreement would subject the Executive to the imposition of taxes and penalties (“409A Penalties”) under Section 409A of the Code, the Company and the Executive shall cooperate diligently to amend the terms of the Agreement to avoid such 409A Penalties, to the extent possible. Notwithstanding any other provision in this Agreement, if as of the date on which the Executive’s employment terminates, the Executive is a “specified employee” as determined by the Company, then to the extent any amount payable or benefit provided under this Agreement that the Company reasonably determines would be nonqualified deferred compensation within the meaning of Section 409A of the Code, that under the terms of this Agreement would be payable prior to the six-month anniversary of the Executive’s Date of Termination, such payment or benefit shall be delayed until the earlier to occur of (i) the six-month anniversary of such Date of Termination or (ii) the date of the Executive’s death. In the case of taxable benefits that constitute deferred compensation, the Company, in lieu of a delay in payment, may require the Executive to pay the full costs of such benefits during the period described in the preceding sentence and reimburse that Executive for said costs within thirty (30) calendar days after the end of such period. With respect to any reimbursements under this Agreement, such reimbursement shall be made on or before the last day of the Executive’s taxable year following the taxable year in which the expense was incurred by the Executive. The amount of any expenses eligible for reimbursement or the amount of any in-kind benefits provided, as the case may be, under this Agreement during any calendar year (including without limitation pursuant to Sections 5(b) and 12) shall not affect the amount of expenses eligible for reimbursement or the amount of any in-kind benefits provided during any other calendar year. The right to reimbursement or to any in-kind benefit pursuant to this Agreement shall not be subject to liquidation or exchange for any other benefit. The Executive acknowledges and agrees that notwithstanding this Section 5(c) or any other provision of this Agreement, the Company and its Affiliates are not providing the Executive with any tax advice with respect to Section 409A of the Code or otherwise and are not making any guarantees or other assurances of any kind to the Executive with respect to the tax consequences or treatment of any amounts paid or payable to the Executive under this Agreement.
+^^The following terms that are defined in the UCC shall have the meanings set forth therein: “*certificated security*,” “*control*,” “*financial asset*,” “*financing statement*,” “*entitlement order*,” “*securities account,*” “*security entitlement*” and “*funds-transfer system*”. 
 
-^Executive’s Death. If the Executive dies after both a Change in Control and an Employment Termination have occurred, but before the complete payment of any amount or benefit required under this Agreement, the Company will pay the remainder of such amount or benefit to the Executive’s spouse, if living, or to the Executive’s estate.
+^^Capitalized terms used herein and not defined herein have the meanings assigned to them in the Trust Agreement. 
 
-^Mitigation and Set-Off. The Executive shall not be required to mitigate the Executive’s damages by seeking other employment or otherwise. Except as expressly provided in Section 1(b) above, the Company’s obligations under this Agreement shall not be reduced in any way by reason of any compensation or benefits received (or foregone) by the Executive from sources other than the Company after the Executive’s Employment Termination, or any amounts that might have been received by the Executive in other employment had the Executive sought such other employment. Except as expressly provided in Section 1(b) above, the Executive’s entitlement to benefits and coverage under this Agreement shall continue after, and shall not be affected by, the Executive’s obtaining other employment after the Executive’s Date of Termination, provided that any such benefit or coverage shall not be furnished if the Executive expressly waives the specific benefit or coverage by giving written notice of waiver to the Company.
+^^The following terms have the meanings given to them in this Section 1.01(e): 
 
-^Termination Procedures.
+“*Address for Notices*” has the meaning specified in Section 12.03. 
 
-^^Notice of Termination. Any termination of the Executive’s employment shall be communicated by a written notice from one party to the other in accordance with Sections 4, 8 and 19 hereof (“Notice of Termination”).
+“*Agreement*” means this Amended and Restated Collateral Agreement, as the same may be further amended, modified or supplemented from time to time. 
 
-^^Date of Termination. “Date of Termination,” with respect to any termination of the Executive’s employment will mean (i) if the Executive’s employment is terminated for Incapacity, the date of the Executive’s Incapacity, (ii) if the Executive’s employment is terminated due to death, the date of the Executive’s death, and (iii) if the Executive’s employment is terminated for any other reason, the date specified in the Notice of Termination (which, in the case of (A) a termination by the Company, shall not be less than thirty (30) days (except in the case of a termination for Cause or Incapacity) from the date such Notice of Termination is given, (B) a termination by the Executive without Good Reason, shall not be less than thirty (30) days nor more than sixty (60) days from the date such Notice of Termination is given, and (C) a termination by the Executive with Good Reason shall be determined in accordance with Section 4(g) hereof).
+“*Cash*” means any coin or currency of the United States as at the time shall be legal tender for payment of public and private debts. 
 
-^^Duties After Notice and Removal from Position(s). For any period in which the Executive gives or is given notice prior to the effective Date of Termination, the Executive shall be expected and required to continue performing the Executive’s then-current duties and responsibilities (unless otherwise directed by the Company) for the notice period up to the effective Date of Termination. Any termination of the Executive’s employment shall automatically effectuate the 
+“*Collateral*” means the collective reference to: 
 
-Executive’s removal from the officer and/or Board positions that the Executive then holds with the Company and its Affiliates and any employee benefit plans, as of the Date of Termination.
+^the Collateral Account and all investment property and other financial assets from time to time credited to the Collateral Account and all security entitlements with respect thereto, including, without limitation, (A) the Notes, other than any Notes that are Transferred to (x) the Custodial Agent in accordance with Section 6.02 upon the Exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS pursuant to Sections 5.13(a)(i), (b) and (c) of the Trust Agreement from time to time, (y) the Remarketing Agent or the Custody Account in accordance with Section 8.02(b) upon a Successful Remarketing or (z) the Property Trustee in accordance with Section 2.04 and (B) any Qualifying Treasury Securities and security entitlements thereto delivered from time to time upon the exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS pursuant to Sections 5.13(a)(i), (b) and (c) of the Trust Agreement and in accordance with Section 6.02; 
 
-^Restrictive Covenants.
+Collateral Agreement  
 
-In order to protect the Company’s and its Affiliates’ legitimate business interests and in exchange for the mutual covenants contained in this agreement, including, but not limited to, the Company’s or any of its Affiliates’ employment of or continued employment of the Executive and the disclosure to the Executive of Confidential Information as defined below, the Executive and the Company agree as follows:
+^^^^^ 
+^all Qualifying Treasury Securities and security entitlements thereto purchased by the Collateral Agent with the Proceeds of Qualifying Treasury Securities pursuant to Section 6.05; 
 
-^^Definitions. For purposes of this Agreement, the following terms will be defined as follows, except as otherwise provided below:
+^the U.S. Bank Deposit pursuant to Section 6.06; 
 
-^^^“Confidential Information” shall mean all confidential and proprietary information of the Company, its Affiliates and, in certain situations, certain third parties who provide information to the Company subject to confidentiality and non-use restrictions, and includes, but is not limited to, actual and prospective customer and client lists and pricing information, business plans, programs and tactics, research and development information (including without limitation information relating to the formulation, testing, registration, use, safety, efficacy and/or effects of marketed products and compounds under development), personnel information, and all other information unique to the Company and not readily available to the public, including designs, improvements, inventions, formulas, compilations, methods, strategies, capabilities, forecasts, software programs, processes, know-how, data, operating methods and techniques, “Inventions or Developments” (as defined below), and all business costs, profits, vendors, markets, sales, products, marketing, sales or other financial or business information, and any modifications or enhancements of any of the foregoing.
+^all Proceeds of any of the foregoing (whether such Proceeds arise before or after the commencement of any proceeding under any applicable bankruptcy, insolvency or other similar law, by or against the Trust, as pledgor or with respect to the pledgor); and 
 
-^^^“Business Conducted by the Company or any of its Affiliates” during the Executive’s employment, shall mean (A) all businesses conducted by the Company or any of its Affiliates and (B) any material new line of business in which the Company or any of its Affiliates is contemplating engaging in, provided that the plans for the Company or any of its Affiliates to engage in such material new line of business were presented to and not rejected by the Board. For the two-year period following the Executive’s Date of Termination, “Business Conducted by the Company or any of its Affiliates” shall mean (X) all business conducted by the Company or any of its Affiliates as of the effective date of the Executive’s termination of employment and (Y) any material new line of business in which the Company or any of its Affiliates engages within the one-year period following the effective date of the Executive’s termination of employment.
+^all powers and rights now owned or hereafter acquired under or with respect to the Collateral. 
 
-^^Inventions or Developments. The Executive agrees that the Executive will promptly and fully disclose to the Company all discoveries, improvements, inventions, formulas, ideas, processes, designs, techniques, know-how, data and computer programs (whether or not patentable, copyrightable or susceptible to any other form of protection), made, conceived, reduced to practice or developed by the Executive, either alone or jointly with others, during the Executive’s employment with the Company or any of its Affiliates (collectively, the “Inventions or Developments”). All Inventions and Developments shall be the sole property of the Company, including all patents, copyrights, intellectual property or other rights related thereto and Executive assigns to the Company all rights (if any) that the Executive may have or acquire in such Inventions or Developments. Notwithstanding the foregoing, any right of the Company or assignment by the Executive as provided in this paragraph shall not apply to any Inventions or Developments for which no equipment, supplies, facility or trade secret information of the Company or its Affiliates were used and which were developed entirely on the Executive’s own time, unless: (i) the Inventions or Developments relate to the Business Conducted by the Company or any of its Affiliates or the actual or demonstrably anticipated research or development of the Company or any of its Affiliates; or (ii) the Inventions or Developments result from any work performed by the Executive for the Company or any of its Affiliates.
+“*Collateral Account*” means the securities account of USBNA, as Collateral Agent, maintained by the Securities Intermediary and designated “U.S. Bank National Association, as Collateral Agent of U.S. Bancorp, as pledgee of USB Capital IX, acting through Wilmington Trust Company, as Property Trustee.” 
 
-^^Non-Disclosure of Confidential Information, Inventions or Developments. The Executive acknowledges that the Executive has had and will have access to Confidential Information or Inventions or Developments of the Company and/or its Affiliates and agrees that, except as required to properly perform the Executive’s responsibilities for the Company and its Affiliates, to comply with law or regulation, or as authorized in writing in advance by the Company, the Executive shall not, at any time during or after the Executive’s employment with the Company or any of its Affiliates (and whether that termination is voluntary or involuntary), directly or indirectly use, divulge, furnish or make accessible to any person any Confidential Information or Inventions or Developments, but instead shall keep all such matters strictly and absolutely confidential.
+“*Collateral Agent*” means the Person named as the “Collateral Agent” in the first paragraph of this Agreement until a successor Collateral Agent shall have become such pursuant to the applicable provisions of this Agreement, and thereafter “Collateral Agent” shall mean such Person or any subsequent successor who is appointed pursuant to this Agreement. 
 
-^^No Diversion of Business Opportunities and Prospects. The Executive agrees that during the Executive’s employment with the Company or any of its Affiliates: (i) the Executive shall not directly or indirectly engage in any employment, consulting or other business activity that is competitive with the Business Conducted by the Company or any of its Affiliates; (ii) the Executive shall promptly disclose to the Company all business opportunities that are presented to the Executive in the Executive’s capacity as an employee of the Company or any of its Affiliates or which is of a similar nature to the Business Conducted by the Company or any of its Affiliates or which the Company or its Affiliates have expressed an interest in engaging in the future; and (iii) the Executive shall not usurp or take advantage of any such business opportunity without first offering such opportunity to the Company. Nothing in this Section 9(d) or in any other provision of this Agreement limits, supersedes or restricts any other duties or obligations that Executive may have under any other agreement, plan or policy or under applicable law, including without limitation any fiduciary duty of loyalty or care to the Company and its Affiliates.
+“*Company*” means the Person named as the “Company” in the first paragraph of this Agreement until a successor shall have become such pursuant to the applicable provisions of the Stock Purchase Contract Agreement, and thereafter “Company” shall mean such successor. 
 
-^^Actions Upon Termination. The Executive acknowledges and agrees immediately upon the Executive’s termination of employment with the Company to promptly return (without retaining any copies) all property of the Company, its Affiliates or any third parties that is within the Executive’s possession, custody or control by virtue of the Executive’s employment with the Company. Property to be returned to the Company shall include without limitation any and all documents and other things (whether in tangible or electronic format and whether such documents or things contain information that reflect or contain any Confidential Information or proprietary information) in the Executive’s possession, custody or control.
+“*Custodial Agent*” means the Person named as the “Custodial Agent” in the first paragraph of this Agreement until a successor Custodial Agent shall have become such pursuant to the applicable provisions of this Agreement, and thereafter “Custodial Agent” shall mean such Person or any subsequent successor who is appointed pursuant to this Agreement. 
 
-^^Non-Competition. The Executive agrees that so long as the Executive is employed by the Company or any of its Affiliates and for a period of two (2) years after the Executive’s Date of Termination for any reason and regardless of whether a Change in Control has occurred (such period of employment and the two-year period thereafter, collectively referred to herein as the “Period”), the Executive shall not, without the prior written consent of the Company, participate or engage in, directly or indirectly (as an owner, partner, employee, officer, director, independent contractor, consultant, advisor or in any other capacity calling for the rendition of services, advice, or acts of management, operation or control), any business that, during the Period, is competitive with the Business Conducted by the Company or any of its Affiliates within the United States, Canada, Mexico or China (hereinafter, the “Geographic Area”) and which business the Company or any of its Affiliates was engaged (either actively as a going concern or in the process of developing to market) within the two-year period preceding the Date of Termination.
+“*Custody Account*” means the securities account of USBNA, as Custodial Agent, designated “U.S. Bank National Association, as Custodial Agent for USB Capital IX.” 
 
-^^Non-Solicitation of Employees. The Executive agrees that, during the Period, the Executive shall not, without the prior written consent of the Company, directly or indirectly solicit any current employee of the Company or any of its Affiliates, or any individual who becomes an employee during the Period, to leave such employment.
+“*Custody Notes*” has the meaning specified in Section 4.01. 
 
-^^Non-Solicitation of Suppliers or Customers. The Executive agrees that, during the Period, the Executive shall not, without the prior written consent of the Company, directly or indirectly solicit, seek to divert or dissuade from continuing to do business with or entering into business with the Company or any of its Affiliates, any supplier, customer, or other person or entity that had a business relationship with or with which the Company or any of its Affiliates was actively planning or pursuing a business relationship at any time during the two (2) year period preceding the Date of Termination.
+“*Exchange*” means an exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS pursuant to Section 5.13(b) of the Trust Agreement and Section 6.02 or an exchange of Stripped ITS and Capital ITS for Normal ITS and Qualifying Treasury Securities pursuant to Section 5.13(d) of the Trust Agreement and Section 6.03. 
 
-^^Mutual Non-Disparagement. The Executive shall not, at any time during or after his employment with the Company, make or publish any derogatory, unfavorable, negative, disparaging, false, damaging or deleterious written or oral statements or remarks regarding the Company or any of its Affiliates or any members of their respective boards of directors or managements, or any of their respective business affairs or performance. The Company, members of its Board and its senior executives shall not, at any time during or after the Executive’s employment with the Company, make or publish any derogatory, unfavorable, negative, disparaging, false, damaging or deleterious written or oral statements or remarks regarding the Executive.
+“*Final Dealer*” has the meaning specified in Section 6.05(a). 
 
-^^Irreparable Harm. The Executive acknowledges that: (i) the Executive’s compliance with Section 9 of this Agreement is necessary to preserve and protect the Confidential Information, Inventions or Developments and the goodwill of the Company and its Affiliates, all recognized by the Executive as legitimate business interests of the Company and its Affiliates, as going concerns; (ii) any failure by the Executive to comply with the provisions of Section 9 will result in irreparable and continuing injury for which there will be no adequate remedy at law; and (iii) in the event that the Executive should fail to comply with the terms and conditions of this Section 9, in addition to the Company’s right to set off any actual monetary damages to the Company that are a consequence of such failure to comply against any payments and benefits due to the Executive pursuant to Section 1 to the extent permitted by applicable law (provided that any such set offs first shall be taken from amounts not subject to Section 409A of the Code, and if such amounts are insufficient, any additional set off shall not be taken until the time an amount subject to Section 409A of the Code would otherwise be paid pursuant to the terms of this Agreement), the Company shall be entitled, in addition to and without limiting such other relief as may be proper, to all types of equitable relief (including but not limited to the issuance of an injunction and/or temporary restraining order) as may be necessary to cause the Executive to comply with Section 9, to restore to the Company its property, and to make the Company whole.
+“*Indemnities*” has the meaning specified in Section 10.08(b). 
 
-^^Survival. This Agreement (including without limitation the provisions set forth in this Section, as noted) shall survive and continue in full force and effect in accordance with their terms, notwithstanding any termination of the Executive’s employment.
+“*Like Amount*” means with respect to a distribution of Notes to a Third-Party Agent (as such term is defined in the Trust Agreement) in connection with a retirement of the Subject Normal ITS 
 
-^^Unenforceability. Each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable law. The Executive and the Company agree that in the event that any provision of this Agreement is found to be unreasonable or otherwise unenforceable by a court, it is the purpose and intent of the parties that any such provision be deemed modified or limited, so that as modified or limited, such provision may be enforced to the fullest extent possible. If any provision of this Agreement is held invalid or unenforceable for any reason (after any such modification or limitation pursuant to the preceding sentence, as applicable), such provision will be effective only to the extent of such invalidity or unenforceability without invalidating the remainder of such provision or the remaining provisions of this Agreement.
+Collateral Agreement  
 
-^Cooperation. At the request and upon reasonable advance notice where practicable and at the sole expense of the Company, whether during or at any time after the Executive’s employment with the Company or any of its Affiliates, the Executive shall cooperate fully with the Company and its Affiliates (a) in investigating, defending, prosecuting, litigating, filing, initiating or asserting any claims or potential claims (including without limitation in connection with any legal proceeding of any kind) that may be made by or against the Company or any of its Affiliates, to the extent that such claims may relate to or arise out of the Executive’s employment with the Company or any of its Affiliates or with respect to which the Executive has knowledge and (b) without in any way limiting subsection (a) above, to secure any trade name, patent, trademark, copyright or intellectual property protection or other similar rights in the United States and/or in foreign countries, including without limitation, the execution and delivery of assignments, patent applications and other documents or papers. If such cooperation is provided during the Executive’s employment with the Company or any of its Affiliates, the Executive shall not receive any additional compensation from the Company for such cooperation. If the Executive no longer is employed by the Company or any of its Affiliates, the Executive’s obligation to cooperate shall be reasonably limited so as not to unreasonably interfere with the Executive’s other business obligations. If the Executive spends in excess of ten (10) hours in compliance with this Section 10 after the Executive is no longer employed by the Company or any of its Affiliates, the Company shall compensate the Executive at an hourly rate equal to the amount determined by dividing (x) the Executive’s base salary as of the first day of the fiscal year of the Company within which the Executive’s employment is terminated by (y) 2000, and shall reimburse the Executive for any reasonable expenses incurred as a direct result of the Executive’s providing such cooperation in accordance with the Company’s business expense policies then in effect. The Company shall provide such compensation for the Executive’s cooperation within thirty (30) calendar days after receiving from the Executive a written statement stating the number of hours for which the Executive seeks payment and brief description of the cooperation provided, provided that the Executive submits such statement within thirty (30) calendar days after the end of the calendar month in which the Executive provided such cooperation. The Executive’s obligation to cooperate hereunder shall include, without limitation, meeting with such persons at such times and in such places as the Company or its Affiliates may require, and giving evidence and testimony and executing and delivering to the Company and any of its Affiliates any papers requested by any of them (including without limitation joint defense agreements and affidavits). The Executive shall provide immediate notice to the Company of any subpoena or other legal document that the Executive receives that relates in any way to the Company or any of its Affiliates, along with a copy of such subpoena or other legal document.
+^^^^^ 
+pursuant to Section 4.9 of the Trust Agreement, Notes having an aggregate principal amount equal to the Liquidation Amount (as such term is defined in the Trust Agreement) of the applicable Subject Normal ITS. 
 
-^Forum Selection. The parties hereby irrevocably consent to, and agree not to object or assert any defense or challenge to, the jurisdiction and venue of the state and federal courts sitting in Chicago, Illinois, and agree that any claim under this Agreement may be brought in any such court.
+“*Loss*” (and collectively, “*Losses*”) has the meaning specified in Section 10.08(b). 
 
-^Legal Fees and Expenses. In any action or proceeding to enforce this Agreement, the non-prevailing party shall pay for any and all costs and expenses (including without limitation reasonable attorneys’ fees) of the prevailing party to the maximum extent permissible by applicable law.
+“*Market Disruption Event*” means (i) a general moratorium on commercial banking activities in [[Address 1: Address]] the relevant authorities or (ii) any material disruption of the U.S. government securities market or U.S. federal funds-transfer systems, written notification of which shall have been given to the Collateral Agent by any of the Administrative Trustees. 
 
-^Assignment; Successors. This Agreement is enforceable by the Company and its affiliates and other related entities and may be assigned or transferred by the Company to, and shall be binding upon and inure to the benefit of, any parent, subsidiary or other Affiliate of the Company or any entity which at any time, whether by merger, purchase, or otherwise, acquires all or substantially all of the assets, stock or business of the Company (including without limitation any successor and/or reorganized entit(ies) of the Company or any of its Affiliates upon the Effective Date). The Executive and the Company agree that upon the Effective Date, this Agreement shall be assigned to and binding upon such successor entit(ies) of the Company as set forth in the Plan of Reorganization, provided that nothing herein shall limit or otherwise affect the Company’s right to further assign or transfer this Agreement after the Effective Date as set forth in the preceding sentence. This Agreement may not be assigned by the Executive during Executive’s life, and upon the Executive’s death will inure to the benefit of the Executive’s heirs, legatees and legal representatives of the Executive’s estate, provided that such heirs, legatees and legal representatives execute an enforceable waiver and release of claims in accordance with the Executive’s obligations set forth in Section 1 of this Agreement.
+“*Notes*” means the Remarketable Junior Subordinated Notes due 2042 of the Company issued pursuant to the Indenture. 
 
-^Interpretation. The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of Illinois, without regard to the conflict of law principles thereof. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement. The Section headings used herein are for convenience of reference only and are not to be considered in construction of the provisions of this Agreement.
+“*Notice of Contingent Disposition Election*” means a Notice of Contingent Disposition Election substantially in the form set forth on the reverse side of the form of Capital ITS Certificate, a copy of which is attached hereto as Exhibit C. 
 
-^Withholding. The Company may withhold from any payment that it is required to make under this Agreement amounts sufficient to satisfy applicable withholding requirements under any federal, state or local law.
+“*Notice of Contingent Exchange Election*” means a Notice of Contingent Exchange Election substantially in the form set forth on the reverse side of the form of Normal ITS Certificate, a copy of which is attached hereto as Exhibit A. 
 
-^Amendment. The Company and the Executive may amend this Agreement at any time by written agreement.
+“*Obligations*” means all obligations and liabilities of the Trust and the Property Trustee on behalf of the Trust under each Stock Purchase Contract, the Stock Purchase Contract Agreement and this Agreement or any other document made, delivered or given in connection herewith or therewith, in each case whether on account of principal, interest (including, without limitation, interest accruing before and after the filing of any petition in bankruptcy, or the commencement of any insolvency, reorganization or like proceeding, relating to the Property Trustee or the Trust, whether or not a claim for post-filing or post-petition interest is allowed in such proceeding), fees, indemnities, costs, expenses or otherwise (including, without limitation, all fees and disbursements of counsel to the Company or the Collateral Agent or the Securities Intermediary that are required to be paid by the Trust pursuant to the terms of any of the foregoing agreements). 
 
-^Financing. Cash payments under this Agreement (not including any payments made from a qualified plan) are general obligations of the Company, and the Executive shall have only an unsecured right to payment thereof out of the general assets of the Company. Notwithstanding the foregoing, the Company may, by agreement with one or more trustees the Company selects, create a trust on such terms as the Company shall determine to make payments to the Executive in accordance with the terms of this Agreement.
+“*Permitted Investments*” means any one of the following, in each case maturing on the Business Day following the date of acquisition: 
 
-^Severability. Without limiting Section 9(l) of this Agreement, in the event that any provision or portion of this Agreement shall be determined to be invalid or unenforceable for any reason, the remaining provisions of this Agreement shall be unaffected thereby and shall remain in full force and effect.
+^any evidence of indebtedness with an original maturity of 365 days or less issued, or directly and fully guaranteed or insured, by the United States of America or any agency or instrumentality thereof (provided that the full faith and credit of the United States of America is pledged in support of the timely payment thereof or such indebtedness constitutes a general obligation of it); 
 
-^Notices. Notices given pursuant to this Agreement shall be in writing and shall be deemed received when personally delivered, or on the date of written confirmation of receipt by (i) overnight carrier, (ii) telecopy, (iii) registered or certified mail, return receipt requested, addressee only, postage prepaid, or (iv) such other method of delivery that provides a written confirmation of delivery. Notice to the Company shall be directed to:
+^deposits, certificates of deposit or acceptances with an original maturity of 365 days or less of any institution which is a member of the Federal Reserve System having combined capital and surplus and undivided profits of not less than $[[USD Value 6: Number]] million at the time of deposit (and which may include the Collateral Agent); 
 
+^investments with an original maturity of 365 days or less of any Person that are fully and unconditionally guaranteed by a bank referred to in clause (2); 
 
-Six CityPlace Drive
-Creve Coeur, Missouri 63141
-Attention: General Counsel
+Collateral Agreement  
 
-The Company may change the person and/or address to whom the Executive must give notice under this Section by giving Executive written notice of such change, in accordance with the procedures described above. Notices to or with respect to the Executive will be directed to the Executive, or the executors, personal representatives or distributees of a deceased Executive, or the assignees of the Executive, at the Executive’s home address on the records of the Company.
+^^^^^ 
+^repurchase agreements and reverse repurchase agreements relating to marketable direct obligations issued or unconditionally guaranteed by the United States of America or issued by any agency thereof and backed as to timely payment by the full faith and credit of the United States of America; 
 
-^Entire Agreement. This Agreement constitutes the entire understanding of the Executive and the Company with respect to the subject matter hereof and supersedes any and all prior understandings written or oral with respect to such subject matter, provided that nothing herein shall limit or otherwise affect any provision of any award agreement with respect to any equity grant made to the Executive pursuant to the Plan of Reorganization. In the event of any conflict between any provision of this Agreement and any such award agreement, the provisions of this Agreement shall govern. The Executive and the Company acknowledge and agree that this Agreement amends and restates the Predecessor Agreement in its entirety and that as of the Effective Date the provisions of this Agreement shall replace each and every provision of the Predecessor Agreement, at which time the provisions of the Predecessor Agreement shall be null and void, and shall be of no further force or effect. The consideration offered herein is accepted by the Executive as being in full accord, satisfaction, compromise and settlement of any and all amounts that are or may have been due and owing to the Executive pursuant to any term or condition of the Predecessor Agreement, and the Executive expressly agrees that the Executive is not entitled to and will not receive any further payments, benefits, or other compensation or recovery of any kind from the Company with respect to any such term or condition of the Predecessor Agreement.
+^^[[s]] (“Moody’s”); and 
 
-^No Waiver. No failure or delay on the part of the Company or the Executive in enforcing or exercising any right or remedy hereunder shall operate as a waiver thereof.
+^investments in money market funds (including, but not limited to, money market funds managed by the Collateral Agent or an Affiliate of the Collateral Agent) registered under the Investment Company Act of 1940, as amended, rated in the highest applicable rating category by S&P or Moody’s. 
 
-^Counterparts. This Agreement may be executed in one or more counterparts, all of which together shall constitute but one Agreement.
+“*Pledge*” means the lien and security interest created by this Agreement. 
 
-**THE PARTIES ACKNOWLEDGE BY SIGNING BELOW THAT THEY HAVE READ AND UNDERSTAND THE ABOVE AND INTEND TO BE BOUND THEREBY:**
+“*Pledged Notes*” means each Note deposited with the Collateral Agent pursuant to Section 6.01 or delivered to the Collateral Agent pursuant to Section 6.03, until such time as it is (i) released from the Pledge and delivered to the Custodial Agent pursuant to Section 6.02 or to the Remarketing Agent or the Custody Account pursuant to Section 8.02(b) or (ii) released from the Pledge, assigned (as applicable) and transferred or delivered to the Property Trustee on behalf of the Trust as provided in Section 2.04. 
 
-\centered [[Executive]]      **SMURFIT-STONE CONTAINER CORPORATION** 
+“*Pledged Treasury Securities*” means Qualifying Treasury Securities from time to time credited to the Collateral Account pursuant to Section 6.02 and not then released from the Pledge pursuant to Section 6.03, together with all Qualifying Treasury Securities purchased from time to time by the Collateral Agent with the Proceeds of maturing Pledged Treasury Securities pursuant to Section 6.05. 
 
-[[Executive Signatory Email: Identity | Signature]]
+“*Preferred Stock*” has the meaning specified in the Recitals of this Agreement. 
+
+“*Proceeds*” has the meaning ascribed thereto in Section 9-102(a)(64) of the UCC and includes, without limitation, all interest, dividends, Cash, instruments, securities, financial assets and other property received, receivable or otherwise distributed upon the sale (including, without limitation, the Remarketing), exchange, collection or disposition of any financial assets from time to time held in the Collateral Account. 
+
+“*Property Trustee*” means the Person named as the “Property Trustee” in the first paragraph of this Agreement until a successor Property Trustee shall have become such pursuant to the applicable provisions of the Trust Agreement, and thereafter “Property Trustee” shall mean such Person or any subsequent successor who is appointed pursuant to the Trust Agreement. 
+
+“*Purchase Price*” has the meaning specified in the Recitals of this Agreement. 
+
+“*Recombination Notice and Request*” means a Recombination Notice and Request substantially in the form set forth on the reverse side of the forms of Stripped ITS Certificate and Capital ITS Certificate, copies of which are attached hereto as Exhibits B and C respectively. 
+
+Collateral Agreement  
+
+^^^^^ 
+“*Reference Dealer*” means each of the U.S. government securities dealers listed on Schedule I hereto (including any successor thereto) and any other U.S. government securities dealers designated by the Collateral Agent (it being understood that the Collateral Agent may, but shall not be obligated, to designate any one or more such other U.S. government securities dealers); provided that if at any time fewer than three of the entities named on Schedule I are active U.S. government securities dealers and approved counterparties of USBNA, any of the Administrative Trustees may designate an additional U.S. government securities dealer as a Reference Dealer. 
+
+“*Retirement Date*” has the meaning specified in Section 4.9 of the Trust Agreement. 
+
+“*Retirement Notice*” has the meaning specified in Section 4.9 of the Trust Agreement. 
+
+“*Remarketing*” has the meaning specified in the Indenture. 
+
+“*Roll Date*” means, with respect to any Additional Distribution Date, the latest date prior to such Additional Distribution Date that is a maturity date of Qualifying Treasury Securities held in the Collateral Account. 
+
+“*Securities Intermediary*” means the Person named as the “Securities Intermediary” in the first paragraph of this Agreement until a successor Securities Intermediary shall have become such pursuant to the applicable provisions of this Agreement, and thereafter “Securities Intermediary” shall mean such Person or any subsequent successor who is appointed pursuant to this Agreement. 
+
+“*Securities Registrar*” means the Person named as the “Securities Registrar” in the first paragraph of this Agreement until a successor Securities Registrar shall have been appointed by the Company pursuant to the applicable provisions of the Trust Agreement, and thereafter “Securities Registrar” shall mean such Person or any subsequent successor who is appointed pursuant to the Trust Agreement by the Company. 
+
+“*Stock Purchase Contract*” has the meaning specified in the Recitals of this Agreement. 
+
+“*Stock Purchase Contract Agreement*” has the meaning specified in the Recitals of this Agreement. 
+
+“*Stripping Notice and Request*” means a Stripping Notice and Request substantially in the form set forth on the reverse side of the form of Normal ITS Certificate, a copy of which is attached hereto as Exhibit A. 
+
+“*Subject Normal ITS*” has the meaning set forth in Section 4.9 of the Trust Agreement. 
+
+“*Successful*” has the meaning specified in the Indenture. 
+
+“*Termination Event*” has the meaning specified in the Stock Purchase Contract Agreement. 
+
+“*Third Party Agent*” has the meaning specified in Section 4.9 of the Trust Agreement. 
+
+“*Trade Date*” means, with respect to each Roll Date, the Business Day immediately preceding such Roll Date. 
+
+Collateral Agreement  
+
+^^^^^ 
+“*Trades*” means the Treasury/Reserve Automated Debt Entry System maintained by the Federal Reserve Bank of [[Address 2: Address]] the Trades Regulations. 
+
+“*Trades Regulations*” means the regulations of the United States Department of the Treasury, published at 31 C.F.R. Part 357, as amended from time to time. Unless otherwise defined herein, all terms defined in the Trades Regulations are used herein as therein defined. 
+
+“*Transfer*” means (i) in the case of certificated securities in registered form, delivery as provided in Section 8-301(a) of the UCC, endorsed to the transferee or in blank by an effective endorsement, (ii) in the case of Qualifying Treasury Securities, registration of the transferee as the owner of such Qualifying Treasury Securities on Trades and (iii) in the case of security entitlements, including, without limitation, security entitlements with respect to Qualifying Treasury Securities, a securities intermediary indicating by book entry that such security entitlement has been credited to the transferee’s securities account. 
+
+“*Trust*” has the meaning specified in the first paragraph of this Agreement. 
+
+“*Trust Agreement*” means the Amended and Restated Trust Agreement, dated as of [[Date 1]], among the Company, as Depositor, the Property Trustee, the Delaware Trustee and the Administrative Trustees (each as named therein), and the several Holders (as defined therein), as amended by Amendment No. 1 thereto, dated as of [  ], 2010, as the same may be further amended, modified or supplemented from time to time. 
+
+“*UCC*” means the Uniform Commercial Code as in effect in the State of [[Address 3: Address]] to time. 
+
+“*U.S. Bank Deposit*” has the meaning specified in the Stock Purchase Contract Agreement. 
+
+“*USBNA*” has the meaning specified in the first paragraph of this Agreement. 
+
+“*Value*” means, with respect to any item of Collateral on any date, as to (1) Cash, the face amount thereof, (2) Notes, the aggregate principal amount thereof and (3) Qualifying Treasury Securities, the aggregate principal amount thereof. 
+
+\centered **Pledge** 
+
+Section 2.01 *Pledge.*  
+
+The Trust (acting through the Property Trustee) hereby pledges and grants to the Collateral Agent, as agent of and for the benefit of the Company, a continuing first priority security interest in and to, and a lien upon and right of set-off against, all of such Person’s right, title and interest in and to the Collateral to secure the prompt and complete payment and performance when due (whether at stated maturity, by acceleration or otherwise) of the Obligations. The Collateral Agent shall have all of the rights, remedies and recourses with respect to the Collateral afforded a secured party by the UCC, in addition to, and not in limitation of, the other rights, remedies and recourses afforded to the Collateral Agent by this Agreement. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Control.*  
+
+The Collateral Agent shall have control of the Collateral Account pursuant to the provisions of Article III. 
+
+Section 2.03 *Termination.*  
+
+This Agreement and the Pledge created hereby shall terminate upon the satisfaction of the Obligations. Upon receipt by the Collateral Agent from the Company of notice of such termination, the Collateral Agent shall, except as otherwise provided herein, Transfer and instruct the Securities Intermediary to Transfer the Collateral to or upon the order of the Property Trustee, free and clear of the Pledge created hereby. 
+
+Section 2.04 *Release for Subject Normal ITS.* 
+
+In connection with the retirement of any Subject Normal ITS pursuant to Section 4.9 of the Trust Agreement, the Company shall provide to the Collateral Agent, not less than two Business Days prior to the applicable Retirement Date (unless a shorter period shall be acceptable to the Collateral Agent), a copy of the Retirement Notice submitted by the Company to the Property Trustee and the Securities Registrar in respect of such Subject Normal ITS. Upon receipt by the Collateral Agent on the Retirement Date of written confirmation from the Securities Registrar as to its receipt of the Subject Normal ITS pursuant to such Retirement Notice, the Collateral Agent shall (i) release Pledged Notes of a Like Amount with respect to such Subject Normal ITS from the Pledge, and (ii) Transfer Pledged Notes to the Property Trustee on behalf of the Trust for distribution by the Property Trustee to the Third Party Agent, all as contemplated in Section 4.9 of the Trust Agreement. 
+
+\centered **Control** 
+
+Section 3.01 *Establishment of Collateral Account.* 
+
+The Securities Intermediary hereby confirms that: 
+
+^^the Securities Intermediary has established the Collateral Account; 
+
+^^the Collateral Account is a securities account; 
+
+^^subject to the terms of this Agreement, the Securities Intermediary shall identify in its records the Collateral Agent as the entitlement holder entitled to exercise the rights that comprise any financial asset credited to the Collateral Account; 
+
+^^all property delivered to the Securities Intermediary pursuant to this Agreement or the Stock Purchase Contract Agreement, including any Permitted Investments purchased by the Securities Intermediary from the Proceeds of any Collateral, will be credited promptly to the Collateral Account; and 
+
+^^all securities or other property underlying any financial assets credited to the Collateral Account shall be (i) registered in the name of the Property Trustee and indorsed to the Securities 
+
+Collateral Agreement  
+
+^^^^^ 
+Intermediary or in blank, (ii) registered in the name of the Securities Intermediary or the Collateral Agent or (iii) credited to another securities account maintained in the name of the Securities Intermediary. In no case will any financial asset credited to the Collateral Account be registered in the name of the Property Trustee or specially indorsed to the Property Trustee unless such financial asset has been further indorsed to the Securities Intermediary or in blank. 
+
+Section 3.02 *Treatment as Financial Assets.* 
+
+Each item of property (whether investment property, financial asset, security, instrument or Cash) credited to the Collateral Account shall be treated as a financial asset. 
+
+Section 3.03 *Sole Control by Collateral Agent.* 
+
+Except as provided in Section 8.01, at all times prior to the termination of the Pledge, the Collateral Agent shall have sole control of the Collateral Account, and the Securities Intermediary shall take instructions and directions with respect to the Collateral Account solely from the Collateral Agent. If at any time the Securities Intermediary shall receive an entitlement order issued by the Collateral Agent and relating to the Collateral Account, the Securities Intermediary shall comply with such entitlement order without further consent by the Property Trustee or any other Person. Except with respect to any Pledged Notes that are released from the Pledge as provided in Section 2.04, or as otherwise permitted under this Agreement, until termination of the Pledge, the Securities Intermediary will not comply with any entitlement orders issued by the Property Trustee. 
+
+The Trust hereby irrevocably constitutes and appoints the Collateral Agent and the Company, with full power of substitution, as the Trust’s attorney-in-fact to take on behalf of, and in the name, place and stead of the Trust and the Holders, any action necessary or desirable to perfect and to keep perfected the security interest in the Collateral referred to in Section 2.01. The grant of such power-of-attorney shall not be deemed to require of the Collateral Agent any specific duties or obligations not otherwise expressly assumed by the Collateral Agent hereunder. Notwithstanding the foregoing, in no event shall the Collateral Agent or Securities Intermediary be responsible for the preparation or filing of any financing or continuation statements in the appropriate jurisdictions or responsible for maintenance or perfection of any security interest hereunder. 
+
+Section 3.04 *Securities Intermediary’s Location.* 
+
+The Collateral Account, and the rights and obligations of the Securities Intermediary, the Collateral Agent and the Property Trustee with respect thereto, shall be governed by the laws of the State of [[Address 4: Address]] any provision in any other agreement, for purposes of the UCC, [[Address 5: Address]] deemed to be the Securities Intermediary’s jurisdiction. 
+
+Section 3.05 *No Other Claims.*  
+
+Except for the claims and interest of the Collateral Agent and of the Trust in the Collateral Account, the Securities Intermediary (without having conducted any investigation) does not know of any claim to, or interest in, the Collateral Account or in any financial asset credited thereto. If any Person asserts any lien, encumbrance or adverse claim (including any writ, garnishment, judgment, warrant of attachment, execution or similar process) against the Collateral Account or in any financial asset carried therein, the Securities Intermediary will promptly notify the Collateral Agent and the Property Trustee. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Investment and Release.*  
+
+All Proceeds of financial assets from time to time deposited in the Collateral Account shall be invested and reinvested as provided in this Agreement. At no time prior to termination of the Pledge with respect to any particular property shall such property be released from the Collateral Account except in accordance with this Agreement or upon written instructions of the Collateral Agent. 
+
+Section 3.07 *No Other Agreements.*  
+
+The Securities Intermediary has not entered into, and prior to the termination of the Pledge will not enter into, any agreement with any other Person relating to the Collateral Account or any financial assets credited thereto, including, without limitation, any agreement to comply with entitlement orders of any Person other than the Collateral Agent. 
+
+Section 3.08 *Powers Coupled with an Interest.* 
+
+The rights and powers granted in this Article III to the Collateral Agent have been granted in order to perfect its security interests in the Collateral Account, are powers coupled with an interest and will be affected neither by the bankruptcy of the Property Trustee or the Trust nor by the lapse of time. The obligations of the Securities Intermediary under this Article III shall continue in effect until the termination of the Pledge with respect to any and all Collateral. 
+
+Section 3.09 *Waiver of Lien; Waiver of Set-off.* 
+
+The Securities Intermediary waives any security interest, lien or right to make deductions or set-offs that it may now have or hereafter acquire in or with respect to the Collateral Account, any financial asset credited thereto or any security entitlement in respect thereof. Neither the financial assets credited to the Collateral Account nor the security entitlements in respect thereof will be subject to deduction, set-off, banker’s lien or any other right in favor of any person other than the Company. 
+
+\centered **Custody** 
+
+Section 4.01 *Appointment.*  
+
+The Trust hereby appoints the Custodial Agent as Custodial Agent of the Trust to hold all of the Notes that are property of the Trust, other than the Pledged Notes and Pledge Notes that have been released from the Pledge and Transferred to the Property Trustee for distribution by the Property Trustee to the Third-Party Agent in accordance with Section 2.04 hereof (collectively, the “*Custody Notes*”), for the benefit of the Trust and for the purposes set forth herein, and the Custodial Agent hereby accepts such appointment under the terms and conditions set forth herein. 
+
+Section 4.02 *Custody.*  
+
+The Custodial Agent will hold the Custody Notes in the Custody Account. For the avoidance of doubt, the Custodial Agent shall segregate on its books and records the assets of the Trust from assets held by the Custodial Agent for other customers (including the Collateral) or for the Custodial Agent itself. The Custodial Agent shall only have the obligations expressly set forth herein and shall 
+
+Collateral Agreement  
+
+^^^^^ 
+have no responsibility for monitoring compliance with the Trust Agreement, the Stock Purchase Contract Agreement or any other agreement in connection therewith. The Custodial Agent shall accept the Transfer of Notes from the Collateral Agent from time to time pursuant to Section 6.02, deliver Notes to the Collateral Agent from time to time pursuant to Section 6.03 and deliver Notes to the Remarketing Agent on the Remarketing Settlement Date pursuant to Section 8.03. 
+
+Section 4.03 *Termination of Custody Account.* 
+
+Upon receipt by the Custodial Agent from the Company of notice of termination of this Agreement pursuant to Section 2.03, the Custodial Agent shall deliver the Custody Notes to the Property Trustee. 
+
+Section 4.04 *Waiver of Lien; Waiver of Set-off.* 
+
+The Custodial Agent waives any security interest, lien or right to make deductions or set-offs that it may now have or hereafter acquire in or with respect to the Custody Account, any financial asset credited thereto or any security entitlement in respect thereof. Neither the financial assets credited to the Custody Account nor the security entitlements in respect thereof will be subject to deduction, set-off, banker’s lien or any other right in favor of any Person other than the Trust. 
+
+\centered **Distributions on Collateral and**  **Custody Notes** 
+
+Section 5.01 *Interest on Notes.*  
+
+^^The Collateral Agent shall transfer all interest received from time to time by the Collateral Agent on account of the Pledged Notes to the Paying Agent. 
+
+^^The Custodial Agent shall transfer all interest received from time to time by the Custodial Agent on account of the Custody Notes to the Paying Agent. 
+
+Section 5.02 *Payments Following Termination Event.* 
+
+Following a Termination Event, written notice of which the Collateral Agent or the Custodial Agent, as the case may be, shall have received from the Company, the Property Trustee or any of the Administrative Trustees, 
+
+^^the Collateral Agent shall cause the Securities Intermediary to Transfer (i) the Pledged Notes, (ii) the Pledged Treasury Securities and (iii) any Permitted Investments, including in each case any and all payments of principal or interest it receives in respect thereof, to the Property Trustee or its designee, free and clear of the Pledge created hereby; and 
+
+^^the Custodial Agent shall Transfer the Custody Notes and any and all payments of principal or interest it receives in respect thereof to the Property Trustee or its designee. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Payments Prior to or on Stock Purchase Date.* 
+
+^^Except as provided in Section 5.03(c) and Section 6.05, if the Collateral Agent or the Custodial Agent, as the case may be, shall not have received from the Company, the Property Trustee or any of the Administrative Trustees notice of any Termination Event, all payments of principal received by the Collateral Agent or the Securities Intermediary in respect of (i) the Pledged Notes and (ii) the Pledged Treasury Securities shall be held until the Stock Purchase Date and an amount thereof equal to the Purchase Price under the Stock Purchase Contracts shall be transferred to the Company on the Stock Purchase Date as provided in Section 2.2 of the Stock Purchase Contract Agreement in satisfaction of the Trust’s obligation to pay such Purchase Price. Any balance remaining in the Collateral Account shall be released from the Pledge and Transferred to the Paying Agent, free and clear of the Pledge created thereby. The Company shall instruct the Collateral Agent in writing as to the Permitted Investments in which any payments received under this Section 5.03(a) (which, for purpose of confirmation, includes the excess Proceeds received under Section 6.05(b)) shall be invested; provided that if the Company fails to deliver such instructions by 10:30 A.M. ([[Address 6: Address]]) on the day such payments are received by the Collateral Agent, the Collateral Agent shall invest such payments in the Permitted Investments as described in clause (6) of the definition of Permitted Investments. The Collateral Agent shall have no liability in respect of losses incurred as a result of the failure of the Company to provide timely written investment direction. The Collateral Agent may conclusively rely on any written direction and shall bear no liability for any loss or other damage based on acting or omitting to act under this Section 5.03 (which, for purpose of confirmation, includes acting or omitting to act under Section 6.05(b) in respect of excess Proceeds referred to therein) pursuant to any direction of the Company or any investment in Permitted Investments as described in clause (6) of the definition of Permitted Investments as provided herein and neither the Collateral Agent nor the Securities Intermediary shall in any way be liable for the selection of Permitted Investments or by reason of any insufficiency in the Collateral Account resulting from any loss on any Permitted Investment included therein. 
+
+^^All payments of principal received by the Custodial Agent in respect of the Custody Notes shall be transferred to the Paying Agent. 
+
+^^All payments of principal received by the Collateral Agent or the Securities Intermediary in respect of (1) the Pledged Notes and (2) the Pledged Treasury Securities or security entitlements thereto, that, in each case, have been released from the Pledge pursuant hereto (other than Pledged Notes that upon such release shall have become Custody Notes in accordance with Section 6.03) shall be transferred to or in accordance with the written instructions of the Paying Agent. 
+
+Section 5.04 *Payments to Property Trustee.* 
+
+The Securities Intermediary and the Custodial Agent shall use commercially reasonable efforts to deliver payments to the Paying Agent or the Property Trustee as provided hereunder to the following account established by the Paying Agent or the Property Trustee, for credit to U.S. Bank National Association, ABA#091000022, A/C#180121167365, for further credit to 793126000, Ref: USB Capital IX, Attn: Beverly A. Freeney, not later than 12:00 P.M. ([[Address 6: Address]]) on the Business Day it receives such payment; *provided* that if such payment is required to be made on a day that is not a Business Day or after 11:00 A.M. ([[Address 6: Address]]) on a Business Day, then it shall use commercially reasonable efforts to deliver such payment to the Paying Agent or the Property Trustee no later than 10:30 A.M. ([[Address 6: Address]]) on the next succeeding Business Day. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Assets Not Properly Released.* 
+
+If the Paying Agent or the Property Trustee shall receive any principal payments on account of financial assets credited to the Collateral Account and not released therefrom in accordance with this Agreement, the Paying Agent or the Property Trustee shall hold the same as trustee of an express trust for the benefit of the Company and, upon receipt of an Officers’ Certificate of the Company so directing, promptly deliver the same to the Securities Intermediary for credit to the Collateral Account or to the Company for application to the Obligations, and the Paying Agent or the Property Trustee shall acquire no right, title or interest in any such payments of principal amounts so received. Neither the Paying Agent nor the Property Trustee shall have any liability under this Section 5.05 unless and until it has been notified in writing that such payment was delivered to it erroneously and nor shall it have any liability for any action taken, suffered or omitted to be taken prior to its receipt of such notice. 
+
+\centered **Initial Deposit; Exchange of Normal ITS and**   **Qualifying Treasury Securities for Stripped ITS and Capital ITS; Reinvestment of Proceeds of Pledged Treasury Securities** 
+
+Section 6.01 *Initial Deposit of Notes.*  
+
+^^Prior to or concurrently with the execution and delivery of the Original Collateral Agreement, the Property Trustee Transfered to the Securities Intermediary, for credit to the Collateral Account, Notes having an aggregate principal amount of $[[USD Value 2: Number]] 
+
+^^The Collateral Agent shall, at any time or from time to time, at the written request of the Company, cause any or all securities or other property underlying any financial assets credited to the Collateral Account to be registered in the name of the Securities Intermediary, the Collateral Agent or their respective nominees; provided that unless any Event of Default (as defined in the Trust Agreement) shall have occurred and be continuing, and in respect of which the Collateral Agent shall have received written notice from the Property Trustee or the Administrative Trustees, the Collateral Agent agrees not to cause any Notes to be so re-registered. 
+
+Section 6.02 *Exchange of Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS.* 
+
+^^On each occasion on which a Holder of Normal ITS exercises its rights pursuant to Sections 5.13(a)(i), (b) and (c) of the Trust Agreement to exchange Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS by, during any Exchange Period: 
+
+^^^depositing with the Collateral Agent the treasury security that is the Qualifying Treasury Security on the date of deposit, in the principal amount of $[[USD Value 3: Number]] for each Normal ITS being Exchanged; 
+
+^^^Transferring the Normal ITS being Exchanged to the Securities Registrar; and 
+
+^^^delivering a duly executed and completed Stripping Notice and Request to the Securities Registrar and Collateral Agent (x) stating that the Holder has deposited the appropriate Qualifying Treasury Securities with the Collateral Agent for deposit in the Collateral Account, (y) 
+
+Collateral Agreement  
+
+^^^^^ 
+stating that the Holder is Transferring the related Normal ITS to the Securities Registrar in connection with an Exchange of such Normal ITS and Qualifying Treasury Securities for a Like Amount of Stripped ITS and Capital ITS, and (z) requesting the delivery to the Holder of such Stripped ITS and Capital ITS, 
+
+the Collateral Agent shall, upon the deposit and Transfer pursuant to clauses (i) and (ii) and receipt of the notice and request referred to in clause (iii), (w) be deemed to accept the Qualifying Treasury Securities deposited pursuant to clause (i) as Collateral subject to the Pledge, (x) release Pledged Notes of a Like Amount from the Pledge, (y) Transfer such Pledged Notes to the Custodial Account free and clear of the Company’s security interest therein, and (z) confirm to the Property Trustee in writing that such release and Transfer has occurred. The Custodial Agent shall continue to hold such Notes as Custody Notes pursuant to Article IV. 
+
+^^The Securities Registrar, pursuant to the procedures provided for in Section 5.11 of the Trust Agreement dealing with increasing and decreasing the number of Trust Preferred Securities evidenced by Book-Entry Trust Preferred Securities Certificates, shall cancel the number of Normal ITS Transferred pursuant to Section 6.02(a) and deliver a Like Amount of Stripped ITS and Capital ITS to the Holder, all by making appropriate notations on the Book-Entry Trust Preferred Securities Certificates of the appropriate Class. 
+
+^^The substitution of Qualifying Treasury Securities, or security entitlements thereto, for financial assets held in the Collateral Account pursuant to this Section 6.02, shall not constitute a novation of the security interest created hereby. 
+
+Section 6.03 *Exchange of Stripped ITS and Capital ITS for Normal ITS and Qualifying Treasury Securities.* 
+
+^^On each occasion on which a Holder of Stripped ITS and Capital ITS exercises its rights pursuant to Sections 5.13(d) of the Trust Agreement to exchange Stripped ITS and Capital ITS for Normal ITS and Qualifying Treasury Securities by, during any Exchange Period, Transferring the Stripped ITS and the Capital ITS being Exchanged to the Securities Registrar and delivering a duly executed and completed Recombination Notice and Request to the Securities Registrar and Collateral Agent (x) stating that the Holder is Transferring the related Stripped ITS and Capital ITS to the Securities Registrar in connection with the Exchange of such Stripped ITS and Capital ITS for a Like Amount of each of Normal ITS and Pledged Treasury Securities, (y) requesting the Collateral Agent to release from the Pledge and deliver to the Holder Pledged Treasury Securities in a principal amount equal to the Liquidation Amount of each of the Stripped ITS and Capital ITS being exchanged, and (z) requesting the Securities Registrar to deliver to the Holder Normal ITS of a Like Amount. 
+
+^^Upon the Transfer pursuant to Section 6.03(a) and receipt of the notice and request referred to in Section 6.03(a): 
+
+^^^the Custodial Agent will Transfer a Like Amount of Notes from the Custody Account to the Collateral Account in substitution for such Pledged Treasury Securities; 
+
+^^^the Collateral Agent will be deemed to accept the Notes Transferred by the Custodial Agent pursuant to clause (i) as Collateral subject to the Pledge; 
+
+Collateral Agreement  
+
+^^^^^ 
+^^^the Collateral Agent will release Pledged Treasury Securities of a Like Amount from the Pledge and deliver such Qualifying Treasury Securities to the Holder free and clear of the Company’s security interest therein, and confirm in writing to the Property Trustee that such release and Transfer has occurred; and 
+
+^^^the Securities Registrar, pursuant to the procedures provided for in Section 5.11 of the Trust Agreement dealing with increasing and decreasing the number of Trust Preferred Securities evidenced by Book-Entry Trust Preferred Securities Certificates, shall cancel the number of Stripped ITS and Capital ITS delivered pursuant to Section 6.03(a) and deliver a Like Amount of Normal ITS to the Holder, all by making appropriate notations on the Book-Entry Trust Preferred Securities Certificates of the appropriate Class. 
+
+^^The substitution of Notes for financial assets held in the Collateral Account pursuant to this Section 6.03, shall not constitute a novation of the security interest created hereby. 
+
+Section 6.04 *Termination Event.*  
+
+^^Upon receipt by the Collateral Agent of written notice from the Company, the Property Trustee or any of the Administrative Trustees of the Trust that a Termination Event has occurred, the Collateral Agent shall release all Collateral from the Pledge and shall promptly instruct the Securities Intermediary to Transfer: 
+
+^^^any Pledged Notes;  
+
+^^^the Proceeds of the U.S. Bank Deposit; and 
+
+^^^any Pledged Treasury Securities,  
+
+to the Property Trustee, free and clear of the Pledge created hereby. 
+
+^^If such Termination Event shall result from the Company’s becoming a debtor under the Bankruptcy Code, and if the Collateral Agent shall for any reason fail promptly to effectuate the release and Transfer of all Pledged Notes, Pledged Treasury Securities, Permitted Investments, the U.S. Bank Deposit and Proceeds of any of the foregoing, as the case may be, as provided by this Section 6.04, the Property Trustee or any of the Administrative Trustees shall: 
+
+^^^use its best efforts to obtain an opinion of a nationally recognized law firm to the effect that, notwithstanding the Company being the debtor in such a bankruptcy case, the Collateral Agent will not be prohibited from releasing or Transferring the Collateral as provided in this Section 6.04 and shall deliver or cause to be delivered such opinion to the Collateral Agent within ten calendar days after the occurrence of such Termination Event, and if (A) the Property Trustee or any of the Administrative Trustees shall be unable to obtain such opinion within ten calendar days after the occurrence of such Termination Event or (B) the Collateral Agent shall continue, after delivery of such opinion, to refuse to effectuate the release and Transfer of all Pledged Notes, Pledged Treasury Securities, Permitted Investments, the U.S. Bank Deposit and Proceeds of any of the foregoing, as the case may be, as provided in this Section 6.04, then the Property Trustee shall within fifteen calendar days after the occurrence of such Termination Event commence an action or proceeding in the court having jurisdiction of the Company’s case under the Bankruptcy Code seeking an order requiring the Collateral Agent to effectuate the 
+
+Collateral Agreement  
+
+^^^^^ 
+release and Transfer of all Pledged Notes, Pledged Treasury Securities, Permitted Investments, the U.S. Bank Deposit and Proceeds of any of the foregoing, or as the case may be, as provided by this Section 6.04; or 
+
+^^^commence an action or proceeding like that described in Section 6.04(b)(i) hereof within ten days after the occurrence of such Termination Event. 
+
+Section 6.05 *Reinvestment of Proceeds of Pledged Treasury Securities.* 
+
+^^At or about 11:00 A.M., [[Address 6: Address]], on each Trade Date, the Collateral Agent shall select at least three Reference Dealers (including at least three Reference Dealers named on Schedule I hereto or named by any of the Administrative Trustees as replacements therefor who are approved counterparties of USBNA) and request each of them to provide a commitment (which may be oral if promptly confirmed in writing by facsimile or e-mail), satisfactory in form to the Collateral Agent, to the effect that if selected as the Final Dealer, such Reference Dealer shall sell to the Collateral Agent, for delivery against payment on the immediately succeeding Roll Date, an aggregate principal amount of the U.S. treasury security that is the Qualifying Treasury Security on such Roll Date equal to the aggregate principal amount of Qualifying Treasury Securities held in the Collateral Account on such Trade Date. If the Collateral Agent shall have received at least two firm offers, it shall select the lowest offer and the Reference Dealer providing the lowest offer shall be the “*Final Dealer*”; *provided* that if two or more Reference Dealers have provided identical lowest offers, the Collateral Agent shall select any of these Reference Dealers as the Final Dealer in its absolute discretion. The Final Dealer shall be obligated to sell to the Collateral Agent, for Cash on the Roll Date, the aggregate principal amount of the U.S. treasury security specified in such offer. If the Collateral Agent determines that (i) a Market Disruption Event has occurred or (ii) fewer than two Reference Dealers have provided firm offers in a timely manner meeting the foregoing requirements, the steps contemplated above shall be taken on each succeeding Business Day on which the Collateral Agent determines that no Market Disruption Event has occurred until at least two Reference Dealers have provided such offers, except that the Collateral Agent shall request offers from the Reference Dealers for same day settlement. The Collateral Agent shall use reasonable care in administering the foregoing procedures and shall have no liability in connection therewith to the Trust, the Property Trustee, the Company or any other Person in the absence of gross negligence or willful misconduct. All determinations regarding whether a Market Disruption Event has occurred shall be made by the Collateral Agent in its sole discretion. 
+
+^^On each Roll Date (or, if no Final Dealer shall have been selected on the Trade Date, on the date that the Final Dealer is selected), the Collateral Agent shall instruct the Securities Intermediary to apply the Proceeds of the U.S. treasury securities held in the Collateral Account to the purchase price of the Qualifying Treasury Securities, which shall be deposited in the Collateral Account, and to apply the excess of such Proceeds over the purchase price of the Qualifying Treasury Securities to purchase Permitted Investments for deposit in the Collateral Account. 
+
+^^On each Additional Distribution Date, if the Qualifying Treasury Securities shall have been purchased and deposited in the Collateral Account, the Collateral Agent shall liquidate the Permitted Investments in the Collateral Account and direct the Securities Intermediary to pay the Proceeds to the Payment Account. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Application of Proceeds in Settlement of Stock Purchase Contracts.* 
+
+^^The Trust (acting through the Property Trustee) agrees to pay the purchase price under the Stock Purchase Contracts on the Stock Purchase Date from the Proceeds of the Qualifying Treasury Securities held in the Collateral Account and the U.S. Bank Deposit (or in the circumstances set forth in the Stock Purchase Contract Agreement, by assignment thereof). Without receiving any further instruction from the Property Trustee, the Collateral Agent shall, in settlement of such Stock Purchase Contracts on the Stock Purchase Date, (i) instruct the Securities Intermediary to remit Proceeds of the Qualifying Treasury Securities to the Company and (ii) instruct U.S. Bank National Association to pay the Proceeds of the U.S. Bank Deposit to the Company in an amount equal to the excess of the Purchase Price over the amount of the Proceeds of the Qualifying Treasury Securities. 
+
+^^In the event of a Failed Remarketing, the Collateral Agent, for the benefit of the Company, will, at the written instruction of the Company, deliver or dispose of the Pledged Notes in accordance with the Company’s written instructions to satisfy in full, from any such disposition or retention, the obligations of the Trust to pay the purchase price for the shares of Preferred Stock to be issued under the Stock Purchase Contracts to the extent not paid from the Proceeds of the Qualifying Treasury Securities held in the Collateral Account. 
+
+^^Thereafter, the Collateral Agent shall promptly remit the Proceeds of the Qualifying Treasury Securities held in the Collateral Account in excess of the aggregate purchase price for the shares of Preferred Stock to be issued under such Stock Purchase Contracts to the Property Trustee. 
+
+\centered **Voting Rights  Notes** 
+
+Section 7.01 *Voting Rights.*  
+
+The Property Trustee on behalf of the Trust may, subject to the Trust Agreement, exercise, or refrain from exercising, any and all voting and other consensual rights pertaining to the Notes or any part thereof for any purpose not inconsistent with the terms of this Agreement and in accordance with the terms of the Stock Purchase Contract Agreement; *provided*, *however*, that the Property Trustee shall not exercise or shall not refrain from exercising such right with respect to any Notes, if, in the reasonable judgment of the Property Trustee, such action would impair or otherwise have a material adverse effect on the value of all or any of the Notes; and *provided*, *further*, that the Property Trustee shall give the Company, the Collateral Agent and the Custodial Agent, at least five Business Days’ prior written notice of the manner in which it intends to exercise, or its reasons for refraining from exercising, any such right. Upon receipt of any notices and other communications in respect of any Notes, including notice of any meeting at which holders of the Notes are entitled to vote or solicitation of consents, waivers or proxies of holders of the Notes, the Collateral Agent and the Custodial Agent shall use reasonable efforts to send promptly to the Property Trustee such notice or communication, and as soon as reasonably practicable after receipt of a written request therefor from the Property Trustee, execute and deliver to the Property Trustee such proxies and other instruments in respect of such Notes (in form and substance satisfactory to the Collateral Agent or the Custodial Agent, as the case may be) as are prepared by the Company and delivered to the Property Trustee with respect to the Notes. 
+
+Collateral Agreement  
+
+^^^^^ 
+\centered **Rights and Remedies** 
+
+Section 8.01 *Rights and Remedies of the Collateral Agent.* 
+
+^^In addition to the rights and remedies specified in Section 6.04 or otherwise available at law or in equity, after an event of default (as specified in Section 8.01(b)) hereunder, the Collateral Agent shall have all of the rights and remedies with respect to the Collateral of a secured party under the UCC (whether or not the UCC is in effect in the jurisdiction where the rights and remedies are asserted) and the Trades Regulations and such additional rights and remedies to which a secured party is entitled under the laws in effect in any jurisdiction where any rights and remedies hereunder may be asserted. Without limiting the generality of the foregoing, such remedies may include, to the extent permitted by applicable law, (1) retention of the Pledged Notes or the Pledged Treasury Securities in full satisfaction of the Trust’s or the Property Trustee’s obligations under the Stock Purchase Contracts and the Stock Purchase Contract Agreement or (2) sale of the Pledged Notes or the Pledged Treasury Securities in one or more public or private sales as permitted by applicable law. 
+
+^^Without limiting any rights or powers otherwise granted by this Agreement to the Collateral Agent, in the event the Company is unable to make payments from amounts transferred or transferable to the Company on account of the principal payments of any Pledged Treasury Securities as provided in Article V, in satisfaction of the Obligations of the Trust under the Stock Purchase Contracts, the inability to make such payments shall constitute an event of default hereunder and the Collateral Agent shall have and may exercise, with reference to such Pledged Treasury Securities any and all of the rights and remedies available to a secured party under the UCC and the Trades Regulations after default by a debtor, and as otherwise granted herein or under any other law. 
+
+^^Without limiting any rights or powers otherwise granted by this Agreement to the Collateral Agent, the Collateral Agent is hereby irrevocably authorized to receive and collect all payments of (i) the principal amount of, and any interest on, the Pledged Notes and (ii) the principal amount of, and any interest on, the Pledged Treasury Securities, subject, in each case, to the provisions of Article V, and as otherwise granted herein. 
+
+^^The Property Trustee agrees that, from time to time, upon the written request of the Company or the Collateral Agent (acting upon the request of the Company), the Property Trustee shall execute and deliver such further documents and do such other acts and things as the Company or the Collateral Agent (acting upon the request of the Company) may reasonably request in order to maintain the Pledge, and the perfection and priority thereof, and to confirm the rights of the Collateral Agent hereunder; *provided* that, in no event shall the Property Trustee be responsible for the preparation (other than execution upon the request of the Company) or filing of any financing or continuation statements. In the absence of bad faith, the Property Trustee shall have no liability to the Company or the Collateral Agent (acting upon the request of the Company) for executing any documents or taking any such acts requested by the Company or the Collateral Agent (acting upon the request of the Company) hereunder. 
+
+Section 8.02 *Remarketing; Contingent Exchange Elections by Holder of Normal ITS.* 
+
+^^In the event a Holder of Normal ITS exercises its rights pursuant to Sections 5.14(a)(i), (b) and (e) of the Trust Agreement to contingently exchange Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS in connection with any Remarketing by, 
+
+Collateral Agreement  
+
+^^^^^ 
+^^^during the period that commences with the Collateral Agent’s and the Securities Registrar’s opening of normal business hours on the tenth Business Day immediately preceding a Remarketing Date and ending at 3:00 P.M., [[Address 6: Address]], on the second Business Day immediately preceding such Remarketing Date, Transferring the Normal ITS that are the subject of such Contingent Exchange Election to the Securities Registrar, accompanied by a duly executed and completed Notice of Contingent Exchange Election; and 
+
+^^^not later than 3:00 P.M., [[Address 6: Address]], on the second Business Day immediately preceding the Remarketing Date, depositing with the Collateral Agent the treasury security that is the Qualifying Treasury Security on the date of deposit, in the amount of $[[USD Value 3]] for each Normal ITS that is subject to the Contingent Exchange Election, 
+
+the Collateral Agent shall, upon the Transfer and receipt of the duly executed and completed Notice of Contingent Exchange Election pursuant to clause (i) and the deposit referred to in clause (ii), notify the Remarketing Agent not later than 11:00 A.M., [[Address 6: Address]], on the Business Day immediately preceding each Remarketing Date of the aggregate principal amount of Pledged Notes with respect to which elections have been validly made pursuant to this Section 8.02(a). 
+
+^^Upon the receipt of notice from the Remarketing Agent that the Remarketing has been Successful, on the Remarketing Settlement Date, 
+
+^^^the Collateral Agent shall (A) instruct the Securities Intermediary to release from the Pledge and deliver to the Remarketing Agent the Pledged Notes for which no election has been validly made pursuant to Section 8.02(a), free and clear of the Company’s security interest therein, against delivery by the Remarketing Agent of Qualifying Treasury Securities purchased with the net Proceeds of the sale of such Pledged Notes in the Remarketing for deposit in the Collateral Account, (B) instruct the Securities Intermediary to release from the Pledge and (C) Transfer to the Custody Account the Pledged Notes for which an election has been validly made pursuant to Section 8.02(a), free and clear of the Company’s security interest therein, upon delivery by the Collateral Agent to the Securities Intermediary for deposit into the Collateral Account the Qualifying Treasury Securities to be deposited in connection with such elections, and confirm to the Property Trustee in writing that such instructions have been delivered; 
+
+^^^the Securities Intermediary will (A) release the Pledged Notes from the Pledge, Transfer such Pledged Notes, free and clear of the Pledge, (x) to the Remarketing Agent in the case of Pledged Notes for which no election has been validly made pursuant to Section 8.02(a) and (y) to the Custody Account in the case of Pledged Notes for which an election has been validly made pursuant to Section 8.02(a), (B) deposit in the Collateral Account as Pledged Treasury Securities the Qualifying Treasury Securities deposited with the Collateral Agent pursuant to Section 8.02(a) or delivered by the Remarketing Agent and (C) confirm to the Property Trustee in writing that such release, Transfer and deposit have occurred; 
+
+^^^the Custodial Agent shall hold such Notes delivered to it pursuant to clause (ii)(y) of this Section 8.02(b) in the Custody Account; and 
+
+^^^the Securities Registrar shall cancel the number of Normal ITS Transferred pursuant to Section 8.02(a) and deliver a Like Amount of Capital ITS and Stripped ITS to the Holder in accordance with the procedures provided for in Section 5.14 of the Trust Agreement. 
+
+Collateral Agreement  
+
+^^^^^ 
+^^Upon the receipt of notice from the Remarketing Agent that the Remarketing has not been Successful: 
+
+^^^as soon as reasonably practicable after the Remarketing, the Collateral Agent will deliver back to such Holder the Qualifying Treasury Securities delivered by such Holder to the Collateral Agent pursuant to Section 8.02(a); and 
+
+^^^the Securities Registrar will disregard the delivery by such Holder of Normal ITS pursuant to Section 8.02(a), with the consequence that such Holder shall be deemed to continue to hold such Normal ITS. 
+
+^^The substitution of Qualifying Treasury Securities, or security entitlements thereto, for financial assets held in the Collateral Account pursuant to this Section 8.02, shall not constitute a novation of the security interest created hereby. 
+
+Section 8.03 *Contingent Disposition Election by Holder of Capital ITS.* 
+
+^^In the event a Holder of Capital ITS exercises its rights pursuant to Sections 5.14(a)(ii), (b), (f) and (g) of the Trust Agreement to contingently dispose of Capital ITS in connection with any Remarketing by, during the period that commences with the Custodial Agent’s and Securities Registrar’s opening of normal business hours on the tenth Business Day immediately preceding a Remarketing Date and ending at 3:00 P.M., [[Address 6: Address]], on the second Business Day immediately preceding such Remarketing Date, Transferring the Capital ITS that are the subject of such Contingent Disposition Election to the Securities Registrar and delivering a duly completed Notice of Contingent Disposition Election to the Securities Registrar and Custodial Agent, the Custodial Agent shall, upon such Transfer and receipt of such notice, notify the Remarketing Agent not later than 11:00 A.M., [[Address 6: Address]], on the Business Day immediately preceding each Remarketing Date of the aggregate principal amount of Custody Notes with respect to which elections have been validly made pursuant to this Section 8.03(a). 
+
+^^If the Custodial Agent is notified by the Remarketing Agent that the related Remarketing is Successful: 
+
+^^^the Securities Registrar shall cancel the number of Capital ITS Transferred pursuant to Section 8.03(a) in accordance with the procedures provided for in Section 5.11 of the Trust Agreement; 
+
+^^^the Custodial Agent shall deliver Custody Notes in the aggregate principal amount with respect to which elections have been validly made pursuant to Section 8.03(a) to the Remarketing Agent on the Remarketing Settlement Date; and 
+
+^^^on or promptly after the Remarketing Settlement Date, the Custodial Agent will pay to the Property Trustee the net Proceeds of the Custody Notes received from the Remarketing Agent. 
+
+^^If the Custodial Agent is notified by the Property Trustee or the Remarketing Agent that the related Remarketing is not Successful, the Securities Registrar will disregard the delivery by such Holder of Capital ITS pursuant to Section 8.03(a), with the consequence that such Holder shall continue to hold such Capital ITS. 
+
+Collateral Agreement  
+
+^^^^^ 
+^^None of the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar, the Property Trustee, the Company or the Remarketing Agent shall be obligated in any case to provide funds to make payment upon tender of Notes for Remarketing. 
+
+\centered **Representations and Warranties; Covenants** 
+
+Section 9.01 *Representations and Warranties.* 
+
+The Property Trustee on behalf of the Trust hereby represents and warrants to the Collateral Agent that: 
+
+^^the Property Trustee on behalf of the Trust has the power to grant a security interest in and lien on the Collateral; and 
+
+^^the Property Trustee on behalf of the Trust is the sole beneficial owner of the Collateral and, in the case of Collateral delivered in physical form, is the sole holder of such Collateral and is the sole beneficial owner of, or has the right to Transfer, the Collateral it Transfers to the Collateral Agent for credit to the Collateral Account, free and clear of any security interest, lien, encumbrance, call, liability to pay money or other restriction other than the security interest and lien granted under Article II hereof. 
+
+Section 9.02 *Covenants.*  
+
+The Property Trustee on behalf of the Trust hereby covenants to the Collateral Agent that for so long as the Collateral remains subject to the Pledge: 
+
+^^it will not create or purport to create or allow to subsist any mortgage, charge, lien, pledge or any other security interest whatsoever over the Collateral or any part of it other than pursuant to this Agreement; and 
+
+^^it will not sell or otherwise dispose (or attempt to dispose) of the Collateral or any part of it except in accordance with the terms of this Agreement. 
+
+\centered **The Collateral Agent, The Custodial Agent, The Securities Intermediary**   **and The Securities Registrar** 
+
+It is hereby agreed as follows:  
+
+Section 10.01 *Appointment, Powers and Immunities.* 
+
+The Collateral Agent and the Securities Intermediary shall act as agents for the Company hereunder with such powers as are specifically vested in the Collateral Agent or the Securities Intermediary, as the case may be, by the terms of this Agreement and the Collateral Agent and the Securities Intermediary owe no duties, fiduciary or otherwise, to any other Person except as provided by applicable law. The Custodial Agent and the Securities Registrar shall act as agents for the Property Trustee hereunder with such powers as are specifically vested in the Custodial Agent or the Securities 
+
+Collateral Agreement  
+
+^^^^^ 
+Registrar, as the case may be, by the terms of this Agreement and, in the case of the Securities Registrar, the Trust Agreement and the Custodial Agent and the Securities Registrar owe no duties, fiduciary or otherwise, to any other Person except as provided by applicable law. The Collateral Agent, the Custodial Agent, the Securities Intermediary and the Securities Registrar shall: 
+
+^^have no duties or responsibilities except those expressly set forth in this Agreement and no implied covenants or obligations shall be inferred from this Agreement against the Collateral Agent, the Custodial Agent, the Securities Intermediary and the Securities Registrar, nor shall the Collateral Agent, the Custodial Agent, the Securities Intermediary and the Securities Registrar be bound by the provisions of any agreement by any party hereto beyond the specific terms hereof; 
+
+^^not be responsible for any recitals contained in this Agreement, or in any certificate or other document referred to or provided for in, or received by it under, this Agreement, the Trust Preferred Securities or the Stock Purchase Contract Agreement, or for the value, validity, effectiveness, genuineness, enforceability or sufficiency of this Agreement (other than as against the Collateral Agent, the Custodial Agent or the Securities Registrar, as the case may be), the Trust Preferred Securities, any Collateral or the Stock Purchase Contract Agreement or any other document referred to or provided for herein or therein or for any failure by the Company or any other Person (except the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, as the case may be) to perform any of its obligations thereunder or hereunder or for the validity, perfection, enforceability, priority or, except as expressly required hereby, maintenance of any security interest created hereunder; 
+
+^^not be required to initiate or conduct any litigation or collection efforts or proceedings hereunder (except pursuant to directions furnished under Section 10.02, subject to Section 10.08); 
+
+^^not be responsible for the exercise of any of the rights and remedies (at the direction of the Property Trustee or the Holders of the ITS, or otherwise) upon a default or event of default under the indenture; 
+
+^^not be responsible for any action taken, suffered or omitted to be taken by it hereunder or under any other document or instrument referred to or provided for herein or in connection herewith or therewith, except for its own gross negligence or willful misconduct; and 
+
+^^not be required to advise any party as to selling or retaining, or taking or refraining from taking any action with respect to, any securities or other property deposited hereunder. 
+
+Subject to the foregoing, during the term of this Agreement, the Collateral Agent, the Securities Intermediary, the Custodial Agent and Securities Registrar shall take all reasonable action in connection with the safekeeping and preservation of the Collateral and the Custody Notes hereunder as determined by industry standards. 
+
+No provision of this Agreement shall require the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar to expend or risk its own funds or otherwise incur any financial liability in the performance of any of its duties hereunder. In no event shall the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar be liable for any amount in excess of the Value of the Collateral and the Custody Notes. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Instructions of the Company.* 
+
+The Company shall have the right, by one or more written instruments executed and delivered to the Collateral Agent, to direct the time, method and place of conducting any proceeding for the realization of any right or remedy available to the Collateral Agent, or of exercising any power conferred on the Collateral Agent, or to direct the taking or refraining from taking of any action authorized by this Agreement; provided that (i) such direction shall not conflict with the provisions of any law or of this Agreement or involve the Collateral Agent in personal liability and (ii) the Collateral Agent shall be indemnified as provided herein. Nothing contained in this Section 10.02 shall impair the right of the Collateral Agent in its discretion to take any action or omit to take any action which it deems proper and which is not inconsistent with such direction. None of the Collateral Agent, the Custodial Agent or the Securities Registrar has any obligation or responsibility for determining the necessity of filing or to file or monitor the filing of UCC financing statements or other UCC statements. 
+
+Section 10.03 *Reliance by Collateral Agent, Custodial Agent, Securities Intermediary and Securities Registrar.* 
+
+Each of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall be entitled to rely conclusively upon any certification, order, judgment, opinion, notice or other written or telephonic communication (including, without limitation, any thereof by e-mail or similar electronic means, telecopy, telex or facsimile) believed by it to be genuine and to have been signed or sent by or on behalf of the proper Person or Persons (without being required to determine the correctness of any fact stated therein). Each of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may consult with legal counsel or other experts of its selection and the advice, opinions and statements of such legal counsel and other experts and any Opinion of Counsel shall be full and complete authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in reliance thereon. As to any matters not expressly provided for by this Agreement, the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall in all cases be fully protected in acting, suffering, or in refraining from acting, hereunder in accordance with instructions given by the Company or the Property Trustee in accordance with this Agreement. In the event any instructions are given (other than in writing at the time of the execution of the Agreement), whether in writing, by telecopier or otherwise, the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar are authorized to seek confirmation of such instructions by telephone call-back to the person or persons designated on Schedule II hereto, and the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may rely upon the confirmations of anyone purporting to be the Person or Persons so designated. The persons and telephone numbers for call-backs may be changed only in writing actually received and acknowledged by the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar. 
+
+It is understood that the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar in any funds transfer may rely solely upon any account numbers or similar identifying numbers provided by the Company or the Property Trustee to identify (i) the beneficiary, (ii) the beneficiary’s bank, or (iii) an intermediary bank. The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may apply any of the deposited funds for any payment order it executes using any such identifying number, even where its use may result in a Person other than the beneficiary being paid, or the transfer of funds to a bank other than the beneficiary’s bank, or an intermediary bank, designated by the Company or the Property Trustee; *provided* that 
+
+Collateral Agreement  
+
+^^^^^ 
+payment is made and confirmed to the account as specified by the Company or the Property Trustee, as the case may be. 
+
+Section 10.04 *Certain Rights.*  
+
+^^Whenever in the administration of the provisions of this Agreement the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall deem it necessary or desirable that a matter be proved or established prior to taking or suffering or omitting to take any action hereunder, such matter (unless other evidence in respect thereof be herein specifically prescribed) may, in the absence of bad faith on the part of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, be deemed to be conclusively proved and established by a certificate signed by one of the Company’s officers, and delivered to the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar and such certificate, in the absence of bad faith on the part of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, shall be full warrant to the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar for any action taken, suffered or omitted by any of them under the provisions of this Agreement in reliance thereon. 
+
+^^The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall not be bound to make any investigation into the facts or matters stated in any resolution, certificate, statement, instrument, opinion, report, notice, request, consent, entitlement order, approval or other paper or document. 
+
+^^None of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall be responsible or liable for any failure or delay in the performance of its obligations under this Agreement arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, acts of God, earthquakes, fires, floods, terrorism, wars, civil or military disturbances, sabotage, epidemics, riots, interruptions, loss or malfunctions of utilities, computer (hardware or software) or communication services, accidents, labor disputes, acts of civil or military authority and governmental action. 
+
+^^The Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar may request that the Company and the Property Trustee each deliver an Officers’ Certificate setting forth the names of individuals and/or titles of officers authorized at such time to take specified actions pursuant to this Agreement, which Officers’ Certificate may be signed by any person authorized to sign an Officers’ Certificate, including any person specified as so authorized in any such certificate previously delivered and not superseded. 
+
+^^The permissive right of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar to take or refrain from taking any actions enumerated in this Agreement shall not be construed as a duty; 
+
+^^None of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall be liable for any error of judgment made in good faith, unless it shall have been grossly negligent in ascertaining the pertinent facts. 
+
+^^The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall have no liability whatsoever for the action or inaction of any Clearing Agency or any book-entry system thereof. In no event shall any Clearing Agency or any book-entry system thereof be 
+
+Collateral Agreement  
+
+^^^^^ 
+deemed an agent or subcustodian of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar. Unless and until Definitive Trust Preferred Securities Certificates have been issued to Owners pursuant to Section 5.15 of the Trust Agreement, the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall be entitled to deal with the Clearing Agency for all purposes of this Agreement (including the receipt or transfer of any funds hereunder) as the Holder of the Trust Preferred Securities, shall have no obligation to the Owners and the rights of the Owners shall be exercised only through the Clearing Agency and shall be limited to those established by law and agreement between such Owners and the Trust or the Clearing Agency Participants. The provisions of Sections 5.6 and 5.11 of the Trust Agreement are hereby made applicable to the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar, mutatis mutandis, as if they were the Securities Registrar as referred to therein. 
+
+^^The Securities Registrar shall also have all of the rights, privileges, protections, immunities and benefits given to the Securities Registrar under the Trust Agreement, including its right to be indemnified. In the event of any conflict between any of the provisions of the Trust Agreement and this Agreement with respect to any of such rights, privileges, protections, immunities and benefits, the provisions of this Agreement shall govern and control and supersede such other provisions. 
+
+Section 10.05 *Merger, Conversion, Consolidation or Succession to Business.* 
+
+Any Person into which the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may be merged or converted or with which it may be consolidated, or any Person resulting from any merger, conversion or consolidation to which the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall be a party, or any Person succeeding to all or substantially all of the corporate trust business of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall be the successor of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar hereunder without the execution or filing of any paper with any party hereto or any further act on the part of any of the parties hereto except where an instrument of transfer or assignment is required by law to effect such succession, anything herein to the contrary notwithstanding. 
+
+Section 10.06 *Rights in Other Capacities.* 
+
+The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar and their Affiliates may (without having to account therefor to the Company) accept deposits from, lend money to, make their investments in and generally engage in any kind of banking, trust or other business with the Trust, any other Person interested herein and any Holder of Trust Preferred Securities (and any of their respective subsidiaries or Affiliates) as if it were not acting as the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, as the case may be, and the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and their Affiliates may accept fees and other consideration from the Trust, any other Person interested herein and any Holder of Trust Preferred Securities without having to account for the same to the Company; provided that each of the Securities Registrar, the Securities Intermediary, the Custodial Agent and the Collateral Agent covenants and agrees with the Company that it shall not accept, receive or permit there to be created in favor of itself and shall take no affirmative action to permit there to be created in favor of any other Person, any security interest, lien or other encumbrance of any kind in or upon the Collateral other than the lien created by the Pledge. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Non-reliance on Collateral Agent, the Securities Intermediary, the Custodial Agent and Securities Registrar.* 
+
+None of the Securities Registrar, the Securities Intermediary, the Custodial Agent or the Collateral Agent shall be required to keep itself informed as to the performance or observance by the Trust or any Holder of Trust Preferred Securities of this Agreement, the Stock Purchase Contract Agreement, the Trust Preferred Securities or any other document referred to or provided for herein or therein or in connection herewith or therewith or to inspect the properties or books of the Trust or any Holder of Trust Preferred Securities. None of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall have any duty or responsibility to provide the Company or the Property Trustee with any credit or other information concerning the affairs, financial condition or business of the Trust or the Company or any Holder of Trust Preferred Securities (or any of their respective Affiliates) that may come into the possession of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar or any of their respective Affiliates. 
+
+Section 10.08 *Compensation and Indemnity.* 
+
+The Company agrees to:  
+
+^^pay the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar from time to time such compensation as shall be agreed in writing between the Company and the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, as the case may be, for all services rendered by them hereunder; 
+
+^^indemnify and hold harmless the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and each of their respective directors, officers, agents and employees (collectively, the “*Indemnitees*”), from and against any and all claims, liabilities, losses, damages, fines, penalties and expenses (including reasonable fees and expenses of counsel) and taxes (other than those based upon, determined by or measured by the income of the Collateral Agent, the Custodial Agent and the Securities Registrar) (collectively, “*Losses*” and individually, a “*Loss*”) that may be imposed on, incurred by, or asserted against, the Indemnitees or any of them for or in respect of the Collateral Agent’s, the Securities Intermediary’s, the Custodial Agent’s and the Securities Registrar’s (i) execution and delivery of this Agreement and (ii) following any instructions or other directions upon which either the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar is entitled to rely pursuant to the terms of this Agreement; and 
+
+^^in addition to and not in limitation of clause (b) immediately above, indemnify and hold the Indemnitees and each of them harmless from and against any and all Losses that may be imposed on, incurred by or asserted against, the Indemnitees or any of them in connection with or arising out of the Collateral Agent’s, the Securities Intermediary’s, the Custodial Agent’s or the Securities Registrar’s acceptance or performance of its powers and duties under this Agreement, *provided* that any Indemnitee with respect to the specific Loss against which indemnification is sought under this clause (c) has not acted with gross negligence or engaged in willful misconduct. 
+
+The provisions of this Section 10.08 and Section 12.07 shall survive the resignation or removal of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar and the termination of this Agreement. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Failure to Act.*  
+
+In the event of (i) uncertainty on the part of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar as to the application of any provision in this Agreement or any other agreement relating to the transaction contemplated hereby or (ii) any ambiguity in the provisions of this Agreement or any dispute between or conflicting claims by or among the parties hereto or any other Person with respect to any funds or property deposited hereunder, such Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar in the case of (i) or each of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar in the case of (ii) shall be entitled, at its sole option and after prompt written notice to the Company and the Trust, to refrain from taking any action in respect of such uncertainty or ambiguous provision or to refuse to comply with any and all claims, demands or instructions with respect to such property or funds so long as such dispute or conflict shall continue, and the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall not be or become liable in any way to any of the parties hereto for its so refraining or refusal to comply with such conflicting claims, demands or instructions. The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall be entitled to refuse to act until either: 
+
+^^such ambiguous provisions or conflicting or adverse claims or demands, as the case may be, shall have been finally determined by a court of competent jurisdiction or settled by agreement between the conflicting parties as evidenced in a writing satisfactory to the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar; or 
+
+^^the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall have received security or an indemnity satisfactory to it sufficient to save it harmless from and against any and all loss, liability or reasonable out-of-pocket expense which it may incur by reason of its acting. 
+
+The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may in addition elect to commence an interpleader action or seek other judicial relief or orders as the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar may deem necessary. Notwithstanding anything contained herein to the contrary, none of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall be required to take any action that it reasonably believes to be contrary to law or to the terms of this Agreement, or which it reasonably believes would subject it or any of its officers, employees or directors to liability. 
+
+Section 10.10 *Resignation of Collateral Agent, the Securities Intermediary, the Custodial Agent and Securities Registrar.* 
+
+Subject to the appointment and acceptance of a successor Collateral Agent, Securities Intermediary, Custodial Agent and Securities Registrar as provided below: 
+
+^^^the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may resign at any time by giving notice thereof to the Company and the Property Trustee; 
+
+^^^the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may be removed at any time by the Company; and 
+
+Collateral Agreement  
+
+^^^^^ 
+^^^if the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar fails to perform any of its material obligations hereunder in any material respect for a period of not less than 20 days after receiving written notice of such failure by the Property Trustee and such failure shall be continuing, the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar may be removed by the Property Trustee or the Administrative Trustees; 
+
+*provided* that any Person at any time acting as Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar may not resign or be removed in any one of those capacities without the consent of each party to this Collateral Agreement unless it resigns or is removed in all such capacities in which it is then acting. The Property Trustee shall promptly notify the Company of any removal of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar pursuant to clause (iii) of this Section 10.10. Upon any such resignation or removal, the Company shall have the right to appoint a successor Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, as the case may be, which shall not be an Affiliate of the Trust. If no successor Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar shall have been so appointed and shall have accepted such appointment within 30 days after the retiring Collateral Agent’s, Securities Intermediary’s, Custodial Agent’s or Securities Registrar’s giving of notice of resignation or the Company’s or the Property Trustee’s giving notice of such removal, then the retiring or removed Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar may petition any court of competent jurisdiction, at the expense of the Company, for the appointment of a successor Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar. The Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar shall each be a bank or a national banking association which has an office (or an agency office) in [[Address 7: Address]] a combined capital and surplus of at least $[[USD Value 4: Number]] Upon the acceptance of any appointment as Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar hereunder by a successor Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, as the case may be, such successor Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, as the case may be, shall thereupon succeed to and become vested with all the rights, powers, privileges and duties of the retiring Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, as the case may be, and the retiring Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, as the case may be, shall take all appropriate action, subject to payment of any amounts then due and payable to it hereunder, to transfer any money and property held by it hereunder (including the Collateral) to such successor. The retiring Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar shall, upon such succession, be discharged from its duties and obligations as Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar hereunder. After any retiring Collateral Agent’s, Securities Intermediary’s, Custodial Agent’s or Securities Registrar’s resignation or removal hereunder as Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, the provisions of this Article X shall continue in effect for its benefit in respect of any actions taken or omitted to be taken by it while it was acting as the Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar. Any resignation or removal of the Collateral Agent, Custodial Agent or Securities Registrar hereunder, at a time when such Person is acting as the Collateral Agent, Securities Intermediary, Custodial Agent or Securities Registrar, shall be deemed for all purposes of this Agreement as the simultaneous resignation or removal of the Collateral Agent, Securities Registrar or Custodial Agent, as the case may be. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Right to Appoint Agent or Advisor.* 
+
+The Collateral Agent shall have the right to appoint agents or advisors in connection with any of its duties hereunder, and the Collateral Agent shall not be liable for any action taken, suffered or omitted by, or in reliance upon the advice of, such agents or advisors selected in good faith. The appointment of agents (which, for the purpose of this sentence, excludes legal counsel) pursuant to this Section 10.11 shall be subject to prior written consent of the Company, which consent shall not be unreasonably withheld. 
+
+Section 10.12 *Survival.*  
+
+The provisions of this Article X and Section 12.06 shall survive termination of this Agreement and the resignation or removal of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar. 
+
+Section 10.13 *Exculpation.*  
+
+Anything contained in this Agreement to the contrary notwithstanding, in no event shall the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar or their officers, directors, employees or agents be liable under this Agreement for indirect, special, punitive, or consequential loss or damage of any kind whatsoever, including, but not limited to, lost profits, whether or not the likelihood of such loss or damage was known to the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar, or any of them and regardless of the form of action. 
+
+Section 10.14 *Statements and Confirmations.* 
+
+The Securities Intermediary will, as soon as reasonably practicable after receipt of same, send copies of all statements, confirmations and other correspondence concerning the Collateral Account and any financial assets credited thereto simultaneously to each of the Property Trustee and the Collateral Agent at their addresses for notices under this Agreement. The Custodial Agent will, as soon as reasonably practicable after receipt of same, send copies of all statements, confirmations and other correspondence concerning the Custody Account and any financial assets credited thereto to the Property Trustee at its address for notices under this Agreement. 
+
+Section 10.15 *Tax Allocations.*  
+
+The Administrative Trustees shall report all items of income, gain, expense and loss recognized in the Collateral Account and the Custody Account, to the extent such reporting is required by law, to the Internal Revenue Service authorities in the manner required by law. None of the Securities Intermediary, the Collateral Agent, the Custodial Agent, the Securities Registrar or the Property Trustee shall have any tax reporting duties hereunder. 
+
+Collateral Agreement  
+
+^^^^^ 
+\centered **Amendment** 
+
+Section 11.01 *Amendment.*  
+
+The Company, when duly authorized by resolution of its Board of Directors, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Property Trustee on behalf of the Trust, at any time and from time to time, may amend this Agreement by a written instrument, in form satisfactory to the Company, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Property Trustee, as provided under Section 6.1(c) of the Trust Agreement. Notwithstanding the foregoing, any amendment to the forms of ITS certificates attached as exhibits hereto shall be effective upon written notice thereof from the Company without the consent of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar setting forth the revised form or forms and confirming that such revised form or forms have been duly adopted in accordance with the Trust Agreement; provided that no such amendment that adversely affects the rights, duties or immunities of the Collateral Agent, the Securities Intermediary, the Custodial Agent or the Securities Registrar shall be effective against such adversely affected party without its consent. 
+
+Section 11.02 *Execution of Amendments.*  
+
+In executing any amendment permitted by this Article XI, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Property Trustee shall be entitled to receive and (subject to Section 8.3 of the Trust Agreement with respect to the Property Trustee) shall be fully authorized and protected in relying upon, an Opinion of Counsel and an Officers’ Certificate of the Company to the effect that all of the requirements of Section 6.1(c) of the Trust Agreement in respect of such amendment have been met and/or satisfied. The Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Property Trustee may, but shall not be obligated to, enter into any such amendment which affects their own respective rights, duties or immunities under this Agreement or otherwise. 
+
+\centered **Miscellaneous** 
+
+Section 12.01 *No Waiver.*  
+
+No failure on the part of the Company, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar or any of their respective agents to exercise, and no course of dealing with respect to, and no delay in exercising, any right, power or remedy hereunder shall operate a waiver thereof; nor shall any single or partial exercise by the Company, the Securities Intermediary, the Collateral Agent, the Custodial Agent, the Securities Registrar or any of their respective agents of any right, power or remedy hereunder preclude any other or further exercise thereof or the exercise of any other right, power or remedy. The remedies herein are cumulative and are not exclusive of any remedies provided by law. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Governing Law; Submission to Jurisdiction; Waiver of Trial by Jury.* 
+
+**This Agreement shall be governed by and construed in accordance with the laws of the State of [[Address 8: Address]]** The Company, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Trust hereby submit to the nonexclusive jurisdiction of the United States District Court for the Southern District of [[Address 9: Address]] courts of the State of [[Address 10: Address]](in each case sitting in [[Address 11: Address]]) for the purposes of all legal proceedings arising out of or relating to this Agreement or the transactions contemplated hereby. The Company, the Collateral Agent, the Securities Intermediary, the Custodial Agent, the Securities Registrar and the Trust irrevocably waive, to the fullest extent permitted by applicable law, any objection that they may now or hereafter have to the laying of the venue of any such proceeding brought in such a court and any claim that any such proceeding brought in such a court has been brought in an inconvenient forum. **TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, EACH OF THE PARTIES IRREVOCABLY AND UNCONDITIONALLY WAIVES THE RIGHT TO A TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.** 
+
+Section 12.03 *Notices.*  
+
+All notices, requests, consents and other communications provided for herein (including, without limitation, any modifications of, or waivers or consents under, this Agreement) shall be given or made in writing (including, without limitation, by telecopy) delivered to the intended recipient at the “*Address for Notices*” specified below its name on the signature pages hereof or, as to any party, at such other address as shall be designated by such party in a notice to the other parties. Except as otherwise provided in this Agreement, all such communications shall be deemed to have been duly given when transmitted by telecopy or personally delivered or, in the case of a mailed notice, upon receipt, in each case given or addressed as aforesaid. 
+
+Section 12.04 *Successors and Assigns.*  
+
+This Agreement shall be binding upon and inure to the benefit of the respective successors of the Company, the Collateral Agent, the Custodial Agent, the Securities Intermediary, the Securities Registrar and the Trust. 
+
+Nothing in this Agreement, express or implied, shall give any Person, other than the parties hereto and their permitted successors, any benefit or any legal or equitable right, remedy or claim under this Agreement. 
+
+Section 12.05 *Severability.*  
+
+If any provision hereof is invalid and unenforceable in any jurisdiction, then, to the fullest extent permitted by law, (i) the other provisions hereof shall remain in full force and effect in such jurisdiction and shall be liberally construed in order to give effect to the intentions of the parties hereto as nearly as may be possible and (ii) the invalidity or unenforceability of any provision hereof in any jurisdiction shall not affect the validity or enforceability of such provision in any other jurisdiction. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Expenses, Etc.*  
+
+The Company agrees to reimburse the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar for: 
+
+^^all reasonable costs and expenses of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar (including, without limitation, the reasonable fees and expenses of counsel to the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar), in connection with (i) the negotiation, preparation, execution and delivery or performance of this Agreement and (ii) any modification, supplement or waiver of any of the terms of this Agreement; 
+
+^^all reasonable costs and expenses of the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar (including, without limitation, the reasonable fees and expenses of counsel) in connection with (i) any enforcement or proceedings resulting or incurred in connection with causing the Trust or the Property Trustee to satisfy its obligations under the Stock Purchase Contracts or the Stock Purchase Contract Agreement and (ii) the enforcement of this Section 12.06; 
+
+^^all transfer, stamp, documentary or other similar taxes, assessments or charges levied by any governmental or revenue authority in respect of this Agreement or any other document referred to herein and all costs, expenses, taxes, assessments and, subject to Section 10.01(b) and the last sentence of Section 10.01, other charges incurred in connection with any filing, registration, recording or perfection of any security interest contemplated hereby; 
+
+^^all reasonable fees and expenses of any agent or advisor appointed by the Collateral Agent and (except in the case of legal counsel) consented to by the Company under Section 10.11; and 
+
+^^any other out-of-pocket costs and expenses reasonably incurred by the Collateral Agent, the Securities Intermediary, the Custodial Agent and the Securities Registrar in connection with the performance of their duties hereunder. 
+
+Section 12.07 *Security Interest Absolute.* 
+
+All rights of the Collateral Agent and security interests hereunder, and all obligations of the Trust from time to time hereunder, shall be absolute and unconditional irrespective of: 
+
+^^any lack of validity or enforceability of any provision of the Stock Purchase Contracts or any other agreement or instrument relating thereto; 
+
+^^any change in the time, manner or place of payment of, or any other term of, or any increase in the amount of, all or any of the Obligations under the Stock Purchase Contracts, or any other amendment or waiver of any term of, or any consent to any departure from any requirement of, the Stock Purchase Contract Agreement or any Stock Purchase Contract or any other agreement or instrument relating thereto; or 
+
+^^any other circumstance which might otherwise constitute a defense available to, or discharge of, a borrower, a guarantor or a pledgor. 
+
+Collateral Agreement  
+
+^^^^^ 
+^*Notice of Termination Event.* 
+
+Upon the occurrence of a Termination Event, the Company shall deliver written notice to the Property Trustee, the Collateral Agent, the Custodial Agent and the Securities Registrar. Upon the written request of the Collateral Agent or the Securities Registrar, the Company shall inform such party whether or not a Termination Event has occurred. 
+
+Section 12.09 *Incorporation by Reference.* 
+
+In connection with its execution and performance hereunder the Property Trustee is entitled to all rights, privileges, protections, immunities, benefits and indemnities provided to it under the Trust Agreement. 
+
+Section 12.10 *No Recourse.*  
+
+It is expressly understood and agreed by the parties hereto that (a) this Agreement is executed and delivered by Wilmington Trust Company, not individually or personally but solely as Property Trustee of the Trust, in the exercise of the powers and authority conferred and vested in it, (b) each of the representations, warranties, covenants, undertakings and agreements herein made on the part of the Trust is made and intended not as personal representations, warranties, covenants, undertakings and agreements by Wilmington Trust Company but is made and intended for the purpose of binding only the Trust, (c) nothing herein contained shall be construed as creating any liability on Wilmington Trust Company, individually or personally, to perform any covenant either expressed or implied contained herein, all such liability, if any, being expressly waived by the parties hereto and by any Person claiming by, through or under the parties hereto and (d) under no circumstances shall Wilmington Trust Company be personally liable for the payment of any indebtedness or expenses of the Trust or be liable for the breach or failure of any obligation, representation, warranty or covenant made or undertaken by the Trust under this Agreement or any other related documents. 
+
+Section 12.11 *Amendment and Restatement.* 
+
+This Agreement is an amendment and restatement of the Original Collateral Agreement and does not constitute, and is not intended by the parties to be, a novation of the Original Collateral Agreement. Without limiting the foregoing, the Pledge previously granted and effected pursuant to the Original Collateral Agreement remains and shall continue in full force and effect on and after the date hereof with the priority in effect as established in the Original Collateral Agreement. Except as expressly amended hereby, the Original Collateral Agreement shall remain and continue in full force and effect in accordance with its terms. 
+
+\centered * * * * 
+
+This instrument may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all such counterparts shall together constitute but one and the same instrument. 
+
+Collateral Agreement  
+
+^^^^^ 
+**In Witness Whereof**, the parties hereto have caused this Agreement to be duly executed as of the day and year first above written. 
+
+\centered 
+
+**U.S. Bancorp**    **USB Capital IX** 
+
+[[U.S. Bancorp    USB Capital IX Signatory Email: Identity | Signature]]
 __________________________________________
-{{Executive Entity => By: [[Executive Signatory First Name]] [[Executive Signatory Last Name]]
-Title: [[Executive Signatory Title]]}}
+{{U.S. Bancorp    USB Capital IX Entity => By: [[U.S. Bancorp    USB Capital IX Signatory First Name]] [[U.S. Bancorp    USB Capital IX Signatory Last Name]]
+Title: [[U.S. Bancorp    USB Capital IX Signatory Title]]}}
 
 
-Date:   [[Date 1]]      Position:   Chief Executive Officer 
+Name: Title: 
 
-Date:   [[Date 1]] 
+[[Name Title Signatory Email: Identity | Signature]]
+__________________________________________
+{{Name Title Entity => By: [[Name Title Signatory First Name]] [[Name Title Signatory Last Name]]
+Title: [[Name Title Signatory Title]]}}
+
+Address for Notices:    Address for Notices: 
+
+U.S. Bancorp    Wilmington Trust Company, 800 Nicollet Mall    as Property Trustee of [[Address 12: Address]]    USB Capital IX Attention: Treasury Department    Rodney Square North Facsimile: [[Phone 1]]    [[Address 13: Address]]-1600 Attention: Corporate Trust Administration Facsimile: [[Phone 2]] 
+
+**U.S. Bank National Association**, as Collateral Agent, Securities Intermediary, Custodial Agent and Securities Registrar 
+
+[[U.S. Bank National Association as Collateral Agent Securities Intermediary Custodial Agent and Securities Registrar Signatory Email: Identity | Signature]]
+__________________________________________
+{{U.S. Bank National Association as Collateral Agent Securities Intermediary Custodial Agent and Securities Registrar Entity => By: [[U.S. Bank National Association as Collateral Agent Securities Intermediary Custodial Agent and Securities Registrar Signatory First Name]] [[U.S. Bank National Association as Collateral Agent Securities Intermediary Custodial Agent and Securities Registrar Signatory Last Name]]
+Title: [[U.S. Bank National Association as Collateral Agent Securities Intermediary Custodial Agent and Securities Registrar Signatory Title]]}}
+
+Address for Notices: 100 Wall Street, 16th Floor [[Address 14: Address]] Attention: Facsimile: [[Phone 3]]  
+
+Collateral Agreement  
+
+^^^^^ 
+**Exhibit A**  
+
+\centered FORM OF NORMAL ITS CERTIFICATE 
+
+{*For inclusion in Global Certificates only*  THIS CERTIFICATE IS A GLOBAL CERTIFICATE WITHIN THE MEANING OF THE TRUST AGREEMENT HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF THE DEPOSITORY TRUST COMPANY (THE “DEPOSITARY”) OR ITS NOMINEE. THIS CERTIFICATE IS EXCHANGEABLE FOR CERTIFICATES REGISTERED IN THE NAME OF A PERSON OTHER THAN THE DEPOSITARY OR ITS NOMINEE ONLY IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE TRUST AGREEMENT AND NO TRANSFER OF THIS CERTIFICATE (OTHER THAN A TRANSFER OF THIS CERTIFICATE AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY) MAY BE REGISTERED EXCEPT IN LIMITED CIRCUMSTANCES. 
+
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR SUCH OTHER NAME AS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY (AND ANY PAYMENT HEREON IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.} 
+
+\centered 
+
+No.    Number of Normal ITS: CUSIP No.  
+
+\centered USB Capital IX 
+
+\centered Normal ITS 
+
+This Normal ITS Certificate certifies that { } is the registered Holder of the number of Normal ITS set forth above {*for inclusion in Global Certificates only* - or such other number of Normal ITS reflected in the Schedule of Increases and Decreases in the Global Certificate attached hereto}. Each Normal ITS represents a beneficial interest in USB Capital IX (the “*Trust*”), having a Liquidation Amount of $[[USD Value 5: Number]] The Normal ITS are transferable on the books and records of the Trust, in person or by a duly authorized attorney, upon surrender of this certificate duly endorsed and in proper form for transfer as provided in Section 5.4 of the Trust Agreement (as defined below). The designations, rights, privileges, restrictions, preferences and other terms and provisions of the Normal ITS are set forth in, and this certificate and the Normal ITS represented hereby are issued and shall in all respects be subject to the terms and provisions of the Amended and Restated Trust Agreement of the Trust, dated as of [[Date 1]], as the same may be amended and restated from time to time (the “*Trust Agreement*”), including the designation of the terms of the Normal ITS as set forth therein. The Holder is entitled to the benefits of the Guarantee Agreement entered into by the Depositor and Wilmington Trust Company, as Guarantee Trustee, dated as of [[Date 1]] (the “*Guarantee Agreement*”). All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. 
+
+Collateral Agreement  
+
+\centered A-1 
+
+^^^^^ 
+5.13(b) of the Trust Agreement provides for the procedures pursuant to which Holders of Normal ITS may exchange Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS and Section 5.14(d) of the Trust Agreement provides for the procedures pursuant to which Holders of Normal ITS may elect to exchange Normal ITS and Qualifying Treasury Securities for Stripped ITS and Capital ITS in the event a Remarketing is Successful. The forms of Stripping Notice and Request and Notice of Contingent Exchange Election required to be delivered in connection therewith are printed on the reverse hereof. 
+
+^copy of each of the Trust Agreement and the Guarantee Agreement is available for inspection at the offices of the Property Trustee. 
+
+Upon receipt of this certificate, the Holder is bound by the Trust Agreement and is entitled to the benefits thereof. 
+
+IN WITNESS WHEREOF, the Trust acting through one of its Administrative Trustees has executed this Normal ITS Certificate. 
+
+USB CAPITAL IX, acting through one of its Administrative Trustees
+[[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Email: Identity | Signature]]
+__________________________________________
+{{USB CAPITAL IX acting through one of its Administrative Trustees Entity => By: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory First Name]] [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Last Name]]
+Title: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Title]]}}
+
+Date:
+
+Collateral Agreement  
+
+\centered A-2 
+
+^^^^^ 
+
+\centered ABBREVIATIONS 
+
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations: 
+
+\centered 
+
+TEN COM:    as tenants in common 
+
+UNIF GIFT MIN ACT:        Custodian        (cust)(minor) Under 
+
+Uniform Gifts to Minors Act of 
+
+TENANT:    as tenants by the entireties 
+
+JT TEN:    as joint tenants with right of survivorship and not as tenants in common  
+
+Additional abbreviations may also be used though not in the above list. 
+
+FOR VALUE RECEIVED, the undersigned hereby sell(s), assign(s) and transfer(s) unto 
+
+\centered (Please insert Social Security or Taxpayer I.D.  or other Identifying Number of Assignee) 
+
+\centered (Please print or type name and address including Postal Zip Code of Assignee) 
+
+the within Normal ITS Certificates and all rights thereunder, hereby irrevocably constituting and appointing attorney , to transfer said Normal ITS Certificates on the books of U.S. Bancorp, with full power of substitution in the premises. 
+
+\centered 
+
+Dated:    Signature NOTICE: The signature to this assignment must correspond with the name as it appears upon the face of the within Normal ITS Certificates in every particular, without alteration or enlargement or any change whatsoever.  
+
+Signature Guarantee:  
+Collateral Agreement  
+
+\centered A-3 
+
+^^^^^ 
+\centered FORM OF STRIPPING NOTICE AND REQUEST 
+
+U.S. Bank National Association,
+
+as Collateral Agent and Securities Registrar
+
+100 Wall Street, 16th Floor
+
+[[Address 14: Address]] 
+
+Re: Normal ITS of USB Capital IX  
+
+The undersigned Holder hereby notifies you pursuant to Section 5.13(b) of the Amended and Restated Trust Agreement, dated as of [[Date 1]] and as amended as of [  ], 2010, of USB Capital IX (as the same may be further amended from time to time, the “*Trust Agreement*”), among U.S. Bancorp, as Depositor, Wilmington Trust Company, as Property Trustee, Wilmington Trust Company, as Delaware Trustee, the Administrative Trustees (as named therein) and the several Holders of the Trust Securities, and Section 6.02 of the Collateral Agreement, that the Holder: 
+
+^^^is depositing the appropriate Qualifying Treasury Securities with U.S. Bank National Association, as Collateral Agent, for deposit in the Collateral Account, 
+
+^^^is transferring the related Normal ITS to the Securities Registrar in connection with an Exchange of such Normal ITS and Qualifying Treasury Securities for a Like Amount of Stripped ITS and Capital ITS, and 
+
+^^^hereby requests the delivery to the Holder of such Stripped ITS and Capital ITS. 
+
+All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. The undersigned Holder has paid all applicable fees and expenses relating to such Exchange. 
+
+\centered 
+
+Date: 
+
+Signature Guarantee: 
+
+Please print name and address of Registered Holder: 
+
+Name    Social Security or other Taxpayer Identification Number, if any 
+
+Address  
+
+Collateral Agreement  
+
+\centered A-4 
+
+^^^^^ 
+\centered FORM OF NOTICE OF CONTINGENT EXCHANGE ELECTION 
+
+U.S. Bank National Association,
+
+as Collateral Agent and Securities Registrar
+
+100 Wall Street, 16th Floor
+
+[[Address 14: Address]] 
+
+Re: Normal ITS of USB Capital IX  
+
+The undersigned Holder hereby notifies you pursuant to Section 5.14(d) of the Amended and Restated Trust Agreement, dated as of [[Date 1]] and as amended as of [  ], 2010, of USB Capital IX (as the same may be further amended from time to time, the “Trust Agreement”), among U.S. Bancorp, as Depositor, Wilmington Trust Company, as Property Trustee, Wilmington Trust Company, as Delaware Trustee, the Administrative Trustees (as named therein) and the several Holders of the Trust Securities, and Section 8.02 of the Collateral Agreement, that the Holder: 
+
+^^^is depositing the appropriate Qualifying Treasury Securities with U.S. Bank National Association, as Collateral Agent, for deposit in the Collateral Account, 
+
+^^^is transferring the related Normal ITS to the Securities Registrar in connection with a Contingent Exchange Election of such Normal ITS and Qualifying Treasury Securities for a Like Amount of Stripped ITS and Capital ITS, and 
+
+^^^hereby requests the delivery to the Holder of such Stripped ITS and Capital ITS if the upcoming Remarketing is Successful, it being understood that if such Remarketing is not Successful, this Notice shall be disregarded and the Collateral Agent shall return such Qualifying Treasury Securities to the Holder promptly after the Remarketing. 
+
+All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. The undersigned Holder has paid all applicable fees and expenses relating to such Contingent Exchange Election. 
+
+\centered 
+
+Date: 
+
+Signature Guarantee: 
+
+Please print name and address of Registered Holder: 
+
+Name    Social Security or other Taxpayer Identification Number, if any 
+
+Address  
+
+Collateral Agreement  
+
+\centered A-5 
+
+^^^^^ 
+\centered {TO BE ATTACHED TO GLOBAL CERTIFICATES} 
+
+\centered SCHEDULE OF INCREASES AND DECREASES IN GLOBAL CERTIFICATE 
+
+\centered The following increases or decreases in this Global Certificate have been made: 
+
+\centered 
+
+Amount of increase in    Amount of decrease in    Number of Normal ITS Number of Normal ITS    Number of Normal ITS    evidenced by this Global    Signature of authorized evidenced by this    evidenced by this Global    Certificate following such    signatory of Securities Global Certificate    Certificate    decrease or increase    Registrar 
+
+Collateral Agreement  
+
+\centered A-6 
+
+^^^^^ 
+**Exhibit B**  
+
+\centered FORM OF STRIPPED ITS CERTIFICATE 
+
+{*For inclusion in Global Certificates only*  THIS CERTIFICATE IS A GLOBAL CERTIFICATE WITHIN THE MEANING OF THE TRUST AGREEMENT HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF THE DEPOSITORY TRUST COMPANY (THE “DEPOSITARY”) OR ITS NOMINEE. THIS CERTIFICATE IS EXCHANGEABLE FOR CERTIFICATES REGISTERED IN THE NAME OF A PERSON OTHER THAN THE DEPOSITARY OR ITS NOMINEE ONLY IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE TRUST AGREEMENT AND NO TRANSFER OF THIS CERTIFICATE (OTHER THAN A TRANSFER OF THIS CERTIFICATE AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY) MAY BE REGISTERED EXCEPT IN LIMITED CIRCUMSTANCES. 
+
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR SUCH OTHER NAME AS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY (AND ANY PAYMENT HEREON IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.} 
+
+\centered 
+
+No.    Number of Stripped ITS: CUSIP No.  
+
+\centered USB Capital IX 
+
+\centered Stripped ITS 
+
+This Stripped ITS Certificate certifies that { } is the registered Holder of the number of Stripped ITS set forth above {*for inclusion in Global Certificates only* - or such other number of Stripped ITS reflected in the Schedule of Increases and Decreases in the Global Certificate attached hereto}. Each Stripped ITS represents a beneficial interest in USB Capital IX (the “*Trust*”), having a Liquidation Amount of $[[USD Value 5]] The Stripped ITS are transferable on the books and records of the Trust, in person or by a duly authorized attorney, upon surrender of this certificate duly endorsed and in proper form for transfer as provided in Section 5.4 of the Trust Agreement (as defined below). The designations, rights, privileges, restrictions, preferences and other terms and provisions of the Stripped ITS are set forth in, and this certificate and the Stripped ITS represented hereby are issued and shall in all respects be subject to the terms and provisions of the Amended and Restated Trust Agreement of the Trust, dated as of [[Date 1]], as the same may be amended and restated from time to time (the “*Trust Agreement*”), including the designation of the terms of the Stripped ITS as set forth therein. The Holder is entitled to the benefits of the Guarantee Agreement entered into by the Depositor and Wilmington Trust Company, as Guarantee Trustee, dated as of [[Date 1]] (the “*Guarantee Agreement*”). All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. 
+
+Collateral Agreement  
+
+\centered B-1 
+
+^^^^^ 
+5.13(d) of the Trust Agreement provides for the procedures pursuant to which Holders of Capital ITS and Stripped ITS may exchange them for Normal ITS and Qualifying Treasury Securities. The form of Recombination Notice required to be delivered in connection therewith is printed on the reverse hereof. 
+
+^copy of each of the Trust Agreement and the Guarantee Agreement is available for inspection at the offices of the Property Trustee. 
+
+Upon receipt of this certificate, the Holder is bound by the Trust Agreement and is entitled to the benefits thereof. 
+
+IN WITNESS WHEREOF, the Trust acting through one of its Administrative Trustees has executed this Stripped ITS Certificate. 
+
+USB CAPITAL IX, acting through one of its Administrative Trustees
+[[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Email: Identity | Signature]]
+__________________________________________
+{{USB CAPITAL IX acting through one of its Administrative Trustees Entity => By: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory First Name]] [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Last Name]]
+Title: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Title]]}}
+
+Date:
+
+Collateral Agreement  
+
+\centered B-2 
+
+^^^^^ 
+\centered ABBREVIATIONS 
+
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations: 
+
+\centered 
+
+TEN COM:    as tenants in common 
+
+UNIF GIFT MIN ACT:        Custodian        (cust)(minor) Under 
+
+Uniform Gifts to Minors Act of 
+
+TENANT:    as tenants by the entireties 
+
+JT TEN:    as joint tenants with right of survivorship and not as tenants in common  
+
+FOR VALUE RECEIVED, the undersigned hereby sell(s), assign(s) and transfer(s) unto 
+
+\centered (Please insert Social Security or Taxpayer I.D.  or other Identifying Number of Assignee) 
+
+\centered (Please print or type name and address including Postal Zip Code of Assignee) 
+
+the within Stripped ITS Certificates and all rights thereunder, hereby irrevocably constituting and appointing attorney , to transfer said Stripped ITS Certificates on the books of U.S. Bancorp, with full power of substitution in the premises. 
+
+\centered 
+
+Dated:    Signature NOTICE: The signature to this assignment must correspond with the name as it appears upon the face of the within Stripped ITS Certificates in every particular, without alteration or enlargement or any change whatsoever.  
+
+Signature Guarantee:  
+Collateral Agreement  
+
+\centered B-3 
+
+^^^^^ 
+\centered FORM OF RECOMBINATION NOTICE AND REQUEST 
+
+U.S. Bank National Association,
+
+as Collateral Agent and Securities Registrar
+
+100 Wall Street, 16th Floor
+
+[[Address 14: Address]] 
+
+Re: Stripped ITS and Capital ITS of USB Capital IX 
+
+The undersigned Holder hereby notifies you pursuant to Section 5.13(d) of the Amended and Restated Trust Agreement, dated as of [[Date 1]] and as amended as of [  ], 2010, of USB Capital IX (as the same may be further amended from time to time, the “*Trust Agreement*”), among U.S. Bancorp, as Depositor, Wilmington Trust Company, as Property Trustee, Wilmington Trust Company, as Delaware Trustee, the Administrative Trustees (as named therein) and the several Holders of the Trust Securities, and Section 6.03 of the Collateral Agreement, that the Holder: 
+
+^^^is transferring $ Liquidation Amount of Stripped ITS and Capital ITS in connection with an Exchange of such Stripped ITS and Capital ITS for a Like Amount of Normal ITS and Qualifying Treasury Securities, 
+
+^^^hereby requests the Collateral Agent to release from the Pledge and deliver to the Holder Pledged Treasury Securities in a principal amount equal to such Liquidation Amount, and 
+
+^^^hereby requests the delivery to the Holder of such Normal ITS of a Like Amount. 
+
+All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. The undersigned Holder has paid all applicable fees and expenses relating to such Exchange. 
+
+\centered 
+
+Date: 
+
+Signature Guarantee: 
+
+Please print name and address of Registered Holder: 
+
+Name    Social Security or other Taxpayer Identification Number, if any 
+
+Address  
+
+Collateral Agreement  
+
+\centered B-4 
+
+^^^^^ 
+\centered {TO BE ATTACHED TO GLOBAL CERTIFICATES} 
+
+\centered SCHEDULE OF INCREASES AND DECREASES IN GLOBAL CERTIFICATE 
+
+\centered The following increases or decreases in this Global Certificate have been made: 
+
+\centered 
+
+Amount of increase in    Amount of decrease in    Number of Stripped ITS Number of Stripped ITS    Number of Stripped ITS    evidenced by this Global    Signature of authorized evidenced by this    evidenced by this Global    Certificate following such    signatory of Securities Global Certificate    Certificate    decrease or increase    Registrar 
+
+Collateral Agreement  
+
+\centered B-5 
+
+^^^^^ 
+**Exhibit C**  
+
+\centered FORM OF CAPITAL ITS CERTIFICATE 
+
+{*For inclusion in Global Certificates only*  THIS CERTIFICATE IS A GLOBAL CERTIFICATE WITHIN THE MEANING OF THE TRUST AGREEMENT HEREINAFTER REFERRED TO AND IS REGISTERED IN THE NAME OF THE DEPOSITORY TRUST COMPANY (THE “DEPOSITARY”) OR ITS NOMINEE. THIS CERTIFICATE IS EXCHANGEABLE FOR CERTIFICATES REGISTERED IN THE NAME OF A PERSON OTHER THAN THE DEPOSITARY OR ITS NOMINEE ONLY IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE TRUST AGREEMENT AND NO TRANSFER OF THIS CERTIFICATE (OTHER THAN A TRANSFER OF THIS CERTIFICATE AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY) MAY BE REGISTERED EXCEPT IN LIMITED CIRCUMSTANCES. 
+
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR SUCH OTHER NAME AS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY (AND ANY PAYMENT HEREON IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITARY), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL SINCE THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.} 
+
+\centered 
+
+No.    Number of Capital ITS: CUSIP No.  
+
+\centered USB Capital IX 
+
+\centered Capital ITS 
+
+This Capital ITS Certificate certifies that { } is the registered Holder of the number of Capital ITS set forth above {*for inclusion in Global Certificates only* - or such other number of Capital ITS reflected in the Schedule of Increases and Decreases in the Global Certificate attached hereto}. Each Capital ITS represents a beneficial interest in USB Capital IX (the “Trust”), having a Liquidation Amount of $[[USD Value 5]] The Capital ITS are transferable on the books and records of the Trust, in person or by a duly authorized attorney, upon surrender of this certificate duly endorsed and in proper form for transfer as provided in Section 5.4 of the Trust Agreement (as defined below). The designations, rights, privileges, restrictions, preferences and other terms and provisions of the Capital ITS are set forth in, and this certificate and the Capital ITS represented hereby are issued and shall in all respects be subject to the terms and provisions of the Amended and Restated Trust Agreement of the Trust, dated as of [[Date 1]], as the same may be amended and restated from time to time (the “*Trust Agreement*”), including the designation of the terms of the Capital ITS as set forth therein. The Holder is entitled to the benefits of the Guarantee Agreement entered into by the Depositor and Wilmington Trust Company, as Guarantee Trustee, dated as of [[Date 1]] (the “*Guarantee Agreement*”). All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. 
+
+Collateral Agreement  
+
+\centered C-1 
+
+^^^^^ 
+5.13(d) of the Trust Agreement provides for the procedures pursuant to which Holders of Capital ITS and Stripped ITS may exchange them for Normal ITS and Qualifying Treasury Securities and Section 5.14(f) of the Trust Agreement provides for the procedures pursuant to which Holders of Capital ITS may elect to dispose of Capital ITS in the event a Remarketing is Successful. The forms of Recombination Notice and Request and Notice of Contingent Disposition Election required to be delivered in connection therewith are printed on the reverse hereof. 
+
+^copy of each of the Trust Agreement and the Guarantee Agreement is available for inspection at the offices of the Property Trustee. 
+
+Upon receipt of this certificate, the Holder is bound by the Trust Agreement and is entitled to the benefits thereof. 
+
+IN WITNESS WHEREOF, the Trust acting through one of its Administrative Trustees has executed this Capital ITS Certificate. 
+
+USB CAPITAL IX, acting through one of its Administrative Trustees
+[[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Email: Identity | Signature]]
+__________________________________________
+{{USB CAPITAL IX acting through one of its Administrative Trustees Entity => By: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory First Name]] [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Last Name]]
+Title: [[USB CAPITAL IX acting through one of its Administrative Trustees Signatory Title]]}}
+
+Date:
+
+Collateral Agreement  
+
+\centered C-2 
+
+^^^^^ 
+
+\centered ABBREVIATIONS 
+
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations: 
+
+\centered 
+
+TEN COM:    as tenants in common 
+
+UNIF GIFT MIN ACT:        Custodian        (cust)(minor) Under 
+
+Uniform Gifts to Minors Act of 
+
+TENANT:    as tenants by the entireties 
+
+JT TEN:    as joint tenants with right of survivorship and not as tenants in common  
+
+Additional abbreviations may also be used though not in the above list. 
+
+FOR VALUE RECEIVED, the undersigned hereby sell(s), assign(s) and transfer(s) unto 
+
+\centered (Please insert Social Security or Taxpayer I.D.  or other Identifying Number of Assignee) 
+
+\centered (Please print or type name and address including Postal Zip Code of Assignee) 
+
+the within Capital ITS Certificates and all rights thereunder, hereby irrevocably constituting and appointing attorney , to transfer said Capital ITS Certificates on the books of U.S. Bancorp, with full power of substitution in the premises. 
+
+\centered 
+
+Dated:    Signature NOTICE: The signature to this assignment must correspond with the name as it appears upon the face of the within Capital ITS Certificates in every particular, without alteration or enlargement or any change whatsoever.  
+
+Collateral Agreement  
+
+\centered C-3 
+
+^^^^^ 
+\centered FORM OF RECOMBINATION NOTICE AND REQUEST 
+
+U.S. Bank National Association
+
+as Collateral Agent and Securities Registrar
+
+100 Wall Street, 16th Floor
+
+[[Address 14: Address]] 
+
+Re: Stripped ITS and Capital ITS USB Capital IX 
+
+The undersigned Holder hereby notifies you pursuant to Section 5.13(d) of the Amended and Restated Trust Agreement, dated as of [[Date 1]] and as amended as of [  ], 2010, of USB Capital IX (as the same may be further amended from time to time, the “*Trust Agreement*”), among U.S. Bancorp, as Depositor, Wilmington Trust Company, as Property Trustee, Wilmington Trust Company, as Delaware Trustee, the Administrative Trustees (as named therein) and the several Holders of the Trust Securities, and Section 6.03(a) of the Collateral Agreement that the Holder: 
+
+^^^is transferring $ Liquidation Amount of Stripped ITS and Capital ITS in connection with an Exchange of such Stripped ITS and Capital ITS for a Like Amount of Normal ITS and Qualifying Treasury Securities, 
+
+^^^hereby requests the Collateral Agent to release from the Pledge and deliver to the Holder Pledged Treasury Securities in a principal amount equal to such Liquidation Amount, and 
+
+^^^hereby requests the delivery to the Holder of such Normal ITS of a Like Amount. 
+
+All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. The undersigned Holder has paid all applicable fees and expenses relating to such Exchange. 
+
+\centered 
+
+Date: 
+
+Signature Guarantee: 
+
+Please print name and address of Registered Holder: 
+
+Name    Social Security or other Taxpayer Identification Number, if any 
+
+Address  
+
+Collateral Agreement  
+
+\centered C-4 
+
+^^^^^ 
+\centered FORM OF NOTICE OF CONTINGENT DISPOSITION ELECTION 
+
+U.S. Bank National Association
+
+as Collateral Agent and Securities Registrar
+
+100 Wall Street, 16th Floor
+
+[[Address 14: Address]] 
+
+Re: Normal ITS of USB Capital IX  
+
+The undersigned Holder hereby notifies you pursuant to Section 5.14(f) of the Amended and Restated Trust Agreement, dated as of [[Date 1]] and as amended as of [  ], 2010, of USB Capital IX (as the same may be further amended from time to time, the “Trust Agreement”), among U.S. Bancorp, as Depositor, Wilmington Trust Company, as Property Trustee, Wilmington Trust Company, as Delaware Trustee, the Administrative Trustees (as named therein) and the several Holders of the Trust Securities, and Section 8.03 of the Collateral Agreement, that the Holder: 
+
+^^^is transferring  Capital ITS to the Securities Registrar, and 
+
+^^^hereby requests the payment to the Holder, if the upcoming Remarketing is Successful, of an amount in cash for each such Capital ITS equal to the proceeds of the sale of $[[USD Value 3]] principal amount of Notes, it being understood that if such Remarketing is not Successful, this Notice shall be disregarded. 
+
+All capitalized terms used herein that are defined in the Trust Agreement have the meaning set forth therein. The undersigned Holder has paid all applicable fees and expenses relating to such Contingent Exchange Election. 
+
+\centered 
+
+Date: 
+
+Signature Guarantee: 
+
+Please print name and address of Registered Holder: 
+
+Name    Social Security or other Taxpayer Identification Number, if any 
+
+Address  
+
+Collateral Agreement  
+
+\centered C-5 
+
+^^^^^ 
+\centered {TO BE ATTACHED TO GLOBAL CERTIFICATES} 
+
+\centered SCHEDULE OF INCREASES AND DECREASES IN GLOBAL CERTIFICATE 
+
+\centered The following increases or decreases in this Global Certificate have been made: 
+
+\centered 
+
+Amount of increase in    Amount of decrease in    Number of Capital ITS Number of Capital ITS    Number of Capital ITS    evidenced by this Global    Signature of authorized evidenced by this    evidenced by this Global    Certificate following such    signatory of Securities Global Certificate    Certificate    decrease or increase    Registrar 
+
+Collateral Agreement  
+
+\centered C-6 
+
+^^^^^ 
+**Schedule I**  
+
+\centered Reference Dealers 
+
+U.S. Bank National Association  
+Goldman Sachs & Co.  
+Citigroup  
+Collateral Agreement  
+
+^^^^^ 
+**Schedule II**  
+
+\centered Contact Persons for Confirmation 
+
+\centered 
+
+**Name**    **Phone Number** Kenneth D. Nelson    [[Phone 4]]  
+
+Collateral Agreement
