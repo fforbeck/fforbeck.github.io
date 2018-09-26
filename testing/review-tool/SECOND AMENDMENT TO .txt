@@ -1,108 +1,246 @@
-\centered **SECOND AMENDMENT TO CREDIT AGREEMENT** 
+[PEABODY] 
 
-THIS SECOND AMENDMENT TO CREDIT AGREEMENT is made as of [[Date 1: Date]] (the ***“Second Amendment to Credit Agreement,”*** or this ***“Amendment”***), among Diodes Incorporated, a Delaware corporation, and Diodes Zetex Limited, a United Kingdom corporation (collectively, “***Borrowers***”), and Bank of America, N.A. (***“Lender”***). 
+\centered **SECOND AMENDMENT TO THE THIRD AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT** 
 
-\centered R E C I T A L S 
+THIS SECOND AMENDMENT TO THE THIRD AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is entered into by and among [[Seller]], a [[State of Formation: State]] [[Organization: EntityType]], as seller (the “Seller”), PEABODY ENERGY CORPORATION, a [[State of Formation: State]] [[Organization: EntityType]], as initial servicer (the “Servicer”), the various Sub-Servicers listed on the signature pages hereto (the “Sub-Servicers”), the Purchaser Agents (the “Purchaser Agents”) and the LC Participants listed on the signature pages hereto, and PNC BANK, NATIONAL ASSOCIATION, as Administrator (the “Administrator”) and as LC Bank. 
 
-^Borrowers and Lender are parties to that certain Credit Agreement dated as of [[Date 2: Date]], as modified pursuant to the terms of that certain letter dated as of [[Date 3: Date]] from Administrative Agent to Borrowers and as modified by a First Amendment to Credit Agreement dated as of [[Date 4: Date]] (the ***“Original Credit Agreement”***). 
+\centered RECITALS 
 
-^The parties desire to amend the Original Credit Agreement as hereinafter provided. 
+^The parties hereto are parties to that certain Third Amended and Restated Receivables Purchase Agreement, dated as of [[Date 2: Date]] (as amended, amended and restated, supplemented or otherwise modified through the date hereof, the “Agreement”). 
 
-NOW, THEREFORE, in consideration of these premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+^Concurrently herewith, the Fee Letter for each Purchaser Group is being amended and restated by the parties thereto (each such amended and restated Fee Letter, an “A&R Fee Letter”). 
 
-^**Same Terms****.** All terms used herein which are defined in the Original Credit Agreement shall have the same meanings when used herein, unless the context hereof otherwise requires or provides. In addition, all references in the Loan Documents to the “Agreement” shall mean the Original Credit Agreement, as amended by this Second Amendment to Credit Agreement, as the same shall hereafter be amended from time to time. In addition, the following term has the meaning set forth below: 
+^The parties hereto desire to amend the Agreement as hereinafter set forth. 
 
-“***Effective Date”*** means [[Date 1]]. 
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
 
-^**Amendment to Original Credit Agreement****.** On the Effective Date, the definition of “Maturity Date” set forth in the Original Credit Agreement shall be amended as follows: 
+^*Certain Defined Terms*. Capitalized terms that are used but not defined herein shall have the meanings set forth in the Agreement. 
 
-“Maturity Date” means [[Date 5: Date]]. 
+^*Amendments to the Agreement*. The Agreement is hereby amended as follows: 
 
-^**Certain Representations****.** Each Borrower represents and warrants that, as of the Effective Date: (a) each Loan Party has full power and authority to execute this Amendment, and this Amendment executed by each Loan Party constitutes the legal, valid and binding obligation of such Loan Party enforceable in accordance with its terms, except as enforceability may be limited by general principles of equity and applicable bankruptcy, insolvency, reorganization, moratorium, and other similar laws affecting the enforcement of creditors’ rights generally; (b) each Security Document remains in full force and effect; and (c) no authorization, approval, consent or other action by, notice to, or filing with, any governmental authority or other person is required for the execution, delivery and performance by each Loan Party thereof except for the approvals, consents, and authorizations, which have been duly obtained, taken, given, or made and are in full force and effect. In addition, each Borrower represents that all representations and warranties contained in the Original Credit Agreement are true and correct in all material respects on and as of the Effective Date except to the extent that such representations and warranties specifically refer to an earlier date, in which case they shall be true and correct as of such earlier date. 
+^^Section 5.3 of the Agreement is amended by adding thereto the following new clause (g) immediately following existing clause (f) thereof: 
 
-^**Limitation on Agreements****.** The modifications set forth herein are limited precisely as written and shall not be deemed (a) to be a consent under or a waiver of or an amendment to any other term or condition in the Original Credit Agreement or any of the Loan Documents, or (b) to prejudice any right or rights which Lender now has or may have in the future under or in connection with the Original Credit Agreement and the Loan Documents, each as amended hereby, or any of the other documents referred to herein or therein. This Amendment shall constitute a Loan Document for all purposes. 
+^^In addition to the foregoing and notwithstanding any otherwise applicable limitations on, or requirements for, pledges, assignments and participations set forth in this Section 5.3, any Purchaser may pledge, participate or assign any of its rights (including, without limitation, rights to payment of Capital and Discount) under this Agreement or the other Transaction Documents to any Federal Reserve Bank (including any grant of a security interest in such rights to secure such Purchaser’s obligations to such Federal Reserve Bank) without notice to or consent of any other party to this Agreement or to the other Transaction Documents; provided that no such pledge, participation or assignment shall release such Purchaser from any of its obligations hereunder or substitute any such pledge, participant or assignee for such Purchaser as a party hereto. 
 
-^**Counterparts****.** This Amendment may be executed in any number of counterparts, each of which when executed and delivered shall be deemed an original, but all of which constitute one instrument. In making proof of this Amendment, it shall not be necessary to produce or account for more than one counterpart thereof signed by each of the parties hereto. 
+^^Clause (a) of the definition of “Eligible Receivable” set forth in Exhibit I of the Agreement is amended by replacing the percentage “[[Percentage 1: Number]]%” where it appears in sub-clause (i)(C) thereof with the percentage “[[Percentage 2: Number]]%”. 
 
-^^^^^ 
-^**Incorporation of Certain Provisions by Reference****.** The provisions of Section 9.13 of the Original Credit Agreement captioned “Governing Law; Jurisdiction; Etc.” and the provisions of Section 9.14 of the Original Credit Agreement captioned “Dispute Resolution Provision” are incorporated herein by reference for all purposes. 
+^^Pursuant to Section 1.12 of the Agreement, the Facility Termination Date scheduled to occur on [[Date 1]] pursuant to the clause (d) of the definition thereof is hereby extended to [[Date 3: Date]], and the definition of “Facility Termination Date” set forth in Exhibit I of the Agreement is amended by replacing the date “[[Date 1]]” where it appears in clause (d) thereof with the date “[[Date 3]]”. 
 
-^**Entirety and Etc****.** This Amendment and all of the other Loan Documents embody the entire agreement between the parties. THIS AMENDMENT AND ALL OF THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. 
+^^Existing Schedule II to the Agreement is replaced in its entirety with new Schedule II attached hereto. 
 
-\centered [Remainder of Page Intentionally Blank; Signatures Begin on Next Page] 
+^*Representations and Warranties*. Each of the Seller, the Servicer and the Sub-Servicers hereby represents and warrants to the Administrator and the Purchasers as follows: 
 
-^^^^^ 
-IN WITNESS WHEREOF, the parties hereto have executed this Amendment to be effective as of the Effective Date. 
+^^Representations and Warranties. Both immediately prior to, and immediately after, giving effect to this Amendment, the representations and warranties made by such Person in the Agreement and the other Transaction Documents to which it is a party are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date). 
 
-\centered 
+^^Enforceability. The execution and delivery by such Person of this Amendment, and the performance of each of its obligations under this Amendment and the Agreement, as amended hereby, are within each of its corporate powers and have been duly authorized by all necessary corporate action on its part. This Amendment and the Agreement, as amended hereby, are such Person’s valid and legally binding obligations, enforceable in accordance with its terms. 
 
-**BANK OF AMERICA, N.A.,** as Lender 
+^^No Default. Both immediately prior to, and immediately after, giving effect to this Amendment, no Termination Event or Unmatured Termination Event has occurred and is continuing. 
 
-[[BANK OF AMERICA N.A. as Lender Signatory Email: Identity | Signature]]
+^*Effect of Amendment*. All provisions of the Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Agreement (or in any other Transaction Document) to “this Agreement”, “hereof”, “herein” or words of similar effect referring to the Agreement shall be deemed to be references to the Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Agreement other than as set forth herein. 
+
+^*Conditions to Effectiveness*. This Amendment shall become effective as of the date hereof upon satisfaction of all of the following conditions precedent: 
+
+^^the Administrator shall have received counterparts of this Amendment executed by each of the parties hereto; 
+
+^^each Purchaser Agent shall have received counterparts of its Purchaser Group’s A&R Fee Letter duly executed by each of the parties thereto; 
+
+^^the Administrator shall have received counterparts to that certain Fourth Amendment to Lock-Box Agreement being entered into by the parties hereto and the Lock-Box Bank concurrently herewith duly executed by each of the parties thereto; and 
+
+^^to the extent required by the program documents governing the issuance of its Notes, each Conduit Purchaser (or its Purchaser Agent on its behalf) shall have received from each rating agency then rating such Notes written confirmation that the effectiveness of this Amendment will not cause the credit ratings of such Notes to be downgraded or withdrawn. 
+
+^*Counterparts*. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof. 
+
+^*Governing Law*. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of Illinois. 
+
+^*Section Headings*. The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Agreement or any provision hereof or thereof. 
+
+\centered *[Signature pages follow.]* 
+
+IN WITNESS WHEREOF, the parties have executed this Amendment as of the date first written above. 
+
+[[Seller]], 
+
+as Seller 
+
+[[As Seller Signatory Email: Identity | Signature]]
 __________________________________________
-{{BANK OF AMERICA N.A. as Lender Entity => By: [[BANK OF AMERICA N.A. as Lender Signatory First Name]] [[BANK OF AMERICA N.A. as Lender Signatory Last Name]]
-Title: [[BANK OF AMERICA N.A. as Lender Signatory Title]]}}
+{{As Seller Entity => By: [[As Seller Signatory First Name]] [[As Seller Signatory Last Name]]
+Title: [[As Seller Signatory Title]]}}
 
 
-Date:    [[Date 1]] 
+PEABODY ENERGY CORPORATION, 
 
-^^^^^ 
-\centered 
+as initial Servicer 
 
-**BORROWERS:** 
-
-DIODES INCORPORATED 
-
-[[DIODES INCORPORATED Signatory Email: Identity | Signature]]
+[[As initial Servicer Signatory Email: Identity | Signature]]
 __________________________________________
-{{DIODES INCORPORATED Entity => By: [[DIODES INCORPORATED Signatory First Name]] [[DIODES INCORPORATED Signatory Last Name]]
-Title: [[DIODES INCORPORATED Signatory Title]]}}
+{{As initial Servicer Entity => By: [[As initial Servicer Signatory First Name]] [[As initial Servicer Signatory Last Name]]
+Title: [[As initial Servicer Signatory Title]]}}
 
 
-Date:    [[Date 1]] 
+PEABODY ARCLAR MINING, 
 
-DIODES ZETEX LIMITED 
+as Sub-Servicer 
 
-[[DIODES ZETEX LIMITED Signatory Email: Identity | Signature]]
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
 __________________________________________
-{{DIODES ZETEX LIMITED Entity => By: [[DIODES ZETEX LIMITED Signatory First Name]] [[DIODES ZETEX LIMITED Signatory Last Name]]
-Title: [[DIODES ZETEX LIMITED Signatory Title]]}}
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
 
 
-Date:    [[Date 1]] 
+PEABODY MIDWEST MINING, 
 
-The terms of this Amendment are acknowledged and agreed to by Diodes Zetex Semiconductors Limited and the following Subsidiary Guarantors. 
+as Sub-Servicer 
 
-\centered 
-
-DIODES ZETEX SEMICONDUCTORS LIMITED 
-
-[[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Email: Identity | Signature]]
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
 __________________________________________
-{{DIODES ZETEX SEMICONDUCTORS LIMITED Entity => By: [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory First Name]] [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Last Name]]
-Title: [[DIODES ZETEX SEMICONDUCTORS LIMITED Signatory Title]]}}
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
 
 
-Date:    [[Date 1]] 
+TWENTYMILE COAL, 
 
-**SUBSIDIARY GUARANTORS:** 
+as Sub-Servicer 
 
-DIODES FABTECH INC. 
-
-[[DIODES FABTECH INC. Signatory Email: Identity | Signature]]
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
 __________________________________________
-{{DIODES FABTECH INC. Entity => By: [[DIODES FABTECH INC. Signatory First Name]] [[DIODES FABTECH INC. Signatory Last Name]]
-Title: [[DIODES FABTECH INC. Signatory Title]]}}
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
 
 
-Date:    [[Date 1]] 
+CABALLO COAL, 
 
-DIODES INVESTMENT COMPANY 
+as Sub-Servicer 
 
-[[DIODES INVESTMENT COMPANY Signatory Email: Identity | Signature]]
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
 __________________________________________
-{{DIODES INVESTMENT COMPANY Entity => By: [[DIODES INVESTMENT COMPANY Signatory First Name]] [[DIODES INVESTMENT COMPANY Signatory Last Name]]
-Title: [[DIODES INVESTMENT COMPANY Signatory Title]]}}
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
 
 
-Date:    [[Date 1]]
+COALSALES II, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+PEABODY WESTERN COAL COMPANY, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+POWDER RIVER COAL, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+PEABODY HOLDING COMPANY, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+PEABODY COALTRADE, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+PEABODY COALSALES, 
+
+as Sub-Servicer 
+
+[[As Sub-Servicer Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Sub-Servicer Entity => By: [[As Sub-Servicer Signatory First Name]] [[As Sub-Servicer Signatory Last Name]]
+Title: [[As Sub-Servicer Signatory Title]]}}
+
+
+PNC BANK, NATIONAL ASSOCIATION, 
+
+as Purchaser Agent for the Market Street Purchaser Group 
+
+[[As Purchaser Agent for the Market Street Purchaser Group Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Purchaser Agent for the Market Street Purchaser Group Entity => By: [[As Purchaser Agent for the Market Street Purchaser Group Signatory First Name]] [[As Purchaser Agent for the Market Street Purchaser Group Signatory Last Name]]
+Title: [[As Purchaser Agent for the Market Street Purchaser Group Signatory Title]]}}
+
+
+PNC BANK, NATIONAL ASSOCIATION, 
+
+as the LC Bank and as an LC Participant 
+
+[[As the LC Bank and as an LC Participant Signatory Email: Identity | Signature]]
+__________________________________________
+{{As the LC Bank and as an LC Participant Entity => By: [[As the LC Bank and as an LC Participant Signatory First Name]] [[As the LC Bank and as an LC Participant Signatory Last Name]]
+Title: [[As the LC Bank and as an LC Participant Signatory Title]]}}
+
+
+PNC BANK, NATIONAL ASSOCIATION, 
+
+as Administrator 
+
+[[As Administrator Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Administrator Entity => By: [[As Administrator Signatory First Name]] [[As Administrator Signatory Last Name]]
+Title: [[As Administrator Signatory Title]]}}
+
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK NEW 
+
+YORK BRANCH, 
+
+as Purchaser Agent for the Atlantic Purchaser Group 
+
+[[As Purchaser Agent for the Atlantic Purchaser Group Signatory Email: Identity | Signature]]
+__________________________________________
+{{As Purchaser Agent for the Atlantic Purchaser Group Entity => By: [[As Purchaser Agent for the Atlantic Purchaser Group Signatory First Name]] [[As Purchaser Agent for the Atlantic Purchaser Group Signatory Last Name]]
+Title: [[As Purchaser Agent for the Atlantic Purchaser Group Signatory Title]]}}
+
+
+[[Title Seller6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Seller6 Signatory Title}} Entity => By: [[Title Seller6 Signatory Title}} Signatory First Name]] [[Title Seller6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Seller6 Signatory Title}} Signatory Title]]}}
+
+
+CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK NEW 
+
+YORK BRANCH, 
+
+as an LC Participant 
+
+[[As an LC Participant Signatory Email: Identity | Signature]]
+__________________________________________
+{{As an LC Participant Entity => By: [[As an LC Participant Signatory First Name]] [[As an LC Participant Signatory Last Name]]
+Title: [[As an LC Participant Signatory Title]]}}
+
+
+[[Title Seller7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Seller7 Signatory Title}} Entity => By: [[Title Seller7 Signatory Title}} Signatory First Name]] [[Title Seller7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Seller7 Signatory Title}} Signatory Title]]}}
+
+

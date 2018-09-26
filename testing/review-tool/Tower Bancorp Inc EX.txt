@@ -1,0 +1,45 @@
+\centered **Tower Bancorp, Inc.** 
+
+\centered **EXECUTIVE INCENTIVE PLAN** 
+
+**Eligible Executive:** Amin, Renninger, Merrill, Tompkins, Lundblad 
+
+**Plan Features:** [[Percentage 1: Number]]% Holding Company Performance 
+
+**Award Date:** [[Date 1: Date]] 
+
+Total incentive bonus opportunity is [[Percentage 2: Number]]% of base pay earnings at threshold, [[Percentage 3: Number]]% of base pay earnings at target and [[Percentage 4: Number]]% of base pay earnings at maximum. 
+
+\centered **Holding Company Operating Earnings Per Share ([[Percentage 5: Number]]%)** 
+
+ For the year ending [[Date 2: Date]]
+ Operating Earnings are defined as GAAP net income less merger expense and  other non-recurring items as publicly reported.
+
+\centered **Target $[[USD Value 1: Number]]**      \centered **Bonus % (of base pay)**
+\centered Threshold > [[Percentage 6: Number]]%      Up to [[Percentage 7: Number]]%
+\centered Target >[[Percentage 1]]%      Up to [[Percentage 8: Number]]%
+\centered Optimum >[[Percentage 9: Number]]%      Up to [[Percentage 10: Number]]%
+
+\centered **Asset Quality ([[Percentage 11: Number]]%)** 
+
+\centered **Non-Performing Assets/Total Assets**   \centered **(as measured at the month-end prior to the month in which the effective**   \centered **date of the merger with First Chester County Corporation occurs)**      \centered **Bonus % (of base pay)**
+\centered Threshold: >150 bp      Up to [[Percentage 12: Number]]%
+\centered Target: 149-101 bp      Up to [[Percentage 13: Number]]%
+\centered Optimum: <100 bp      Up to [[Percentage 14: Number]]%
+
+\centered **Asset Quality ([[Percentage 15: Number]]%)** 
+
+\centered **Reduce Non-Performing Assets/Total Assets**   \centered **(as measured from the beginning of the month following the month in**   \centered **which the effective date of the merger with First Chester County Corporation occurs through 12/31/2010)**      \centered **Bonus % (of base pay)**
+\centered Threshold: Maintain at legal acquisition month-end level      Up to [[Percentage 16: Number]]%
+\centered Target: Reduction of [[Percentage 7]]%      Up to [[Percentage 7]]%
+\centered Optimum: Reduction of [[Percentage 2]]%      Up to [[Percentage 17: Number]]%
+
+**Qualifiers:** 
+
+      Must achieve satisfactory rating on all regulatory exams.
+
+      Executive must be employed on the date of payout.
+
+      Executive must achieve a rating of “Good” (3) or higher performance level.
+
+\centered *This plan may be altered, modified, or terminated at any time and without notice.

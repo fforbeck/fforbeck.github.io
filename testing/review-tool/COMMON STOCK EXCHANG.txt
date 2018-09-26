@@ -1,0 +1,257 @@
+\centered **COMMON STOCK EXCHANGE AGREEMENT** 
+
+COMMON STOCK EXCHANGE AGREEMENT (the “Agreement”), dated as of [[Date 1: Date]], by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[Warburg LLC]], a [[State of Formation: State]] [[Organization: EntityType]] (“Warburg LLC”), and [[Warburg]], a [[State of Formation: State]] [[Organization: EntityType]] (together with Warburg LLC, “Warburg”). 
+
+**WHEREAS**, Primerica, Citigroup Insurance Holding Corporation, a Georgia corporation (“CIHC”), Warburg Pincus Private Equity X, L.P., a Delaware limited partnership (“Warburg PE”), and Warburg Pincus X Partners, L.P., a Delaware limited partnership (together with Warburg PE, the “Original Investor”), entered into that certain Securities Purchase Agreement, dated as of [[Date 2: Date]] (the “Purchase Agreement”), pursuant to which CIHC agreed to sell to the Investor shares of common stock, par value $[[USD Value 1: Number]] per share, of the Company (“Common Stock”) and a Warrant (as defined in the Purchase Agreement); and 
+
+**WHEREAS**, pursuant to Section 3.6 of the Purchase Agreement, the Company agreed to assist any member of the WP Group (as defined below) in exchanging any of its shares of Common Stock for shares of non-voting common stock, par value $[[USD Value 1]] per share, of the Company (“Non-Voting Stock”) in accordance with the terms and subject to the conditions in the Purchase Agreement. 
+
+**NOW, THEREFORE**, in consideration of the premises, and of the representations, warranties, covenants and agreements set forth herein and other good and valuable consideration, the adequacy of which is hereby acknowledged, the parties agree as follows: 
+
+\centered **DEFINITIONS** 
+
+^Definitions. 
+
+As used in this Agreement, 
+
+“Affiliate” means, with respect to any person, any person directly or indirectly controlling, controlled by or under common control with, such other person; provided that, with respect to Warburg, Affiliate shall not include any portfolio company of Warburg unless Warburg has provided confidential information of the Company to such portfolio company. For purposes of this definition, “control” (including, with correlative meanings, the terms “controlled by” and “under common control with”) when used with respect to any person, means the possession, directly or indirectly, of the power to cause the direction of management or policies of such person, whether through the ownership of voting securities by contract or otherwise. 
+
+“Business Day” means any day except Saturday, Sunday and any day which shall be a legal holiday or a day on which banking institutions in the State of New York generally are authorized or required by law or other governmental actions to close. 
+
+“Exchange” means the exchange by an Investor that is a member of the WP Group of shares of Common Stock for shares of Non-Voting Stock pursuant to Article II of this Agreement. 
+
+“Investor” shall have the meaning ascribed to it in the Purchase Agreement. 
+
+“Liens” means any and all liens, charges, security interests, options, claims, mortgages, pledges, proxies, voting trusts or agreements, obligations, understandings or arrangements or other restrictions on title or transfer of any nature whatsoever. 
+
+“Person” means an individual or a corporation, limited liability company, partnership, joint venture, trust, estate, unincorporated organization, association (including any group, organization, co-tenancy, plan, board, council or committee), government (including a country, state, county, or any other governmental or political subdivision, agency or instrumentality thereof) or other entity (or series thereof). 
+
+“Securities Act” means the United States Securities Act of 1933, as amended 
+
+“Transfer Agent” means the Person appointed from time to time by the Company to act as registrar and transfer agent for the Common Stock. 
+
+“WP Group” means, collectively, Warburg and any of their controlled Affiliates. 
+
+\centered **EXCHANGE OF COMMON STOCK** 
+
+^Exchange of Shares of Common Stock. 
+
+^^Subject to the other provisions of this Agreement and at the request of the Original Investor, any Investor that is a member of the WP Group shall be entitled to exchange shares of Common Stock held by such member for an equal number of shares of Non-Voting Stock at any time and from time to time in accordance with the terms and conditions of this Agreement. 
+
+^^The obligation of the Company to effect any Exchange pursuant to this Agreement shall be subject to compliance with the terms and conditions of the Purchase Agreement, including the ownership and transfer restrictions set forth in Sections 3.6 and 4.2 thereof. 
+
+^^An Exchange will be deemed to be effective as of the close of business on the date of receipt of an Exchange Notice Package (as defined below) (the “Exchange Date”) and the Common Stock to be exchanged shall be deemed to be automatically cancelled on the books and records of the Company and such Common Stock shall have no further rights or privileges and shall no longer be deemed to be outstanding common stock of the Company for any purpose from and after the close of business on the Exchange Date and the Non-Voting Stock to be issued in the Exchange shall be deemed to be automatically issued on the books and records of the Company as of the close of business on the Exchange Date. 
+
+^Exchange Procedures. 
+
+^^A member of the WP Group may exercise its right to exchange shares of Common Stock as set forth in Section 2.1(a) by providing an irrevocable written notice of exchange from such member and the Original Investor, substantially in the form of Exhibit A hereto (the “Exchange Notice”), accompanied by (i) the stock certificates representing the shares of Common Stock to be exchanged, endorsed in blank or accompanied by duly executed stock powers (or similar instruments of assignment), or, in the event the shares of Common Stock are issued in an uncertificated form, evidence of electronic transfer of the shares of Common Stock to the account designated by the Company or the Transfer Agent following receipt of delivery instructions from the Company or the Transfer Agent, (ii) a certificate to the Company signed by a manager, general partner or authorized person of such member of the WP Group stating that each of the representations and warranties contained in Section 3.1 is true and correct as of the Exchange Date and, (iii) to the extent reasonably requested by the Transfer Agent and/or the Company, instructions and/or other instruments of transfer, in form and substance reasonably satisfactory to such Transfer Agent and/or the Company, as applicable, duly executed by such member or such member’s duly authorized legal representative, with respect to the Common Stock to be exchanged (together, an “Exchange Notice Package”). 
+
+^^Each Exchange Notice shall be delivered to the Company in accordance with Section 4.2 and shall be duly executed by the Original Investor and by such member of the WP Group or such member’s duly authorized legal representative with respect to the Common Stock to be exchanged. 
+
+^^As promptly as practicable following the surrender of the shares of Common Stock upon an Exchange in the manner provided in this Article II, the Company shall deliver or cause to be delivered at the address set forth in the Exchange Notice, or if no such address is provided, at the principal executive offices of Warburg or such other address for such member of the WP Group participating in an Exchange (“Exchanging Member”) as reflected in the share register of the Company certificates representing shares of Non-Voting Stock, or, in the event the shares of Non-Voting Stock are issued in an uncertificated form, such other evidence of ownership. 
+
+^Expenses. Each party hereto shall bear its own expenses in connection with the consummation of any of the transactions contemplated hereby, whether or not any such transaction is ultimately consummated. 
+
+^Reservation of Non-Voting Stock. The Company will at all times reserve and keep available, out of its authorized capital stock, a sufficient number of shares of Non-Voting Stock for the purpose of providing for any Exchanges pursuant to this Article II. 
+
+\centered **REPRESENTATIONS AND WARRANTIES** 
+
+^Representations and Warranties of the Exchanging Member. As of any Exchange Date, the following representations and warranties of the Exchanging Member shall be true and correct: 
+
+^^*Title to Common Stock*. The Exchanging Member possesses good and marketable title to the Common Stock to be exchanged and has full right to transfer the same as contemplated herein. Such shares of Common Stock are delivered free and clear of any and all Liens. 
+
+^^*Purchase for Investment*. The Exchanging Member acknowledges that the Non-Voting Stock has not been registered under the Securities Act or under any state securities laws. The Exchanging Member (i) is acquiring the Non-Voting Stock pursuant to an exemption from registration under the Securities Act solely for investment with no present intention to distribute any of the Non-Voting Stock to any person, (ii) will not sell or otherwise dispose of any of the Non-Voting Stock, except in compliance with the transfer restrictions set forth in Section 4.2 of the Purchase Agreement, and subject to Section 3.6 and Section 4.5 of the Purchase Agreement, and the registration requirements or exemption provisions of the Securities Act and any other applicable securities laws, (iii) has such knowledge and experience in financial and business matters and in investments of this type that it is capable of evaluating the merits and risks of its investment in the Non-Voting Stock and of making an informed investment decision and (iv) is an institutional “accredited investor” (as that term is defined in Rule 501 of the Securities Act). 
+
+^^The Exchanging Member agrees and acknowledges that the shares of Non-Voting Stock issuable hereunder will be subject to restrictions on transfer pursuant to applicable securities laws, and that all certificates or other instruments representing the Non-Voting Stock subject to this Agreement or to the Purchase Agreement will bear a legend substantially to the following effect: 
+
+“THE NON-VOTING COMMON STOCK REPRESENTED BY THIS INSTRUMENT HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR SECURITIES LAWS OF ANY STATE AND MAY NOT BE TRANSFERRED, SOLD OR OTHERWISE DISPOSED OF EXCEPT WHILE A REGISTRATION STATEMENT RELATING THERETO IS IN EFFECT UNDER SUCH ACT AND APPLICABLE STATE SECURITIES LAWS OR PURSUANT TO AN EXEMPTION FROM REGISTRATION UNDER SUCH ACT OR SUCH LAWS. 
+
+To the extent Section 4.2 of the Purchase Agreement is applicable at the time of any relevant Exchange, such shares will also bear a legend substantially to the following effect: 
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO TRANSFER AND OTHER RESTRICTIONS SET FORTH IN A SECURITIES PURCHASE AGREEMENT, DATED AS OF FEBRUARY 8, 2010, COPIES OF WHICH ARE ON FILE WITH THE SECRETARY OF THE ISSUER.” 
+
+Upon request of the Exchanging Member and receipt by the Company of an opinion of counsel reasonably satisfactory to the Company to the effect that such legend is no longer required under the Securities Act and applicable state laws, the Company shall promptly cause the first provision of the legend to be removed from any certificate for any Non-Voting Stock to be so transferred and, upon the request of the Exchanging Member, the second provision of the legend shall be removed upon the expiration of such transfer and other restrictions set forth in the Purchase Agreement. 
+
+^Representations and Warranties of the Company. As of any Exchange Date, the following representations and warranties of the Company shall be true and correct: 
+
+^^*Title to Non-Voting Stock*. Any shares of Non-Voting Stock to be issued upon exchange in accordance with the provisions of Article II are duly and validly authorized and issued, fully paid and nonassessable and issued by the Company free from all taxes, liens and charges. None of the Non-Voting Stock to be issued upon exchange in accordance with the provisions of Article II shall be subject to any outstanding option, warrant, call, or similar right of any other Person to acquire the same, and none of such Non-Voting Stock will be subject to any restriction on transfer thereof except for restrictions imposed by applicable federal and state securities laws, pursuant to any agreement or action taken by the Exchanging Member or by the express terms of the Purchase Agreement. 
+
+^^*Board Approval*. The issuance of shares of Non-Voting Stock to be exchanged in accordance with the provisions of Article II has been approved by the board of directors of the Company or a committee thereof pursuant to a resolution substantially in the form of Exhibit B hereto (with such changes as may be reasonably requested by the Exchanging Member), which action shall be taken pursuant to the Company’s obligations to cooperate with the Exchanging Member to seek to structure such exchange to exempt it from Section 16 pursuant to Rule 16b-3 promulgated under the Securities Exchange Act of 1934 (or any successor rule). 
+
+\centered **GENERAL PROVISIONS** 
+
+^Amendment. 
+
+^^The conditions to each party’s obligation to consummate the transactions contemplated hereby are for the sole benefit of such party and may be waived by such party in whole or in part to the extent permitted by applicable law. Except as otherwise expressly provided herein, any provision of this Agreement may be amended or waived and the observance thereof may be amended or waived (either generally or in a particular instance and either retroactively or prospectively) only by the written consent of the applicable parties to this Agreement. No amendment or waiver of any provision of this Agreement will be effective with respect to any party unless made in writing and signed by an officer of a duly authorized representative of such party. 
+
+^^Any member of the WP Group that acquires Common Stock may be joined to this Agreement by execution of a joinder in a form reasonably satisfactory to the Company. The joinder of any Person to this Agreement pursuant to and in accordance with the express provisions of this Agreement shall not be deemed an amendment or waiver of this Agreement. 
+
+^Addresses and Notices. Any notice, request, instruction or other document to be given hereunder by any party to the other will be in writing and will be deemed to have been duly given (a) on the date of delivery if delivered personally or facsimile, upon confirmation of receipt, (b) on the first business day following the date of dispatch if delivered by a recognized next-day courier service or (c) on the third business day following the date of mailing if delivered by registered or certified mail, return receipt requested, postage prepaid. All notices hereunder shall be delivered as set forth below, or pursuant to such other instructions as may be designated in writing by the party to receive such notice; *provided*, that an Exchange Notice Package will only be effective when actually received by the Company. 
+
+^^If to the Company, to: 
+
+[[Company]] 
+
+[[Address 1: Address]] 
+
+Attn: General Counsel 
+
+Facsimile: [[Phone 1]] 
+
+^^If to Warburg, to: 
+
+[[Warburg LLC]] 
+
+[[Address 2: Address]]-3911 
+
+Attn: General Counsel 
+
+Facsimile: [[Phone 2]] 
+
+^Further Action. The parties shall execute and deliver all documents, provide all information and take or refrain from taking action as may be necessary or appropriate to achieve the purposes of this Agreement. 
+
+^Binding Effect. This Agreement shall be binding upon and inure to the benefit of all of the parties and, to the extent permitted or required by this Agreement, their successors, executors, administrators, heirs, legal representatives and assigns. 
+
+^Captions. The article, section, paragraph and clause captions herein are for convenience of reference only, do not constitute part of this Agreement and will not be deemed to limit or otherwise affect any of the provisions hereof. 
+
+^Severability. If any provision of this Agreement or the application thereof to any person (including, the officers and directors of Warburg and the Company) or circumstance is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof, or the application of such provision to persons or circumstances other than those as to which it has been held invalid or unenforceable, will remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination, the parties shall negotiate in good faith in an effort to agree upon a suitable and equitable substitute provision to effect the original intent of the parties. 
+
+^Entire Agreement. This Agreement and the Purchase Agreement constitute the entire agreement, and supersede all other prior agreements, understandings, representations and warranties, both written and oral, between the parties, with respect to the subject matter hereof; and (b) this Agreement will not be assignable by operation of law or otherwise (any attempted assignment in contravention hereof being null and void). In the event and to the extent that there shall be any conflict or inconsistency between the provisions of this Agreement and the provisions of the Purchase Agreement with respect to an Exchange, this Agreement shall control, and with respect to any other conflict or inconsistency between the provisions of this Agreement and the provisions of the Purchase Agreement, the Purchase Agreement shall control. For the purposes of clarity, the mechanics for the exchange of Non-Voting Stock into Common Stock are described in the Restated Certificate of Incorporation of the Company. 
+
+^Waiver. No failure by any party to insist upon the strict performance of any covenant, duty, agreement or condition of this Agreement or to exercise any right or remedy consequent upon a breach thereof shall constitute waiver of any such breach of any other covenant, duty, agreement or condition. 
+
+^Counterparts. For the convenience of the parties hereto, this Agreement may be executed in any number of separate counterparts, each such counterpart being deemed to be an original instrument, and all such counterparts will together constitute the same agreement. Executed signature pages to this Agreement may be delivered by facsimile and such facsimiles will be deemed as sufficient as if actual signature pages had been delivered. 
+
+^Governing Law. This Agreement will be governed by and construed in accordance with the laws of the State of Delaware applicable to contracts made and to be performed entirely within such State and without regard to its conflict of laws principles. The parties hereby irrevocably and unconditionally consent to submit to the exclusive jurisdiction of the state and federal courts located in the State of Delaware for any actions, suits or proceedings arising out of or relating to this Agreement and the transactions contemplated hereby. Each of the parties hereby agrees not to commence any such action, suit or proceeding other than before one of the above-named courts. 
+
+^WAIVER OF JURY TRIAL. TO THE FULLEST EXTENT PERMITTED BY LAW, EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY AND AGREE THAT ANY SUCH LEGAL PROCEEDING WILL INSTEAD BE TRIED IN A COURT OF COMPETENT JURISDICTION BY A JUDGE SITTING WITHOUT A JURY. 
+
+\centered [Remainder of Page Intentionally Left Blank] 
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered, all as of the date first set forth above. 
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO COMMON STOCK EXCHANGE AGREEMENT] 
+
+[[Warburg LLC]]
+
+[[Warburg LLC Signatory Email: Identity | Signature]]
+__________________________________________
+{{Warburg LLC Entity => By: [[Warburg LLC Signatory First Name]] [[Warburg LLC Signatory Last Name]]
+Title: [[Warburg LLC Signatory Title]]}}
+
+
+[[Warburg]]
+
+[[Warburg Signatory Email: Identity | Signature]]
+__________________________________________
+{{Warburg Entity => By: [[Warburg Signatory First Name]] [[Warburg Signatory Last Name]]
+Title: [[Warburg Signatory Title]]}}
+
+
+\centered [SIGNATURE PAGE TO COMMON STOCK EXCHANGE AGREEMENT] 
+
+\centered **EXHIBIT A** 
+
+\centered FORM OF 
+
+\centered NOTICE OF EXCHANGE 
+
+[[Company]] 
+
+[[Address 3: Address]] 
+
+Attention: General Counsel 
+
+Fax: [[Phone 1]] 
+
+Reference is hereby made to the Common Stock Exchange Agreement, dated as of April [ ], 2010 (the “Exchange Agreement”), among [[Company]], [[Warburg LLC]] and [[Warburg]] Capitalized terms used but not defined herein have the meanings given to them in the Exchange Agreement. 
+
+The undersigned member of the WP Group desires to exchange the number of shares of Common Stock set forth below. 
+
+Legal Name of member of the WP Group: 
+
+Address: 
+
+Number of shares of Common Stock to be exchanged: 
+
+The undersigned hereby (1) represents that the representations and warranties set forth in Section 3.1 of the Exchange Agreement as to the undersigned, as the “Exchanging Member,” are true and correct, (2) exchanges such shares of Common Stock for shares of Non-Voting Stock, (3) irrevocably constitutes and appoints any officer of the Company as its attorney, with full power of substitution, to exchange said Common Stock on the books of the Company for Non-Voting Stock on the books of the Company and (4) acknowledges and agrees that the terms of the Exchange Agreement shall govern this Exchange. 
+
+\centered A-1 
+
+IN WITNESS WHEREOF the undersigned, by authority duly given, has caused this Notice of Exchange to be executed and delivered by the undersigned or by its duly authorized attorney. 
+
+Name:
+
+Dated: 
+
+**AGREED AND ACKNOWLEDGED BY THE** 
+
+**ORIGINAL INVESTOR:** 
+
+**WARBURG PINCUS PRIVATE EQUITY X, L.P.** 
+
+[[WARBURG PINCUS PRIVATE EQUITY X L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{WARBURG PINCUS PRIVATE EQUITY X L.P. Entity => By: [[WARBURG PINCUS PRIVATE EQUITY X L.P. Signatory First Name]] [[WARBURG PINCUS PRIVATE EQUITY X L.P. Signatory Last Name]]
+Title: [[WARBURG PINCUS PRIVATE EQUITY X L.P. Signatory Title]]}}
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 6 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 6 Signatory Title}} Entity => By: [[Title Party 6 Signatory Title}} Signatory First Name]] [[Title Party 6 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 6 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Company0 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Company0 Signatory Title}} Entity => By: [[Title Company0 Signatory Title}} Signatory First Name]] [[Title Company0 Signatory Title}} Signatory Last Name]]
+Title: [[Title Company0 Signatory Title}} Signatory Title]]}}
+
+
+**WARBURG PINCUS X PARTNERS, L.P.** 
+
+[[WARBURG PINCUS X PARTNERS L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{WARBURG PINCUS X PARTNERS L.P. Entity => By: [[WARBURG PINCUS X PARTNERS L.P. Signatory First Name]] [[WARBURG PINCUS X PARTNERS L.P. Signatory Last Name]]
+Title: [[WARBURG PINCUS X PARTNERS L.P. Signatory Title]]}}
+
+[[Title Party 5 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 5 Signatory Title}} Entity => By: [[Title Party 5 Signatory Title}} Signatory First Name]] [[Title Party 5 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 5 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+
+[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Company1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Company1 Signatory Title}} Entity => By: [[Title Company1 Signatory Title}} Signatory First Name]] [[Title Company1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Company1 Signatory Title}} Signatory Title]]}}
+
+
+\centered B-2

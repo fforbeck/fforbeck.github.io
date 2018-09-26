@@ -1,98 +1,451 @@
-\centered 
-
 \centered **Subscription Agreement**
 
-\centered **Computer Solutions, Inc.**
+\centered **By and Between**
 
-^Investment:
+**Hepalife Technologies, Inc., a Florida corporation (the “Company”) and the subscriber whose name is set forth on the signature pages affixed hereto (the “Subscriber”** 
 
-^^The undersigned (“Buyer”) subscribes for ________ Shares of Common Stock of Computer Solutions, Inc. at $.02 per share.
+\centered **Recitals**
 
-^^Total subscription price ($[[USD Value 1: Number]] times number of Shares): $___________
+**WHEREAS**, the Company is offering, a minimum (the “**Minimum Number**”) of 9,400,000 units and up to a maximum (the “**Maximum Number**”) of 20,000,000 units (collectively, the “**Units**”), of the Company’s common stock, $[[USD Value 10: Number]] par value per share (the “**Common Stock**”), at a price of $[[USD Value 11: Number]] per Unit (the “**Purchase Price**”), on a “best efforts, all or none” basis with respect to the Minimum Number and on a “best efforts” basis with respect to the remaining 10,6400,000 Units (the “**Offering**”).
 
-PLEASE MAKE CHECKS PAYABLE TO: Computer Solutions, Inc. 
+**WHEREAS**, each Unit consists of (i) one (1) share (collectively, the “**Unit Shares**”)of the Company’s **Common Stock**; (ii) one half of one Series E Stock Purchase Warrant in the form of **Exhibit A** hereto (the “**Series E Warrants**”); and one half of one Series F Stock Purchase Warrant in the form of **Exhibit B** hereto (the “**Series F Warrants**” and together with the Series E Warrants, the “**Warrants**”).
 
-^Investor Information:
+**WHEREAS**, one Series E Warrant entitles the holder to purchase one additional common share (the “**Series E Shares**”) at a price of $[[USD Value 12: Number]] for a period of five (5) years from the **Closing Date** as such term is defined in Section 1.3 hereof; and one Series F Warrant entitles the holder to purchase one additional common share (the “**Series F Shares**”) at a price of $[[USD Value 13: Number]] for a period of five (5) years from the Closing Date; collectively, the Series E Shares and the Series F Shares are referred to herein as the “**Warrant Shares.”**
 
-Name (type or print)    SSN/EIN/Taxpayer I.D.
+**WHEREAS**, the Company is conducting this Offering as a consequence of its having entered into a non-binding Memorandum of Intent dated [[Date 1: Date]] (the “**MOI**”) with AquaMed Technologies, Inc. (“**AquaMed**”), which MOI contemplates the Company’s acquisition of all of the outstanding shares, on a fully-diluted basis, of AquaMed (the “**AquaMed Acquisition**”) in exchange for an aggregate of [[Shares 1: Number]] shares of the Company’s Common Stock, provided that certain preconditions are satisfied. One of the preconditions to the consummation of the AquaMed Acquisition is that, on the closing date of the AquaMed Acquisition, the Company has cash on hand (after deduction of accrued and unpaid liabilities) and/or held in escrow pursuant to this Offering for its benefit an aggregate of $[[USD Value 1: Number]]
 
-Address:      Zip
+**WHEREAS,** the Units will only be offered and sold to a limited number of subscriber who are “**accredited investors**,” as such term is defined in Section 2.7 hereof.
 
-Joint Name (type or print)    SSN/EIN/Taxpayer I.D.
+**WHEREAS**, the Company and the Subscriber are executing and delivering this Agreement in reliance upon an exemption from securities registration afforded by, but not limited to, the provisions of Section 4(2) and 4(6) of the Securities Act of 1933, as amended (the “**1933 Act**”), and Regulation D (“**Regulation D**”) and Regulation S (“**Regulation S**”) each as promulgated by the United States Securities and Exchange Commission (the “**Commission**”) under the 1933 Act.
 
-Address:      Zip
+**WHEREAS**, pending the Closing, as such term is defined in Section 1.3 hereof, the parties hereto desire to have the aggregate proceeds from the sale of Units held in escrow by **Alfred V. Greco, LLP** (the “**Escrow Agent**”) pursuant to the terms of an Escrow Agreement by and among, the Company, AquaMed and the Escrow Agent, substantially in the form attached hereto as**Exhibit C** (the “**Escrow Agreement**”).
 
-Mailing Address (if different from above):
-Street  City/State  Zip
+**WHEREAS**, the Company has engaged Palladium Capital Advisors (the “**Placement Agent**”) on a non-exclusive basis to assist the Company in placing the Units in the Offering as described herein.
 
-Business Phone: (_____) ________________________    Home Phone: (_____) _________________________
+**WHEREAS**, the undersigned Subscriber hereby subscribes to purchase the number of Units set forth on the signature page attached hereto (the “**Subscribed Units**”), at an aggregate price as set forth on such signature page hereto (the “**Subscription Amount**”), subject to the terms and conditions of this Agreement and on the basis of the representations, warranties, covenants and agreements contained herein.
 
-^Type of ownership: (You must check one box)
+**WHEREAS**, the Company desires to enter into this Agreement to issue and sell the Subscribed Units to the Subscriber and the Subscriber desires to purchase the number of Subscribed Units from the Company all on the terms and conditions set forth herein.
 
-. Individual
+**NOW, THEREFORE**, in consideration of the mutual covenants and other agreements contained in this Agreement the Company and the Subscriber hereby agree as follows:
 
-. Custodian for ________________________
+^Subscription for Units; Subscription Procedures; Closing.
 
-. Tenants in Common
+^^**Subscription.** Subject to the terms and conditions hereinafter set forth, the Subscriber hereby irrevocably subscribes for and agrees to purchase from the Company the Subscribed Units and simultaneously with the Subscriber’s execution and delivery of this Agreement, herewith has transmitted the Subscription Amount in the form of either (i) a valid check or (ii) a wire transfer of funds, to the Escrow Agent as follows:
 
-. Uniform Gifts to Minors Act of the State of: ___________
+^^**Check.** If by check, payable to as Escrow Agent, and delivered to:
 
-. Corporation (Inc., LP)Please List all officers, directors, partners, managers, etc.:
+Alfred V. Greco, PLLC 
 
-. Joint Tenants with rights of Survivorship
+[[Address 1: Address]]  
 
-. Partnership (Limited Partnerships use “Corporation”)
+^^**Wire Transfer.** If by wire transfer of funds to:
 
-. Trust
+Bank:   HSBC BANK
+[[Address 2: Address]]
+ABA Routing #:  
+Beneficiary:   Alfred V. Greco, PLLC Attorney Escrow Account
+Account #:  
+Reference:   “HepaLife Technologies, Inc. – [insert Subscriber’s name]”
 
-. Community Property
+^^**Subscription Procedure.** To complete a subscription for the Units, the Subscriber must fully comply with the subscription procedure provided in this Section 1.2 on or before the Closing Date:
 
-. Other (please explain) ______________________________
+^^**Subscription Agreement**. On or before the Closing Date, the Subscriber shall review, complete and execute the Signature Page to this Agreement; and shall have completed the Subscriber Questionnaire and Certification set forth in Section 8 hereof, and shall return this Agreement, as executed to the Company c/o Sierchio & Company, LLP, [[Address 3: Address]]. Executed documents may be delivered to by facsimile or electronic mail (e-mail), provided that the Subscriber delivers the original copies of the documents as soon as practicable thereafter.
 
-^Further Representations, Warrants and Covenants. Buyer hereby represents, warrants, covenants and agrees as follows:
+^^**Subscription Amount.** Simultaneously with the delivery of this Agreement, as provided herein, the Subscriber shall deliver the Subscription Amount to the Escrow Agent as set forth in Section 1.1 above. Subject to Section 1.4 below, the minimum subscription is $[[USD Value 2: Number]] (the “Minimum Investment”).
 
-^^Buyer is at least eighteen (18) years of age with an address as set forth in this Subscription Agreement.
+^^**Closings; Closing Date**.   
+^^**Date and Place of Closing.** The consummation of the transactions contemplated herein shall take place at the offices of Sierchio & Company, [[Address 3: Address]], upon the satisfaction or waiver of all conditions to closing set forth in **Sections 4** and 5 hereof (the “**Closing Conditions**”). Anything herein to the contrary notwithstanding, upon acceptance by the Company of subscriptions equal to at least the Minimum Number and the satisfaction of the Closing Conditions, the Company shall have the right at any time thereafter, prior to the **Offering Termination Date** (as defined below), to effect an initial closing with respect to the Offering (the “**Initial Closing**”). Thereafter, the Company shall continue to accept additional subscriptions for, and continue to have closings (“**Subsequent Closings**” and together with the Initial Closing, each a “**Closing**” and the date thereof the “**Closing Date**”) with respect to subscriptions from new or existing investors, from time to time up to and including the Offering Termination Date.
 
-Except as set forth in the Prospectus and the exhibits thereto, no representations or warranties, oral or otherwise, have been made to Buyer by the Company or any other person, whether or not associated with the Company or this offering. In entering into this transaction, Buyer is not relying upon any information, other than that contained in the Prospectus and the exhibits thereto and the results of any independent investigation conducted by Buyer at Buyer’s sole discretion and judgment.
+^^**Purchases by the Company’s Affiliates and Placement Agents.** The Subscriber understands that the Company’s, AquaMed’s, and the Placement Agent’s respective officers, directors, employees and/or affiliates may purchase Units which purchases may be used to satisfy the Minimum Number.
 
-^^Buyer understands that his or her investment in the Shares is speculative and involves a high degree of risk, and is not recommended for any person who cannot afford a total loss of the investment. Buyer is able to bear the economic risks of an investment in the Offering and at the present time can afford a complete loss of such investment.
+^^**Subscriber’s Closing Deliveries**. At the Closing, the Subscriber shall have delivered to:
 
-^^Buyer is under no legal disability nor is Buyer subject to any order, which would prevent or interfere with Buyer’s execution, delivery and performance of this Subscription Agreement or his or her purchase of the Shares. The Shares are being purchased solely for Buyer’s own account and not for the account of others and for investment purposes only, and are not being purchased with a view to or for the transfer, assignment, resale or distribution thereof, in whole or part. Buyer has no present plans to enter into any contract, undertaking, agreement or arrangement with respect to the transfer, assignment, resale or distribution of any of the Shares.
+^the Company, the following:  
+^^^This Agreement, and the completed Subscriber Questionnaire and Certification incorporated therein;
 
-^^Buyer has (i) adequate means of providing for his or her current financial needs and possible personal contingencies, and no present need for liquidity of the investment in the Shares, and (ii) a liquid net worth (that is, net worth exclusive of a primary residence, the furniture and furnishings thereof, and automobiles) which is sufficient to enable Buyer to hold the Shares indefinitely.
+^^^For U.S. citizens or residents of the U.S., an Internal Revenue Service Form W-9;
 
-^^If the Buyer is acting without a Purchaser Representative, Buyer has such knowledge and experience in financial and business matters that Buyer is fully capable of evaluating the risks and merits of an investment in the Offering.
+^^^For individual investors, a copy of one form of government issued picture identification (e.g. state issued driver’s license or passport); and
 
-^^Buyer has been furnished with the Prospectus. Buyer understands that Buyer shall be required to bear all personal expenses incurred in connection with his or her purchase of the Shares, including without limitation, any fees which may be payable to any accountants, attorneys or any other persons consulted by Buyer in connection with his or her investment in the Offering.
+^to the Escrow Agent, the Subscription Amount.
 
-^Indemnification
+^^**Company’s Closing Deliveries**. At the Closing, the Company shall have delivered to
 
-Buyer acknowledges an understanding of the meaning of the legal consequences of Buyer’s representations and warranties contained in this Subscription Agreement and the effect of his or her signature and execution of this Agreement, and Buyer hereby agrees to indemnify and hold the Company and each of its officers and/or directors, representatives, agents or employees, harmless from and against any and all losses, damages, expenses or liabilities due to, or arising out of, a breach of any representation, warranty or agreement of or by Buyer contained in this Subscription Agreement.
+^the Subscriber:   
+^^^If accepted by the Company, a duly countersigned copy of this Agreement;
 
-^Acceptance of Subscription
+^^^a copy of the written instructions to its transfer agent to issue and deliver certificates representing the Unit Shares acquired by the Subscriber, all as more fully set forth on the signature page hereto, to the address set forth on the aforesaid signature page; and
 
-It is understood that this subscription is not binding upon the Company until accepted by the Company, and that the Company has the right to accept or reject this subscription, in whole or in part, in its sole and complete discretion. If this subscription is rejected in whole, the Company shall return to Buyer, without interest, the Payment tendered by Buyer, in which case the Company and Buyer shall have no further obligation to each other hereunder. In the event of a partial rejection of this subscription, Buyer’s Payment will be returned to Buyer without interest, whereupon Buyer agrees to deliver a new payment in the amount of the purchase price for the number of Shares to be purchased hereunder following a partial rejection of this subscription.
+^the Escrow Agent, written (i) notice of the satisfaction of the Closing Conditions and (ii) direction to release the Escrowed Funds to the Company.
 
-^Governing Law
+^^**Company Discretion to Accept or Reject Subscriptions**. The Subscriber understands and agrees that the Company in its sole discretion reserves the right to accept or reject this or any other subscription for Units, in whole or in part, notwithstanding prior receipt by the Subscriber of notice of acceptance of this subscription. Anything herein to the contrary notwithstanding, the Company in its sole discretion, may accept subscriptions for less than the Minimum Investment. The Company shall have no obligation hereunder until the Company shall execute and deliver to the Subscriber an executed copy of this Agreement. If this subscription is rejected in whole, or the offering of Units is terminated, all funds received from the Subscriber will be returned without interest or offset, and this Agreement shall thereafter be of no further force or effect. If this subscription is rejected in part, the funds for the rejected portion of this subscription will be returned without interest or offset, and this Agreement will continue in full force and effect to the extent this subscription was accepted.
 
-This Subscription Agreement shall be governed and construed in all respects in accordance with the laws of the State of Nevada without giving effect to any conflict of laws or choice of law rules.
+^^**Termination of the Offering.** This Offering will terminate upon the earlier to occur of (a) the date on which the Company has received accepted subscriptions for the Maximum Number (b) [[Date 2: Date]], unless such date is extended for a period not to exceed 60 days, without notice thereof being required to be given to the Subscriber, or (c) in the sole discretion of the Company at any time after it has received accepted subscriptions for the Minimum Number (the “**Offering Termination Date**”).
 
-IN WITNESS WHEREOF, this Subscription Agreement has been executed and delivered by the Buyer and by the Company on the respective dates set forth below.
+^**Subscriber Representations and Warranties.** The Subscriber hereby represents and warrants to and agrees with the Company that:
 
-Investor’s Subscription
+^^**Authorization; Power and Enforceability.** 
 
-Accepted this_____ day of ________, 2010
-Accepted by:
-Signature of Buyer
+^^**Authorization; Enforceability.** The Subscriber has the requisite power and authority to enter into and perform this Agreement and the other **Transaction Documents**, as that term is defined in Section 3.3 hereof, and to purchase the Subscribed Units being sold to it hereunder. The execution, delivery and performance of this Agreement and the other Transaction Documents by the Subscriber and the consummation by it of the transactions contemplated hereby and thereby have been duly authorized by all necessary corporate action, and no further consent or authorization of the Subscriber or its Board of Directors or stockholders, if applicable, is required. This Agreement and the other Transaction Documents when executed and delivered by Subscriber constitute a valid and binding obligation of the Subscriber, enforceable against the Subscriber in accordance with the terms thereof.
 
-Printed Name    President,
+^^**Corporate and Other Entities.** If the Subscriber is a corporation, partnership, limited liability company, trust, employee benefit plan, individual retirement account, Keogh Plan, or other tax-exempt entity, (i) it is duly organized, validly existing and in good standing under the laws of the jurisdiction of its organization and (ii) it is authorized and qualified to purchase the Units and the Person signing this Agreement and the other Transaction Documents on behalf of such entity has been duly authorized by such entity to do so.
 
-Date:
+^^**No Conflicts.** The execution, delivery and performance of this Agreement and the other Transaction Documents and the consummation by the Subscriber of the transactions contemplated hereby and thereby or relating hereto or thereto do not and will not (i) result in a violation of the Subscriber’s charter documents, bylaws or other organizational documents, if applicable, (ii) conflict with nor constitute a default (or an event which with notice or lapse of time or both would become a default) under any agreement to which the Subscriber is a party, nor (iii) result in a violation of any law, rule, or regulation, or any order, judgment or decree of any court or governmental agency applicable to the Subscriber or its properties (except for such conflicts, defaults and violations as would not, individually or in the aggregate, have a material adverse effect on Subscriber). The Subscriber is not required to obtain any consent, authorization or order of, or make any filing or registration with, any court or governmental agency in order for it to execute, deliver or perform any of its obligations under this Agreement and the other Transaction Documents nor to purchase the Units in accordance with the terms hereof, provided that for purposes of the representation made in this sentence, the Subscriber is assuming and relying upon the accuracy of the relevant representations and agreements of the Company herein.
 
-Deliver completed subscription agreements and checks to:
+^^**Company Information.** The Subscriber hereby acknowledges and hereby represents that the Subscriber has been furnished by the Company during the course of the Offering with all information regarding the Company, the terms and conditions of the Offering and any additional information that the Subscriber, its purchaser representative, attorney and/or accountant has requested or desired to know, and has been afforded the opportunity to ask question of and receive answers from duly authorized officers or other representatives of the Company concerning the Company and the terms and conditions of the Offering.
 
-Computer Solutions, Inc. 
+^^**Risk Acknowledgement.** The Subscriber recognizes that the purchase of the Subscribed Units involves a high degree of risk including, without limitation, the following: (a) the Company is a development stage business with limited operating history and requires and will require substantial funds in addition to the proceeds of the Offering; (b) a purchase of the Units is highly speculative, and only investors who can afford the loss of their entire investment should consider purchasing Units; (c) the Subscriber may not be able to liquidate its investment in the Units; (d) transferability of the Units is limited; and (e) the Company has not paid a dividend on its capital stock since inception and does not anticipate paying any dividends in the foreseeable future.
 
-7104 Via Campanile Ave.
+^^**No Offering Materials.** In reaching its decision to purchase the Subscribed Units, the Subscriber has relied solely upon the information and representations provided by the Company herein. To the extent necessary, the Subscriber has retained, at its own expense, and relied upon appropriate professional advice regarding the investment, tax and legal merits and consequences of this Agreement, the other Transaction Documents and the purchase of the Subscribed Units hereunder. The Subscriber disclaims reliance on any statements made or information provided by any Person or entity in the course of the Subscriber’s consideration of an investment in the Units other than those set forth herein. The Subscriber acknowledges and agrees that the Subscriber has not relied upon the independent investigation or verification, if any, which may have been undertaken by the Placement Agent.
 
-Las Vegas, NV 89131
+^^**Communication of Offer**. The offer to sell the Units was directly communicated to Subscriber by the Company or the Placement Agents (or an authorized agent or representative of the Company or a Placement Agent). The Subscriber represents that no Units were offered or sold to it by means of any form of general solicitation or general advertising and that at no time was Subscriber presented with or solicited by any leaflet, newspaper or magazine article, radio or television advertisement, or any other form of general advertising or solicited or invited to attend a promotional meeting otherwise than in connection and concurrently with such communicated offer.
+
+^^**Accredited Investor Status.** The Subscriber is, and will be on the Closing Date, an "**accredited investor**,” as such term is defined in Regulation D as reflected by the Subscriber’s responses to the questions contained in Section 8 hereof. If the Subscriber is a natural Person, the Subscriber has reached the age of majority in the state or other jurisdiction in which the Subscriber resides, has adequate means of providing for the Subscriber’s current financial needs and contingencies, is able to bear the substantial economic risks associated with the purchase of the Units, has no need for liquidity with respect to such purchase, and, at the present time, can afford a complete loss of such investment.
+
+^^**Experience of the Subscriber.** The Subscriber, its advisers (who are not compensated by or affiliated with the Company, including the Placement Agent, directly or indirectly), if any, and designated representatives, if any, have the knowledge and experience in financial and business matters necessary to evaluate the merits and risks of its prospective investment in the Company, and have carefully reviewed and understand the risks of, and other considerations relating to, the purchase of Units and the tax consequences of the investment, and have the ability to bear the economic risks of the investment and protect the Subscriber’s interests in connection with the transaction contemplated hereby.
+
+^^**No Governmental Review.** The Subscriber acknowledges and understands that no United States federal or state agency, including the Commission has passed on or made recommendations or endorsement of the Units or the suitability of the investment contemplated hereby; nor, have such authorities passed upon or endorsed the merits of the offering of the Units.
+
+^^**Compliance with Securities Act.** The Subscriber understands and agrees that the Units have not been registered under the 1933 Act or any applicable state securities laws, by reason of their issuance in a transaction that does not require registration under the 1933 Act (based in part on the accuracy of the representations and warranties of the Subscriber contained herein), and that such Units must be held indefinitely unless a subsequent disposition is registered under the 1933 Act or any applicable state securities laws or is exempt from such registration. In any event, and subject to compliance with applicable securities laws, the Subscriber may enter into lawful hedging transactions in the course of hedging the position they assume and the Subscriber may also enter into lawful short positions or other derivative transactions relating to the Units, or interests in the Units, and deliver the Units, or interests in the Units, to close out their short or other positions or otherwise settle other transactions, or loan or pledge the Units, or interests in the Units, to third parties who in turn may dispose of these Units.
+
+^^**Purchase of Units for the Subscriber’s Account**. On the Closing Date, the Subscriber will purchase subscribed for Units for which it has subscribed as principal for its own account for investment only and not with a view toward, or for resale in connection with, the public sale or any distribution thereof.
+
+^^**Restricted Securities.** The Subscriber understands that the Units have not been registered under the 1933 Act and Subscriber will not sell, offer to sell, assign, pledge, hypothecate or otherwise transfer any of the Units unless pursuant to an effective registration statement under the 1933 Act, or unless an exemption from registration is available. Notwithstanding anything to the contrary contained in this Agreement, the Subscriber may transfer (without restriction and without the need for an opinion of counsel) the Units to its Affiliates (as defined below) provided that each such Affiliate is an “accredited investor” under Regulation D and such Affiliate agrees to be bound by the terms and conditions of this Agreement. For the purposes of this Agreement, an “**Affiliate**” of any Person or entity means any other Person or entity directly or indirectly controlling, controlled by or under direct or indirect common control with such Person or entity. For purposes of this definition, “**control**” means the power to direct the management and policies of such Person or firm, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise. The Subscriber understands and hereby acknowledges that the Company has no obligation or intention to register the Units, the Unit Shares, the Warrants or the Warrant Shares under the 1933 Act or any state securities or “blue sky” laws.
+
+^^**Acknowledgement of and Consent to Restrictive Legend**. The certificates representing the Units and the securities comprising the Units shall bear the following or similar legend: 
+
+**FOR U.S. PERSONS**:  
+“**THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “1933 ACT”), OR APPLICABLE STATE SECURITIES LAWS. THESE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE 1933 ACT, OR (B) AN OPINION OF COUNSEL (REASONABLY SATISFACTORY TO THE COMPANY), THAT REGISTRATION IS NOT REQUIRED UNDER SAID 1933 ACT.**”
+
+**FOR NON-U.S. PERSONS:**  
+**“THESE SECURITIES WERE ISSUED IN AN OFFSHORE TRANSACTION TO PERSONS WHO ARE NOT U.S. PERSONS (AS DEFINED IN REGULATION S) PURSUANT TO REGULATION S UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “1933 ACT”). ACCORDINGLY, NONE OF THE SECURITIES TO WHICH THIS CERTIFICATE RELATES HAVE BEEN REGISTERED UNDER THE 1933 ACT, OR ANY U.S. STATE SECURITIES LAWS, AND, UNLESS SO REGISTERED, NONE MAY BE OFFERED OR SOLD IN THE UNITED STATES OR, DIRECTLY OR INDIRECTLY, TO U.S. PERSONS EXCEPT PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR PURSUANT TO AN EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE REGISTRATION REQUIREMENTS OF THE 1933 ACT AND IN EACH CASE ONLY IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS. IN ADDITION, HEDGING TRANSACTIONS INVOLVING THE SECURITIES MAY NOT BE CONDUCTED UNLESS IN ACCORDANCE WITH THE 1933 ACT.”**
+
+^^**Non-US Persons.** If the Subscriber is not a “**U.S. Person**” as defined in Regulation S, the Subscriber further represents and warrants to the Company that:
+
+^^it is acquiring the Units in an offshore transaction pursuant to Regulation S and the Subscriber was outside the United States when receiving and executing this Agreement;
+
+^^the Subscriber has not acquired the Units as a result of, and will not itself engage in, any “directed selling efforts” (as defined in Regulation S) in the United States in respect of the Units which would include any activities undertaken for the purpose of, or that could reasonably be expected to have the effect of, conditioning the market in the United States for the resale of the Units; provided, however, that the Subscriber may sell or otherwise dispose of the Units pursuant to registration of the Units under the 1933 Act and any applicable state and provincial securities laws or under an exemption from such registration requirements and as otherwise provided herein;
+
+^^the Subscriber understands and agrees that offers and sales of any of the Units prior to the expiration of a period of one year after the date of transfer of the Units under this Agreement (the “**Distribution Compliance Period**”), shall only be made in compliance with the safe harbor provisions set forth in Regulation S, pursuant to the registration provisions of the 1933 Act or an exemption therefrom, and that all offers and sales after the Distribution Compliance Period shall be made only in compliance with the registration provisions of the 1933 Act or an exemption therefrom, and in each case only in accordance with all applicable securities laws;
+
+^^the Subscriber understands and agrees not to engage in any hedging transactions involving the Units prior to the end of the Distribution Compliance Period unless such transactions are in compliance with the 1933 Act; and 
+
+^^the Subscriber hereby represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection with any invitation to subscribe for the Units or any use of this Agreement, including: (i) the legal requirements within its jurisdiction for the purchase of the Units; (ii) any foreign exchange restrictions applicable to such purchase; (iii) any governmental or other consents that may need to be obtained; and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding, redemption, sale or transfer of the Units. The Subscriber’s subscription and payment for, and its continued beneficial ownership of the Units, will not violate any applicable securities or other laws of the Subscriber’s jurisdiction.
+
+^^**Definitive Agreement**.** The Subscriber acknowledges that the Company and AquaMed are negotiating the terms and conditions of a definitive agreement with respect to the AquaMed Acquisition (the “Definitive Agreement**”). If the Definitive Agreement is not executed by [[Date 2]] (unless such date is extended by the Company and AquaMed), or if the transactions contemplated by the Definitive Agreement are not consummated by [[Date 2]] the Subscription Amount transmitted to the Escrow Agent by the Subscriber will be returned to the Subscriber and this Agreement will terminate and be of no further force or effect. The undersigned acknowledges that any extension of the Offering is not a basis for the Subscriber’s revocation of its subscription.
+
+^^**Address.** The Subscriber represents that the address of the Subscriber furnished by the Subscriber on the signature page hereof is the Subscriber’s principal residence if the Subscriber is an individual or its principal business address if it is a corporation or other entity.
+
+^^**FINRA Affiliation.** The Subscriber acknowledges that if he or she is a Registered Representative of a Financial Industry Regulatory Authority (“**FINRA**”) member firm, he or she must give such firm the notice required by NASD Rule 3050, receipt of which must be acknowledged by such firm in Section 8 below.
+
+^^**No Brokers.** Except as to the Placement Agent, the Subscriber represents and warrants that is has not engaged, consented to or authorized any broker, finder or intermediary to act on its behalf, directly or indirectly, as a broker, finer or intermediary in connection with the transactions contemplated hereby. The Subscriber hereby agrees to indemnify and hold harmless the Company from and against all fees, commission or other payments owning to any such Person or firm action on behalf of such the Subscriber hereunder.
+
+^^**Other Offerings.** TheSubscriber acknowledges that the Company will, from time to time, offer and sell additional shares of Common Stock and/or preferred stock on such terms and conditions as its Board of Directors, in its sole discretion, may determine. The terms and conditions of the offer and sale of any such additional shares of Common Stock may be different from and on better than the terms of this Offering and may result in substantial dilution to the existing shareholders.
+
+^^**Confidentiality.** The Subscriber agrees not to issue any public statement with respect the Subscriber’s investment or proposed investment in the Company or the terms of any agreement or covenant between it and the Company without the Company’s prior written consent, except such disclosures as may be required under applicable law or under any applicable order, rule or regulation.
+
+^^**No Consents.** The Subscriber represents that no authorization, approval, consent or license of any Person (collectively, “**Subscriber Consents**”) is required to be obtained for the purchase of the Subscribed Units by the Subscriber, other than as have been obtained and which Subscriber Consents are in full force and effect.
+
+^^**Irrevocability of the Subscription.** The Subscriber understands, acknowledges and agrees with the Company that, except as otherwise set forth herein, the subscription to purchase the Subscribed Units is irrevocable by the Subscriber, that except as required by law, the Subscriber is not entitled to cancel, terminate or revoke this Agreement or any agreements of the Subscriber hereunder and that this Agreement and such other agreements shall survive the death or disability of the Subscriber and shall be binding upon and inure to the benefit of the parties and their respective heirs, executors, administrators, successors, legal representatives and permitted assigns. If the Subscriber is more than one Person, the obligations of the Subscriber hereunder shall be joint and several and the agreements, representations, warranties and acknowledgments herein contained shall be deemed to be made by and be binding upon each such Person, his/her heirs, executors, administrators, successors, legal representatives and permitted assigns.
+
+^^**Certain Trading Activities.** The Subscriber has not directly or indirectly, nor has any Person acting at the direction of the Subscriber, engaged in any transactions in the securities of the Company (including, without limitation, any short sales involving the Company's securities) since the earlier to occur of (i) the time the Subscriber was first contacted by the Company or the Placement Agent regarding an investment in the Company and (ii) the 30 th day prior to the date of this Agreement. The Subscriber covenants that neither it nor any Person acting at the direction of the Subscriber will engage in any transactions in the securities of the Company (including short sales) after the date hereof and prior to the date that the transactions contemplated by this Agreement are publicly disclosed.
+
+^^**Reliance.** The Subscriber understands and acknowledges that (i) the Subscribed Units are being offered and sold to the Subscriber without registration under the 1933 Act in a private placement that is intended to be exempt from the registration provisions of the 1933 Act and (ii) the availability of such exemption, depends in part on, and the Company will rely upon, the accuracy and truthfulness of, the foregoing representations and warranties and the Subscriber hereby consents to such reliance.The Subscriber agrees that the representations, warranties and covenants of the Subscriber contained herein (or in any representation letter or questionnaire executed and delivered by the Subscriber pursuant to the provisions hereof) shall be true and correct both as of the execution of this Agreement and as of the Closing Date, and shall survive the completion of the distribution of the Subscribed Units. The Subscriber hereby agrees to notify the Company immediately of any change in any representation, warranty, covenant or other information relating to the Subscriber contained in this Agreement, or any exhibit hereto, which takes place prior to Closing.
+
+^**The Company Representations and Warranties.** The Company represents and warrants to and agrees with the Subscriber that:
+
+^^Due Incorporation. The Company is a corporation duly incorporated, validly existing and in good standing under the laws of the jurisdiction of its incorporation and has the requisite corporate power to own its properties and to carry on its business as presently conducted. The Company is duly qualified as a foreign corporation to do business and is in good standing in each jurisdiction where the nature of the business conducted or property owned by it makes such qualification necessary, other than those jurisdictions in which the failure to so qualify would not have a Material Adverse Effect. For purposes of this Agreement, a “**Material Adverse Effect**” shall mean a material adverse effect on the financial condition, results of operations, prospects, properties or business of the Company and its Subsidiaries taken as a whole. For purposes of this Agreement, “**Subsidiary**” means, with respect to any entity at any date, any corporation, limited or general partnership, limited liability company, trust, estate, association, joint venture or other business entity of which more than [[Percentage 1: Number]]% of (i) the outstanding capital stock having (in the absence of contingencies) ordinary voting power to elect a majority of the board of directors or other managing body of such entity, (ii) in the case of a partnership or limited liability company, the interest in the capital or profits of such partnership or limited liability company or (iii) in the case of a trust, estate, association, joint venture or other entity, the beneficial interest in such trust, estate, association or other entity business is, at the time of determination, owned or controlled directly or indirectly through one or more intermediaries, by such entity.
+
+^^Outstanding Stock. All issued and outstanding shares of capital stock and other equity interests in the Company have been duly authorized and validly issued and are fully paid and non-assessable.
+
+^^**Authority; Enforceability**. This Agreement and any other agreements delivered together herewith or therewith or in connection herewith or therewith (collectively, the “**Transaction Documents**”) have been duly authorized, executed and delivered by the Company and are valid and binding agreements of the Company enforceable in accordance with their terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors' rights generally and to general principles of equity. The Company has full corporate power and authority necessary to enter into and deliver this Agreement and to perform its obligations thereunder.
+
+^^**Capitalization and Additional Issuances.** The authorized and outstanding capital stock of the Company is set forth in the **Exchange Act Documents**, as such term is defined in Section 3.9 hereof. Except as set forth in the Exchange Act Documents, there are no options, warrants, or rights to subscribe to, securities, rights, understandings or obligations convertible into or exchangeable for or giving any right to subscribe for any shares of capital stock or other equity interest of the Company or any of its Subsidiaries. The only officer, director, employee and consultant stock option or stock incentive plan or similar plan currently in effect or contemplated by the Company is described in theExchange Act Documents. Except as set forth in the Exchange Act Documents there are no outstanding agreements or preemptive or similar rights affecting the Company's Common Stock. The Company has no direct or indirect Subsidiaries other than those set forth in the Exchange Act Documents. Except as disclosed in the Exchange Act Documents, the Company owns, directly or indirectly, all of the capital stock of its Subsidiaries free and clear of any and all liens, and all the issued and outstanding shares of capital stock of each Subsidiary are validly issued and are fully paid, non-assessable and free of preemptive and similar rights.
+
+^^**Consents.** No consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any governmental authority, is required by the Company or any Affiliate of the Company in connection with the consummation of the transactions contemplated by this Agreement, except as may be required in connection with filings pursuant to Regulation D, or otherwise in connection with the Definitive Agreement, or which otherwise would not have a Material Adverse Effect or the consummation of any of the other agreements, covenants or commitments of the Company or any Subsidiary contemplated hereby. Any such qualifications and filings will, in the case of qualifications, be effective on the Closing and will, in the case of filings, be made within the time prescribed by law.
+
+^^**No Violation or Conflict.** If the representations and warranties of the Subscriber in Section 2 are true and correct, then neither the issuance nor the sale of the Units nor the performance of the Company’s obligations under this Agreement by the Company will, except as set forth in the Definitive Agreement:
+
+^^violate, conflict with, result in a breach of, or constitute a default (or an event which with the giving of notice or the lapse of time or both would be reasonably likely to constitute a default) under (A) the articles or certificate of incorporation, charter or bylaws of the Company, (B) to the Company's knowledge, any decree, judgment, order, law, treaty, rule, regulation or determination applicable to the Company of any court, governmental agency or body, or arbitrator having jurisdiction over the Company or over the properties or assets of the Company or any of its Affiliates, (C) the terms of any bond, debenture, note or any other evidence of indebtedness, or any agreement, stock option or other similar plan, indenture, lease, mortgage, deed of trust or other instrument to which the Company or any of its Affiliates is a party, by which the Company or any of its Affiliates is bound, or to which any of the properties of the Company or any of its Affiliates is subject, or (D) the terms of any "lock-up" or similar provision of any underwriting or similar agreement to which the Company, or any of its Affiliates is a party except the violation, conflict, breach, or default of which would not have a Material Adverse Effect; or
+
+^^result in the creation or imposition of any lien, charge or encumbrance upon the Subscribed Units or any of the assets of the Company or any of its Affiliates except in favor of the Subscriber as described herein; or
+
+^^result in the triggering of any piggy-back or other registration rights of any Person or entity holding securities of the Company or having the right to receive securities of the Company.
+
+^^**The Units**. The Units upon issuance:  
+^^are, or will be, free and clear of any security interests, liens, claims or other encumbrances, subject only to restrictions upon transfer under the 1933 Act and any applicable state securities laws;
+
+^^have been, or will be, duly and validly authorized and validly issued, and non-assessable;
+
+^^will not have been issued or sold in violation of any preemptive or other similar rights of the holders of any securities of the Company or rights to acquire securities of the Company;
+
+^^will not subject the holders thereof to personal liability by reason of being such holders; and
+
+^^assuming the representations and warranties of the Subscriber as set forth in Section 2 hereof are true and correct, will not result in a violation of Section 5 under the 1933 Act.
+
+^^**Litigation**. Except as set forth in the Exchange Act Documents, there is no litigation, arbitration, mediation, action, suit, claim, proceeding or investigation, whether legal or administrative, pending against the Company or any of its Subsidiaries or, to the Company’s knowledge, threatened against the Company or any of its Subsidiaries or any of their respective assets, properties or operations, at applicable law or in equity, before or by any governmental authority or any order of any governmental authority that, individually or in the aggregate, and taking into consideration the aggregate amounts reserved for any such matters in the Company Financial Statements (as defined in Section 3.10), has had or caused or would reasonably be expected to have or cause a Material Adverse Effect.
+
+^^**Information Concerning Company**. Since [[Date 3: Date]], all reports and statements, including all amendments, required to be filed by the Company with the Commission under the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”), have been filed. Such filings, together with all amendments and all documents incorporated by reference therein, are referred to as “**Exchange Act Documents**.” Each Exchange Act Document conformed in all material respects to the requirements of the Exchange Act and the rules and regulations thereunder, and no Exchange Act Document, at the time each such document was filed, included any untrue statement of a material fact or omitted to state any material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading. The Company is not a “**shell company**” as contemplated by Rule 144; however, it was previously a **shell company**” as contemplated by Rule 144 which ceased to be such, and has filed current “**Form 10 Information**” (as defined in Rule 144) with the Commission more than twelve months prior to the date hereof**.**
+
+^^**Company Financial Statements.** As of their respective dates, the financial statements of the Company included in the Exchange Act Documents (the “**Company Financial Statements**”) for its most recently completed fiscal year and any subsequent interim period have been prepared in accordance with generally accepted accounting principles in the United States (“**GAAP**”), consistently applied, during the periods involved (except (i) as may be otherwise indicated in such Company Financial Statements or the notes thereto, or (ii) in the case of unaudited interim statements, to the extent they may exclude footnotes or may be condensed or summary statements) and, fairly present in all material respects, on the basis stated therein and on the date thereof, the financial position of the Company at the respective dates therein specified and its results of operations and cash flows for the periods then ended (subject, in the case of unaudited interim statements, to normal year-end audit adjustments).
+
+^^**Material Changes; Undisclosed Events, Liabilities or Developments.** Since [[Date 4: Date]], except as specifically disclosed in a subsequent Exchange Act Document filed prior to the date hereof, (i) there has been no event, occurrence or development that has had or that could reasonably be expected to result in a Material Adverse Effect, (ii) the Company has not incurred any liabilities (contingent or otherwise) other than (A) trade payables and accrued expenses incurred in the ordinary course of business consistent with past practice and (B) liabilities not required to be reflected in the Company’s Financial Statements pursuant to GAAP or disclosed in filings made with the Commission, (iii) the Company has not altered its method of accounting, (iv) the Company has not declared or made any dividend or distribution of cash or other property to its stockholders or purchased, redeemed or made any agreements to purchase or redeem any issued and outstanding shares of its Common Stock, and (v) the Company has not issued any equity securities to any officer, director or Affiliate. The Company does not have pending before the Commission any request for confidential treatment of information.
+
+^^**Regulatory Permits.** The Company possesses all certificates, authorizations and permits issued by the appropriate federal, state, local or foreign regulatory authorities necessary to conduct its businesses, except where the failure to possess such permits could not have, or reasonably be expected to result in, a Material Adverse Effect (“**Material Permits**”), and the Company has not received any notice of proceedings relating to the revocation or modification of any Material Permit.
+
+^^**Title to and Condition of Assets.** As of the date hereof, Company or its Subsidiaries have good and valid title to the assets of the Company and its Subsidiaries, other than defects or irregularities of title that do not materially impair the ownership or operation of such assets and in each case free and clear of all liens, except for liens permitted under the Definitive Agreement or liens that have not had or caused and would not reasonably be expected to have or cause a Material Adverse Effect. The assets of the Company and its Subsidiaries are in good operating condition, normal wear and tear excepted.
+
+^^**Internal Accounting Controls.** The Company maintains a system of internal accounting controls sufficient to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management’s general or specific authorization, and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences. The Company has established disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the Company and designed such disclosure controls and procedures to ensure that material information relating to the Company is made known to the Company’s certifying officers by others within the Company, particularly during the period in which the Company’s Form 10-K or 10-Q, as the case may be, are being prepared. The Company’s certifying officers have evaluated the effectiveness of the Company’s controls and procedures as of the end of the reporting period covered by the Company’s Form 10-K and each of the Company’s Forms 10-Q filed with the Commission (each such date, the **“Evaluation Date”**) and presented in each such report their conclusions about the effectiveness of the Company’s disclosure controls and procedures based on their evaluations as of the applicable Evaluation Date. Since the Evaluation Date of the Company’s most recently filed Form 10-K or Form 10-Q, there have been no significant changes in the Company’s disclosure controls and procedures, the Company’s internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) or 15d-15(f)) or, to the Company’s knowledge, in other factors that could significantly affect the Company’s internal controls over financial reporting.
+
+^^**No Integrated Offering**. Neither the Company, nor any of its Affiliates, nor any Person acting on its or their behalf, has directly or indirectly made any offers or sales of any security of the Company nor solicited any offers to buy any security of the Company under circumstances that would cause the offer of the Units pursuant to this Agreement to be integrated with prior offerings by the Company for purposes of the 1933 Act or any applicable stockholder approval provisions, including, without limitation, under the rules and regulations of the OTC Bulletin Board. No prior offering will impair the exemptions relied upon in this Offering or the Company’s ability to timely comply with its obligations hereunder. Neither the Company nor any of its Affiliates will take any action or steps that would cause the offer or issuance of the Units to be integrated with other offerings which would impair the exemptions relied upon in this Offering or the Company’s ability to timely comply with its obligations hereunder. The Company will not conduct any offering other than the transactions contemplated hereby that may be integrated with the offer or issuance of the Units that would impair the exemptions relied upon in this Offering or the Company’s ability to timely comply with its obligations hereunder.
+
+^^**No General Solicitation**. Neither the Company, nor any of its Affiliates, nor to its knowledge, any Person acting on its or their behalf, has engaged in any form of general solicitation or general advertising (within the meaning of Regulation D under the 1933 Act) in connection with the offer or sale of the Units.
+
+^^**No Disagreements with Accountants and Lawyers**. There are no material disagreements of any kind presently existing, or reasonably anticipated by the Company to arise between the Company and the accountants and lawyers previously and presently employed by the Company, including but not limited to disputes or conflicts over payment owed to such accountants and lawyers, nor have there been any such disagreements during the two years prior to the Closing Date.
+
+^^**Investment Company**. Neither the Company nor any Affiliate of the Company is an “**investment company**” within the meaning of the Investment Company Act of 1940, as amended.
+
+^^**Foreign Corrupt Practices**. Neither the Company, nor to the knowledge of the Company, any agent or other Person acting on behalf of the Company, has (i) directly or indirectly, used any funds for unlawful contributions, gifts, entertainment or other unlawful expenses related to foreign or domestic political activity, (ii) made any unlawful payment to foreign or domestic government officials or employees or to any foreign or domestic political parties or campaigns from corporate funds, (iii) failed to disclose fully any contribution made by the Company (or made by any Person acting on its behalf of which the Company is aware) which is in violation of law, or (iv) violated in any material respect any provision of the Foreign Corrupt Practices Act of 1977, as amended.
+
+^^**Listing**. The Company's Common Stock is quoted on the OTC Bulletin Board under the symbol “**HPLF**.” The Company has not received any oral or written notice that its Common Stock is not eligible nor will become ineligible for quotation on the OTC Bulletin Board nor that its Common Stock does not meet all requirements for the continuation of such quotation and (ii) the Company satisfies all the requirements for the continued quotation of its Common Stock on the OTC Bulletin Board.
+
+^^**Acknowledgment Regarding Subscriber’s Purchase of the Units**. The Company acknowledges and agrees that the Subscriber is acting solely in the capacity of an arm’s length purchaser with respect to the Transaction Documents and the transactions contemplated thereby. The Company further acknowledges that no Subscriber is acting as a financial advisor or fiduciary of the Company (or in any similar capacity) with respect to the Transaction Documents and the transactions contemplated thereby, and any advice given by any Subscriber or any of their respective representatives or agents in connection with the Transaction Documents and the transactions contemplated thereby is merely incidental to the Subscriber’s purchase of the Subscribed Units. 
+
+^^**Disclosure.** The information set forth herein, taken together with the Exchange Act Documents, as of the date hereof contains no untrue statement of a material fact nor omits to state a material fact necessary in order to make the statements contained therein, in light of the circumstances under which they were made, not misleading.
+
+^**Subscriber’s Conditions of Closing.** The Subscriber’s obligation to purchase the Subscribed Units is subject to the satisfaction or waiver, on or before the Closing Date, of the conditions contained in this Section 4.
+
+^^**Representations, Warranties and Covenants.** The representations, warranties and covenants of the Company set forth in Section 3 hereof shall be true in all material respects on and as of the Closing Date.
+
+^^**Closing Deliveries.** The conditions in Section 1.3(d) hereof shall have been satisfied or waived in writing by the Subscriber.
+
+^^**Definitive Agreement.** The transactions contemplated by the Definitive Agreement shall have been contemporaneously consummated.
+
+^^**Minimum Number.** The Minimum Number of Units shall have been subscribed for and with the Subscription Amount therefor deposited with the Escrow Agent.
+
+^^**Company’s Covenants.** All covenants, agreements and conditions contained in this Agreement to be performed by the Company on or prior to the date of such Closing shall have been performed, complied with in all material respects, or waived in writing by the Subscriber.
+
+^^**No Adverse Action or Decision.** There shall be no action, suit, investigation or proceeding pending, or to the Company’s knowledge, threatened, against or affecting the Company or any of its properties or rights, or any of its affiliates, associates, officers or directors, before any court, arbitrator, or administrative or governmental body that (i) seeks to restrain, enjoin, prevent the consummation of or otherwise adversely affect the transactions contemplated by this Agreement, or (ii) questions the validity or legality of any such transaction or seeks to recover damages or to obtain other relief in connection with any such transaction.
+
+^**Company’s Conditions of Closing.** The Company’s obligation to sell the Subscribed Units is subject to the satisfaction or waiver, on or before the Closing Date, of the conditions contained in this Section 5.
+
+^^**Representations, Warranties and Covenants.** The representations, warranties and covenants of the Subscriber set forth in Section 2 hereof shall be true in all material respects on and as of the Closing Date.
+
+^^**Closing Deliveries.** The conditions in Section 1.3(c) hereof shall have been satisfied or waived in writing by the Company.
+
+^^**Definitive Agreement.** The transactions contemplated by the Definitive Agreement shall have been contemporaneously consummated.
+
+^^**Minimum Number.** The Minimum Number of Units shall have been subscribed for and with the Subscription Amount therefor deposited with the Escrow Agent..
+
+^^**Subscriber’s Covenants.** All covenants, agreements and conditions contained in this Agreement to be performed by the Subscriber on or prior to the date of such Closing shall have been performed, complied with in all material respects, or waived in writing by the Company.
+
+^^**No Adverse Action or Decision.** There shall be no action, suit, investigation or proceeding pending, or to the Company’s knowledge, threatened, against or affecting the Company or any of its properties or rights, or any of its affiliates, associates, officers or directors, before any court, arbitrator, or administrative or governmental body that (i) seeks to restrain, enjoin, prevent the consummation of or otherwise adversely affect the transactions contemplated by this Agreement, or (ii) questions the validity or legality of any such transaction or seeks to recover damages or to obtain other relief in connection with any such transaction.
+
+^**Covenants of the Company.** The Company covenants and agrees with the Subscriber as follows:
+
+^^**Stop Orders**. Subject to the three day prior notice requirement described in Section 6.5, the Company will advise the Subscriber, within twenty-four hours after it receives notice of issuance by the Commission, any state securities commission or any other regulatory authority of any stop order or of any order preventing or suspending any offering of any securities of the Company, or of the suspension of the qualification of the Common Stock of the Company for offering or sale in any jurisdiction, or the initiation of any proceeding for any such purpose. The Company will not issue any stop transfer order or other order impeding the sale, resale or delivery of any of the Units, except as may be required by any applicable federal or state securities laws and unless contemporaneous notice of such instruction is given to the Subscriber.
+
+^^Reserved.  
+^^**Market Regulations**. If required, the Company shall notify the Commission, the Principal Market and applicable state authorities, in accordance with their requirements, of the transactions contemplated by this Agreement, and shall take all other necessary action and proceedings as may be required and permitted by applicable law, rule and regulation, for the legal and valid issuance of the Units to the Subscriber and promptly provide copies thereof to the Subscriber.
+
+^^**Use of Proceeds**. The proceeds of the Offering will be employed by the Company for working capital.
+
+^^**Confidentiality**. From the date of this Agreement and until Closing Date, the Company agrees that except as may be required by law or in connection with a Form 8-K, Form 10-Q, Form 10-K or in correspondence with the Commission regarding same, it will not disclose publicly or privately the identity of the Subscriber unless expressly agreed to in writing by Subscriber or only to the extent required by law and then only upon not less than three business days prior notice to Subscriber.
+
+^^**Return of Subscription Amount.** If the Closing Conditions have not been satisfied on or prior to the Offering Termination Date, the Company, in writing, will so notify the Escrow Agent pursuant to the terms of the Escrow Agreement and direct the Escrow Agent to return the Subscription Amount to the Subscriber in accordance with the terms of the Escrow Agreement. 
+
+^Miscellaneous.  
+^^Notices. All notices, demands, requests, consents, approvals, and other communications required or permitted hereunder shall be in writing and, unless otherwise specified herein, shall be (i) personally served, (ii) deposited in the mail, registered or certified, return receipt requested, postage prepaid, (iii) delivered by reputable air courier service with charges prepaid, or (iv) transmitted by hand delivery, telegram, or facsimile, addressed as set forth below or to such other address as such party shall have specified most recently by written notice. Any notice or other communication required or permitted to be given hereunder shall be deemed effective (a) upon hand delivery or delivery by facsimile, with accurate confirmation generated by the transmitting facsimile machine, at the address or number designated below (if delivered on a business day during normal business hours where such notice is to be received), or the first business day following such delivery (if delivered other than on a business day during normal business hours where such notice is to be received) or (b) on the second business day following the date of mailing by express courier service, fully prepaid, addressed to such address, or upon actual receipt of such mailing, whichever shall first occur. The addresses for such communications shall be: (i) if to the Company, to: Hepalife Technologies, Inc., [[Address 4: Address]], with a copy (which shall not constitute notice) to Sierchio & Company, LLP, [[Address 3: Address]], Facsimile [[Phone 1]]; and (ii) if to the Subscriber, to: the addresses and fax numbers indicated on the signature page hereto.
+
+^^**Entire Agreement; Assignment**. This Agreement and other Transaction Documents delivered in connection herewith represent the entire agreement between the parties hereto with respect to the subject matter hereof. Neither the Company nor the Subscribers has relied on any representations not contained or referred to in this Agreement and the documents delivered herewith. No right or obligation of the Company shall be assigned without prior notice to and the written consent of the Subscriber. The Subscriber may not assign this Agreement without the prior written consent of the Company.
+
+^^**Indemnification.** The Subscriber agrees to indemnify and hold harmless the Company and the Placement Agent, and their respective officers, directors, employees, agents, control Persons and affiliates from and against all losses, liabilities, claims, damages, costs, fees and expenses whatsoever (including, but not limited to, any and all expenses incurred in investigating, preparing or defending against any litigation commenced or threatened) based upon or arising out of (i) any sale or distribution of the Units by the Subscriber in violation of the 1933 Act or any applicable state securities or “blue sky” laws or (ii) any actual or alleged false acknowledgment, representation or warranty, or misrepresentation or omission to state a material fact, or breach by the Subscriber of any covenant or agreement made by the Subscriber herein, in any Transaction Document, or in any other document delivered in connection with this Agreement or any Transaction Document.
+
+^^**Counterparts/Execution**. This Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party, it being understood that both parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) the same with the same force and effect as if such facsimile signature page were an original thereof.
+
+^^**Calendar Days**. All references to “days” in the Transaction Documents shall mean calendar days unless otherwise stated. The terms “business days” and “trading days” shall mean days that the New York Stock Exchange is open for trading for three or more hours. Time periods shall be determined as if the relevant action, calculation or time period were occurring in New York City. Any deadline that falls on a non-business day in any of the Transaction Documents shall be automatically extended to the next business day and interest, if any, shall be calculated and payable through such extended period.
+
+^^**Captions; Certain Definitions**. The captions of the various sections and paragraphs of this Agreement have been inserted only for the purposes of convenience; such captions are not a part of this Agreement and shall not be deemed in any manner to modify, explain, enlarge or restrict any of the provisions of this Agreement. As used in this Agreement the term “Person” shall mean and include an individual, a partnership, a joint venture, a corporation, a limited liability company, a trust, an unincorporated organization and a government or any department or agency thereof. All pronouns and any variations thereof used herein shall be deemed to refer to the masculine, feminine, neuter, singular or plural as the identity of the Person or Persons referred to may require.
+
+^^**Severability**. In the event that any term or provision of this Agreement shall be finally determined to be superseded, invalid, illegal or otherwise unenforceable pursuant to applicable law by an authority having jurisdiction and venue, that determination shall not impair or otherwise affect the validity, legality or enforceability: (i) by or before that authority of the remaining terms and provisions of this Agreement, which shall be enforced as if the unenforceable term or provision were deleted, or (ii) by or before any other authority of any of the terms and provisions of this Agreement.
+
+^^**Successor Laws**. References in the Transaction Documents to laws, rules, regulations and forms shall also include successors to and functionally equivalent replacements of such laws, rules, regulations and forms. A successor rule to Rule 144 shall include any rule that would be available to a non-Affiliate of the Company for the sale of Common Stock not subject to volume restrictions and after a six month holding period.
+
+^^**Irrevocability; Binding Effect.** The Subscriber hereby acknowledges and agrees that the subscription hereunder is irrevocable by the Subscriber, except as required by applicable law, and that this Agreement shall survive the death or disability of the Subscriber and shall be binding upon and inure to the benefit of the parties and their heirs, executors, administrators, successors, legal representatives and permitted assigns. If the Subscriber is more than one Person, the obligations of the Subscriber hereunder shall be joint and several and the agreements, representations, warranties and acknowledgments herein shall be deemed to be made by and be binding upon each such Person and such Person’s heirs, executors, administrators, successors, legal representatives and permitted assigns.
+
+^^**Modification.** Except as otherwise expressly provided herein, any term of this Agreement may be amended and observance of any term of this Agreement may be waived (either generally or in a particular instance, either retroactively or prospectively and either for a specified period of time or indefinitely) with the written consent of the Company and subscribers holding Units equal to at least sixty-six and two-third percent (66 2/[[Percentage 2: Number]]%) of the then subscribed for Units. Any amendment or waiver effected in accordance with this Section 7.10 shall be binding upon the Subscriber and the Company (even if the Subscriber does not consent to such amendment or waiver), and upon the effectiveness of such amendment or waiver, the Company shall promptly give notice to the Subscriber if the Subscriber has not previously consented thereto in writing.
+
+^^**Fees.** Unless otherwise specifically provided,each of the parties hereto shall pay its own fees and expenses (including the fees of any attorneys, accountants, appraisers or others engaged by such party) in connection with this Agreement and the transactions contemplated hereby, whether or not the transactions contemplated hereby are consummated. Anything herein to the contrary notwithstanding, the Company on the one hand, and the Subscriber (for himself only) on the other hand, agree to indemnify the other against and hold the other harmless from any and all liabilities to any Persons other than the Placement Agent, claiming brokerage commissions, finder’s fees or due diligence fees on account of services purported to have been rendered on behalf of the indemnifying party in connection with this Agreement or the transactions contemplated hereby or in connection with any investment in the Company at any time, whether or not such investment was consummated and arising out of such party’s actions. The Company will pay the Placement Agent a cash commissions equal to eight percent ([[Percentage 3: Number]]%) of the gross proceeds derived from the sale of the Units through the services of the Placement Agent to investors introduced to the Company by the Placement Agents (the “**Placement Agent Investors**”). The Company will also issue a number of Series E Warrants and Series F Warrants to the Placement Agent equal to four percent ([[Percentage 4: Number]]%) of the aggregate number of Unit Shares sold to the Placement Agent Investors.
+
+^^**Survival of Representations.** All representations, warranties and agreements contained herein or made in writing by or on behalf of any party to this Agreement in connection herewith shall survive the execution and delivery of this Agreement and the consummation of the transactions contemplated hereby.
+
+^^**Confidentiality.** The Subscriber acknowledges and agrees that any information or data the Subscriber has acquired from or about the Company or may acquire in the future, not otherwise properly in the public domain was received in confidence. The Subscriber agrees not to divulge, communicate or disclose, except as may be required by law or for the performance of this Agreement, or use to the detriment of the Company or for the benefit of any other Person, or misuse in any way, any confidential information of the Company, including any scientific, technical, trade or business secrets of the Company and any scientific, technical, trade or business materials that are treated by the Company as confidential or proprietary, including, but not limited to, internal personnel and financial information of the Company or its affiliates, information regarding AquaMed, the manner and methods of conducting the business of the Company or its affiliates and confidential information obtained by or given to the Company about or belonging to third parties. The Subscriber understands that the Company may rely on this agreement of confidentiality to comply with the exemptive provisions of Regulation FD under the 1933 Act as set forth in Rule 100(a)(b)(2)(ii) of Regulation FD. In addition, the Subscriber acknowledges that it is aware that the United States securities laws generally prohibit any Person who is in possession of material nonpublic information about a public company such as the Company from purchasing or selling securities of such company.
+
+^^**Binding Obligation.** Upon the execution and delivery of this Agreement by the Subscriber, this Agreement shall become a binding obligation of the Subscriber with respect to the purchase of the Units as herein provide, subject, however to the right reserved by the Company to enter into the same agreement with or other subscribers and to add an/or remove other Persons as subscribers.
+
+^^**Further Assurances.** The parties hereto agree to execute and deliver all such further documents, agreements and instruments and take such other and further action as may be necessary or appropriate to carry out the purposes and intent of this Agreement.
+
+^^**No Third Party Rights.** Nothing in this Agreement shall create or be deemed to create any rights in any Person or entity not a party to this Agreement, provided however that if the Subscriber has been introduced by the Placement Agent, the Placement Agent may rely on the representations of the Subscriber in Section 2 hereof and the representations and warranties of the Company in Section 3 hereof.
+
+^^**Governing Law.** All questions concerning the construction, validity, enforcement and interpretation of this Agreement shall be governed by and construed and enforced in accordance with the internal laws of the State of New York, without regard to the principles of conflicts of law thereof. Each party hereby irrevocably submits to the exclusive jurisdiction of the state and federal courts sitting in New York County, New York for the adjudication of any dispute hereunder or in connection herewith or with any transaction contemplated hereby or discussed herein, and hereby irrevocably waives, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of any such court, that such suit, action or proceeding is improper. Each party hereby irrevocably waives personal service of process and consents to process being served in any such suit, action or proceeding by mailing a copy thereof via registered or certified mail or overnight delivery (with evidence of delivery). Nothing contained herein shall be deemed to limit in any way any right to serve process in any manner permitted by law. Each party irrevocably waives, to the fullest extent permitted by applicable law, any and all right to trial by jury in any legal proceeding arising out of or relating to this Agreement or the transactions contemplated hereby. If either party shall commence an action or proceeding to enforce any provisions of the documents contemplated herein, then the prevailing party in such action or proceeding shall be reimbursed by the other party for its attorney’s fees and other costs and expenses incurred with the investigation, preparation and prosecution of such action or proceeding.
+
+^Subscriber Questionnaire and Certification.
+
+^^US PERSONS  
+The Subscriber has initialed those representations applicable to the Subscriber and hereby represents and warrants that those representations which are initialed are true and correct.
+
+**FOR INDIVIDUAL INVESTORS:**
+
+____________   1.   Subscriber represents that he or she has an individual net worth, or together with his or her spouse a combined net worth, in excess of $[[USD Value 3: Number]] For purposes of this representation, “net worth” means the excess of total assets at fair market value, including, home, home furnishings and automobiles, over total liabilities.
+
+____________   2.   Subscriber represents that he or she had an individual income of more than $[[USD Value 4: Number]] in each of the last two calendar years or joint income with his or her spouse in excess of $[[USD Value 5: Number]] in each of those years and reasonably expects to reach the same income level in the current calendar year.
+
+**FOR CORPORATIONS, PARTNERSHIPS OR LIMITED LIABILITY COMPANIES:**
+
+____________   3.   Subscriber represents that it is a corporation, Massachusetts or similar business trust, or partnership not formed for the specific purpose of acquiring Units with total assets in excess of $[[USD Value 6: Number]]
+
+For purposes of determining “net worth,” the principal residence owned by an individual must be valued either at (A) cost, including the cost of improvements, net of current encumbrances upon the property, or (B) the appraised value of the property as determined upon a written appraisal used by an institutional lender making a loan to the individual secured by the property, including the cost of subsequent improvements, net of current encumbrances upon the property. “Institutional lender” means a bank, savings and loan company, industrial loan company, credit union or personal property broker or a company whose principal business is as a lender upon loans secured by real property and that has such loans receivable in the amount of $[[USD Value 7: Number]] or more.
+
+____________   4.   Subscriber represents that all of its equity owners meet the standard set out in Statement (1) above ($ 1,000,000 net worth) or Statement (2) above ($[[USD Value 4]] individual income or $[[USD Value 5]] joint income). For purposes of this representation, “net worth” means the excess of total tangible assets at current value less total liabilities. Please list below the names of all equity owners of Subscriber. EACH SUCH EQUITY OWNER MUST COMPLETE A SUBSCRIBER QUESTIONNAIRE AND CERTIFICATION.
+
+Name of All Equity Owners
+_____________________________________________
+_____________________________________________
+_____________________________________________
+
+**FOR TRUSTS OTHER THAN EMPLOYEE BENEFIT TRUSTS:**
+
+____________   5.   Subscriber represents that it has total assets in excess of $[[USD Value 8: Number]] was not formed for the specific purpose of acquiring Units and that the investment is being directed by a sophisticated Person as defined below. For purposes of this representation, a “sophisticated Person” means a Person who has such knowledge and experience in financial and business matters that he or she is capable of evaluating the merits and risks of the prospective investment.
+
+____________   6.   Subscriber represents that it is (a) a bank as defined in Section 3(a)(2) of the 1933 Act, (b) acting in its fiduciary capacity as trustee, (c) subscribing for the purchase of the securities being offered on behalf of a trust.
+
+____________   7.   Subscriber represents that it is a revocable trust that may be amended or revoked at any time by its grantors and that all of its grantors meet the standard set out in Statement (1) above ($[[USD Value 9: Number]] net worth) or statement (2) (above $[[USD Value 4]] individual income or $[[USD Value 5]] joint income). Please list below the names of all grantors. EACH SUCH GRANTOR MUST COMPLETE A SUBSCRIBER QUESTIONNAIRE AND CERTIFICATION.
+
+Name of Grantors
+_____________________________________________
+_____________________________________________
+_____________________________________________
+
+**FOR EMPLOYEE BENEFIT PLAN; OR STATE PLANS:**
+
+____________   8.   Subscriber represents that it is an employee benefit plan within the meaning of Title I of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), with respect to which the decision to invest was made by a plan fiduciary as defined in Section 3(21) of ERISA that is a bank, savings and loan association, insurance company or investment adviser registered under the Investment Advisers Act of 1940, as amended (the “**1940 Act**”).
+
+____________   9.   Subscriber represents that it is an employee benefit plan within the meaning of Title I of ERISA and it has total assets in excess of $[[USD Value 6]]
+
+____________   10.   Subscriber represents that it is a self-directed plan with respect to which the decision to invest was made solely by Persons who are “accredited investors” within the meaning of Regulation D under the 1933 Act.
+
+____________   11.   Subscriber represents that it is a plan established and maintained by a state, its political subdivisions, or an agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, and that it has total assets in excess of $[[USD Value 6]]
+
+**FOR CHARITABLE ORGANIZATIONS:**
+
+____________   12.   Subscriber represents that it is an organization described in Section 501(c)(3) of the Internal Revenue Code of 1986, as amended not formed for the specific purpose of acquiring Units with total assets in excess of $[[USD Value 6]]
+
+**OTHER ACCREDITED INVESTORS:**
+
+____________   13.   Subscriber represents that it is either a non-resident alien of the United States, a foreign entity (i.e., not formed under the laws of any state of the United States or its territories) or a bank as defined in Section 3 (a)(2) of the 1933Act whether acting in its individual or fiduciary capacity.
+
+____________   14.   Subscriber represents that it is a savings and loan association or other institution specified in Section 3(a)(5)(A) of the 1933 Act whether acting in its individual or fiduciary capacity.
+
+____________   15.   Subscriber represents that it is a broker or dealer registered pursuant to Section 15 of the Securities Exchange Act of 1934.
+
+____________   16.   Subscriber represents that it is an insurance company as defined in Section 2(13) of the 1933 Act.
+
+____________   17.   Subscriber represents that it is an investment company registered under the 1940 Act.
+
+____________   18.   Subscriber represents that it is a business development company as defined in Section 2(a) (48) of the 1940 Act.
+
+____________   19.   Subscriber represents that it is a Small Business Investment Company licensed by the U.S. Small Business Administration under Section 301(c) or (d) of the Small Business Investment Act of 1958, as amended.
+
+____________   20.   Subscriber represents that it is a private business development company as defined in Section 202(a)(22) of the 1940 Act.
+
+^FOR NON-U.S. PERSON SUBSCRIBERS  
+**(If the Subscriber is not a U.S. Person the Subscriber must INITIAL this section):**
+
+**Initial _______** The Subscriber is not a “U.S. Person” as defined in Regulation S; and specifically the Subscriber is not:
+
+^a natural Person resident in the United States of America, including its territories and possessions (“**United States**”);
+
+^a partnership or corporation organized or incorporated under the laws of the United States;
+
+^an estate of which any executor or administrator is a U.S. Person;
+
+^a trust of which any trustee is a U.S. Person;
+
+^an agency or branch of a foreign entity located in the United States;
+
+^a non-discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary for the benefit or account of a U.S. Person;
+
+^a discretionary account or similar account (other than an estate or trust) held by a dealer or other fiduciary organized, incorporated, or (if an individual) resident in the United States; or
+
+^a partnership or corporation: (i) organized or incorporated under the laws of any foreign jurisdiction; and (ii) formed by a U.S. Person principally for the purpose of investing in securities not registered under the 1933 Act, unless it is organized or incorporated, and owned, by accredited investors (as defined in Rule 501(a) under the 1933 Act) who are not natural Persons, estates or trusts.
+
+And, in addition:  
+
+^the Subscriber was not offered the Units in the United States;
+
+^at the time the buy-order for the Units was originated, the Subscriber was outside the United States; and
+
+^the Subscriber is purchasing the Units for its own account and not on behalf of any U.S. Person (as defined in Regulation S) and a sale of the Units has not been pre-arranged with a purchaser in the United States.
+
+\centered **[COMPANY’S SIGNATURE PAGE FOLLOWS]**
+
+\centered **HEPALIFE TECHNOLOGIES, INC.**
+
+IN WITNESS WHEREOF, the Company has duly executed this Subscription Agreement.
+
+Dated:      , 2010
+
+HEPALIFE TECHNOLOGIES, INC.
+
+[[HEPALIFE TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HEPALIFE TECHNOLOGIES INC. Entity => By: [[HEPALIFE TECHNOLOGIES INC. Signatory First Name]] [[HEPALIFE TECHNOLOGIES INC. Signatory Last Name]]
+Title: [[HEPALIFE TECHNOLOGIES INC. Signatory Title]]}}
+
+
+\centered **[SUBSCRIBER’S SIGNATURE PAGE FOLLOWS]**
+
+\centered **HEPALIFE TECHNOLOGIES, INC.**
+
+\centered SUBSCRIBER SIGNATURE PAGE
+
+**IN WITNESS WHEREOF**, the Subscriber hereby executes this Subscription Agreement.
+
+Dated:      , 2010
+
+^$[[USD Value 11]]   **=**   **$**
+Number of Units      Price per Share      Purchase Price
+
+**SUBSCRIBER** (individual)      **SUBSCRIBER** (entity)
+
+Signature      Name of Entity
+
+Print Name      Signature
+
+Print Name:
+Signature (if Joint Tenants or Tenants in Common)
+Title:
+
+Address of Principal Residence:      Address of Executive Offices:
+
+Social Security Number(s):      IRS Tax Identification Number:
+
+Telephone Number:      Telephone Number:
+
+Facsimile Number:      Facsimile Number:
+
+E-mail Address:      E-mail Address:
+
+Placement Agent, if any:
+
+\centered **Exhibit A**
+
+\centered Form of Series E Warrant
+
+\centered **Exhibit B**
+
+\centered Form of Series F Warrant
+
+\centered **Exhibit C**
+
+\centered Form of Escrow Agreement

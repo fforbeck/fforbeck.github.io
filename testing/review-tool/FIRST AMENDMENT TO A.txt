@@ -1,108 +1,13 @@
-\centered 
+\centered **FIRST AMENDMENT TO AMENDED AND RESTATED BYLAWS OF THE ST. JOE COMPANY** 
 
-\centered **FIRST AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT**
+The undersigned duly elected Senior Vice President, Corporate Counsel and Secretary of The St. Joe Company, a Florida corporation (the “Company”), does hereby certify that the Board of Directors of the Company unanimously approved and adopted the following amendment to the Company’s Amended and Restated Bylaws on [[Date 1: Date]], effective as of such date: 
 
-\centered **AND NOTE MODIFICATION AGREEMENT**
+The Company’s Amended and Restated Bylaws shall be amended by deleting Section 1 of Article III and replacing it with the following: 
 
-THIS FIRST AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT AND NOTE MODIFICATION AGREEMENT (the "Amendment") is dated as of [[Date 1: Date]], and is made by and between ORWELL NATURAL GAS COMPANY, an [[State of Formation: State]] [[Organization: EntityType]] (the "Borrower"), and THE HUNTINGTON NATIONAL BANK (the "Lender").
+General Powers; Number. The business and property of the Company shall be managed under the direction of a Board of Directors. The number of Directors that shall constitute the Board of Directors shall be fixed exclusively by resolutions adopted by the Board of Directors from time to time; provided, however, that the Company shall not have less than five (5) directors. The Board of Directors shall have full control over the affairs of the Company and shall be authorized to exercise all of its corporate powers unless otherwise provided in these bylaws. The Directors shall be elected at the Annual Meeting of the Shareholders by a plurality of the votes cast at such election, for the term of one year, and shall serve until the election and acceptance of their duly qualified successors. 
 
-WHEREAS, the Borrower, the Guarantors and the Lender are parties to that certain Amended and Restated Loan Agreement dated as of [[Date 2: Date]] (the "Loan Agreement");
+IN WITNESS WHEREOF, the undersigned has executed this First Amendment as of [[Date 1]]. 
 
-WHEREAS, the Borrower and the Guarantors have requested the Lender to extend the maturity date for the loans under the Loan Agreement in order to permit the Borrower to effect a refinancing of the Obligations, and the Lender has agreed to such request, subject to the terms and conditions set forth herein.
-
-NOW, THEREFORE, the parties hereto, in consideration of their mutual covenants and agreements herein contained, and intending to be legally bound hereby, covenant and agree as follows:
-
-^**Recitals**. The foregoing recitals are true and correct and incorporated herein by reference.
-
-^**Defined Terms**. Defined terms used herein unless otherwise defined herein shall have the meanings given to them in the Loan Agreement.
-
-^**Restated Definitions**. The following definition set forth in Section 1.1 of the Loan Agreement is hereby amended and restated as follows:
-
-"**Line of Credit Termination Date**" means **[[Date 3: Date]]**.
-
-^**Amendment of Section 2.2a of the Loan Agreement.** Section 2.2a [Term Loan; Term Note] of the Loan Agreement is hereby amended and restated as follows:
-
-**"2.2a** **Term Loan; Term Note**.** The obligation of the Borrower to repay, on or before **[[Date 3]]**, the unpaid principal amount of the Term Loan shall be evidenced by the Term Note. The principal amount actually due and owing the Lender under the Term Note made payable to it shall be the unpaid principal amount of the Term Loan due the Lender, all as shown on the Loan Account established pursuant to Section 2.9 hereof. As of [[Date 4: Date]], the outstanding principal balance of the Term Loan is $[[USD Value 1: Number]]."**
-
-^**Amendment of Section 2.2b(i) of the Loan Agreement.** Section 2.2b(i) [Scheduled Principal Payments] of the Loan Agreement is hereby amended and restated as follows:
-
-"(i) **Scheduled Principal Payments**. Principal and interest on the Term Loan shall be repaid in consecutive monthly installments, each in the amount of $[[USD Value 2: Number]], commencing on [[Date 2]] and on the last day of each month thereafter through and including **[[Date 5: Date]]**, with the final payment on **[[Date 3]]**, being equal to the outstanding principal balance of the Term Loan plus accrued and unpaid interest. The Borrower shall execute a Note Modification Agreement in form and content acceptable to the Lender evidencing the extension of the maturity date of the Term; provided however, that the parties hereby acknowledge and agree that no novation is intended or shall result from such modification."
-
-^**Modification of Line of Credit Note**. Section 1(a) of the Line of Credit Note is hereby amended and restated to read as follows:
-
-"(a) The maturity date shall be extended to **[[Date 3]]**; and."
-
-^**Modification of Term Note**. Section 1(a) of the Term Loan Note is hereby amended and restated to read as follows:
-
-"(a) The maturity date shall be extended to **[[Date 3]]**; and."
-
-^**Extension Fee**. The Borrower agrees to pay the Lender a nonrefundable Amendment Fee for extension set forth herein in the amount of $[[USD Value 3: Number]] payable on the effective date of this Amendment, which amount shall be deemed to be earned as of the date hereof.
-
-^**Representations and Warranties; No Defaults**. The Borrower represents and warrants to the Lender that after giving effect to this Amendment (i) the representations and warranties contained in Article IV of the Loan Agreement and in each of the other Loan Documents are true and accurate on and as of the date hereof with the same effect as though such representations and warranties had been made on and as of such date (except representations and warranties which relate solely to an earlier date or time, which representations and warranties shall be true and correct on and as of the specific dates or times referred to therein), and (ii) no Event of Default or Default under the Loan Agreement or any of the other Loan Documents has occurred or exists as of the date hereof.
-
-^**Effective Date**. This Amendment shall become effective upon due execution and delivery by all the parties hereto and payment of the fees and expenses payable to the Lender in accordance with Sections 8 and 13 of this Amendment.
-
-^**Governing Law**. This Amendment shall be deemed to be a contract under the laws of the State of Ohio and for all purposes shall be governed by and construed and enforced in accordance with the internal laws of the State of Ohio without regard to its conflict of laws principles.
-
-^**Full Force and Effect**. Except as expressly modified by this Amendment, all of the terms, conditions, representations, warranties, and covenants of the Loan Agreement and the other Loan Documents are true and correct and shall continue in full force and effect, including without limitation, all liens and security interests securing the Borrower’s Obligations to the Lender.
-
-^**Reimbursement of Expenses**. The Borrower unconditionally agrees to pay and reimburse the Lender and save the Lender harmless against liability for the payment of all out-of-pocket costs, expenses and disbursements, including without limitation, reasonable fees and expenses of counsel incurred by the Lender in connection with the development, preparation, execution, administration, interpretation or performance of this Amendment, the Loan Agreement, the Loan Documents and all other documents or instruments to be delivered or recorded in connection therewith.
-
-^**Counterparts**. This Amendment may be executed by different parties hereto in any number of separate counterparts, each of which, when so executed and delivered shall be an original and all such counterparts shall together constitute one and the same instrument.
-
-^**Entire Agreement**. This Amendment sets forth the entire agreement and understanding of the parties with respect to the transactions contemplated hereby and supersedes all prior understandings of the parties with respect to the transactions contemplated hereby and supersedes all prior understandings and agreements, whether written or oral, between the parties hereto relating to the subject matter hereof. No representation, promise, inducement or statement of intention has been made by any party which is not embodied in this Amendment and no party shall be bound by or liable for any alleged representation, promise, inducement, or statement of intention not set forth herein.
-
-\centered **[SIGNATURE PAGE FOLLOWS]**
-
-\centered **[SIGNATURE PAGE TO FIRST AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT AND NOTE MODIFICATION AGREEMENT]**
-
-IN WITNESS WHEREOF, the parties hereto, by their officers thereunto duly authorized, have executed this First Amendment to Amended and Restated Loan Agreement and Note Modification Agreement as of the day and year first above written.
-
-ORWELL NATIONAL GAS COMPANY
-
-[[ORWELL NATIONAL GAS COMPANY Signatory Email: Identity | Signature]]
-__________________________________________
-{{ORWELL NATIONAL GAS COMPANY Entity => By: [[ORWELL NATIONAL GAS COMPANY Signatory First Name]] [[ORWELL NATIONAL GAS COMPANY Signatory Last Name]]
-Title: [[ORWELL NATIONAL GAS COMPANY Signatory Title]]}}
-
-
-THE HUNTINGTON NATIONAL BANK
-
-[[THE HUNTINGTON NATIONAL BANK Signatory Email: Identity | Signature]]
-__________________________________________
-{{THE HUNTINGTON NATIONAL BANK Entity => By: [[THE HUNTINGTON NATIONAL BANK Signatory First Name]] [[THE HUNTINGTON NATIONAL BANK Signatory Last Name]]
-Title: [[THE HUNTINGTON NATIONAL BANK Signatory Title]]}}
-
-
-\centered **[SIGNATURE PAGE TO FIRST AMENDMENT TO AMENDED AND RESTATED LOAN AGREEMENT AND NOTE MODIFICATION AGREEMENT]**
-
-\centered **GUARANTOR JOINDER**
-
-The undersigned hereby join in the foregoing First Amendment to Amended and Restated Loan Agreement and Note Modification Agreement for the purpose of acknowledging that their respective obligations under the Amended and Restated Continuing Agreement of Guaranty and Suretyship dated as of [[Date 2]] continue and remain in full force and effect.
-
-ONG MARKETING, INC.
-
-[[ONG MARKETING INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{ONG MARKETING INC. Entity => By: [[ONG MARKETING INC. Signatory First Name]] [[ONG MARKETING INC. Signatory Last Name]]
-Title: [[ONG MARKETING INC. Signatory Title]]}}
-
-
-LIGHTNING PIPELINE COMPANY, INC.
-
-[[LIGHTNING PIPELINE COMPANY INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{LIGHTNING PIPELINE COMPANY INC. Entity => By: [[LIGHTNING PIPELINE COMPANY INC. Signatory First Name]] [[LIGHTNING PIPELINE COMPANY INC. Signatory Last Name]]
-Title: [[LIGHTNING PIPELINE COMPANY INC. Signatory Title]]}}
-
-
-LIGHTNING PIPELINE COMPANY II, INC.
-
-[[LIGHTNING PIPELINE COMPANY II INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{LIGHTNING PIPELINE COMPANY II INC. Entity => By: [[LIGHTNING PIPELINE COMPANY II INC. Signatory First Name]] [[LIGHTNING PIPELINE COMPANY II INC. Signatory Last Name]]
-Title: [[LIGHTNING PIPELINE COMPANY II INC. Signatory Title]]}}
-
-
-/s/ Richard M. Osborne
-RICHARD M. OSBORNE
+/s/ Reece B. Alford
+Reece B. Alford
+Senior Vice President, Corporate Counsel and Secretary

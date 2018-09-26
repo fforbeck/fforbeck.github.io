@@ -1,0 +1,584 @@
+\centered **DATED [[Date 1: Date]]** 
+
+\centered **MI ENERGY CORPORATION as Borrower** 
+
+\centered **CITIC KA WAH BANK LIMITED as Facility Agent** 
+
+\centered **CITIC KA WAH BANK LIMITED as Offshore Security Agent** 
+
+\centered **SUPPLEMENTAL AGREEMENT RELATING TO FACILITY AGREEMENT dated 28 [[Date 2: Date]]** 
+
+^^^^^ 
+\centered **CONTENTS** 
+
+Number    Clause Heading    Page 1.    Interpretation       2.    Conditions Precedent       3.    Amendments To The Facility Agreement       4.    Release of Released Security Documents       5.    Consent to Disposal       6.    Confirmations Of Security Documents       7.    Non-Completion of IPO       8.    Representations and Warranties       9.    Undertakings       10.    Fees and Expenses       11.    Waivers with respect to the Underwriting Agreement       12.    Miscellaneous       13.    Governing Law and Jurisdiction       
+
+**Execution** 
+
+Schedules 
+
+^Form of Confirmation       1-1 2.    Form of Letter of Undertaking (FEE)       2-1 3.    Form of New Guarantee       3-1 4.    Exchange Arrangements for Release Documents       4-1 5.    Relevant Released Documents       5-1  
+
+^^^^^ 
+**THIS SUPPLEMENTAL AGREEMENT** is made on the 5th day of May2010 
+
+**BETWEEN:**  
+^**MI ENERGY CORPORATION**, a company with limited liability incorporated under the laws of Cayman Islands, with its registered address at c/o Maples Corporate Services Limited, P.O. Box 309, Ugland House, Grand Cayman, KY1-1104, Cayman Islands as borrower (the “**Borrower**”);
+
+^**CITIC KA WAH BANK LIMITED** as facility agent for the Finance Parties referred to below (in this capacity, the “**Facility Agent**”); and
+
+^**CITIC KA WAH BANK LIMITED** as offshore security agent for the Finance Parties referred to below (in this capacity, the “**Offshore Security Agent**”).
+
+**WHEREAS:**  
+^By a facility agreement (the “**Facility Agreement**”) dated 28 [[Date 2]] made between (1) the Borrower, (2) the banks and financial institutions listed in Schedule 1 thereto as lenders (the “**Lenders**”), (3) [[State of Formation: State]] [[Organization: EntityType]] Limited, Guangzhou Branch as onshore security agent, (4) the Offshore Security Agent and (5) the Facility Agent, the Lenders agreed to make available to the Borrower a loan facility of US$[[USD Value 1: Number]] upon the terms and conditions set out therein.
+
+^The obligations of the Borrower under the Facility Agreement are secured by, *inter alia*, (1) a share mortgage dated 28 [[Date 2]] in respect of [[Percentage 1: Number]]% of the entire issued share capital of Far East Energy executed by Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881002.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881000.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881001.gif) (the “**Share Mortgage (FEE)**”) and (2) a share mortgage dated 28 [[Date 2]] in respect of [[Percentage 1]]% of the entire issued share capital of the Corporate Shareholder executed by Far East Energy (the “**Share Mortgage (MIEH)**”).
+
+^At the request of the Borrower, the Facility Agent and the Offshore Security Agent (each at the instructions of and on behalf of the Lenders) have agreed to amend the terms of the Facility Agreement and to release the security created under the Released Security Documents (as defined below) pursuant to clause 19 of the Facility Agreement on the terms and conditions set out herein.
+
+**NOW IT IS AGREED** as follows:  
+^**INTERPRETATION**
+
+^^Interpretation. Unless the context otherwise requires terms and expressions defined in the Facility Agreement have the same meanings when used in this Supplemental Agreement.
+
+^^Definitions. In this Supplemental Agreement:
+
+^^^^^ 
+“**Amended Facility Agreement**” means the Facility Agreement as amended and/or supplemented by this Supplemental Agreement with effect from immediately before the occurrence of the Trading;
+
+“**Anticipated Trading Date**” has the meaning given to it in Clause 4.1;
+
+“**Closing**” means the occurrence of both of the following events:
+
+^^the receipt by the Corporate Shareholder of the proceeds of the public offering under the IPO; and
+
+^^the release of the shares in the Corporate Shareholder subject to the public offering under the IPO to the relevant purchaser(s);
+
+“**Confirmation**” means a confirmation of Far East Energy and the Corporate Shareholder executed or to be executed in the form or substantially in the form set out in Schedule 1;
+
+“**Deeds of Release**” has the meaning given to it in Clause 4.1;
+
+“**Escrow Release Documents**” has the meaning given to it in Clause 4.1;
+
+“**IPO**” means the initial public offering of the shares in the Corporate Shareholder effected or to be effected on the New York Stock Exchange by way of American Depositary Shares;
+
+“**Letter of Undertaking (FEE)**” means the letter of undertaking executed or to be executed by Far East Energy in favour of the Facility Agent in the form or substantially in the form set out in Schedule 2;
+
+“**New Guarantee**” means the corporate guarantee executed or to be executed by the Corporate Shareholder in favour of the Offshore Security Agent in the form or substantially in the form set out in Schedule 3;
+
+“**Process Agent**” has the meaning given to it in Clause 11.3;
+
+“**Released Security Documents**” means the Share Mortgage (FEE) and the Share Mortgage (MIEH);
+
+“**Relevant Date**” has the meaning ascribed thereto in Clause 7;
+
+“**Replacement Share Mortgage (FEE)**” means a share mortgage in respect of [[Percentage 1]]% of the entire issued share capital of Far East Energy executed or to be executed by Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881005.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881005.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881003.gif) in favour of the Offshore Security Agent on or after the date of this Supplemental Agreement, in substantially the same form as the Share Mortgage (FEE);
+
+“**Replacement Share Mortgage (MIEH)**” means a share mortgage in respect of [[Percentage 1]]% of the entire issued share capital of the Corporate Shareholder executed or to be executed by Far East Energy in favour of the Offshore Security Agent on or after the
+
+^^^^^ 
+date of this Supplemental Agreement, in substantially the same form as the Share Mortgage (MIEH);
+
+“**Replacement Share Mortgages**” means the Replacement Share Mortgage (FEE) and the Replacement Share Mortgage (MIEH);
+
+“**Supplemental Security Documents**” means the Confirmation, the Letter of Undertaking (FEE), the New Guarantee and (to the extent the same having become effective pursuant to Clause 7(a)) the Replacement Share Mortgages;
+
+“**Trading**” means the commencement of the trading of the shares in the Corporate Shareholder in the form of American Depositary Shares on the New York Stock Exchange;
+
+“**Trading Date**” means the date on which the Trading occurs;
+
+“**Underwriting Agreement**” means the underwriting agreement in respect of the IPO to be entered into between, among others, Far East Energy, the Corporate Shareholder, Merrill Lynch, Pierce, Fenner & Smith Incorporated and J.P. Morgan Securities Inc. as representatives of the underwriters thereunder;
+
+“**Waiver Fee Letter**” means the fee letter in respect of the waiver fee in respect of the transactions contemplated under this Agreement executed or to be executed by the Borrower and the Facility Agent, in agreed form.
+
+^^Successors and Assigns. The expressions “**Borrower**”, “**Lenders**”, “**Facility Agent**” and “**Offshore Security Agent**” shall where the context permits include their respective successors and permitted assigns and any persons deriving title under them.
+
+^^Miscellaneous. In this Supplemental Agreement, unless the context requires otherwise, words importing the singular include the plural and vice versa and words importing a gender include every gender; unless otherwise stated, references to Clauses and Schedules are to clauses of and schedules to this Supplemental Agreement. Clause headings are inserted for reference only and shall be ignored in construing this Supplemental Agreement.
+
+^**CONDITIONS PRECEDENT**
+
+^^Conditions. The Borrower shall procure the provision to the Facility Agent of:
+
+^^this Supplemental Agreement (in triplicate) duly executed by all the parties;
+
+^^in relation to the Borrower:
+
+^^^a certified true copy of its memorandum and articles of association or a written confirmation from a director of the Borrower confirming that its memorandum and articles of association have not been amended since certified copies of the same were last produced to the Facility Agent in connection with the Facility Agreement;
+
+^^^^^ 
+^^^a certified true copy of its current business licence issued by SAIC which evidence that it has duly passed its annual examination in 2008;
+
+^^^a list of its directors;
+
+^^^a copy of its certificate of good standing issued by the Registrar of Companies of the Cayman Islands and dated no earlier than seven (7) days prior to the date of this Supplemental Agreement;
+
+^^a certified true copy of resolutions of its board of directors authorising its entry into and performance of this Supplemental Agreement and the Waiver Fee Letter and the transactions contemplated thereby and authorising a person or persons to execute this Supplemental Agreement and the Waiver Fee Letter;
+
+^^in relation to each of the Corporate Shareholder and Far East Energy:
+
+^^^certified true copy of its memorandum and articles of association, bye-laws (if any) and all other constitutional documents or a written confirmation from its director confirming that its memorandum and articles of association and by-laws (if any) have not been amended since certified copies of the same were last produced to the Facility Agent in connection with the Facility Agreement;
+
+^^^(only in relation to Far East Energy) a certified true copy of its current business registration certificate;
+
+^^^(only in relation to the Corporate Shareholder) a certified true copy of the current shareholders’ agreement in respect of the Corporate Shareholder;
+
+^^^(only in relation to the Corporate Shareholder) a copy of its certificate of good standing issued by the Registrar of Companies of the Cayman Islands and dated no earlier than seven (7) days prior to the date of this Supplemental Agreement;
+
+^^^a list of its directors;
+
+^^^a list of its shareholders and their respective shareholdings;
+
+^^^certified copies of resolutions of its board of directors and shareholders authorising its entry into and performance of, and the confirming or extending of security under, the Supplemental Security Documents to which it is a party and authorising a person or persons to execute the Supplemental Security Documents to which it is a party and the specimen signatures of such persons;
+
+^^the Confirmation (in triplicate) duly executed by Far East Energy and the Corporate Shareholder;
+
+^^^^^ 
+^^the Letter of Undertaking (FEE) (in duplicate) duly executed by Far East Energy;
+
+^^the (undated) New Guarantee (in duplicate) duly executed by the Corporate Shareholder;
+
+^^the Waiver Fee Letter (in duplicate) duly executed by the Borrower and the Facility Agent;
+
+^^(i) a copy of the consent letter dated 9 [[Date 3: Date]] from the Facility Agent to the Borrower, the Corporate Shareholder, Far East Energy, Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881006.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881007.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881008.gif) and counter-signed by the Borrower, the Corporate Shareholder, Far East Energy, Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881009.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881016.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881015.gif) and (ii) a copy of the consent letter dated 22 [[Date 3]] from the Facility Agent to the Borrower, the Corporate Shareholder, Far East Energy, Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881010.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881017.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881014.gif) and counter-signed by the Borrower, the Corporate Shareholder, Far East Energy, Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h037881012.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h037881013.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h037881011.gif);
+
+^^evidence that all necessary filings, registrations and other formalities have been or will be completed in order to ensure that this Supplemental Agreement and the Supplemental Security Documents (other than the Replacement Share Mortgages) are valid and enforceable and to procure the priority of the security created under the relevant Supplemental Security Documents (other than the Replacement Share Mortgages);
+
+^^legal opinions covering such matters of Hong Kong, the Cayman Islands and other laws relevant to this transaction as the Facility Agent may request;
+
+^^a written confirmation of acceptance of appointment from Law Debenture Services (H.K.) Limited as process agent in Hong Kong for the Borrower and the Corporate Shareholder in respect of this Supplemental Agreement and the relevant Supplemental Security Documents;
+
+^^a certificate issued by a director of each of the Borrower and the Corporate Shareholder each in the form requested by the Facility Agent’s Cayman legal counsel;
+
+^^a copy of the audited consolidated financial statements of the Corporate Shareholder for its financial year ended 31 [[Date 4: Date]];
+
+^^such other documents relating to any of the matters contemplated herein as the Facility Agent may reasonably request.
+
+^^Facility Agent’s Approval. All the documents and evidence referred to in Clause 2.1 shall be in form and substance satisfactory to the Facility Agent and only one copy,
+
+^^^^^ 
+original, certified copy or counterpart shall be supplied unless otherwise provided herein. Copies required to be certified shall be certified in a manner satisfactory to the Facility Agent by a director or responsible officer of the Borrower or other party concerned.
+
+^^Notice. Upon receipt of all the documents and evidence referred to in Clause 2.1, the Facility Agent shall give notice of that fact to the Borrower, the Offshore Security Agent and the Lenders.
+
+^^Escrow Arrangement for New Guarantee. The New Guarantee delivered to the Facility Agent pursuant to Clause 2.1(f) shall be held in escrow by the Facility Agent and shall only be dated and take effect in accordance with the arrangements set out in Schedule 4. The Facility Agent (as instructed by the Lenders and on behalf of the Lenders) hereby waives any breach of clause 14.2(f) of the Facility Agreement which may arise as a result of the execution, delivery and performance of the New Guarantee by the Corporate Shareholder.
+
+^**AMENDMENTS TO THE FACILITY AGREEMENT**
+
+^^Amendments. Subject to and conditional upon the satisfaction of each of the conditions as specified in Clause 3.2, with effect from immediately before the occurrence of the Trading, the following clauses of the Facility Agreement shall be amended in the following manner:
+
+^^clause 14.1(e)(i) of the Facility Agreement shall be deleted in its entirety and replaced by the following provision:
+
+“(aa) the Personal Shareholders will, jointly or individually, beneficially own not less than fifty one per cent ([[Percentage 1]]%) of the entire issued share capital of Far East Energy free from any Encumbrances and (bb) the Personal Shareholders will, jointly or individually, maintain the management control of Far East Energy;”
+
+^^clause 14.1(e)(ii) of the Facility Agreement shall be deleted in its entirety and replaced by the following provision:
+
+“(aa) Far East Energy shall continue to be the single largest shareholder of the Corporate Shareholder (for the avoidance of doubt, any shares in the Corporate Shareholder held by any depositary bank as nominee of or on trust for Far East Energy shall be deemed to be under the ownership of Far East Energy, and any depositary bank holding shares in the Corporate Shareholder representing American depositary shares shall not be deemed as a single shareholder for the purpose of this Clause), (bb) Far East Energy shall maintain the management control of the Corporate Shareholder and (cc) Far East Energy shall continue to own not less than thirty five per cent ([[Percentage 2: Number]]%) of the entire issued share capital of the Corporate Shareholder free from any Encumbrances;” and
+
+^^in clause 15.1(m) of the Facility Agreement, the two references to “[[Percentage 1]]%” therein shall be replaced by “[[Percentage 2]]%”.
+
+^^^^^ 
+^^Further Conditions. The amendments to the Facility Agreement, the release of the security created under the Released Security Documents and the grant of the Facility Agent’s consent as specified in Clause 5 in each case pursuant to this Supplemental Agreement or the Deeds of Release shall each be subject to and conditional upon the satisfaction of each of the following conditions:
+
+^^the Facility Agent having issued the written notice referred to in Clause 2.3 to the Borrower, the Offshore Security Agent and the Lenders; and
+
+^^no Event of Default having occurred and being continuing as at the date of this Supplemental Agreement and the Trading Date.
+
+^^Confirmation of the Facility Agreement. The Borrower hereby confirms that, except for those affected by the amendments to the Facility Agreement with effect from immediately before the occurrence of the Trading, its obligations under the Facility Agreement remain in full force and effect and are not and will not be affected, discharged or varied by the execution of this Supplemental Agreement and that save as amended by this Supplemental Agreement with effect from immediately before the occurrence of the Trading, the terms of the Facility Agreement will remain in full force and effect.
+
+^**RELEASE OF RELEASED SECURITY DOCUMENTS**
+
+^^Execution of Deeds of Release. Subject to and conditional upon the issuance of the Facility Agent’s written notice referred to in Clause 2.3 to the Borrower, the Offshore Security Agent and the Lenders, the Offshore Security Agent shall execute the deeds of release (collectively the “**Deeds of Release**”), each in form and substance satisfactory to the Offshore Security Agent, in respect of the Released Security Documents and deliver the duly executed (but undated) Deeds of Release together with the documents listed in Schedule 5 (collectively the “**Escrow Release Documents**”) to Baker & McKenzie, the legal counsel for the Facility Agent and the Offshore Security Agent, on the Business Day immediately prior to the date (the “**Anticipated Trading Date**”) on which the Trading is anticipated to occur as specified in the written notice issued by the Borrower to the Facility Agent pursuant to Clause 9(a).
+
+^^Release and Effectiveness of Deeds of Release. The Borrower agrees (and shall procure the relevant parties to ensure) that the Deeds of Release delivered to Latham & Watkins, the legal counsel for the Borrower, pursuant to Schedule 4 shall not be dated and take effect except pursuant to the arrangements set out in Schedule 4. Each of the Borrower and the Facility Agent shall procure that its legal counsel will comply with the arrangements as specified in Schedule 4.
+
+^**CONSENT TO DISPOSAL**
+
+Subject to and conditional upon the satisfaction of each of the conditions as specified in Clause 3.2, the Facility Agent (as instructed by the Lenders and on behalf of the
+
+^^^^^ 
+Lenders) hereby agrees that, with effect from the occurrence of the IPO, Far East Energy may dispose of not exceeding [[Percentage 3: Number]]% of the entire issued share capital of the Corporate Shareholder immediately upon the occurrence of the IPO (assuming the over-allotment option in respect of the IPO has been exercised in full by the underwriters of the IPO), **Provided** that:
+
+^^such disposed shares either form part of the shares of the Corporate Shareholder to be offered for public subscription under the IPO or are sold to any other third party within one (1) year after the Trading Date; and 
+
+^^the aggregate consideration price received or to be received by Far East Energy in respect of all such disposal(s) shall not exceed US$[[USD Value 2: Number]] (or its equivalent in any other currency). 
+
+^**CONFIRMATIONS OF SECURITY DOCUMENTS**
+
+The Borrower confirms that its obligations under and the security created by the Security Documents to which it is a party continue in full force and effect and are not and will not be affected, discharged or varied by the execution of this Supplemental Agreement, the amendment of the Facility Agreement on the Trading Date as contemplated in Clause 3.1, the release of the security under the Released Security Documents or the grant of the other consent of the Facility Agent pursuant to Clause 5 save that, with effect from immediately before the occurrence of the Trading, references to the Facility Agreement in the Security Documents to which it is a party shall be deemed to be references to the Amended Facility Agreement. The Borrower further confirms that its obligations under and the security interests created by the Security Documents to which it is a party will, with effect from immediately before the occurrence of the Trading, extend in all respects to the Amended Facility Agreement.
+
+^**NON-COMPLETION OF IPO**
+
+The parties to this Supplemental Agreement hereby agree that, if the Closing does not occur within five (5) Business Days after the Trading Date (the “**Relevant Date**”):
+
+^^the Borrower shall deliver (or procured to be delivered) to the Lender and the Lender shall have received on the Relevant Date the following documents:
+
+^^^the Replacement Share Mortgage (FEE) duly executed by Zhao Jiang Wei ![(CHINESE CHARACTERS)](h03788a3h03788i41.gif), Zhang Rui Lin ![(CHINESE CHARACTERS)](h03788a3h03788i42.gif) and Shang Zhi Guo ![(CHINESE CHARACTERS)](h03788a3h03788i43.gif) together with such other documents as required to be delivered thereunder;
+
+^^^the Replacement Share Mortgage (MIEH) duly executed by Far East Energy together with such other documents as required to be delivered thereunder;
+
+^^^the board (and if required, shareholders) resolutions of Far East Energy
+
+^^^^^ 
+approving the execution of the Replacement Share Mortgage (MIEH) and authorizing a person(s) to execute such document and any other notices or documents required in connection therewith, and the specimen signature(s) of such person(s);
+
+^^^the Hong Kong legal opinion with respect to the Replacement Share Mortgages;
+
+^^(i) on the Relevant Date, the amendments to the Facility Agreement which have been made pursuant to Clause 3.1 shall be deemed to have been null and void and have no legal effect whatsoever and shall be deemed not to have been made pursuant to this Supplemental Agreement or otherwise, and (ii) forthwith upon request by the Facility Agent, the Borrower shall (and procure that the relevant parties shall) enter into such other document and take such other steps as required by the Facility Agent to give effect to the foregoing provisions of this paragraph (b); and
+
+^^(i) on the Relevant Date, the consent of the Facility Agent which has been given pursuant to Clause 5 shall be deemed to have been null and void and have no legal effect whatsoever and shall be deemed not to have been given by the Facility Agent pursuant to this Supplemental Agreement or otherwise, and (ii) forthwith upon request by the Facility Agent, the Borrower shall (and procure that the relevant parties shall) enter into such other document and take such other steps as required by the Facility Agent to give effect to the foregoing provisions of this paragraph (c) and/or to unwind any disposal of shares in the Corporate Shareholder effected pursuant to the aforesaid consent.
+
+^**REPRESENTATIONS AND WARRANTIES**
+
+^^Representations and Warranties. The Borrower represents and warrants to the Facility Agent that:
+
+^^the Borrower has full power, authority and legal right to enter into and engage in the transactions contemplated by this Supplemental Agreement and the Waiver Fee Letter and has taken or obtained all necessary corporate and other action to authorise the execution and performance of this Supplemental Agreement and the Waiver Fee Letter and the amendments to the Facility Agreement contemplated by this Supplemental Agreement;
+
+^^subject to Legal Reservations, this Supplemental Agreement and the Waiver Fee Letter constitute legal, valid and binding obligations of the Borrower enforceable in accordance with their terms;
+
+^^neither the execution of this Supplemental Agreement and the Waiver Fee Letter nor the performance by the Borrower of any of its obligations or the exercise of any of its rights thereunder will conflict with or result in a material breach of any law, regulation, judgment, order, authorisation, agreement or obligation applicable to it or cause any limitation placed on it or the powers of its directors to be exceeded or result in the creation of or oblige the Borrower
+
+^^^^^ 
+to create an Encumbrance in respect of any of its property or assets;
+
+^^all authorisations required from any governmental or other authority or from any shareholders or creditors of the Borrower for or in connection with the execution, validity and performance of this Supplemental Agreement and the Waiver Fee Letter and the Amended Facility Agreement have been obtained and are in full force and effect or, by the Trading Date will have been obtained and be in full force and effect;
+
+^^it is not necessary in order to ensure the validity, enforceability or admissibility in evidence in proceedings of this Supplemental Agreement, the Waiver Fee Letter or any of the Supplemental Security Documents in Hong Kong or the Cayman Islands that any of them or any other document be filed or registered with any authority in Hong Kong or the Cayman Islands or that any tax be paid in respect thereof;
+
+^^the Borrower is not in default under any law, regulation, judgment, order, authorisation, agreement or obligation applicable to it or its assets or revenues, the consequences of which default could have a Material Adverse Effect and no Event of Default or Potential Event of Default has occurred; and
+
+^^all information provided to the Finance Parties by or on behalf of the Borrower in connection with the waiver requests contained in the consent letters referred to in Clause 2.1(h) or Clause 11 or otherwise in connection with this Supplemental Agreement is true and accurate in all material respects and all forecasts and projections contained therein were arrived at after due and careful consideration on the part of the Borrower and were, in its considered opinion, fair and reasonable when made; the Borrower is not aware of any fact which has not been disclosed in writing to the Facility Agent which might have a material effect on any such information, forecasts or projections or which might affect the willingness of the Lenders or the Facility Agent to grant the relevant consents and/or waivers and/or to enter into this Supplemental Agreement and the transactions contemplated hereunder.
+
+^^Continuing Representation and Warranty. The Borrower also represents and warrants to and undertakes with the Facility Agent that the foregoing representations and warranties will be repeated on the date of each Advance and each Interest Payment Date and the Trading Date with reference to the facts and circumstances subsisting as at the date on which such representations and warranties are deemed to be made.
+
+^^Acknowledgment of Reliance. The Borrower acknowledges that the Facility Agent on its own behalf and on behalf of the Lenders has entered into this Supplemental Agreement in reliance upon the representations and warranties contained in this Clause.
+
+^**UNDERTAKINGS**
+
+The Borrower hereby undertakes to the Facility Agent that:
+
+^^^^^ 
+^^it shall give to the Facility Agent at least three (3) Business Days’ prior written notice of the occurrence of the Trading;
+
+^^forthwith upon the Underwriting Agreement being entered into by the parties thereto, it shall notify the Facility Agent in writing and deliver a copy of the executed Underwriting Agreement to the Facility Agent;
+
+^^forthwith upon the occurrence of the Trading, it shall notify the Facility Agent of the same in writing;
+
+^^forthwith upon the Underwriting Agreement being amended or terminated by any of the parties thereto, it shall notify the Facility Agent of the same in writing; and
+
+^^forthwith upon the occurrence of the Closing, it shall notify the Facility Agent of the same in writing.
+
+^**FEES AND EXPENSES**
+
+^^Expenses. The Borrower shall forthwith on demand, and whether or not the amendments to the Facility Agreement, the release of the security created under the Release Security Document and/or the grant of the relevant consent of the Facility Agent, in each case, pursuant to this Supplemental Agreement or the Deeds of Release has become effective and whether or not any of the events specified in Clause 7 occurs, pay to or reimburse each of the Finance Parties for its own account for all reasonable costs, charges and expenses (including legal and other fees on a full indemnity basis and printing, translation, communication, advertisement, travel and all other out-of-pocket expenses) incurred by it in connection with the negotiation, preparation, execution and (where relevant) registration of this Supplemental Agreement, the Supplemental Security Documents, the Deeds of Release and any other documentation required hereunder and the amendment of the Facility and any inspection, calculation or approval to be conducted, made or given by any of the Finance Parties pursuant to any provision of this Supplemental Agreement or any Supplemental Security Document.
+
+^^Enforcement Costs. The Borrower shall from time to time forthwith on demand, and whether or not the amendments to the Facility Agreement, the release of the security created under the Release Security Document and/or the grant of the relevant consent of the Facility Agent, in each case, pursuant to this Supplemental Agreement or the Deeds of Release has become effective, pay to or reimburse each of the Finance Parties for all costs, charges and expenses (including legal and other fees on a full indemnity basis and all other out-of-pocket expenses) incurred by it in exercising any of its rights or powers under this Supplemental Agreement or any Supplemental Security Document or in suing for or seeking to recover any sums due under this Supplemental Agreement or any Supplemental Security Document or otherwise preserving or enforcing its rights under this Supplemental Agreement or any Supplemental Security Document or in defending any claims brought against it in respect of this Supplemental Agreement or any Supplemental Security Document.
+
+^^^^^ 
+^^Taxes. The Borrower shall pay all present and future stamp and other like duties and taxes and all notarial, registration, recording and other like fees which may be payable in respect of this Supplemental Agreement or any Supplemental Security Document and shall indemnify each Finance Party against all liabilities, costs and expenses which may result from any default in paying such duties, taxes or fees.
+
+^**WAIVERS WITH RESPECT TO THE UNDERWRITING AGREEMENT**
+
+Subject to and conditional upon the issuance of the Facility Agent’s written notice referred to in Clause 2.3 to the Borrower:
+
+^^the Facility Agent (on behalf of the Lenders) waives any Event of Default which may arise under clauses 15.1(b), 15.1(m) and 15.1(u) of the Facility Agreement; and
+
+^^the Offshore Security Agent (on behalf of the Lenders) waives the compliance by Far East Energy of its obligations under clauses 5.1(a) and 5.1(c) of the Share Mortgage (MIEH),
+
+in each case:
+
+^^^during the period from immediately prior to the entry of the Underwriting Agreement by the parties thereto to the earlier of (aa) the date and time at which the amendments, releases and consents contemplated in Clauses 3, 4 and 5 come into effect pursuant to the terms of this Supplemental Agreement and (bb) the date and time at which the Underwriting Agreement is terminated by any of the parties thereto; and
+
+^^^solely as a result of (xx) the execution and delivery by Far East Energy and the Corporate Shareholder of the Underwriting Agreement and (yy) the sale of shares of the Corporate Shareholder by Far East Energy and the Corporate Shareholder under the IPO pursuant to the Underwriting Agreement,
+
+**Provided** that the completion of the sale of such shares by Far East Energy shall remain subject to the consent of the Facility Agent contemplated in Clause 5 becoming effective pursuant to Clause 5 and such sale being conducted in compliance with the requirements of Clause 5 and the other provisions of the Letter of Undertaking (FEE) and the other Finance Documents. Except as expressly provided in the foregoing provisions of this Clause 11, the Facility Agent and the other Finance Parties reserve all of their rights under the Finance Documents in connection with any breach of any provision of any Finance Document, Event of Default or other circumstances and the Finance Parties will have all rights and powers as provided for under the Finance Documents in respect of any such matter.
+
+^**MISCELLANEOUS**
+
+^^Construction as One Instrument. With effect from immediately before the occurrence of the Trading, this Supplemental Agreement shall be construed as supplementing and
+
+^^^^^ 
+forming part of the Facility Agreement and shall be read accordingly.
+
+^^Finance Documents. Each of this Supplemental Agreement, the Supplemental Security Documents and the Waiver Fee Letter shall constitute a Finance Document for the purpose of the Facility Agreement.
+
+^^Severability. If at any time any one or more of the provisions hereof is or becomes illegal, invalid or unenforceable in any respect under the applicable law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions hereof nor the legality, validity or enforceability of such provisions under the applicable law of any other jurisdiction shall in any way be affected or impaired thereby.
+
+^^Counterparts. This Supplemental Agreement may be executed in any number of counterparts and by different parties on separate counterparts which when taken together shall be deemed to constitute one agreement.
+
+^^Capacity of Facility Agent. The Facility Agent confirms that it is executing this Agreement on its own behalf and as facility agent for the Lenders and that it has been duly directed and authorised to do so in accordance with clause 19 of the Facility Agreement.
+
+^**GOVERNING LAW AND JURISDICTION**
+
+^^Law. This Supplemental Agreement and the rights and obligations of the parties hereunder shall be governed by and construed in accordance with the laws of Hong Kong.
+
+^^Jurisdiction. The Borrower agrees that any legal action or proceeding arising out of or relating to this Supplemental Agreement may be brought in the courts of Hong Kong and irrevocably submits to the non-exclusive jurisdiction of such courts.
+
+^^Process Agent. The Borrower hereby appoints Law Debenture Services (H.K.) Limited (the “**Process Agent**”) to be its agent to accept on behalf of the Borrower service of process issued by the Facility Agent in relation to this Supplemental Agreement. In the event of any action being commenced in Hong Kong in relation to this Supplemental Agreement, the Borrower agrees that the process by which such action is commenced shall be sufficiently served on the Borrower, and shall be deemed to have been so served, if addressed to the Process Agent and left at or sent by post to the following address:
+
+Room 3105, Alexandra House
+
+^Chater Road, Central
+
+Hong Kong 
+
+or to the registered office for the time being of the Process Agent. Notice of any change of Process Agent and/or its address for service in Hong Kong may be given to the Facility Agent in writing by the Borrower, in which case the new details of the new Process Agent and/or address will only apply with effect from the fifteenth (15th)
+
+^^^^^ 
+day after receipt of such notice by the Facility Agent. If service of process on the Process Agent is impracticable because the address for service has ceased to exist or otherwise, the Borrower agrees that, so long as the Facility Agent has arranged for the relevant documents to be couriered to the Borrower’s address as set out in clause 23.1 of the Facility Agreement (whether or not the Borrower has received such documents), the process shall be sufficiently served by inserting an advertisement of such process in an issue of a daily newspaper in Hong Kong, whereupon service shall be deemed to have been effected on the day of publication of such advertisement.
+
+^^No Limitation on Right of Action. Nothing herein shall limit the right of any Finance Party to commence any legal action against the Borrower and/or its property in any other jurisdiction or to serve process in any manner permitted by law, and the taking of proceedings in any jurisdiction shall not preclude the taking of proceedings in any other jurisdiction whether concurrently or not.
+
+^^Waiver; Final Judgment Conclusive. The Borrower irrevocably and unconditionally waives any objection which it may now or hereafter have to the choice of Hong Kong as the venue of any legal action arising out of or relating to this Supplemental Agreement. The Borrower also agrees that a final judgment against it in any such legal action shall be final and conclusive and may be enforced in any other jurisdiction, and that a certified or otherwise duly authenticated copy of the judgment shall be conclusive evidence of the fact and amount of its indebtedness.
+
+^^Waiver of Immunity. The Borrower irrevocably waives any immunity to which it or its property may at any time be or become entitled, whether characterised as sovereign immunity or otherwise, from any set-off or legal action in Hong Kong or elsewhere, including immunity from service of process, immunity from jurisdiction of any court or tribunal, and immunity of any of its property from attachment prior to judgment or from execution of a judgment.
+
+**IN WITNESS** whereof this Supplemental Agreement has been executed on the day and year first above written. 
+
+^^^^^ 
+**THE BORROWER**  
+
+\centered 
+
+SIGNED for and on behalf of       ) **MI ENERGY CORPORATION**       ) by       ) 
+
+[[SIGNED for and on behalf of        MI ENERGY CORPORATION        by Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED for and on behalf of        MI ENERGY CORPORATION        by Entity => By: [[SIGNED for and on behalf of        MI ENERGY CORPORATION        by Signatory First Name]] [[SIGNED for and on behalf of        MI ENERGY CORPORATION        by Signatory Last Name]]
+Title: [[SIGNED for and on behalf of        MI ENERGY CORPORATION        by Signatory Title]]}}
+
+**THE FACILITY AGENT** 
+
+SIGNED for and on behalf of       ) **CITIC KA WAH BANK LIMITED**       ) by       ) 
+
+[[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Entity => By: [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory First Name]] [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Last Name]]
+Title: [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Title]]}}
+
+**THE OFFSHORE SECURITY AGENT** 
+
+SIGNED for and on behalf of       ) **CITIC KA WAH BANK LIMITED**       ) by       ) 
+
+[[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Email: Identity | Signature]]
+__________________________________________
+{{SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Entity => By: [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory First Name]] [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Last Name]]
+Title: [[SIGNED for and on behalf of        CITIC KA WAH BANK LIMITED        by Signatory Title]]}}
+
+Supplemental Agreement  Execution Page  
+
+^^^^^ 
+\centered **Schedule 1** 
+
+\centered Form of Confirmation 
+
+To:    CITIC Ka Wah Bank Limited as facility agent for the Finance Parties (the “**Facility Agent**”)
+
+Dear Sirs,  
+**Supplemental Agreement dated [** **] 2010 in relation to a Facility Agreement dated 28 [[Date 2]]** 
+
+We refer to:  
+^^a facility agreement (the “**Facility Agreement**”) dated 28 [[Date 2]] made between (1) MI Energy Corporation as borrower (the “**Borrower**”), (2) the banks and other financial institutions listed in Schedule 1 thereto as lenders and (3) China CITIC Bank Corporation Limited, Guangzhou Branch as onshore security agent, (4) CITIC Ka Wah Bank Limited as offshore security agent and (5) the Facility Agent, pursuant to which the Lenders agreed to make available to the Borrower a loan facility of US$[[USD Value 1]] upon the terms and conditions set out therein;
+
+^^a deed of subordination dated 28 [[Date 2]] executed by MIE Holdings Corporation as subordinated lender and MI Energy Corporation as borrower in favour of CITIC Ka Wah Bank Limited as offshore security agent;
+
+^^a guarantee executed by MIE Holdings Corporation as guarantor in favour of CITIC Ka Wah Bank Limited as offshore security agent;
+
+^^a letter of undertaking dated [ ] 2010 executed by Far East Energy Limited in favour of the Facility Agent;
+
+^^a supplemental agreement (the “**Supplemental Agreement**”) dated [ ] 2010 in relation to the Facility Agreement made between the Borrower, CITIC Ka Wah Bank Limited as offshore security agent and the Facility Agent,
+
+(the documents listed in (b) to (d) above are collectively hereinafter referred to as the “**Relevant Security Documents**”). 
+
+Terms defined in the Facility Agreement and the Supplemental Agreement shall have the same meanings when used herein. 
+
+In consideration of the Facility Agent (as instructed by and on behalf of the Lenders) agreeing to the amendment to the Facility Agreement, the release of the Released Security Documents and the grant of the other relevant consent as specified in the Supplemental Agreement on the terms set out in the Supplemental Agreement and the Deeds of Release, 
+
+^^^^^ 
+each of us hereby confirms our respective consent to the terms of the Supplemental Agreement and to the amendments to the Facility Agreement, the release of the Released Security Documents and the grant of the other relevant consent as specified in the Supplemental Agreement to be effected pursuant thereto or, as the case may be, the Deeds of Release. 
+
+Each of us hereby confirms and undertakes that our respective obligations under the Relevant Security Documents continue in full force and effect, and are not and will not be affected, discharged or varied by the execution of the Supplemental Agreement, or the amendment of the Facility Agreement on the Trading Date as contemplated in clause 3.1 of the Supplemental Agreement, the release of the Released Security Documents and the grant of the other relevant consent as specified in the Supplemental Agreement, save that, with effect from immediately before the occurrence of the Trading, references in each Relevant Security Document to the Facility Agreement shall be deemed to be references to the Amended Facility Agreement. Each of us further confirms that our respective obligations under the Relevant Security Documents shall, to the extent cover the Facility Agreement, with effect from immediately before the occurrence of the Trading, extend in all respects to the obligations of the Borrower under the Amended Facility Agreement. 
+
+MIE Holdings Corporation also hereby confirms that it consents to and agrees to be bound by the escrow arrangements with respect to the New Guarantee pursuant to clause 2.4 and schedule 4 to the Supplemental Agreement. 
+
+This letter is governed by the laws of Hong Kong and should be construed accordingly. 
+
+Yours faithfully,
+
+for and on behalf of  
+
+\centered 
+
+THE COMMON SEAL of       ) **FAR EAST ENERGY LIMITED** was       ) affixed to this Deed in the       ) presence of:       ) 
+
+Signatory 
+
+Witness 
+
+**SIGNED** by  as a       ) Deed and **SEALED** and **DELIVERED**       ) as a Deed by                  ) **MIE HOLDINGS CORPORATION**       ) in his presence              ) 
+
+) Signatory 
+
+Witness  
+
+^^^^^ 
+\centered **Schedule 2** 
+
+\centered Form of Letter of Undertaking (FEE) 
+
+To:    CITIC Ka Wah Bank Limited (the “**Facility Agent**”) as Facility Agent for the Finance Parties as defined in the Facility Agreement referred to below
+
+Dear Sirs,  
+**US$[[USD Value 1]] Loan Facility  Facility Agreement dated 28 [[Date 2]]** 
+
+^We refer to the following documents:
+
+^^the facility agreement (the “**Facility Agreement**”) dated 28 [[Date 2]] between (1) MI Energy Corporation as borrower (the “**Borrower**”), (2) the banks and financial institutions listed in schedule 1 therein as lenders, (3) the Facility Agent, (4) China CITIC Bank Corporation Limited, Guangzhou Branch as onshore security agent (the “**Onshore Security Agent**”) and (5) CITIC Ka Wah Bank Limited as offshore security agent (the “**Offshore Security Agent**”); and
+
+^^a supplemental agreement (the “**Supplemental Agreement**”) in relation to the Facility Agreement made or to be made between the Borrower, the Facility Agent and the Offshore Security Agent.
+
+^Unless otherwise defined herein, terms defined in the Facility Agreement or the Supplemental Agreement have the same meanings in this letter.
+
+^This is the Letter of Undertaking (FEE) referred to in the Supplemental Agreement.
+
+**Undertakings**  
+^In consideration of the Facility Agent and the Offshore Security Agent agreeing to enter into the Supplemental Agreement and the transactions contemplated thereunder, we, Far East Energy Limited, hereby undertake to the Facility Agent (for itself and on behalf of the other Finance Parties) that, from the date of this letter and so long as any sums remain owing under the Finance Documents:
+
+^^(without prejudice to the obligations of the Borrower under clause 14.1(e)(ii) of the Facility Agreement at all times) we shall beneficially own not less than forty per cent ([[Percentage 4: Number]]%) of the entire issued share capital of the Corporate Shareholder immediately before and immediately after the Closing;
+
+^^all the proceeds received by us pursuant to the disposal or disposals of shares
+
+^^^^^ 
+in the Corporate Shareholder as permitted under clause 5 of the Supplemental Agreement (collectively the “Permitted FEE Disposal”) shall be deposited in to an account (the “Account”) opened or to be opened in our name with the Hong Kong or such other branch of the Offshore Security Agent forthwith upon receipt by us from the relevant purchaser(s);
+
+^^before any funds are withdrawn from the Account, we shall provide with the Facility Agent a written statement certifying the purpose(s) for which such funds are to be applied; and
+
+^^we shall not dispose of any shares in the Corporate Shareholder, except pursuant to:
+
+^^^the Permitted FEE Disposal effected on the date or dates as permitted under clause 5 of the Supplemental Agreement; or
+
+^^^any other disposal with the prior written approval of the Facility Agent (at the direction of the Majority Lenders), Provided that either all proceeds and other monies generated from such disposal or an equivalent amount obtained from other sources shall be used towards the prepayment of the Facility at the time of such disposal.
+
+**Representations**  
+^We hereby represent and warrant to the Facility Agent that:
+
+^^we have full power, authority and legal right to enter into and engage in the transactions contemplated by this letter and the other Supplemental Security Documents to which we are a party and has taken or obtained all necessary corporate and other action to authorise the execution and performance of this letter and the other Supplemental Security Documents to which we are a party;
+
+^^subject to Legal Reservations, this letter and the other Supplemental Security Documents to which we are a party constitute our legal, valid and binding obligations enforceable in accordance with their terms;
+
+^^neither the execution of this letter and the other Supplemental Security Documents to which we are a party nor the performance by us of any of our obligations or the exercise of any of our rights thereunder will conflict with or result in a material breach of any law, regulation, judgment, order, authorisation, agreement or obligation applicable to us or cause any limitation placed on us or the powers of our directors to be exceeded or result in the creation of or oblige us to create an Encumbrance in respect of any of our property or assets;
+
+^^all authorisations required from any governmental or other authority or from any of our shareholders or creditors for or in connection with the execution, validity and performance of this letter and the other Supplemental Security Documents to which we are a party have been obtained and are in full force and effect or, by the Trading Date will have been obtained and be in full force and effect;
+
+^^^^^ 
+^^it is not necessary in order to ensure the validity, enforceability or admissibility in evidence in proceedings of this letter and the other Supplemental Security Documents to which we are a party in Hong Kong that any of them or any other document be filed or registered with any authority in Hong Kong or that any tax be paid in respect thereof;
+
+^^we are not in default under any law, regulation, judgment, order, authorisation, agreement or obligation applicable to us or our assets or revenues, the consequences of which default could have a Material Adverse Effect and no Event of Default or Potential Event of Default has occurred;
+
+^^all information provided to the Finance Parties by us or on our behalf in connection with this letter, the other Supplemental Security Documents to which we are a party or otherwise in connection with the Supplemental Agreement is true and accurate in all material respects and all forecasts and projections contained therein were arrived at after due and careful consideration on our part and were, in our considered opinion, fair and reasonable when made; we are not aware of any fact which has not been disclosed in writing to the Facility Agent which might have a material effect on any such information, forecasts or projections or which might affect the willingness of the Lenders, the Facility Agent or the Offshore Security Agent to grant the relevant consents and/or to enter into the Deeds of Release, the Supplemental Agreement and the Supplemental Security Documents and the transactions contemplated thereunder.
+
+^We also hereby represent and warrant to and undertake with the Facility Agent that the foregoing representations and warranties will be repeated on the date of each Advance and each Interest Payment Date with reference to the facts and circumstances subsisting as at the date on which such representations and warranties are deemed to be made.
+
+**Assignment**  
+^We shall not assign any of our rights hereunder.
+
+^Any of the Facility Agent and the other Finance Parties may assign or grant participations in all or any part of their rights under this letter and make disclosures in accordance with the provisions of clause 22 of the Facility Agreement but as if references therein to the Borrower were references to us.
+
+**Counterparts**  
+^This letter may be executed in any number of counterparts and this will have the same effect as if the signatures on the counterparts were on a single copy of this letter.
+
+**Governing Law**  
+^This letter and the rights and obligations of the parties hereunder shall be governed by
+
+^^^^^ 
+and construed in accordance with the laws of Hong Kong.
+
+**Jurisdiction**  
+^We agree that any legal action or proceeding arising out of or relating to this letter may be brought in the courts of Hong Kong and irrevocably submits to the non-exclusive jurisdiction of such courts.
+
+Please acknowledge receipt and acceptance of this letter by countersigning the enclosed copy of this letter. 
+
+Yours faithfully  
+For and on behalf of  
+
+\centered 
+
+THE COMMON SEAL of       ) **FAR EAST ENERGY LIMITED** was       ) affixed to this Deed in the       ) presence of:       )       Signatory 
+
+Witness 
+
+We acknowledge our receipt, and acceptance of the terms, of this letter. 
+
+For and on behalf of
+
+**CITIC KA WAH BANK LIMITED**
+
+(as Facility Agent) 
+
+\centered 
+
+Name: Title:  
+
+^^^^^ 
+\centered **Schedule 3** 
+
+\centered Form of New Guarantee 
+
+\centered See  
+
+^^^^^ 
+\centered **Schedule 4** 
+
+\centered Exchange Arrangements for Release Documents 
+
+^The representative of Baker & McKenzie, the legal counsel for the Facility Agent and the Offshore Security Agent (the “**Lender Counsel**”) and the representative of Latham & Watkins, the legal counsel for the Borrower (the “**Borrower Counsel**”) shall conduct a meeting (the “**Closing Meeting**”) at the Hong Kong office of the Lender Counsel (address: 14/F Hutchison House, Central, Hong Kong) at 3:00 pm (Hong Kong time) on the Anticipated Trading Date.
+
+^Upon receiving confirmation from the Facility Agent that it has received the documents and evidence referred to in Clause 2.1 of this Supplemental Agreement, the Lender Counsel shall deliver the Escrow Release Documents to the Borrower Counsel subject to receiving an undertaking from the Borrower Counsel to hold the Escrow Release Documents in escrow in accordance with paragraphs 3 to 5 below.
+
+^The Borrower Counsel shall hold the Escrow Release Documents delivered to it by the Lender Counsel in escrow and shall not release them to any party or date them except pursuant to paragraph 5 below.
+
+^If the Trading does not occur or the Escrow Release Documents are not otherwise released from escrow by the Borrower Counsel in accordance with this Schedule 4 within one (1) day (or such later date as may be agreed between the Borrower and the Facility Agent) after the Anticipated Trading Date, the Borrower Counsel shall return to the Lender Counsel the Escrow Release Documents delivered to it by the Lender Counsel forthwith upon written request from the Facility Agent or the Lender Counsel.
+
+^Immediately before the occurrence of the Trading on the Trading Date (the Borrower Counsel shall so notify the Lender Counsel by email forthwith upon such occurrence) and subject to the Borrower Counsel not having at that time received by email from the Lender Counsel or the Facility Agent that the conditions as specified in Clause 3.2 of this Supplemental Agreement has not been satisfied:
+
+^^the Borrower Counsel shall be entitled to date the original executed but undated Deeds of Release delivered to it by the Lender Counsel with the Trading Date and release the same and the other Escrow Release Documents from escrow, whereupon the Deeds of Release shall take effect;
+
+^^the Borrower Counsel shall notify the Lender Counsel by email forthwith upon the release of the Escrow Release Documents from escrow as aforesaid.
+
+^Contemporaneous with the release of the Deeds of Release from escrow as specified in paragraph 5 above, the Facility Agent shall be entitled to release the executed but undated New Guarantee delivered to it pursuant to Clause 2.1(f) of this Supplemental Agreement from escrow and date the same with the Trading Date, whereupon the New Guarantee shall take effect.
+
+^^^^^ 
+\centered **Schedule 5** 
+
+\centered Relevant Released Documents 
+
+^the original share certificate (numbered 7) in respect of 1 ordinary share in Far East Energy
+
+^the original share certificate (numbered 8) in respect of 510 ordinary shares in Far East Energy
+
+^the original share certificate (numbered 10) of 4,590 ordinary shares in Far East Energy
+
+^original letters of undertaking and authorisation from Zhao Jiang Wei, Zhang Rui Lin and Shang Zhi Guo dated 28 [[Date 2]]
+
+^an original letter of undertaking by Far East Energy dated 28 [[Date 2]]
+
+^an original appointment of corporate authorisation by Zhao Jiang Wei, Zhang Rui Lin and Shang Zhi Guo dated 28 [[Date 2]]
+
+^the original share certificate (numbered 7) of 6,194,332 ordinary shares in the Corporate Shareholder
+
+^original letters of undertaking and authorisation from Forrest Dietrich, Zhao Jiang Wei, Zhang Rui Lin and Allen Mak dated 28 [[Date 2]]
+
+^an original letter of undertaking by the Corporate Shareholder dated 28 [[Date 2]]
+
+^an original appointment of corporate authorisation by Far East Energy dated 28 [[Date 2]]
+
+^the original instruments of transfer and bought and sold notes executed in blank by Zhao Jiang Wei, Zhang Rui Lin and Shang Zhi Guo, each as shareholders of Far East Energy
+
+^original undated letters of resignation of Zhao Jiang Wei, Zhang Rui Lin and Shang Zhi Guo, each as director of Far East Energy
+
+^an original undated board resolution of Far East Energy
+
+^an original instrument of transfer executed in blank by Far East Energy
+
+^original undated letters of resignation of Forrest Dietrich, Zhao Jiang Wei, Zhang Rui Lin and Allen Mak, each as director of the Corporate Shareholder
+
+^an original undated board resolution of the Corporate Shareholder

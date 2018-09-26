@@ -1,0 +1,85 @@
+\centered **NON-QUALIFIED STOCK OPTION AGREEMENT**
+
+**AGREEMENT** made the [[Date 1: Date]], between **Nu Horizons Electronics Corp.,** a [[State of Formation: State]] [[Organization: EntityType]], (hereinafter called the "Company") and **Martin Kent** (hereinafter called "Optionee").
+
+In consideration of the premises and the mutual covenants hereinafter set forth, the parties hereto agree as follows:
+
+^**Grant and Exercise of Option.** The Company hereby grants to Optionee an option to purchase a total of [[Shares 1: Number]] shares of the authorized and unissued Common Stock of the Company, having a par value of $.0066 per share, at the price of **$[[USD Value 1: Number]]** per share (the “Option”), upon and subject to the following terms and conditions:
+
+^^The Option may be exercised before [[Date 2: Date]] (the "Expiration Date") and, within such period, only at the following times and in the following amounts:
+
+^^^After the expiration of one (1) year from the date of this Agreement, the Option may be exercised to the extent of up to TWENTY-FIVE ([[Percentage 1: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof;
+
+^^^After the expiration of two (2) years from the date of this Agreement, the option may be exercised for up to FIFTY ([[Percentage 2: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof;
+
+^^^After the expiration of three (3) years from the date of this Agreement, the Option may be exercised to the extent of up to SEVENTY-FIVE ([[Percentage 3: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof ; and
+
+^^^After the expiration of four (4) years from the date of this Agreement, the Option may be exercised to the extent of ONE HUNDRED ([[Percentage 4: Number]]%) PERCENT of the shares of Common Stock granted in Paragraph 1 hereof.
+
+^^Notwithstanding the vesting of the Option in accordance with subparagraphs (i)-(iv), above, Optionee shall not have the right to exercise any such vested Options unless the closing market price of the Common Stock on the Nasdaq Stock Market shall be no less than $[[USD Value 2: Number]] per share for at least 10 consecutive trading days prior to the date of exercise.
+
+^^The Option shall be exercisable during the Optionee's lifetime only by the Optionee and shall not be exercisable by the Optionee unless, at all times since [[Date 3: Date]], and at the time of exercise, such Optionee is an employee of or providing services to the Company, any parent corporation of the Company or any Subsidiary or Affiliate, except:
+
+^^^Upon termination of all such employment or provision of services (other than by death, Total Disability, or by Total Disability followed by death in the circumstances provided below), the Optionee may exercise the Option at any time within three months thereafter but only to the extent that the Option is exercisable on the date of such termination pursuant to Section 1(a);
+
+^^^Upon termination of all such employment by Total Disability, the Optionee may exercise the Option at any time within three years thereafter, but only to the extent such Option is exercisable on the date of such termination pursuant to Section 1(a); and
+
+^^^In the event of the death of the Optionee (x) while an employee of or providing services to the Company, any parent corporation of the Company or any Subsidiary or Affiliate, or (y) within three months after termination of all such employment or provision of services (other than for Total Disability), or (z) within three years after termination on account of Total Disability of all such employment or provision of services, the Optionee's estate or any person who acquires the right to exercise such option by bequest or inheritance or by reason of the death of the Optionee may exercise the Option at any time within the period of two years from the date of death. In the case of clauses (x) and (z) above, the Option shall be exercisable in full for all the remaining shares of Common Stock covered hereby, but in the case of clause (y) the Option shall be exercisable only to the extent it was exercisable on the date of such termination of employment pursuant to Section 1(a).
+
+^^In the event of a Change in Control (a) all Options outstanding on the date of such Change in Control shall become immediately and fully exercisable, and (b) the Optionee will be permitted to surrender for cancellation within sixty (60) days after such Change in Control any portion of the Option not yet exercised which was granted more than six (6) months prior to the date of such surrender and to receive a cash payment in an amount equal to the excess, if any, of the Fair Market Value (on the date of surrender) of the shares of Common Stock then purchasable under the Option over the aggregate purchase price for such shares of Common Stock.
+
+^^Each exercise of the Option shall be by delivery to the Company, at its then principal office (attention of the Treasurer), of written notice stating the number of shares of Common Stock to be purchased, accompanied by payment in full of the option price of such shares of Common Stock. The option price shall be payable in United States dollars (i) cash, or (ii) check, or (iii) other shares of the Company’s Common Stock which have a Fair Market Value on the date of surrender equal to the aggregate exercise price of the Shares as to which said Option shall be exercised, or (iv) consideration received by the Company under any cashless exercise program implemented by the Company in connection with the Plan.
+
+^^In the event of each exercise of the Option, the Company shall deliver to the Optionee, personally or at his designated address, as soon as practicable, a certificate made out to the Optionee for the number of shares being purchased.
+
+^^The Option is not intended to be an Incentive Stock Option under Section 422 of the Internal Revenue Code of 1986, as amended.
+
+^^If at any time, the Company or any Subsidiary or Affiliate is required, under applicable laws and regulations, to withhold, or to make any deduction for any taxes, or take any other action in connection with any Option exercise, the Optionee shall be required to pay to the Company or such Subsidiary or Affiliate, the amount of any taxes required to be withheld, or, in lieu thereof, at the option of the Company, the Company or such Subsidiary or Affiliate may accept Common Stock valued at its Fair Market Value on the date of payment, to cover the amount required to be withheld.
+
+^**Adjustments to the Number of Option Shares.**
+
+If, at any time, the Company shall take any action, whether by stock dividend, stock split, combination of shares or otherwise, which results in a proportionate increase or decrease in the number of shares of Common Stock theretofore issued and outstanding, the number of shares subject to this Option shall, to the extent deemed appropriate by the Committee, be increased or decreased in the same proportion, provided, however, that the Company shall not be obligated to issue fractional shares.
+
+In the event of any change in the outstanding shares of Common Stock by reason of any recapitalization, merger, consolidation, reorganization, combination or exchange of shares or other corporate change, the number of shares of Common Stock shall be adjusted in such manner and to such extent, if any, as Committee deems to be appropriate.
+
+^**Non-Transferability of Option.** The Option granted under this Agreement shall not be transferable otherwise than by will or the laws of descent and distribution as may be permitted by the Company’s Board of Directors or its Compensation Committee.
+
+^**Purchase for Investment**. To the extent that, at the time of exercise of the Option, the underlying shares have not been registered for sale under the Securities Act or 1933, as amended, the Optionee represents, on behalf of himself and any transferees, that any shares of Common Stock purchased pursuant to this Agreement will be acquired in good faith for investment and not for resale or distribution, and Optionee on behalf of himself and said person or persons, agrees that each notice of the exercise of the Option shall contain or be accompanied by a representation in writing signed by him or said person or persons, as the case may be, in form satisfactory to the Company, that the shares of Common Stock to be purchased pursuant to such notice are being so acquired and will not be sold except in compliance with applicable securities laws.
+
+^**Capitalized Terms.** The capitalized terms used herein shall have the following meanings:
+
+"Affiliate" means any person or entity controlled by or under common control with the Company, by virtue of the ownership of voting securities, by contract or otherwise.
+
+"Board" means the Board of Directors of the Company.
+
+"Change in Control" means a change of control of the Company, or in any person directly or indirectly controlling the Company, which shall mean:
+
+^^a change in control as such term is presently defined in Regulation 240.12b-2) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"); or
+
+^^if any "person" (as such term is used in Section 13(d) and 14(d) of the Exchange Act) other than the Company or any "person" who on the date of this Agreement is a director or officer of the Company, becomes the "beneficial owner" (as defined in Rule 13(d)-3 under the Exchange Act) directly or indirectly, of securities of the Company representing twenty percent ([[Percentage 5: Number]]%) or more of the voting power of the Company's then outstanding securities; or
+
+^^if during any period of two (2) consecutive years, individuals who at the beginning of such period constitute the Board of Directors, cease for any reason to constitute at least a majority thereof.
+
+"Committee" means the Compensation Committee of the Board.
+
+"Fair Market Value" means the closing market price of the Common Stock on the Nasdaq Stock Market on the any date on which the Common Stock is to be valued hereunder. If no sale shall have been reported on the Nasdaq Stock Market consolidated reporting system on such date, Fair Market Value shall be determined by the Committee.
+
+"Subsidiary" means any corporation in which the Company possesses directly or indirectly [[Percentage 2]]% or more of the combined voting power of all classes of stock of such corporation.
+
+"Total Disability" means accidental bodily injury or sickness which wholly and continuously disabled an optionee. The Committee, whose decisions shall be final, shall make a determination of Total Disability.
+
+**In Witness Whereof**, the parties hereto have duly executed this Agreement as of the day and year first above written.
+
+NU HORIZONS ELECTRONICS CORP.
+
+[[NU HORIZONS ELECTRONICS CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{NU HORIZONS ELECTRONICS CORP. Entity => By: [[NU HORIZONS ELECTRONICS CORP. Signatory First Name]] [[NU HORIZONS ELECTRONICS CORP. Signatory Last Name]]
+Title: [[NU HORIZONS ELECTRONICS CORP. Signatory Title]]}}
+
+[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
+
+Martin Kent, Optionee

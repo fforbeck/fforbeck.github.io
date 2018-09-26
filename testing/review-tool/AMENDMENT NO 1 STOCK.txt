@@ -1,0 +1,57 @@
+\centered **AMENDMENT NO. 1**
+
+\centered **STOCK PURCHASE AND RECAPITALIZATION AGREEMENT**
+
+This Amendment No. 1 to the Stock Purchase and Recapitalization Agreement (the “**Amendment**”) is made this [[Date 1: Date]] by and among **[[Buyer]]**, a [[State of Formation: State]] [[Organization: EntityType]] and wholly owned subsidiary of Parent ("**Buyer**"); **Remark Enterprises, **[[Parent]]** ("**Parent**"); and **One Up Innovations, Inc.** a [[State of Formation: State]] [[Organization: EntityType]] (the "**Company**") and [[Seller]], majority shareholder of the Company (“**Seller**”).
+
+**WHEREAS,** The respective Boards of Directors of each of the Company, Buyer and Parent, and Seller, has approved and declared advisable this Amendment upon the terms and subject to the conditions set forth herein.
+
+**NOW THEREFORE**, for and in consideration of the foregoing recitals, the mutual covenants and conditions contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree to amend the Stock Purchase and Recapitalization Agreement (the “Agreement”) as follows:
+
+^**Closing**. The Closing shall take place no later than [[Date 2: Date]].
+
+^**Initial Financing**. The Parent shall have received fully executed subscription agreements with respect to a common stock offering pursuant to Rule 506 of the Securities Act in the aggregate amount of at least Two Million Dollars (US$[[USD Value 1: Number]]) (the “**Proceeds**”) at $[[USD Value 2: Number]] per share of common stock of the Parent (the “**Initial Financing”).**
+
+^Except as hereinabove specifically amended, all other terms, conditions and provisions of the Agreement shall remain in full force and effect.
+
+\centered [THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK]
+
+**IN WITNESS WHEREOF**, the undersigned have executed this Stock Purchase and Recapitalization Amendment as of the date set forth above.
+
+**BUYER:**
+**[[Buyer]]**
+
+[[Buyer Signatory Email: Identity | Signature]]
+__________________________________________
+{{Buyer Entity => By: [[Buyer Signatory First Name]] [[Buyer Signatory Last Name]]
+Title: [[Buyer Signatory Title]]}}
+
+Lawrence Rothberg
+President
+
+**PARENT:**
+REMARK ENTERPRISES, INC.
+
+[[REMARK ENTERPRISES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{REMARK ENTERPRISES INC. Entity => By: [[REMARK ENTERPRISES INC. Signatory First Name]] [[REMARK ENTERPRISES INC. Signatory Last Name]]
+Title: [[REMARK ENTERPRISES INC. Signatory Title]]}}
+
+Lawrence Rothberg
+President
+
+**THE COMPANY:**
+ONE UP INNOVATIONS, INC.
+
+[[ONE UP INNOVATIONS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ONE UP INNOVATIONS INC. Entity => By: [[ONE UP INNOVATIONS INC. Signatory First Name]] [[ONE UP INNOVATIONS INC. Signatory Last Name]]
+Title: [[ONE UP INNOVATIONS INC. Signatory Title]]}}
+
+[[Seller]]
+Chief Executive Officer, President
+
+**SELLER**:
+
+/s/ [[Seller]]
+Louis Friedman

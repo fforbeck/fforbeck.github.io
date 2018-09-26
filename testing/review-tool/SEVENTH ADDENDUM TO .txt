@@ -1,0 +1,129 @@
+\centered **SEVENTH ADDENDUM TO LOAN AGREEMENT**
+
+**THIS SEVENTH ADDENDUM TO LOAN AGREEMENT** (this "Addendum"), dated as of [[Date 1: Date]], is made by SOUTHPEAK INTERACTIVE, L.L.C., a Virginia limited liability company ("SouthPeak-LLC"), SOUTHPEAK INTERACTIVE LIMITED, a United Kingdom limited company ("SouthPeak-UK") and SOUTHPEAK INTERACTIVE CORPORATION, a Delaware corporation ("SouthPeak-Corp"), jointly and severally (SouthPeak, SouthPeak-UK and SouthPeak-Corp shall be referred to herein collectively or individually, whether one or more in number, as "Borrower"), and SUNTRUST BANK ("Lender"), and provides as follows:
+
+**RECITALS:**  
+^Borrower and Lender are parties to that certain Loan Agreement dated [[Date 2: Date]] pursuant to which Lender agreed to provide a Revolving Loan to Borrower (as the same may have been amended from time to time, the "Loan Agreement").
+
+^Lender has agreed to renew and extend the Revolving Loan on the terms and conditions set forth herein.
+
+^As a condition to renewing and extending the Revolving Loan, Lender has required Borrower to modify the Loan Agreement as set forth herein, and Borrower executes this Addendum to amend the Loan Agreement as set forth below.
+
+NOW, THEREFORE, in consideration of the foregoing recitals, which are incorporated herein by reference, of the mutual covenants and agreements contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto covenant and agree as follows:
+
+**AGREEMENT:**  
+^**Defined Terms.** This Addendum amends and supplements the Loan Agreement in certain respects. All capitalized words and terms used in this Addendum which are defined in the Loan Agreement shall have their defined meanings unless otherwise defined herein, which meanings shall be equally applicable to the singular and the plural forms of the words and terms defined.
+
+^**Amendments to Definitions.** The Loan Agreement is hereby amended as follows:
+
+^^The definition of "Revolving Loan" set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and replaced with the following:
+
+**"Revolving Loan"** shall mean that certain extension of credit from Lender to Borrower for general corporate and working capital purposes, in the maximum principal amount of Eight Million and No/100 Dollars ($[[USD Value 1: Number]]), evidenced by the Revolving Note, all as more particularly described in the Loan Documents.
+
+^^The definition of "Revolving Note" set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and replaced with the following:
+
+**"Revolving Note"** shall mean the promissory note, dated of even date herewith, as amended or supplemented from time to time, in the original principal amount of Eight Million and No/100 Dollars ($[[USD Value 1]]), evidencing Borrower's obligation to repay to Lender the Revolving Loan, together with interest together with any renewals, modifications or extensions thereof, in whole or in part.
+
+^^The definition of "Termination Date" set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and replaced with the following:
+
+**"Termination Date"** shall mean, with respect to the Revolving Loan, the earliest to occur of the following dates: (i) that date on which, pursuant to Section 7, Lender terminates the Revolving Loan (or the Revolving Loan is deemed automatically terminated) subsequent to the occurrence of an Event of Default; or (ii) [[Date 3: Date]], or such later date as to which Lender may agree in writing from time to time hereafter."
+
+^^The definition of "Applicable Rate" set forth in Section 1.1 of the Loan Agreement is hereby deleted in its entirety and replaced with the following:
+
+**"Applicable Rate"** shall mean the Prime Rate plus one and one-half percent ([[Percentage 1: Number]]%) per annum."
+
+^^Section 1.1 of the Loan Agreement is hereby amended by adding thereto the following new terms with the following meanings:
+
+**""Consolidated"** means, when used with reference to financial statements or financial statement items of Borrower and its Consolidated Subsidiaries, such statements or items on a consolidated basis in accordance with applicable principals of consolidation under GAAP.
+
+**"EBIT"** means, for any period, the sum of the following determined on a Consolidated basis, without duplication, for Borrower in accordance with GAAP: (a) Net Income for such period **plus** (b) the sum of the following to the extent deducted in determining Net Income: (i) income and franchise taxes, if any and (ii) Interest Expense, **less** (b) interest income.
+
+**"Interest Expense"** means, with respect to Borrower for any period, the gross interest expense (including, without limitation, interest expense attributable to Capital Leases and all net payment obligations pursuant to Interest Rate Contracts of Borrower), all determined for such period in accordance with GAAP.
+
+**"Interest Rate Contract"** shall mean any interest rate swap agreement, interest rate cap agreement, interest rate floor agreement, interest rate collar agreement, interest rate option or any other agreement regarding the hedging of interest rate risk exposure executed in connection with hedging the interest rate exposure of any Person and any confirming letter executed pursuant to such agreement, all as the same may have been amended, restated, supplemented or otherwise modified from time to time.
+
+**"Net Income"** means, with respect to Borrower, for any period of determination, the Consolidated net income of Borrower and its Consolidated Subsidiaries, as determined in accordance with GAAP.
+
+**"Tangible Net Worth"** means shareholders' equity reduced by goodwill and other intangible assets including, without limitation, goodwill, franchises, licenses, patents, trademarks, trade names, copyrights, service marks, and brand names.
+
+**"Total Liabilities"** means all liabilities of Borrower, including Debt and other deferred sums appearing on the liabilities side of a balance sheet, all in accordance with generally accepted accounting principles applied on a consistent basis."
+
+^**Restriction on Dividends.** The Loan Agreement is hereby amended by deleting Section 5.4 of the Loan Agreement in its entirety and replacing it with the following:
+
+"5.4 **Dividends: Distributions.** Declare or pay any dividends on, or make any distribution with respect to, its equity interests."
+
+^**Cash Flow Coverage Covenant.** The Loan Agreement is hereby amended by adding the following as a new Section 4.19 of the Loan Agreement:
+
+"4.19 **Cash Flow Coverage Ratio.** Tested quarterly and beginning with the calendar quarter ending on [[Date 4: Date]], maintain a Cash Flow Coverage Ratio as of the testing date of at least 1.5 to 1, calculated as follows:
+
+\centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered **Calendar Quarter Ending**   
+
+\centered **Period for Cash Flow Coverage Ratio Calculations** 
+
+[[Date 4]]   [[Date 5: Date]] through [[Date 4]] [[Date 6: Date]]   [[Date 5]] through [[Date 6]] [[Date 7: Date]]   [[Date 5]] through [[Date 7]] [[Date 8: Date]], and for each calendar quarter thereafter   For each calendar quarter, the previous four calendar quarters then ending                            
+
+The Cash Flow Coverage Ratio shall be defined as (A) EBIT **divided by** (B) Interest Expense.
+
+^**Tangible Net Worth Covenant.** The Loan Agreement is hereby amended by adding the following as a new Section 4.20 of the Loan Agreement:
+
+"4.20 **Tangible Net Worth.** Tested quarterly and beginning with the calendar quarter ending on [[Date 4]], maintain a Tangible Net Worth of greater than ($[[USD Value 2: Number]])."
+
+^**Additional Capital.** The Loan Agreement is hereby amended by adding the following as a new Section 4.21 of the Loan Agreement:
+
+"4.21 **Additional Capital.** Not later than [[Date 7]], Borrower shall implement a plan (the "Capital Plan") to raise additional capital for Borrower (the "Additional Capital") that will result in the ratio of Borrower's Total Liabilities to Tangible Net Worth being less than 7.0 to 1. Such Capital Plan shall be satisfactory in all respects to Lender in Lender's sole discretion. Borrower must complete the actual raising of the Additional Capital, and must have achieved a ratio of Borrower's Total Liabilities to Tangible Net Worth of less than 7.0 to 1, not later than [[Date 3]]."
+
+^**Event of Default.** The Loan Agreement is hereby amended by adding the following as a new Section 7.17 of the Loan Agreement:
+
+"7.17 **Capitol Distributing Repayment.** Capitol Distributing, a Virginia limited liability company, shall fail to repay all Debt of Capitol Distributing to Lender in full by [[Date 7]]."
+
+^**Reimbursement.** Pursuant to Section 9.6 of the Loan Agreement, Borrower shall pay to Lender on demand all out-of-pocket costs and expenses that Lender pays or actually incurs in connection with this Addendum.
+
+^**Ratification.** Except as modified by this Addendum, the Loan Agreement is hereby ratified and reaffirmed in its entirety.
+
+\centered [Remainder of page intentionally left blank. Signature pages follow.]
+
+**IN WITNESS WHEREOF,** the parties have caused this Addendum to be duly executed as of the date first written above.
+
+**LENDER:**
+
+**SUNTRUST BANK**
+
+[[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => [[Party 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 Entity => [[Party 3 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 3 Entity => [[{{Party 3 Entity => Signatory Email: Identity | Signature]]
+__________________________________________
+{{{{Party 3 Entity => Entity => By: [[{{Party 3 Entity => Signatory First Name]] [[{{Party 3 Entity => Signatory Last Name]]
+Title: [[{{Party 3 Entity => Signatory Title]]}}
+ [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
+Title: [[Party 3 Signatory Title]]}}
+ [[Party 2 Signatory First Name]] [[Party 2 Signatory Last Name]]
+Title: [[Party 2 Signatory Title]]}}
+ [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+Name:
+**Title:**
+
+**BORROWER:**
+
+
+
+By:
+Terry M. Phillips, Manager
+
+SOUTHPEAK INTERACTIVE LIMITED, a United Kingdom limited company
+
+By:
+Terry M. Phillips, Director
+
+By:
+Gregory R. Phillips, Director
+
+
+
+By:
+Terry M. Phillips, Chairman

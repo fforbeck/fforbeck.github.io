@@ -1,0 +1,360 @@
+\centered **PURCHASE AGREEMENT**
+
+\centered **by and among**
+
+\centered [[Buyer]],**
+
+\centered [[Intermezzo]],**
+
+\centered **AND**
+
+\centered [[Paragon]]
+
+\centered **[[Date 1: Date]]**
+
+\centered **PURCHASE AGREEMENT**
+
+This Purchase Agreement (the “**Agreement**”) is made and entered into this [[Date 2: Date]], by and among [[Buyer]], a [[State of Formation: State]] [[Organization: EntityType]] (“**Buyer**”), [[Intermezzo]], a [[State of Formation: State]] [[Organization: EntityType]] (“Intermezzo”), and [[Paragon]], an investment fund organized under the laws of the Cayman Islands (“**Paragon**”).
+
+WHEREAS, Intermezzo has assigned all of its right, title and interest in and to the Publishing Agreement dated [[Date 3: Date]] between Intermezzo and FireFly Holdings Limited (“**FireFly Agreement**”) for the development of the electronic game “Stronghold 3” (the “**Game**”) to IRP GmbH, a corporation organized under the laws of Switzerland (the “**Company**”);
+
+WHEREAS, Intermezzo and Paragon (collectively, the “**Shareholders**”) are the sole shareholders of the Company;
+
+WHEREAS, the Buyer desires to acquire all the outstanding shares of stock that the Shareholders hold of the Company (the “**Stock**”), and the Shareholders desire to sell the shares of Stock to Buyer for the consideration set forth below, subject to the terms and conditions of this Agreement;
+
+WHEREAS, Intermezzo holds a note (the “**Note**”) in the principal amount of EUR 4,385,371.43 of CDV Finance Schweiz, AG for which CDV Software Entertainment AG, a corporation organized under the laws of Germany, has assumed the obligation to pay; and
+
+WHEREAS, Buyer desires to obtain by sale and assignment the right to repayment of EUR 3,700,000 of the principal and interest due thereon under the Note.
+
+NOW, THEREFORE, in consideration of the mutual promises hereinafter set forth and other good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties hereby agree as follows:
+
+^\centered DEFINITIONS AND INTERPRETATION
+
+^^**Definitions**. For purposes of this Agreement, the following terms have the respective meanings set forth below:
+
+“**Governmental Entity**” means any court, administrative agency, commission, governmental or regulatory authority, domestic or foreign.
+
+“**knowledge**” means actual knowledge or awareness as to a specified fact or event of a Person that is an individual or of an officer, director or managerial personnel of a Person that is a corporation or of a Person in a similar capacity of an entity other than a corporation.
+
+“**Legal Requirements**” means any federal, state, local, municipal, foreign or other law, statute, constitution, principle of common law, resolution, ordinance, code, edict, decree, rule, regulation, ruling or requirement issued, enacted, adopted, promulgated, implemented or otherwise put into effect by or under the authority of any Governmental Entity.
+
+“**Lien**” means any mortgage, pledge, security interest, encumbrance, lien, restriction or charge of any kind (including, without limitation, any conditional sale or other title retention agreement or lease in the nature thereof, any sale with recourse against the seller or any affiliate of the seller, or any agreement to give any security interest).
+
+“**Losses**” shall include any loss, damage, injury, liability, claim, demand, settlement, judgment, award, fine, penalty, tax, fee (including any reasonable legal fee, expert fee, accounting fee or advisory fee), charge, cost (including any cost of investigation) or expense of any nature.
+
+“**Material Adverse Effect**” means any change, event, violation, inaccuracy, circumstance or effect, individually or when aggregated with other changes, events, violations, inaccuracies, circumstances or effects, that is materially adverse to the business, assets, revenues, financial condition, results of operations or business prospects of an entity and its subsidiaries, taken as a whole, except to the extent resulting from: (a) changes in general industry or economic conditions, (b) adverse effects arising from the announcement or consummation of the transactions contemplated hereby, or (c) changes to generally accepted accounting principles that apply generally to the industry in which the entity operates.
+
+“**Net Receipts**” means all monies (expressed in U.S. Dollars) Buyer and its subsidiaries actually receive from the sale, license or lease of the Game under the FireFly Agreement net of a reasonable reserve for returns, less all Advance Royalty and Royalty payments paid and payable under Sections 6.1 and 6.2 of the FireFly Agreement and less, to the extent deducted under the FireFly Agreement to determine net receipts thereunder, (i) all applicable duties, value-added taxes and other similar taxes, (ii) direct manufacturing costs and other costs of fulfillment, (iii) discounts, markdowns and allowances, (iv) marketing and PR expenses and (v) localization expenses.
+
+“**Person**” means any individual, corporation, partnership, firm, joint venture, limited liability company, association, joint-stock company, trust, unincorporated organization, Governmental Entity or other entity.
+
+“**SEC**” means the Securities and Exchange Commission.
+
+“**Tax**” or “**Taxes**” refers to any and all federal, foreign, state, provincial, local and foreign taxes, including, without limitation, gross receipts, income, profits, sales, use, occupation, value added, ad valorem, transfer, franchise, withholding, payroll, recapture, employment, excise and property taxes, assessments, governmental charges and duties together with all interest, penalties and additions imposed with respect to any such amounts and any obligations under any agreements or arrangements with any other Person with respect to any such amounts and including any liability of a predecessor entity for any such amounts.
+
+^^**Other Defined Terms**. For purposes of this Agreement, the following terms have the respective meanings set forth in the section opposite each such term:
+
+TERM      SECTION
+Agreement      Preamble
+Buyer      Preamble
+Buyer Indemnified Party      Section 7.1
+Buyer Shares      Section 2.2
+Closing      Section 2.1
+Closing Date      Section 3.1
+Common Stock      Section 2.2
+Company      Preamble
+Deductible Amount      Section 7.4
+Exchange Act      Section 4.5
+FireFly      Section 4.6
+FireFly License      Section 4.6
+Fixed Payments      Section 2.2
+Game      Section 2.2
+Indemnified Party      Section 7.3
+Net Receipts Payments      Section 2.2
+PDF      Section 3.1
+SEC Reports      Section [[Shares 1: Number]]
+Shareholder Indemnified Party      Section 7.2
+Stock      Recitals
+Stronghold 3      Recitals
+Survival Period      Section 7.5
+Third Party Claim      Section 7.3
+
+^\centered PURCHASE AND SALE OF THE STOCK
+
+^^**Purchase of the Stock from the Shareholders and Right to Repayment of Part of Note from Intermezzo**. Subject to and upon the terms and conditions of this Agreement, at the closing of the transactions contemplated by this Agreement (the “**Closing**”), the Shareholders shall sell, transfer, convey, assign and deliver to the Buyer, and the Buyer, in part, upon reliance of the covenants set forth in Section 6.5 of this Agreement, shall purchase, acquire and accept from the Company, all of the Stock. Pursuant to the Sale and Assignment Agreement attached hereto as **Exhibit A** (“**Assignment Agreement**”) which shall be executed at the Closing, Buyer shall purchase from Intermezzo the principal and interest amount of EUR 3,700,000 due under the Note plus the interest accrued and unpaid thereon after [[Date 4: Date]],2010 for the consideration set forth in the Assignment Agreement.
+
+^^**Purchase Price**. The purchase price (the “**Purchase Price**”) to be paid to the Shareholders by the Buyer for the Stock shall be (a) Ten Million (10,000,000) shares (“**Buyer Shares**”) of the Buyer’s common stock, par value $.0001 per share (the “**Common Stock**”), (b) [[Percentage 1: Number]]% of Net Receipts not to exceed $[[USD Value 1: Number]] (“**Net Receipts Payments**”) and (c) fixed payments totaling $[[USD Value 2: Number]] at such times and in such amounts as set forth on **Exhibit B,** by wire transfer of immediately available funds to the accounts of the Shareholders designated in writing prior to the Closing (the “**Fixed Payments**”). The Buyer will account for and make the Net Receipts Payments at the same time and in the same manner that accountings for and payments of the Royalty payments are required and due under the FireFly Agreement; provided, however, no obligation will exist on the part of the Shareholders to render an invoice for such Net Receipts Payments. All amounts and shares payable and issuable to the Shareholders shall be equally divided between the Shareholders unless they indicate otherwise to Buyer.
+
+^\centered THE CLOSING
+
+^^**Closing**. The Closing shall take place at the offices of Greenberg Traurig, LLP, 1750 Tysons Boulevard, Suite 1200, McLean, Virginia 22102 contemporaneously with the execution and delivery of this Agreement (the “**Closing Date**”). The documents to be delivered at the Closing (other than stock certificates evidencing the Buyer Shares) may, at the election of the parties, be exchanged by telecopier or electronic transmission in portable document format (“**PDF**”) upon a written undertaking to provide original executed copies within one business day following the Closing.
+
+^^**Sale.** Shareholders, upon the terms and conditions of this Agreement, hereby sell (verkaufen) and hereby transfer (treten ab) the Stock to the Buyer under the condition precedent (unter der aufschiebenden Bedingung) of the receipt of the Buyer Shares and the initial payment set forth in Section. 3.7(ii).
+
+^^**Acceptance**. Buyer hereby accepts such sale and transfer of the Stock.
+
+^^**Ancillary Rights**. The sale and transfer of the Stock hereunder shall include without limitation any and all ancillary rights (Nebenrechte) pertaining to the Stock, including the rights to any undistributed profits (Gewinnbezugsrechte).
+
+^^**Cooperation**. The Parties shall reasonably cooperate with each other with respect to all filings that the Parties are required to make or elect to make in connection with the consummation of this Agreement.
+
+^^**Closing Deliveries by Paragon and Intermezzo**. Paragon and Intermezzo shall deliver to the Buyer at the Closing the following:
+
+^^^stock certificates representing the Stock duly endorsed in blank or accompanied by stock powers duly executed by Paragon;
+
+^^^certificates of the Secretary of the Company attesting to the incumbency of the Company’s officers, the authenticity of the resolutions authorizing the transactions contemplated by this Agreement, and the authenticity and continuing validity of the organizational documents delivered pursuant to Section 4.1;
+
+^^^the original minute book of the Company to the extent one exists;
+
+^^^the consent of FireFly Holdings Limited to the assignment of the FireFly Agreement to the Company;
+
+^^^a resignation, effective as of the Closing, of each officer and director of the Company from each such position, executed by such person;
+
+^^^the executed Assignment Agreement; and
+
+^^^a cross receipt executed by the Shareholders for the portion of Purchase Price being paid at the Closing and a cross receipt of Intermezzo for the consideration it is receiving under the Assignment Agreement.
+
+^^**Closing Deliveries of the Buyer**. The Buyer shall deliver to Paragon and Intermezzo at the Closing the following:
+
+^^^the Buyer Shares (issued in accordance with Section 2.2);
+
+^^^the initial $[[USD Value 3: Number]] of the Fixed Payments;
+
+^^^the initial $[[USD Value 3]] payment due Intermezzo under the Assignment Agreement;
+
+^^^certificates of the Secretary of the Buyer attesting to the authenticity of the resolutions authorizing the transactions contemplated by this Agreement; and
+
+^^^a cross receipt executed by the Buyer for the Stock.
+
+^\centered REPRESENTATIONS AND WARRANTIES OF INTERMEZZO AND PARAGON
+
+Intermezzo and Paragon jointly and severally represent and warrant to the Buyer, as set forth below in this .
+
+^^**Organization and Qualification**. The Company is an unused shell corporation, duly organized, validly existing and in good standing under the laws of Switzerland and has the requisite corporate power and authority to own, lease and operate its assets and properties and to carry on its business as it is now being conducted. Complete and correct copies of the charter of the Company, as amended and currently in effect, have been heretofore delivered to Buyer or Buyer’s counsel. The Company is not in violation of any of the provisions of its charter or any other governing document.
+
+^^**Subsidiaries**. The Company does not directly or indirectly own any equity or similar interest in, or any interest convertible or exchangeable or exercisable for, any equity or similar interest in, any other company, corporation, limited liability company or other business entity.
+
+^^**Capitalization**.  
+^^The Stock represents all of the outstanding capital stock or other equity securities of the Company. The shares of Stock are validly issued, fully paid and nonassessable. The shares of Stock are owned by Paragon free and clear of any Liens and Paragon has all right to sell and transfer the shares of Stock as contemplated by this Agreement and upon such sale and transfer, such Stock shall be acquired by the Buyer as contemplated by Section 2.1 of this Agreement free and clear of any Liens.
+
+^^There are no subscriptions, options, warrants, equity securities, partnership interests or similar ownership interests, calls, rights (including preemptive rights), commitments or agreements of any character to which the Company is a party or by which it is bound obligating the Company to issue, deliver or sell, or cause to be issued, delivered or sold, or repurchase, redeem or otherwise acquire, or cause the repurchase, redemption or acquisition of, any Stock or similar equity security of the Company or obligating the Company to grant, extend, accelerate the vesting of or enter into any such subscription, option, warrant, equity security, call, right, commitment or agreement.
+
+^^All shares of Stock have been issued in compliance with all applicable securities laws and other applicable laws and regulations.
+
+^^There are no registration rights, and there is no voting trust, proxy, rights plan, anti-takeover plan or other agreement or understanding to which the Company is a party or by which the Company is bound with respect to any equity security of any class of the Company.
+
+^^No shares of Stock are subject to a repurchase option, risk of forfeiture or other condition under any applicable agreement with the Company.
+
+^^**Authority Relative to this Agreement**.
+
+^^Each of Intermezzo and Paragon has all necessary power and authority to execute and deliver this Agreement and to perform its respective obligations hereunder and to consummate the transactions contemplated hereby.
+
+^^The execution and delivery of this Agreement and the consummation by Intermezzo and Paragon of the transactions contemplated hereby have been duly and validly authorized by all necessary corporate action on their part and no corporate or organizational proceedings on the part of Intermezzo or Paragon are necessary to authorize this Agreement or to consummate the transactions contemplated hereby pursuant to the applicable law and the terms and conditions of this Agreement.
+
+^^This Agreement has been duly and validly executed and delivered by Intermezzo and Paragon, and assuming the due authorization, execution and delivery thereof by Buyer, constitutes the legal and binding obligations of Intermezzo and Paragon, enforceable against each of them in accordance with its terms, except as may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity.
+
+^^**No Conflict; Required Filings and Consents**.
+
+^^The execution and delivery of this Agreement by each of Intermezzo and Paragon does not, and the performance of this Agreement by such Persons shall not, (i) conflict with or violate any of their respective charters or other organizational documents, (ii) conflict with or violate any Legal Requirements, (iii) result in any breach of or constitute a default (or an event that with notice or lapse of time or both would become a default) under, or materially impair the Company’s rights or alter the rights or obligations of any third party under, or give to others any rights of termination, amendment, acceleration or cancellation of, or result in the creation of a lien or encumbrance on any of the properties or assets of the Company, or (iv) result in the triggering, acceleration or increase of any payment to any Person, including any “change in control” or similar provision, except, with respect to clauses (ii), (iii) or (iv), for any such conflicts, violations, breaches, defaults, triggers, accelerations, increases or other occurrences that would not, individually or in the aggregate, have a Material Adverse Effect on the Company or its rights under the FireFly Agreement.
+
+^^The execution, delivery and performance of this Agreement by each of Intermezzo and Paragon does not require any consent, approval, authorization or permit of, or filing with or notification to, any Governmental Entity or other third party (including, without limitation, lenders and lessors, except (i) for applicable requirements, if any, of the Securities Act of 1933, amended (the “**Securities Act**”), the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”) or applicable securities laws of any foreign country, and the rules and regulations thereunder, and appropriate documents received from or filed with the relevant authorities of other jurisdictions in which the Company is licensed or qualified to do business, (ii) [SHARE REGISTRY IN [SWITZERLAND]?], and (iii) where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on the Company or prevent consummation of the transactions contemplated hereby or otherwise prevent the parties hereto from performing their obligations under this Agreement.
+
+^^**Assets and Liabilities**. The Company has no assets other than the FireFly Agreement. The Company has no liabilities other than its obligations arising after the Closing under the FireFly Agreement.
+
+. Intermezzo has made available to the Buyer a correct and complete copy of the FireFly Agreement (as amended to date). The FireFly Agreement: (a) is in full force and effect; (ii) is legal, valid, binding and enforceable against FireFly Holdings Limited (“**FireFly**”); and (iii) will continue to be in full force and effect immediately following the Closing in accordance with the terms thereof as in effect prior to the Closing. No party is in breach or default, and no event has occurred which with notice or lapse of time or both would constitute a breach or default or permit termination, modification or acceleration, under the FireFly Agreement. Intermezzo and the Company have duly exercised all of their rights under the FireFly Agreement to assure that FireFly is performing its obligations under the FireFly Agreement and Intermezzo and the Company have no knowledge that FireFly has failed to perform in any material respect its obligations under the FireFly Agreement.
+
+^^**Litigation**. There are no claims, suits, actions or proceedings pending or, to the knowledge of Intermezzo and Paragon, threatened against, Intermezzo, the Company or Paragon before any Governmental Entity, governmental department or instrumentality, or any arbitrator. There are no claims, suits, actions or proceedings pending or, to the knowledge of Intermezzo, the Company or Paragon, threatened against Intermezzo, the Company or Paragon before any Governmental Entity, governmental department or instrumentality, or any arbitrator that seeks to restrain or enjoin the consummation of the transactions contemplated by this Agreement.
+
+^^**Intellectual Property**. The Company’s rights under the FireFly Agreement are not subject to any material proceeding or outstanding decree, order, judgment, contract, license or stipulation restricting in any manner the use, transfer or licensing thereof by the Company, or which may affect the validity, use or enforceability of such rights.
+
+^^**Investment Intent**.  
+^^The Shareholders are acquiring the Buyer Shares hereunder for their own accounts for investment and not for distribution, assignment or resale to others.
+
+^^The Shareholders acknowledge that the issuance of the Buyer Shares has not been registered under the Securities Act in reliance upon an exemption therefrom for nonpublic offerings.
+
+^^The Shareholders acknowledge that the Buyer Shares may not be sold or otherwise transferred unless such sale or other transfer is registered under the Securities Act or an exemption from registration is available.
+
+^^Each of the Shareholders is an “accredited investor” as that term is defined in Rule 501 of Regulation D promulgated under the Securities Act, and has had access to such financial and other information and has been afforded the opportunity to ask questions of the Buyer’s representatives and has received answers thereto, as deemed necessary in connection with its decision to accept the Buyer Shares hereunder.
+
+^\centered REPRESENTATIONS AND WARRANTIES OF THE BUYER
+
+The Buyer represent and warrant to Intermezzo and Paragon as set forth below in this .
+
+^^**Organization and Qualification**. The Buyer is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has the requisite corporate power and authority to own, lease and operate its assets and properties and to carry on its business as it is now being or currently planned by the Buyer to be conducted. The Buyer is not in violation of any of the provisions of its certificate of incorporation and bylaws.
+
+^^**Capitalization**. The Buyer’s periodic reports on Form 10-Q and Form 10-K and current reports on Form 8-K filed with the SEC accurately reflect its capitalization as of the dates indicated in such reports. The issued and outstanding capital stock of the Buyer (a) has been duly and validly issued; (b) is fully paid and nonassessable; and (c) was not issued in violation of any preemptive rights or rights of first refusal or first offer.
+
+^^**Valid Issuance of the Buyer Shares**. The Buyer Shares issued to Paragon hereunder have been duly authorized, validly issued, fully paid and are non-assessable, free of restrictions on transfer other than restrictions on transfer under applicable state and federal securities laws, are not subject to any preemptive rights, rights of first refusal, tag-along rights, drag-along rights or other similar rights, and have been issued in compliance with applicable state and federal securities laws. Upon consummation of the transactions contemplated by this Agreement, Paragon and Intermezzo will acquire marketable title to the Buyer Shares free and clear of all Liens.
+
+^^**Authority Relative to this Agreement**. The Buyer has full corporate power and authority to: (a) execute, deliver and perform this Agreement, and each ancillary document that the Buyer has executed or delivered or is to execute or deliver pursuant to this Agreement, and (b) carry out the Buyer’s obligations hereunder and thereunder and, to consummate the transactions contemplated hereby. The execution and delivery of this Agreement and the consummation by the Buyer of the transactions contemplated hereby have been duly and validly authorized by all necessary corporate action on the part of the Buyer, and no other corporate proceedings on the part of the Buyer are necessary to authorize this Agreement or to consummate the transactions contemplated hereby. This Agreement has been duly and validly executed and delivered by the Buyer and, assuming the due authorization, execution and delivery thereof by the other parties hereto, constitutes the legal and binding obligation of the Buyer, enforceable against it in accordance with its terms, except as may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity.
+
+^^**No Conflict; Required Filings and Consents**.
+
+^^The execution and delivery of this Agreement by the Buyer do not, and the performance of this Agreement by the Buyer shall not (i) conflict with or violate the Buyer’s certificate or incorporation or bylaws, (ii) conflict with or violate any Legal Requirements or any rule or regulation of the Over-the-Counter bulletin board, (iii) result in any breach of or constitute a default (or an event that with notice or lapse of time or both would become a default) under, or materially impair the Buyer’s rights or alter the rights or obligations of any third party under, or give to others any rights of termination, amendment, acceleration or cancellation of, or result in the creation of a Lien on any of the properties or assets of the Buyer pursuant to, any contracts to which the Buyer is a party or by or to which any of the properties or assets of the Buyer may be bound, subject or affected, or (iv) result in the triggering, acceleration or increase of any payment to any Person pursuant to any contracts to which the Buyer is a party or by or to which any of the properties or assets of the Buyer may be bound, subject or affected, including any “change in control” or similar provision thereof, except, with respect to clauses (ii), (iii) or (iv), for any such conflicts, violations, breaches, defaults, triggers, accelerations, increases or other occurrences that would not, individually or in the aggregate, have a Material Adverse Effect on the Buyer.
+
+^^The execution and delivery of this Agreement by the Buyer do not, and the performance of its respective obligations hereunder will not, require any consent, approval, authorization or permit of, or filing with or notification to, any Governmental Entity, except (i) for applicable requirements, if any, of the Securities Act, the Exchange Act, Blue Sky Laws, and the rules and regulations thereunder, and appropriate documents with the relevant authorities of other jurisdictions in which the Buyer is qualified to do business, and (ii) where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect on the Buyer, or prevent consummation of the transaction contemplated hereby or otherwise prevent the parties hereto from performing their obligations under this Agreement.
+
+^^**Reporting Company Status**. The Buyer is subject to the reporting requirements of the Exchange Act and the Buyer has taken no action designed to, or which to its knowledge is likely to, have the effect of, terminating the registration of the Common Stock under the Exchange Act nor has the Buyer received any notification that the SEC is contemplating terminating such registration. The Common Stock is traded on the Over-the-Counter bulletin board and the Buyer has not received any notice regarding, and to the Buyer’s knowledge there is no threat of, the termination or discontinuance of the eligibility of the Common Stock for such trading.
+
+^^**Exchange Act Filings; Financial Statements**. Buyer has filed all reports, forms or other information required to be filed by it under the Securities Act and the Exchange Act (the foregoing materials being collectively referred to herein as the “**SEC Reports**”), except as otherwise disclosed in any EC Reports. Except as otherwise disclosed in any SEC Reports, as of their respective dates, the SEC Reports complied in all material respects with the requirements of the Securities Act and the Exchange Act and the rules and regulations of the SEC promulgated thereunder, and none of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. The financial statements of Buyer included in the SEC Reports were prepared in accordance with generally accepted accounting principles applied on a consistent basis during the periods involved, except as may be otherwise specified in such financial statements or the notes thereto, and fairly present in all material respects the financial position of Buyer and its consolidated subsidiaries as of and for the dates thereof and the results of operations and cash flows for the periods then ended, subject, in the case of unaudited statements, to normal, immaterial, year-end audit adjustments.
+
+^^**Private Placement**. No registration under the Securities Act is required for the offer and sale of the Buyer Shares by the Buyer to Paragon as contemplated hereby.
+
+^\centered ADDITIONAL AGREEMENTS
+
+^^**Confidential Information**. Except in connection with any dispute between the parties and subject to any obligation to comply with (i) any applicable law, (ii) any rule or regulation of any Governmental Entity or securities exchange, or (iii) any subpoena or other legal process to make information available to the persons entitled thereto, whether or not the transactions contemplated herein shall be concluded, all information obtained by any party about any other, and all of the terms and conditions of this Agreement, shall be kept in confidence by each party, and each party shall cause its stockholders, directors, officers, managers, employees, agents and attorneys to hold such information confidential. Such confidentiality shall be maintained to the same degree as such party maintains its own confidential information and shall be maintained until such time, if any, as any such data or information either is, or becomes, published or a matter of public knowledge; provided, however, that the foregoing shall not apply to any information obtained by a party through its own independent investigations of the other party or received by a party from a source not known by such party to be bound by a confidentiality agreement with, or other contractual, legal or fiduciary obligation of confidentiality to, the other party, nor to any information obtained by a party which is generally known to others engaged in the trade or business of such party. In the event a party to this Agreement becomes legally compelled to disclose any such information, it shall promptly provide the others with written notice of such requirement so that the other parties to this Agreement may seek a protective order or other remedy. If this Agreement shall be terminated for any reason, the parties shall return or cause to be returned to the others all written data, information, files, records and copies of documents, worksheets and other materials obtained by such parties in connection with this Agreement.
+
+^^**Public Disclosure**. Unless otherwise permitted by this Agreement, the Buyer, Paragon and Intermezzo shall consult with each other before issuing any press release or otherwise making any public statement or making any other public (or non-confidential) disclosure (whether or not in response to an inquiry) regarding the terms of this Agreement and the transactions contemplated hereby, and neither shall issue any such press release or make any such statement or disclosure without the prior written approval of the other (which approval shall not be unreasonably withheld), except as may be required by law, in which case the party proposing to issue such press release or make such public statement or disclosure shall use its commercially reasonable efforts to consult with the other party before issuing such press release or making such public statement or disclosure.
+
+^^**Piggyback Registration**. The Buyer shall use its reasonable best efforts to provide to Paragon and Intermezzo piggyback registration rights as to Buyer Shares in any registration statement the Buyer files in which it is registering any shares of Common Stock other than on a Form S-4 or Form S-8 or any successor forms thereto. As a condition to such registration right, each Stockholder, or any affiliate thereof, shall agree to be bound by the provisions of any registration rights agreement pursuant to which other shares are being registered and, absent any such agreement, to such standard limitations and obligations to which registration rights are generally subject, including, but not limited to, the obligation to participate in any underwriting and the right to have any underwriter limit the number of shares being registered by a stockholder, or any affiliate thereof. In no event, however, shall the Buyer have the obligation to register any Buyer Shares if such shares can be sold in accordance with Rule 144 promulgated under the Securities Act.
+
+^^**Timely Filing of SEC Reports**. The Buyer will use its best efforts to file its SEC Reports with the SEC until the one year anniversary of the Closing.
+
+^^**Best Efforts of Intermezzo and Paragon**. Intermezzo and Paragon agree, for each of themselves and their affiliates, to use its best efforts to:
+
+^^identify potential equity or debt financing opportunities for the Buyer over the eighteen months following the Closing;
+
+^^cause any fund which Intermezzo, Paragon or any affiliate thereof forms to finance the development of electronic games to consider financing games for the benefit of Buyer and its affiliates; and
+
+^^assign to Buyer at Buyer’s request any videogame distribution or videogame development contracts, and intellectual property rights related to videogames obtained from CDV Software Entertainment, AG and its affiliates that revert to Intermezzo, Paragon or any of their affiliates in satisfaction of the exercise of their rights; provided that any such assignment shall be subject to (i) Buyer’s repayment of any production or royalty advances directly funded by Intermezzo or an affiliate thereof, and (ii) assumption by Buyer or any of its affiliates of any future financial obligations arising under any such videogame distribution or videogame development contract.
+
+^^**Tax Obligations**.  
+^^Intermezzo and Paragon, on or after the Closing Date, shall pay any and all Taxes due or imposed in connection with the transfer of the FireFly Agreement to the Company or the transactions contemplated in this Agreement, at such time as such Taxes become due and payable, and shall remain exclusively liable for (i) any Taxes with respect to the FireFly Agreement or the Company to the extent such Taxes accrued prior to the Closing Date or arose out of acts occurring or conditions existing prior to the Closing Date; (ii) any Taxes of the Company arising before the Closing Date.
+
+^^The Buyer shall remain exclusively liable for (i) any Taxes with respect to the FireFly License or the Company to the extent such Taxes accrue after the Closing Date or arise out of acts occurring or conditions existing after the Closing Date; (ii) any Taxes of Buyer arising before or after the Closing Date; or (iii) any Taxes of the Buyer arising out of or with respect to the operation of the Company after the Closing Date.
+
+^^**Notice and Rights Upon Default**. If Buyer shall fail to pay or cause IRP to pay any Milestone payments due FireFly (as defined in the FireFly Agreement) within 75 days of its due date, or any Royalty (as defined in the FireFly Agreement) payment within 20 days of its due date, Buyer shall provide notice thereof to Intermezzo. Intermezzo shall then have the right to make such payments on behalf of Buyer and IRP. If Intermezzo makes any such payment and is not reimbursed by the time such payment was otherwise due (after regard for cure periods under the FireFly Agreement), upon notice by Intermezzo, Buyer shall either assign the FireFly Agreement to Intermezzo or its designee, after consent to such assignment is obtained from FireFly, or transfer the stock of IRP to Intermezzo or its designee. In addition, if Buyer shall fail to make any Net Receipts Payment, Fixed Payment or any payment due under the Assignment Agreement within 60 days when due, then upon notice from Intermezzo, the same rights shall exist in favor of Intermezzo as existed for failures to pay under the FireFly Agreement. In no event shall Intermezzo have any rights resulting from the failure to make any payment under the FireFly Agreement if a bona fide dispute exists as to the obligation to make any such payment.
+
+^^**Further Assurances**. Each of the parties to this Agreement shall use its commercially reasonable efforts to effectuate the transactions contemplated hereby and to fulfill and cause to be fulfilled the conditions to closing under this Agreement. Each party hereto, at the reasonable request of another party hereto, shall execute and deliver such other instruments and do and perform such other acts and things as may be necessary or desirable for effecting completely the consummation of this Agreement and the transactions contemplated hereby, including under the Assignment Agreement.
+
+^\centered INDEMNIFICATION
+
+^^**Indemnification of Buyer**. The Buyer and each of its officers, directors, employees, stockholders and agents (each, a “**Buyer Indemnified Party**”) shall be entitled to be indemnified by Intermezzo and Paragon against any and all Losses suffered or incurred by such Buyer Indemnified Party, arising from, relating to or otherwise in connection with:
+
+^^any breach of any representation or warranty of Intermezzo or Paragon contained in this Agreement or the Assignment Agreement as modified by the exceptions thereto and other disclosures included in any other agreement or instrument furnished to the Buyer pursuant to this Agreement;
+
+^^any breach or failure to perform any covenant or agreement of Intermezzo or Paragon contained in this Agreement or any other agreement or instrument furnished to the Buyer pursuant to this Agreement; or
+
+^^any legal, accounting, or advisory expenses of Intermezzo and Paragon incurred in connection with the transaction contemplated by this Agreement.
+
+^^**Indemnification of Paragon and Intermezzo**. The Buyer shall indemnify, defend and hold harmless Intermezzo and Paragon and their respective officers, directors, employees, stockholders and agents (each, a “**Shareholder Indemnified Party**”) from and against any and all Losses suffered or incurred by such Shareholder Indemnified Party, arising from, relating to or otherwise in connection with:
+
+^^any breach of any representation or warranty of the Buyer contained in this Agreement as modified by the exceptions thereto and other disclosures included in any other agreement or instrument furnished to Intermezzo or Paragon pursuant to this Agreement;
+
+^^any breach or failure to perform any covenant or agreement of the Buyer contained in this Agreement or any other agreement or instrument furnished to Intermezzo or Paragon pursuant to this Agreement; or
+
+^^any legal, accounting, or advisory expenses of the Buyer incurred in connection with the transaction contemplated by this Agreement.
+
+^^**Indemnification Claims**.  
+^^In order for a Buyer Indemnified Party or a Shareholder Indemnified Party, as applicable (an “**Indemnified Party**”), to be entitled to any indemnification provided for under Section 7.1or Section 7.2 in respect of, arising out of or involving a claim by a third party (“**Third Party Claim**”), such Indemnified Party, must notify the indemnifying party (the “**Indemnifying Party”**) in writing of the Third Party Claim within 30 days after receipt by such Indemnified Party of notice of the Third Party Claim; provided, however, that failure to give such notification shall not affect the indemnification provided under Section 7.1 or Section 7.2 except to the extent the Indemnifying Party has been actually prejudiced as a result of such failure. Thereafter, the Indemnified Party shall deliver to the Indemnifying Party, within 10 days after the Indemnified Party’s receipt thereof, copies of all notices and documents (including court papers) received by the Indemnified Party relating to the Third Party Claim. The Indemnifying Party shall have the right to assume and conduct and control the defense of such Third Party Claim and the Indemnified Party shall have the right to observe and receive information regarding the defense of such claim. The Indemnifying Party shall not, without the prior written consent of the Indemnified Party (such consent not to be unreasonably delayed, withheld or conditioned), settle, compromise or offer to settle or compromise any such claim or demand on a basis which would result in the imposition of a consent order, injunction or decree that does not include an unconditional release of the Indemnified Party for any liability arising out of such claim or demand or any related claim or demand.
+
+^^In order for an Indemnified Party to be entitled to any indemnification provided for under this Agreement other than in respect of, arising out of or involving a Third Party Claim, such Indemnified Party shall deliver notice of such claim with reasonable promptness after discovery of any such claim to the Indemnifying Party; provided, however, that failure to give such notification shall not affect the indemnification provided under Section 7.1 or Section 7.2 except to the extent the Indemnifying Party has been actually prejudiced as a result of such failure. If the Indemnifying Party does not notify the Indemnified Party within 30 days following its receipt of such notice that the Indemnifying Party disputes its liability to the Indemnified Party, such claim specified by the Indemnified Party in such notice shall be conclusively deemed a liability of the Indemnifying Party under Section 7.1 or Section 7.2 and the Indemnifying Party shall pay the amount of the Losses stated in such notice to the Indemnified Party in the manner set forth in Section 7.4 or, in the case of any notice in which the Losses (or any portion thereof) are estimated, on such later date when the amount of such Losses (or such portion thereof) becomes finally determined.
+
+^^**Limitations**.  
+^^Except as otherwise provided in Section 7.8, Buyer shall be required to make any indemnification payment pursuant to Section 7.2(a) for any breach of the representations and warranties made by Buyer until such time as the total amount of all indemnifiable Losses (including Losses arising from such breach and all other indemnifiable Losses arising from any other breaches of any representations or warranties) that have been suffered or incurred by all of the Paragon Indemnified Parties collectively exceeds $[[USD Value 3]] (the “**Deductible Amount**”). In such event, if the total amount of such indemnifiable Losses exceeds the Deductible Amount, the Paragon Indemnified Parties shall be entitled, in accordance with the provisions in this , to be indemnified against and compensated and reimbursed for all indemnifiable Losses in excess of the Deductible Amount. Except as otherwise provided in Section 7.7, in no event shall the aggregate liability of the Buyer pursuant to **Sections 7.2(a)**, (b) or (c) exceed an amount equal to $[[USD Value 4: Number]] (the “**Cap Amount**”). Buyer shall have the right to reacquire Buyer Shares from the Shareholders, if any of such shares are then held, in satisfaction of an indemnification claim with each share being deemed to have the same value per share as of the end of the Closing Date.
+
+^^Except as otherwise provided in Section 7.8, Paragon and Intermezzo shall not be required to make any indemnification payment pursuant to Section 7.1(a) for any breach of the representations and warranties made by either of them until such time as the total amount of all indemnifiable Losses (including Losses arising from such breach and all other indemnifiable Losses arising from any other breaches of any representations or warranties) that have been suffered or incurred by all of the Buyer Indemnified Parties collectively exceeds the Deductible Amount. In such event, if the total amount of such indemnifiable Losses exceeds the Deductible Amount, the Buyer Indemnified Parties shall be entitled, in accordance with the provisions in this , to be indemnified against and compensated and reimbursed for all indemnifiable Losses in excess of the Deductible Amount. Except as otherwise provided in Section 7.7, in no event shall the aggregate liability of each of Paragon and Intermezzo pursuant to Section 7.1(a), (b) or (c) exceed the Cap. Paragon and Intermezzo shall have the right to satisfy any indemnification claim by tendering to the Buyer Indemnified Parties Buyer Shares which shall be deemed to have a value of the closing price of such shares on the Closing Date. In no event will Paragon and Intermezzo have any liability to pay an indemnification claim that exceeds the value of the Buyer Shares and all payments they have received under this Agreement and the Assignment Agreement, it being understood that Buyer shall have the right to exercise its set-off right for any further amounts under Section 7.6 hereof.
+
+^^**Termination of Indemnification**. The representations and warranties in this Agreement shall survive the Closing until the second anniversary of the Closing Date; provided, however, that the representations and warranties contained in **Sections 4.1**, 4.3, 4.4, 5.3, and 5.4,shall survive until the expiration of the applicable statutes of limitations (collectively, the “**Survival Period**”). Any claim made by a party hereunder shall be preserved despite the subsequent expiration of the Survival Period and any claim made prior to the expiration of the Survival Period shall survive until final resolution thereof. Except as set forth in the immediately preceding sentence, no claim for indemnification under this shall be brought after the end of the Survival Period.
+
+^^**Right to Set-Off**. The Buyer or any of its affiliates may, at their discretion, satisfy the unpaid portion of any of indemnification obligations due them by, to the extent permitted by law, setting-off against any amounts due and owing from the Buyer or any of its affiliates to Paragon and Intermezzo including, without limitation, any Net Receipts Payments or Fixed Payments due under this Agreement or payments due under the Assignment Agreement. Notwithstanding the foregoing, in the event that there exists a reasonable and good faith dispute as to whether (i) either of the Shareholders has an indemnification obligation hereunder or (ii) the Buyer or any Buyer Indemnified Party may enforce its right to set-off under this Section 7.6, then, in each case, the Buyer shall be entitled to place any amounts due and owing to the Shareholders hereunder into a third-party escrow account until such dispute has been fully and finally resolved.
+
+^^**Adjustment to Purchase Price**. All indemnification payments paid pursuant to this shall, to the maximum extent permitted by law, be treated as an adjustment to the Purchase Price or the purchase of the interest in the Note.
+
+^^**Exclusivity**. The right of Paragon, Intermezzo and the Buyer to assert indemnification claims and receive indemnification payments pursuant to this shall be the sole and exclusive right and remedy exercisable by such party with respect to any breach by the other party hereto of any covenant, representation or warranty or otherwise under this Agreement or relating to the transactions contemplated hereby; provided, however, that the remedies of each such party for fraud in the inducement or criminal acts (as determined by a final judgment of a court of competent jurisdiction) by another party shall not be subject to any limitation pursuant to this Agreement.
+
+^^**Determination of Losses**.  
+^^Losses payable to an Indemnified Party shall be reduced by any insurance proceeds received by such Indemnified Party on account of such matter. The parties hereto shall seek full recovery under all insurance policies covering any indemnifiable matter in the ordinary course of business and to the same extent as they would if such claim were not subject to right of indemnification hereunder. No indemnifying party shall be required to make any payment under this unless and until all claims for insurance have been exhausted and all payments under applicable insurance policies have been paid. Notwithstanding the foregoing, if an insurance recovery is made by an Indemnified Party with respect to any indemnification payment for which an indemnification payment has been made, such Indemnified Party shall promptly pay to the indemnifying party the amount of the insurance recovery, but not more than the amount of such indemnification payment.
+
+^^All indemnification payments payable hereunder shall be reduced by the net amount of any tax benefits inuring to the benefit of the Indemnified Party as a result of the Losses for which the Indemnified Party is seeking indemnification, offset by tax benefits lost due to such payment.
+
+^\centered GENERAL PROVISIONS
+
+^^**Notices**. All notices and other communications hereunder shall be in writing and shall be deemed given if delivered personally or by commercial delivery service, or mailed by registered or certified mail (return receipt requested) or sent via facsimile (with confirmation of receipt) to the parties at the following address (or at such other address for a party as shall be specified by like notice):
+
+^^if to the Buyer to:  
+[[Buyer]] 
+[[Address 1: Address]] 
+Attn: Terry Phillips  
+with a copy (which shall not constitute notice) to:
+
+Greenberg Traurig, LLP 
+1750 Tysons Boulevard
+
+Suite 1200 
+McLean, Virginia 22102 
+Attn: Mark Wishner, Esq.  
+^^if to Paragon and Intermezzo:  
+[[Intermezzo]] 
+Landstrasse 114 
+9495 Triefen, Liechtenstein 
+Attn: Paul Bauer  
+with a copy (which shall not constitute notice) to:
+
+Holme, Roberts & Owen, LLP 
+Rosental 4 
+D-80331 Munich 
+Germany 
+Attn: Jens Roehrborn  
+^^**Counterparts**. This Agreement may be executed in one or more counterparts, including by facsimile and/or PDF, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the parties and delivered to the other parties, it being understood that all parties need not sign the same counterpart.
+
+^^**Entire Agreement; Nonassignability; Parties in Interest**. This Agreement and the documents and instruments and other agreements specifically referred to herein or delivered pursuant hereto, including the Exhibits, (a) constitute the entire agreement among the parties with respect to the subject matter hereof and supersede all prior agreements and understandings, both written and oral, among the parties with respect to the subject matter hereof, (b) are not intended to confer upon any other person any rights or remedies hereunder, and (c) shall not be assigned. No representations, warranties, inducements, promises or agreements, oral or written, by or among the parties not contained herein shall be of any force of effect.
+
+^^**Severability**. If any provision of this Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other persons or circumstances will be interpreted so as reasonably to effect the intent of the parties hereto. The parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision.
+
+^^**Remedies Cumulative; Specific Performance**.
+
+^^Except as otherwise provided herein, any and all remedies herein expressly conferred upon a party will be deemed cumulative with and not exclusive of any other remedy conferred hereby, or by law or equity upon such party, and the exercise by a party of any one remedy will not preclude the exercise of any other remedy. The parties agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached.
+
+^^It is accordingly agreed that the parties hereto shall be entitled to seek an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement in any court of the United States or any state having jurisdiction, this being in addition to any other remedy to which they are entitled at law or in equity.
+
+^^**Governing Law**. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to the laws that might otherwise govern under applicable principles of conflicts of law. Each of the parties hereto irrevocably consents to the exclusive jurisdiction of any state or Federal court located Chesterfield, County, Virginia in connection with any matter based upon or arising out of this Agreement or the matters contemplated herein, agrees that process may be served upon them in any manner authorized by the laws of the Commonwealth of Virginia for such persons and waives and covenants not to assert or plead any objection which they might otherwise have to such jurisdiction and such process.
+
+^^**Rules of Construction**. The parties hereto agree that they have been represented by counsel during the negotiation, preparation and execution of this Agreement and, therefore, waive the application of any law, regulation, holding or rule of construction providing that ambiguities in an agreement or other document will be construed against the party drafting such agreement or document. References herein to “Dollars” or “$” shall refer to U.S. dollars and all payments and all calculations of amount hereunder shall be made in U.S. dollars.
+
+IN WITNESS WHEREOF, this Stock Purchase Agreement has been duly executed by the parties as of and on the date first above written.
+
+**BUYER:**
+
+[[Buyer]]
+
+[[Buyer Signatory Email: Identity | Signature]]
+__________________________________________
+{{Buyer Entity => By: [[Buyer Signatory First Name]] [[Buyer Signatory Last Name]]
+Title: [[Buyer Signatory Title]]}}
+
+
+[[Paragon]]
+
+[[Paragon Signatory Email: Identity | Signature]]
+__________________________________________
+{{Paragon Entity => By: [[Paragon Signatory First Name]] [[Paragon Signatory Last Name]]
+Title: [[Paragon Signatory Title]]}}
+
+
+[[Intermezzo]]
+
+[[Intermezzo Signatory Email: Identity | Signature]]
+__________________________________________
+{{Intermezzo Entity => By: [[Intermezzo Signatory First Name]] [[Intermezzo Signatory Last Name]]
+Title: [[Intermezzo Signatory Title]]}}
+
+
+\centered EXHIBIT A
+
+\centered **Sale and Assignment Agreement**
+
+\centered EXHIBIT B
+
+\centered **FireFly Consent Letter**
+
+\centered EXHIBIT B
+
+\centered **Fixed Payments Schedule**
+
+\centered **Fixed Payments Date**      
+
+\centered **Amount** 
+
+Closing Date      $   50,000 [[Date 5: Date]]      $   100,000 [[Date 6: Date]]      $   100,000 [[Date 7: Date]]      $   150,000 [[Date 8: Date]]      $   150,000 [[Date 9: Date]]      $   250,000 [[Date 10: Date]]      $   200,000 [[Date 11: Date]]      $   200,000 
+
+Total      $   1,200,000

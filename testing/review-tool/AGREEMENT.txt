@@ -1,27 +1,716 @@
-\centered **EXHIBIT I**
+Block 6 25 [[Date 1: Date]]
 
-\centered **AGREEMENT**
+\centered AGREEMENT
 
-THIS LETTER AGREEMENT (“AGREEMENT), made and entered into effective on [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]], having its principle office at 9220 Kirby Drive, Suite 500, Houston, TX 77054 (hereinafter referred to as the “Company”), and [[Employee]] (hereinafter referred to as the “Employee”) is a supplement to the binding offer letter entered into between the Company and Employee, a copy of which is attached as an Exhibit.
+\centered between
 
-\centered **WITNESSETH**
+\centered **APM MINING LIMITED**
 
-For and in consideration of the mutual promises and covenants herein contained, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and Employee agree as follows:
+\centered and
 
-**CONFIDENTIAL INFORMATION**  
-Employee acknowledges that in and as a result of his employment, he will be making use of, acquiring, and/or adding to confidential information of a special and unique nature and value relating to such matters as the Company's trade secrets, systems, procedures, manuals, confidential reports, and lists of clients, ("Confidential Information"). As a material inducement to the Company to enter into this Agreement and to pay to Employee the compensation and benefits stated herein, Employee covenants and agrees that he shall not, at any time during or for three (3) years following the term of his employment, directly or indirectly, divulge or disclose for any purpose whatsoever any Confidential Information that has been obtained by, or disclosed to, him as a result of his employment by the Company. In the event of a breach or threatened br each by Employee of any of the provisions of this paragraph, the Company, in addition to and not in limitation of, any other rights, remedies, or damages available to the Company at law or in equity, shall be entitled to a permanent injunction in order to prevent or restrain any such breach by Employee or Employee's partners, agents, representatives, servants, employers, employees, and/or any and all persons directly or indirectly acting for or with him. This section shall not apply to the extent information, (i) is generally available to the public or otherwise was part of public domain at the time of disclosure, (ii) became generally available to the public after disclosure through no act or omission of Employee, (iii) was disclosed to Employee by a third party who had no obligation to restrict disclosure, or (iv) Employee can show that such information was independently developed by Employee without use of any Confidential Information.
+\centered **AL ZUHRA MINING LLC**
 
-**RESTRICTIVE COVENANT**  
-Employee acknowledges that the services he is to render are of a special and unusual character with a unique value to the Company, the loss of which cannot adequately be compensated by damages in an action at law. In view of the unique value to the Company of the services of Employee for which the Company has contracted hereunder, because of the confidential information Company promises to disclose to Employee, as hereinabove set forth, and as a material inducement to the Company to enter into this Agreement and to pay to Employee the compensation stated herein as well as any additional benefits stated herein, Employee covenants and agrees as follows:
+\centered and
 
-For the period commencing with the date of the Agreement and ending twelve (12) monthsfollowing the termination of this Agreement, for whatever reason, the Employee agrees that he will not directly or indirectly, for his own account or for the account of others, whether as principal or agent or through the agency of any corporation, partnership, association or other business entity, engage in any business activity which shall be in direct competition to any material business of the Company. For purposes hereof, a business will be deemed, until proven otherwise, to be in direct competition if it involves the sale of products used for the disposal, transportation or destruction of medical sharps or any other products or services marketed by the Company or i ts subsidiaries and affiliates. Employee agrees further that, for a period commencing with the date of this Agreement and ending twelve (12) months following termination of this Agreement, for whatever reason, Employee shall not, directly or indirectly, make known to any person, firm or corporation, the names and addresses of any clients, customers, employees or independent contractors of the Company or any other information pertaining to them nor call on, solicit, take away, contract with, employ or hire or attempt to call on, solicit, take away, contract with, employ or hire any of the clients, customers, employees or independent contractors of the Company, including, but not limited to, those upon whom the Employee called or with whom he became acquainted during the performance of the services pursuant to this Agreement, whether for personal purposes or for any other person, firm or corporation. Nothing contained in this Section shall prohibit the Employee from purchasing and holding as an inve stment not more than [[Percentage 1: Number]]% of any class of the issued and outstanding and publicly traded capital stock of any such corporation which conducts a business in competition with the business of the Company. Should the foregoing covenant not to compete be held invalid or unenforceable because of the scope of the actions restricted thereby, or the period of time within which such agreement is operative in the judgment of a court of competent jurisdiction, the parties agree that and hereby authorize such court to define the maximum actions subject to and restricted by this Section and the period of time during which such agreement is enforceable. The provisions of this Section shall be applicable for the period indicated, regardless of termination of this Agreement for any reason prior to expiration of such period.
+\centered **Sheikh Ahmed Farid bin Mohammed al Awalaki**
 
-**MISCELLANEOUS**  
-The laws of the State of Texas shall govern the validity, construction, and enforcement of this Agreement and the rights and obligations of the Parties hereunder. The prevailing party in any dispute hereunder, in addition to actual damages and any other legal or equitable remedies to which it may be entitled, shall be entitled to recover reasonable attorney fees and costs from the non-prevailing party.
+\centered and
 
-IN WITNESS WHEREOF, the parties have executed this Agreement the day and year first above written.
+\centered **Qannas bin Ahmed Farid al Awalaki**
 
-\centered **EMPLOYEE:**      **COMPANY:** 
+\centered TABLE OF CONTENTS
 
-__________________________________      __________________________________ [[Employee]]      **David P. Tusa** Chief Executive Officer and President 
-__________________________________ Date      __________________________________ Date
+Heading
+
+Page No 
+
+^Definitions and Interpretation
+
+^Acquisition Of Participating Interest
+
+^Funding after Completion of the BFS
+
+^Operational Management
+
+^Strategic Oversight
+
+^Exploration Program and Budget
+
+^Provision of Services
+
+^Disposal of Participating Interest
+
+^Withdrawal by APM
+
+^Access to Information 
+
+^Assistance and Co-operation
+
+^Confidentiality
+
+^Disputes
+
+^Breach
+
+^Notices
+
+^Force Majeure
+
+^Entire Agreement
+
+^Severability
+
+^Execution and Counterparts
+
+^Governing Law and Jurisdiction
+
+^Variation or Amendment
+
+^Assignment and Transfer
+
+^Costs
+
+^Indemnity
+
+^Signatures
+
+Annexure A 
+
+Annexure B
+
+Page 4
+
+THIS AGREEMENT is made this [[Date 2: Date]] (the "Signature Date")
+
+between:
+
+APM Mining Limited a company incorporated under the laws of the British Virgin Islands with registration number 1557327 ("APM", which expression will include its successors and assigns);
+
+and
+
+Al Zuhra Mining LLC a company incorporated under the laws of the Sultanate of Oman with registration number 1783220 ("Al Zuhra LLC" which expression will include its successors and assigns); 
+
+and
+
+Sheikh Ahmed Farid bin Mohammed al Awalaki, an Omani national holding Omani ID no. 02211731, ("Promoter", which expression will include his heirs, successors and assigns);
+
+and 
+
+Qannas bin Ahmed Farid Al Awalaki, an Omani national holding Omani ID No. 09422855, ("Qannas"), which expression will include his heirs, successors and assigns; Represented by Sheikh Ahmed Fahrid
+
+(collectively hereinafter referred to as the "Parties" and "Party" shall mean any one of them).
+
+RECITALS:
+
+^WHEREAS Al Zuhra LLC is the registered owner of Block 6; 
+
+^AND WHEREAS the Promoter is the primary shareholder of Al Zuhra LLC holding [[Shares 1: Number]] Shares aggregating to approximately [[Percentage 1: Number]]% Participating Interest and therefore has Control over Al Zuhra LLC and its assets, including its Exploration License;
+
+Page 5
+
+^AND WHEREAS APM has considerable technical and financial expertise and capabilities in conducting mineral exploration activities;
+
+^AND WHEREAS the Parties wish to formally record the terms and conditions pursuant to which APM will provide services and expend funds for the exploration of Block 6 and acquire up to a [[Percentage 2: Number]]% interest in Al Zuhra LLC upon the terms agreed herein. 
+
+^AND WHEREAS this Agreement sets out the terms agreed between the Parties in this respect. 
+
+NOW THEREFORE THE PARTIES HEREBY AGREE AS FOLLOWS:
+
+^DEFINITIONS AND INTERPRETATION:
+
+^^In this Agreement (including the recitals) the following words and expressions shall, unless the context otherwise requires, have the following meanings:
+
+"Affiliate" - means with reference to a person, any other natural or juristic person that directly or indirectly through one or more intermediaries Controls, is Controlled by or is under common control with the first person;
+
+"Agreement" - means this agreement and the schedules attached hereto, as it may be amended from time to time;
+
+"APM Loans" has the meaning given to it in clause 2.3.
+
+"BFS" - means a bankable feasibility study to be prepared by an internationally recognised independent consulting firm (for example SRK Consulting), reflecting the feasibility, financial viability and proposed plan for mining a prospective ore body or deposit of Minerals and other minerals within the Exploration Area and will include such information that may be required to enable a banking or other financial institution or investor to determine whether or not to advance funds in order to establish a mine; 
+
+Page 6
+
+"BFS Date" - means the date on which the internationally recognised independent consulting firm delivers the completed BFS to the Management Committee;
+
+"Business Day" - means any day, excluding a Friday, Saturday or public holiday in the Sultanate of Oman, on which banks in the Sultanate of Oman are generally open for the transaction of normal banking business;
+
+"Commercial Companies Law" means Royal Decree 4 of 1974 issuing the Commercial Companies Law (as amended).
+
+"Confidential Information" has the meaning given to it in clause 12.1.
+
+"Control" - means the ability, by virtue of ownership, rights of appointment, voting rights, management agreement, or other agreement of any kind, to control or direct, directly or indirectly, the appointment of the majority of the board or the majority of any other executive body or to control or direct, directly or indirectly, any decision making process, including voting at the shareholder level, or the management of any company or entity or appointee, and "Controlled" shall have a corresponding meaning;
+
+"Encumbrance" - means an encumbrance of any nature whatsoever including but not limited to a lien, charge, mortgage, pledge, hypothecation or notarial bond and "Encumber" shall have the corresponding meaning;
+
+Page 7
+
+"Expenditure" - means the costs to be incurred by APM by itself and / or through its Affiliates (whether in Oman or otherwise) or by funding Al Zuhra LLC pursuant to the Exploration Program and Budget and to be used for the Exploration Activities and as specified in quarterly reports to be submitted by APM in the Management Committee meetings as contemplated by clauses 5 and 6 of this Agreement;
+
+"Exploration Area" or "Block 6" - means the mineral exploration tenement named Block 6 situated in the Batinah Region of Oman, having the coordinates set out on the map attached hereto as Annexure "A"
+
+"Exploration Activities" - means the exploration and/or development work to be carried out on the Exploration Area;
+
+"Exploration License" - means the license granted to Al Zuhra LLC in respect of the Exploration Area dated
+
+"Exploration Program and Budget" - means the program and budget to be prepared and approved annually by the Management Committee in respect of the Project;
+
+"Force Majeure Event" - has the meaning given to it in clause 16.1;
+
+"Independent Geologist" has the meaning given to it in clause 5.5;
+
+"Management Committee" - means a committee to be formed comprising representatives of each of the Parties as set out in clause 5;
+
+"MCI" means the Ministry of Commerce and Industry of the Government of the Sultanate of Oman;
+
+"Mining License"- means any mining license that may be granted to Al Zuhra LLC in respect of the Exploration Area from time to time.
+
+Page 8
+
+"Minerals" - means copper, lead, zinc, gold, silver, molybdenum, cobalt, nickel or chrome (as referred to in the Exploration License);
+
+"Net Smelter Return Royalty" - means a royalty payable to APM each calendar quarter from the date that APM becomes eligible to receive it, namely a royalty of [[Percentage 3: Number]]% (two per cent) of gross revenues received by Al Zuhra LLC or the operator of Block 6 Project from the sale of end products produced from mining activities over the Exploration Area, (including but not limited to ore, concentrate, ore, and metal and mineral products of any kind derived from ore), after deduction of all of the following: 
+
+^^smelting and refining costs including sampling, assaying, treatment charges and penalties incurred;
+
+^^marketing costs including sales commissions;
+
+^^handling and transportation costs;
+
+^^any taxes based on sales or production (but not income taxes);
+
+^^insurance and security costs;
+
+^^any related shipping agency fees and demurrage; and
+
+^^government charges on all related banking transactions.
+
+"Participating Interest" - means the Shares owned by a Shareholder, expressed as a percentage of all the issued Shares;
+
+"Project"- means initially the Exploration Activities and after the BFS Date, development and mining of the Exploration Area;
+
+"Project Manager" - means, initially APM and/or its Affiliates in Oman or otherwise until such time as the Management Committee decides otherwise;
+
+"Records" has the meaning given to it in clause 9.2;
+
+"Reserved Shares" means the number of Shares LLC equal to the difference between (a) such number of Shares constituting [[Percentage 2]]% Participating Interest and (b) the number of Shares held by APM prior to the completion of the BFS;
+
+Page 9
+
+"Shares" means shares in Al Zuhra LLC.
+
+"Shareholder" means a person holding Shares; and
+
+"Signature Date" - means the date set out at the front of this Agreement which will be the date on which the last Party appends its signature thereto.
+
+^^In the interpretation of this Agreement, the following rules shall apply unless the context requires otherwise: 
+
+1.2.1
+
+Headings are for convenience only and do not affect interpretation. The singular includes the plural and conversely. A gender includes all genders. A reference to a clause is a reference to a clause of this Agreement. Any reference to Rials is a reference to legal tender in Oman; 
+
+1.2.2
+
+If an event must occur on a specified day which is not a Business Day, then the specified day will be taken to be the next Business Day; 
+
+1.2.3
+
+Where amounts are referred to in figures and in words, if there is any conflict between the two, the figures shall prevail. 
+
+1.2.4
+
+Any reference to APM will include a reference to an Affiliate of APM, whether in Oman or otherwise.
+
+^ACQUISITION OF PARTICIPATING INTEREST:
+
+^^As of the Signature Date, APM shall be entitled up to a [[Percentage 2]]% Participating Interest in Al Zuhra LLC on the following basis: 
+
+2.1.1
+
+APM shall proceed with the Exploration Activities;
+
+2.1.2
+
+Within 15 days of the Signature Date, the Promoter agrees to transfer to APM [[Shares 2: Number]] Shares or such other number of Shares equivalent to a [[Percentage 4: Number]]% Participating Interest as of the date of transfer for a consideration of One Rial only.
+
+Page 10
+
+2.1.3
+
+Further, within 30 days of APM completing the airborne and pilot drilling activities in respect of Block 6 and provided that:
+
+the results of the pilot drilling are positive
+
+APM proceeds with the further Exploration Activities, by confirming to the Management Committee of its intention to so proceed,
+
+the Promoter will transfer further Shares such that APM would hold a [[Percentage 5: Number]]% Participating Interest, for a consideration of one Rial only. 
+
+2.1.4
+
+The Promoter will take all steps and cause the other Shareholders and Al Zuhra LLC to take all such steps and actions as may be required to give effect to the provisions of this clause 2.1, 3.2 and 9.1, including, in particular;
+
+Executing the share transfer agreement in the form acceptable to the MCI;
+
+Passing resolutions to amend the constitutive contract of Al Zuhra LLC;
+
+Executing the amendment to the constitutive contract of Al Zuhra LLC
+
+Making available current the audited financial statements of Al Zuhra LLC to the MCI;
+
+Ensuring all registrations of Al Zuhra LLC, including the registration with the Oman Chamber of Commerce and Industry are kept valid and remain in force from time to time; and
+
+Filing the relevant documents with the MCI and procuring the registration of the relevant transfer of the Shares.
+
+Page 11
+
+^^In the event that other minerals not referred to in the Exploration License are discovered in the course of the Exploration Activities, either (i) Al Zuhra LLC if the discovery occurs before APM has earned a [[Percentage 5]]% Participating Interest in Al Zuhra LLC, or (ii) the Parties acting jointly if the discovery occurs after APM has earned a [[Percentage 5]]% Participating Interest in Al Zuhra LLC, may make application to the MCI to acquire rights to develop such minerals, which will be incorporated into this Agreement by way of an addendum thereto.
+
+^^All amounts contributed by APM towards Expenditure and development funding shall be regarded as loans to APM (the "APM Loans"), and shall be borne entirely by APM and/or its Affiliates. It is agreed that the APM Loans will be repaid to APM in full from any profits generated by Al Zuhra LLC before the payment of any dividends / profits to the Shareholders.
+
+^^It is agreed that an internationally recognised independent consulting firm (for example SRK Consulting) will be appointed by APM for the preparation and completion of the BFS, and APM undertakes to consult with the Promoter prior to making such appointment. 
+
+^^Subject to the provisions of Article 154 of the Commercial Companies Law (which requires ten percent ([[Percentage 6: Number]]%) of the Company's profits to be set aside as a legal reserve until the reserve is equal to one third of the Company's capital), and subject further to the provisions of Clause 2.6, the Shareholders will distribute the profits of Al Zuhra LLC in accordance with the Commercial Companies Law (CCL):
+
+^^The dividend policy in clause 2.5 above is subject to each of the following, which shall take priority over the provisions of clause 2.5 above:
+
+the requirements and/or restrictions provided in any financing agreements entered into by Al Zuhra LLC ,
+
+the priority of any loan repayments or financial payments including in particular the repayment of APM Loans or payment of the Net Smelter Return Royalty, as the case may be,
+
+Page 12
+
+the Company having sufficient financial resources to meet all its obligations and anticipated working capital requirements as they become due, and
+
+After the BFS Date, but prior to APM holding [[Percentage 2]]% Participating Interest, APM will be entitled to [[Percentage 2]]% profits of Al Zuhra LLC and the Promoter will distribute such profits from the profits received by the Promoter to APM such that APM receives [[Percentage 2]]% of the profits. 
+
+^FUNDING AFTER COMPLETION OF THE BFS
+
+^^For the avoidance of doubt, it is specifically recorded that the Promoter and Qannas shall not be required to contribute any debt or equity funding to Al Zuhra LLC prior to completion of the BFS. 
+
+^^After the BFS Date, the Promoter agrees to transfer to APM the Reserved Shares for a consideration of one Rial only such that APM holds [[Percentage 2]]% Participating Interest in Al Zuhra LLC. The Promoter acknowledges that the price of one Rial for the Reserved Shares is reasonable adequate and is justified in view of the terms of this Agreement. The Promoter will take all steps and cause the other Shareholders and Al Zuhra LLC to take all such steps and actions as may be required to give effect to the provisions of this clause 3, including, in particular those set out in clause 2.1.4.
+
+^^The Promoter will not be required to contribute any equity funding after the BFS Date for the development of Block 6. However, if APM provides any funding to Al Zuhra LLC, such funding will be considered as a loan to Al Zuhra LLC and will be repaid to APM in full, together with APM's contributions towards Expenditure, before any dividends may be distributed to the Parties. 
+
+^^The Promoter and Qannas represent and warrant that the Shares held by them are fully paid up and free of any Encumbrance and undertake that they will not increase the Share capital of Al Zuhra LLC without the prior written consent of APM.
+
+Page 13
+
+^^All Parties agree to work together to source debt funding for the Project, including for the purposes of building and operating Block 6 on mutually beneficial terms to Al Zuhra LLC and as acceptable to APM.
+
+^^Upon completion of the BFS, APM shall use its best commercial endeavours to raise any equity funding that may be required by Al Zuhra LLC to commission a mine on the Exploration Area without cost to the Promoter. All borrowings are to be mutually agreed by the Shareholders and APM.
+
+^^Although the Promoter is not required to contribute any equity funding to Al Zuhra LLC, the Promoter acknowledges and agrees that in the event that a third party provides debt funding to Al Zuhra LLC, it is likely that such third party would require security to be in place over the entire Project. The Promoter and APM agree not to unreasonably withhold its consent on creation of any such security that may be required by the third party lender, and further acknowledge and agree that such security may, as is ordinarily the case, take the form of an Encumbrance over any of Al Zuhra LLC's direct or indirect assets, including but not limited to the Exploration License or Mining License as the case may be. As per clause 3.5 all borrowings are to be mutually agreed by the Shareholders and APM.
+
+^^APM undertakes to use its best commercial endeavours to source equity and debt funding for Al Zuhra LLC within 6 (six) months from the BFS Date, such that development work on the Exploration Area can commence within 18 (eighteen) months of the receipt of such funding. 
+
+^^In the event that the BFS yields negative results, such that in the opinion of the internationally recognised independent consulting firm, the Minerals cannot be economically exploited, APM shall, subject to the provisions of clause 9 hereof, be entitled to withdraw from the Project, APM shall not be entitled to institute any claim against the Promoter or Al Zuhra LLC of any nature whatsoever. 
+
+^OPERATIONAL MANAGEMENT:
+
+Page 14
+
+^^Al Zuhra LLC hereby appoints APM and its Affiliates in Oman or otherwise as the initial Project Manager on an exclusive basis and it is agreed that APM will continue to be the Project Manager until such time as the Management Committee decides otherwise. Further, only the persons nominated by APM would be appointed by the Shareholders as the managers and authorised signatories of Al Zuhra LLC for the purposes of the Commercial Companies Law.
+
+^^APM shall, in its sole discretion, be entitled to appoint such other persons as it deems necessary for Al Zuhra LLC, including, inter alia, the appointment of an internationally recognised independent consulting firm to carry out a BFS, a construction manager, plant manager, exploration manager and the like, and APM undertakes to consult with Al Zuhra before making any such appointments. Al Zuhra agrees to appoint such persons as designated by APM from time to time.
+
+^^Al Zuhra LLC hereby grants APM the right to access the Exploration Area on an exclusive basis.
+
+^^Al Zuhra LLC agrees to take all actions to give effect to the terms of this Agreement and provide all assistance for the Exploration Activities as reasonably requested by APM.
+
+^STRATEGIC OVERSIGHT:
+
+^^The Parties shall form a Management Committee within 10 (ten) Business Days of the Signature Date comprising representatives appointed by the Parties. The Management Committee will have the roles and functions as set out under this Agreement.
+
+^^APM and Al Zuhra shall each be entitled to appoint 2 (two) representatives to the Management Committee, and at least 1 (one) representative of each Party shall be required to attend meetings of the Committee to constitute a quorum. 
+
+Page 15
+
+^^Each Party undertakes to promptly notify the other Party in writing of any change in the Management Committee representatives.
+
+^^All decisions of the Management Committee shall be decided upon by a majority vote, and in the event of a deadlock among the members of the Management Committee, a dispute over any decision (save for any dispute of a technical nature which shall be settled in accordance with clause 5.5 below) shall be settled in accordance with the provisions of clause 13 hereof. 
+
+^^In the event of a dispute of a technical nature, either Party may (notwithstanding clause 13) refer the dispute to a geologist duly qualified in the United Kingdom and registered and in good standing with the applicable professional body (the "Independent Geologist") who will provide an independent written opinion on the dispute, and whose opinion will be final and binding on the Parties. 
+
+^^Any member of the Management Committee, or any Shareholder may call a meeting of the Management Committee at any time upon providing the members with 14 (fourteen) Business Days prior written notice thereof. 
+
+^^For the avoidance of doubt, it is confirmed that the business and affairs of Al Zuhra LLC shall be under the control and direction of APM at all times. 
+
+^^APM undertakes that it will only incur such Expenditure as it may deem reasonably necessary for Al Zuhra LLC, and APM further undertakes to consult with the Promoter before incurring any Expenditure over US$[[USD Value 1: Number]] which is outside the Exploration Program and Budget. 
+
+^^APM will take all steps to expeditiously proceed with the Exploration Activities.
+
+^EXPLORATION PROGRAM AND BUDGET:
+
+^^As soon as possible after the Signature Date, an initial Exploration Program and Budget will be prepared by APM in consultation with the Promoter and the Exploration Program and Budget will then be jointly submitted to the Management Committee for approval. 
+
+Page 16
+
+^^The procedure described in 6.1 will be repeated annually after the expiry of the period of the initial Exploration Program and Budget for the duration of the Exploration Activities. 
+
+^^Information and reporting requirements to be shared and undertaken at Management Committee meetings shall include reports prepared on a quarterly basis by APM as of the Signature Date specifying the total amount of Expenditure incurred up to the date of each such report. 
+
+^PROVISION OF SERVICES:
+
+^^During the term of the Exploration Activities, the Promoter and its Affiliates may provide, at reasonable cost, certain administrative support, services and facilities for APM in Oman, including office facilities, support staff, accommodation and vehicles for APM personnel, and assistance in sourcing plant and machinery that may be required during the Exploration Activities, and the provision of any such services shall be agreed by the Parties at a meeting of the Management Committee.
+
+^^It is agreed that to the extent that it is reasonably possible and subject to 7.3 below, the Promoter and its Affiliates shall have a priority right to provide other services at competitive preferential rates to Al Zuhra LLC including, inter alia, the provision of plant and machinery and equipment for Al Zuhra LLC and such other services as may usually be expected to be provided by an independent exploration or mining contractor. 
+
+^^The provision of any such services contemplated in 7.1 above shall be subject to the prior approval of APM, in its sole discretion, which approval will not be unreasonably withheld, provided that the Promoter or its Affiliates furnishes APM with written evidence of any particular expertise that may be required for the provision of the services and evidence that the price quoted by the Promoter or its Affiliates for provision of the services is at or below the usual market rate thereof, that is, at competitive prices quoted by other providers of a similar standing.
+
+Page 17
+
+^^APM undertakes to comply, at all times, with any Omani laws, rules or regulations that may be applicable to it in relation to the provision of services described in this clause 7. 
+
+^DISPOSAL OF PARTICIPATING INTEREST:
+
+^^^Shareholder may not sell, encumber or otherwise dispose of part or the whole of its Participating Interest without the prior written consent of the other Party
+
+^^The prohibition contained in 8.1 above does not apply after the BFS Date in which event, the Shareholder desiring to dispose of its Shares shall also offer the other Shareholder's Shares as one block for the same price, terms and conditions should the other Shareholder so desire.
+
+^^^Shareholder (and in the case of APM, subject to their having first obtained a Participating Interest) that wishes to sell, encumber or otherwise dispose of all or part of its Participating Interest must first offer said Participating Interest to the other Shareholders in accordance with the procedure described in Articles 144 to 147 of the Commercial Companies Law.
+
+^^Notwithstanding the provisions of the Commercial Companies Law and/or the provisions of the Constitutive Contract relating to the transfer of Shares, until such time the BFS is obtained for the Project or APM withdraws from the Project, the Promoter will not transfer or create an Encumbrance in respect of Shares equivalent to a [[Percentage 2]]% Participating Interest.
+
+^^For avoidance of doubt:
+
+The Promoter and the other Shareholders, by entering into this Agreement, hereby expressly grant their informed consent to APM entering into agreements with owners of mining blocks in Oman in the past or future, whereby APM has acquired, agreed to acquire or will acquire, directly or indirectly, an interest in such mining blocks or in companies engaged in mining activities and/or having rights in mining blocks and this constitutes an express and informed consent for the purposes of Article 8 of the Commercial Companies Law. 
+
+Page 18
+
+The Promoter confirms that it will not claim any rights or share in the interests acquired by APM or its Affiliates, directly or indirectly in any mining block or in a company engaged in mining activities and/or having any rights in a mining block in Oman,
+
+Although APM is not a Shareholder on the Signature Date, the Promoter and the other Shareholders hereby expressly grant their informed consent under Article 8 of the Companies Commercial Law in advance to the terms of this Agreement and the transactions contemplated herein between APM and Al Zuhra LLC as and when APM becomes a Shareholder.
+
+The Parties acknowledge and agree that APM is entering into this Agreement on the basis and understanding that the Promoter and other Shareholder has accorded its consent to APM to directly or indirectly acquire an interest in mining blocks, under Article 8 of the CCL.
+
+^WITHDRAWAL BY APM:
+
+^^APM shall be entitled to withdraw from Al Zuhra LLC immediately upon completion of any annual Exploration Program by providing Al Zuhra LLC and the Promoter with written notification thereof if, in its sole opinion, the Block 6 Project does not warrant any further work. In such an event, all costs and expenses incurred by APM prior to the BFS Date shall be borne by APM, and APM will not be entitled to make any claim against the Promoter or Al Zuhra LLC for these expenses incurred. Further, if APM withdraws from the Project at any time prior to the completion of the airborne survey and pilot drilling, APM will transfer the Shares held by it to the Promoter for a consideration of one Rial only. APM agrees to take all steps to give effect to this clause including taking the steps set out in clause 2.1.4.
+
+^^Within 10 (ten) Business Days of APM notifying Al Zuhra of its withdrawal from Al Zuhra LLC, APM shall return to Al Zuhra all records, information or other documentation (the "Records") in its possession pertaining to the Block 6 Project. 
+
+Page 19
+
+^^It is agreed that upon the return of all Records to Al Zuhra, Al Zuhra shall, subject to the provisions of clause 8 above, be entitled to approach or enter into negotiations with any third party for the purpose of executing an agreement with such third party.
+
+^^If APM decides to withdraw from the Block 6 Project after completion of the BFS and prior to the or commencement of mine development, it is agreed that APM will relinquish the right to acquire the Reserved Shares (if not transferred to it already) and will instead be entitled to receive a [[Percentage 3]]% Net Smelter Return Royalty which will be capped at [[Percentage 7: Number]]% of the total amount of the Expenditure incurred up to the BFS Date. If APM has acquired any Shares at this time, it agrees to transfer the Shares held by it to the Promoter for a consideration of One Rial only. Al Zuhra LLC agrees to pay and the Promoter agrees to cause Al Zuhra LLC to pay the [[Percentage 3]]% Net Smelter Return Royalty to APM. The repayment of the Expenditure by way of the [[Percentage 3]]% Net Smelter Return Royalty will constitute the repayment of the APM Loan as provided in clause 2.3 above. It is agreed that in the event that APM withdraws from Al Zuhra LLC pursuant to the p rovisions of this clause 9, APM shall not be entitled to institute any monetary claim against any other Party to this Agreement, provided it continues to receive the [[Percentage 3]]% Net Smelter Return Royalty from Al Zuhra LLC. APM would be entitled to audit the books and records of Al Zuhra LLC to ensure the payment of the Net Smelter Return Royalty.
+
+^^Should APM and Al Zuhra decide that it is not feasible to proceed with mining activities after the BFS Date, APM shall in such an event bear all costs and expenses that it has incurred in relation to all work associated with the Block 6 Project.
+
+^^It is specifically agreed that APM shall, within 120 Business Days from the BFS date, declare to Al Zuhra whether it intends to develop the mine and commence production.
+
+^ACCESS TO INFORMATION:
+
+Page 20
+
+^^As soon as possible after the Signature Date and by no later than 10 Business Days after the Signature Date or such other date as the Parties may agree in writing, the Parties undertake to fulfil the following: 
+
+10.1.1
+
+The Promoter and Al Zuhra shall provide APM copies of the following:
+
+its constitutive contract and the constitutive contract of Al Zuhra LLC;
+
+Copy of an updated computer print-out (in original) from the Ministry of Commerce in respect of the Promoter and Al Zuhara LLC;
+
+^^letter from its auditors confirming the assets and liabilities of the Promoter and Al Zuhra LLC; and
+
+any relevant records and data in its possession pertaining to the Promoter , Al Zuhra LLC, the Exploration License and the Exploration Area to assist with the exploration programme.
+
+10.1.2
+
+APM will provide Al Zuhra with copies of the following:
+
+its Certificate of Incorporation;
+
+its Memorandum and Articles of Association
+
+its board resolutions approving the terms of and the transactions contemplated by this Agreement; and
+
+^^specimen of the signature of each person authorised on its behalf to enter into or witness the entry into of this Agreement or to sign or send any document or notice in connection with this Agreement. 
+
+^^Al Zuhra further authorises APM to make such other enquiries, and to conduct such other due diligence investigations as APM may deem, in its sole reasonable opinion, to be necessary for the purposes of entering into and performing this Agreement. 
+
+^^In the event APM is not satisfied at its sole discretion with the results of its due diligence or with any of the information it receives or if the Promoter and Al Zuhra LLC fail to provide such information, as is required under this clause 10, APM will be entitled to terminate this Agreement by giving a written notice to the other Parties.
+
+Page 21
+
+^ASSISTANCE AND CO-OPERATION: 
+
+The Parties undertake to assist and co-operate with each other at all times during this Agreement and take all steps and actions to give effect to the terms of this Agreement. 
+
+^CONFIDENTIALITY:
+
+^^Subject to the terms and conditions of this Agreement, neither Party shall release or disclose any information or data in respect of the Exploration License or Mining License (as the case may be) obtained under the terms of this Agreement or by virtue of participating in the Block 6 Project except for the purposes of the Block 6 Project ("Confidential Information").
+
+^^Confidential Information will include but be limited to this Agreement, the Exploration License or the Mining License as the case may be, as well as all trade secrets, know-how, data, proprietary information or other non-public information relating directly or indirectly to the Block 6 Project that, if in tangible form, is marked as "confidential", "proprietary" or in some other manner that indicates that it should reasonably be deemed to be Confidential Information, and if verbally disclosed is the subject of a confirming letter or memorandum sent within 20 (twenty) Business Days after disclosure. 
+
+^^Notwithstanding 12.2, Confidential Information shall not include any part of any information that (a) is in or comes into the public domain without any breach of any confidentiality obligation to the disclosing Party or any affiliate thereof; (b) was in the possession of or was known by the recipient prior to its disclosure or receipt; (c) is disclosed to the receiving Party on an unrestricted basis from any third party who is not under any obligation of confidentiality to the Party claiming that such information constitutes Confidential Information; or (d) is required to be disclosed by law or legal process. 
+
+^^No Party may make any public statements or announcements about the subject matter of this Agreement without first consulting with the other Party.
+
+Page 22
+
+^^The Parties shall each take such reasonable steps to ensure that their respective officers and employees do not disclose information that is confidential under the terms of this clause 12.
+
+DISPUTES:
+
+^^If there shall be any dispute, controversy or claim (a "Dispute") between the Parties arising out of, relating to, or connected with this Agreement, the breach, termination or invalidity hereof, or the provisions contained herein or omitted herefrom, a Party shall notify the other Parties in writing thereof and such notification shall request that the Parties promptly meet in order to attempt to negotiate and settle such Dispute. 
+
+^^Such meeting will take place in good faith at such time and place as agreed to by the Parties, or failing agreement, within 7 Business Days after the Parties were duly notified of such Dispute in the Sultanate of Oman, or at an alternative place by written mutual consent. 
+
+^^If the Parties are unable to resolve the Dispute referred to herein within 40 Business Days after a Party giving written notice of a Dispute to the other Party, such Dispute shall be finally settled by arbitration by three arbitrators appointed and proceeding in accordance with the Rules of Arbitration (the "Rules") of the International Chamber of Commerce (the "ICC") in force at the time of such Dispute as the exclusive means of resolving such Dispute. 
+
+^^All submissions and awards in relation to arbitration under this Agreement, all arbitration proceedings and all pleadings shall be conducted in the English language. 
+
+^^The arbitration proceedings shall be held in Dubai, United Arab Emirates, unless another location is selected by mutual agreement of the Parties. 
+
+^^For purposes of appointing such arbitrators, each of the Parties hereto shall appoint one arbitrator and the third arbitrator shall be selected by the two Party-appointed arbitrators or, failing agreement between the two Party-appointed arbitrators within 10 Business Days after the appointments of the two Party-appointed arbitrators have been confirmed, by the ICC in accordance with the Rules. 
+
+Page 23
+
+^^The decision of the arbitration panel shall include a statement of the reasons for such decision and shall be final and conclusively binding upon the Parties and shall be enforceable against them in any court having jurisdiction over them or any of their assets. The Parties further agree, subject to applicable law, to obtain the arbitration panel's agreement to preserve the confidentiality of the entire arbitration process and any award made in respect of the Dispute. 
+
+BREACH:
+
+The Parties agree that prior to the BFS Date, the cancellation of this Agreement in the event of a breach would be an inappropriate and insufficient remedy. It is accordingly agreed that the aggrieved Party shall be entitled, (without prejudice to any other rights it may have in law other than its right to cancel the Agreement) to initiate arbitration proceedings in accordance with clause 13 above on an urgent basis to obtain such award as may be deemed appropriate by the arbitration panel. 
+
+NOTICES:
+
+^^^notice given under this Agreement:
+
+15.1.1
+
+shall be in writing in the English language (or be accompanied by a properly prepared translation into English);
+
+15.1.2
+
+shall be sent for the attention of the person, and to the address given in this clause 15 (or such other address or person as the relevant Party may notify to the other Party, such notice to take effect five days from the notice being received); and
+
+15.1.3
+
+shall be:
+
+15.1.3.1delivered personally; or
+
+Page 24
+
+15.1.3.2 delivered by commercial courier; or
+
+15.1.3.3 sent by pre-paid registered post.
+
+^^The addresses for service of notice are as follows:
+
+15.2.1
+
+Al Zuhra Mining Company LLC:
+
+Postal Address: 
+
+(For the attention of: Gordon Millar)
+
+PO Box 54. PC 119, Muscat, Sultanate of Oman.
+
+Physical address:
+
+Shatti Village, Building No.2663, Shatti Qurum, Muscat, Sultanate of Oman
+
+Telephone number +[[Phone 1]]5
+
+15.2.2
+
+APM Mining Limited:
+
+Physical and Postal Address: 
+
+Ground Floor, Block C, Little Fourways Office Park, 
+
+^Leslie Avenue East, Fourways, Johannesburg, South Africa
+
+(For the attention of: the Managing Director) 
+
+Telephone Number:+ 27 11 707 4900
+
+15.2.3
+
+Sheikh Ahmed Farid bin Mohammed al Awalaki 
+
+Postal Address: 
+
+PO Box 54. PC 119, Muscat, Sultanate of Oman.
+
+Physical Address
+
+Shatti Village, Building No.2663, Shatti Qurum, Muscat, Sultanate of Oman
+
+Telephone number +[[Phone 2]]5
+
+Page 25
+
+15.2.4
+
+Qannas bin Ahmed Farid al Awalaki 
+
+Postal Address: 
+
+PO Box 54. PC 119, Muscat, Sultanate of Oman.
+
+Physical Address
+
+Shatti Village, Building No.2663, Shatti Qurum, Muscat, Sultanate of Oman
+
+^^^notice is deemed to have been received:
+
+15.3.1
+
+if delivered personally, at the time of delivery; or
+
+15.3.2
+
+if delivered by commercial courier, at the time of signature of the courier's receipt; or
+
+15.3.3
+
+if sent by pre-paid registered post, 48 hours from the date of posting; 
+
+and if a notice is received outside of normal business hours (meaning 8.00 am to 5.30 pm on a Business Day), then the notice will be deemed to have been received on the next following Business Day.
+
+FORCE MAJEURE:
+
+^^Subject to 16.4 below, neither Party shall be liable for the failure to perform or a delay in the performance of any duty or obligation that said Party may be subject to under this Agreement, where such failure or delay has been occasioned by force majeure which shall include any act of God, fire, strike, accident, war or any other cause outside the reasonable control of the Party ("Force Majeure Event"), provided that the said Party notifies the other Party in writing within seventy-two hours of the occurrence of the Force Majeure Event giving the description and forecast for the removal or remedy of the Force Majeure Event. 
+
+Page 26
+
+^^Any Party invoking Force Majeure shall use its best endeavours to mitigate or remove the circumstances giving rise to Force Majeure and upon mitigation or removal of the circumstances giving rise thereto, forthwith give written notice thereof to the other Parties.
+
+^^If the full and proper implementation of this Agreement is precluded by any of the events or a combination of the events contemplated in clause 16.1 for a period of more than 6 (six) consecutive months at any one time, then either Party may terminate this agreement or the Parties may mutually agree new arrangements equitable to both of them.
+
+^^It is agreed that APM shall not be entitled to invoke Force Majeure in respect of any failure by APM to fulfil its obligations to fund the Expenditure or to make any other monetary payment under this Agreement. 
+
+ENTIRE AGREEMENT: 
+
+This Agreement encompasses the entire agreement between the Parties and supersedes all prior agreements, understandings, negotiations and discussions, whether oral or written and there are no warranties or representations between the Parties except as specifically set forth herein.
+
+SEVERABILITY:
+
+If any provision hereof is held to be illegal, invalid or unenforceable for any reason, such provision shall be deemed to be pro non scripto, but without affecting, impairing or invalidating any of the remaining provisions of this Agreement which shall continue to be of full force and effect. 
+
+EXECUTION AND COUNTERPARTS:
+
+Page 27
+
+^^The Parties agree that they are executing this agreement based on the commercial understanding reached between them as set out herein, and which is covers, inter alia, the following areas:
+
+The stage-wise acquisition by APM of Shares leading to [[Percentage 2]]% Participating Interest;
+
+APM's responsibility to carry out Exploration Activities at its expense leading to the BFS;
+
+Funding of Al Zuhra LLC after obtaining the BFS;
+
+The constitution and role of the Management Committee;
+
+Provision of Services by the Promoter and his Affiliates to Al Zuhra LLC;
+
+Sale of Shares
+
+Terms of withdrawal by APM in certain circumstances as specified herein.
+
+^^This Agreement may be executed in any number of counterparts, each of which is an original and which together have the same effect as if each party had signed the same document.
+
+GOVERNING LAW AND JURISDICTION:
+
+This agreement shall be subject to Omani Law. Any disputes or claims arising out of or in connection with the subject matter of this Agreement shall, subject to clause 5.5, be settled by arbitration in accordance with clause 13.
+
+VARIATION OR AMENDMENT:
+
+No addition to or variation, deletion or agreed cancellation of all or any clauses or provisions of this Agreement will be of any force or effect unless in writing and signed by all the Parties. 
+
+ASSIGNMENT AND TRANSFER:
+
+Each Party shall, at any given time during the term of this Agreement, be entitled to assign, novate, cede or otherwise transfer its rights and obligations under this Agreement to an Affiliate thereof with the prior written consent of the other Party, and such consent shall not unreasonably be withheld.
+
+Page 28 
+
+COSTS:
+
+Each Party will bear and pay its own legal costs and expenses of and incidental to the negotiation, drafting, preparation and implementation of this Agreement.
+
+INDEMNITY
+
+APM shall indemnify and keep indemnified Al Zuhra from and against any and all losses, damages, costs, liabilities and expenses suffered or incurred by it in connection with the performance by APM of this Agreement or any transaction contemplated by it including, without limitation, any and all fines or liabilities arising in connection with the violation by APM, or by Al Zuhra LLC or by the Promoter arising directly or indirectly by any act or omission of APM, of any applicable law (including any applicable environmental law), any term or condition of the Exploration Licence, any other relevant licence for the duration of the Exploration Activities, any rule, regulation, permit, approval, consent or other authorisation or in connection with any third party claim.
+
+IN WITNESSETH WHEREOF the parties hereto have put their hands the day and year first above written.
+
+/s/Eugene Iliescu
+
+______________________________
+
+EUGENE ILIESCU for and on behalf of APM MINING LIMITED who warrants that he is duly authorised thereto
+
+in the presence of:
+
+Witness signature: /s/Peter Mansour
+
+Name: Peter Mansour
+
+/s/Sheikh Ahmed Farid bin Mohammed al Awalaki 
+
+_______________________________
+
+Sheikh Ahmed Farid bin Mohammed al Awalaki 
+
+for and on behalf of AL ZUHRA MINING LLC who warrants that he is duly authorised thereto
+
+in the presence of:
+
+Witness signature: /s/Bruce Carswell
+
+_______________________________
+
+Name: Bruce Carswell
+
+[[Name Bruce Carswell Signatory Email: Identity | Signature]]
+__________________________________________
+{{Name Bruce Carswell Entity => By: [[Name Bruce Carswell Signatory First Name]] [[Name Bruce Carswell Signatory Last Name]]
+Title: [[Name Bruce Carswell Signatory Title]]}}
+
+Witness signature: /s/Bruce Carswell
+
+_______________________________
+
+Name: Bruce Carswell
+
+/s/Qannas bin Ahmed Farid al Awalaki
+
+_______________________________
+
+Qannas bin Ahmed Farid al Awalaki in the presence of:
+
+Witness signature: /s/Bruce Carswell
+
+_______________________________
+
+Name: Bruce Carswell
+
+\centered Annexure “A”
+
+\centered Map of Exploration Area
+
+Table 1 Block 6 Bounding Coordinates
+
+\centered Point  \centered UTM North  
+
+\centered UTM East
+
+\centered 2609509.2  \centered 519754.45
+
+\centered 2623421.2  \centered 501151.44
+
+\centered 2628000.0  \centered 504999.00
+
+\centered 2637999.9  \centered 505000.00
+
+\centered 2645400.8  \centered 511160.93
+
+\centered 2628063.6  \centered 533373.88
+
+Total area Block 609.63km

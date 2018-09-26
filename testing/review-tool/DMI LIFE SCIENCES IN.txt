@@ -1,0 +1,33 @@
+\centered **DMI LIFE SCIENCES, INC.** 
+
+\centered **EXTENSION AGREEMENT FOR NOTES PAYABLE** 
+
+\centered **TOTAL PRINCIPAL AMOUNT: $[[USD Value 1: Number]]** 
+
+[[Date 1: Date]] 
+
+Greenwood Village, Colorado 
+
+On [[Date 2: Date]] and [[Date 3: Date]], the undersigned, DMI Life Sciences, Inc., a Delaware corporation following its reincorporation in [[Date 4: Date]] (“Maker”) issued two promissory notes, each in the principal amount of $[[USD Value 2: Number]] (the “Notes”) and promised to pay to the order of Michael Macaluso, together with any successors or assigns (collectively, the “Holder”), the aggregate principal sum of One Hundred Thousand United States Dollars (US $[[USD Value 1]]), with interest accruing on the outstanding principal amount of the Notes at an annual rate of six percent ([[Percentage 1: Number]]%) until the Notes are paid in full. The Notes had original due dates of [[Date 5: Date]]. 
+
+In consideration of this agreement and the extension contemplated hereby and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Maker and the Holder have agreed to extend the due date of the Notes to the earlier of (i) the closing and receipt by the Maker or its parent, Ampio Pharmaceuticals, Inc., of debt or equity financing totaling $[[USD Value 3: Number]] million or more, or (ii) [[Date 6: Date]]. All of the other terms of the original Notes remain unchanged. 
+
+Maker may prepay the Notes in part, or in full, prior to the due date of the Notes. Payments of principal and interest shall be made at the place that Holder from time to time shall direct in writing. 
+
+Maker:  DMI Life Sciences, Inc.
+
+[[Maker  DMI Life Sciences Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Maker  DMI Life Sciences Inc. Entity => By: [[Maker  DMI Life Sciences Inc. Signatory First Name]] [[Maker  DMI Life Sciences Inc. Signatory Last Name]]
+Title: [[Maker  DMI Life Sciences Inc. Signatory Title]]}}
+
+**Bruce G. Miller, Chief Financial Officer**
+
+Holder:  Michael Macaluso.
+
+[[Holder  Michael Macaluso. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Holder  Michael Macaluso. Entity => By: [[Holder  Michael Macaluso. Signatory First Name]] [[Holder  Michael Macaluso. Signatory Last Name]]
+Title: [[Holder  Michael Macaluso. Signatory Title]]}}
+
+**Michael Macaluso**

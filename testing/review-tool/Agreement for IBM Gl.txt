@@ -1,0 +1,235 @@
+\centered **Agreement for IBM Global Financing Platinum Plan** 
+
+\centered **Invoice Discounting Schedule** 
+
+\centered **Supplies Distributors S.A.** 
+
+**Your Name**    Supplies Distributors S.A.    **Schedule Number**    
+
+**Your Number**    SDSA  RC Liege 208795    **Effective date of Schedule**    25 [[Date 1: Date]] 
+
+**Credit Limit**    16,000,000    **Commencement Date**    27 [[Date 2: Date]] 
+
+**No Charge Period**    IBM 45 days    **Prepayment Percentage**    (i) [[Percentage 1: Number]]% of Eligible IBM and InfoPrint Solution Company Reimbursables no older than 90 days (ii) [[Percentage 1]]% of Eligible IBM and InfoPrint Solution Company Receivables (iii) [[Percentage 1]]% of Eligible VAT Receivables  
+
+**Collateral Value of Stock-in-Trade**  
+[[Percentage 2: Number]]% of paid for IBM Printing Sytems Division or InfoPrint Solution Company inventory (other than (a) machines which IBM Printing Systems Division or InfoPrint Solution Company has declared obsolete at least 60 days prior to the date of determination and (b) service parts) which (i) we have purchased the associated Supplier Invoice from the Authorised Supplier on or after the Closing Date (ii) purchased directly from IBM or InfoPrint Solution Company prior to the Closing Date and not subject to retention of title, provided, however, we have a first priority security interest in such inventory, (iii) is repurchasable under a repurchase agreement with the Authorized Supplier and (iv) is secured and managed through a pledge with Dispostion, with coverage percentage acceptable to us (such acceptable percentage to be determined by us within 60 days of the date this Schedule is executed)The value to be assigned to such inventory shall be based upon the Supplier Invoice net of all applicable credit notes.
+
+\centered 1 of 7 
+
+^^^^^ 
+**FINANCE CHARGES (2)**  
+
+\centered 
+
+**Base Rate (3)**    EURIBOR 
+
+**Discount Charge (5)**    Base Rate plus [[Percentage 3: Number]]% 
+
+**Default Rate**    Base Rate plus [[Percentage 4: Number]]% 
+
+**Shortfall Fee**    [[Percentage 5: Number]]% of Shortfall Amount 
+
+**Banking Transfer Charge**    Nil 
+
+**Service Fee per Notification**    N/A 
+
+**Monthly Service Fee, Set up Fee**    1,500 plus VAT per month 
+
+**Survey Fee**    5,000 plus VAT per IBM GF Survey 
+
+**Security Filing Fee**    Any fees required as a result of Uniform Commercial Code filings in US in connection with Collateralised Guarantees granted by SDI, Holdings and PFS 
+
+**Unused Line Fee**    Equal to thirty seven and one half (37.5) basis points times the weekly average unused portion of the Credit Line, accruable from the closing date and computed on the basis of a 360-day year, payable quarterly in arrears and upon the maturity or termination of the Credit Line 
+
+**Extended Credit Charge**    Base Rate plus [[Percentage 6: Number]]%  
+
+**REPORTING**  
+
+\centered 
+
+**Audited Accounts (4)**    90 days after fiscal year 
+
+**Management (unaudited) Accounts**    35 days after fiscal calendar quarter 
+
+**Collateral Management Report**    10 days after calendar month 
+
+**Aged Creditor Report**    10 days after calendar month 
+
+**Stock Report**    10 days after calendar month 
+
+**Fixed Asset Register**    10 days after calendar month 
+
+**Surveys**    Once a year 
+
+**Financial Covenant Compliance Certificate from both SDSA and Holdings**    45 days after fiscal period 
+
+**Extended Credit Period**    in 10 day increments up to 30 days 
+
+**VAT Receivables report with supporting documentation (including breakdown of calculations of VAT due and deductible)**    20 days after calendar month  
+
+\centered 2 of 7 
+
+^^^^^ 
+**ADDITIONAL COLLATERAL**  
+
+\centered 
+
+This Agreement 
+
+Stock Pledge Agreement among Supplies Distributors, Inc (“SDI”), and IBM GF, whereby SDI pledges [[Percentage 7: Number]]% of its shares in SDSA to IBM GF    Amended and Restated Stock Pledge 
+
+Liens: Charges: Pledges: Fixed and Floating Charge over all IBM inventory of SDSA and Convention de Gage of SDSA to be registered at Commercial Court    As provided by us 
+
+Guarantees of payment of amounts due under the agreement.    Amended and Restated Collateralised Guarantees from PFS, Holdings, and SDI Amended and Restated Corporate Guaranty from PFSweb 
+
+Amended and Restated Notes Payable Subordination from SDI in respect of SDSA    As provided by us 
+
+Opinion of Counsel    a favourable opinion of counsel for Loan Parties (to be provided post closing) in substantially the form provided to you by us satisfactory to us and from counsel satisfactory to it;. 
+
+Certificate of Authority    a certificate of the secretary or an assistant secretary of each Loan Party as applicable, certifying that, among other items, (i) SDSA and PFS Web B.V. are duly organized under the laws of the Kingdom of Belgium and registered to do business there (ii) true and complete copies of the articles of incorporation, or corresponding organizational documents, as applicable, and your by-laws are delivered therewith, together with all amendments and addenda thereto as in effect on the date thereof, (iii) the resolution as stated in the certificate is a true, accurate and compared copy of the resolution adopted by your Board of Directors authorizing the execution, delivery and performance of this Agreement and each other document executed and delivered in connection herewith, and (iv) the names and true signatures of your officers authorized to sign this Agreement and the other documents; 
+
+Miscellaneous     Listing of all creditors (if any) providing accounts receivable financing to you;  A duly executed compliance certificate as to your compliance with the financial covenants set forth below as of the last fiscal month you have published financial statements;  A copy of an all-risk insurance certificate pursuant to Clause 8.2.5 of the Agreement  The goods in transit can not contain of items older than 20 working days as net collateral value in the CMR.  
+
+\centered 3 of 7 
+
+^^^^^ 
+**OTHER CONDITIONS**  
+^Valid and enforceable customary documentation for the Collateral provided by SDSA and PFS Web B.V. 
+
+^Any strategic changes in the structure of the group, significant management changes and/or any major changes in Capex/investment plans to be advised to IBM GF immediately. 
+
+^Prepayments under the Platinum Plan are not to be used for early repayment of commercial loans. 
+
+^The Financial Statements of SDSA and BSDA as of Closing Date in form and substance satisfactory to us in our sole discretion; 
+
+^A certified copy of the current organization chart of Loan Parties; 
+
+^Evidence satisfactory to us that UCC-1 statements have been filed against SDI, Holdings and PFS with IBM GF as the Lien holder; 
+
+^IBM Credit is satisfied that all conditions precedent in accordance with the AIF have been met. 
+
+**FINANCIAL COVENANTS**  
+SDSA will be required, on a consolidated basis, to maintain the following financial ratios, percentages and amounts on a year to date basis as of the last day of the fiscal period under review (quarterly and annually) by us and IBM Credit: 
+
+\centered 
+
+Covenant    Covenant Requirement (i)    Debt to Tangible Net Worth    Greater than Zero and Less than 7.0:1.0 
+
+^^^Net Profit after Tax to Revenue    Greater than 0.10 percent 
+
+^^^Working Capital Turnover (WCTO)    Greater than Zero and Less than 37.0:1.0  
+
+PFSweb, Inc. will be required to maintain the following financial ratios, percentages and amounts as of the last day of the fiscal period under review ( quarterly and annually) by IBM Credit: 
+
+\centered 
+
+Covenant    Covenant Requirement (v)    Tangible Net Worth    Greater than $[[USD Value 1: Number]] for period ending 03/31/10 and beyond.  
+
+**FINANCIAL COVENANT DEFINITIONS**  
+The following terms shall have the following respective meanings in this Schedule. All amounts shall be determined in accordance with generally accepted accounting principles (GAAP). 
+
+“Consolidated Net Income” shall mean, for any period, the consolidated net income (or loss), after taxes, of SDSA on a consolidated basis for such period determined in accordance with GAAP. 
+
+“Current” shall mean within the ongoing twelve-month period. 
+
+“Current Assets” shall mean assets that are cash or expected to become cash within the ongoing twelve months. 
+
+\centered 4 of 7 
+
+^^^^^ 
+“Current Liabilities” shall mean payment obligations resulting from past or current transactions that require settlement within the ongoing twelve-month period. All indebtedness to IBM GF shall be considered a Current Liability for purposes of determining compliance with the Financial Covenants. 
+
+“Debt” shall mean all liabilities or obligations to pay another person/company a certain amount at a specified date excluding subordinated debt. 
+
+“Long Term” shall mean beyond the ongoing twelve-month period. 
+
+“Long Term Assets” shall mean assets that take longer than a year to be converted to cash. They are divided into four categories: tangible assets, investments, intangibles and other. 
+
+“Long Term Debt” shall mean payment obligations of indebtedness which mature more than twelve months from the date of determination, or mature within twelve months from such date but are renewable or extendible at the option of the debtor to a date more than twelve months from the date of determination. 
+
+“Net Profit after Tax” shall mean Revenue plus all other income, minus all costs (excluding amortization of good will), including applicable taxes, excluding currency adjustments for each period (other than for annual periods to the extent required by GAAP). 
+
+“Revenue” shall mean the monetary expression of the aggregate of products or services transferred by an enterprise to its customers (excluding intercompany transactions) for which said customers have paid or are obligated to pay, plus other income as allowed. 
+
+“Subordinated Debt” shall mean SDSA’s indebtedness to third parties as evidenced by an executed Notes Payable Subordination Agreement in favor of IBM GF (all Subordinated Debt shall not be considered Current Liabilities). 
+
+“Tangible Net Worth” shall mean Total Net Worth minus goodwill 
+
+“Total Assets” shall mean the total of Current Assets and Long Term Assets. 
+
+“Total Liabilities” shall mean the Current Liabilities and Long Term Debt less Subordinated Debt, resulting from past or current transactions, that require settlement in the future. 
+
+“Total Net Worth” (the amount of owner’s or stockholder’s ownership in an enterprise) is equal to Total Assets minus Total Liabilities. 
+
+“Working Capital” shall mean Current Assets minus Current Liabilities. 
+
+“Working Capital Turnover (WCTO)” shall mean annualised Revenue divided by Working Capital. 
+
+\centered 5 of 7 
+
+^^^^^ 
+**Addresses**  
+Pursuant to Clause 11.9 of the Agreement, the following are the addresses of the parties to the Agreement: 
+
+\centered 
+
+^^^if to IBM GF: 
+
+IBM Belgium Financial Services BVBA/SPRL. Avenue du Bourget 42 B-1130 Brussels Belgium VAT BE 424300467 
+
+^^^if to SDSA: 
+
+Supplies Distributors S.A. Rue Louis Blériot 5 B-4460 [[Address 1: Address]] 
+
+^^^if to PFS Web B.V. 
+
+PFS Web B.V. SPRL c/o SDSA  
+
+**Footnotes:**  
+^All charges are exclusive of any taxes and duties. You agree to pay all applicable taxes and duties.
+
+^“EURIBOR”, is the one month rate for Euros determined by the Banking Federation of the European Union appearing on Reuters page 01 at or about 11:00 am (Central European Time) on the relevant day. “Reuters page 01” means the display designated as “Page 01” on the Reuters Service (or such other page as may replace Page 01 on that service or such other service as may replace it). On the first Business Day of a calendar month the Base Rate will be changed to EURIBOR appearing for the last Business Day of the previous calendar month. If at any time, EURIBOR changes by [[Percentage 8: Number]]% or more, the Base Rate will be changed by the same amount on the day of such change or the next following Business Day. Charges accruing from day to day will be calculated on the basis of a year of 360 days and the actual number of days elapsed. If the Due Date for payment in Euros is not a day on which settlement in Euros can be effected, the payment will be made on the preceding Business Day on which settlement can be effected.
+
+^Audited Accounts within 90 days of fiscal year end. Revised business plans/budgets will also be required at this time to enable an annual facility and covenant review to be effected by us.
+
+\centered 6 of 7 
+
+^^^^^ 
+**By signing below all parties accept the terms of the Schedule. This Schedule amends and replaces any Schedule issued and/or dated previously to this one.** 
+
+\centered 
+
+**Signed on behalf of**    **Signed on behalf of** 
+
+**SUPPLIES DISTRIBUTORS S.A.**    **IBM BELGIUM FINANCIAL SERVICES BVBA/SPRL** 
+
+**TVA BE 475.286.142**    **TVA BE 424.300.467** 
+
+Signed:        Signed: 
+
+[[Signed        Signed Signatory Email: Identity | Signature]]
+__________________________________________
+{{Signed        Signed Entity => By: [[Signed        Signed Signatory First Name]] [[Signed        Signed Signatory Last Name]]
+Title: [[Signed        Signed Signatory Title]]}}
+
+
+Signature:        Signature: 
+
+Date:        Date: 
+
+**PFS WEB B. V. SPRL** 
+
+Signed: 
+
+[[Signed Signatory Email: Identity | Signature]]
+__________________________________________
+{{Signed Entity => By: [[Signed Signatory First Name]] [[Signed Signatory Last Name]]
+Title: [[Signed Signatory Title]]}}
+
+
+Signature: 
+
+Date:  
+
+\centered 7 of 7

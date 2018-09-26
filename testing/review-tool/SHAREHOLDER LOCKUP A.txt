@@ -1,46 +1,48 @@
 \centered **SHAREHOLDER LOCK-UP AGREEMENT**
 
-THIS AGREEMENT (this “**Agreement**”) is dated as of June ___, 2010 (the “**Effective Date**”) by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”), and the persons set forth on the signature pages hereto (each a “**Management Shareholder**” and collectively, the “**Management Shareholders**”). Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Subscription Agreement (as defined below).
+THIS AGREEMENT (this “**Agreement**”) is dated as of [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”), and **[[Shareholders]]**, attached hereto (each a “**Shareholder**” and collectively, the “**Shareholders**”).
 
-WHEREAS, the Company has entered into an Agreement and Plan of Merger (the “**Merger Agreement**”) pursuant to which Bacterin International Inc., a Nevada corporation (“**Bacterin**”), will become a wholly-owned subsidiary of the Company (the “**Reverse Merger**”) and, contingent upon the closing of the Reverse Merger, the Investors have agreed to acquire from the Company (the “**Offering**”), either for cash or upon conversion of certain existing promissory notes (“**Bridge Notes**”) of Bacterin, (i) shares of the Company’s common stock (the “**Common Stock**”) and (ii) warrants (“**Warrants**”) to purchase additional shares of the Common Stock, subject to the terms and conditions set forth in a Subscription Agreement entered into between Bacterin and each of the Investors in connection with the Offering (the “**Subscription Agreement**” and such transaction, the “**Financing Transaction**”); and
+WHEREAS, the Company entered into (i) a share exchange transaction in which the holder of all of the equity interests in City Zone Holdings Limited, a British Virgin Islands company, delivered all of such equity interests to the Company and received from the Company, as consideration, certain shares of the common stock of the Company, par value $[[USD Value 1: Number]] per share (such stock, the “**Common Stock**”; such transaction, the “**Share Exchange Transaction**”) and (ii) intends to enter into a private placement financing transaction with certain accredited investors (the “**Purchasers**”) whereby the Company will issue units composed of shares of a newly-designated Series A Convertible Preferred Stock, par value $[[USD Value 1]] per share and related warrants to purchase shares of Common Stock of the Company (the “**Financing Transaction**”).
 
-WHEREAS, in order to induce the Company and the Investors to enter into the Financing Transaction, the Management Shareholders have agreed not to sell any shares of the Company’s Common Stock that such Management Shareholders presently own on the date hereof, or may acquire on or after the date hereof, except in accordance with the terms and conditions set forth herein (collectively, the “**Lock-Up Shares**”).
+WHEREAS, in connection with the Financing Transaction, the Company entered into a Securities Purchase Agreement, dated as of the date hereof (the “**Securities Purchase Agreement**”), by and among the Company and the Purchasers, and certain other papers, agreements, documents, instruments and certificates necessary to carry out the purposes thereof (collectively, the “**Transaction Documents**”).
+
+WHEREAS, in order to induce the Company and the Purchasers to enter into the Financing Transaction, the Shareholder agreed not to sell any shares of the Company’s Common Stock that the Shareholder presently owns on the date hereof or may acquire on or after the date hereof, except in accordance with the terms and conditions set forth herein (collectively, the “**Lock-Up Shares**”). Capitalized terms used herein without definition shall have the meanings assigned to such terms in the Securities Purchase Agreement.
 
 NOW, THEREFORE, in consideration of the covenants and conditions hereinafter contained, the parties hereto agree as follows:
 
-^**Restriction on Transfer; Term**. Each Management Shareholder hereby agrees with the Company that such Management Shareholder will not offer, sell, contract to sell, assign, transfer, hypothecate, gift, pledge or grant a security interest in, or otherwise dispose of, or enter into any transaction which is designed to, or might reasonably be expected to, result in the disposition of (whether by actual disposition or effective economic disposition due to cash settlement or otherwise, directly or indirectly) (each, a “**Transfer**”), any of the Lock-Up Shares and shall not Transfer such shares until the one year anniversary of the Effective Date; provided, however, that (a) the restrictions set forth in this Section 1 shall not apply to any Common Stock or Warrants (or any shares of common stock underlying the Warrants) acquired by a Management Shareholder in the Offering which would otherwise constitute Lock Up Shares and (b) Guy Cook shall be permitted to hypothecate, pledge and grant a security interest in up to 5,000,000 of his Lock Up Shares (excluding any shares of Common Stock he may acquire in the Offering which are not subject to this Section 1 pursuant to section 1(a) above) as collateral for borrowed funds used to acquire shares of Common Stock and warrants in the Offering and, if such collateral is executed against, shall be permitted to assign and transfer such Lock Up Shares to the secured party free of any restrictions set forth herein.
+^**Restriction on Transfer; Term**. Each Shareholder hereby agrees with the Company that such Shareholders will not offer, sell, contract to sell, assign, transfer, hypothecate, gift, pledge or grant a security interest in, or otherwise dispose of, or enter into any transaction which is designed to, or might reasonably be expected to, result in the disposition of (whether by actual disposition or effective economic disposition due to cash settlement or otherwise, directly or indirectly) (each, a “**Transfer**”), any of the Lock-Up Shares and shall not Transfer such shares until a date that is six (6) months following the date that the Initial Registration Statement (as defined in the Registration Rights Agreement) is declared effective by the Securities and Exchange Commission, as the case may be (the “**Lock-Up Period**”).
 
-^**Ownership**. During the Lock-Up Period, the Management Shareholders shall retain all rights of ownership in the Lock-Up Shares, including, without limitation, voting rights and the right to receive any dividends that may be declared in respect thereof, except as otherwise provided in the Subscription Agreement or the other documents to be entered into in connection with the Offering whereby any benefits, rights, title or otherwise shall inure to the Investors.
+^**Ownership**. During the Lock-Up Period, the Shareholders shall retain all rights of ownership in the Lock-Up Shares, including, without limitation, voting rights and the right to receive any dividends that may be declared in respect thereof, except as otherwise provided in the Transaction Documents whereby any benefits, rights, title or otherwise shall inure to the Purchasers.
 
-^**Company and Transfer Agent**. The Company is hereby authorized and required to disclose the existence of this Agreement to its transfer agent. The Company and its transfer agent are hereby authorized and required to decline to make any transfer of the Common Stock if such transfer would constitute a violation or breach of this Agreement.
+^**Company and Transfer Agent**. The Company is hereby authorized and required to disclose the existence of this Agreement to its transfer agent. The Company and its transfer agent are hereby authorized and required to decline to make any transfer of the Common Stock if such transfer would constitute a violation or breach of this Agreement and/or the Securities Purchase Agreement.
 
-^**Notices**. All notices, demands, consents, requests, instructions and other communications to be given or delivered or permitted under or by reason of the provisions of this Agreement or in connection with the transactions contemplated hereby shall be in writing and shall be deemed to be delivered and received by the intended recipient as follows: (i) if personally delivered, on the business day of such delivery (as evidenced by the receipt of the personal delivery service), (ii) if mailed certified or registered mail return receipt requested, two (2) business days after being mailed, (iii) if delivered by overnight courier (with all charges having been prepaid), on the business day of such delivery (as evidenced by the receipt of the overnight courier service of recognized standing), or (iv) if delivered by electronic mail or facsimile transmission, on the business day of such delivery if sent by 6:00 p.m. in the time zone of the recipient, or if sent after that time, on the next succeeding business day (as evidenced, in the case of facsimile transmissions by the printed confirmation of delivery generated by the sending party’s telecopier machine). If any notice, demand, consent, request, instruction or other communication cannot be delivered because of a changed address of which no notice was given (in accordance with this Section 4), or the refusal to accept same, the notice, demand, consent, request, instruction or other communication shall be deemed received on the second business day the notice is sent (as evidenced by a sworn affidavit of the sender). All such notices, demands, consents, requests, instructions and other communications will be sent to the following addresses or facsimile numbers as applicable.
+^**Notices**. All notices, demands, consents, requests, instructions and other communications to be given or delivered or permitted under or by reason of the provisions of this Agreement or in connection with the transactions contemplated hereby shall be in writing and shall be deemed to be delivered and received by the intended recipient as follows: (i) if personally delivered, on the business day of such delivery (as evidenced by the receipt of the personal delivery service), (ii) if mailed certified or registered mail return receipt requested, two (2) business days after being mailed, (iii) if delivered by overnight courier (with all charges having been prepaid), on the business day of such delivery (as evidenced by the receipt of the overnight courier service of recognized standing), or (iv) if delivered by facsimile transmission, on the business day of such delivery if sent by 6:00 p.m. in the time zone of the recipient, or if sent after that time, on the next succeeding business day (as evidenced by the printed confirmation of delivery generated by the sending party’s telecopier machine). If any notice, demand, consent, request, instruction or other communication cannot be delivered because of a changed address of which no notice was given (in accordance with this Section 4), or the refusal to accept same, the notice, demand, consent, request, instruction or other communication shall be deemed received on the second business day the notice is sent (as evidenced by a sworn affidavit of the sender). All such notices, demands, consents, requests, instructions and other communications will be sent to the following addresses or facsimile numbers as applicable.
 
 If to the Company:  
-Mr. Guy S. Cook 
-Chief Executive Officer and President 
-Bacterin International, Inc. 
-600 Cruiser Lane 
-Belgrade, MT 59714 
-Fax:    
-With a copy to:  
-Greenberg Traurig, LLP 
-1200 17th Street, Suite 2400 
-Denver, CO 80202 
-Attn: C. Ben Huber 
-Fax: [[Phone 1]]  
-If to the Investors, to the addresses listed on **Schedule I** hereto:
+[[Company]] 
+c/o City Zone Holdings Limited 
+Unit 106, Tern Centre, Tower II 
+251 Queen’s Road 
+Central Hong Kong 
+Attention: Jianming Hao 
+Telephone No.: 86-13828824414 
 
-With a copy to:  
-Gregory J. Osborn 
-Managing Partner, Co-Founder 
-Middlebury Group, L.L.C. 
-170 East Ridgewood Ave. 
-Ridgewood NJ 07450 
-Fax: [[Phone 2]]  
-If to the Management Shareholders, to such Management Shareholder c/o of the Company at the address set forth above, or to such other address as any party may specify by notice given to the other party in accordance with this Section 4.
+Fax No.: 86-[[Phone 1]]  
+with copies (which copies shall not constitute notice to the Company) to: 
 
-^**Amendment**. This Agreement may not be modified, amended, altered or supplemented, except by a written agreement executed by each of the parties hereto following the prior written consent of Investors holding a majority of the shares of Common Stock acquired in the Offering through purchase or conversion.
+Anslow & Jaclin LLP 
+195 Route 9 South, Suite 204 
+Manalapan, New Jersey 07726 
+Attention: Richard I. Anslow, Esq. 
+
+Eric M. Stein, Esq. 
+Tel. No.: [[Phone 2]] 
+Fax No.: [[Phone 3]]  
+If to a Shareholder, to the address set forth on **Schedule A** attached hereto.
+
+or to such other address as any party may specify by notice given to the other party in accordance with this Section 4.
+
+^**Amendment**. This Agreement may not be modified, amended, altered or supplemented, except by a written agreement executed by each of the parties hereto and the Maxim Group.
 
 ^**Entire Agreement**. This Agreement contains the entire understanding and agreement of the parties relating to the subject matter hereof and supersedes all prior and/or contemporaneous understandings and agreements of any kind and nature (whether written or oral) among the parties with respect to such subject matter.
 
@@ -50,7 +52,7 @@ If to the Management Shareholders, to such Management Shareholder c/o of the Com
 
 ^**Severability**. The parties agree that if any provision of this Agreement be held to be invalid, illegal or unenforceable in any jurisdiction, that holding shall be effective only to the extent of such invalidity, illegally or unenforceability without invalidating or rendering illegal or unenforceable the remaining provisions hereof, and any such invalidity, illegally or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. It is the intent of the parties that this Agreement be fully enforced to the fullest extent permitted by applicable law.
 
-^**Binding Effect; Assignment**. This Agreement and the rights and obligations hereunder may not be assigned by any Management Shareholder without the prior written consent of the Company and Investors holding a majority of the shares of Common Stock acquired in the Offering through purchase or conversion. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+^**Binding Effect; Assignment**. This Agreement and the rights and obligations hereunder may not be assigned by any Shareholder hereto without the prior written consent of the Company. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.
 
 ^**Headings**. The section headings contained in this Agreement (including, without limitation, section headings and headings in the exhibits and schedules) are inserted for reference purposes only and shall not affect in any way the meaning, construction or interpretation of this Agreement. Any reference to the masculine, feminine, or neuter gender shall be a reference to such other gender as is appropriate. References to the singular shall include the plural and vice versa.
 
@@ -58,7 +60,7 @@ If to the Management Shareholders, to such Management Shareholder c/o of the Com
 
 \centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
 
-\centered [SIGNATURE PAGE TO LOCK-UP AGREEMENT]
+\centered [COMPANY SIGNATURE PAGE TO LOCK-UP AGREEMENT]
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above herein.
 
@@ -68,61 +70,64 @@ IN WITNESS WHEREOF, the parties have executed this Agreement as of the date firs
 __________________________________________
 {{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
 Title: [[Company Signatory Title]]}}
-Title: President and CEO
 
-**SHAREHOLDER**
 
-By:
-Name: Guy Cook
+\centered [SHAREHOLDER SIGNATURE PAGE TO LOCK UP AGREEMENT]
 
-**SHAREHOLDER**
+**SHAREHOLDERS**
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+Expert Venture Limited
+
+[[Expert Venture Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Expert Venture Limited Entity => By: [[Expert Venture Limited Signatory First Name]] [[Expert Venture Limited Signatory Last Name]]
+Title: [[Expert Venture Limited Signatory Title]]}}
 
-**SHAREHOLDER**
+Sure Glory Holdings Limited
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+[[Sure Glory Holdings Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Sure Glory Holdings Limited Entity => By: [[Sure Glory Holdings Limited Signatory First Name]] [[Sure Glory Holdings Limited Signatory Last Name]]
+Title: [[Sure Glory Holdings Limited Signatory Title]]}}
 
-**SHAREHOLDER**
+Brighton Investments Limited
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+[[Brighton Investments Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Brighton Investments Limited Entity => By: [[Brighton Investments Limited Signatory First Name]] [[Brighton Investments Limited Signatory Last Name]]
+Title: [[Brighton Investments Limited Signatory Title]]}}
 
-**SHAREHOLDER**
+Mapleland International Investments Limited
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+[[Mapleland International Investments Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Mapleland International Investments Limited Entity => By: [[Mapleland International Investments Limited Signatory First Name]] [[Mapleland International Investments Limited Signatory Last Name]]
+Title: [[Mapleland International Investments Limited Signatory Title]]}}
 
-**SHAREHOLDER**
+Charming Action Management Limited
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+[[Charming Action Management Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Charming Action Management Limited Entity => By: [[Charming Action Management Limited Signatory First Name]] [[Charming Action Management Limited Signatory Last Name]]
+Title: [[Charming Action Management Limited Signatory Title]]}}
 
-**SHAREHOLDER**
+Shallow Glory Limited
 
-[[SHAREHOLDER Signatory Email: Identity | Signature]]
+[[Shallow Glory Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{SHAREHOLDER Entity => By: [[SHAREHOLDER Signatory First Name]] [[SHAREHOLDER Signatory Last Name]]
-Title: [[SHAREHOLDER Signatory Title]]}}
+{{Shallow Glory Limited Entity => By: [[Shallow Glory Limited Signatory First Name]] [[Shallow Glory Limited Signatory Last Name]]
+Title: [[Shallow Glory Limited Signatory Title]]}}
 
-\centered [SIGNATURE PAGE TO LOCK-UP AGREEMENT CONTINUED]
+\centered SCHEDULE A
 
-**SHAREHOLDER**
+Expert Venture Limited - [[Shares 1: Number]] shares
 
-Name: Daniel Frank
+Sure Glory Holdings Limited - [[Shares 2: Number]] shares
 
-**SHAREHOLDER**
+Brighton Investments Limited - [[Shares 3: Number]] shares
 
-Name: Gary Simon
+Mapleland International Limited - [[Shares 4: Number]] shares
+
+Charming Action Management Limited - [[Shares 5: Number]] shares
+
+Shallow Glory Limited - [[Shares 6: Number]] shares
