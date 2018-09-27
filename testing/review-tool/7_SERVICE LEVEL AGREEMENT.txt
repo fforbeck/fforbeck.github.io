@@ -1,0 +1,159 @@
+\centered **SERVICE LEVEL AGREEMENT** 
+
+This SERVICE LEVEL AGREEMENT (this “Agreement”) is entered into by and between [[Universal]], a [[State of Formation: State]] [[Organization: EntityType]] (“Universal”), and [[DSS]], a [[State of Formation: State]] [[Organization: EntityType]] (“DSS”). 
+
+\centered **WITNESSETH:** 
+
+WHEREAS, Universal receives Transition Services, as defined, pursuant to a Transition Services Agreement dated [[Date 1: Date]] between CenTra, Inc. (“CenTra”) and Universal, pursuant to which CenTra shall not be obligated to expand the scope of the Transition Services unless agreed separately; and 
+
+WHEREAS, DSS, Universal and CenTra are related parties as defined by Financial Accounting Standards Board (FASB) Accounting Standards Codification (ASC) 850-10-50 as a result of control by a common shareholder (“Shareholder”); 
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, together with other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows: 
+
+\centered **Services and Pricing** 
+
+^^**Services**. During the Term (as defined below), DSS shall provide or cause to be provided to Universal and its subsidiaries information technology infrastructure and services to host Universal’s accounting system in its data center (“Services”) and to maintain interfaces to databases used in the course of Universal’s day-to-day operations, as more fully described in **Attachment A  Hosting Services**. At the Effective Date (as defined below), the Services shall be provided on the Microsoft Dynamics GP platform. 
+
+^^**Compensation for Services**. Universal shall compensate DSS for the Transition Services as follows: 
+
+^^Initial Setup Charge:      $[[USD Value 1: Number]]
+^^Ongoing monthly Charge:      $[[USD Value 2: Number]] per user per month***
+***Initially, 55 users
+
+Excluding taxes based on Data Systems Services’s income, Universal is liable for and shall indemnify and hold DSS harmless for all federal, state and local sales, foreign withholding, value-added use, property, excise, service and other taxes relating to Universal’s receipt or use of the Services. 
+
+DSS shall invoice Universal monthly, and the parties shall settle based on commercially reasonable terms. 
+
+^^**Additional Services**. The parties agree to use commercially reasonable efforts to reach agreement on any ancillary services which Universal may require of DSS in connection with satisfying Universal’s accounting system requirements, including in connection with satisfying financial controls and IT general controls required by Universal (the “Additional Services”), and the applicable service fees, payment procedures and other rights and obligations with respect thereto. 
+
+^^**Cooperation**. Universal agrees to use its reasonable best efforts to cooperate with and provide any information necessary to facilitate DSS’s ability to provide the Services. Each party will use its commercially reasonable efforts, and will cooperate as reasonably required, to obtain any consents or approvals from third parties necessary to facilitate the ability of DSS to provide the Services and the Additional Services. 
+
+\centered **Term** 
+
+^^**Term**. The term of this Agreement shall commence on the Effective Date and shall continue in effect for three years thereafter. The agreement will automatically renew in successive one year increments unless, at least 90 days prior to the expiration of the then-current term, either party gives written notice of cancellation to the other (“Notice of Cancellation”). 
+
+^^**Termination**. Either Universal or DSS may terminate the Agreement for cause (i) if the other party materially breaches the agreement and fails to cure such breach within 30 days following receipt of receipt of written notice from the non-breaching party or (ii) immediately if the other party files for bankruptcy, becomes insolvent or makes an assignment for the benefit of creditors, or if a trustee is set up to administer a substantial portion of the other party’s assets or business. This Agreement may not be terminated by either party for any other reason unless appropriate Notice of Cancellation is given, as herein provided. 
+
+\centered **Cooperation of the Parties** 
+
+^^**Access to Personnel and Records**. DSS and Universal shall cooperate each with the other in providing reasonable access to personnel and records needed to perform the Services. 
+
+^^**Further Assurances**. DSS and Universal shall take all other actions reasonably necessary for the Services to be performed on accurate, timely basis and in a manner consistent with commercially reasonable standards for data center service providers, unless otherwise specifically agreed in writing. 
+
+\centered **Limitations on Liability** 
+
+^^**Standard of Care**. In the performance of the Services, DSS shall exercise the degree of care normally exercised by commercial providers of hosted data center services for similar types of accounting applications. Except in cases of gross negligence, willful misconduct or intentional breach, DSS shall have no liability to Universal with regard to the breach of any duty or obligation to Universal herein set forth. 
+
+^^**Limitation on Damages**. In no event shall DSS be liable to Universal for any special, indirect, incidental, consequential, punitive or similar damages, including but not limited to lost profits, loss of data or business interruption losses. This limitation shall apply even if DSS has been notified of the possibility or likelihood of such damages occurring and regardless of the form of action, whether in contract, negligence, strict liability, tort, products liability or otherwise. 
+
+\centered **Miscellaneous** 
+
+^^**Entire Agreement**. This Agreement constitutes the entire agreement of the parties hereto and supersedes all prior and contemporaneous agreements and understandings (including term sheets), both written and oral, between the parties hereto, or either of them, with respect to the subject matter hereof. 
+
+^^**Governing Law**. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Michigan. NO ACTION, SUIT OR PROCEEDING MAY BE BROUGHT OR MAINTAINED CONCERNING MATTERS COVERED BY THIS AGREEMENT EXCEPT IN A COURT OF THE STATE OF MICHIGAN OR COURTS OF THE UNITED STATES 
+
+OF AMERICA SITTING IN MICHIGAN. EACH OF THE PARTIES TO THIS AGREEMENT HEREBY IRREVOCABLY AND UNCONDITIONALLY AGREES TO BE SUBJECT TO, AND HEREBY CONSENTS AND SUBMITS TO, THE JURISDICTION OF THE COURTS OF THE STATE OF MICHIGAN AND OF THE FEDERAL COURTS SITTING IN THE STATE OF MICHIGAN. 
+
+^^**Amendment and Modification**. This Agreement may be amended, modified or supplemented only by a written agreement signed by each of DSS and Universal. 
+
+^^**Assignment; Binding Effect**. Neither this Agreement nor any of the rights, benefits or obligations hereunder may be assigned by Universal or DSS (whether by operation of law or otherwise) without the prior written consent of the other party, except to their subsidiaries. Subject to the preceding sentence, this Agreement shall be binding upon, inure to the benefit of and be enforceable by Universal and DSS and their respective successors and permitted assigns. 
+
+^^**No Third Party Beneficiaries**. Nothing in this Agreement, express or implied, is intended to or shall confer upon any person (other than DSS, Universal and their respective successors or permitted assigns) any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement and no person (other than as so specified) shall be deemed a third party beneficiary under or by reason of this Agreement. 
+
+^^**Counterparts**. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which together shall constitute one agreement binding on Universal and DSS, notwithstanding that not all parties are signatories to the same counterpart. 
+
+^^**Confidentiality**. DSS acknowledges that it will have access to confidential information of Universal and that such confidential information may be subject to contracts with third parties and to federal and state securities laws and regulations governing disclosure. DSS agrees to use such confidential information solely for purposes of performing its obligations under the Agreement and to transmit confidential information only to those officers, employees and consultants of DSS who have a need to know the confidential information for the purposes of this Agreement. DSS shall take commercially reasonable security precautions to prevent unauthorized use and disclosure of confidential information, and shall refrain from (i) disclosing any such information without the prior written consent of Universal, except as required by law or (ii) using such information other than in the performance of Services under this Agreement, unless such information (a) is in the public domain through no fault of Universal, (b) is or hereafter becomes known to the public through no fault of Universal or (c) is provided to DSS by a third party having no confidential obligation to Universal with regard to such information. 
+
+^^**Injunctive Relief**. DSS acknowledges that money damages may be incalculable and may be an insufficient remedy for a breach of this Agreement and such breach may cause irreparable harm to Universal. Accordingly, DSS agrees that in the event a breach or threatened breach of this Agreement is alleged, in addition to any other remedy at law or in equity Universal may have, Universal shall be entitled, without requirement of posting a bond or other security, to seek equitable relief, including injunctive relief and specific performance. 
+
+^^**Independent Contractor**. The relationship of the parties to each other under this Agreement shall be that of independent contractor. 
+
+^^**Personnel**. Both parties hereto agree that they shall take appropriate action by instruction of or agreement with their personnel to ensure that all personnel performing or otherwise involved with the Services under this Agreement shall be bound by and comply with all of the terms and conditions of this Agreement, including, but not limited to, the terms and conditions of Section 5.7 hereof. 
+
+IN WITNESS WHEREOF, the parties hereto have duly caused the execution of this Agreement by their duly authorized representative or officer, on the [[Date 2: Date]], but effective as of [[Date 3: Date]] (“Effective Date”). 
+
+[[DSS]]
+
+[[DSS Signatory Email: Identity | Signature]]
+__________________________________________
+{{DSS Entity => By: [[DSS Signatory First Name]] [[DSS Signatory Last Name]]
+Title: [[DSS Signatory Title]]}}
+
+
+[[Universal]]
+
+[[Universal Signatory Email: Identity | Signature]]
+__________________________________________
+{{Universal Entity => By: [[Universal Signatory First Name]] [[Universal Signatory Last Name]]
+Title: [[Universal Signatory Title]]}}
+
+
+\centered **Attachment A  Hosting Services** 
+
+This Attachment A is attached to and incorporated into the Agreement. Capitalized terms used and not otherwise defined herein shall have the respective meanings set forth in the Agreement. 
+
+**Scope** 
+
+The Agreement applies to the Microsoft Dynamics GP-based system hosted by DSS, and all related hardware, software and resources required to support and maintain Universal connectivity and related security requirements. 
+
+**System Availability** 
+
+The Microsoft Dynamics GP system will be available 24x7x365 with adequate hosting bandwidth to support Universal’s daily operating requirements, unless one of the following system-down scenarios has occurred: 
+
+^**Planned maintenance**  Notification to Universal will be given via email followed by approval by Universal a minimum of 24 hours prior to maintenance window.
+
+^**Emergency maintenance**  Notification will be sent to a designee identified by Universal less than 24 hours but more than 1 hour ahead of maintenance window.
+
+^**Unplanned outage**  This type of outage will be tracked via a Severity 1 ticket in which the involved parties will provide periodic phone and email updates to Universal’s chief financial officer and other contacts designated by Universal until the outage has been resolved.
+
+**Software support** 
+
+DSS will provide software development support and upgrades for Microsoft Dynamics GP and related 3rd party applications. 
+
+Any software-related changes approved by Universal in the development system will be promoted to production by DSS’s production support team. 
+
+**Security** 
+
+Universal will provide DSS with the following: 
+
+^Listing of personnel authorized by Universal to approve access additions, deletions, and modifications. Any changes to these authorized personnel will be communicated by Universal in a timely manner.
+
+^Listing of personnel authorized by Universal to approve physical access additions, deletions, and modifications. Any changes to these authorized personnel will be communicated by Universal in a timely manner.
+
+^Listing of personnel authorized by Universal to request system changes. Any changes to these authorized personnel will be communicated by Universal in a timely manner.
+
+Universal will notify DSS of the following: 
+
+^Requests to remove access to relevant logical systems for terminated employees will be sent to DSS within one business day.
+
+^Notification of any terminated employee or change in employment status for employees with physical access to the data center will be sent to DSS following protocols agreed by the parties within one business day.
+
+^Notification of actual or suspected information security breaches, including compromised user accounts as soon as possible.
+
+Universal management will approve the following prior to submission to DSS, based on protocols agreed by the parties to identify authorized approvers: 
+
+^Requests for additions, deletions, and modifications of user access to relevant systems.
+
+^Requests for physical access to the data center.
+
+^Requests for system changes.
+
+DSS will perform the following: 
+
+^Promote all user addition, deletion, and modification requests that have been approved by Universal management to production within one business day.
+
+^Promote all role addition, deletion, and modification requests that have been approved by Universal management to production within one business day.
+
+**Systems Review & Auditing** 
+
+DSS acknowledges Universal’s status as a public company and the statutory and exchange regulations applicable to it, including management’s obligation to maintain an effective system of internal controls over financial reporting, subject to the oversight of the Audit Committee of Universal’s Board of Directors. 
+
+DSS will provide the following to Universal: 
+
+^Monthly audit trail report of all direct database changes.
+
+^Monthly listing of all requests received through the ticketing system and their current status.
+
+^Notification of upcoming maintenance windows and planned system down time.
+
+^Annual SOC-I Type II Report provided by a nationally-recognized auditing firm or comparable professional firm acceptable to Universal covering a minimum of nine months of the calendar year to be provided by [[Date 4: Date]] of the following year.
