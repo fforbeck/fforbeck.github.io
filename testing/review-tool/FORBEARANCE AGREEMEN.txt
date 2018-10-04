@@ -1,187 +1,178 @@
-\centered FORBEARANCE AGREEMENT
+\centered **FORBEARANCE AGREEMENT**
 
-THIS FOREBEARANCE AGREEMENT (the “Agreement”) is dated as of [[Date 1: Date]] by and among [[Desert Capital]], a Maryland Corporation,(***Desert Capital***)(the “***Guarantor”***), [[Lender]], TRUSTEE OF THE SAGE TRUST dated 8/17/93; [[Party 3]], TRUSTEE OF THE RICH LIVING TRUST dated 7/10/98; The DEBELLIS FAMILY LIMITED PARTNERSHIP; WELLS FARGO, TRUSTEE OF THE [[Party 4]] TRUST; [[Party 5]]; [[Party 6]] 1995 IRREVOCABLE TRUST dated 8/8/95; RLF DIVERSIF IED GENERAL PARTNERSHIP; [[Party 7]] SEPARATE PROPERTY TRUST; [[Party 7]] IRA; [[Party 8]]; [[Party 9]] TRUST; [[Desert Capital0]]; [[Desert Capital1]]; [[Desert Capital2]]; [[Desert Capital3]]; [[Desert Capital4]] FAMILY TRUST; [[Desert Capital5]]; [[Desert Capital6]] TRUST; THE [[Desert Capital7]], M.D. CHARTERED PROFIT SHARING PLAN (collectively the ***“Lender”***). All terms used herein and [[Desert Capital8]], as defined below.
+This FORBEARANCE AGREEMENT (this “Agreement”) dated 30 [[Date 1: Date]] (the “Effective Date”) is among DORAL ENERGY CORP., a Nevada Corp (“Borrower”) and MACQUARIE BANK LIMITED, a Bank incorporated in accordance with the laws of Australia (“Administrative Agent”) and Lenders party to the Credit Agreement (defined below). Capitalized terms used but not defined in this Agreement have the meaning given to them in the Credit Agreement (defined below).
 
-**RECITALS**:  
+\centered **Background**
 
-WHEREAS, on the [[Date 2: Date]], WARM, JONES, A Nevada Limited Liability Company, (the ***“Borrower”***), executed, among other documents, a Promissory Note Secured by Deed of Trust (the “Note”), Deed of Trust and Assignment of Rents and Agreements and Loan Instruction Letter (collectively, along with the Guarantor Agreements defined below, the “Loan Documents”);
+^Borrower, Administrative Agent and Lenders have previously entered into a Senior First Lien Secured Credit Agreement dated 29 [[Date 2: Date]] (as amended, restated, modified or otherwise supplemented from time to time, the “Credit Agreement”) for the purpose of making available to Borrower a senior, secured term loan on a non-revolving basis;
 
-WHEREAS, on [[Date 2]], Desert Capital executed a Guaranty;
+^Borrower did not repay all Obligations on the Maturity Date (“Payment Default”). On the Effective Date Borrower has not repaid any or all of the Obligations and such amounts remain unpaid. On 30 [[Date 3: Date]], 28 [[Date 4: Date]] and 9 [[Date 5: Date]], Borrower requested that Administrative Agent and Lenders forbearand the Administrative Agent and Lenders did forbearfrom the exercise of any remedies with respect to the Payment Default. On the Effective Date, Borrower acknowledges that all previous forbearances with respect to the Payment Default have expired and are no longer in effect. Borrower has nevertheless again requested that Administrative Agent and Lenders forbear from the exercise of any remedies with respect to the Payment Default so that Borrower can consummate the transaction contemplated by the Purchase and Sale Agreement dated 30 [[Date 1]] between Borrower, as seller, and Alamo Resources LLC, as buyer (the “PSA”).
 
-WHEREAS, the loan evidenced by the Loan Documents in the amount of Thirteen Million Six Hundred Seventy-Five Thousand Dollars ($[[USD Value 1: Number]]) (the “Loan”) matured on [[Date 3: Date]];
+^Administrative Agent and Lenders have agreed to forbear from the taking of any action with respect to the Payment Default subject to the terms and conditions of this Agreement and for the time specified herein and subject to the terms of this Agreement.
 
-WHEREAS, on or about [[Date 4: Date]] the parties executed that certain Extension of $[[USD Value 1]] Promissory Note Secured by Deed of Trust Dated [[Date 2]] (“First Extension”), which extended the Loan to [[Date 5: Date]];
+\centered **Agreements**
 
-WHEREAS, on or about [[Date 6: Date]] the parties executed that certain Second Extension of $[[USD Value 1]] Promissory Note Secured by Deed of Trust Dated [[Date 2]] (“Second Extension”), which extended the Loan to [[Date 7: Date]];
+Borrower, Administrative Agent and each Lender (defined below) agree as follows:
 
-WHEREAS, default has occurred in the payment of the indebtedness due by Borrower to Lender under the Note and other Loan Documents and the Guarantor has breached the terms of its Guaranty by failing to cure the Borrower’s default (the “Current Default”);
+^**Definitions**.
 
-WHEREAS, Lender filed a lawsuit against Guarantor for breach of its guaranty. The case is pending in Clark County Nevada District Court as Case No. A612945; and,
+^^Certain Definitions. As used in this Agreement
 
-WHEREAS, notwithstanding the fact the Loan has matured and there are currently uncured Events of Default, Guarantor have requested that Lender forbear from exercising Lender’s remedies under the Loan Documents. Lender is agreeable to forbearing from exercising its remedies under the Loan Documents subject to the satisfaction of the conditions set forth herein and provided that (i) such postponement or forbearance shall be without prejudice to Lender’s remedies at law or in equity; (ii) Lender does not hereby waive any of Lender’s remedies and does not grant to the Borrower or Guarantor any additional rights to receive notice or to have an opportunity to cure other than as set forth in the Loan Documents and this Agreement; (iii) Lender does not waive any Current De faults or waive any future Events of Default which may occur under the Loan Documents or this Agreement; (iv) Such forbearance shall not affect the right of Lender to accelerate the Note based upon any future Events of Default; and (v) Lender does not agree to amend or modify the Loan Documents, except for the forbearance and as set forth herein.
+“Adverse Action” means the making of any demand or the commencement of any proceeding by any Person (other than Administrative Agent or any of its Affiliates) against Borrower to assert or enforce any default, claim, cause of action, Lien right or any civil, criminal or other governmental enforcement action.
 
-NOW, THEREFORE, and in consideration of the promises, premises and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Lender and Guarantor agree as follows:
+\centered Page 1 of 9
 
-^Guarantor hereby acknowledges and agrees that:
+“Forbearance Period” means the period beginning on the date that the conditions set out in Section 4 of this Agreement have been satisfied and ending on the earlier of (A) the occurrence of a Termination Event (defined below) or (B) 5:00 p.m. Houston time on 15 [[Date 6: Date]].
 
-^^On and as of the date hereof, (i) material Events of Default exist under the Note, Deed of Trust, and other Loan Documents, (ii) timely, adequate and proper notice of the occurrence of such Events of Default have been received by Borrower and Guarantor from Lender, (iii) all grace periods, if any, applicable to such Events of Default have expired, (iv) each of such Events of Default continued without timely cure by Borrower and Guarantor, and (v) Lender has not waived in any respect any or all of such Events of Default or any of the Lender’s remedies with respect thereto.
+“Insolvency Proceeding” means any voluntary or involuntary proceeding in respect of bankruptcy, insolvency, winding up, receivership, dissolution or assignment for the benefit of creditors, in each of the foregoing events whether under the bankruptcy code or any similar federal, state or foreign bankruptcy, insolvency, reorganization, receivership or similar law.
 
-^^Upon execution of this Agreement and receipt of the payments required under Paragraph 2(a), Lender will rescind the Notice of Default which was recorded in accordance with the Loan Documents and NRS Chapter 107, and which commenced the foreclosure proceedings against the collateral securing the Loan. Lender agrees that if the terms of this Agreement are met and there are no future Events of Default, Lender shall not restart a foreclosure action or exercise any other rights or remedies available to it at law or in equity against Borrower or Guarantor as a result of the Current Default until on or after [[Date 8: Date]] (the “Forbearance Period”). Unless the Loan is paid in full on or before [[Date 9: Date]], Lender may proceed with a new foreclos ure action by recording a Notice of Default and enforce its contractual and statutory remedies on or after [[Date 8]].
+“Termination Event” means (A) any additional Event of Default occurs under the Credit Agreement; (B) Lenders determine that any of the representations and warranties of Borrower under this Agreement or the Mutual Release were untrue when made; (C) Lenders determine that Borrower has failed to comply with any of the covenants under this Agreement; (D) the occurrence of any Adverse Action; (E) Borrower takes or directs, solicits, encourages or permits any other Person to take any action in contravention or frustration of this Agreement; (F) either Borrower or Alamo notifies the other that it has terminated (or intends to terminate) the PSA prior to the closing of the transaction contemplated therein; or (G) Lenders request (provided that Lenders cannot make such request prior to 24 [[Date 7: Date]]) and Borrower fails to provide, within three business days following Lenders’ request, evidence reasonably satisfactory to Lenders that the transaction contemplated by the PSA is likely to close on or before 15 [[Date 6]] and otherwise on the terms set forth in the PSA.
 
-^^The Note, the other Loan Documents and all of Borrower’s liabilities and obligations under the Note and the other Loan Documents shall, except as expressly modified hereby, remain in full force and effect and shall not be released, impaired, diminished or in any other way modified or amended as a result of the execution and delivery of this Agreement or by any of the undertakings or agreements contained herein except as follows:
+^^Other Defined Terms. Other capitalized terms used but not defined in this Agreement have the meanings given to them in the Credit Agreement.
 
-^^^Provided there is no further breach of the Loan Documents or this Agreement, and the Loan is repaid during the Forbearance Period, Lender agrees to waive outstanding interest, fees and costs which are currently due as of [[Date 1]], thereby reducing the Loan balance to the original principle sum of $[[USD Value 1]].
+^**Payment Default**. Borrower acknowledges and agrees that:
 
-^^^Provided there is no further breach of the Loan Documents or this Agreement, Lender agrees to waive all interest, fees, and penalties, if any, during the Forbearance Period.
+^^(i) the principal amount of the Obligations outstanding as of the date of this Agreement is Five Million Nine Hundred Forty-Nine Thousand One Hundred Ninety-Five Dollars and Thirty-Two Cents (**$[[USD Value 1: Number]]**) and (ii) Borrower has no rights of set-off against Lender and it is no defense to payment of any part of the Obligations by set-off.
 
-^^^Should there be any future breach of the Loan Documents or this Agreement of any kind, the waivers contained in 1(c)(i) and (ii) shall be revoked and all sums due in excess of the principal balance and all interest due under the Note shall be reinstated without further notice or act by Lender.
+^^Borrower did not pay all outstanding monetary Obligations on the Maturity Date and accordingly Borrower agrees that such failure to pay is an Event of Default pursuant to Section 10.1(a) of the Credit Agreement. 
 
-^Provided the following provision are fully, completely and timely complied with (the “Conditions”), Lender agrees to forbear from the exercise of any of Lender’s remedies against Borrower or Guarantor on account of the Current Default:
+^^Administrative Agent and the Lenders have previously delivered to Borrowerand Borrower has previously receiveda default notice with respect to the Payment Default, and any applicable cure period has expired.
 
-^^Concurrently with its execution of this Agreement, Guarantor shall tender the following payments (collectively the ‘Forbearance Payment”), made payable to Craig Burr IOLTA: (i) All real estate taxes and other assessments to bring the Loan collateral current. Guarantor estimates the outstanding balance to be $[[USD Value 2: Number]] through [[Date 10: Date]] (to be adjusted for full payment to bring taxes current through one week after payment is tendered) (Guarantor shall have the option to pay the property taxes directly to the Clark County Treasurer, however, Lender will not execute this Agreement until it is satisfied that the taxes have been paid in full); (ii) Foreclosure fees incurred by Lender th rough Chicago Title of $[[USD Value 3: Number]]; and (iii) Attorneys fees incurred by Lender of $[[USD Value 4: Number]]
+\centered Page 2 of 9
 
-^^Guarantor shall pay the 2010 – 2011 property taxes, and any other assessment or charge levied or assessed against the property, by delivering a cashiers’ check, or other acceptable certified funds, to the account of Craig Burr IOLTA as follows: First installment - [[Date 11: Date]]; Second installment – [[Date 12: Date]]; Third installment – [[Date 13: Date]]; Fourth installment – [[Date 14: Date]].
+^**Forbearance Period**. Throughout the Forbearance Period, Lenders agree to forbear from exercising any rights or remedies it may have under the Loan Documents under applicable law or otherwise as a result of the existence of the Payment Default but excluding the Permitted Actions (defined below).
 
-^^Upon execution of this Agreement, receipt of the Forbearance Payment and provided there is no further, or new, breach of the Loan Documents or this Agreement, Lender agrees to forbear from filing foreclosure proceedings or exercising any other rights or remedies available to it at law or in equity against Borrower or Guarantor as a result of the Current Default until [[Date 8]]. At all times herein, the Loan remains matured and fully due and payable.
+^**Condition to Effectiveness**. This Agreement will become effective upon its execution and unconditional delivery by each of the signatories identified below.
 
-^^If there are any defaults under this Agreement, or if there are additional Events of Default under the Loan Documents, or if the Loan is not repaid in full during the Forbearance Period, all amounts that are then unpaid shall become immediately due and owing and added to the principal of the Note as if this Agreement had not been executed, including the conditional forgiveness of outstanding interest and fees as outlined in the Note.
+^**Permitted Actions**. Notwithstanding the continuation of the Forbearance Period, Lenders may take any of the following actions (the “Permitted Actions”) at any time:
 
-^^With the exception of the Current Default, no default under this Agreement, no Event of Default, and no event which with or without notice or lapse of time, or both, could ripen into an Event of Default, shall have occurred and be continuing.
+^^take any action to preserve its rights in Collateral or to preserve the future exercise of any remedies, including but not limited to objecting to or contesting, or supporting any other Person in contesting or objecting to, in any proceeding (including without limitation, any Insolvency Proceeding), the validity, extent, perfection, priority or enforceability of any Lien in the Collateral or any avoidance, invalidation or subordination by any third party or court of competent jurisdiction of the Liens in the Collateral granted to Administrative Agent or any Lender and the priority and rights as between Lender and any subordinated lenders;
 
-^^Guarantor shall furnish copies of all loan commitments and letters of intent received by it or any of its affiliates for the purpose of repaying the Note immediately upon their receipt.
+^^prepare and file UCC-1 financing statements, patent, trademark or copyright filings or other filings or recordings filed or recorded by or on behalf of Lender;
 
-^^Should Guarantor be named the debtor of a voluntary or involuntary bankruptcy action, or are the subject of a receivership action, Lender may deem such action(s) an Event of Default and proceed to exercise its rights under the Loan Documents and this Agreement as such.
+^^take actions to determine the specific items included in the Collateral and the steps taken to perfect its Liens thereon;
 
-^Except as provided for herein, the agreement by Lender to forbear from pursuing the Lender’s remedies is without prejudice to Lender’s rights and remedies under the Loan Documents, and, subject to Lender’s agreement to forbear hereunder, acceptance and application of the payments provided for herein shall under no circumstances be deemed to be a waiver of any Current Default or any other default currently existing under Loan Documents or any future Event of Default, or diminish, alter, abrogate or adversely affect the Lender’s remedies. Except as specifically provided herein, nothing herein shall be deemed to be a modification of the Loan Documents.
+^^notify any Person of the existence of a Default or Event of Default and confirm the amount and type of collateral held under any lockbox agreement, account control agreement, landlord waiver or bailee's letter or similar agreement or arrangement or institute any action or proceeding with respect to such rights or remedies, but only to preserve Lender's rights thereunder with respect to any third parties or Borrower;
 
-^In consideration of Lender’s forbearance as provided herein, Guarantor, its parent, subsidiary, or affiliated corporations or entities, partners, partnerships, agents, employees, officers, directors, principals, heirs and assigns, hereby releases, acquits and forever discharges Lender, and all of Lender’s past and present subsidiary corporations, affiliates, joint venturers, successors, assigns, officers, directors, trustees, beneficiaries, agents and employees (in their individual and representative capacities as officers, directors, agents and employees) (collectively, the “Affiliates”) of and from any and all claims, losses, causes of action, costs, expenses, attorneys’ fees, l iabilities, indemnities, subrogations (contractual or equitable), duties, and obligations of any nature whatsoever (collectively, the “Claims”), at law or in equity, whether known or unknown, fixed or contingent, from whatever source derived including, without limitation, any and all potential lender liability claims against Lender. Guarantor acknowledges that it has no rights, defenses, offsets or other Claims and waives any such rights, defenses, offsets or other Claims which it had or may have against Lender, the Affiliates, the Loan and related documents. The release and waiver provided in this Agreement shall foreclose Guarantor from raising against Lender, or any of the Affiliates, any matter released in any manner whatsoever, including by way of complaint, counterclaim, cross-complaint, third party or indemnity claim, set off or recoupment. Guarantor hereby agrees to assume the risk of any and all unknown, unanticipated or misunderstood claims, causes of ac tion, contracts, liabilities, indebtedness, or obligations that are released by this Agreement in favor of Lender and the Affiliates, and hereby waive and release all rights and benefits that they might otherwise have with regard to the release of such unknown, unanticipated, or misunderstood claims, causes of action, liabilities, indebtedness, and obligations. Guarantor acknowledges that it is represented by counsel and that such counsel has considered this release and has advised Guarantor regarding the consequences of granting such a release.
+^^contest, protest or object to any foreclosure proceeding or action or any other exercise of any rights and remedies relating to the Collateral brought by any Person other than Lenders;
 
-^All waiver provisions contained in the Loan Documents remain in full force and effect and shall not be deemed to have been waived by Lender as a result of the execution of this Agreement.
+^^file a proof of claim under any judicial or non-judicial proceedings with regard to Borrower or the Collateral seeking payment or damages from or other relief by way of specific performance, instructions or otherwise under or with respect to any Loan Document or otherwise take any action to preserve the enforcement of, or any remedy under, any Loan Document, including without limitation the taking any action authorized with respect to the Collateral under applicable bankruptcy law, free of this Agreement, to prevent use of cash collateral, to obtain relief from stay or to exercise any other rights afforded Lenders or lenders under the Bankruptcy Code;
 
-^Guarantor hereby agrees that negotiations, if any, between Guarantor and Lender shall not constitute a waiver of Lender’s right to exercise any of Lender’s remedies. To be effective, any waiver must be set forth in writing and duly executed by an authorized representative of Lender. Guarantor, nor its representatives, shall be entitled to rely upon any verbal statements made or purported to be made by or on behalf of Lender in connection with any alleged agreement by Lender to refrain from exercising any of Lender’s remedies.
+\centered Page 3 of 9
 
-^Guarantor agrees to pay, upon repayment of the Note or expiration of the Forbearance Period, all costs and expenses incurred by Lender in connection with Lender’s entering into this Agreement, including, without limitation, reasonable attorneys’ fees and all direct out-of-pocket costs to Lender incurred in connection with this Agreement or proceeding with the exercise of lender’s remedies, other than the legal expenses paid pursuant to this Agreement.
+^^seek and obtain relief against any creditor that threatens to take, or has the right to take, any action with regard to the Collateral, by injunction, specific performance and/or other appropriate equitable relief, it being understood and agreed by Borrower that Lender's damages from such actions may at that time be difficult to ascertain and may be irreparable, and Borrower irrevocably waives any defense that Lenders cannot demonstrate damage and/or might be made whole by the awarding of damages; 
 
-^This Agreement reflects the entire understanding of the parties with respect to the subject matter herein contained and supersedes any prior agreements, whether written or oral, in regard thereto.
+^^at any time inspect, assemble, prepare for repossession or removal, preserve and protect the Collateral; 
 
-^Except as expressly modified herein, all terms of the Note and the other Loan Documents shall be and shall remain in full force and effect and shall constitute the legal, valid, binding and enforceable obligations of Borrower to Lender. This Agreement shall not affect any guaranty or other liability arising under the Loan. The guaranty is not limited, waived or released by virtue of this Agreement or otherwise.
+^^declare, and deliver to Borrower one or more notices relating to the declaration of, any additional Default or Event of Default arising under the Credit Agreement prior to or during the Forbearance Period. With respect to any additional Default arising prior to or during the Forbearance Period that is (i) the subject of a notice of default delivered to Borrower during the Forbearance Period and (ii) subject to an applicable cure period under the Credit Agreement, Borrower acknowledges that the existence of the Forbearance Period will not toll or otherwise extend any cure period applicable to such Default; and
 
-^THIS AGREEMENT SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEVADA.
+^^prepare and deliver to Borrower or any other Person any notice, demand or other instruction (excluding a notice that the Administrative Agent or Lender intends to conduct a judicial or non-judicial foreclosure with respect to any of the Collateral or a demand for default interest under the Credit Agreement) contemplated by any of the Loan Documents or applicable law.
 
-^GUARANTOR WAIVE TRIAL BY JURY WITH RESPECT TO THE LOAN DOCUMENTS AND THIS AGREEMENT, OR ANY MATTERS ARISING THEREFROM.
+^**Covenants of Borrower**.
 
-^This Agreement may be executed in multiple counterparts, each of which shall be an original and all of which, taken together, shall constitute but one and the same agreement among the parties.
+^^Throughout the Forbearance Period Borrower will not direct, solicit or encourage (i) the declaration of any default or event of default with respect to any other indebtedness of Borrower or (ii) any Adverse Action.
 
-^This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+^^All principal and accrued interest outstanding on the Loan shall be due and payable on the first Business Day following the termination or expiration of the Forbearance Period.
 
-^Time of the essence under this Agreement.
+^**Representations and Warranties**.
 
-^A determination that any provision of this Agreement is unenforceable or invalid shall not affect the enforceability or validity of any other provision.
+^^Each party to this Agreement severally represents and warrants to each of the other parties to this Agreement that:
 
-^The lawsuit pending against the Guarantor (Case No. A612945) shall “stand still” during the Forbearance Period unless there is another breach of the Loan Documents or of this Agreement, in which case Lender shall issue to Guarantor, by first class mail, a 20 day notice to answer the complaint.
+^^^the execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate, company or partnership action, as appropriate;
 
-^Guarantor acknowledges that regardless of any prior or future requests, proposals, conversations or representations, Lender shall not be obligated to grant any further forbearance.
+^^^this Agreement is a legally valid and binding obligation, enforceable against it or him, as applicable, in accordance with the terms set forth herein, except to the extent limited by or subject to bankruptcy, 
 
-^In making this Agreement, it is understood and agreed that the undersigned specifically warrant and represent that in so doing they have been fully advised and represented by legal counsel of their own selection, are fully familiar with all of the circumstances surrounding the Agreement, and in executing this Agreement they do so relying wholly upon their own judgment and advice of counsel of their own independent selection, and that they have not been influenced whatsoever regarding the matters set forth herein by other parties or by any of the other parties’ agents, servants, employees, representatives, successors or attorneys.
+\centered Page 4 of 9
 
-IN WITNESS WHEREOF, this Agreement has been executed effective as of the date first written above.
+insolvency, reorganization, arrangement, moratorium or other similar laws affecting the rights of creditors generally; and
 
-GUARANTOR:  
-[[Desert Capital]] 
-^Maryland Corporation   
-[[A Maryland Corporation Signatory Email: Identity | Signature]]
+^^^the execution, delivery and performance of this Agreement, the Mutual Release and any other agreement executed in connection with this Agreement by it or him, as applicable, do not (A) contravene, or constitute a default under, any provision of applicable law, charter or other organizational or formation document or any agreement, judgment, injunction, order, decree, or other instrument binding upon such party, or (B) require the consent of any Person not a party to this Agreement.
+
+^^Borrower further represents and warrants to Administrative Agent and each Lender that all of its representations and warranties contained in Article IV of the Credit Agreement and in all other documents executed pursuant to the Credit Agreement are true and correct as of the date of this Agreement (except to the extent such representations and warranties speak as to a date certain).
+
+^**Net Profits Interest**. At any time during the Forbearance Period, if Borrower divests greater than fifty percent ([[Percentage 1: Number]]%) of its Working Interest in the Properties and such divestiture results in all monetary Obligations being fully repaid to Lender, Macquarie Investments LLC will reconvey the Net Profits Interest to Borrower upon (x) full repayment to Lender of the monetary Obligations, and (y) receipt in full of Five Hundred Thousand Dollars ($[[USD Value 2: Number]]) which will be paid by Borrower to Macquarie Investments LLC at the closing of such divestiture.
+
+^**Ratification of Liens and Security Interests**. Borrower acknowledges and ratifies the existence and priority of the Liens granted by Borrower in favor of Administrative Agent or any Lender in and to the collateral described in each of the Security Documents and represents, warrants and covenants that such liens and security interests are valid, existing and in full force and effect.
+
+^**Effect of the Forbearance Period on the Payment Default**. Borrower agrees that:
+
+^^its performance under this Agreement will not constitute the cure of the Payment Default;
+
+^^upon the termination or expiration of this Agreement for any reason, Administrative Agent and each Lender may at any time exercise any rights or remedies it may have under the Loan Documents under applicable law or otherwise as a result of the existence of the Payment Default without the necessity of delivering any further notice of default to Borrower.
+
+^**Release of Lender, Etc**. As a material portion of the consideration given by Borrower to Administrative Agent and the Lenders in exchange for the accommodations extended by them to Borrower under this Agreement:
+
+\centered Page 5 of 9
+
+^^Borrower represents and warrants that it is the legal and equitable owner and holder of the Borrower’s Claims (defined below) herein released, and that Borrower has not assigned, transferred, disposed of, hypothecated or otherwise conveyed or purported to convey any interest in the Borrower’s Claims to any third party.
+
+^^As of the date of this Agreement, Borrower forever releases and discharges each member of the Macquarie Group (defined below) from all of the Borrower’s Claims, and covenants not to assert or assist or enable any third party to assert any of the Borrower’s Claims against any member of the Macquarie Group.
+
+^^As used in this Section 11:
+
+“Borrower’s Claims” means any and all Claims that Borrower ever had, now has or may hereafter have against any member of the Macquarie Group with respect to any event, occurrence, omission, action, relationship or transaction occurring for all periods of time prior to and as of the Effective Date, including without limitation, any Claims out of or in any way related to the Credit Agreement, the other Loan Documents or the Net Profits Overriding Royalty Interest Conveyance (collectively, as amended, the “Transaction Documents”), or any document executed by any Person in connection with any of the Transaction Documents.
+
+“Claims” means any and all claims, demands, actions, remedies, causes of action, choses in action, debts, liabilities, damages, costs (including, without limitation, attorneys’ fees and all costs of court or other proceedings), expenses and losses of every kind or nature, whether arising by contract, tort or other theory, at this time known or unknown, direct or indirect, fixed or contingent, in law, by statute, by regulation, by court order, or in equity.
+
+“Macquarie Group” means collectively, Macquarie Bank Limited, Macquarie Investments, and their respective officers, directors, members, managers, partners, employees, accountants, attorneys, agents, affiliates, successors and assigns.
+
+^**Miscellaneous**.
+
+^^Time of Essence. Time is of the essence in the performance of all terms and conditions and other obligations under this Agreement.
+
+^^Amendments. Any modifications to this Agreement must be made in writing and signed by each of the parties to this Agreement.
+
+\centered Page 6 of 9
+
+^^Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. An electronic copy of any counterpart of this Agreement will be deemed an original for all purposes.
+
+^^Severability. If any term or condition of this Agreement is determined by a court of competent jurisdiction to be invalid, illegal or otherwise unenforceable, then that term or condition will be deemed to have been deleted from this Agreement but the remainder of this Agreement will remain in full force and effect. However, if the deemed deletion of that term or condition would reasonably frustrate the purpose of this Agreement, then each affected party will be excused from the performance of any remaining obligations owed to any of the other parties under this Agreement until the parties are able to agree on a mutually acceptable reformation of this Agreement to address the deleted term or condition. 
+
+^^No Other Amendments to Loan Documents; Etc. This Agreement supersedes all prior agreements (written or oral, including without limitation the forbearance letter between Borrower, Administrative Agent and Lenders dated 30 [[Date 3]] as extended on 28 [[Date 4]] and 9 [[Date 5]]) between Borrower, Administrative Agent and Lenders with regard to the subject matters hereof. This Agreement is a Loan Document. Except as modified by this Agreement, the other Loan Documents remain unchanged and continue in full force and effect. In the event of any inconsistency between the terms of the Credit Agreement as amended by this Agreement and any other Loan Document, however, the terms of the Credit Agreement will control and the other document will be deemed to be amended to conform to the terms of the Credit Agreement. All references to the Credit Agreement will refer to the Credit Agreement as modified by this Agreement. No course of dealing among Borrower, any Lender, Administrative Agent or any other Person will be deemed to have modified the Credit Agreement or any other Loan Document or to have impaired or altered the rights of Administrative Agent, each Lender and Borrower to enforce the Credit Agreement and each of the other Loan Documents as written. Nothing in this Agreement or the Mutual Release will be deemed to constitute an accord and satisfaction of any of the Obligations or of any of the rights and remedies of Administrative Agent or any Lender under the Loan Documents.
+
+^^Binding on Successors and Assigns. The terms of this Agreement will be binding upon, and will inure to the benefit of, the parties to this Agreement and their respective successors or assigns.
+
+^^Governing Law; Venue. This Agreement shall be construed in accordance with the internal laws of the State of Texas, exclusive of its choice of law principles, and any suit, action or proceeding arising out of or relating to this Agreement must be commenced and maintained in a court of competent subject matter jurisdiction in Harris County, Texas and the parties hereto consent to such jurisdiction and venue and waive all objections (including, without limitation, forum non conveniens) thereto.
+
+\centered Page 7 of 9
+
+^^Waiver of Jury Trial. EACH OF THE PARTIES HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, THE RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM, WHETHER IN CONTRACT, TORT OR OTHERWISE, RELATING TO THIS AGREEMENT OR THE LOAN DOCUMENTS.
+
+^^Final Agreement. THIS AGREEMENT IS INTENDED BY THE PARTIES AS THE FINAL, COMPLETE AND EXCLUSIVE STATEMENT OF THEIR AGREEMENT CONCERNING THE FORBEARANCE PERIOD AND THE OTHER MATTERS ADDRESSED HEREIN. NOTHING IN THIS AGREEMENT MAY BE CONTRADICTED BY EVIDENCE OF ANY PRIOR OR CONTEMPORANEOUS AGREEMENT, WHETHER WRITTEN OR ORAL.
+
+\centered **[***signature pages to follow***]**
+
+\centered Page 8 of 9
+
+The parties have each executed this Forbearance Agreement on the date set forth in the initial paragraph.
+
+**Administrative Agent and Lender**
+
+**Macquarie Bank Limited**
+
+*“Jonathan Rourke”*
+[[“Jonathan Rourke” Signatory Email: Identity | Signature]]
 __________________________________________
-{{A Maryland Corporation Entity => By: [[A Maryland Corporation Signatory First Name]] [[A Maryland Corporation Signatory Last Name]]
-Title: [[A Maryland Corporation Signatory Title]]}}
+{{“Jonathan Rourke” Entity => By: [[“Jonathan Rourke” Signatory First Name]] [[“Jonathan Rourke” Signatory Last Name]]
+Title: [[“Jonathan Rourke” Signatory Title]]}}
 
-TODD PARRIOTT, President CEO  
-STATE OF NEVADA ) 
 
-) ss. 
-COUNTY OF CLARK )  
-This instrument was acknowledged before me on this 18 day of [[Date 15: Date]], by TODD PARRIOTT, President CEO of [[Desert Capital]] a Maryland corporation, proved to me to be the person whose name is subscribed to this instrument and who acknowledged to me that he executed the same freely and voluntarily.
-
-Subscribed and Sworn to before me 
-On this 18 day of [[Date 15]].   
-**/s/Cynthia Crespo** 
-NOTARY PUBLIC in and for said 
-County and State 
-LENDER:  
-Sage Trust  
-[[Sage Trust Signatory Email: Identity | Signature]]
+*“Karen Goepfert”*
+[[“Karen Goepfert” Signatory Email: Identity | Signature]]
 __________________________________________
-{{Sage Trust Entity => By: [[Sage Trust Signatory First Name]] [[Sage Trust Signatory Last Name]]
-Title: [[Sage Trust Signatory Title]]}}
+{{“Karen Goepfert” Entity => By: [[“Karen Goepfert” Signatory First Name]] [[“Karen Goepfert” Signatory Last Name]]
+Title: [[“Karen Goepfert” Signatory Title]]}}
 
-[[Party 3]], 
-Trustee of the Sage Trust dated 8/17/93  
-Rich Living Trust  
-[[Rich Living Trust Signatory Email: Identity | Signature]]
+
+**Borrower**
+
+**Doral Energy Corp.**
+
+*“Everett Willard Gray, II”*
+[[“Everett Willard Gray II” Signatory Email: Identity | Signature]]
 __________________________________________
-{{Rich Living Trust Entity => By: [[Rich Living Trust Signatory First Name]] [[Rich Living Trust Signatory Last Name]]
-Title: [[Rich Living Trust Signatory Title]]}}
+{{“Everett Willard Gray II” Entity => By: [[“Everett Willard Gray II” Signatory First Name]] [[“Everett Willard Gray II” Signatory Last Name]]
+Title: [[“Everett Willard Gray II” Signatory Title]]}}
 
-[[Party 3]], 
-Trustee of the Rich Living Trust dated 7/10/98
 
-The DeBellis Family Limited Partnership 
-[[The DeBellis Family Limited Partnership Signatory Email: Identity | Signature]]
-__________________________________________
-{{The DeBellis Family Limited Partnership Entity => By: [[The DeBellis Family Limited Partnership Signatory First Name]] [[The DeBellis Family Limited Partnership Signatory Last Name]]
-Title: [[The DeBellis Family Limited Partnership Signatory Title]]}}
-
-[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
-
-Joseph DeBillis, Manager 
-^Quail Hollow Drive 
-Henderson, Nevada 89014  
-The [[Desert Capital7]], M.D. Chartered Profit
-
-Sharing Plan  
-**By: /s/Joseph DeBillis**  
-[[Desert Capital7]], Trustee  
-[[Party 4]] Trust  
-**By: /s/Michelle K. Carner**  
-Wells Fargo Bank N.A, Trustee  
-**/s/ [[Party 5]]  
-[[Party 5]]  
-[[Party 6]] 1995 Irrevocable Trust dated 8/8/95
-
-**By: /s/Deborah L. Shoofey**  
-Deborah L. Shoofey, Trustee  
-RLF Diversified General Partnership  
-**By: /s/ Deborah L. Shoofey**  
-Deborah L. Shoofey, Trustee  
-[[Party 7]] Separate Property Trust
-
-**By: /s/[[Party 7]]  
-[[Party 7]], Trust  
-[[Party 7]] IRA, First Savings Bank Custodian
-
-[[Party 7 IRA First Savings Bank Custodian Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 7 IRA First Savings Bank Custodian Entity => By: [[Party 7 IRA First Savings Bank Custodian Signatory First Name]] [[Party 7 IRA First Savings Bank Custodian Signatory Last Name]]
-Title: [[Party 7 IRA First Savings Bank Custodian Signatory Title]]}}
-
-**/s/[[Party 8]] 
-[[Party 8]]  
-[[Party 9]] Trust  
-**By: /s/[[Party 7]], Trustee**   
-**/s//[[Desert Capital0]]  
-[[Desert Capital0]]  
-**/s/[[Desert Capital1]]  
-[[Desert Capital1]]  
-**/s/[[Desert Capital2]] 
-[[Desert Capital2]]  
-**/s/[[Desert Capital3]] 
-[[Desert Capital3]]  
-[[Desert Capital4]] Family Trust  
-**By:/s/John Merril Warthen**   
-**/s/[[Desert Capital5]] 
-[[Desert Capital5]]  
-[[Desert Capital6]] Trust  
-**By: [[Party 7]] 
-[[Party 7]], Trustee
+\centered Page 9 of 9

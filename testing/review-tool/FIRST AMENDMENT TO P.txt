@@ -1,174 +1,39 @@
-\centered **FIRST AMENDMENT TO PIPELINE SYSTEMS OPERATING AGREEMENT** 
+\centered **FIRST AMENDMENT TO PROASSURANCE CORPORATION 2008 EQUITY INCENTIVE PLAN** 
 
-**THIS FIRST AMENDMENT TO PIPELINE SYSTEMS OPERATING AGREEMENT** (this “Amendment”) is made and entered into as of this [[Date 1: Date]] by and among [[Navajo Refining]], a [[State of Formation: State]] [[Organization: EntityType]] (“Navajo Refining”), [[Party 2]] Company, a [[State of Formation: State]] [[Organization: EntityType]] (“[[Party 2]]”), [[Party 3]] Company, L.L.C., a [[State of Formation: State]] [[Organization: EntityType]] (“[[Party 3]]”), [[Holly Entities]], a [[State of Formation: State]] [[Organization: EntityType]] (“Holly Refining Tulsa” and, together with Navajo Refining, [[Party 2]], and [[Party 3]], the “Holly Entities”), and Holly Energy PartnersOperating, L.P., a Delaware limited partnership (“Operator”). Each of the Holly Entities and the Operator are sometimes individually referred to herein as a “Party” and collectively as the “Parties.” 
+The purpose of this amendment is to adopt certain amendments to the ProAssurance Corporation 2008 Equity Incentive Plan (the “Plan”) so that the Plan will comply with Section 409A of the Internal Revenue Code of 1986, as amended. Compliance with Section 409A is required because there may be certain circumstances in which deferred benefits payable under the Plan are not eligible for the short term deferral exception to 409A as the Plan originally intended. ProAssurance Corporation (the “Company”) desires to amend the Plan to comply with Section 409A in accordance with the guidance provided in Notice 2010-6 issued by the Internal Revenue Service. The Board of Directors of the Company, on the recommendation of its Compensation Committee, has adopted the following amendments to the Plan: 
 
-**WHEREAS**, the Parties entered into that certain Pipeline Systems Operating Agreement on [[Date 2: Date]], to be effective as of [[Date 3: Date]] (the “Agreement”), and now desire to amend certain provisions of such Agreement, as set forth herein in connection with the acquisition of certain assets by certain of the subsidiaries of Operator from certain of the Holly Entities. Capitalized terms used, but not defined, herein shall have the meanings given to them in the Agreement. 
+^The definitions set forth in Section 1 of the Plan are hereby amended to conform the definitions of certain terms to the requirements of Section 409A by deleting the definitions of “Change of Control” and “Disability” in their entirety from the Plan and substituting in lieu thereof the following: 
 
-**NOW**, **THEREFORE**, in consideration of the foregoing recitals and the agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto, intending to be legally bound, do hereby agree as follows: 
+***“Change in Control”*** shall mean the occurrence of any one of the following events during the term of this Agreement: (i) an acquisition of the voting securities of the Company by any person, entity or group, immediately after which such person, entity or group has Beneficial Ownership of more than [[Percentage 1: Number]]% of the combined voting power of the Company’s then outstanding voting securities; (ii) a merger, consolidation or reorganization involving the Company in which an entity other than the Company is the surviving entity or in which the Company is the surviving entity and the stockholders of the Company immediately preceding such transaction will own less than [[Percentage 1]]% of the outstanding voting securities of the surviving entity; (iii) the sale or other disposition of substantially all of the assets of the Company (as defined in the regulations under Section 409A of the Code) and the Company ceases to function on a going forward basis as an insurance holding company system that provides medical professional liability insurance; or (iv) any other event or transaction that is declared by resolution of the Board to constitute a Change in Control for purposes of the Plan. Notwithstanding the foregoing, for any Award that provides for deferred compensation within the meaning of Code Section 409A, Change in Control shall be restricted to those events that satisfy the requirements of Code Section 409A and the regulations promulgated thereunder. 
 
-^Amendment to Exhibit A. Exhibit A is hereby amended and restated in its entirety as set forth on Exhibit A-1 hereto. 
-
-^Amendment to Exhibit B. Exhibit B is hereby amended and restated in its entirety as set forth on Exhibit B-1 hereto. 
-
-^No Further Amendment; Miscellaneous. Except as amended hereby, all of the terms and conditions of the Agreement shall remain in full force and effect. The “General Conditions; Miscellaneous” provisions set forth in Sections 13.1, 13.2, 13.3, 13.4, 13.5, 13.8, 13.12, 13.13, 13.15, and 13.16 of the Agreement, are hereby incorporated herein by reference. 
-
-\centered [S*ignature Page Follows*] 
+***“Disability”*** shall mean a serious injury or illness that requires the Participant to be under the regular care of a licensed medical physician and renders the Participant incapable of performing the essential functions of the Participant’s position for 12 months as determined by the Board in good faith and upon receipt of and in reliance on competent medical advice from one or more individuals selected by the Board, who are qualified to give professional medical advice. For any Award that provides for deferred compensation within the 
 
 ^^^^^ 
-IN WITNESS WHEREOF, the Parties hereto have executed this First Amendment to Pipeline Systems Operating Agreement as of the date first above written. 
+meaning of Code Section 409A but is not performance based compensation within the meaning of Code Section 409A, the phrase “performing the essential functions of the Participant’s position” shall be replaced with the phrase “engaging in any substantial gainful activity.” 
 
-**OPERATOR:**   HOLLY ENERGY PARTNERS-OPERATING, L.P.
-[[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Email: Identity | Signature]]
-__________________________________________
-{{OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Entity => By: [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory First Name]] [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Last Name]]
-Title: [[OPERATOR   HOLLY ENERGY PARTNERS-OPERATING L.P. Signatory Title]]}}
+^Section 6 of the Plan is hereby amended to eliminate discretion to accelerate payment of Performance Shares in certain instances not permitted under Section 409A by deleting Section 6(a) in its entirety from the Plan and substituting in lieu thereof the following: 
 
-David G. Blair
-Senior Vice President
+6.(a) Performance Share Awards. The Committee shall have the authority to grant Awards of Performance Shares to Employees on such terms and conditions as may be determined by the Committee. Performance Shares shall be deemed to be received by an Employee as of the Date of Grant in the year the related Performance Share Award is granted. At the time of grant of each Performance Share Award, the Committee shall decide the Award Period and whether there will be an Interim Period. Any Employee may be granted more than one Performance Share Award under the Plan. 
 
-**HOLLY ENTITIES:**   [[Navajo Refining]]
-[[HOLLY ENTITIES   Navajo Refining Signatory Email: Identity | Signature]]
-__________________________________________
-{{HOLLY ENTITIES   Navajo Refining Entity => By: [[HOLLY ENTITIES   Navajo Refining Signatory First Name]] [[HOLLY ENTITIES   Navajo Refining Signatory Last Name]]
-Title: [[HOLLY ENTITIES   Navajo Refining Signatory Title]]}}
+No Participant shall be entitled to receive any dividends or dividend equivalents on Performance Shares; with respect to any Performance Shares, no Participant shall have any voting or any other rights of a Company stockholder; and no Participant shall have any interest in or right to receive any Shares prior to the time the Committee determines the form of payment of Performance Shares pursuant to this Section 6. 
 
-David L. Lamp
-Executive Vice President
+The Committee may establish performance goals for Performance Shares which may be based on any criteria selected by the Committee. Such performance goals may be described in terms of Company-wide objectives or in terms of objectives that relate to the performance of the Participant, a Subsidiary or a division, region, department or function within the Company or a Subsidiary and may relate to relative performance as compared to an outside reference or peer group. 
 
-[[Party 2]] COMPANY
-[[Party 2 COMPANY Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 2 COMPANY Entity => By: [[Party 2 COMPANY Signatory First Name]] [[Party 2 COMPANY Signatory Last Name]]
-Title: [[Party 2 COMPANY Signatory Title]]}}
+^Section 13 of the Plan is hereby amended to restrict the discretion to make adjustments in a corporate transaction that would violate Section 409A by adding the following as Section 13(d) of the Plan: 
 
-David L. Lamp
-Vice President
+13.(d) Restrictions on Adjustments. In no event shall the adjustments described above, whether mandatory or discretionary, be made so as to change the time or form of payment under an Award that provides for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder. 
 
-[[Party 3]] COMPANY, L.L.C.
-[[Party 3 COMPANY L.L.C. Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 3 COMPANY L.L.C. Entity => By: [[Party 3 COMPANY L.L.C. Signatory First Name]] [[Party 3 COMPANY L.L.C. Signatory Last Name]]
-Title: [[Party 3 COMPANY L.L.C. Signatory Title]]}}
-
-David L. Lamp
-President
-
-\centered Signature Page 1 of 1 to First Amendment to Pipeline Systems Operating Agreement 
+^Section 14 of the Plan is hereby further amended to restrict discretion to change the time or form of payment of any deferred compensation that is subject to Section 409A by deleting Section 14(c) in its entirety from the Plan and substituting in lieu thereof the following: 
 
 ^^^^^ 
+14.(c) Compliance with Code Section 409A. It is intended that this Plan, as written and in operation, will be exempt from Code Section 409A. For purposes of determining whether Awards may be payable to a Participant in compliance with Code Section 409A, the Participant’s Termination will be considered as having occurred for purposes of the Plan if the parties reasonably anticipate either (i) that Participant will no longer perform any services for the Company or a Subsidiary or (ii) that the level of bona fide services performed for the Company or a Subsidiary (whether as an Employee, Consultant or Director ) will permanently decrease to no more than [[Percentage 2: Number]]% of the average level of bona fide services performed by Participant over the immediately preceding 36-month period (or the full period of services if Participant has been providing services to the Company and its Subsidiaries for less than 36 months). Notwithstanding the foregoing, if payment of any Award is deemed to be “nonqualified deferred compensation” under Section 409A, and if the Participant is a “specified employee” within the meaning of Code Section 409A(a)(2)(b)(i), the payment schedule for Awards shall be modified or adjusted to provide that no payments shall be made until the expiration of six (6) months following the date of Termination or Change in Control. In the event that payments are so delayed, a lump sum payment of the accumulated unpaid amounts attributable to the six (6) month period shall be made to Participant on the first day of the seventh month following the date of Termination or Change in Control. This six month delay shall not apply to any Awards which are not subject to the requirements of Section 409A of the Code by reason of their being separation pay upon an involuntary separation from service and their meeting the requirements and limitations of the regulations under the above referenced Code section. In no event shall the aggregate amount of Awards be reduced as a result of such modification or adjustment. 
 
-HOLLY REFINING & MARKETING  TULSA LLC
-[[HOLLY REFINING & MARKETING  TULSA LLC Signatory Email: Identity | Signature]]
-__________________________________________
-{{HOLLY REFINING & MARKETING  TULSA LLC Entity => By: [[HOLLY REFINING & MARKETING  TULSA LLC Signatory First Name]] [[HOLLY REFINING & MARKETING  TULSA LLC Signatory Last Name]]
-Title: [[HOLLY REFINING & MARKETING  TULSA LLC Signatory Title]]}}
+Notwithstanding the foregoing, the Committee shall not be granted and shall not exercise any discretion otherwise provided under the Plan to change the time or form of payments to Participants with respect to Awards that provide for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder. The terms of the Plan and any related Agreements with respect to Awards that provide for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder shall be interpreted by the Committee as necessary to comply with Code Section 409A. 
 
-David L. Lamp
-President
+^This Amendment is effective as of [[Date 1: Date]]. Except as amended hereby, terms and provisions of the Plan shall continue in effect and are hereby ratified and approved in all respects. The Plan may be restated in its entirety for convenience in order to reflect in a single document the terms and conditions of the Plan as amended hereby . 
 
-
-[[President Signatory Email: Identity | Signature]]
-__________________________________________
-{{President Entity => By: [[President Signatory First Name]] [[President Signatory Last Name]]
-Title: [[President Signatory Title]]}}
-
-David L. Lamp
-President
-
-**ACKNOWLEDGED AND AGREED:**  HOLLY ENERGY PARTNERS, L.P.
-[[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Email: Identity | Signature]]
-__________________________________________
-{{ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Entity => By: [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory First Name]] [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Last Name]]
-Title: [[ACKNOWLEDGED AND AGREED  HOLLY ENERGY PARTNERS L.P. Signatory Title]]}}
-
-
-[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
-
-
-[[Title Party 9 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 9 Signatory Title}} Entity => By: [[Title Party 9 Signatory Title}} Signatory First Name]] [[Title Party 9 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 9 Signatory Title}} Signatory Title]]}}
-
-David G. Blair
-President
-
-\centered Signature Page 2 of 2 to First Amendment to Pipeline Systems Operating Agreement 
+**This Amendment was adopted and approved by the Board of Directors of the Company in accordance with** **Section 14(k)** **of the Plan at the meeting of the Board of Directors held on [[Date 1]]. Shareholder approval of the Amendment is not required because the Amendment does not amend the material terms of the Plan for purposes of** 
 
 ^^^^^ 
-\centered **EXHIBIT A-1** 
-
-\centered **Basic Description of Systems and Management Fee** 
-
-**Management Fee**   
-The Management Fee for 2009 will be the “Total Management Fee” as set forth in the table below and will be allocated among the Systems as set forth in the table below. 
-
-**Systems**  
-
-**Amount of Management** **Owner of Asset**    **Fee Allocated to the Asset** **General Systems Management** N/A    $   150,000.00 **Insurance Reimbursement** N/A    $   15,000.00 **Artesia System** (None)    N/A       N/A **Lovington System** Ponderosa Junction to Lovington - LPG/Natural Gasoline Pipeline having a diameter of 8” and extending approximately 11 / miles and a diameter of 6” extending approximately 8 miles    [[Navajo Refining]]    $   0.00 **Woods Cross System** Woods Cross 12” Plains Crude Oil Delivery Pipeline extending approximately 700 feet    [[Party 3]] Company, L.L.C.    $   25,000.00 Woods Cross 6” Hydrogen Pipeline extending approximately 4 miles    [[Party 3]] Company, L.L.C.    $   25,000.00 **Total Management Fee:**    $   **215,000.00**  
-
-\centered Exhibit A-1 
-
-^^^^^ 
-\centered **EXHIBIT B-1** 
-
-\centered **Services included in Management Fee** 
-
-PART I       Management services and costs included in the Management Fee, as contemplated by Section 8.2 of the foregoing Agreement are the following:
-
-Operator’s central office costs
-
-General administration of Pipeline operations by Operator’s senior management personnel
-
-General administration of Pipeline operations by Operator’s operations management personnel
-
-Supervision of the Pipeline Control Center
-
-Environmental, health and safety management
-
-Administrative services relating to DOT compliance
-
-Preparation and submission of FERC Reports
-
-Pipeline Scheduling
-
-Purchasing
-
-Right of Way services after the In-Service Date (excluding new projects)
-
-Travel and meeting expenses for necessary meetings
-
-Crisis Communications
-
-Ordinary course administration of contracts between the Holly Entities and customers of the Holly Entities (excluding outside counsel services deemed necessary by Operator)
-
-Normal operating activities of the Facilities
-
-PART II       For avoidance of doubt, the following work and services are specifically excluded from the Management Fee and shall be paid to Operator by the Holly Entities, along with other costs, under Section 8.3 of the foregoing Agreement:
-
-Operations personnel to the extent performing services in connection with activities outside the normal operation of the Systems
-
-All direct operating costs incurred outside the normal operation of the Systems
-
-Services obtained from third-parties
-
-Travel and meal expenses for Operator’s personnel while performing work on the assets set forth on Exhibit A
-
-Pipeline measurement including contract proving
-
-Insurance
-
-All project management, engineering and other services related to any expansion project
-
-Compliance and other costs or expenses incurred in connection with any regulatory program to the extent directly applicable to the Systems, including, but not limited to, compliance with governmental requirements and guidelines for public awareness, contractor awareness, one-call, operator qualification, facility response plans, drug and alcohol testing and other requirements and guidelines of any governmental authority with jurisdiction
-
-Annual DOT fees
-
-Procurement, maintenance and replacement of safety equipment and materials
-
-Preparation and filing of required reports and permit applications with governmental entities with jurisdiction (other than FERC and DOT), including, but not limited to environmental permit reporting and permit renewals (third party contract costs only)
-
-\centered Exhibit B-1
+**Section 162(m) of the Code and does not constitute a material revision to the Plan for purposes of Section 303A.08 of the New York Stock Exchange Listed Company Manual.** 
+ 

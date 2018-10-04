@@ -1,79 +1,357 @@
-\centered **SECOND AMENDMENT TO AGREEMENT AND PLAN OF MERGER** 
+**HECO 
 
-This SECOND AMENDMENT TO AGREEMENT AND PLAN OF MERGER, dated as of [[Date 1: Date]] (this “Amendment”), is entered into by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[Merger Sub]], a [[State of Formation: State]] [[Organization: EntityType]] and direct subsidiary of the Company (“Merger Sub”), and [[BPW]], a [[State of Formation: State]] [[Organization: EntityType]] (“BPW”). 
+\centered SECOND AMENDMENT TO
 
-WHEREAS, the parties hereto are parties to that certain Agreement and Plan of Merger, dated as of [[Date 2: Date]], as amended by the First Amendment to Agreement and Plan of Merger, dated as of [[Date 3: Date]] (as so amended, the “Merger Agreement”); 
+\centered LOW SULFUR FUEL OIL SUPPLY CONTRACT
 
-WHEREAS, pursuant to Section 8.4 of the Merger Agreement, the parties hereto desire to amend the Merger Agreement as set forth in this Amendment; and 
+\centered BY AND BETWEEN
 
-WHEREAS, all necessary actions to make this Amendment a valid agreement of the parties hereto have been taken. 
+\centered BHP PETROLEUM AMERICAS REFINING INC. (nka, TESORO HAWAII CORPORATION)
 
-NOW THEREFORE, for and in consideration of the premises and mutual agreements herein set forth, the parties hereto, intending to be legally bound, hereby agree as follows: 
+\centered AND
 
-^\centered DEFINITION OF TERMS 
+\centered HAWAIIAN ELECTRIC COMPANY, INC.
 
-Unless the context otherwise requires: (A) a term defined in the Merger Agreement has the same meaning when used in this Amendment; (B) capitalized terms used herein that are not otherwise defined herein shall have the meaning assigned to such terms in the Merger Agreement; (C) references to Sections mean reference to such Sections in the Merger Agreement, unless stated otherwise; and (D) rules of construction applicable pursuant to the Merger Agreement are also applicable herein. Each reference in the Merger Agreement to the “date of this Agreement”, the “date hereof” or any similar term shall refer to [[Date 2]]. 
+This Second Amendment is entered into as of [[Date 1: Date]] between Tesoro Hawaii Corporation (f/k/a BHP Petroleum Americas Refining Inc.), a Hawaii corporation (“SELLER”) and Hawaiian Electric Company, Inc., a Hawaii corporation (“BUYER”). This Second Amendment shall become effective as provided in section 8 below.
 
-^\centered AMENDMENT TO THE MERGER AGREEMENT 
+WHEREAS, SELLER and BUYER entered into that certain Low Sulfur Fuel Oil Supply Contract on [[Date 2: Date]] (“Contract”), which was amended by that certain First Amendment to the Contract, dated [[Date 3: Date]] (“First Amendment”); and
 
-The Merger Agreement is hereby amended as follows: 
+WHEREAS, the First Amendment changed the name of SELLER from BHP Petroleum Americas Refining Inc. to Tesoro Hawaii Corporation, and extended the term of the Contract for an additional ten-year period; and
 
-Article VI of the Merger Agreement is hereby amended by adding the following paragraph as a new Section 6.16 at the end thereof: 
+WHEREAS, the parties mutually desire to further amend the Contract and seek approval from the Public Utilities Commission of the State of Hawaii for the same as provided herein;
 
-“Section 6.16 Post-Closing Transaction. Immediately following the Effective Time, at such time as BPW is a wholly-owned subsidiary of the Company, the Company shall cause BPW 
+NOW THEREFORE, the parties agree as follows:
 
-^^^^^ 
-to be merged with and into the Company. Following such merger, the separate corporate existence of BPW shall cease, and the Company shall continue as the surviving entity in accordance with the DGCL.” 
+^Article I of the Contract (“Definitions”) is hereby further amended by amending the definition of “Original Term” in its entirety to read as follows:
 
-^\centered MISCELLANEOUS 
+^“Original Term” means the first term of this Contract, which commenced [[Date 4: Date]] and concludes [[Date 5: Date]].
 
-^**Ratification of Merger Agreement; No Further Amendment; Full Force and Effect.**
+^Article III of the Contract (“Term”) is hereby further amended in its entirety to read as follows:
 
-The Merger Agreement, as amended by this Amendment, is in all respects ratified and confirmed, and this Amendment shall be deemed part of the Merger Agreement. Except as otherwise expressly provided in this Amendment, all of the terms and conditions of the Merger Agreement remain unchanged and continue in full force and effect. This Amendment shall form a part of the Merger Agreement for all purposes, and each party hereto and thereto shall be bound hereby. This Amendment shall be deemed to be in full force and effect from and after the execution of this Amendment by the parties hereto. 
+The Original Term of this Contract shall be from [[Date 4]] through [[Date 5]], and shall continue for Additional Terms, unless BUYER or SELLER gives written notice of termination at least one hundred twenty (120) Days prior to the beginning of an Additional Term.
 
-^**Governing Law; Jurisdiction and Venue; No Trial by Jury.**
+^Article V (“Quantity”), Section 5.1 (“Quantity”) of the Contract, as amended by the First Amendment, is hereby replaced in its entirety with the following:
 
-This Amendment shall be governed by and construed in accordance with, the laws of the State of Delaware without regard, to the fullest extent permitted by law, to the conflicts of laws provisions thereof which might result in the application of the laws of any other jurisdiction. 
+\centered **TIER 1**
 
-Each party hereto irrevocably submits to the exclusive jurisdiction of (i) the state courts of the State of Delaware and (ii) the United States District Court for the State of Delaware for the purposes of any suit, action or other proceeding arising out of or relating to this Amendment, any documents referred to in this Amendment or any transaction contemplated hereby or thereby. Each party hereto agrees to commence any action, suit or proceeding relating hereto only in either such court. Each party hereto irrevocably and unconditionally waives any objection to the laying of venue of any action, suit or proceeding arising out of this Amendment, any documents referred to in this Amendment or any transaction contemplated hereby or thereby in (a) the state court of the State of Delaware, or (b) the United States District Court for the State of Delaware, and hereby further irrevocably and unconditionally waives and agrees not to plead or claim in any such court that any such action, suit or proceeding brought in any such court has been brought in an inconvenient forum. Each party hereto further irrevocably consents to the service of process out of any of the aforementioned courts in any such suit, action or other proceeding by the mailing of copies thereof by mail to such party at its address set forth in the Merger Agreement, such service of process to be effective upon acknowledgment of receipt of such registered mail; *provided that* nothing in this paragraph shall affect the right of any party hereto to serve legal process in any other manner permitted by law. The consent to jurisdiction set forth in this paragraph shall not constitute a general consent to service of process in the State of Delaware and shall have no effect for any purpose except as provided in this paragraph. The parties hereto agree that a final judgment in any such suit, action or proceeding shall be conclusive and may be 
+During each Year that this Contract is in effect, SELLER shall sell and Deliver to BUYER, and BUYER shall purchase and receive from SELLER, Product at a reasonably uniform rate during each Month.
 
-^^^^^ 
-enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. 
+\centered Annual Average Daily Rate in Physical Barrels Per Day:
 
-Each of the parties hereto hereby irrevocably and unconditionally waives any right it may have to trial by jury in connection with any litigation arising out of or relating to this Amendment, any documents referred to in this Amendment or any transaction contemplated hereby or thereby. 
+\centered **Tier 1**
+**Year**      \centered **Minimum**      \centered **Maximum**
 
-^**Entire Agreement; Counterparts.**
+[ ]      [ ]
 
-This Amendment constitutes the entire agreement among the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and undertakings, both written and oral, among the parties hereto, or any of them, with respect to the subject matter hereof. This Amendment may be executed in two or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement. 
+[ ]      [ ]
 
-\centered **[Remainder of Page Intentionally Left Blank]** 
+[ ]      [ ]
 
-^^^^^ 
-IN WITNESS WHEREOF, the Company, Merger Sub and BPW have caused this Amendment to be executed as of the date first written above by their respective officers thereunto duly authorized. 
+[ ]      [ ]
 
-[[Company]]
-[[Company Signatory Email: Identity | Signature]]
+Tier 1 volumes shall become effective beginning ninety (90) days after the Effective Date of this Second Amendment (as defined in section 8 below). Until then, the minimum and maximum annual average daily rates as set forth in the Contract, as amended by the First Amendment, shall continue to apply.
+
+The minimum annual volume of Product to be sold and Delivered by SELLER and Nominated, purchased and received by BUYER under this Contract during each of Years 2010 and through [[Date 6: Date]] is the number of barrels in the following table. The maximum annual volume of Product to be sold and Delivered by SELLER and Nominated, purchased and received by BUYER under this Contract during each of Years 2010-through [[Date 6]] is listed in the following table.
+
+\centered **Tier 1**
+**Year**      \centered **Minimum**      \centered **Maximum**
+
+**      **
+
+[ ]      [ ]
+
+[ ]      [ ]
+
+[ ]      [ ]
+
+**Annual Volumes for Tier 1, 2010 are determined by the following formulas:
+
+· Minimum = # days in 2010 prior to (Effective Date plus 90 days) x [ ] Barrels Per Day + # of days during (Effective Date plus 90 days) through [[Date 7: Date]] x [ ] Barrels Per Day
+
+· Maximum = # days in 2010 prior to (Effective Date plus 90 days) x [ ] Barrels Per Day + # of days during (Effective Date plus 90 days) through [[Date 7]] x [ ] Barrels Per Day.
+
+The minimum and maximum Tier 1 annual volumes of Product to be sold and Delivered by SELLER and to be Nominated, purchased and received by BUYER during each Year of any Additional Term shall be determined by multiplying the Days of that Year by the Tier 1 annual average daily rate indicated for 2013, unless otherwise mutually agreed.
+
+Except as otherwise expressly provided herein, during each of the Years 2010 and 2011, the Tier 1 Minimum and Maximum volumes sold, Delivered, purchased and received during each Month shall be determined by multiplying the Days of that Month by [ ] barrels per Day and [ ] barrels per Day, respectively; during the Year 2012, the Tier 1 Minimum and Maximum volumes sold, Delivered, purchased and received during each Month shall be determined by multiplying the Days of that Month by [ ] barrels per Day and [ ] barrels per Day, respectively, and during the Year 2013, the Tier 1 Minimum and Maximum volumes sold, Delivered, purchased and received during each Month shall be determined by multiplying the Days of that Month by [ ] barrels per Day and [ ] barrels per Day, respectively.
+
+\centered **TIER 2**
+
+Volumes in excess of the Maximum Monthly Tier 1 Daily Rate, up to the maximum amounts stated below, are referred to herein as “Tier 2” volumes. BUYER may request that SELLER provide Tier 2 volumes of Product within a range as shown in the following table unless mutually agreed otherwise. SELLER agrees to make reasonable commercial efforts to supply BUYER with Tier 2 volumes of Product.
+
+BUYER may request from SELLER any additional volumes over the maximum volumes listed under Tier 2. SELLER will promptly make reasonable commercial efforts to supply additional LSFO volumes above the maximum Tier 2 volumes listed below. Price for volumes in excess of Tier 2 maximum volumes will be according to Article VI (“Price”), Section 6.1 (“Determination of Product Price”) for Tier 2 Pricing.
+
+\centered Physical Barrels Per Nomination:
+
+\centered **Tier 2**
+**Year**      \centered **Minimum**      \centered **Maximum**
+
+[ ]      [ ]
+
+[ ]      [ ]
+
+[ ]      [ ]
+
+[ ]      [ ]
+
+*** = number of days in Month x Tier 1 maximum volume for appropriate year.
+
+Subject to availability, SELLER may sell and Deliver and BUYER may purchase and receive Tier 2 volumes as mutually agreed with the price determined in accordance with Article VI (“Price”), Section 6.1 (“Determination of Product Price”) of the Contract.
+
+^Article VI (“Price”), Section 6.1 (“Determination of Product Price”) of the Contract, as amended by the First Amendment, is hereby replaced in its entirety with the following:
+
+^**Tier 1 Pricing**. The price in USD per barrel of Product Delivered to meet the Nominated commitment of a Month within the range defined by “Tier 1 Minimum” and “Tier 1 Maximum” in Article V (“Quantity”), Section 5.1 (“Quantity”) shall be determined Monthly according to the following price formula:
+
+P1 = [ ]
+
+P1 = [ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+Exhibit B (“Illustrative Schedule of Prices for Tier 1”) is hereby replaced in its entirety by Exhibit B-1 attached hereto, which is an illustrative application of Tier 1 pricing. In the event of any conflict between Exhibit B-1 and the text of this Second Amendment, the text of this Second Amendment shall prevail and control.
+
+B.**Tier 2 Pricing**. The price in USD per barrel of Product Delivered for Tier 2 volumes shall be determined according to the following price formula:
+
+P2 = [ ]
+
+P2 = Product price in USD per barrel for the Delivery of Tier 2 Volumes.
+
+[ ]
+
+[ ]
+
+^Article VII (“Delivery”), Section 7.1 (“Notification and Product Delivery”) of the Contract, as amended by the First Amendment, is hereby replaced in its entirety with the following:
+
+^**Tier 1 Nomination**. Subject to the “Tier 1” minimum and maximum amounts specified in Section 5.1, BUYER will provide SELLER written notice of the Nominated rate of Delivery for each Month sixty (60) Days prior to the first Day of said Month.
+
+No later than ten (10) Days prior to the beginning of each Month, SELLER shall provide BUYER a proposed schedule of Pipeline Deliveries and Marine Deliveries (“Delivery Schedule”) to be made by SELLER for the following two Months. The proposed Delivery Schedule shall specify the type of Delivery, Pipeline Delivery or Marine Delivery, approximate quantity, the approximate date and a characterization of the approximate viscosity, either low (100 - 200 SSU at 210 DF), medium (201 - 350 SSU at 210 DF), or high (350 - 450 SSU at 210 DF), for each individual Delivery. BUYER shall notify SELLER of its acceptance or rejection of the proposed Delivery Schedule within three (3) business days of its receipt, such notice to include the cause or reasons for BUYER’s rejection. BUYER may reject the proposed Delivery Schedule because the proposed date or volume of an individual Delivery is inconsistent with the limits on Product Delivery ratability specified in this Article VII. If BUYER rejects the proposed Delivery Schedule because the necessary space in BUYER’s storage tanks at BUYER’s BPTF is unavailable or as a result of some other similar operational consideration, BUYER shall make reasonable efforts to rearrange other schedules to provide SELLER a satisfactory alternate Delivery date or alternate Delivery volume. In this and all such similar efforts, SELLER and BUYER shall make reasonable efforts to coordinate their individual Pipeline Deliveries and Marine Deliveries into and out of BUYER’s BPTF to minimize operational difficulties and costs.
+
+SELLER shall notify BUYER of a change in the proposed Delivery Schedule due to any of the following causes with respect to any Delivery when it shall become known to SELLER:
+
+^^A change in the previously advised volume of a Pipeline Delivery, if such change is in excess of 10,000 barrels or a change in the previously advised volume of-a Marine Delivery, if such change is in excess of 20,000 barrels.
+
+^^A change in the date of a Delivery, if such change is more than 2 Days earlier or later than the previously advised date; or
+
+^^A change in the previously advised viscosity characterization of a Delivery.
+
+^**Tier 2 Nomination**. Subject to the “Tier 2” amounts specified in Section 5.1, BUYER will provide SELLER with a notice requesting that SELLER provide such additional supply. Such notice shall state the quantity of Product requested by BUYER and the date by which BUYER is requesting delivery (“Requested Delivery Date”). Such notice shall be delivered to SELLER no later than ninety (90) days prior to the Requested Delivery Date.
+
+SELLER shall promptly make reasonable commercial efforts to secure a supply of Tier 2 volumes meeting the terms of the notice. SELLER will provide BUYER with a proposal to provide such supply as soon as reasonably possible, but no later than 75 days prior to the Requested Delivery Date. Such proposal may propose providing all or part of such supply from SELLER’s refinery production, by imports or by some combination of the two, provided that SELLER will not propose providing supply from both its refinery production and from imports if the cost of such combined supply would exceed the cost of supplying such quantity solely by imports. To the extent that all or part of the supply will be provided by imports, SELLER shall make reasonable commercial efforts to obtain the most favorable terms then available, in the best judgment of SELLER’s personnel working to obtain such supply.
+
+SELLER’s proposal shall state the price for such incremental deliveries, consistent with the terms set forth in Article VI (“Price”), Section 6.1 (“Determination of Product Price”), B. (“Tier 2 Pricing”), the proposed quantity to be delivered, the method of delivery, and the anticipated date of delivery. BUYER shall have 48 hours to respond to SELLER’s proposal and either accept or reject the terms, provided that if the end of such 48 hour period is not within a normal business day, BUYER shall have until 9:00 am Hawaii Standard Time on the first succeeding business day to respond to such proposal. If BUYER accepts such proposal, then SELLER shall provide supply in accordance with such terms. If BUYER rejects such proposal or fails to timely respond to, accept or reject such proposal, then SELLER shall not provide such incremental supply.
+
+^The parties agree that this Second Amendment is subject to and conditioned upon approval by the Public Utilities Commission of the State of Hawaii (“Commission”) as follows:
+
+BUYER will file an application (“Application”) with the Commission requesting approval of this Second Amendment following its execution. This Second Amendment is contingent upon the issuance of a decision and order by the Commission that (a) approves this Second Amendment and its pricing and terms and conditions, (b) is final and reasonable, both as determined in BUYER’s sole discretion; and (c) allows BUYER to include the costs incurred by BUYER pursuant to this Second Amendment in its revenue requirements for ratemaking purposes and for the purposes of determining the reasonableness of BUYER’s rates and/or for cost recovery above those costs included in base rate through BUYER’s Energy Cost Adjustment Clause. A decision and order by the Commission satisfying these conditions is hereinafter referred to as the “Commission Approval Order.”
+
+Without limiting the foregoing, SELLER accepts that a Commission decision and order may not be deemed to be final and/or reasonable to BUYER if (a) it is not an unconditional approval; (b) it denies or defers ruling on any part of Buyer’s Application or (c) BUYER is not satisfied that the decision and order will not be appealed.
+
+Within 15 days of BUYER’s receipt of a Commission decision and order regarding the Application, BUYER shall notify SELLER whether or not BUYER considers the decision and order to be a Commission Approval Order for purposes of this section and this Agreement.
+
+If BUYER has not received a Commission Approval Order within 180 days of the date of this Second Amendment, or if BUYER’s request for Commission approval of this Second Amendment is denied, then either SELLER or BUYER may terminate this Second Amendment by providing 15 days prior written notice of such termination delivered to the other prior to the Effective Date. Such termination shall be effective only as to this Second Amendment and it shall not be deemed to affect the status of or terminate the Contract, as amended by the First Amendment, or waive either party’s respective rights or positions with regard to the status or interpretation of the Contract, as amended by the First Amendment, which rights and positions shall be reserved. In such event of termination, each party shall bear its own respective fees, costs and expenses incurred prior to termination of the Second Amendment, if any, in preparation for performance hereunder.
+
+Seller, at its own cost, shall promptly cooperate with Buyer’s reasonable requests for support of Buyer’s efforts to prepare and file the Application and obtain the Commission Approval Order.
+
+^**Pipeline Throughput Contract**. As part of the consideration for this Second Amendment, the parties have agreed to execute the separate Pipeline Throughput Contract dated [[Date 1]].
+
+^**Effective Date**. This Second Amendment shall become effective (the “Effective Date”) upon the filing of the Commission Approval Order or any earlier date as may be set forth in the Commission Approval Order. Prior to the Effective Date, the Contract, as amended by the First Amendment, shall continue to govern the parties’ rights, obligations and remedies with respect to the subject matter of the Contract, and the parties reserve and do not waive their respective rights or positions with regard to the status or interpretation of the Contract, as amended by the First Amendment.
+
+^Other than the amendments noted herein, the provisions of the Contract, as amended by the First Amendment, shall remain in full force and effect (provided that, in the event this Second Amendment is terminated as provided in Section 6 above, the parties reserve and do not waive their respective rights or positions with regard to the status or interpretation of the Contract, as amended by the First Amendment). Upon the Effective Date as defined above, in the event of any conflict between the terms of the Contract and the terms of this Second Amendment, this Second Amendment shall control.
+
+^This Second Amendment may be executed in as many counterparts as desired by the parties, any one of which shall have the force and effect of an original but all of which together shall constitute the same instrument. This Second Amendment may also be executed by exchange of executed copies via facsimile or other electronic means, such as PDF, in which case  but not as a condition to the validity of this agreement  each party shall subsequently send the other party by mail the original executed copy. A party’s signature transmitted by facsimile or similar electronic means shall be considered an “original” signature for purposes of this Second Amendment.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Amendment to the Contract as of the day and year first written above.
+
+**ACCEPTED AND AGREED:**
+
+**TESORO HAWAII CORPORATION**
+
+[[TESORO HAWAII CORPORATION Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
-Title: [[Company Signatory Title]]}}
+{{TESORO HAWAII CORPORATION Entity => By: [[TESORO HAWAII CORPORATION Signatory First Name]] [[TESORO HAWAII CORPORATION Signatory Last Name]]
+Title: [[TESORO HAWAII CORPORATION Signatory Title]]}}
 
-Michael Scarpa
-Chief Operating Officer, Chief Financial Officer and Treasurer
+Claude P. Moreau
+*(Printed or Typed Name)*
 
-[[Merger Sub]]
-[[Merger Sub Signatory Email: Identity | Signature]]
+TITLE:   Senior Vice President-Marketing
+
+**HAWAIIAN ELECTRIC COMPANY, INC.**
+
+[[HAWAIIAN ELECTRIC COMPANY INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Merger Sub Entity => By: [[Merger Sub Signatory First Name]] [[Merger Sub Signatory Last Name]]
-Title: [[Merger Sub Signatory Title]]}}
+{{HAWAIIAN ELECTRIC COMPANY INC. Entity => By: [[HAWAIIAN ELECTRIC COMPANY INC. Signatory First Name]] [[HAWAIIAN ELECTRIC COMPANY INC. Signatory Last Name]]
+Title: [[HAWAIIAN ELECTRIC COMPANY INC. Signatory Title]]}}
 
-Richard T. O’Connell, Jr.
-Secretary
+Thomas C. Simmons
+*(Printed or Typed Name)*
 
-[[BPW]]
-[[BPW Signatory Email: Identity | Signature]]
+TITLE:   Vice President
+
+[[TITLE   Vice President Signatory Email: Identity | Signature]]
 __________________________________________
-{{BPW Entity => By: [[BPW Signatory First Name]] [[BPW Signatory Last Name]]
-Title: [[BPW Signatory Title]]}}
+{{TITLE   Vice President Entity => By: [[TITLE   Vice President Signatory First Name]] [[TITLE   Vice President Signatory Last Name]]
+Title: [[TITLE   Vice President Signatory Title]]}}
 
-Gary S. Barancik
-Chief Executive Officer
+Robert A. Alm
+*(Printed or Typed Name)*
+
+TITLE:   Executive Vice President
+
+\centered **Exhibit B-1**
+
+\centered **ILLUSTRATIVE SCHEDULE OF PRICES**
+
+\centered Illustrative Price Calculations for Product Delivered to Meet the Nominated Commitment of the Second Amendment
+
+**Amendment 2 Price Formula:**
+
+P1 = [ ]
+
+[ ].
+
+\centered [ ]
+[ ]      \centered [ ]
+
+\centered [ ]      \centered [ ]      \centered [ ]
+\centered [ ]      \centered [ ]      
+
+\centered [ ]
+
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]
+
+\centered [ ]
+[ ]      \centered [ ]
+
+\centered [ ]      \centered [ ]      \centered [ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]
+[ ]      [ ]      [ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+\centered [ ]
+[ ]      \centered [ ]      \centered [ ]
+
+\centered [ ]      [ ]      [ ]            [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+
+\centered [ ]
+[ ]      \centered [ ]      \centered [ ]
+
+\centered [ ]      [ ]      [ ]            [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]
+[ ]      [ ]      [ ]      [ ]      [ ]      [ ]      [ ]
+[ ]                  [ ]
+[ ]
+\centered [ ]      [ ]
+[ ]      \centered [ ]      [ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]
+
+[ ]

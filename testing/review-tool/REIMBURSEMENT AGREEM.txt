@@ -1,61 +1,111 @@
 \centered **REIMBURSEMENT AGREEMENT**
 
-THIS **AGREEMENT** (this "Agreement") is executed and delivered on the [[Date 1: Date]], by and between **The Sentient Group** ("TSG") and **[[NSHI]]**, a [[State of Formation: State]] [[Organization: EntityType]] ("NSHI").
+This Reimbursement Agreement (the “**Agreement**”) is made and entered into as of [[Date 1: Date]] by NEW GENERATION BIOFUELS HOLDINGS, INC., a Florida corporation (the “**Company**”), in favor of 2020 Energy, an Arizona limited liability company (“**2020 Energy**”).
 
-\centered **RECITALS:**
+\centered **Preliminary Statements**
 
-**WHEREAS,** NSHI anticipates that TSG and one or more affiliates of Sentient USA Resources Fund, LP ("SURF"), a shareholder of NSHI (collectively "Sentient") will provide services and/or will incur certain costs and expenses directly allocable to NSHI and NSHI's subsidiary, **Natural Soda, Inc.** ("NSI").
+^The Company is conducting an offering to “accredited investors” under the Securities Act of 1933, as amended (the “**Securities Act**”) of Secured Convertible Promissory Notes (the “**Notes**”) and warrants to purchase shares of the Company’s common stock, as described in the Note and Warrant Purchase Agreement (as amended, modified, supplemented and extended from time to time, the “**Purchase Agreement**”), dated as of the date hereof, between the Company and the purchasers of the Notes the “**Purchasers**”).
 
-**WHEREAS,** Sentient will use reasonable efforts to advise management and the Board of Directors of NSHI in advance of providing such services or incurring any such costs and expenses;
+^In order to secure the obligations of the Company to repay the Notes and to induce the Purchasers to purchase the Notes, 2020 Energy executed and delivered a Pledge Agreement dated as of the date hereof, between 2020 Energy and the Secured Parties, as Purchasers (the “**Pledge Agreement**”).
 
-**WHEREAS,** Sentient will attempt to have any third party providers of goods or services to contract with NSHI and/or NSI concerning such goods and services rather than have Sentient pay the bills and seek reimbursement for such amounts, and
+^If the Secured Parties exercise their rights under the Pledge Agreement after a default on the Notes by the Company, resulting in a loss by 2020 Energy of all or any portion the Pledged Shares, the Company is willing to reimburse 2020 Energy by issuing new shares of the Company’s common stock, par value $[[USD Value 1: Number]] per share (the “**Common Stock**”) to 2020 Energy to replace the Pledged Shares.
 
-**WHEREAS,** NSHI has agreed to reimburse Sentient and/or one or more of its affiliates for such services, costs and expenses provided that they are reasonable in amount, were incurred in good faith, and are approved by a majority of the disinterested members of the Board of Directors and/or the Shareholders of NSHI as required by the Colorado Business Corporations Act for conflicting interest transactions.
+^In order to induce 2020 Energy to execute and deliver the Pledge Agreement, the Company has agreed to execute and deliver this Agreement in favor of 2020 Energy pursuant to which the Company will reimburse 2020 Energy for the Pledged Shares in accordance with the provisions set forth below.
 
-**NOW, THEREFORE,** in consideration of the foregoing premises, the covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+^Capitalized terms used and not otherwise defined herein shall have the meanings provided in the Purchase Agreement, the Notes or the Pledge Agreement, as the case may be.
 
-^**Reimbursement Of Costs and Expenses**. From time to time, no less frequently than on a quarterly basis, Sentient will prepare and submit a detailed request to NSHI for reimbursement of:
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company and 2020 Energy hereby agree as follows:
 
-^^The cost to Sentient of providing services to NSHI and/or NSI, including, but not limited to travel and accommodations associated with the provision of such services (costs of employees or contractors of Sentient will be based on the actual cost to Sentient of providing such services); and
+^***.*** ***Reimbursement Obligation****.*** After (i) the occurrence of an Event of Default on the Notes that remains uncured by the Company beyond any cure period provided in the Notes and (ii) a transfer of the Pledged Shares to the Secured Parties pursuant to the Pledge Agreement, the Company hereby agrees to reimburse 2020 Energy for the Pledged Shares by issuing to 2020 Energy a number of shares of Common Stock (the “Reimbursed Shares**”) equal to the number of Pledged Shares so transferred, to the extent permitted by the rules of the Nasdaq Stock Market. The Company will issue the Reimbursed Shares within two (2) business days after 2020 Energy notifies the Company in writing that the Pledged Shares have been transferred to the Secured Parties.
 
-^^The cost of goods and services provided by third parties to or for the benefit of NSHI and/or NSI, but billed to and paid by Sentient or billed to NSHI and/or NSI and paid by Sentient on behalf of NSHI and/or NSI.
+^***.*** ***Indemnification****.*** (a) The Company hereby agrees to indemnify, defend and hold 2020 Energy harmless from and against all demands, claims, actions or causes of action, assessments, losses, damages, liabilities, costs and expenses, including without limitation, interest, penalties and reasonable attorneys’ fees and expenses (collectively “Damages**”) asserted against, resulting to, imposed upon or incurred directly or indirectly by 2020 Energy by reason of or resulting from action by the Secured Parties under the Pledge Agreement.
 
-Such requests shall be reasonable in detail and in such form as may be reasonably required by NSHI. At a minimum, such requests shall be reasonably sufficient to satisfy the requirements of the Sarbanes_Oxley Act of 2002 (or as such act might be modified in the future) and the requirements of the Internal Revenue Service to permit NSHI and/or NSI to deduct such payments for United States Income Tax purposes. Sentient will provide NSHI with reasonable backup documentation for each request for reimbursement and a representative of Sentient will be available to discuss the request for reimbursement as needed by management, the Board of Directors or shareholders of NSHI. Reimbursements shall be paid from available cash within a reasonable time after being approved.
+^^The Company agrees to indemnify 2020 Energy for any capital gains or other taxes directly related to forfeiture of the Pledged Shares or the issuance of the Reimbursed Shares that 2020 Energy incurs as a result of actions taken by the Secured Parties under the Pledge Agreement, subject to the following conditions: for the purpose of calculating any capital gain, 2020 Energy must use the following methodology to determine the cost basis of the Pledged Shares, the first [[Shares 1: Number]] shares pledged @ $[[USD Value 2: Number]]/share and the remaining balance of up to [[Shares 2: Number]] shares @ $[[USD Value 3: Number]]/share for a minimum weighted average cost basis of $[[USD Value 4: Number]] per share (the actual cost will be based on the final number of Pledged Shares).
 
-Cost Reimbursement Agreement   
-\centered Page 1
+^^The Company will reimburse 2020 Energy for any legal fees and SEC EDGAR filing fees incurred as a result of entering into this Agreement.
 
-^**Prior Consent.** Sentient will use reasonable efforts to obtain prior authorization before performing or retaining any services that may be the subject of any reimbursement hereunder or incurring any cost or expense for the benefit of NSHI or NSI. Failure to obtain any such authorization shall not affect Sentient's right to seek reimbursement, but is intended to provide NSHI and NSI with information that will better enable it to understand the value and necessity of such items and to budget for such items.
+^^The Company agrees to indemnify 2020 Energy against any claims, actions, losses, liabilities, costs and expenses (including legal fees) resulting from any violations of the provisions of Section 16(b) under the Securities Exchange Act of 1934, as amended regarding “short-swing profits” that may arise from the forfeiture of the Pledged Shares and the issuance of the Reimbursement Shares.
 
-^**Currency.** All references to "**dollars**" or "**$**" herein or in any budget shall mean lawful currency of the United States of America.
+^***.*** ***Representations and Warranties of the Company******.*** The Company represents and warrants to 2020 Energy as follows:
 
-^**Headings.** The subject headings of the Sections and Subsections of this Agreement and the Paragraphs and Subparagraphs of the Exhibits to this Agreement are included for purposes of
+^^**Organization and Authorization**.TheCompany is a corporation duly organized, validly existing and in good standing under the laws of the State of Florida. The Company has all requisite corporate power and authority to execute, deliver and perform this Agreement, including, without limitation, to issue the Reimbursed Shares.
 
-^**Dispute Resolution.**  
-^^All claims, disputes or other controversies arising out of, or relating to, this Agreement and any other claims, disputes or controversies arising out of or relating to the management or operations of NSHI or NSI (hereinafter collectively referred to as a "Dispute") shall initially be submitted to a senior officer or a member of the board of directors from each party to a Dispute for resolution by mutual agreement between said officers (which senior officers or director will not be a Person who is involved in the regular operations of NSHI or NSI). Any mutual determination by the senior officers shall be reduced to writing and become final and binding upon the parties. However, should such senior officers fail to arrive at a mutual decision as to the Dispute within 20 days after notice to the senior officers of the Dispute, the parti es shall then attempt to resolve such Dispute by mediation in accordance with the terms and provisions set forth in the following paragraph.
+^^**Binding Obligation**. This Agreement and all other instruments and agreements contemplated herein constitute the legal, valid and binding obligation of the Company, enforceable in accordance with its terms (except as limited by applicable bankruptcy, moratorium, insolvency or other similar laws affecting generally the rights of creditors or by principles of equity), and the execution, delivery and performance of this Agreement and such other agreements by the Company does not and will not: (i) conflict with, or violate any provision of, statute, law, rule, regulation, order, judgment, injunction, decree or award of any arbitrator or governmental authority having applicability to the Company or its business, assets, or properties, or any provision of its certificate of incorporation, bylaws or similar governing instruments or (ii) conflict with, violate, or result in any breach of, or constitute a default under, any agreement or instrument to which the Company is now a party or by which the Company or any of its properties or assets may be bound or affected.
 
-^^The parties agree that if the Senior Officers are unable to resolve the Dispute pursuant to the preceding paragraph, either party may submit the Dispute to JAMS, Inc. (**www.****jamsadr.com** and [[Phone 1]], "JAMS"), or its successor, for mediation, and if the Dispute is not resolved through mediation, then it shall be submitted to JAMS, or its successor, for final and binding arbitration. Any party to this Agreement may commence mediation by providing to JAMS and the other parties a written request for mediation, setting forth the subject of the Dispute and the relief requested. The parties will cooperate with JAMS and with one another in selecting a mediator from JAMS' pan el of neutrals, and in scheduling the mediation proceedings promptly, not later than 20 days after such request for mediation. The parties covenant that they will participate in the mediation in good faith, and that they will share equally in its costs. All offers, promises, conduct and statements, whether oral or written, made in the course of the mediation by any of the parties, their agents, employees, experts and attorneys, and by the mediator or any JAMS employees, are confidential, privileged and inadmissible for any purpose, including impeachment, in any arbitration or other proceeding involving the parties, provided that evidence that is otherwise admissible or discoverable shall not be rendered inadmissible or non-discoverable as a result of its use in the mediation. Any party may initiate arbitration with respect to the Disputes submitted to mediation by filing a written demand for arbitration at any time following the initial mediation session or 45 days after the date of filing the written reques t for mediation, whichever occurs first. The mediation may continue after the commencement of arbitration if the parties so desire. -Unless otherwise agreed by the parties, the mediator shall be disqualified from serving as arbitrator in the case. The provisions of this Clause may be enforced by any court of competent jurisdiction, and the party seeking enforcement shall be entitled to an award of all costs, fees and expenses, including attorneys' fees, to be paid by the party against whom enforcement is ordered.
+^^**Issuance of Reimbursed Shares**. The Company has taken all corporate action necessary for the authorization, execution, delivery and performance of this Agreement by the Company and the performance of the Company’s obligations hereunder, including adoption of a Board resolution reserving a sufficient number of shares for issuance and delivery of the Reimbursed Shares. Upon issuance of the Reimbursed Shares in accordance with this Agreement, the Reimbursed Shares will be validly issued, fully paid and non-assessable and free of any liens or encumbrances other than those imposed by federal and state securities laws.
 
-Cost Reimbursement Agreement   
-\centered Page 2
+^^**Consents**. No authorization, consent or approval of, or filing or registration with, any governmental or regulatory body or authority, or any other third party, is necessary for the Company’s execution, delivery and performance of this Agreement, except filings required pursuant to applicable federal and state securities laws and blue sky laws.
 
-^**Further Assurances.** Each of the parties shall take, from time-to-time and without additional consideration, such further actions and execute such additional instruments as may be reasonably necessary or convenient to implement and carry out the intent and purpose of this Agreement.
+^**Representations and Warranties of 2020 Energy**.
 
-^**Entire Agreement; Successors and Assigns.** This Agreement contains the entire understanding of the parties and supersedes all prior agreements and understandings between the parties relating to the subject matter hereof. This Agreement shall be binding upon and inure to the benefit of the respective successors and permitted assigns of the parties.
+^^**Authorization**. 2020 Energy has full power and authority to enter into this Agreement, the execution and delivery of which has been duly authorized, if applicable, and this Agreement constitutes a valid and legally binding obligation of 2020 Energy.
 
-^**Counterparts.** This Agreement may be executed in any number of counterparts, and it shall not be necessary that the signatures of more than one party be contained on any counterpart. Each counterpart shall be deemed an original, but all counterparts together shall constitute one and the same instrument.
+^^**Securities Exemption**. 2020 Energy acknowledges its understanding that the issuance of the Reimbursed Shares is intended to be exempt from registration under the Securities Act by virtue of Section 4(2) of the Securities Act and the provisions of Regulation D promulgated thereunder. In furtherance thereof, 2020 Energy represents and warrants to the Company as follows:
 
-**IN WITNESS WHEREOF,** the parties hereto have executed this Agreement as of the date first written above.
+^^2020 Energy would acquire any Reimbursed Shares solely for 2020 Energy’s own beneficial account, for investment purposes, and not with view to, or resale in connection with, any distribution of the Reimbursed Shares. 2020 Energy is an “accredited investor” as such term is defined in Rule 501 under the Securities Act.
 
-\centered **[[NSHI]]**      
+^^2020 Energy will not sell or otherwise transfer any Reimbursed Shares without registration under the Securities Act or an exemption therefrom, and understands that the Reimbursed Shares have not been registered under the Securities Act or under the securities laws of any state and, therefore, cannot be resold, pledged, assigned or otherwise disposed of unless they are subsequently registered under the Securities Act and under the applicable securities laws of such states, or an exemption from such registration is available. 2020 Energy understands that all certificates evidencing any Reimbursed Shares shall bear a legend to such effect. 2020 Energy is aware that the Reimbursed Shares are “restricted securities,” as such term is defined in Rule 144 promulgated under the Securities Act (“**Rule 144**”), and they may not be sold pursuant to Rule 144 unless all of the conditions of Rule 144 are met. 2020 Energy also understands that the Company is under no obligation to register the Reimbursed Shares on its behalf or to assist in complying with any exemption from registration under the Securities Act or applicable state securities laws.
 
-\centered **THE SENTIENT GROUP**
+^***.*** ***Termination******.*** This Agreement shall terminate upon termination or expiration of the Pledge Agreement or release or expiration of 2020 Energy’s obligations thereunder (for example, upon full payment or conversion of the Notes); except that in no event shall the Agreement terminate if 2020 Energy is due the Reimbursed Shares hereunder.
 
-By:   /s/ Brad F. Bunnet      By:   \centered /s/ Gregory Link
-Name:   Brad F. Bunnet      Name:   \centered Gregory Link
-Title:   President      Title:   \centered Director
-Date:   30 [[Date 2: Date]]      Date:   \centered 30 [[Date 2]]
+^***.*** ***Notices******.*** All notices and other communications permitted or required pursuant to this Agreement shall be in writing and shall be deemed given when delivered in person, by overnight courier, or five (5) days after being deposited in the United States mail, postage prepaid, as certified mail, return receipt requested, properly addressed to the party for whom intended at the addresses set forth below, or to such other address as any party hereto may designate for itself by notice in accordance herewith to the others:
 
-Cost Reimbursement Agreement  
+If to the Company:  
 
-\centered Page 3
+New Generation Biofuels Holdings, Inc. 
+
+[[Address 1: Address]] 
+
+Phone: [[Phone 1]] 
+
+Fax: [[Phone 2]] 
+
+Attn: Cary J. Claiborne  
+If to 2020 Energy:  
+
+2020 Energy 
+
+c/o Abraham Jacobi 
+
+[[Address 2: Address]] 
+
+Phone: [[Phone 3]] 
+
+Fax: [[Phone 4]]  
+
+With a copy to:  
+
+Joel I. Frank, Esq. 
+
+Siller Wilk LLP 
+
+[[Address 3: Address]] 
+
+Phone: [[Phone 5]] 
+
+Fax: [[Phone 6]]
+
+^***.*** ***Miscellaneous.*** The headings of the sections and subsections hereof are provided for convenience only and shall not in any way affect the meaning or construction of any provision of this Agreement. No amendment or waiver of any provision of this Agreement shall be effective unless it is in writing and signed by the Company and 2020 Energy, and any such waiver shall be effective only in the specific instance and for the specific purpose for which given. This Agreement shall be governed by and construed in accordance with the laws of the State of New York. Except as otherwise provided herein, this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Any assignment of the Note by the Maker shall not affect the rights of 2020 Energy or the obligations of the Company under this Agreement. In the event of a breach by either party of the covenants or agreements set forth in this Agreement, the party entitled to the benefit of such covenants or agreements may proceed to enforce their rights either by suit in equity and/or an action for specific performance. No delay or omission of 2020 Energy to exercise any right, remedy or power hereunder shall impair the same or be construed to be a waiver thereof. No waiver of any right, remedy or power hereunder shall extend to or affect any other right, remedy or power, and no single or partial exercise of any right, remedy or power shall preclude any other or further exercise thereof by 2020 Energy. Any provision of this Agreement that is legally determined to be unenforceable in any jurisdiction shall, as to that jurisdiction, be ineffective to the extent of the unenforceability only without invalidating the remaining provisions hereof, but no unenforceability in any jurisdiction shall invalidate or render unenforceable the same or any other provision in any other jurisdiction. This Agreement and the Pledge Agreement constitute the entire agreement of the parties hereto with respect to the matters referred to herein and supersedes any and all other understandings, negotiations, or agreements among the parties with respect to the subject matter hereof. This Agreement may be executed in counterparts which together constitute one instrument and may be executed by delivery of an original executed counterpart signature page by facsimile transmission.
+
+IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement as of the date first written above.
+
+NEW GENERATION BIOFUELS HOLDINGS, INC.
+
+[[NEW GENERATION BIOFUELS HOLDINGS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{NEW GENERATION BIOFUELS HOLDINGS INC. Entity => By: [[NEW GENERATION BIOFUELS HOLDINGS INC. Signatory First Name]] [[NEW GENERATION BIOFUELS HOLDINGS INC. Signatory Last Name]]
+Title: [[NEW GENERATION BIOFUELS HOLDINGS INC. Signatory Title]]}}
+
+
+2020 ENERGY
+
+[[2020 ENERGY Signatory Email: Identity | Signature]]
+__________________________________________
+{{2020 ENERGY Entity => By: [[2020 ENERGY Signatory First Name]] [[2020 ENERGY Signatory Last Name]]
+Title: [[2020 ENERGY Signatory Title]]}}
+
+
+[[Title Party 2 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 2 Signatory Title}} Entity => By: [[Title Party 2 Signatory Title}} Signatory First Name]] [[Title Party 2 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 2 Signatory Title}} Signatory Title]]}}

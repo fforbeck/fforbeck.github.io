@@ -2,27 +2,23 @@
 
 \centered **$[[USD Value 1: Number]] PLUS INTEREST DUE & PAYABLE**
 
-\centered **DOCUMENT B-03262010a**
-
 THIS NOTE AND THE SHARES ISSUABLE UPON CONVERSION OF THIS NOTE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THIS NOTE AND THE SHARES ISSUABLE UPON CONVERSION OF THIS NOTE MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED OR HYPOTHECATED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT OR APPLICABLE EXEMPTION OR SAFE HARBOR PROVISION.
 
-FOR VALUE RECEIVED, on the Effective Date, as defined below on the signature page, **MedClean Technologies, Inc** as Obligor ("Borrower,” or “Obligor”), hereby promises to pay to the Lender (“Lender” or “ Holder”), as defined below on the signature page, the Principal Sum, as defined below, along with the Interest Rate, as defined below, according to the terms herein.
+FOR VALUE RECEIVED, on the Effective Date, as defined below on the signature page, **ClearLite Holdings, Inc** as Obligor ("Borrower,” or “Obligor”), hereby promises to pay to the Lender (“Lender” or “ Holder”), as defined below on the signature page, the Principal Sum, as defined below, along with the Interest Rate, as defined below, according to the terms herein.
 
-The "Lender" shall be:      JMJ Financial / Its Principal, or Its Assignees
-The "Principal Sum" shall be:      $[[USD Value 1]] (six hundred thousand US Dollars): Subject to the following: accrued, unpaid interest shall be added to the Principal Sum.
-The “Consideration” shall be:      $[[USD Value 1]] (six hundred thousand US Dollars) in the form of the Secured & Collateralized Promissory Note Document C-03262010a (including Security & Collateral Agreement).
-The "Interest Rate" shall be:      [[Percentage 1: Number]]% one-time interest charge on the Principal Sum. No interest or principal payments are required until the Maturity Date, but both principal and interest may be included in conversion prior to maturity date.
-The "Conversion Price" shall be the following price:      As applied to the Conversion Formula set forth in 2.2, [[Percentage 2: Number]]% (seventy percent) of the lowest closing price in the 20 trading days previous to the conversion; as applies to MedClean Technologies, Inc. voting common stock.
-The "Maturity Date" is the date upon which the Principal Sum of this Note, as well as any unpaid interest shall be due and payable, and that date shall be:      3 (three) years from the Effective Date, as defined below on the signature page.
-The “Prepayment Terms” shall be:      Prepayment is not permitted, unless approved by Holder in writing.
+The "Lender" shall be:   JMJ Financial / Its Principal, or Its Assignees
+The "Principal Sum" shall be:   $[[USD Value 1]] (five hundred thousand US Dollars): Subject to the following: accrued, unpaid interest shall be added to the Principal Sum.
+The “Consideration” shall be:   $[[USD Value 1]] (five hundred thousand US Dollars) in the form of the Secured & Collateralized Promissory Note Document C-07192010a (including Security & Collateral Agreement).
+The "Interest Rate" shall be:   [[Percentage 1: Number]]% one-time interest charge on the Principal Sum. No interest or principal payments are required until the Maturity Date, but both principal and interest may be included in conversion prior to maturity date.
+The "Conversion Price" shall be the following price:   As applied to the Conversion Formula set forth in 2.2, [[Percentage 2: Number]]% (sixty five percent) of the average of the two lowest closing prices in the 22 trading days prior to the conversion; as applies to ClearLite Holdings, Inc. voting common stock.
+The "Maturity Date" is the date upon which the Principal Sum of this Note, as well as any unpaid interest shall be due and payable, and that date shall be:   3 (three) years from the Effective Date, as defined below on the signature page.
+The “Prepayment Terms” shall be:   Prepayment is not permitted, unless approved by Holder in writing.
 
 ^^Interest Rate. Subject to the Holder's right to convert, interest payable on this Note will accrue interest at the Interest Rate and shall be applied to the Principal Sum.
 
-^^Payable on Demand. This Note is payable on demand in an amount not to exceed the cash amount paid in towards Document C-02262010a.
-
 The Holder will have the right to convert the Principal Sum and accrued interest under this Note into Shares of the Borrower's Common Stock as set forth below.
 
-^^Conversion Rights and Cashless Exercise. Subject to the terms set forth in Section 2.7, the Holder will have the right at its election from and after the Effective Date, and then at any time, to convert all or part of the outstanding and unpaid Principal Sum and accrued interest into shares of fully paid and nonassessable shares of common stock of MedClean Technologies, Inc. (as such stock exists on the date of issuance of this Note, or any shares of capital stock of MedClean Technologies, Inc. into which such stock is hereafter changed or reclassified, the "Common Stock") as per the Conversion Formula set forth in Section 2.2. Any such conversion shall be cashless, and shall not require further payment from Holder. Unless otherwise agreed in writing by both the Borrower and the Holder, at no time will the Holder convert any amount of the Note into common stock that would result in the Holder owning more than [[Percentage 3: Number]]% of the common stock outstanding of MedClean Technologies, Inc. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 2 (two) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment).
+^^Conversion Rights and Cashless Exercise. Subject to the terms set forth in Section 2.7, the Holder will have the right at its election from and after the Effective Date, and then at any time, to convert all or part of the outstanding and unpaid Principal Sum and accrued interest into shares of fully paid and nonassessable shares of common stock of ClearLite Holdings, Inc. (as such stock exists on the date of issuance of this Note, or any shares of capital stock of ClearLite Holdings, Inc. into which such stock is hereafter changed or reclassified, the "Common Stock") as per the Conversion Formula set forth in Section 2.2. Any such conversion shall be cashless, and shall not require further payment from Holder. Unless otherwise agreed in writing by both the Borrower and the Holder, at no time will the Hol der convert any amount of the Note into common stock that would result in the Holder owning more than [[Percentage 3: Number]]% of the common stock outstanding of ClearLite Holdings, Inc. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 3 (three) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment).
 
 ^^Conversion Formula. The number of shares issued through conversion is the conversion amount divided by the conversion price.
 
@@ -35,11 +31,11 @@ Conversion Price
 
 ^^Reservation of Shares. As of the issuance date of this Note and for the remaining period during which the conversion right exists, the Borrower will reserve from its authorized and unissued Common Stock a sufficient number of shares to provide for the issuance of Common Stock upon the full conversion of this Note. The Borrower represents that upon issuance, such shares will be duly and validly issued, fully paid and non-assessable. The Borrower agrees that its issuance of this Note constitutes full authority to its officers, agents and transfer agents who are charged with the duty of executing and issuing stock certificates to execute and issue the necessary certificates for shares of Common Stock upon the conversion of this Note.
 
-^^Delivery of Conversion Shares. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 2 (two) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment). If those shares are not delivered in accordance with this timeframe stated in this Section 2.6, at any time for any reason prior to offering those shares for sale in a private transaction or in the public market through its broker, Holder may rescind that particular conversion to have the conversion amount returned to the note balance with the conversion shares returned to the Borrower. ***The Company will make its best efforts to deliver shares to Holder same day / next day.***
+^^Delivery of Conversion Shares. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 3 (three) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment). If those shares are not delivered in accordance with this timeframe stated in this Section 2.6, at any time for any reason prior to offering those shares for sale in a private transaction or in the public market through its broker, Holder may rescind that particular conversion to have the conversion amount returned to the note balance with the conversion shares returned to the Borrower. ***The Company will make its reasonable best efforts to deliver shares to Holder same day / n ext day.***
 
-2.6.1. Conversion Delay Penalties. Holder may assess penalties or liquidated damages (both referred to herein as “penalties”) as follows. For each conversion, in the event that shares are not delivered by the third business day (inclusive of the day of the conversion), a penalty of $[[USD Value 2: Number]] per day will be assessed for each day after the third business day (inclusive of the day of the conversion) until share delivery is made; and such penalty will be added to the principal balance of the Note (under Holder and Borrower’s expectation that any penalty amounts will tack back to the original date of the note). Borrower will not be subjected to any penalties once its transfer agent processes the shares to the DWAC system.
+2.6.1. Conversion Delay Penalties. Holder may assess penalties or liquidated damages (both referred to herein as “penalties”) as follows. For each conversion, in the event that shares are not delivered by the forth business day (inclusive of the day of the conversion), a penalty of $[[USD Value 2: Number]] per day will be assessed for each day after the third business day (inclusive of the day of the conversion) until share delivery is made; and such penalty will be added to the principal balance of the Note (under Holder and Borrower’s expectation that any penalty amounts will tack back to the original date of the note). Borrower will not be subjected to any penalties once its transfer agent processes the shares to the DWAC system.
 
-^^Discharge By Payment. Conversions under this Convertible Promissory Note Document B-03262010a are available only after the Conversion Amount described herein is discharged by payment of equal or greater value from the Secured & Collateralized Promissory Note Document C-03262010a by either, at the Holder’s choice, cash payment, or surrender of security/collateral, or other negotiated form of payment mutually agreed to in writing.
+^^Discharge By Payment. Conversions under this Convertible Promissory Note Document B-07192010a are available only after the Conversion Amount described herein is discharged by payment of equal or greater value from the Secured & Collateralized Promissory Note Document C-07192010a by either, at the Holder’s choice, cash payment, or surrender of security/collateral, or other negotiated form of payment mutually agreed to in writing.
 
 ^^Notices. Any notice required or permitted hereunder must be in writing and either personally served, sent by facsimile or email transmission, or sent by overnight courier. Notices will be deemed effectively delivered at the time of transmission if by facsimile or email, and if by overnight courier the business day after such notice is deposited with the courier service for delivery.
 
@@ -51,38 +47,30 @@ Conversion Price
 
 ^^Maximum Payments. Nothing contained herein may be deemed to establish or require the payment of a rate of interest or other charges in excess of the maximum permitted by applicable law. In the event that the rate of interest required to be paid or other charges hereunder exceed the maximum permitted by such law, any payments in excess of such maximum will be credited against amounts owed by the Borrower to the Holder and thus refunded to the Borrower.
 
-^^Attorney Fees. In the event any attorney is employed by either party to this Note with regard to any legal or equitable action, arbitration or other proceeding brought by such party for the enforcement of this Note or because of an alleged dispute, breach, default or misrepresentation in connection with any of the provisions of this Note, the prevailing party in such proceeding will be entitled to recover from the other party reasonable attorneys' fees and other costs and expenses incurred, in addition to any other relief to which the prevailing party may be entitled.
+^^Attorney Fees. In the event any attorney is employed by either party to this Note with regard to any legal or equitable action, arbitration or other proceeding brought by such party for the enforcement of this Note or because of an alleged dispute, breach, default or misrepresentation in connection with any of the provisions of this Note, the prevailing party in such proceeding will be entitled to recover from the other party reasonable attorneys' fees and other reasonable costs and expenses incurred, in addition to any other relief to which the prevailing party may be entitled.
 
-^^No Public Announcement. Except as required by securities law, no public announcement may be made regarding this Note, payments, or conversions without written permission by both Borrower and Holder.
+^^No Public Announcement. Except as required by law, no public announcement may be made regarding this Note, payments, or conversions without written permission by both Borrower and Holder.
 
 ^^Opinion of Counsel. In the event that an opinion of counsel is needed for any matter related to this Note, Holder has the right to have any such opinion provided by its counsel. Holder also has the right to have any such opinion provided by Borrower’s counsel.
 
-^^Effective Date. This Note will become effective only upon occurrence of the two following events: execution by both parties, and delivery of valid payment by the Lender in the form of the Secured & Collateralized Promissory Note Document C-03262010a (including Security & Collateral Agreement).
+^^Effective Date. This Note will become effective only upon occurrence of the two following events: execution by both parties, and delivery of valid payment by the Lender in the form of the Secured & Collateralized Promissory Note Document C-07192010a (including Security & Collateral Agreement).
 
 ^^Director’s Resolution. Once effective, Borrower will execute and deliver to Holder a copy of a Board of Director’s resolution resolving that this note is validly issued, paid, and effective.
 
-^^No Shorting. Holder agrees that so long as any Notes from Borrower to Holder remain outstanding, Holder will not enter into or effect any “short sales” of the common stock or hedging transaction which establishes a net short position with respect to the common stock of MedClean Technologies, Inc. Borrower acknowledges and agrees that upon submission of conversion notice as set forth in Section 3.1 (up to the amount of cash paid in under the Notes), Holder immediately owns the common shares described in the conversion notice and any sale of those shares issuable under such conversion notice would not be considered short sales.
+^^No Shorting. Holder agrees that so long as any Notes from Borrower to Holder remain outstanding, Holder will not enter into or effect any “short sales” of the common stock or hedging transaction which establishes a net short position with respect to the common stock of ClearLite Holdings, Inc. Borrower acknowledges and agrees that upon submission of conversion notice as set forth in Section 3.1 (up to the amount of cash paid in under the Notes), Holder immediately owns the common shares described in the conversion notice and any sale of those shares issuable under such conversion notice would not be considered short sales.
 
-**Signature Page to Follow**    
-**BORROWER[S]:**     
-[[BORROWERS Signatory Email: Identity | Signature]]
-__________________________________________
-{{BORROWERS Entity => By: [[BORROWERS Signatory First Name]] [[BORROWERS Signatory Last Name]]
-Title: [[BORROWERS Signatory Title]]}}
+***Signature Page to Follow***    
+**BORROWER[S]:**   
 
-David Laky CEO MedClean Technologies, Inc.      Cheryl Sadowski CFO MedClean Technologies, Inc.
+\centered 
+Thomas Irvine      Paul Niedermeyer CEO      VP of Operations ClearLite Holdings, Inc.      ClearLite Holdings, Inc. 
 
 **LENDER/HOLDER:**   
-[[LENDER/HOLDER Signatory Email: Identity | Signature]]
-__________________________________________
-{{LENDER/HOLDER Entity => By: [[LENDER/HOLDER Signatory First Name]] [[LENDER/HOLDER Signatory Last Name]]
-Title: [[LENDER/HOLDER Signatory Title]]}}
-
-JMJ Financial / Its Principal
-
+____________________________ 
+JMJ Financial / Its Principal  
 EFFECTIVE DATE AS EXECUTED BY LENDER/HOLDER: ________________________
 
-NOTARY FOR SIGNATURE BY LENDER/HOLDER:         
+NOTARY FOR SIGNATURE BY LENDER/HOLDER:    
 
 \centered **SAMPLE**
 
@@ -90,13 +78,13 @@ NOTARY FOR SIGNATURE BY LENDER/HOLDER:
 
 (To be executed by the Holder in order to convert the Note)
 
-The undersigned hereby elects to convert a portion of the Note issued by MedClean Technologies, Inc. into Shares of Common Stock of MedClean Technologies, Inc. according to the conditions set forth in such Note, as of the date written below.
+The undersigned hereby elects to convert a portion of the Note issued by ClearLite Holdings, Inc. into Shares of Common Stock of ClearLite Holdings, Inc. according to the conditions set forth in such Note, as of the date written below.
 
 Date of Conversion:________________________________________________
 
 Conversion Amount:__________________________________________________
 
-Conversion Price:__________________________________________________
+Conversion Price:_________________________________________________
 
 Shares To Be Delivered:_____________________________________________
 

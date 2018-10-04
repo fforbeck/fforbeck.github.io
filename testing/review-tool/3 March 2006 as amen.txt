@@ -1,0 +1,1551 @@
+\centered 3 [[Date 1: Date]]
+
+\centered **as amended and restated on 13 [[Date 2: Date]],**
+
+\centered 10 [[Date 3: Date]], 31 [[Date 3]], 15 [[Date 4: Date]], 30 [[Date 5: Date]] and 8 [[Date 6: Date]]
+
+\centered **GROUP INTERCREDITOR DEED**
+
+\centered **DEUTSCHE BANK AG, [[Address 1: Address]]** as Original Facility Agent and Original Security Trustee
+
+\centered **THE ORIGINAL SENIOR BORROWERS**
+
+\centered **THE ORIGINAL SENIOR GUARANTORS**
+
+\centered **THE SENIOR LENDERS**
+
+\centered **THE HEDGE COUNTERPARTIES**
+
+\centered **THE INTERGROUP DEBTORS**
+
+\centered and
+
+\centered **THE INTERGROUP CREDITORS**
+
+\centered White & Case LLP 5 Old Broad Street [[Address 2: Address]]
+
+\centered **TABLE OF CONTENTS**
+
+\centered **Page**
+
+^INTERPRETATION  
+^^Terms Defined  
+^^Definitions  
+^^References  
+^^Construction  
+^PRIORITIES AND SUBORDINATION  
+^^Priorities and Subordination  
+^^Priorities not affected  
+^^Liabilities not affected  
+^UNDERTAKINGS OF THE OBLIGORS  
+^^Hedging Liabilities  
+^^Intergroup Liabilities  
+^UNDERTAKINGS OF THE CREDITORS  
+^^Hedge Counterparties  
+^^New Hedging Agreements  
+^^Provision of New Hedging Agreements  
+^^Obligations of the Intergroup Creditors  
+^^Undertakings to the Security Trustee  
+^^Undertakings in respect of the HYD Intercreditor Agreement  
+^PERMITTED PAYMENTS  
+^^Permitted Payments Prior to the Senior Discharge Date  
+^^Suspension of Permitted Hedging Payments  
+^^Senior Default  
+^TURNOVER  
+^^Turnover  
+^^Subrogation  
+^^Failure of Trusts  
+^ENFORCEMENT  
+^^Restrictions on Enforcement by Hedge Counterparties  
+^^Restrictions on Enforcement by Additional Senior Finance Parties  
+^^Permitted Enforcement by Senior Finance Parties  
+^^Restrictions on Enforcement by Intergroup Creditors  
+^^Permitted Enforcement of Hedging Liabilities  
+^^Authorisation to Security Trustee  
+^^Release of Security on Enforcement and Disposal after Enforcement Action  
+^^No New Encumbrances  
+^^Disposals  
+^^No Enforcement  
+^^Manner of Enforcement  
+^^Standstill Payments  
+^PROCEEDS OF ENFORCEMENT OF SECURITY  
+^^Application of Proceeds of Enforcement of Barclays Security  
+^^General Application of Proceeds  
+^^Non-cash Distributions  
+^^Sums received by an Obligor  
+
+\centered i
+
+^^Certificates  
+^^Conversion of Currencies  
+^^Preservation of Liabilities  
+^SUBORDINATION ON INSOLVENCY  
+^^Subordination  
+^^Filing of claims  
+^^Distributions  
+^^Voting  
+^RANKING  
+^^Ranking of Security  
+^^Perfection of Security  
+^ENFORCEMENT OF SECURITY  
+^^Enforcement on or before the Senior Discharge Date  
+^^Exemption  
+^NEW SENIOR LIABILITIES  
+^PURCHASE OPTION  
+^REINSTATEMENT  
+^APPROPRIATION  
+^POWERS OF ATTORNEY  
+^^Appointment by the Creditors  
+^^Appointment by the Obligors  
+^^Ratification of Acts  
+^COSTS AND EXPENSES  
+^CHANGES TO THE PARTIES  
+^^Binding Nature  
+^^No Assignment by Obligors  
+^^New Creditors  
+^^New Parties  
+^^Resignation or Removal of Facility Agent, Security Trustee or Authorised Representative  
+^PROVISIONS RELATING TO OBLIGORS  
+^NOTICES  
+^^Communication of Notices  
+^^Delivery of Notices  
+^REMEDIES, WAIVERS & AMENDMENTS  
+^^No Waiver  
+^^Amendments  
+^^Technical Amendments  
+^^Priorities between Senior Finance Documents  
+^^Amended Deed  
+^TERMINATION  
+^ENGLISH LANGUAGE  
+^PARTIAL INVALIDITY  
+^THIRD PARTY RIGHTS  
+^COUNTERPARTS  
+^HEDGING LIABILITIES CONFLICTS  
+^GOVERNING LAW  
+^JURISDICTION  
+^^Courts of England  
+^^Waiver of Indemnity  
+
+\centered ii
+
+^^Service of Process  
+^^Proceedings in Other Jurisdictions  
+^^General Consent  
+^^Waiver of Immunity  
+SCHEDULE 1 DEED OF ACCESSION  
+SCHEDULE 2 ADDRESS FOR NOTICES  
+SCHEDULE 3 THE ORIGINAL SENIOR BORROWERS AND ORIGINAL SENIOR GUARANTORS  
+SCHEDULE 4 THE EXISTING HEDGE COUNTERPARTIES  
+
+\centered iii
+
+**THIS INTERCREDITOR DEED** is made on 3 [[Date 1]]as amended and restated on 13 [[Date 2]], 10 [[Date 3]], 31 [[Date 3]], 15 [[Date 4]], 30 [[Date 5]] and 8 [[Date 6]] between the following parties:
+
+^**DEUTSCHE BANK AG, [[Address 1: Address]]** (in its capacity as facility agent for the Senior Lenders under the Senior Facilities Agreement, the “**Original** **Facility Agent**”);
+
+^**DEUTSCHE BANK AG, [[Address 1: Address]]** (in its capacity as security trustee under the Senior Facilities Agreement, the “**Original** **Security Trustee**”);
+
+^**THE ORIGINAL SENIOR BORROWERS** listed in Part I of Schedule 3 (*The Original Senior Borrowers*) as original borrowers under the Senior Facilities Agreement (the “**Original Senior Borrowers**”);
+
+(4)**THE ORIGINAL SENIOR GUARANTORS** listed in Part II of Schedule 3 (*The Original Senior Guarantors*) as original borrowers under the Senior Facilities Agreement (the “**Original Senior Guarantors**”);
+
+(5)**THE SENIOR LENDERS** (as defined below);
+
+^**THE INSTITUTIONS** whose names and addresses are set out in Schedule 4 (*The Existing Hedge Counterparties)* (each in its capacity as an Existing Hedge Counterparty, an “**Existing Hedge Counterparty**”);
+
+^**THE INTERGROUP DEBTORS** (as defined below); and
+
+^**THE INTERGROUP CREDITORS** (as defined below).
+
+**IT IS AGREED** as follows:
+
+^ \centered 1. INTERPRETATION  
+^^ \centered 1.1 Terms Defined  
+Terms defined in the Senior Facilities Agreement or (once the facilities made available under the Senior Facilities Agreement have been refinanced in full, and all undrawn commitments thereunder cancelled) the Designated Refinancing Facilities Agreement (each as defined below) shall have the same meaning when used in this Deed unless otherwise defined herein.
+
+^^ \centered 1.2 Definitions 
+
+In this Deed the following terms have the meanings given to them in this Clause.
+
+“**Additional Liability**” means in relation to a Liability, any present and future liabilities and obligations at any time of all or any of the Obligors, both actual and contingent and whether incurred solely or jointly or in any other capacity together with any of the following matters which arises or is incurred as a result of or in connection with:
+
+^^^ \centered (a)any deferral, extension, novation or refinancing of such Liability; 
+
+^^^ \centered (b)any claim for damages, restitution or otherwise made in connection with such     
+
+
+^^^ \centered Liability; 
+
+^^^ \centered (c)any claim against an Obligor resulting from a recovery by such Obligor or any other person of a payment or discharge in respect of such Liability on the grounds of preference or otherwise; 
+
+^^^ \centered (d)any claim for breach of representation, warranty or undertaking or an event of default or under an indemnity or in connection with any other document or agreement evidencing or constituting any other liability or obligation falling within this definition; or 
+
+^^^ \centered (e)any amount (such as post-insolvency interest) which would be included in any of the foregoing but for any discharge, non-provability, unenforceability or non-allowability of the same in any insolvency or other proceedings. 
+
+“**Additional Senior Finance Parties**” means any Senior Finance Parties in respect of any Additional Senior Liabilities.
+
+“**Additional Senior Liabilities**” means any Senior Liabilities which are not outstanding under the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement.
+
+“**Authorised Representative**” means the facility agent, trustee or similar representative in respect of any Series of Senior Liabilities and the Senior Representative, if any.
+
+“**Barclays**” means Barclays Bank PLC.
+
+“**Barclays Intercreditor Agreement**” means that intercreditor agreement dated 3 [[Date 1]] and made between Yorkshire Cable Communications Limited, Sheffield Cable Communications Limited, Yorkshire Cable Properties Limited, Cable [[Address 3: Address]], Barclays and Deutsche Bank AG, [[Address 4: Address]] security trustee for the Beneficiaries.
+
+“**Barclays Liabilities**” has the meaning given to it in the Barclays Intercreditor Agreement.
+
+“**Barclays Security**” has the meaning given to it in the Barclays Intercreditor Agreement.
+
+“**Beneficiaries**” means the First Beneficiary and the Second Beneficiaries.
+
+“C Facility Liabilities” means all present and future obligations and liabilities (whether actual or contingent and whether owed jointly or severally or in any capacity whatsoever) of the Obligors (or any one or more of them) to the Senior Finance Parties (or any one or more of them) by way of principal or interest under or in connection with the C Facility together with any related Additional Liabilities owed to the C Facility Lenders (as defined in the Senior Facilities Agreement).
+
+**“Company”** means Virgin Media Investment Holdings Limited and its successors in title from time to time.
+
+“**Creditors**” means the Beneficiaries and the Intergroup Creditors and any person that becomes party to this Deed in any such capacity pursuant to Clause 18 (*Changes to the Parties*).
+
+“**Deed of Accession**” means a Deed of Accession substantially in the form set out in Schedule 1 (*Deed of Accession*) or in such other form as the Relevant Agent and the Obligors’ Agent shall agree.
+
+“**Designated Refinancing Facilities Agreement**” means, upon repayment of all liabilities under the Senior Facilities Agreement and cancellation of all undrawn commitments thereunder, any Refinancing Facilities Agreement designated or redesignated as the “Designated Refinancing Facilities Agreement” by written notice from the Company to the Security Trustee (with a copy to each Authorised Representative). Only one agreement at a time may be a Designated Refinancing Facilities Agreement.
+
+“**Enforcement Action**” has the meaning given to it in Clause 7.6 (*Authorisation to Security Trustee*).
+
+“**Enforcement Control Event**” means when (x) 60 consecutive Business Days have lapsed since both of the following have occurred at the same time (i) the aggregate outstanding principal amount and undrawn uncancelled commitments under the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement is less than £1.0 billion and (ii) the aggregate outstanding principal amount and undrawn commitments under the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement represents less than [[Percentage 1: Number]]% (sixty percent) of the aggregate outstanding principal amount and undrawn commitments under all Senior Liabilities and (y) both conditions under clauses (i) and (ii) continue to exist on such 60th Business Day.
+
+“**Exposure**” means, in respect of any Hedge Counterparty, an amount equal to the aggregate of:
+
+^^in respect of any hedging transaction of that Hedge Counterparty under any Hedging Agreement that has, as of the date the calculation is made, been terminated or closed out in accordance with the terms of this Deed, the amount, if any, payable to it under any Hedging Agreement in respect of that termination or close out as of the date of termination or close out (and taking into account any interest accrued on that amount since the date of termination or close out) to the extent that amount is unpaid (that amount to be certified by the relevant Hedge Counterparty and as calculated in accordance with the relevant Hedging Agreement); and
+
+^^in respect of any hedging transaction of that Hedge Counterparty under any Hedging Agreement that has, as of the date the calculation is made, not been terminated or closed out, the amount, if any, which would be payable to it under that Hedging Agreement in respect of that hedging transaction, if the date on which the calculation is made was deemed to be an Early Termination Date (as defined in the relevant Hedging Agreement) for which the relevant Hedging Obligor is the Defaulting Party (as defined in the relevant Hedging Agreement), that amount to be certified by the relevant Hedge Counterparty and as calculated in accordance with the relevant Hedging Agreement.
+
+“**Facility Agent**” means the Original Facility Agent or its successor or any agent, trustee or other person fulfilling a similar role under the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement from time to time.
+
+“**Fees**” means any fees, expenses, costs or commissions payable to any of the Senior Finance Parties by any Obligor under or pursuant to any one or more of the Senior Finance Documents.
+
+“**Final Discharge Date**” means the later of the Senior Discharge Date and the Hedging Discharge Date.
+
+“**First Beneficiary**” means the Security Trustee to the extent only of the amounts payable to it in its capacity as such (for its own account) pursuant to the Senior Finance Documents.
+
+“**Group**” means the Ultimate Parent and its Subsidiaries from time to time.
+
+“**Hedge Counterparties**” means, collectively, the Existing Hedge Counterparties and, following their accession to this Deed in accordance with the provisions of Clause 18.3 (*New Creditors*), any New Hedge Counterparties.
+
+“**Hedging Agreement**” means any and each agreement entered into from time to time between an Obligor and a Hedge Counterparty in connection with Hedging Arrangements.
+
+“**Hedging Arrangements**” means any interest rate or currency protection arrangements (whether by way of interest rate or cross currency swap, cap, collar or otherwise) from time to time entered into by any Obligor which arrangements hedge the interest rate or currency exposure of the Group and which are permitted under the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement and which are documented by one or more Hedging Agreements.
+
+“**Hedging Discharge Date**” means the date on which each Hedge Counterparty has notified the Security Trustee that it is satisfied that its Hedging Liabilities have been fully and finally satisfied and no further Hedging Liabilities can arise under or in respect of any Hedging Agreement entered into by such Hedge Counterparty.
+
+“**Hedging Liabilities**” means all present and future Indebtedness and other obligations and liabilities at any time of all or any of the Obligors whether actual or contingent or whether owed or incurred solely or jointly or in any other capacity whatsoever to the Hedge Counterparties (or any one or more of them) under or in connection with any Hedging Agreements together with any related Additional Liabilities owed to any Hedge Counterparty or Hedge Counterparties and together also with all costs, charges and expenses incurred at any time by any Hedge Counterparty or Hedge Counterparties in connection with the protection, preservation or enforcement of its rights under any Hedging Agreements.
+
+“**Hedging Obligor**” means any member of the Bank Group that has entered into a Hedging Agreement.
+
+“**HYD Intercreditor Agreement**” means the intercreditor agreement dated 13 [[Date 7: Date]] between certain of the Obligors, the Senior Finance Parties and the indenture trustee in respect of the Existing High Yield Notes as the same may otherwise be amended, supplemented, novated or restated from time to time.
+
+“**Indebtedness**” means any obligation (whether incurred as a principal or as a surety) for the payment or repayment of money, whether present or future, actual or contingent (including interest and other charges relating to it).
+
+“**Insolvency Event**” means any event where[[“Insolvency Event” means any event where Signatory Email: Identity | Signature]]
+__________________________________________
+{{“Insolvency Event” means any event where Entity => By: [[“Insolvency Event” means any event where Signatory First Name]] [[“Insolvency Event” means any event where Signatory Last Name]]
+Title: [[“Insolvency Event” means any event where Signatory Title]]}}
+
+^^any Obligor makes a general assignment for the benefit of or a composition with its creditors generally or a general moratorium is declared in respect of the Indebtedness of such Obligor;
+
+^^a resolution is passed or an order is made for the winding-up, dissolution or administration of an Obligor or for the appointment of a liquidator, receiver, administrator, administrative receiver, conservator, custodian, trustee or similar officer of it or of any or all of its revenues and assets; or
+
+^^any event occurs which, under the laws of any jurisdiction, has a similar or analogous effect to any of those events mentioned in paragraphs (a) and (b) above.
+
+“**Instructing Party**” means:
+
+(a)prior to the Senior Discharge Date:
+
+^^^^ \centered (i)prior to an Enforcement Control Event, the Instructing Group (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement); or 
+
+^^^^ \centered (ii)upon an Enforcement Control Event, the Senior Finance Parties representing a majority of the aggregate outstanding principal amount and undrawn uncancelled commitments under the Senior Finance Documents at the relevant date of determination; and 
+
+(b)at any time from (and including) the Senior Discharge Date but prior to the Hedging Discharge Date, such Hedge Counterparties whose aggregate Exposure represents not less than 66/% (sixty-six and two-thirds percent) of the aggregate Exposure of all Hedge Counterparties at the relevant date of determination.
+
+“**Intergroup Creditor**” means:
+
+^^as at the date of this Deed, each member of the Group that is a creditor in respect of any Intergroup Liabilities of any Obligor; and
+
+^^at any time hereafter, each person who becomes a creditor in respect of any Intergroup Liabilities and who accedes to this Deed in the capacity of an Intergroup Creditor by its execution and delivery of a Deed of Accession.
+
+“**Intergroup Debtor**” means:
+
+^^as at the date of this Deed, any Obligor that is a debtor in respect of any Intergroup Liabilities; and
+
+^^at any time hereafter, each person who becomes a debtor in respect of any Intergroup Liabilities and who accedes to this Deed in the capacity of an Intergroup Debtor by its execution and delivery of a Deed of Accession.
+
+“**Intergroup** **Liabilities**” means all present and future obligations constituted by Indebtedness owed by any Intergroup Debtor to any Intergroup Creditor together with any related Additional Liabilities owed to any Intergroup Creditor and together also with all costs, charges and expenses incurred by any Intergroup Creditor in connection with the protection, preservation or enforcement of its rights in respect of such amounts.
+
+“**Liabilities**” means any one or more of the Senior Liabilities, the Hedging Liabilities and the Intergroup Liabilities collectively, and “**Liability**” means any of them.
+
+“**New Hedge Counterparty**” means each party to a Hedging Agreement which has acceded to this Deed as a Hedge Counterparty in accordance with the provisions of Clause 18.3 (*New Creditors*) and “**New Hedge Counterparties**” means all such parties.
+
+“**New Intermediate Holdco**” means a limited liability company incorporated in England and Wales that is a direct wholly-owned subsidiary of the Company to which all Subsidiaries of VMIH (other than any finance subsidiary) are transferred.
+
+“**New Senior Liabilities**” shall have the meaning given to such term in Clause 12 (*New Senior Liabilities*) (excluding, for the avoidance of doubt, any credit exposure of a Senior Finance Party, if any, in its capacity as a Hedge Counterparty, if applicable).
+
+“**Obligors**” means the Original Senior Borrowers, the Original Senior Guarantors and any debtor or grantor of guarantees and/or security in respect of the Senior Facilities Agreement, any Refinancing Facilities Agreement or any other Senior Finance Document.
+
+“**Obligors’ Agent**” means the Company in its capacity as agent pursuant to Clause 30.18 (*Obligors’ Agent*) of the Senior Facilities Agreement, or any person acting in a corresponding capacity pursuant to any Designated Refinancing Facilities Agreement.
+
+“**Parent**” means Virgin Media Finance PLC and its successors in title from time to time.
+
+“**Permitted Hedging Payments**” means, subject to Clause 9 (*Subordination on Insolvency*), any payments, receipts and set offs in respect of Hedging Liabilities (including all amounts payable as a result of any early termination or close out of any Hedging Arrangements), but only to the extent that any such payment has fallen due under or in connection with the terms of the relevant Hedging Agreement or otherwise by mutual agreement of the parties thereto.
+
+“**Permitted Payments**” means any payment that (i) is a Permitted Payment (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement) or any other payment permitted under Clause 25.5 (*Dividends, Distributions and Share Capital*) of the Senior Facilities Agreement, or the corresponding provision in the Designated Refinancing Facilities Agreement, and (ii) is otherwise permitted under the Senior Finance Documents.
+
+“**Priority Creditors**” means the Senior Finance Parties and the Hedge Counterparties.
+
+“**Priority Liabilities**” means the Senior Liabilities and the Hedging Liabilities.
+
+“**Prohibited Actions**” means in relation to an Intergroup Liability:
+
+^^^the payment, repayment or purchase of such Intergroup Liability or any part thereof;
+
+^^^the discharge by way of set-off, combination of accounts or other similar action with respect to such Intergroup Liability or any part thereof unless effected pursuant to any mandatory requirement of applicable law;
+
+^^^the creation of any Encumbrance over any or all of the assets or revenues of the Intergroup Debtor in respect of such Intergroup Liability;
+
+^^^the giving of a guarantee or other assurance against financial loss in respect of such Intergroup Liability;
+
+^^^any action whereby the priority as to payment of such Intergroup Liability under this Deed is altered; or
+
+^^^any action prohibited in accordance with Clause 7.4 (*Restrictions on Enforcement by Intergroup Creditors*).
+
+“**Receiver**”means any administrator, administrative receiver, receiver and manager or other receiver, whether appointed pursuant to any Security Document, pursuant to any statute, by a court or otherwise, of all or any of the proceeds of the Liabilities.
+
+“**Refinancing Facilities Agreement**” means any agreement under which debt facilities are made available for the refinancing of the facilities made available under the Senior Facilities Agreement or any Designated Refinancing Facilities Agreement and which is designated as such by the Company by notice to the Security Trustee and any Relevant Agent, provided that the aggregate principal amount of such refinancing indebtedness does not exceed the aggregate principal amount of the Commitments of the Senior Lenders under the Senior Facilities Agreement or any Designated Refinancing Facilities Agreement that it is refinancing plus any amount permitted to be incurred under Clause 12 (*New Senior Liabilities*).
+
+“**Relevant Agent**” means (i) prior to the Enforcement Control Event, the Facility Agent and (ii) after the Enforcement Control Event, the Senior Representative.
+
+“**Second Beneficiaries**” means the Facility Agent, any other Authorised Representatives, the Senior Finance Parties and the Hedge Counterparties.
+
+“**Secured Obligations**”means the Security Trustee Liabilities, the Senior Liabilities and the Hedging Liabilities.
+
+“**Security**” means the security granted by the Obligors pursuant to the Security Documents.
+
+“**Security Documents**” means the Security Documents (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement) and any other document executed at any time by any member of the Group conferring or evidencing any Encumbrance for or in respect of any of the Priority Liabilities.
+
+“**Security Trust Agreement**” means the security trust agreement dated 3 [[Date 1]], made between, amongst others, the Original Security Trustee, the Original Facility Agent, the Company, and the Original Obligors (as defined therein) relating to the Security (and/or any replacement or additional security trust agreement entered into in connection with any Refinancing Facilities Agreement or other Senior Finance Document).
+
+“**Security Trustee**” means the Original Security Trustee or its successor (and/or any replacement or additional security trustee under any Security Trust Agreement).
+
+“**Security Trustee Liabilities**” means the amounts payable to the Security Trustee referred to in the definition of First Beneficiary.
+
+“**Senior Default**” means any Event of Default (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facility Agreement) and any event of default (howsoever described) under any other Senior Finance Document.
+
+“**Senior Discharge Date**” means the first date on which:
+
+^^none of the Senior Finance Parties (including any senior finance parties under any Refinancing Facilities Agreement or other Senior Finance Documents) is under any commitment, obligation or liability (whether actual or contingent) to make advances or provide other financial accommodation to any Obligor under any of the Senior Finance Documents; and
+
+^^all Senior Liabilities (including any Senior Liabilities under any Refinancing Facilities Agreement or other Senior Finance Document) have been unconditionally and irrevocably paid and discharged in full, provided that for these purposes, regard shall not be had to any unclaimed indemnities, tax gross ups or other similar amounts.
+
+“**Senior Facilities Agreement**” means the senior facilities agreement dated 3 [[Date 1]] (as amended and restated from time to time) between *inter alia* the Ultimate Parent, the Original Borrowers, the Original Facility Agent, the Original Security Trustee and the Senior Lenders.
+
+“**Senior Finance Documents**” means (i) the Relevant Finance Documents (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement, or if it is not defined there, the Finance Documents as defined in the Designated Refinancing Facilities Agreement), (ii) any Refinancing Facilities Agreement and (iii) any document evidencing New Senior Liabilities.
+
+“**Senior Finance Parties**” means (i) the Relevant Finance Parties (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement, or if it is not defined there, the Finance Parties as defined in the Designated Refinancing Facilities Agreement) and (ii) any other creditor or designated agent under any of the Senior Finance Documents.
+
+“**Senior Lenders**” means a bank or financial institution or other person which has become (and remains) a party hereto as a Senior Lender in accordance with the provisions of 
+
+Clause 18.3 (*New Creditors*) hereof and in accordance with the provisions of the Senior Facilities Agreement or any Designated Refinancing Facilities Agreement.
+
+“**Senior Liabilities**” means all present and future obligations and liabilities (whether actual or contingent and whether owed jointly or severally or in any capacity whatsoever, but excluding any Hedging Liabilities) of the Obligors (or any one or more of them) to the Senior Finance Parties (or any one or more of them) under or in connection with the Senior Finance Documents, including, without limitation, any New Senior Liabilities provided pursuant to Clause 12 (*New Senior Liabilities*), together with any related Additional Liabilities owed to the Senior Finance Parties and together also with all costs, charges and expenses incurred by each of the Senior Finance Parties in connection with the protection, preservation or enforcement of its rights under the Senior Finance Documents, and provided that for the purposes of the interpretation of the definition of “**Senior Liabilities**” in:
+
+^^^the Security Documents (other than the share charge agreement specified in paragraph 2 of Part 4 of Schedule 4 (*Vanilla Initial Security Documents*) to the Senior Facilities Agreement and the assignment of loans dated 31 [[Date 3]] granted by the Parent in favour of the Security Trustee in respect of the shares of the Company (the “C Facility Security Documents”)) only, Senior Liabilities shall not include any C Facility Liabilities (as defined in the Senior Facilities Agreement); and
+
+^^^the C Facility Security Documents only, Senior Liabilities shall not include any C Facility Liabilities other than the liabilities of the Parent under paragraph (b) of Clause 29.1 (*Guarantee*) and paragraph (b) of Clause 29.2 (*Indemnity*) of the Senior Facilities Agreement.
+
+“**Senior Representative**” means the representative appointed by the Instructing Party to represent the Senior Finance Parties after an Enforcement Control Event, which, in the absence of an appointment by the Instructing Party, shall be the facility agent, trustee or similar representative of the Series of Senior Liabilities representing the largest portion of the aggregate outstanding principal amount and undrawn uncancelled commitments of all Senior Liabilities at the relevant date of determination.
+
+“**Series**”means any series or class of Senior Liabilities outstanding from time to time. For the avoidance of doubt, all Senior Liabilities outstanding under the same facilities agreement, note indenture or other debt agreement shall constitute a single Series unless any tranche or series under such agreement has different rights in respect of the Security, in which case such tranche or series shall constitute a separate Series as the context requires.
+
+“**Ultimate Parent**” means Virgin Media Inc. and its successors in title from time to time.
+
+^^ \centered 1.3 References  
+^^^ \centered (a)Any reference in this Deed to (or to any provisions of or definition contained in) any other document shall be construed as a reference to this Deed or that provision, definition or document as in force for the time being and as amended, supplemented, varied and/or novated from time to time but only to the extent that any such amendment, supplement, variation and/or novation has been made in accordance with the terms of this Deed. 
+
+^^^ \centered (b)Any reference in this Deed to any party to this Deed shall be construed so as to     
+
+
+^^^ \centered include such party’s and any subsequent successors’ transferees and assigns in accordance with their respective interests. 
+
+^^^ \centered (c)Any reference in this Deed to the singular shall include the plural and vice versa and any references to any party in the plural shall be construed as references to any such party in the singular for so long as there is no more than one party to this Deed in the capacity in which such party acts. 
+
+^^^ \centered (d)Any references in this Deed to the definition of “Designated Refinancing Facilities Agreement” or “Refinancing Facilities Agreement” or any provisions using such defined term are intended to be effective following the designation of a Designated Refinancing Facilities Agreement or Refinancing Facilities Agreement in accordance with the definition of such term. 
+
+^^ \centered 1.4 Construction  
+Any reference in this Deed to:
+
+“**costs**”, “**charges**”, “**remuneration**” or “**expenses**” include any value added, turnover or similar tax charged in respect thereof.
+
+“**tax**” shall be construed so as to include any tax, levy, impost, duty or other charge of a similar nature (including any penalty or interest payable in connection with any failure to pay or any delay in paying any of the same);
+
+^^“**person**” shall be construed as a reference to any person, firm, company, corporation, government, state or agency of state or any association or partnership (whether or not having separate legal personality) of two or more of the foregoing; and
+
+the “**winding-up**”, “**dissolution**” or “**administration**” of a company or corporation shall be construed so as to include any equivalent or analogous proceedings under the law of the jurisdiction in which such company or corporation is incorporated or any jurisdiction in which such company or corporation carries on business, including the seeking of liquidation, winding-up, reorganisation, dissolution, administration, arrangement, adjustment, protection from creditors or relief of debtors.
+
+^ \centered 2. PRIORITIES AND SUBORDINATION  
+^^ \centered 2.1 Priorities and Subordination  
+Each of the parties to this Deed hereby agrees and acknowledges that, save as expressly provided to the contrary in this Deed, the following order of priorities shall apply to the liabilities referred to below which shall be paid and discharged in the following order:
+
+^^^^ \centered (i)first, the Senior Liabilities and the Hedging Liabilities *pari passu* without any priority amongst themselves; and 
+
+^^^^ \centered (ii)second, the Intergroup Liabilities, 
+
+and that as between the parties to this Deed such order of priorities shall prevail irrespective of whether or not an Insolvency Event shall have occurred, so that before and after the occurrence of an Insolvency Event, but save as expressly provided to the contrary in this 
+
+Deed, a liability which ranks after other liabilities in the foregoing order of priorities shall be subordinate in right of payment to those other liabilities.
+
+^^ \centered 2.2 Priorities not affected 
+
+The order of priorities set out in Clause 2.1 (*Priorities and Subordination*) shall apply irrespective of (a) the date on which this Deed or any of the Senior Finance Documents was executed, registered or notice thereof was given to any person and (b) unless otherwise provided in this Deed, any reduction or increase in any of the Senior Liabilities or any amendment or variation of any of their terms.
+
+^^ \centered 2.3 Liabilities not affected  
+Each of the parties to this Deed hereby agrees and acknowledges that:
+
+^^^ \centered (a)notwithstanding any term of this Deed postponing, subordinating or prohibiting the payment of any of the Liabilities, each such Liability shall remain owing in accordance with its terms and interest and default interest will accrue accordingly; and 
+
+^^^ \centered (b)no delay in exercising any rights or remedies under any of the documents regulating any Liability by reason of any term of this Deed postponing, restricting or prohibiting such exercise shall operate as a waiver of any of those rights and remedies. 
+
+^ \centered 3. UNDERTAKINGS OF THE OBLIGORS  
+^^ \centered 3.1 Hedging Liabilities  
+Until the Senior Discharge Date, except as the Instructing Party shall previously have consented in writing, no Obligor will pay, repay or prepay any of the Hedging Liabilities except as contemplated in Clause 4.1 (*Hedge Counterparties*).
+
+^^ \centered 3.2 Intergroup Liabilities  
+Until the Final Discharge Date, each Intergroup Debtor undertakes to the Security Trustee and each of the other Beneficiaries that it shall not take, nor permit any Intergroup Creditor nor cooperate with any Intergroup Creditor to take the benefit of, any Prohibited Action in relation to any Intergroup Liability except as contemplated by Clause 5 (*Permitted Payments*).
+
+^ \centered 4. UNDERTAKINGS OF THE CREDITORS  
+^^ \centered 4.1 Hedge Counterparties  
+Until the Senior Discharge Date, a Hedge Counterparty will not demand or receive any payment, prepayment or repayment in respect of the Hedging Liabilities except:
+
+^^^ \centered (a)subject to Clause 5.2 (*Suspension of Permitted Hedging Payments*), Permitted Hedging Payments; 
+
+^^^ \centered (b)in respect of the proceeds of the Security distributed by the Security Trustee pursuant to and in accordance with Clause 8.2 (*General Application of Proceeds*);    
+
+
+^^^ \centered (c)any demand or receipt permitted pursuant to Clause 7.5 (*Permitted Enforcement of Hedging Liabilities*); or 
+
+^^^ \centered (d)otherwise with the prior written consent of the Security Trustee (acting on the instructions of the Instructing Party). 
+
+^^ \centered 4.2 New Hedging Agreements  
+^^^ \centered Each Hedging Obligor and each Hedge Counterparty agrees that (save as the Instructing Party shall previously have consented in writing) any Hedging Agreement entered into after the date hereof: 
+
+^^^ \centered (a)shall be in the form of an Acceptable Hedging Agreement; and 
+
+^^^ \centered (b)will include an Event of Default (as defined in the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement) as an Event of Default (as defined therein). 
+
+^^ \centered 4.3 Provision of New Hedging Agreements  
+Each Hedging Obligor agrees to provide the Security Trustee with copies of any Hedging Agreements entered into after the date hereof as soon as reasonably practicable after the execution thereof.
+
+^^ \centered 4.4 Obligations of the Intergroup Creditors  
+Until the Final Discharge Date, each Intergroup Creditor undertakes to the Security Trustee and each of the other Beneficiaries that it shall not agree to, or take the benefit of, any Prohibited Action in relation to any Intergroup Liability except as contemplated in Clause 5 (*Permitted Payments*).
+
+^^ \centered 4.5 Undertakings to the Security Trustee 
+
+Each Priority Creditor and each Obligor (as the case may be) gives the following undertakings to the Security Trustee:
+
+^^^ \centered (a)it shall provide the Security Trustee with all directions and information as the Security Trustee may reasonably require for the purposes of carrying out its duties and obligations under this Deed and the Security Documents; 
+
+^^^ \centered (b)it shall not take any proceedings or seek to assert any claim against any officer or employee or agent of the Security Trustee in respect of any claim it might have against the Security Trustee or in respect of any act or omission of any kind (including gross negligence or wilful misconduct) by that officer, employee or agent in relation to any Senior Finance Document; and 
+
+^^^ \centered (c)it shall give notice to the Security Trustee and each Authorised Representative promptly upon its becoming aware of the occurrence or remedying of a Senior Default, and acknowledges that the Security Trustee has entered into this Deed in reliance on the undertakings set out in this Clause 4.5.
+
+^^ \centered 4.6 Undertakings in respect of the HYD Intercreditor Agreement 
+
+Notwithstanding anything to the contrary in the HYD Intercreditor Agreement, each Priority Creditor hereby agrees that only the Instructing Party shall exercise any rights or powers as the “Instructing Group” under the HYD Intercreditor Agreement and no Priority Creditors (other than the Instructing Party) shall exercise or seek to exercise any such rights or powers or contest, protest or object to any such exercise by the Instructing Party.
+
+^ \centered 5. PERMITTED PAYMENTS 
+
+^^ \centered 5.1 Permitted Payments Prior to the Senior Discharge Date 
+
+Subject to Clause 6.1 (*Turnover*) and Clause 6.3 (*Failure of Trusts*):
+
+^^^ \centered (a)any Intergroup Debtor may pay in cash to any Intergroup Creditor and any Intergroup Creditor may receive and retain (or apply in respect of any liability) payments received from any Intergroup Debtor in respect of any Intergroup Liability: 
+
+^^^^ \centered (i)provided that no Senior Default has occurred and is continuing or is likely to occur as a result thereof, for the purposes of funding any Permitted Payments; or 
+
+^^^^ \centered (ii)at any time after the occurrence of a Senior Default, for the purposes of funding any Permitted Payments permitted by the provisions of Clause 5.2 (*Suspension of Permitted Hedging Payments*); 
+
+^^^ \centered (b)notwithstanding any other term of this Deed, the Intergroup Liabilities may be: 
+
+^^^^ \centered (i)reduced or cancelled in consideration of the issue of one or more shares or other securities by any Intergroup Debtor to any Intergroup Creditor or by any waiver of any such Intergroup Liabilities or by the making of any capital contribution by any Intergroup Creditor to any Intergroup Debtor; 
+
+^^^^ \centered (ii)converted into loan stock or convertible unsecured loan stock or, if so converted, may be converted back into debt; or 
+
+^^^^ \centered (iii)discharged in consideration for the receipt of any cash received pursuant to a Funding Passthrough or any non-cash asset received pursuant to an Asset Passthrough or pursuant to any corresponding definition in the Designated Refinancing Facilities Agreement, 
+
+^^^^ \centered provided that where any Intergroup Creditor has granted security to the Security Trustee pursuant to any Security Document over its right, title and benefit to the relevant Intergroup Liabilities, any action referred to in sub-paragraphs (i) to (ii) above shall only be permitted to the extent that the relevant asset into which the Intergroup Liabilities are converted, or in consideration for which they are discharged, (if any) are subject to existing Security in favour of the Security Trustee or will be made subject to Security in favour of the Security Trustee (in form and substance substantially similar to the existing Security in favour of the Security Trustee or     
+
+
+^^^^ \centered otherwise in form and substance as may be reasonably required by the Relevant Agent) within 10 Business Days of such conversion. 
+
+^^ \centered 5.2 Suspension of Permitted Hedging Payments 
+
+Subject to Clause 9 (*Subordination on Insolvency*), no Obligor shall make and no Hedge Counterparty shall receive any Permitted Hedging Payments if:
+
+^^^ \centered (a)a Senior Default (other than a default in respect of any Hedging Arrangement) has occurred and is continuing 20 Business Days after its occurrence and/or the Relevant Agent has taken any of the steps it is entitled to take by reason of the occurrence of such Senior Default; or 
+
+^^^ \centered (b)a Senior Default (other than a default in respect of any Hedging Arrangement) has occurred and a notice is served on the relevant Obligor and such Hedge Counterparty by the Security Trustee stating that such Senior Default has occurred and is continuing and that no Permitted Hedging Payments can be made. 
+
+^^^ \centered Any payments in respect of Hedging Liabilities made after paragraph (a) of this Clause 5.2 has become applicable or after a notice in accordance with paragraph (b) of this Clause 5.2 is served, shall not constitute Permitted Hedging Payments. Following the occurrence of any Senior Default referred to in paragraphs (a) or (b) of this Clause 5.2, any Hedge Counterparty may suspend any payments due from it to any Obligor under any Hedging Arrangement to which it is a party. If the Relevant Agent is satisfied that the circumstances or the relevant breach which gave rise to the Senior Default referred to in paragraphs (a) or (b) above no longer apply or has been cured (as the case may be), it may, by notice to the Obligors’ Agent and the Hedge Counterparties state that payments may be made in respect of Hedging Liabilities so as to constitute Permitted Hedging Payments. Upon receipt of such notice, any Hedge Counterparties that have suspended payments to any Obligor and any Obligors that have suspended payments to any Hedge Counterparty, in each case under any Hedging Arrangement, shall promptly recommence such payments. 
+
+^^ \centered 5.3 Senior Default 
+
+^^^ \centered Notwithstanding the terms of the Senior Finance Documents, prior to the Senior Discharge Date after the service of a notice under Clause 27.17 (*Acceleration*) of the Senior Facilities Agreement (or the comparable provision in the Designated Refinancing Facilities Agreement) or any of the Senior Liabilities having been accelerated or otherwise declared due and payable prior to their stated maturity under any other Senior Finance Document, in each case following the occurrence of a Senior Default, all proceeds of enforcement of the Security Documents granted by the Obligors shall forthwith be paid or delivered direct to the Security Trustee for the benefit of the Priority Creditors for application pursuant to and in accordance with Clause 8.2 (*General Application of Proceeds*). 
+
+^ \centered 6. TURNOVER 
+
+^^ \centered 6.1 Turnover 
+
+If at any time prior to the Final Discharge Date:
+
+^^^ \centered (a)any Hedge Counterparty receives a payment (including by way of set-off) or     
+
+
+^^^ \centered distribution in cash or in kind of, or on account of, any Hedging Liabilities other than a Permitted Hedging Payment; 
+
+^^^ \centered (b)any Hedge Counterparty receives the proceeds of any enforcement of any Security on account of any Hedging Liabilities (including by way of set-off or combination of accounts) unless those proceeds are received pursuant to Clause 8.2 (*General Application of Proceeds*); 
+
+^^^ \centered (c)any Intergroup Creditor receives in respect or on account of, any Intergroup Liabilities a payment or distribution (in cash or in kind) from any Obligor which is not permitted by Clause 5 (*Permitted Payments*) and which is not made in accordance with the provisions of Clause 8.2 (*General Application of Proceeds*); or 
+
+^^^ \centered (d)any Obligor or its estate or any liquidator, receiver or like officer consequent upon its winding-up makes any payment or distribution (in cash or in kind) in respect or on account of any of the Intergroup Liabilities which is not permitted by Clause 5 (*Permitted Payments*) or which is not made in accordance with the provisions of Clause 8.2 (*General Application of Proceeds*), 
+
+the receiving Creditor will hold the same for and on behalf of and to the order of the Security Trustee, and pay (after deducting from the amount received or recovered the costs, liabilities and expenses (if any) incurred by the relevant Creditor in recovering such amount) and distribute upon demand all such amounts to the Security Trustee for application in accordance with Clause 8.2 (*General Application of Proceeds*).
+
+^^ \centered 6.2 Subrogation 
+
+^^^ \centered (a)If the Priority Liabilities are wholly or partially paid out of any proceeds received in respect or on account of the Intergroup Liabilities owing to one or more of the Intergroup Creditors, such Intergroup Creditor shall to that extent be subrogated to the rights of the Priority Creditors in respect of the Priority Liabilities so paid, including all security for those Priority Liabilities, but no Intergroup Creditor may exercise those subrogation rights or receive any payments in respect thereof on or before the Final Discharge Date without the prior written consent of the Relevant Agent and the Security Trustee. 
+
+^^^ \centered (b)To the extent that any subrogation contemplated in paragraph (a) above does not occur for any reason, as between the Obligors and the Intergroup Creditors, the Intergroup Liabilities will be deemed not to have been reduced or discharged to the extent of any payment or distribution to the Security Trustee, for the benefit of the Priority Creditors (or any of them) under Clause 6.1 (*Turnover*). 
+
+^^^ \centered (c)The Obligors hereby agree that they shall not exercise any rights of subrogation in relation to any claim they may have pursuant to this Clause 6.2, under applicable law or otherwise until after the Final Discharge Date. 
+
+^^ \centered 6.3 Failure of Trusts 
+
+If for any reason any trust which is to arise (pending payment of any amount to the Security Trustee for the benefit of the Priority Creditors (or any of them)) pursuant to Clause 6.1 (*Turnover*) or Clause 8.7 (*Preservation of Liabilities*) of this Deed fails or for any reason cannot be given effect to (including without limitation, by reason of the laws of any jurisdiction in which any property which is subject to such trust may be situate), the relevant Creditor will pay to the Security Trustee and the Security Trustee shall hold for and to the order of the Priority Creditors, for application in accordance with Clause 8.2 (*General Application of Proceeds*), an amount equal to the amount (or as the case may be transfer value of the relevant property) intended to be so held on trust.
+
+^ \centered 7. ENFORCEMENT 
+
+^^ \centered 7.1 Restrictions on Enforcement by Hedge Counterparties 
+
+Save as permitted by Clause 7.5 (*Permitted Enforcement of Hedging Liabilities*), until the Senior Discharge Date, each Hedge Counterparty undertakes to the Security Trustee and each of the other Beneficiaries that it will not:
+
+^^^ \centered (a)accelerate any of the Hedging Liabilities or otherwise declare any of the Hedging Liabilities due and payable prior to its stated maturity whether on an event of default or otherwise; 
+
+^^^ \centered (b)exercise any right to crystallise, or require the Security Trustee to crystallise, any floating charge created pursuant to the Security Documents; 
+
+^^^ \centered (c)exercise any right to enforce, or require the Security Trustee to enforce, any Encumbrance created pursuant to the Security Documents by sale, possession, appointment of a receiver or otherwise, or any rights under or pursuant to the provisions of any guarantee given by any Obligor in relation to all or any part of the Hedging Liabilities; 
+
+^^^ \centered (d)petition for (or vote in favour of any resolution for) or initiate or support or take any steps with a view to any insolvency, liquidation, reorganisation, administration or dissolution proceedings or any voluntary arrangement or assignment for the benefit of creditors or any similar proceedings involving any Obligor; or 
+
+^^^ \centered (e)exercise the remedy of foreclosure in respect of any asset the subject of an Encumbrance created pursuant to any Security Document, 
+
+provided that a Hedge Counterparty shall be entitled to at all times and from time to time to bring legal proceedings against any person solely for the purpose of:
+
+^^^^ \centered (i)obtaining injunctive relief (or any analogous remedy outside England and Wales) to restrain any actual or putative breach of any Senior Finance Document to which it is a party; 
+
+^^^^ \centered (ii)obtaining specific performance (other than specific performance to make a payment) with no claim for damages; or 
+
+^^^^ \centered (iii)requesting judicial interpretation of any provision of any Senior Finance Document to which it is a party with no claim for damages.    
+
+^^ \centered 7.2 Restrictions on Enforcement by Additional Senior Finance Parties 
+
+Each of the Additional Senior Finance Parties agrees that, without the prior written consent of the Relevant Agent or the Instructing Party, it will not:
+
+^^^ \centered (a)exercise or seek to exercise any right to crystallise, or require the Security Trustee to crystallise, any floating charge created pursuant to the Security Documents; 
+
+^^^ \centered (b)exercise or seek to exercise any right to enforce, or require the Security Trustee to enforce, any Encumbrance created pursuant to the Security Documents by sale, possession, appointment of a receiver, attachment, set-off, execution or otherwise; 
+
+^^^ \centered (c)exercise or seek to exercise the remedy of foreclosure in respect of any asset the subject of an Encumbrance created pursuant to any Security Document; 
+
+^^^ \centered (d)petition for (or vote in favour of any resolution for) or initiate or support or take any steps with a view to any insolvency, liquidation, reorganisation, administration or dissolution proceedings or any voluntary arrangements or assignment for the benefit of creditors or any similar proceedings involving an Obligor; 
+
+^^^ \centered (e)institute or commence, or join with any person in commencing any action or proceeding with respect to the rights and remedies described on paragraphs (a) to (d), inclusive, of this Clause 7.2; 
+
+^^^ \centered (f)contest or support any other person in contesting, in any proceedings, the perfection, priority, validity or enforceability of all or any part of the Security held by or on behalf of the Priority Creditors or the validity or enforceability of any of the Priority Liabilities or of the priorities, rights or duties established by this Deed; 
+
+^^^ \centered (g)contest, protest or object to any enforcement or foreclosure proceeding or action or any other rights and remedies relating to the Security brought by the Security Trustee or any Senior Lender under the Senior Finance Documents or object to the forbearance by either the Security Trustee or the Senior Lenders from bringing or pursuing any enforcement or foreclosure proceeding or action or any other exercise of any rights or remedies relating to the Security; or 
+
+^^^ \centered (h)take or cause to be taken any action the purpose or intent of which is, or could be, to interfere, hinder or delay, in any manner, whether by judicial proceedings or otherwise, any sale, transfer or other disposition of the Security by the Security Trustee. 
+
+^^ \centered 7.3 Permitted Enforcement by Senior Finance Parties 
+
+Except as otherwise specifically provided in this Deed and without limitation to the other terms of this Deed, the Senior Finance Parties shall have all the rights and remedies available to them under the Senior Finance Documents to which they are a party upon the occurrence of a Senior Default. Without limiting the generality of the foregoing, each Senior Finance Party shall have the independent right, exercised in accordance with the applicable Senior Finance Documents and applicable law, to do any of the following:
+
+^^^ \centered (a)demand payment, declare prematurely due and payable or otherwise seek to accelerate payment of or place on demand all or any part of the required payment of interest or     
+
+
+^^^ \centered principal constituting Senior Liabilities owing to such Senior Finance Party, pursuant to the Senior Finance Documents (other than the Security Documents (in respect of which only the Security Trustee may take such actions)) to which it is a party; 
+
+^^^ \centered (b)take any action in order to perfect, preserve or protect its rights in any Security, provided such action shall not impair the rights of the Security Trustee or any other Priority Creditor; 
+
+^^^ \centered (c)institute suits or legal proceedings or file any pleadings, objections, motions or agreements against any Obligor (A) under the terms of the applicable Senior Finance Documents (other than the Security Documents (in respect of which only the Security Trustee may take such actions)) for collection of the amounts owing thereunder, (B) to seek injunctive relief to restrain any actual or putative breach of any Senior Finance Document (other than any Security Document (in respect of which only the Security Trustee may take such actions)) or for specific performance or any other similar remedy, or (C) to assert rights or interests available to unsecured creditors of the Obligors, including arising under any Insolvency Event; 
+
+^^^ \centered (d)file any necessary or responsive pleadings in opposition to any pleading filed by any person objecting to or otherwise seeking disallowance of the rights of any Senior Finance Party in the Security; or 
+
+^^^ \centered (e)in the case of any Insolvency Event, file a claim or statement of interest with respect to the Senior Liabilities, 
+
+in each case above, to the extent not inconsistent with the express terms of this Deed, including, without limitation, Clause 7.2 (*Restrictions on Enforcement by Additional Senior Finance Parties*).
+
+^^ \centered 7.4 Restrictions on Enforcement by Intergroup Creditors 
+
+Until the Final Discharge Date, each Intergroup Creditor undertakes to the Security Trustee and to each of the Beneficiaries that it will not:
+
+^^^ \centered (a)accelerate any of the Intergroup Liabilities due and payable prior to their stated maturity whether on an event of default or otherwise (but without prejudice to the ability of the Intergroup Creditor to demand repayment of the Intergroup Liabilities to give effect to a Permitted Payment); 
+
+^^^ \centered (b)enforce any of the Intergroup Liabilities by execution or otherwise or sue for or institute legal proceedings to recover all or any part of the Intergroup Liabilities; 
+
+^^^ \centered (c)exercise any right to crystallise, or require the Security Trustee to crystallise, any floating charge created pursuant to the Security Documents; 
+
+^^^ \centered (d)exercise any right to enforce, or require the Security Trustee to enforce, any Encumbrance created pursuant to the Security Documents by sale, possession, appointment of a receiver or otherwise; or 
+
+^^^ \centered (e)petition for (or vote in favour of any resolution for) or initiate or support or take any steps with a view to any insolvency, liquidation, reorganisation, administration or dissolution proceedings or any voluntary arrangement or assignment for the benefit of     
+
+
+^^^ \centered creditors or any similar proceedings involving an Obligor. 
+
+^^ \centered 7.5 Permitted Enforcement of Hedging Liabilities 
+
+^^^ \centered (a)Notwithstanding the provisions of Clause 7.1 (*Restrictions on Enforcement by Hedge Counterparties*) or any other Clause of this Deed: 
+
+^^^^ \centered (i)to the extent it is able to do so under the relevant Hedging Agreement, a Hedge Counterparty may terminate or close-out in whole or in part any hedging transaction under the Hedging Agreement prior to its stated maturity: 
+
+^^^^^ \centered (A) if any Senior Liabilities have been declared to be due and payable under Clause 27.17 (*Acceleration*) or due and payable under Clause 27.18 (*Repayment on Demand*) of the Senior Facilities Agreement or any similar or analogous provisions of any Refinancing Facilities Agreement or other Senior Finance Document or the Security Trustee or any Senior Finance Party has exercised any right to enforce any Encumbrance created pursuant to the Security Documents; 
+^^^^^ 
+^^^^^ \centered (B) if (x) the obligations of the relevant Obligor under the Hedging Agreement cease to be Hedging Liabilities which rank *pari passu* with the Senior Liabilities under Clause 2.1 (*Priorities and Subordination*) or on a *pro rata* basis of payment to the other Second Beneficiaries under Clause 8.2 (*General Application of Proceeds*), (y) this Deed is amended in contravention of paragraph (c) of Clause 21.2 (*Amendments*), or (z) such Hedge Counterparty ceases to be a Priority Creditor in its capacity as a party to a Hedging Agreement or the Hedging Liabilities in respect of the relevant Hedging Agreement cease to be Secured Obligations; 
+^^^^^ 
+^^^^^ \centered (C) if an Illegality or Tax Event, Tax Event Upon Merger or a Force Majeure Event (each defined in the 1992 ISDA Master Agreement or 2002 ISDA Master Agreement, as published by the International Swaps and Derivatives Association, Inc., as applicable) has occurred in respect of that Hedging Agreement; 
+^^^^^ 
+^^^^^ \centered (D) if an Event of Default has occurred under either clause 27.6 (*Insolvency*), clause 27.7 (*Winding-up*) or clause 27.8 (*Execution or Distress*), or clause 27.9 (*Similar Events*)by reference to clause 27.6 (*Insolvency*), clause 27.7 (*Winding-up*) or clause 27.8 (*Execution or Distress*), of the Senior Facilities Agreement or the comparable provision in the Designated Refinancing Facilities Agreement in relation to an Obligor which is party to that Hedging Agreement; 
+^^^^^ 
+^^^^^ \centered (E) to the extent that that termination or close-out by the Hedge Counterparty is necessary to comply with any of the terms of this Deed; 
+^^^^^ 
+^^^^^ \centered (F) if the Instructing Party gives its prior consent to that termination or close-out being made; or    
+
+^^^^^ 
+^^^^^ \centered (G) at any time by mutual agreement of the relevant Obligor unless a Senior Default has occurred and a notice is served on the relevant Obligor and such Hedge Counterparty by the Security Trustee stating that such Senior Default has occurred and is continuing and that no termination or close-out can be made pursuant to this Clause 7.5(a)(i)(G). 
+^^^^^ 
+^^^^ \centered (ii)**if an Obligor has defaulted on any payment due under a Hedging Agreement (after allowing any applicable notice or grace periods) and the default has continued unwaived for more than 10 days after notice of that default has been given to the Relevant Agent, the relevant Hedge Counterparty:** 
+
+^^^^^ \centered (A) may, to the extent it is able to do so under the relevant Hedging Agreement, terminate or close-out in whole or in part any hedging transaction under that Hedging Agreement; and 
+^^^^^ 
+^^^^^ \centered (B) until such time as the Security Trustee has given notice to that Hedge **Counterparty that it is exercising any right to enforce any Encumbrance created pursuant to the Security Documents, shall be entitled to exercise any right it might otherwise have to sue for, commence or join legal or arbitration proceedings against the relevant Obligor to recover any Hedging Liabilities due under that Hedging Agreement; and** 
+^^^^^ 
+^^^^ \centered (iii)**after the occurrence of an Insolvency Event in relation to any Obligor, each Hedge Counterparty shall be entitled to exercise any right it may otherwise have in respect of that Obligor to:** 
+
+^^^^^ \centered (A) prematurely close-out or terminate any Hedging Liabilities of that Obligor; 
+^^^^^ 
+^^^^^ \centered (B) make a demand under any guarantee, indemnity or other assurance against loss given by that Obligor in respect of any Hedging Liabilities; 
+^^^^^ 
+^^^^^ \centered (C) exercise any right of set-off or take or receive any payment in respect of any Hedging Liabilities of that Obligor; or 
+^^^^^ 
+^^^^^ \centered (D) claim and prove in the liquidation of that member of the Group for the Hedging Liabilities owing to it, 
+^^^^^ 
+^^^ \centered provided always that, subject to the occurrence of the events and circumstances specified under either paragraph (a) or (b) of Clause 5.2 (*Suspension of Permitted Hedging Payments*), any amounts received in respect of Hedging Liabilities as a result of action permitted to be taken under this Clause 7.5 shall promptly upon receipt be paid by the relevant Hedge Counterparty to the Security Trustee for the benefit of the Beneficiaries to hold upon trust for application in accordance with Clause 8.2 (*General Application of Proceeds*) (and pending such payment to the Security Trustee, the Hedge Counterparty will save as specified otherwise hold the amount received on trust for the purposes of this Deed).    
+
+
+^^^ \centered (b)Each Hedging Obligor and each Hedge Counterparty agrees that (save as the Instructing Party shall previously have consented in writing): 
+
+^^^^ \centered (i)if upon termination of any transaction entered into under a Hedging Agreement effected following an Event of Default (as defined therein), a settlement amount or other amount falls due from the relevant Hedge Counterparty to the relevant Obligor, that amount shall be paid to the Security Trustee and treated as if it were the proceeds of enforcement of the security conferred by the Security Documents and applied in accordance with Clause 8.2 (*General Application of Proceeds*); and 
+
+^^^^ \centered (ii)the relevant Hedge Counterparty will exercise any rights it may have to terminate the hedging transactions under the Hedging Agreement (unless the Instructing Party otherwise agrees or requires) as soon as reasonably practicable after the date on which the Relevant Agent serves a notice confirming that any of the Senior Liabilities have been declared due and payable under any of the Senior Finance Documents. 
+
+^^ \centered 7.6 Authorisation to Security Trustee 
+
+^^^ \centered Subject to the terms of the Senior Finance Documents, at any time after a Senior Default has occurred and whilst it is continuing the Security Trustee may take such steps as it deems necessary or advisable: 
+
+^^^^ \centered (i)to perfect or enforce any of the Security granted in its favour; 
+
+^^^^ \centered (ii)to effect any disposal or realisation or enforcement of any of the Liabilities (including by any acceleration thereof); 
+
+^^^^ \centered (iii)to collect and receive any and all payments or distributions which may be payable or deliverable in relation to any of the Liabilities; or 
+
+^^^^ \centered (iv)otherwise to give effect to the intent of this Deed, 
+
+(each, an “**Enforcement Action**”) provided always that:
+
+^^^^^ \centered (A) the Security Trustee may refrain from enforcing the Security unless and until instructed to do so by the Instructing Party and no Priority Creditors or Authorised Representative shall contest or object to any Enforcement Action being brought by the Security Trustee on the instructions of the Instructing Party and no party shall take or receive any Security or any proceeds of any Security in connection with the exercise of any right or remedy (including set off) with respect to the Security other than the Security Trustee acting on the instructions of the Instructing Party in accordance with this Deed;    
+
+^^^^^ 
+^^^^^ \centered (B) the Security Trustee shall have the exclusive right and the Instructing Party shall have the exclusive right to instruct the Security Trustee to enforce rights, exercise remedies (including set-off) and make determinations regarding the release, disposition, or restrictions with respect to the Security, subject to the provisions of this Clause 7 and in exercising such rights and remedies, the Security Trustee and the Instructing Party may enforce the provisions of the Senior Finance Documents and exercise the remedies thereunder, all in such order and in such manner as they may determine in the exercise of their sole discretion; and 
+^^^^^ 
+^^^^^ \centered (C) subject to paragraph (b) of Clause 7.11 (*Manner of Enforcement*), if the Instructing Party instructs the Security Trustee to enforce the Security, it may do so in such manner as it deems fit, having regard solely to the interests of the Beneficiaries. Neither the Security Trustee, the Relevant Agent nor any other Senior Finance Party shall be responsible to any other Creditor for any failure to enforce or to maximise the proceeds of any enforcement, and may cease any such enforcement at any time. 
+^^^^^ 
+^^ \centered 7.7 Release of Security on Enforcement and Disposal after Enforcement Action 
+
+^^^ \centered (a)Other than under (and without prejudice to) the Senior Facilities Agreement or any Refinancing Facilities Agreement, if any assets are sold or otherwise disposed of (i) by (or on behalf of) the Security Trustee, (ii) as a result of a sale by an administrator or liquidator, or (iii) by an Obligor at the request of the Security Trustee (acting on the instructions of or with the consent of the Instructing Party), in each case of the foregoing, either as a result of the enforcement of the Security or a disposal by an Obligor after any Enforcement Action, the Security Trustee shall be authorised (at the cost of the Obligors) to release those assets from the Security and is authorised to execute or enter into, on behalf of and, without the need for any further authority from any of the Priority Creditors or Obligors: 
+
+^^^^ \centered (i)any release of the Security or any other claim over that asset and to issue any certificates of non-crystallisation of any floating charge that may, in the absolute discretion of the Security Trustee, be considered necessary or desirable; 
+
+^^^^ \centered (ii)if the asset which is disposed of consists of all of the shares (which are held by an Obligor) in the capital of an Obligor or any holding company or Subsidiary of that Obligor, any release of that Obligor or holding company or Subsidiary from all liabilities it may have to any Priority Creditor or other Obligor, both actual and contingent in its capacity as a guarantor or borrower (including any liability to any other Obligor by way of guarantee, contribution, subrogation or indemnity and including any guarantee or liability arising under or in respect of the Senior Finance Documents) and a release of any Security granted by that Obligor or holding company or Subsidiary over any of its assets under any of the Security Documents; and 
+
+^^^^ \centered (iii)if the asset which is disposed of consists of all of the shares (which are held by an Obligor) in the capital of an Obligor or any holding company or Subsidiary of that Obligor and if the Security Trustee wishes to dispose of any Liabilities owed by that Obligor, any agreement to dispose of all or part of those     
+
+
+^^^^ \centered Liabilities on behalf of the relevant Priority Creditors, Obligors or Agents (with the proceeds thereof being applied as if they were the proceeds of enforcement of the Security) provided that the Security Trustee shall take reasonable care to obtain a fair market price in the prevailing market conditions (though the Security Trustee shall have no obligation to postpone any disposal in order to achieve a higher price), 
+
+^^^ \centered provided that (A) no liabilities of the Parent, the Company or any Finance Subsidiary, in each case in its capacity as a borrower or issuer under any Senior Finance Documents, may be disposed of or released pursuant to this Clause 7.7, (B) any asset which is disposed of is released from the claims of all Priority Creditors, (C) the proceeds of such disposal are applied in accordance with Clause 8 (*Proceeds of Enforcement of Security*) hereof, and (D) no guarantees of any notes issued by the Parent, the Company or any Finance Subsidiary under an indenture may be disposed of pursuant to sub-paragraph (iii) above but may, to the extent applicable, be released pursuant to sub-paragraph (ii) above. 
+
+^^^ \centered (b)No such release under paragraph (a) above will affect the obligations and/or liabilities of: 
+
+^^^^ \centered (i)any other member of the Group to any other Creditors; or 
+
+^^^^ \centered (ii)any Intergroup Creditors to any of the Beneficiaries. 
+
+^^ \centered 7.8 No New Encumbrances 
+
+Until the Senior Discharge Date, no Obligor shall grant or permit any additional Encumbrances, or take any action to perfect any additional Encumbrances, on any asset or property to secure any Series of Senior Liabilities unless it has also granted an Encumbrance on such asset or property to secure all of the other Series of Senior Liabilities to the extent legally possible and without undue burden on the Group (excluding limitations or exclusions in the Security provided to any Series pursuant to the terms of the Senior Finance Documents in respect of such Series) and has taken all actions to perfect such Encumbrances. To the extent that the foregoing provisions are not complied with for any reason, without limiting any other rights and remedies available to the Security Trustee or other Senior Finance Parties, any amounts received by any Senior Finance Party in contravention of this Clause 7.8 shall forthwith be paid to the Security Trustee for the benefit of the Priority Creditors for application pursuant to and in accordance with Clause 8.2 (*General Application of Proceeds*)
+
+^^ \centered 7.9 Disposals 
+
+Any disposal of any shares or assets which are subject to the Security or any release thereof from the Security which is or is to be effected at any time, other than with respect to Enforcement Action, shall be effected in accordance with and subject to the provisions of the Senior Finance Documents.
+
+^^ \centered 7.10 No Enforcement 
+
+Except as otherwise provided in this Clause 7 (*Enforcement*), the Security Trustee may, in accordance with the instructions of the Instructing Party, refrain from enforcing the security conferred by the Security as long as it sees fit.
+
+^^ \centered 7.11 Manner of Enforcement 
+
+^^^ \centered (a)If the Security Trustee does enforce the Security it may do so in such manner as it sees fit and solely having regard to the interest of the Beneficiaries. The Security Trustee shall not be responsible to any Beneficiary for any failure to enforce nor to maximise the proceeds of any enforcement, and may cease any such enforcement at any time. 
+
+^^^ \centered (b)Neither the relevant Instructing Party instructing the Security Trustee, nor the Security Trustee itself, shall take into account the sharing of proceeds under Clause 8 (*Proceeds of Enforcement of Security*) when determining the manner of enforcement of Security (and which Security to enforce) and, if it is determined to enforce any direct Security over shares of one or more members of the Group (other than shares in the Company and/or New Intermediate Holdco), the relevant Instructing Party must in good faith believe that doing so will result in more aggregate proceeds resulting from enforcement of Security (disregarding the sharing of proceeds under Clause 8 (*Proceeds of Enforcement of Security*)) than would be realised solely from enforcing direct Security over shares in the Company and/or New Intermediate Holdco alone. The requirements of this paragraph (b) are solely for the benefit of the Priority Creditors and no Obligor shall have any rights under this paragraph (b). 
+
+^^ \centered 7.12 Standstill Payments 
+
+Following a Senior Default, all payments received by any Senior Finance Party to enter into any standstill agreement or other agreement to delay the taking of any Enforcement Action shall be shared among all the Senior Finance Parties *pro rata* based on the aggregate outstanding principal amount and undrawn commitments with respect to Senior Liabilities held by such Senior Finance Party.
+
+^ \centered 8. PROCEEDS OF ENFORCEMENT OF SECURITY 
+
+^^ \centered 8.1 Application of Proceeds of Enforcement of Barclays Security 
+
+^^^ \centered Without prejudice to Clause 7.10 (*No Enforcement*) and subject to the rights of any preferential creditor, the Beneficiaries hereby agree that the net proceeds of enforcement of the Security shall, insofar as those net proceeds relate to any assets the subject of the Barclays Security, be applied in the following order: 
+
+^^^^ \centered **FIRST** in payment to Barclays of the Barclays Liabilities; and 
+
+^^^^ \centered **SECOND** in payment to the Security Trustee to be applied in accordance with and in order of the priority set out in Clause 8.2 (*General Application of Proceeds*). 
+
+^^ \centered 8.2 General Application of Proceeds 
+
+Subject to the rights of any preferential creditor and the provisions of Clause 8.1 (*Application of Proceeds of Enforcement of Barclays Security*) and notwithstanding the terms of the Security Documents, without prejudice to Clause 7 (*Enforcement*), the Beneficiaries hereby agree that the net proceeds of enforcement of the Security shall be paid (together with any sums paid to the Security Trustee pursuant to Clause 6 (*Turnover*) and Clause 9 (*Subordination on Insolvency*)) to the Security Trustee for the benefit of the Priority Creditors pursuant to the terms of this Deed shall be applied by the Security Trustee (or any Receiver on its behalf) in accordance with this Deed in the following order of priority, in each case, until such amounts have been repaid and discharged in full:
+
+^^^^ \centered **FIRST** in or towards payment of a sum equivalent to the aggregate of the Security Trustee Liabilities, to the First Beneficiary; 
+
+^^^^ \centered **SECOND** in or towards payment of any Fees; 
+
+^^^^ \centered **THIRD** in or towards payment of a sum equivalent to the aggregate of the Senior Liabilities and the Hedging Liabilities, to the Second Beneficiaries respectively, which sum will (if insufficient to discharge the same in full) be paid to such Second Beneficiaries on a pro rata basis without any priority amongst themselves; and 
+
+^^^^ \centered **FOURTH** in payment to the relevant Obligor(s) or other person(s) entitled thereto, 
+
+^^^^ \centered **PROVIDED THAT** each C Facility Lender agrees that, to the extent that (i) the net proceeds of any enforcement of Security and (ii) any other recoveries and/or proceeds from any Obligor (including without limitation, pursuant to a demand made under Clause 29 (*Guarantee and Indemnity*) of the Senior Facilities Agreement) (other than in the case of sub-paragraph (ii), such other recoveries and/or proceeds from the Parent and the Company) are to be applied in accordance with this Clause 8.2, any such proceeds shall be applied in accordance with this Clause 8.2 until all of the Senior Liabilities (other than the C Facility Liabilities) (subject, in the case of sub-paragraph (i), to the proviso in the immediately following paragraph) and the Hedging Liabilities have been discharged in full, and 
+
+**PROVIDED FURTHER THAT** each Priority Creditor agrees that, to the extent that a Security (or a portion thereof) has not been granted in favour of any Series of Senior Liabilities incurred after 30 [[Date 5]] or the Senior Finance Documents in respect of such Series limit or exclude such Security (or a portion thereof) from the collateral securing such Series of Senior Liabilities, such Series of Senior Liabilities shall not receive any net proceeds resulting from the enforcement of such Security (or such portion thereof) that was so limited or excluded. For the avoidance of doubt,
+
+^^this proviso shall not be deemed such a limitation or exclusion in relation to the C Facility Liabilities; and
+
+^^this proviso shall not apply to the extent (but only to the extent) Security has been granted over a particular asset under one or more Senior Finance Documents:
+
+^^^which Security does not secure a particular Series of Senior Liabilities; or
+
+^^^the Senior Finance Documents in respect of a particular Series of Senior Liabilities limit or exclude such Security from the collateral securing such Series of Senior Liabilities,
+
+(in either case, the “Limited Security”) but other Security (including for the avoidance of doubt Security that is subsequently granted and therefore, but for this Deed, would rank in priority of payment subsequent to the Limited Security) has been granted over that asset which does secure such Series of Senior Liabilities and is not so limited or excluded from the collateral securing such Series of Senior Liabilities.
+
+The Obligors and the Intergroup Creditors acknowledge and agree to the provisions of Clause 2.1 (*Priorities and Subordination*) and this Clause 8.2.
+
+^^ \centered 8.3 Non-cash Distributions 
+
+If the Security Trustee receives any distribution otherwise than in cash in respect of the Intergroup Liabilities from any Obligor or any other source, the Security Trustee may realise such distributions as it sees fit and shall apply the proceeds of such realisation in accordance with Clause 8.2 (*General Application of Proceeds*).
+
+^^ \centered 8.4 Sums received by an Obligor 
+
+If an Obligor receives any sum which, pursuant to any of the Security Documents or this Deed should have been paid to the Security Trustee, that sum shall be held by such Obligor on trust for the benefit and on behalf of the Priority Creditors and shall promptly be paid to the Security Trustee for application in accordance with this Clause 8.
+
+^^ \centered 8.5 Certificates 
+
+In applying any moneys received by it under this Deed, the Security Trustee may rely on any certificate made or given by each Authorised Representative, as to the existence and amount of any Liabilities owing to any Priority Creditor under any of the Senior Finance Documents.
+
+^^ \centered 8.6 Conversion of Currencies 
+
+If the Security Trustee receives any amount under this Deed for any of the Liabilities in a currency other than the currency of the Priority Liabilities, the Security Trustee may convert such amount into the currency of the Priority Liabilities at its spot rate of exchange for the purchase of the relevant currency of the Priority Liabilities with the currency of the amount received in the [[Address 5: Address]] market.
+
+^^ \centered 8.7 Preservation of Liabilities 
+
+None of the Liabilities shall be deemed reduced:
+
+^^^ \centered (a)by the receipt of any amount by any Creditor, if and to the extent that, by virtue of the operation of this Deed, such amount is required to be paid over to (and pending such payment held upon trust for) the Security Trustee for application and distribution pursuant to the terms hereof; or 
+
+^^^ \centered (b)by the receipt of any amount by the Security Trustee pursuant to the terms of this Deed for application pursuant to the terms hereof, 
+
+unless and until such amount is actually applied and distributed by the Security Trustee pursuant to and in accordance with Clause 8.2 (*General Application of Proceeds*).
+
+^ \centered 9. SUBORDINATION ON INSOLVENCY 
+
+^^ \centered 9.1 Subordination 
+
+^^^ \centered Without prejudice to any other provision of this Deed, upon the occurrence of an Insolvency Event, the Intergroup Liabilities will be subordinated in right of payment to the Senior Liabilities and the Hedging Liabilities. 
+
+^^ \centered 9.2 Filing of claims 
+
+^^^ \centered (a)Following the occurrence of an Insolvency Event, until the Final Discharge Date, the Security Trustee may, and is hereby irrevocably authorised on behalf of each Creditor to: 
+
+^^^^ \centered (i)demand, claim, enforce and prove for the Intergroup Liabilities; 
+
+^^^^ \centered (ii)file claims and proofs, give receipts and take any proceedings in respect of filing such claims or proofs and do anything which the Security Trustee considers necessary or desirable to recover the Intergroup Liabilities; and 
+
+^^^^ \centered (iii)receive all distributions of the Intergroup Liabilities for application in accordance with Clause 8.2 (*General Application of Proceeds*). 
+
+^^^ \centered (b)If and to the extent that the Security Trustee is not entitled, or elects not, to take any of the actions mentioned in paragraph (a) above, each Intergroup Creditor shall be entitled and agrees to do so, as soon as reasonably practicable following request by the Security Trustee provided that it shall be entitled to recover and the Security Trustee agrees to claim on its behalf any resulting costs, expenses and liabilities (other than any such costs, expenses or liabilities arising by reason of the gross negligence or wilful misconduct of such Intergroup Creditor) as if such amounts had been incurred by the Security Trustee. 
+
+^^ \centered 9.3 Distributions 
+
+Following the occurrence of an Insolvency Event, until the Final Discharge Date, each Intergroup Creditor will:
+
+^^^ \centered (a)hold all payments and distributions in cash or in kind received or receivable by it in respect of any Liabilities owed to it following the occurrence of such Insolvency Event on trust for the Security Trustee for the benefit of the Priority Creditors for application in accordance with Clause 8.2 (*General Application of Proceeds*); 
+
+^^^ \centered (b)on demand by the Security Trustee, pay an amount equal to any Intergroup Liabilities received by it following the occurrence of such Insolvency Event to the Security Trustee for application in accordance with Clause 8.2 (*General Application of Proceeds*); 
+
+^^^ \centered (c)promptly direct the trustee in bankruptcy, liquidator, assignee or other person distributing the assets of the relevant Obligor or their proceeds to pay distributions in respect of the Intergroup Liabilities directly to the Security Trustee; and 
+
+^^^ \centered (d)promptly use its reasonable efforts to undertake any actions requested by the Security     
+
+
+^^^ \centered Trustee to give effect to this Clause 9.3. 
+
+^^ \centered 9.4 Voting 
+
+^^^ \centered (a)Following the occurrence of an Insolvency Event, until the last to occur of the Senior Discharge Date and the Hedging Discharge Date: 
+
+^^^^ \centered (i)the Security Trustee for the benefit of the Priority Creditors may, and is hereby irrevocably authorised on behalf of each Priority Creditor and the Intergroup Creditors to, exercise all powers of convening meetings, voting and representation in respect of the Intergroup Liabilities; and 
+
+^^^^ \centered (ii)the Intergroup Creditors shall promptly execute and/or deliver to the Security Trustee such forms of proxy and representation as it may require to facilitate any such action. 
+
+^^^ \centered (b)If and to the extent that the Security Trustee does not exercise a power under paragraph (a) above, each of the Intergroup Creditors shall be entitled to exercise that power and agrees that it shall exercise that power to the extent the Security Trustee (acting on the instructions of the Instructing Party) directs and in accordance with such direction. 
+
+^^^ \centered (c)Nothing in this Clause 9.4 entitles the Security Trustee (or the Instructing Party) to exercise or require any Intergroup Creditor to exercise a power of voting or representation to waive, reduce, discharge, extend the due date for repayment of or reschedule any Intergroup Liabilities. 
+
+^ \centered 10. RANKING 
+
+^^ \centered 10.1 Ranking of Security 
+
+^^^ \centered (a)Subject to Clause 8 (*Proceeds of Enforcement of Security*), all existing and future security conferred by the Security will secure all Senior Liabilities (to the extent so secured and subject to the provisions of this Deed), the Security Trustee Liabilities and the Hedging Liabilities regardless of: 
+
+^^^^ \centered (i)the date on which the Senior Liabilities, the Security Trustee Liabilities and the Hedging Liabilities arise; 
+
+^^^^ \centered (ii)whether the Senior Finance Parties or the Hedge Counterparties are obliged to advance moneys included in the Senior Liabilities or the Hedging Liabilities; and 
+
+^^^^ \centered (iii)any fluctuations in the amount of the Senior Liabilities, the Security Trustee Liabilities or the Hedging Liabilities, 
+
+^^^^ \centered and any intermediate discharge of the Senior Liabilities, the Security Trustee Liabilities or the Hedging Liabilities in whole or in part. 
+
+^^^ \centered (b)Subject to Clause 8 (*Proceeds of Enforcement of Security*), all existing and future security conferred by the Security shall rank *pari passu* as if it had been created simultaneously and as a continuing security for, and shall not be affected by any     
+
+
+^^^ \centered fluctuations in, the Secured Obligations. The provisions of this Clause 10.1(b) shall apply notwithstanding that all or any of the Security is void, set aside or otherwise invalid. 
+
+^^ \centered 10.2 Perfection of Security 
+
+^^^ \centered (a)The Security Trustee agrees to acquire and acknowledges it holds the Charged Assets (such term as used in this Clause 10.2 as defined in the Security Trust Agreement) in its possession or control (or in the possession or control of its agents or representatives) on behalf of itself and any assignee solely for the purpose of perfecting the security interest granted under the Senior Finance Documents, subject to the terms and conditions of this Clause 10.2. 
+
+^^^ \centered (b)The Security Trustee shall have no obligation whatsoever to the other Priority Creditors to ensure that the Charged Assets are genuine or owned by any of the Obligors or to preserve rights or benefits of any Person except as expressly set forth in this Deed. 
+
+^^^ \centered (c)The Security Trustee acting pursuant to this Clause 10.2 shall not have by reason of the Security Documents, this Deed or any other document a fiduciary relationship in respect of the Priority Creditors. 
+
+^^^ \centered (d)Upon the later to occur of the Senior Discharge Date and the Hedging Discharge Date, the Security Trustee shall deliver the remaining Charged Assets (if any) (or proceeds thereof) together with any necessary endorsements to the relevant Obligor if no Senior Liabilities remain outstanding (in each case, so as to allow such Person to obtain control of such Charged Assets). The Security Trustee further agrees to take all other action reasonably requested by such Person in connection with such Person’s obtaining a first priority interest in the Charged Assets or as a court of competent jurisdiction may otherwise direct. 
+
+^ \centered 11. ENFORCEMENT OF SECURITY 
+
+The provisions of this Clause 11 shall apply on an Enforcement Action.
+
+^^ \centered 11.1 Enforcement on or before the Senior Discharge Date 
+
+^^^ \centered (a)Prior to the later to occur of the Senior Discharge Date and the Hedging Discharge Date and subject to paragraph (e) below, the Security Trustee shall, to the extent it is entitled then to do so under the terms of the Security Documents, act in relation to the Security in accordance with the instructions of the Instructing Party or the Relevant Agent (acting in accordance with instructions from the Instructing Party). 
+
+^^^ \centered (b)Subject to paragraph (c) below, before giving any instructions to the Security Trustee to enforce the Security, the Relevant Agent shall consult with the Security Trustee in good faith, with a view to co-ordinating their actions, for a period of up to 45 days or such shorter period as the Relevant Agent may determine (the “**Consultation Period**”). 
+
+^^^ \centered (c)The Relevant Agent and the Security Trustee shall not be obliged to consult in accordance with paragraph (b) above if:    
+
+
+^^^^ \centered (i)the Security has become enforceable as a result of (A) an Insolvency Event, (B) a Senior Default arising under Clause 27.1 (*Non-payment*) of the Senior Facilities Agreement or any equivalent provision under any other Senior Finance Document or (C) any other party taking any enforcement action against any Obligor; and 
+
+^^^^ \centered (ii)the Relevant Agent determines in good faith (and notifies the Security Trustee) that to enter into such consultations and thereby delay the commencement of enforcement of the Security could reasonably be expected to adversely impact in any material respect: 
+
+^^^^^ \centered (A) their ability to enforce any of the Security; or 
+^^^^^ 
+^^^^^ \centered (B) the realisation proceeds of any enforcement of the Security. 
+^^^^^ 
+^^^ \centered (d)The Security Trustee shall incur no liability to any Priority Creditor in exercising in good faith any discretion referred to in this Clause 11.1 or if it acts on the advice of a reputable and independent investment bank. 
+
+^^^ \centered (e)Save as otherwise provided in this Clause 11.1 any instructions given to the Security Trustee by a person entitled to give those instructions will override any conflicting instructions given by any other parties and the Security Trustee is entitled to rely on and comply with any such instructions. 
+
+^^^ \centered (f)The Security Trustee and the Facility Agent shall use reasonable efforts to consult with any Authorised Representative or any steering committee or other representative, as applicable, in respect of any Series of Additional Senior Liabilities prior to taking any Enforcement Actions and provide on a regular basis relevant information on the status of any ongoing Enforcement Actions. 
+
+^^ \centered 11.2 Exemption 
+
+^^^ \centered (a)A Senior Finance Party shall not be responsible to any other Priority Creditors with respect to any instructions given or not given to the Security Trustee in relation to or in connection with any of the Security Documents, provided in each case such Senior Finance Party acts in good faith and in accordance with their obligations under this Deed and the applicable Senior Finance Documents. 
+
+^^^ \centered (b)None of the Senior Finance Parties shall be liable for any loss or damage suffered by any Obligor provided such Senior Finance Party acts in good faith and in accordance with their obligations under this Deed and the applicable Senior Finance Documents. 
+
+^ \centered 12. NEW SENIOR LIABILITIES 
+
+The Company may designate at any time liabilities incurred by any Obligor under any credit facility or other financial accommodation as “**New Senior Liabilities**” under this Deed (whether to refinance, replace or increase any existing Senior Liabilities or to constitute any new financial accommodation to any Obligor) by written notice from the Company to the Security Trustee, provided that the incurrence of the relevant liabilities complies with the terms of the Senior Facilities Agreement or, upon its repayment in full and cancellation of all undrawn commitments thereunder, the Designated Refinancing Facilities Agreement.
+
+
+^ \centered 13. PURCHASE OPTION 
+
+^^^ \centered (a)If a Senior Default under the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement has occurred and the Security Trustee or the Senior Lenders have begun any formal step to enforce any guarantee under any Senior Finance Document and/or Security under any Security Document, the Additional Senior Finance Parties may, at the expense of such Additional Senior Finance Parties, purchase or procure the purchase of all (but not part) of the rights and obligations of the Senior Lenders in connection with the Senior Liabilities under the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement by way of transfer under Clause 18 (*Changes to the Parties*), upon 10 Business Days’ prior written notice to the Facility Agent. 
+
+^^^^^ \centered If any Additional Senior Finance Parties in respect of more than one Series of Additional Senior Liabilities attempts to exercise the option set out in this Clause 13 by procuring the service of the notice described above, such right shall be shared on a pro rata basis among the Series of Additional Senior Liabilities that have served such notice. 
+^^^^^ 
+^^^ \centered (b)Any purchase to be made in accordance with this Clause 13 shall take effect on the following terms: 
+
+^^^^ \centered (i)payment in full in cash of an amount equal to the outstanding principal amount under the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement as at the date that amount is to be paid under the terms of this Clause 13 (and including all accrued interest, fees and expenses, but not any prepayment fees, other than LIBOR/EURIBOR break funding costs, if any); 
+
+^^^^ \centered (ii)payment in full in cash of the amount which each Senior Lender certifies to be necessary to compensate it for any loss on account of funds borrowed, contracted for or utilised to fund any amount included in the Senior Liabilities, resulting from the receipt of that payment otherwise than on the last day of an Interest Period, as defined in the Senior Facilities Agreement or the Designated Refinancing Facilities Agreement, in relation thereto; 
+
+^^^^ \centered (iii)after the transfer, no Senior Lender (in their capacity as such) will be under any actual or contingent liability to any Obligor or any other person under this Deed or any Senior Finance Document for which it is not holding cash collateral in an amount and established on terms reasonably satisfactory to it; 
+
+^^^^ \centered (iv)an indemnity is provided from each of the purchasing Additional Senior Finance Parties (or from another third party acceptable to all the Senior Lenders) to the Senior Lenders in respect of all losses which may be sustained or incurred by any Senior Lender in consequence of any sum received or recovered by any Senior Lender from any Senior Finance Party or Obligor, or any other person being required (or it being alleged that it is required) to be paid back by or clawed back from any Senior Lender for any reason whatsoever, provided that where it is demonstrated to the reasonable satisfaction of the Senior Lenders that those losses could not have been recovered in full by the relevant Senior Lender under the Senior Finance Documents, had that transfer not been made, that indemnity shall not extend to     
+
+
+^^^^ \centered the shortfall; and 
+
+^^^^ \centered (v)the relevant transfer shall be without recourse to, or warranty from, the Senior Lenders, except that each Senior Lender shall be deemed to have warranted on the date of that transfer that: 
+
+^^^^^ \centered (A) it is the owner, free from all Encumbrances and third party interests (other than any arising under the Senior Finance Documents or by operation of law), of all rights and interests under the Senior Finance Documents purporting to be transferred by it by that transfer; 
+^^^^^ 
+^^^^^ \centered (B) it has the corporate power to effect that transfer; and 
+^^^^^ 
+^^^^^ \centered (C) it has taken all necessary action to authorise the making by it of that transfer. 
+^^^^^ 
+^ \centered 14. REINSTATEMENT 
+
+In the event that any of the Priority Liabilities are paid and discharged in full and such payment or discharge or any part thereof shall subsequently, for whatever reason, be required to be returned or repaid, all of the provisions of this Deed shall be fully applicable to such Priority Liabilities then outstanding until all such Priority Liabilities have been paid and discharged in full.
+
+^ \centered 15. APPROPRIATION 
+
+^^^ \centered (a)Until the last to occur of the Senior Discharge Date and the Hedging Discharge Date each of the Senior Finance Parties (or the Security Trustee or the Relevant Agent on their behalf) may apply any monies or property received under this Deed against the Senior Liabilities or the Hedging Liabilities (as the case may be) subject to the proviso to Clause 8.2 (*General Application of Proceeds*) which shall apply to this paragraph (a), *mutatis mutandis*. 
+
+^^^ \centered (b)Without prejudice to the other provisions of this Deed, after the Final Discharge Date, each Intergroup Creditor (or the Security Trustee on their behalf) may apply any monies or property received under this Deed or for the payment or discharge of the Intergroup Liabilities against the relevant Intergroup Liabilities. 
+
+^ \centered 16. POWERS OF ATTORNEY 
+
+^^ \centered 16.1 Appointment by the Creditors 
+
+Each Senior Finance Party, Hedge Counterparty and Intergroup Creditor irrevocably appoints the Security Trustee (or any Receiver appointed in respect of any of the Secured Property (or any part of it)), individually as its attorney (in each case, for the purposes of this Clause 16.1, an “**Appointee**”) with full power to appoint substitutes and to delegate, in its name and on its behalf and as its act, deed or otherwise to do any and every thing which such Creditor (a) has authorised the Appointee to do under this Deed or (b) is required to do by this Deed but has failed to do for a period of 10 Business Days after receiving notice from the Appointee requiring it to do so. The parties hereto hereby agree that this authorisation is given to secure the interests of the parties under this Deed and is hereby irrevocable.
+
+
+^^ \centered 16.2 Appointment by the Obligors 
+
+[[^^ Signatory Email: Identity | Signature]]
+__________________________________________
+{{^^ Entity => By: [[^^ Signatory First Name]] [[^^ Signatory Last Name]]
+Title: [[^^ Signatory Title]]}}
+
+^^^ \centered (a)such Obligor is obliged to do under the terms of this Deed but has failed to do so for a period of 5 Business Days after notice from the Appointee to do the same; or 
+
+^^^ \centered (b)whilst any Senior Default is continuing, such Appointee considers necessary or desirable in order to enable such Appointee to exercise the rights conferred on it by this Deedor by law. 
+
+^^ \centered 16.3 Ratification of Acts 
+
+Without prejudice to the generality of Clause 16.1 (*Appointment by the Creditors*) and Clause 16.2 (*Appointment by the Obligors*), each of the Intergroup Creditors and the Obligors hereby undertakes to the relevant Appointee, that promptly upon request, such party will ratify and confirm all transactions entered into and other actions by the Appointee, as the case may be (or any of their substitutes or delegates) in the proper exercise of any power of attorney granted to it hereunder.
+
+^ \centered 17. COSTS AND EXPENSES 
+
+Clause 38 (Costs and Expenses) of the Senior Facilities Agreement or the comparable provision of the Designated Refinancing Facilities Agreement shall apply to this Deed, as if set out herein, *mutatis mutandis*.
+
+^ \centered 18. CHANGES TO THE PARTIES 
+
+^^ \centered 18.1 Binding Nature 
+
+This Deed shall be binding on and enure to the benefit of each party hereto its successors and its or any subsequent successors’ transferees and assigns.
+
+^^ \centered 18.2 No Assignment by Obligors 
+
+None of the rights, benefits and obligations of the Obligors hereunder shall be capable of being assigned or transferred and each Obligor undertakes that it will not seek to assign or transfer any of its rights, benefits or obligations hereunder (except, in the case of any Obligor in respect of Senior Liabilities only, to the extent permitted by the Senior Facilities Agreement or, upon the repayment of the Senior Facilities Agreement, the Designated Refinancing Facilities Agreement).
+
+^^ \centered 18.3 New Creditors 
+
+^^^ \centered (a)The parties hereto agree that none of the Priority Creditors or Intergroup Creditors will, prior to the Final Discharge Date, assign or transfer to any person the whole or any part of their rights or obligations in respect of the Priority Liabilities or any of the     
+
+
+^^^ \centered Intergroup Liabilities unless the assignee or transferee previously or simultaneously agrees with the other parties hereto to be bound by the provisions of this Deed as if it were named herein as an original party and subject to the same rights and obligations, *mutatis mutandis*, as the Priority Creditors and Intergroup Creditors and executes and delivers to the Security Trustee for the benefit of the Priority Creditors: 
+
+^^^^ \centered (i)(in the case of a Senior Lender or other lenders under senior credit facilities providing Senior Liabilities) a Transfer Deed under and in accordance with the terms of the Senior Facilities Agreement or such similar deed, agreement or other document with respect to such other senior credit facilities providing Senior Liabilities; or 
+
+^^^^ \centered (ii)(in the case of any other person) a Deed of Accession (provided that, with respect to Senior Liabilities in the form of notes or similar instruments, only the Authorised Representative in respect thereof (and not the holders of such notes or similar instruments) shall be required to execute and deliver a Deed of Accession), 
+
+^^^ \centered with a copy, in each case, to each Authorised Representative, provided that nothing herein shall prevent any holder of Senior Liabilities in the form of notes or similar instruments from disposing of or transferring any of those notes or similar instruments in accordance with the relevant note indenture or other document pursuant to which such notes or similar instruments are issued or the terms and conditions of those notes or similar instruments. 
+
+^^^ \centered (b)If any Obligor incurs any new Series of Senior Liabilities: 
+
+^^^^ \centered (i)the Company shall give notice to the Security Trustee and each Authorised Representative identifying the initial aggregate principal amount of such Series and the name and address of the Authorised Representative in respect thereof; and 
+
+^^^^ \centered (ii)the Authorised Representative in respect of such Series (on behalf of the Senior Finance Parties in respect thereof) shall agree with the other parties hereto to be bound by the provisions of this Deed as if it were named herein as an original party and subject to the same rights and obligations, mutatis mutandis, as the existing Senior Finance Parties and execute and deliver to the Security Trustee for the benefit of the Senior Finance Parties a Deed of Accession (with a copy to each Authorised Representative). 
+
+^^^ \centered (c)Upon execution of a New Hedging Agreement, each New Hedge Counterparty shall accede to this Deed in such capacity by executing and delivering to the Security Trustee (with a copy to the Relevant Agent), a Deed of Accession, whereupon it shall become bound by the provisions of this Deed as if it were named herein as an original party. 
+
+^^^ \centered (d)The parties hereto confirm that any person becoming a Creditor shall be entitled to the benefit of the provisions contained herein as if it had been originally named a party hereto.    
+
+
+^^ \centered 18.4 New Parties 
+
+^^^ \centered Each party hereto (including parties subsequently becoming bound by this Deed) irrevocably authorises the Relevant Agent to agree on its behalf with any other person intending to become party hereto as a Senior Finance Party, a Relevant Agent, a Security Trustee, a New Hedge Counterparty, an Intergroup Debtor, an Intergroup Creditor or an Obligor to the execution of a Transfer Deed, or a Deed of Accession or such other applicable document so as to make such person a party to this Deed and to effect such amendments to this Deed as may be in the opinion of the Relevant Agent (acting reasonably) necessary for such purpose, **provided that** any amendment which would materially and adversely affect any right, or impose or vary any material obligation, of any of the parties hereto may not be made without the consent of that party. 
+
+^^ \centered 18.5 Resignation or Removal of Facility Agent, Security Trustee or Authorised Representative 
+
+None of the Facility Agent, the Security Trustee or any Authorised Representative may resign or be removed except as specified in the Senior Facilities Agreement (or, upon repayment of the Senior Facilities Agreement, the Designated Refinancing Facilities Agreement), the Security Trust Agreement or any other applicable Senior Finance Document (as the case may be) and only if a replacement Facility Agent, Security Trustee or Authorised Representative agrees with all other parties hereto to become the replacement agent or trustee under this Deed by the execution of a Deed of Accession. Notwithstanding the foregoing, the Security Trustee may be removed and replaced by a vote of the Instructing Party.
+
+^ \centered 19. PROVISIONS RELATING TO OBLIGORS 
+
+Each of the Obligors acknowledge the priorities, rights and obligations recorded in this Deed and undertakes with each of the other parties to this Deed to observe the provisions of this Deed at all times and not to take any action (save as permitted by the Senior Facilities Agreement) (or, upon repayment of the Senior Facilities Agreement, the Designated Refinancing Facilities Agreement) which would or would be reasonably likely to prejudice or otherwise adversely affect the enforcement of such provisions or do or suffer to be done anything which would be inconsistent with the terms of this Deed.
+
+^ \centered 20. NOTICES 
+
+^^ \centered 20.1 Communication of Notices 
+
+Each communication to be made hereunder shall be made in writing and unless otherwise stated shall be made by fax or letter.
+
+^^ \centered 20.2 Delivery of Notices 
+
+Any communication or document to be made or delivered by one person to another pursuant to this Deed shall (unless that other person has by 10 Business Days’ prior written notice to the Relevant Agent specified another address) be made or delivered to that other person at the address specified in Schedule 2 (*Address for Notices*) or, in the case of any other person becoming party hereto after the date hereof in the Deed of Accession or Transfer Deed or other acceding or amendment and restatement document executed by it and shall be deemed to have been made or delivered when dispatched (in the case of any communication made by fax) or (in the case of any communication made by letter) when left at that address or (as the case may be) 5 Business Days after being deposited in the post, postage prepaid, in an envelope addressed to it at that address provided that any communication or document to be made or delivered to the Relevant Agent shall be effective only when received by the Relevant Agent and then only if the same is expressly marked for the attention of the department or officer identified with the signature below (or such other department or officer as the Relevant Agent shall from time to time specify for this purpose).
+
+^ \centered 21. REMEDIES, WAIVERS & AMENDMENTS 
+
+^^ \centered 21.1 No Waiver 
+
+No failure to exercise, nor any delay in exercising, on the part of any Creditor any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy prevent any further or other exercise thereof or the exercise of any other right or remedy. The rights and remedies herein provided are cumulative and not exclusive of any rights or remedies provided by Law.
+
+^^ \centered 21.2 Amendments 
+
+Subject to Clause 21.3 (*Technical Amendments*), the Relevant Agent may, from time to time, agree with the Company to amend this Deed and any amendments so made shall be binding on all the parties hereto, provided that any amendment which would:
+
+^^^ \centered (a)materially and adversely affect any rights of the Priority Creditors may not be made without the prior written consent of the Instructing Party, provided that in the case of any such amendments which would affect the rights of a Series of Senior Liabilities in a way that is material and adverse relative to one or more other Series, the applicable consent of such affected Series (as determined pursuant to the Senior Finance Documents in respect of such Series) shall also be required; 
+
+^^^ \centered (b)impose or vary any obligation on the Priority Creditors may not be made without the prior written consent of the Instructing Party, provided that in the case of any such amendment which imposes or varies the obligations of a Series of Senior Liabilities in a way that is material and adverse relative to one or more other Series, the applicable consent of such affected Series (as determined pursuant to the Senior Finance Documents in respect of such Series) shall also be required; 
+
+^^^ \centered (c)**have the effect of (i) changing the *pari passu* ranking of the Hedging Liabilities with the Senior Liabilities under Clause 2.1 (*Priorities and Subordination*) or the pro rata basis of payment to the Second Beneficiaries under Clause 8.2 (*General Application of Proceeds*), (ii) changing this Clause 21.2(c) (*Amendments*) or (iii) the Hedge Counterparties ceasing to be Priority Creditors or the Hedging Liabilities ceasing to be a Secured Obligation, in each case, may not be made without the prior written consent of each Hedge Counterparty adversely affected thereby; or** 
+
+^^^ \centered (d)adversely affect any right, or impose or vary any obligation, of any party hereto other than a Priority Creditor may not be made without the consent of that party.    
+
+All parties to this Deed agree that any amendment which relates to, or has the effect of, subordinating all or any portion of any Series of Senior Liabilities to the other Senior Liabilities shall only require the consent of the Instructing Party and the applicable consent of such Series being subordinated (as determined pursuant to the Senior Finance Documents in respect of such Series).
+
+^^ \centered 21.3 Technical Amendments  
+Notwithstanding Clause 21.2 (*Amendments*), the Relevant Agent may determine administrative matters and make technical amendments arising out of a manifest error on the face of this Deed, where such amendments would not prejudice or otherwise be adverse to the position of the Priority Creditors without reference to the Priority Creditors and without the consent of the Intergroup Creditors.
+
+^^ \centered 21.4 Priorities between Senior Finance Documents  
+Any Senior Finance Document may be amended, restated, supplemented or otherwise modified from time to time in accordance with their terms, provided that such amendment, restatement, supplement or other modification is not inconsistent with the terms of this Deed. Notwithstanding anything contained in this Deed to the contrary, each of the parties to this Deed agrees and acknowledges that, in the event of any inconsistency between the terms of this Deed and any Senior Finance Document, the terms of this Deed shall prevail.
+
+^^ \centered 21.5 Amended Deed  
+If any amendment is made to this Deed, the Relevant Agent shall provide a copy of any such amendment (clearly showing the amendments made) to each of the parties hereto (including any persons which are parties hereto pursuant to a Transfer Deed, a Deed of Accession or any similar document) provided that in relation to copies required to be delivered to any member of the Group, the Relevant Agent’s obligations under this Clause 21.5 shall be discharged if one copy of any such amendment is delivered to the Company.
+
+^ \centered 22. TERMINATION  
+This Agreement shall terminate upon the Final Discharge Date.
+
+^ \centered 23. ENGLISH LANGUAGE  
+Each communication and document made or delivered by one person to another pursuant to this Deed shall be in the English language or accompanied by a translation thereof into English certified (by an officer of the person making or delivering the same) as being a true and accurate translation thereof.
+
+^ \centered 24. PARTIAL INVALIDITY 
+
+^^^ \centered (a)If at any time any provision hereof is or becomes illegal, invalid or unenforceable in any respect under the Law of any jurisdiction, such illegality, invalidity or unenforceability shall not affect or impair the legality, validity or enforceability of the remaining provisions hereof or the legality, validity or enforceability of such provision under the Law of any other jurisdiction. 
+
+^^^ \centered (b)Without prejudice to the generality of paragraph (a) above, the obligations under this     
+
+^^^ \centered Deed of any Obligor that is incorporated in England & Wales shall not extend beyond a point where they would cause the provisions of Section 678 and/or 679 of the Companies Act 2006 to be infringed.  
+^ \centered 25. THIRD PARTY RIGHTS  
+It is agreed that otherwise than in circumstances where the requirements of this Deed with regard to assignments and transfers are satisfied, a person who is not a party to this Deed shall have no rights to enforce any of the terms or provisions of this Deed other than those it would have had if the Contracts (Rights of Third Parties) Act 1999 had not come into force.
+
+^ \centered 26. COUNTERPARTS  
+This Deed may be executed in any number of counterparts and all of such counterparts taken together shall be deemed to constitute one and the same instrument.
+
+^ \centered 27. HEDGING LIABILITIES CONFLICTS  
+Notwithstanding anything contained in this Deed to the contrary, each of the parties to this Deed agree and acknowledge that, in relation only to the Hedging Liabilities, in the event of any inconsistency between the terms of this Deed and the HYD Intercreditor Agreement, the terms of this Deed shall prevail.
+
+^ \centered 28. GOVERNING LAW  
+This Deed is governed by, and shall be construed in accordance with, English law.
+
+^ \centered 29. JURISDICTION  
+^^ \centered 29.1 Courts of England 
+
+Each of the Obligors, the Additional Senior Finance Parties and the Intergroup Creditors agrees for the benefit of each Priority Creditor that the courts of England shall have exclusive jurisdiction to hear and determine any suit, action or proceedings, and to settle any disputes, which may arise out of or in connection with this Deed (respectively “**Proceedings**” and“**Disputes**”) and, for such purposes, irrevocably submits to the jurisdiction of such courts.
+
+^^ \centered 29.2 Waiver of Indemnity 
+
+Each of the Obligors, the Additional Senior Finance Parties and the Intergroup Creditors irrevocably waives any objection which it might now or hereafter have to Proceedings being brought or Disputes settled in the courts of England and agrees not to claim that any such court is an inconvenient or appropriate forum.
+
+^^ \centered 29.3 Service of Process  
+Each of the Obligors, the Additional Senior Finance Parties and the Intergroup Creditors which is not incorporated in England agrees that the process by which any Proceedings are begun may be served on it by being delivered in connection with any Proceedings in England, in the case of any Obligor, to the Obligors’ Agent at its registered office for the time being, and by executing this Deed each such person accepts such appointment. If the appointment or appointments mentioned in this Clause 29.3 cease to be effective in respect of any of the 
+
+Obligors, the Additional Senior Finance Parties or the Intergroup Creditors respectively, the relevant Obligor, Additional Senior Finance Party or Intergroup Creditor shall immediately appoint a further person in England to accept service of process on its behalf in England and, failing such appointment within 15 days, the Relevant Agent shall be entitled to appoint such person by notice to the relevant Obligor, Additional Senior Finance Party or Intergroup Creditor. Nothing contained herein shall affect the right to serve process in any other manner permitted by Law.
+
+^^ \centered 29.4 Proceedings in Other Jurisdictions  
+The submissions to the jurisdiction of the courts of England shall not (and shall not be construed so as to) limit the right of the Priority Creditors (other than the Additional Senior Finance Parties) or any of them to take Proceedings against any of the Obligors, Additional Senior Finance Parties or Intergroup Creditors in any other court of competent jurisdiction nor shall the taking of Proceedings in any one or more jurisdictions preclude the taking of Proceedings in any other jurisdiction (whether concurrently or not) if and to the extent permitted by applicable Law.
+
+^^ \centered 29.5 General Consent  
+Each of the Obligors, the Additional Senior Finance Parties and the Intergroup Creditors hereby consents generally in respect of any Proceedings to the giving of any relief or the issue of any process in connection with such Proceedings including the making, enforcement or execution against any property whatsoever (irrespective of its use or intended use) of any order or judgement which may be made or given in such Proceedings.
+
+^^ \centered 29.6 Waiver of Immunity  
+To the extent that any Obligor, Additional Senior Finance Party or Intergroup Creditor may in any jurisdiction claim for itself or its assets immunity from suit, execution, attachment (whether in aid of execution, before judgement or otherwise) or other legal process and to the extent that in any such jurisdiction there may be attributed to itself or its assets such immunity (whether or not claimed), such Obligor, Additional Senior Finance Party or Intergroup Creditor hereby irrevocably agrees not to claim and hereby irrevocably waives such immunity to the full extent permitted by the laws of such jurisdiction.
+
+**IN WITNESS** whereof this Deed has been executed and delivered as a deed by the parties hereto on the day and year first above written.
+
+^^^^^^ \centered **SCHEDULE 1 DEED OF ACCESSION**  
+This Deed of Accession dated [·] is supplemental to an intercreditor deed (the “**Intercreditor Deed**”) dated 3 [[Date 1]] as amended and restated on 13 [[Date 2]], 10 [[Date 3]], 31 [[Date 3]], 15 [[Date 4]], 30 [[Date 5]] and 8 [[Date 6]] between, amongst others, the Original Facility Agent, the Original Security Trustee, the Senior Lenders, the Hedge Counterparties, the Intergroup Creditors, the Intergroup Debtors and the Obligors (as may be further amended, supplemented, varied or novated from time to time). Terms defined in the Intercreditor Deed shall have the same meaning when used in this Deed.
+
+[*Name of new Facility Agent/Security Trustee/Senior Lender/Authorised Representative/Additional Senior Finance Party/Hedge Counterparty/Intergroup Debtor and Obligor/Intergroup Creditor*]of [*address*] hereby agrees with each other person who is or who becomes a party to the Intercreditor Deed in accordance with the terms thereof that with effect on and from the date hereof it will be bound by the Intercreditor Deed as [a Facility Agent/a Security Trustee/a Senior Lender/an Authorised Representative/an Additional Senior Finance Party/a Hedge Counterparty/an Intergroup Debtor and Obligor/an Intergroup Creditor]as if it had been party to the Intercreditor Deed in such capacity.
+
+Address for notices of [*name of new Facility Agent etc.*] for the purposes of Clause 20.2 (*Delivery of Notices*) of the Intercreditor Deed is:
+
+Address:
+
+Telephone Number:
+
+Facsimile Number:
+
+[Telex Number:]
+
+[We have appointed [ ] at [ ] [(being the person named in Clause 29.3 (*Service of Process*) of the Intercreditor Deed as the process agent for each of the other Obligors/Intergroup Creditors)] as our process agent for the purposes of service of process pursuant to Clause 29.3 (*Service of Process*) of the Intercreditor Deed.]
+
+This Deed is governed by and shall be construed in accordance with English Law.
+
+**IN WITNESS** whereof this Deed of Accession has been executed as a deed by the party hereto, and is delivered on the date written above.
+
+**EXECUTED AND DELIVERED AS A DEED** by
+
+**[Name of Party]**
+
+Countersigned in acceptance
+
+By:
+
+[ ]
+
+**Relevant Agent**
+
+^^^^^^ \centered **SCHEDULE 2**  
+^^^^^^ \centered **ADDRESS FOR NOTICES**  
+**The Obligors’ Agent**
+
+Virgin Media Investment Holdings Limited
+
+Address:   Bartley Wood Business Park
+Hook
+Hampshire RG27 9UP
+
+**The Intergroup Creditors and the Intergroup Debtors** (as the case may be)
+
+Address:   Bartley Wood Business Park
+Hook
+Hampshire RG27 9UP
+
+**Deutsche Bank AG, [[Address 6: Address]]** as Facility Agent on behalf of the Senior Finance Parties
+
+Address:   Winchester House
+[[Address 7: Address]]
+
+^^^^^^ \centered **SCHEDULE 3**  
+^^^^^^ \centered **THE ORIGINAL SENIOR BORROWERS AND ORIGINAL SENIOR GUARANTORS**  
+
+\centered **Part I - - The Original Senior Borrowers**
+
+Virgin Media Investment Holdings Limited
+
+Telewest Communications Networks Limited
+
+VMIH Sub Limited
+
+Virgin Media Dover LLC
+
+\centered **Part II - - The Original Senior Guarantors**
+
+**NTL**
+Andover Cablevision Limited
+Anglia Cable Communications Limited
+Berkhamsted Properties & Building Contractors Limited
+Cable Television Limited
+Cable Thames Valley Limited
+CableTel Cardiff Limited
+Cabletel (UK) Limited
+CableTel Central Hertfordshire Limited
+CableTel Hertfordshire Limited
+CableTel Herts and Beds Limited
+CableTel Investments Limited
+CableTel Newport
+CableTel North Bedfordshire Limited
+CableTel Scotland Limited
+CableTel Surrey and Hampshire Limited
+CableTel Telecom Supplies Limited
+CableTel West Glamorgan Limited
+CableTel West Riding Limited
+Cambridge Cable Services Limited
+Cambridge Holding Company Limited
+CCL Corporate Communications Services Limited
+Chartwell Investors L.P.
+Columbia Management Limited
+ComTel Cable Services Limited
+ComTel Coventry Limited
+Credit-Track Debt Recovery Limited
+Diamond Cable (Bassetlaw) Limited
+Diamond Cable (Burton-Upon-Trent) Limited
+Diamond Cable (Chesterfield) Limited
+Diamond Cable (Grantham) Limited
+Diamond Cable (Grimclee) Limited
+
+Diamond Cable (Hinckley) Limited
+Diamond Cable (Leicester) Limited
+Diamond Cable (Lincoln) Limited
+Diamond Cable (Lincolnshire) Limited
+Diamond Cable (Mansfield) Limited
+Diamond Cable (Melton Mowbray) Limited
+Diamond Cable (Newark-On-Trent) Limited
+Diamond Cable (Ravenshead) Limited
+Diamond Cable (Vale Of Belvoir) Limited
+Diamond Cable Acquisitions Limited
+Diamond Cable Communications Limited
+Diamond Cable Construction Limited
+Diamond Cable CPE Limited
+Diamond Holdings Limited
+Diamond Visual Communications Limited
+Digital Television Network Limited
+DTELS Limited
+East Coast Cable Limited
+East Midlands Cable Communications Limited
+East Midlands Cable Group Limited
+East Midlands Cable Holdings Limited
+Enablis Limited
+Heartland Cablevision (UK) Limited
+Heartland Cablevision II (UK) Limited
+Herts Cable Limited
+Jewel Holdings Limited
+Lanbase European Holdings Limited
+Lanbase Limited
+LCL Cable (Holdings) Limited
+LCL Telephones Limited
+Lichfield Cable Communications Limited
+Maza Limited
+Metro Hertfordshire Limited
+Metro South Wales Limited
+NNS UK Holdings 1 LLC
+
+NNS U.K. Holdings 2, Inc.
+North CableComms Holdings, Inc.
+North CableComms L.L.C.
+North CableComms Management, Inc.
+Northampton Cable Television Limited
+NTL (Aylesbury and Chiltern) Limited
+NTL (B) Limited
+NTL (Broadland) Limited
+NTL (Chichester) Limited
+NTL (City & Westminster) Limited
+NTL (County Durham) Limited
+NTL (CRUK) Limited
+NTL (CWC Holdings)
+NTL (CWC) Corporation Limited
+NTL (CWC) Limited
+NTL (CWC) Management Limited
+NTL (CWC) No. 2 Limited
+NTL (CWC) No. 3 Limited
+NTL (CWC) No. 4 Limited
+NTL (CWC) Programming Limited
+NTL (CWC) UK
+NTL (Ealing) Limited
+NTL (Eastbourne and Hastings) Limited
+NTL (Fenland) Limited
+NTL (Greenwich and Lewisham) Limited
+NTL (Hampshire) Limited
+NTL (Harrogate) Limited
+NTL (Harrow) Limited
+NTL (Kent) Limited
+NTL (Lambeth and Southwark) Limited
+NTL (Leeds) Limited
+NTL (Norwich) Limited
+NTL (Peterborough) Limited
+NTL (South East) Limited
+NTL (South [[Address 8: Address]]
+
+NTL (Southampton and Eastleigh) Limited
+NTL (Sunderland) Limited
+NTL (Thamesmead) Limited
+NTL (Triangle) LLC
+NTL (V) Limited
+NTL (Wandsworth) Limited
+NTL (Wearside) Limited
+NTL (West [[Address 9: Address]] (Yorcan) Limited
+NTL (York) Limited
+NTL Acquisition Company Limited
+NTL Bolton Cablevision Holding Company
+NTL Bromley Company
+NTL Business (Ireland) Limited
+NTL Business Limited
+NTL Cablecomms Bolton
+NTL Cablecomms Bromley
+NTL Cablecomms Bury and Rochdale
+NTL Cablecomms Cheshire
+NTL Cablecomms Derby
+NTL Cablecomms East Lancashire
+NTL Cablecomms Greater Manchester
+NTL Cablecomms Group Limited
+ntl CableComms Group, Inc.
+NTL Cablecomms Holdings No. 1 Limited
+NTL Cablecomms Holdings No. 2 Limited
+NTL Cablecomms Lancashire No. 1
+NTL Cablecomms Lancashire No. 2
+NTL Cablecomms Limited
+NTL Cablecomms Macclesfield
+NTL Cablecomms Manchester Limited
+NTL Cablecomms Oldham and Tameside
+NTL Cablecomms Solent
+NTL Cablecomms Staffordshire
+NTL Cablecomms Stockport
+
+NTL Cablecomms Surrey
+NTL Cablecomms Sussex
+NTL Cablecomms Wessex
+NTL Cablecomms West Surrey Limited
+NTL Cablecomms Wirral
+NTL Cambridge Limited
+NTL Chartwell Holdings 2, Inc.
+NTL Chartwell Holdings, Inc.
+NTL Chartwell Holdings Limited
+NTL Communications Services Limited
+NTL Darlington Limited
+NTL Derby Cablevision Holding Company
+NTL Equipment No. 1 Limited
+NTL Equipment No. 2 Limited
+NTL Finance Limited
+NTL Glasgow
+NTL Glasgow Holdings Limited
+NTL Holdings (Broadland) Limited
+NTL Holdings (East [[Address 9: Address]] Holdings (Fenland) Limited
+NTL Holdings (Leeds) Limited
+NTL Holdings (Norwich) Limited
+NTL Holdings (Peterborough) Limited
+NTL Internet Limited
+NTL Internet Services Limited
+NTL Investment Holdings Limited
+NTL Irish Holdings Limited
+NTL Kirklees
+NTL Kirklees Holdings Limited
+NTL Limited
+NTL Manchester Cablevision Holding Company
+NTL Microclock Services Limited
+NTL Midlands Limited
+NTL Milton Keynes Limited
+NTL National Networks Limited
+
+NTL Networks Limited
+NTL North CableComms Holdings, Inc.
+NTL North CableComms Management, Inc.
+NTL Partcheer Company Limited
+NTL Programming Subsidiary Company
+NTL Rectangle Limited
+NTL Sideoffer Limited
+NTL Solent Company
+NTL Solent Telephone and Cable TV Company Limited
+NTL South CableComms Holdings, Inc.
+NTL South CableComms Management, Inc.
+NTL South Central Limited
+NTL South Wales Limited
+NTL Streetunique Projects Limited
+NTL Streetunit Projects Limited
+NTL Streetusual Services Limited
+NTL Streetvision Services Limited
+NTL Streetvital Services Limited
+NTL Streetwarm Services Limited
+NTL Streetwide Services Limited
+NTL Strikeagent Trading Limited
+NTL Strikeamount Trading Limited
+NTL Strikeapart Trading Limited
+NTL Surrey Company
+NTL Sussex Company
+NTL Systems Limited
+NTL Technical Support Company Limited
+NTL Teesside Limited
+NTL Telecom Services Limited
+NTL UK CableComms Holdings, Inc.
+NTL UK Telephone and Cable TV Holding Company Limited
+NTL Victoria Limited
+NTL Victoria II Limited
+NTL Wessex Company
+NTL Westminster Limited
+
+NTL Winston Holdings Limited
+NTL Winston Holdings, Inc.
+NTL Wirral Company
+NTL Wirral Telephone and Cable TV Company
+Oxford Cable Limited
+Prospectre Limited
+Secure Backup Systems Limited
+South CableComms Holdings, Inc.
+South CableComms L.L.C.
+South CableComms Management, Inc.
+Southern East Anglia Cable Limited
+Stafford Communications Limited
+Swindon Cable Limited
+Tamworth Cable Communications Limited
+VMIH Sub Limited
+Virgin Media Dover LLC
+Virgin Media Group Limited
+Virgin Net Limited
+Vision Networks Services UK Limited
+Wessex Cable Limited
+Winston Investors L.L.C.
+XL Debt Recovery Agency Limited
+X-Tant Limited
+**TELEWEST GROUP COMPANIES**
+Birmingham Cable Corporation Limited
+Birmingham Cable Limited
+Cable Camden Limited
+Cable Enfield Limited
+Cable Hackney & Islington Limited
+Cable Haringey Limited
+Cable [[Address 10: Address]] Cable Holdings Limited
+Crystal Palace Radio Limited
+Filegale Limited
+General Cable Group Limited
+
+General Cable Holdings Limited
+General Cable Limited
+Imminus Limited
+Middlesex Cable Limited
+Sheffield Cable Communications Limited
+Southwestern Bell International Holdings Limited
+Telewest Communications (Central Lancashire) Limited
+Telewest Communications (Cotswolds) Limited
+Telewest Communications (Liverpool) Limited
+Telewest Communications ([[Address 11: Address]]) Limited
+Telewest Communications (Midlands and North West) Limited
+Telewest Communications (Midlands) Limited
+Telewest Communications (Nominees) Limited
+Telewest Communications (North East) Limited
+Telewest Communications (North West) Limited
+Telewest Communications (South East) Limited
+Telewest Communications (South Thames Estuary) Limited
+Telewest Communications (South West) Limited
+Telewest Communications (St. Helens & Knowsley) Limited
+Telewest Communications (Tyneside) Limited
+Telewest Communications (Wigan) Limited
+Telewest Communications Cable Limited
+Telewest Communications Group Limited
+Telewest Communications Holdings Limited
+Telewest Communications Networks Limited
+Telewest UK Limited
+Telewest Limited
+Telewest Parliamentary Holdings Limited
+The Cable Corporation Limited
+Theseus No. 1 Limited
+Theseus No. 2 Limited
+Windsor Television Limited
+Yorkshire Cable Communications Limited
+The Yorkshire Cable Group Limited
+EuroBell (Holdings) Limited
+
+EuroBell (Sussex) Limited
+EuroBell (South West) Limited
+EuroBell (West Kent) Limited
+EuroBell (IDA) Limited
+EuroBell Internet Services Limited
+EuroBell CPE Limited
+EuroBell Limited
+EMS Investments Limited
+EuroBell (No. 2) Limited
+EuroBell (No. 3) Limited
+EuroBell (No. 4) Limited
+**SCOTTISH COMPANIES**
+Telewest Communications (Dundee & Perth) Limited
+Telewest Communications (Motherwell) Limited
+Telewest Communications (Scotland Holdings) Limited
+Telewest Communications (Scotland) Limited
+**JERSEY COMPANY**
+Birmingham Cable Finance Limited
+**PARTNERSHIPS AND JOINT VENTURES**
+Avon Cable Joint Venture
+Avon Cable Limited Partnership
+Cotswolds Cable Limited Partnership
+Edinburgh Cable Limited Partnership
+Estuaries Cable Limited Partnership
+[[Address 12: Address]] Partnership
+TCI/US West Cable Communications Group
+Telewest Communications ([[Address 11: Address]]) Joint Venture
+Telewest Communications (Cotswolds) Venture
+Telewest Communications (North East) Partnership
+Telewest Communications (Scotland) Venture
+Telewest Communications (South East) Partnership
+Tyneside Cable Limited Partnership
+United Cable ([[Address 11: Address]]) Limited Partnership
+**FLEXTECH**
+Flextech Broadband Limited
+
+Flextech Broadcasting Limited
+Screenshop Limited
+Living TV Limited
+Trouble TV Limited
+Challenge TV
+Bravo TV Limited
+Ed Stone Limited
+United Artists Investments Limited
+Flextech Business News Limited
+Continental Shelf 16 Limited
+TVS Television Limited
+TVS Pension Fund Trustees Limited
+Telso Communications Limited
+Flextech Rights Limited
+Minotaur International Limited
+Flextech Television Limited
+Interactive Digital Sales Limited
+Flextech Music Publishing Limited
+Flextech (1992) Limited
+Flextech Media Holdings Limited
+Flextech (Kindernet Investment) Limited
+Flextech-Flexinvest Limited
+Flextech IVS Limited
+Flextech Family Channel Limited
+Flextech Distribution Limited
+Flextech Childrens Channel Limited
+Flextech Communications Limited
+Flextech (Travel Channel) Limited
+Flextech Digital Broadcasting Limited
+Flextech Video Games Limited
+
+^^^^^^ \centered **SCHEDULE 4** 
+^^^^^^ \centered **THE EXISTING HEDGE COUNTERPARTIES**  
+ABN AMRO BANK N.V.
+
+Barclays Bank Plc
+
+BNP Paribas
+
+Calyon
+
+Commerzbank Aktiengesellschaft
+
+Cooperatieve Centrale Raiffeisen-Boerenleenbank BA (trading as Rabobank International) [[Address 6: Address]]
+
+Credit Suisse International
+
+Deutsche Bank AG, [[Address 6: Address]]
+
+Fortis Bank SA NV
+
+Goldman Sachs International
+
+HSBC Bank Plc
+
+Lloyds TSB Bank Plc
+
+Natixis Banques Populaires
+
+SOCIÉTÉ GÉNÉRALE
+
+The Governor and Company of the Bank of Ireland
+
+The Governor and Company of the Bank of Scotland
+
+The Royal Bank of Scotland plc
+
+WestLB AG
+
+\centered **SIGNATURES**

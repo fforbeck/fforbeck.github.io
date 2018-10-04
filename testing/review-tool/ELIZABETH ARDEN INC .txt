@@ -1,0 +1,134 @@
+\centered ELIZABETH ARDEN, INC.
+
+\centered SEVERANCE POLICY
+
+^Introduction
+
+This Policy was adopted by the Compensation Committee of the Board of Directors of Elizabeth Arden, Inc. (the "Company") on [[Date 1: Date]], and is intended to help the Company achieve its goals of attracting and retaining key management personnel who are critical to the long-term success and competitiveness of the Company.
+
+^Definitions
+
+For purposes of this Policy, the following capitalized terms shall have the meanings set forth below. Non-capitalized terms shall have their ordinary meanings.
+
+"Affiliate" shall mean any person, limited liability company, corporation, partnership, association or any other entity controlling, controlled by or under common control with the Company. "Control" shall mean the ownership by the Company of greater than fifty ([[Percentage 1: Number]]%) of the voting interests of such person or any other such arrangement as constitutes the possession, directly or indirectly, of power to direct or cause the direction of management or policies of any such person, corporation or entity, through ownership of voting securities, by contract or otherwise.
+
+"Base Amount" shall mean the average annual base salary plus average bonus paid to a Covered Employee during the most recently completed five fiscal years.
+
+"Base Salary" shall mean the weekly or monthly base salary, as the context requires, of a Covered Employee as of the effective date of termination of a Covered Employee's employment.
+
+"Cause" shall mean
+
+^^any violation by a Covered Employee of the Company's Code of Business Conduct or any other material Company policy applicable to the Covered Employee;
+
+^^the commission of an intentional act of fraud, embezzlement, theft or dishonesty against the Company by the Covered Employee;
+
+^^the conviction of a Covered Employee for (or the pleading by a Covered Employee of *nolo contendere* to) any crime which constitutes a felony, or a misdemeanor involving moral turpitude, or which, in the reasonable opinion of the Company, has caused material embarrassment to the Company;
+
+^^the gross neglect or willful failure by a Covered Employee to perform his/her duties and responsibilities in all material respects, if such breach of duty is not cured within 10 days after receipt of written notice thereof to the Covered Employee by the Company or its Board of Directors; or
+
+^^a Covered Employee's failure to obey the reasonable and lawful orders or instructions of the Chief Executive Officer, the Covered Employee's supervisor or the Board of Directors, unless such failure is cured within 10 days after receipt of written notice thereof to the Covered Employee by the Company or the Board of Directors.
+
+For purposes of clause (d), no act, or failure to act, on the part of a Covered Employee shall be deemed "willful" unless done, or omitted to be done, by the Covered Employee other than in good faith and without reasonable belief that such act, or failure to act, was in the best interest of the Company.
+
+"Change of Control" shall meanthe occurrence of any of the following events:
+
+^^^the consummation of any transaction or series of transactions (including, without limitation, any merger or consolidation) the result of which is that any "person" (as such term is used in Section 13(d)(3) of the Securities Exchange Act of 1934, as amended (the "Exchange Act")) becomes the "beneficial owner" (as such term is defined in Rule 13d-3 and Rule 13d-5 under the Exchange Act), directly or indirectly, of (a) [[Percentage 2: Number]]% or more of the voting interests of the Company and (b) more of the voting interests of the Company than are, in the aggregate, beneficially owned by the Principals and their Affiliates at the time of such consummation; or
+
+^^^during any period of two (2) consecutive years, the individuals who at the beginning of such period constitute the Company's Board of Directors or any individuals who would be Continuing Directors cease for any reason (other than due to death or voluntary resignation) to constitute at least a majority thereof; or
+
+^^^the Company's Board of Directors shall approve a sale, lease, transfer, conveyance or other disposition of all or substantially all of the assets of the Company, and such transaction shall have been consummated; or
+
+^^^the Company's Board of Directors shall approve any merger, consolidation, or like business combination or reorganization of the Company, the consummation of which would result in the occurrence of any event described in clause (i) above, and such transaction shall have been consummated.
+
+"Compensation Committee" shall mean the Compensation Committee of the Board of Directors of the Company.
+
+"Continuing Directors" shall mean (x) the directors of the Company in office on [[Date 1]] (the "Effective Date") and (y) any successor to any such director and any additional director, in each case, who after the Effective Date was nominated or selected by a majority of the Continuing Directors (or the Nominating and Corporate Governance Committee of the Board of Directors of the Company consisting of Continuing Directors) in office at the time of his or her nomination or selection.
+
+"Covered Employee" shall mean any U.S.-based executive officer, senior vice president or vice president of the Company and any officer of an Affiliate of the Company that is an "executive officer" of the Company for purposes of the Securities Exchange Act of 1934, as amended.
+
+"ERISA" shall mean the Employee Retirement Income Security Act of 1974, and the rules and regulations thereunder, as such may be amended from time to time.
+
+"Good Reason" shall mean
+
+^^that without the Covered Employee's prior written consent and in the absence of Cause, one or more of the following events occurs:
+
+^^^any materially adverse change in the Covered Employee's authority, duties, or responsibilities or any assignment to the Covered Employee of duties and responsibilities materially inconsistent with those normally associated with the Covered Employee's position; or
+
+^^^the Covered Employee is required to be primarily based at any office more fifty (50) miles outside the metropolitan area of the Covered Employee's then current business address, excluding travel reasonably required in the performance of the Covered Employee's responsibilities; and
+
+^^within sixty (60) calendar days of learning of the occurrence of any event specified in clause (a), and in the absence of any circumstances that constitute Cause, the Covered Employee terminates employment with the Company, by written notice to the Company; provided, however, that the events set forth in subparagraphs (a)(i) or (a)(ii) shall not constitute Good Reason for purposes of this Policy unless, within thirty (30) calendar days of a Covered Employee's learning of such event, the Covered Employee gives written notice of the event to the Company, and the Company fails to remedy such event within thirty (30) calendar days of receipt of such notice.
+
+"Permanent Disability" shall mean the Covered Employee's inability to perform such Covered Employee's duties and responsibilities for a period of 90 consecutive days or 120 non-consecutive days, in either event in any 12 month period, due to illness, accident or any other physical or mental incapacity, as reasonably determined by a physician selected in good faith by the Company.
+
+"Principals" shall mean William Tatham, E. Scott Beattie, J. W. Nevil Thomas, Fred Berens, Richard C. W. Mauran, Maura J. Clark, and Paul West.
+
+"Section 409A" shall mean Section 409A of the Internal Revenue Code of 1986, as amended.
+
+"Specified Employee" shall have the same meaning as such term is given for purposes of Section 409A.
+
+^Termination without Cause
+
+Subject to the provisions of Section 5 below, in the event that the employment of a Covered Employee is terminated by the Company without Cause (other than (i) after a Change of Control as discussed in Section 4.0 below or (ii) upon the death or Permanent Disability of the Covered Employee), such Covered Employee shall be entitled to a lump sum severance payment equal to the greater of (a) two weeks of Base Salary for every year of such Covered Employee's employment with the Company, not to exceed a maximum of one year of Base Salary, or (b) the applicable amount calculated in accordance with the following schedule:
+
+Tier   Severance
+^^^-- Chief Executive Officer   24 months of Base Salary
+^^^-- President (if title not also held by CEO)   18 months of Base Salary
+^^^-- Executive Vice President   12 months of Base Salary
+^^^-- Senior Vice President   9 months of Base Salary
+^-- Vice President   6 months of Base Salary
+
+^Termination after a Change of Control
+
+Subject to the provisions of Section 5 below, if (i) a Change of Control occurs and (ii) the employment of a Covered Employee is terminated (other than upon the death or Permanent Disability of the Covered Employee) either (a) without Cause within two years of the Change of Control, or (b) by the Covered Employee for Good Reason within two years of the Change of Control, then such Covered Employee shall be entitled to a lump sum severance payment equal to the applicable amount calculated in accordance with the following schedule:
+
+Tier   Severance
+^^^-- Chief Executive Officer   2.99 times the Base Amount
+^^^-- President (if title not also held by CEO)   2.0 times the Base Amount
+^^^-- Executive Vice President   1.5 times the Base Amount
+^^^-- Senior Vice President   1.0 times the Base Amount
+
+^Conditions to and Timing of Payments
+
+No severance payment shall be made to a Covered Employee under this Policy unless, within sixty (60) days of the effective date of the Covered Employee's termination, such Covered Employee shall have executed and delivered to the Company a waiver, general release and separation agreement in favor of the Company and its Affiliates releasing the Company and its Affiliates from any and all claims relating to such Covered Employee's (i) employment with the Company and (ii) termination of employment (the "Release"). The Release shall include confidentiality and non-disparagement provisions and shall otherwise be in form and substance satisfactory to the Company.
+
+To the extent permissible under Section 409A, any severance payment made pursuant to this Policy shall be made by the Company within sixty (60) days of the effective date of the Covered Employee's termination. For the avoidance of doubt, no payment shall be made under this Policy if the general release and separation agreement referred to in the preceding paragraph is not executed by the Covered Employee and delivered to the Company by the sixtieth (60th) day following the effective date of the Covered Employee' termination.
+
+Notwithstanding the provisions of the preceding paragraph, to the extent (i) a severance payment under this Policy is determined by the Company to be subject to Section 409A and (ii) is to be made to a Specified Employee who would be subject to a penalty tax under Section 409A, any such severance payment shall be made by the Company on the first day of the seventh month following the effective date of such Covered Employee's termination.
+
+^Benefits
+
+The Compensation Committee shall have the discretion to increase any severance payment due pursuant to this Policy to provide for COBRA health insurance premiums and/or such other termination-related benefits (such as outplacement services, relocation expenses and similar items) as the Compensation Committee may determine are reasonable in the context, provided, however, that any amount to be paid to a Covered Employee with respect to such health insurance premiums and/or other termination-related benefits shall be paid in a single lump sum at the same time as severance payments are to be made pursuant to the provisions of Section 5 of this Policy.
+
+^Policy Changes
+
+The Company reserves the right to amend or modify this Policy at any time without prior notice, provided that, without the written approval of any affected Covered Employee, no such amendment or modification made subsequent to the occurrence of a Change of Control shall alter or impair the benefits that might be payable to a Covered Employee hereunder as a result of a termination of employment following such Change of Control. This Policy will also change from time to time as the terms and phrases used in this Policy are modified by rule or law.
+
+^Interpretation
+
+The Compensation Committee shall administer and interpret this Policy. This Policy is intended to comply with the provisions of Section 409A, if and to the extent that the benefits payable pursuant to this Policy do not qualify for any applicable exception to those provisions. The provisions of this Policy shall be interpreted in a manner consistent with the applicable requirements of Section 409A and any rules or regulations issued pursuant thereto, including without limitation, the requirement in Section 409A(a)(2)(B)(i) that payments subject to Section 409A made on account of a separation from service to a "specified employee," as defined therein, not be made before the date which is six (6) months after the date of separation from service (or, if earlier, the date of the specified employee's death).
+
+^Claims Procedure
+
+In the event that any Covered Employee or his or her beneficiary claims to be entitled to benefits under this Policy or believes his or her benefits are incorrect, that Covered Employee or his or her beneficiary (hereafter, a "Claimant") may file a claim for benefits by submitting a written statement describing the basis of the claim for benefits under this Policy. The Compensation Committee shall review the claim and respond within a reasonable period of time, but no more than 90 days after receipt of the claim by the Compensation Committee.
+
+If the Compensation Committee makes an adverse determination as to the Claimant's claim, the Compensation Committee shall, within the time period described above, notify the Claimant in a writing setting forth, in a manner calculated to be understood by the Claimant:
+
+^^^the specific reasons for the adverse determination,
+
+^^^the provisions of this Policy on which the determination is based,
+
+^^^a description of additional information or material necessary for the Claimant to perfect the claim and an explanation of why such additional information or material is necessary, and
+
+^^^a description of this Policy's review procedures and the time limits applicable to such procedures, including a statement of the Claimant's right to bring suit under Section 502(a) of ERISA following an adverse benefit determination on review.
+
+Within 60 days of receipt by a Claimant of a notice denying a claim, the Claimant, or his or her duly authorized representative, may request in writing a full and fair review of the claim by filing an appeal with the Compensation Committee. In connection with such appeal, the Claimant or his or her duly authorized representative:
+
+^^^may submit written comments, documents, records, and other information relating to the claim for benefits, and
+
+^^^shall be provided, upon request and free of charge, reasonable access to, and copies of, all documents, records, and other information relevant to the Claimant's claim for benefits.
+
+The Compensation Committee shall provide for a full and fair review that takes into account all comments, documents, records, and other information submitted by the Claimant's written presentation, as well as any evidence, facts or circumstances the Compensation Committee deems relevant.
+
+The Compensation Committee shall make a decision not later than 60 days after the Compensation Committees receipt of a request for appeal.
+
+As amended on [[Date 2: Date]].

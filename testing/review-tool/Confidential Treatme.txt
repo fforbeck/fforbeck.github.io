@@ -1,0 +1,61 @@
+\centered **Confidential Treatment Requested** 
+
+\centered **ADDENDUM TO THE** 
+
+\centered **PLATFORM SERVICES AGREEMENT** 
+
+**THIS ADDENDUM** dated [[Date 1: Date]] (this “**Addendum**”) to the Platform Services Agreement dated [[Date 2: Date]] (the “**Agreement**”) is made between (i) FundQuest Incorporated and (ii) Envestnet Asset Management, Inc. 
+
+**WHEREAS :** The parties desire to enter into this Addendum as described herein. 
+
+Capitalised terms used but not defined herein shall have the meanings attributed thereto in the Agreement. 
+
+**NOW IT IS HEREBY AGREED THAT:** 
+
+This Addendum shall read as follows: 
+
+^^In accordance with Clause 1, “Term” A, the parties have agreed to memorialize the Effective Date of the Agreement by way of this Addendum and therefore agree hereby that the Effective Date of the Agreement shall be [[Date 3: Date]].
+
+^^Further in accordance with Exhibit B of the Agreement, “Pricing Terms”, section 3, [*** ] into the Agreement. Envestnet will deduct [*** ] a net transition fee of [*** ] representing parallel expenses incurred by Envestnet for the second quarter of 2010.
+
+^^Further in accordance with Exhibit B of the Agreement, “Pricing Terms”, section 3, [*** ] each anniversary of the Effective Date for a period of five years (namely [[Date 4: Date]]; [[Date 5: Date]]; [[Date 6: Date]]; [[Date 7: Date]] and [[Date 8: Date]]) an amount equal to [*** ]
+
+^^For the avoidance of doubt, the costs and expenses for the period [[Date 9: Date]] to [[Date 10: Date]] inclusive incurred for those employees who are transitioned from FundQuest to Envestnet shall be borne by Envestnet.
+
+^^The fee rates as described at Exhibit B of the Agreement, “Pricing Terms”, shall be clarified to take account of the following: “For the duration of the agreement which FundQuest has entered into with [*** ] as of [[Date 11: Date]], FundQuest shall pay Envestnet a Platform Services Fee equal to
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+but not greater than the fee which [*** ] pays to FundQuest. 
+
+^Effect
+
+^^The terms of this Addendum shall become effective as of 30 [[Date 12: Date]].
+
+^^The amendments and supplements set forth herein are limited precisely as written and shall not be deemed to be an amendment, consent, waiver or modification of any other term or condition of the Agreement. Except as expressly modified hereby, the terms and provisions of the Agreement shall remain unchanged and shall continue in full force and effect.
+
+^Governing Law
+
+This Amendment shall be governed by and construed in accordance with the laws of the State of Illinois. 
+
+**IN WITNESS WHEREOF,** this Amendment has been executed in duplicate by duly authorised representatives of the parties as of the date and year first above written. 
+
+**FUNDQUEST INCORPORATED**
+
+[[FUNDQUEST INCORPORATED Signatory Email: Identity | Signature]]
+__________________________________________
+{{FUNDQUEST INCORPORATED Entity => By: [[FUNDQUEST INCORPORATED Signatory First Name]] [[FUNDQUEST INCORPORATED Signatory Last Name]]
+Title: [[FUNDQUEST INCORPORATED Signatory Title]]}}
+
+
+**ENVESTNET ASSET MANAGEMENT INC.**
+
+[[ENVESTNET ASSET MANAGEMENT INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ENVESTNET ASSET MANAGEMENT INC. Entity => By: [[ENVESTNET ASSET MANAGEMENT INC. Signatory First Name]] [[ENVESTNET ASSET MANAGEMENT INC. Signatory Last Name]]
+Title: [[ENVESTNET ASSET MANAGEMENT INC. Signatory Title]]}}
+
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.

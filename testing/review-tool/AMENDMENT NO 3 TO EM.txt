@@ -1,29 +1,37 @@
-\centered **AMENDMENT NO. 3 TO EMPLOYMENT AGREEMENT** 
+\centered **AMENDMENT NO. 3 TO** 
 
-This AMENDMENT NO. 3 TO EMPLOYMENT AGREEMENT is entered into on the [[Date 1: Date]], is between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (together with its subsidiaries, the “Company”), and [[Employee]] (“Employee”). 
+\centered **EMPLOYMENT AGREEMENT** 
 
-\centered BACKGROUND 
+**WHEREAS,** Semiconductor Components Industries (“Company”) and W. John Nelson (“Executive”) entered into an Employment Agreement dated as of [[Date 1: Date]] (“Agreement”) and as previously amended; 
 
-WHEREAS, the parties entered into an Employment Agreement dated as of [[Date 2: Date]], as amended by Amendment to Employee Agreement dated as of [[Date 3: Date]] and Amendment No. 2 to Employment Agreement dated [[Date 4: Date]] (collectively, the “Agreement”), that sets forth the terms and conditions of Employee’s employment with the Company, and 
+**WHEREAS**, all defined terms used herein shall have the meanings set forth in the Agreement unless specifically defined herein; 
 
-WHEREAS, the parties desire to amend the Agreement on the terms and conditions contained herein. 
+**WHEREAS**, as of [[Date 2: Date]] the Compensation Committee (“Committee”) of the Board of Directors of ON Semiconductor Corporation considered and approved an increase, effective [[Date 3: Date]], of the maximum target bonus percentage for the Executive from [[Percentage 1: Number]]% to [[Percentage 2: Number]]% of his Base Salary during the applicable Performance Cycle under a bonus Program established and approved by the Committee and/or Board; and 
 
-NOW, THEREFORE, the parties hereto, intending to be legally bound hereby, agree as follows: 
+**WHEREAS**, the Company and the Executive now wish to amend the Agreement to reflect the increase to the maximum target bonus percentage to [[Percentage 2]]% consistent with the Board’s and Committee’s approvals and make certain related conforming changes to the Agreement. 
 
-^Subparagraph 2(ii) of the Agreement is hereby deleted and replaced in its entirety by the following: “(ii) [[Date 5: Date]].” 
+**NOW, THEREFORE,** for mutual consideration the receipt of which is hereby acknowledged, the Agreement is hereby amended as follows: 
 
-^Except as modified hereby, the Agreement shall continue unmodified and in full force and effect. 
+^Effective [[Date 3]], Section 2(b) of the Agreement related to “Compensation” is hereby amended by replacing such section in its entirety with the following: 
 
-IN WITNESS WHEREOF, the parties hereto have executed and delivered this Amendment No. 3 on the date first-above written. 
+“(b) In addition to the Base Salary, during the Employment Period, the Executive shall be eligible to participate in the bonus program established and approved by the Board (the “Program”) and, pursuant to the Program, the Executive may earn a bonus (the “Bonus”) on an annual or other performance period basis (a “Performance Cycle”) of up to a maximum target of [[Percentage 2]]% of Base Salary earned during the applicable Performance Cycle or an additional amount as approved by the Board under the Program and in each case based on certain performance criteria; provided that the Executive is actively employed by the Company on the date the Bonuses are paid under the Program, except as provided in Section 5(a) herein. The Bonus may be paid annually or more frequently depending upon the Performance Cycle, as determined by the Board and pursuant to the Program. The Bonus will be specified by the Board, and the Bonus will be reviewed at least annually by the Board.” 
 
-[[Company]]
+^This Agreement shall amend only the provisions of the Agreement as set forth herein. Those provisions of the Agreement not expressly amended shall be considered in full force and effect. 
 
-[[Company Signatory Email: Identity | Signature]]
+**IN WITNESS WHEREOF**, the Executive and the Company have executed this Amendment as of the 24 day of [[Date 4: Date]]. 
+
+**COMPANY:**            **Semiconductor Components Industries**
+
+[[COMPANY            Semiconductor Components Industries Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
-Title: [[Company Signatory Title]]}}
+{{COMPANY            Semiconductor Components Industries Entity => By: [[COMPANY            Semiconductor Components Industries Signatory First Name]] [[COMPANY            Semiconductor Components Industries Signatory Last Name]]
+Title: [[COMPANY            Semiconductor Components Industries Signatory Title]]}}
 
-EMPLOYEE:
 
-/s/ [[Employee]]
-[[Employee]]
+**EXECUTIVE:**            W. John Nelson, in his individual capacity
+
+[[EXECUTIVE            W. John Nelson in his individual capacity Signatory Email: Identity | Signature]]
+__________________________________________
+{{EXECUTIVE            W. John Nelson in his individual capacity Entity => By: [[EXECUTIVE            W. John Nelson in his individual capacity Signatory First Name]] [[EXECUTIVE            W. John Nelson in his individual capacity Signatory Last Name]]
+Title: [[EXECUTIVE            W. John Nelson in his individual capacity Signatory Title]]}}
+

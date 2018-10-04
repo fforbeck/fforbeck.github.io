@@ -1,0 +1,341 @@
+\centered **Confidential Treatment Requested** 
+
+\centered **SERVICES AGREEMENT AMENDMENT** 
+
+**THIS AMENDMENT (“AMENDMENT”) DATED MARCH , 2008 (THE “EFFECTIVE DATE”) IS MADE TO THE SERVICES AGREEMENT DATED MARCH 24, 2005 (“AGREEMENT”) BY AND BETWEEN NATIONAL FINANCIAL SERVICES (“NFS”) AND ENVESTNET ASSET MANAGEMENT, INC. (“ENVESTNET”).** 
+
+**WHEREAS,** NFS and Envestnet entered into the Agreement pursuant to which, among other things, NFS and Envestnet agreed that Envestnet and NFS would provide each other with certain services; and 
+
+**WHEREAS,** NFS and Envestnet desire to amend the Agreement as provided herein. 
+
+**NOW THEREFORE,** in consideration of the promises, covenants, representations and warranties contained herein, and intending to be legally bound hereby, for other good and valuable consideration, the parties hereto agree that Exhibit K Fee & Billing Schedule shall be amended in its entirety as follows: 
+
+\centered **EXHIBIT K** 
+
+\centered **FEE & BILLING SCHEDULE** 
+
+![LOGO](g20797g90s25.jpg)      National Financial  **Platform Fee Schedule**
+
+**Separate Accounts on National’s Unified Managed Account Platform** 
+
+**(a.k.a. Separately Managed Accounts)** 
+
+**Equity and Balanced Portfolios**      **Fixed Income and Mutual Fund**
+**Portfolios**
+[***] Minimum Fee per Equity SMA Account      [***] Minimum Fee per Fixed Income SMA Account
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Disc. 4**      **Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 1: Number]]K      [***]      [***]      [***]      [***]      [***]      First $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]      [***]      Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 2: Number]]MM      [***]      [***]      [***]      [***]      [***]      Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]
+Next $[[USD Value 3: Number]]MM      [***]      [***]      [***]      [***]      [***]      Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]
+Over $[[USD Value 4: Number]]MM      [***]      [***]      [***]      [***]      [***]      Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**      \centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Disc. 4**      **Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 2]]B      [***]      [***]      [***]      [***]      [***]      First $[[USD Value 2]]B      [***]      [***]      [***]      [***]
+Next $[[USD Value 5: Number]]B      [***]      [***]      [***]      [***]      [***]      Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]      [***]      Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]B      [***]      [***]      [***]      [***]      [***]      Over $[[USD Value 4]]B      [***]      [***]      [***]      [***]
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Alternative Solutions** 
+
+No Minimum Fee Applies 
+
+**Account Size**      **List**
+All Assets      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**
+First $[[USD Value 2]]B      [***]
+Next $[[USD Value 5]]B      [***]
+Next $[[USD Value 5]]B      [***]
+Over $[[USD Value 4]]B      [***]
+
+**Separate Accounts on National’s SMA Supermarket Platform** 
+
+**(a.k.a Separate Account Service)** 
+
+**Bundle 1**      **Bundle 2**
+
+Bundle 1 provides access to separately managed accounts only. Deployed with “Risk Express Track” requiring Rep to manually choose products without the asset allocation tool and recommendations.      Bundle 2 provides access to separately managed accounts with the client profiler and asset allocation tool.
+
+[***] Minimum Fee per SMA Account      [***] Minimum Fee per SMA Account
+
+\centered **BILL**      \centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 1]]K      [***]      [***]      [***]      [***]      First $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]      Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]      Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**      \centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 2]]B      [***]      [***]      [***]      [***]      First $[[USD Value 2]]B      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]      Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]
+Over $[[USD Value 3]]B      [***]      [***]      [***]      [***]      Over $[[USD Value 3]]B      [***]      [***]      [***]      [***]
+
+**Alternative Solutions** 
+
+No Minimum Fee Applies 
+
+**Account Size**      **List**
+All Assets      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**
+First $[[USD Value 2]]B      [***]
+Next $[[USD Value 5]]B      [***]
+Next $[[USD Value 5]]B      [***]
+Over $[[USD Value 4]]B      [***]
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Wrap Strategies on National’s Unified Managed Account Platform** 
+
+**Strategic Advisers Mutual Fund Portfolios**      **Proprietary Mutual Fund Wrap Portfolios**
+[***] Minimum Fee per SA Mutual Fund Portfolio Account      [***] Minimum Fee per Proprietary MF Wrap Account
+
+\centered **BILL**      \centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Account Size**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 1]]K      [***]      [***]      [***]      [***]      First $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]      Next $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 2]]MM      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 3]]MM      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]      Over $[[USD Value 4]]MM      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**      \centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 3]]B      [***]      [***]      [***]      [***]      First $[[USD Value 2]]B      [***]      [***]      [***]
+Over $[[USD Value 3]]B      [***]      [***]      [***]      [***]      Next $[[USD Value 5]]B      [***]      [***]      [***]
+Over $[[USD Value 3]]B      [***]      [***]      [***]
+
+**Envestnet PWM Mutual Fund Solution**      **Wrap Strategist Portfolios**
+**(a.ka. Envestnet Sigma Mutual Fund Wrap)**      **(a.k.a. Third Party Investment Models)**
+[***] Minimum Fee per PWM Mutual Fund Solution Account      [***] Minimum Fee per Wrap Account
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Account Size**      **List**      **Disc. 1**
+First $[[USD Value 1]]K      [***]      [***]      [***]      [***]      First $[[USD Value 1]]K      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]      Next $[[USD Value 1]]K      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 2]]MM      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]      Next $[[USD Value 3]]MM      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]      Over $[[USD Value 4]]MM      [***]      [***]
+
+\centered **DISTRIBUTE**      \centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Enterprise Total**      **List**      **Disc. 1**
+First $[[USD Value 2]]B      [***]      [***]      [***]      [***]      First $[[USD Value 2]]B      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]      Next $[[USD Value 5]]B      [***]      [***]
+Over $[[USD Value 3]]B                              Over $[[USD Value 3]]B      [***]      [***]
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Envestnet PMC ETF Solution** 
+
+[***] Minimum Fee per PMC ETF Solution Account 
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 2]]B      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]
+Over $[[USD Value 3]]B      [***]      [***]      [***]
+
+**PMC Select Portfolios** 
+
+No Minimum Fee Applies 
+
+\centered **BILL**
+**Account Size**      **List**
+First $[[USD Value 1]]K      [[Percentage 1: Number]]%
+Next $[[USD Value 1]]K      [[Percentage 1]]%
+Next $[[USD Value 2]]MM      [[Percentage 1]]%
+Next $[[USD Value 3]]MM      [[Percentage 1]]%
+Over $[[USD Value 4]]MM      [[Percentage 1]]%
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**
+First $[[USD Value 2]]B      [[Percentage 1]]%
+Next $[[USD Value 5]]B      [[Percentage 1]]%
+Over $[[USD Value 3]]B      [[Percentage 1]]%
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Multi-Manager Accounts on National’s Unified Managed Account Platform** 
+
+**All MMA Portfolios** 
+
+No Minimum Fee Applies 
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Disc. 4**
+First $[[USD Value 1]]K      [***]      [***]      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**      **Disc. 4**
+First $[[USD Value 2]]B      [***]      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]Bil      [***]      [***]      [***]      [***]      [***]
+
+**Advisor Directed Unified Managed Accounts on National’s Unified Managed Account Platform** 
+
+**(a.k.a. Advisor Directed UMA)** 
+
+No Minimum Fee Applies 
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 2]]B      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]
+Over $[[USD Value 4]]B      [***]      [***]      [***]
+
+Please note: Above Distribute schedule also applies to incremental revenue (Manager Fee component) from adding additional SMA sleeves. 
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Russell Separate Account Manager Mixes** 
+
+**No Minimum Fee Applies** 
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]
+Next $[[USD Value 3]]MM      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]MM      [***]      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 2]]B      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]
+Next $[[USD Value 5]]B      [***]      [***]      [***]      [***]
+Over $[[USD Value 4]]Bil      [***]      [***]      [***]      [***]
+
+**Rep as Portfolio Manager on National’s Unified Managed Account Platform** 
+
+**(a.k.a. MAS Model Management Tools)** 
+
+**Front-End Tools (Model Management)**      **Reporting and Administration Services**  **(Performance Reporting)**
+
+Rep as Portfolio Manager is a sophisticated portfolio modeling and diagnostic set of tools, empowering representatives as portfolio managers to manage model portfolios for their clients. In practice, Front-End Tools are sold with performance reporting and billing beginning at a [***] list price (combining the two services: Model Management and Reporting and Administration). For the purposes of arriving at the DISTRIBUTE the two DISTRIBUTE schedules below are averaged. [***      For accounts where performance reporting is not included. Billing is part of Reporting and Administrative Services.
+]
+Pricing Option A:      [***] Minimum Fee per RAS Account
+
+\centered **BILL**      \centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Account Size**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+First $[[USD Value 1]]K      [***]      [***]      [***]      First $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]      Next $[[USD Value 1]]K      [***]      [***]      [***]      [***]
+Next $[[USD Value 2]]MM      [***]      [***]      [***]      Next $[[USD Value 2]]MM      [***]      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**      \centered **DISTRIBUTE**
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**      **Disc. 3**
+ALL Levels      [***]      [***]      [***]      ALL Levels      [***]      [***]      [***]      [***]
+
+Pricing Option B: Per-Seat License: 
+
+^Bill  suggested price of [*** ] for first 100 advisors 
+
+^Distribute  [*** ] to Envestnet; National to receive the balance 
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+**Home Office Model Management** 
+
+[***] Minimum Fee per Home Office Model Account 
+
+\centered **BILL**
+**Account Size**      **List**      **Disc. 1**      **Disc. 2**
+First $[[USD Value 1]]K      [***]      [***]      [***]
+Next $[[USD Value 1]]K      [***]      [***]      [***]
+Over $[[USD Value 2]] MM      [***]      [***]      [***]
+
+\centered **DISTRIBUTE**
+
+**Enterprise Total**      **List**      **Disc. 1**      **Disc. 2**
+All Levels      [***]      [***]      [***]
+
+**Overview/Notes of National Financial-Envestnet Platform Fee Schedule** 
+
+^The fee schedules include both the platform fee to be charged to the account holder (such fee is specified as a percentage in the applicable table entitled “Bill” and is based on the amount of assets in such account holder’s account(s) in any of the Programs) and the percent of such platform fee that will be distributed to National Financial (such percentage is specified in the applicable table entitled “Distribute” and is based on the aggregate amount of assets in accounts in the Programs (see note 5 below) during the applicable period (such aggregate amount is referred to as the “enterprise level”)).
+
+^Tiered Pricing: Pricing is tiered both at the account level and at the enterprise level. The ‘account level’ tiering determines the platform fee that will be charged to the account holder. The ‘enterprise level’ tiering determines the percent of the aggregate platform fees that will be distributed to National Financial (see note 12).
+
+^Billing Fees: The pricing to each account (i.e., the ‘bill’ side) is consistent to the client account regardless of the cumulative enterprise assets.
+
+^Householding: Program fees are calculated based on the total assets held within a household within each Program, including separately managed account portfolios, wrap accounts, home office model management, rep as pm, advisor directed UMA, multi-manager accounts and reporting only. A household includes all accounts held by members of an immediate family, i.e., parents, siblings, spouse, and children. Assets held in all separately managed account portfolios (equity SMA, fixed income SMA, and mutual fund holdings) within a household are summed to calculate fees for those accounts. Similar calculations are made within the other Program types (i.e., wrap accounts and multi-manager accounts).
+
+^Distribute Schedule: All Envestnet program assets at Fidelity, with the exception of the Strategic Advisors Mutual Fund Portfolio program, are summed to determine the enterprise level within the applicable distribute schedule to be used. In addition, Envestnet’s non-MAS managed account assets with Securities America will be added to the total of Fidelity assets to determine the Enterprise total. Assets in the Strategic Advisor Wrap Portfolios are summed separately to determine the distribute schedule that applies to those assets. Once the total assets reach a new threshold, a higher portion of the platform fee collected on all subsequent assets will be paid to National according to the applicable distribute schedule.
+
+^Distribution based on Percentage: The portion of the platform fee collected on each account to be distributed to National is calculated using a single percentage. That percentage applies to all levels of the ‘account level’ tiering.
+
+^A portion of the minimum fee per account will be distributed to National according to the applicable Distribute Schedule.
+
+^Platform Fee Discounts: Each product solution is priced with discount schedules to give reps from National some flexibility in selling the platform. Although it is possible to build additional discounted fee schedules into the Envestnet billing system, each schedule must be entered manually. If additional discount schedules are desired, it is preferred that those schedules be defined at the onset. The distribute percentage for a newly added discount schedule will match the discount schedule listed for the nearest first tier (e.g., if a schedule is established for a product with a first tier equal to [***] the distribution percentage will match that listed for [***]. A new schedule starting at [***] will match that listed for [***])
+
+^Reporting and Administrative Services are available for accounts custodied at Fidelity or other custodial systems that provide data to Envestnet’s systems electronically.
+
+***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.
+
+\centered **Confidential Treatment Requested** 
+
+^Separate development fees will be charged to any correspondent that requires further customization of the platform to accommodate its own investment programs, for example: development of product profiles, asset allocation diagrams, questionnaire scoring, performance hypotheticals, etc. These fees will generally be a one-time charge. Revenues from these development activities will be retained in full by Envestnet.
+
+^Separate development fees will be charged to any correspondent to fulfill a request for additional separate account managers on that firms the platform. The fee to develop the first product profile, setup the manager/product on the Envestnet data base and in APL, setup the manager/product on the website, train/test the manager on APL and test the connection, complete sub-manager contracts will be [*** ] Each additional product from this same manager will cost [***] to setup. Revenues from these development activities will be retained in full by Envestnet.
+
+^The “Bill” and “Distribute” amounts specified above for the Strategic Advisers Wrap Portfolios include amounts to be paid to SAI by Envestnet pursuant to the separate agreement between Envestnet and SAI. Such amounts are included in the percentages specified in such tables solely for the parties’ convenience, and notwithstanding the inclusion of such amounts in such percentages in such tables, Envestnet shall pay all amounts due from Envestnet to SAI directly to SAI in accordance with the terms of such separate agreement between Envestnet and SAI (the remaining portion of the percentage specified in the Distribute table will be paid by Envestnet to National).
+
+^With respect to the fee schedule set forth above for the Strategic Advisers Mutual Fund Portfolios, if amounts payable by Envestnet pursuant to such fee schedule for a particular period for a given account are less than the amounts otherwise payable by Envestnet to SAI with respect to such account for such period pursuant to the separate sub-advisory agreement (the **“Sub-Management Agreement”)** between Envestnet and SAI (the difference between such amounts is referred to herein as the **“SAI Shortfall”),** then Envestnet shall (i) withhold the amount of the SAI Shortfall from amounts that are due and payable by Envestnet to National hereunder in respect of other accounts that do not have an SAI Shortfall for such period, and (ii) promptly remit the amount of the SAI Shortfall to SAI in accordance with the terms of the Sub-Management Agreement on behalf of National.
+
+**Billing Procedures** 
+
+Administration and payment of Program fees for which SAI performs subadvisory activities to Envestnet shall be set forth in a separate agreement between Envestnet and SAI. All other program fees will be billed quarterly, in advance, and follow the average daily balance (ADB) calculation formula. Envestnet will calculate the total Client fees and submit the fee debit instructions to National for automatic payments from each Client’s account. National will process Envestnet’s instructions to debit Program fees due from Clients pursuant to authority to do so granted to Envestnet in an agreement between each Client and Envestnet. Envestnet shall instruct National to release the fees as follows: (i) National’s portion of the fee shall be retained by National; (ii) National will remit the relevant Advisor’s portion of the fee to the Advisor (per Correspondent Clearing Statement); and (iii) the remaining portion of the fee shall be released to Envestnet (and Envestnet shall be responsible for paying any applicable sub-advisory fees to the appropriate Money Manager). Prior to the aforementioned release of fees, Envestnet shall send to each Client a fee statement, at least quarterly, indicating all amounts to be disbursed from the Client’s account. All fees shall be based on the amount of assets under management in each Client account during the applicable period of determination, calculated on a pro rata basis for any partial period, as applicable, and payable by Clients in accordance with the terms of the applicable Advisory Agreement. 
+
+**IN WITNESS WHEREOF,** the parties, by their duly authorized representatives, have executed this Amendment as of the day and year first above written. 
+
+**Envestnet Asset Management, Inc.**            **National Financial Services**
+
+[[Envestnet Asset Management Inc.            National Financial Services Signatory Email: Identity | Signature]]
+__________________________________________
+{{Envestnet Asset Management Inc.            National Financial Services Entity => By: [[Envestnet Asset Management Inc.            National Financial Services Signatory First Name]] [[Envestnet Asset Management Inc.            National Financial Services Signatory Last Name]]
+Title: [[Envestnet Asset Management Inc.            National Financial Services Signatory Title]]}}
+
+
+[***]   Certain information has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions.

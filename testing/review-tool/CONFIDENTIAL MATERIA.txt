@@ -1,0 +1,433 @@
+CONFIDENTIAL MATERIAL APPEARING IN THIS DOCUMENT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION IN ACCORDANCE WITH THE SECURITIES ACT OF 1933, AS AMENDED, AND RULE 24B-2 PROMULGATED THEREUNDER. OMITTED INFORMATION HAS BEEN REPLACED WITH ASTERISKS (**). 
+
+[[Company]] 
+
+[[Address 1: Address]]-5424 
+
+[[Date 1: Date]] 
+
+Re: Accelerated Share Repurchase 
+
+Ladies and Gentlemen: 
+
+This letter (the “Letter Agreement”) sets forth the agreement we have reached with respect to a transaction (this “Transaction”) between Goldman, Sachs & Co. (“GS&Co.”) and [[Company]] (the “Company”) in relation to shares of the Company’s common stock, par value $.01 per share (the “Common Stock”). 
+
+^^^Definitions 
+
+As used in this Letter Agreement, the following terms shall have the following meanings: 
+
+“10b-18 VWAP” means, for any Trading Day, the volume-weighted average price at which the Common Stock trades as reported in the composite transactions for the principal United States securities exchange on which such Common Stock is then listed, on such Trading Day, excluding (i) trades that do not settle regular way, (ii) opening (regular way) reported trades in the consolidated system on such Trading Day, (iii) trades that occur in the last ten minutes before the scheduled close of trading on the Exchange on such Trading Day and ten minutes before the scheduled close of the primary trading in the market where the trade is effected, and (iv) trades on such Trading Day that do not satisfy the requirements of Rule 10b-18(b)(3), as determined in good faith by GS&Co. The Company acknowledges that GS&Co. may refer to the Bloomberg Page “SLE.N <Equity> AQR SEC” (or any successor thereto), in its judgment, for such Trading Day to determine the 10b-18 VWAP. 
+
+“Alternative Termination Delivery Unit” means one share of Common Stock. 
+
+“Bankruptcy Code” has the meaning specified in Section XX(c). 
+
+“Change in Law Termination” has the meaning specified in Section VII(d)(ii). 
+
+“Company ATDU Number” has the meaning specified in Section X(e). 
+
+“Default Notice Day” has the meanings specified in Section X(b) and X(d). 
+
+“Delisting Event Termination” has the meaning specified in Section VII(c)(ii). 
+
+“Disrupted Day” means a scheduled Trading Day (i) (A) on which a Market Disruption Event or a Regulatory Disruption Event occurs and (B) which is designated by GS&Co. as a Disrupted Day by written notice to the Company not later than 6:00 p.m. [[Address 2: Address]] on such scheduled Trading Day, (ii) during any Distribution Period or (iii) on which the Exchange does not open for trading during its regular trading session (notwithstanding the Exchange closing prior to its scheduled closing time). 
+
+“Distribution” has the meaning specified in Section V(b). 
+
+“Distribution Commencement Date” has the meaning specified in Section V(b). 
+
+“Distribution Completion Date” means, in respect of any Distribution, the Trading Day on which GS&Co. receives notice of the completion of such Distribution pursuant to Section V(b)(iii). 
+
+“Distribution Period” means, in respect of any Distribution, the period commencing on and including the Distribution Commencement Date and ending on and including the Distribution Completion Date. 
+
+“Dividend Event Termination” has the meaning specified in Section VII(a)(ii). 
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended. 
+
+“Exchange” means the [[Address 3: Address]] (“NYSE”) or any successor exchange. 
+
+“Final Cash Settlement Amount” means the product of (i) the average of the 10b-18 VWAPs for all Trading Days during the Settlement Period and (ii) the absolute value of the Settlement Number. 
+
+“First Acceleration Date” means [**]; *provided*, *however* that, upon the occurrence of any Disrupted Day during the Pricing Period up to the First Acceleration Date (including any extension thereof), the First Acceleration Date shall be extended by one scheduled Trading Day for each such Disrupted Day. 
+
+“Hedging Transactions” has the meaning specified in Section IV(a). 
+
+“Initial Settlement Date” means the first Trading Day immediately following the Purchase Date. 
+
+“Initial Share Number” means a number of shares of Common Stock, rounded down to the nearest integer, equal to the Purchase Price *divided by* the closing price per share of Common Stock on the Purchase Date. 
+
+“Loss” has the meaning specified in Section X(a). 
+
+“Loss Notice” has the meaning specified in Section X(a). 
+
+Confidential material appearing in this document has been omitted and filed separately with the Securities and Exchange Commission in accordance with the Securities Act of 1933, as amended, and rule 24b-2 promulgated thereunder. Omitted information has been replaced with asterisks (**).
+
+“Market Disruption Event” means any (i) suspension of or limitation imposed on trading in the Common Stock by the Exchange or (ii) event that materially disrupts or impairs the ability of market participants in general to effect transactions in, or obtain market values for, the shares of Common Stock on the Exchange or any options contracts or futures contracts related to the Common Stock on any exchange or quotation system where trading has a material effect on the overall market for futures or options contracts relating to the Common Stock. 
+
+“Net ATDU Number” has the meaning specified in Section X(c). 
+
+“Pricing Period” means the period commencing on and including the Pricing Period Commencement Date and ending on and including the Pricing Period Termination Date. 
+
+“Pricing Period Commencement Date” means the scheduled Trading Day immediately following the Purchase Date. 
+
+“Pricing Period Termination Date” means the earlier of (a) the Scheduled Pricing Period Termination Date and (b) any Trading Day that GS&Co. designates as the Pricing Period Termination Date by notifying Company on such date of its termination of the Pricing Period, *provided* that such termination shall not occur prior to the First Acceleration Date. 
+
+“Private Placement Settlement” means a private placement transaction of Common Stock or the securities constituting Alternative Termination Delivery Units, as the case may be, effected pursuant to Section 4(2) of the Securities Act, in connection with the settlement of the Company’s obligations contemplated by Section VI or X(d) and (e), on terms satisfactory to both the Company and GS&Co., and including customary documentation furnished and undertakings effected in connection with such offering, consisting, among other things, of (i) a private placement agreement customary for private placements of equity securities, (ii) due diligence rights (for GS&Co. or any designated buyer), and (iii) disclosure and other legal opinions and certificates and such other documentation as is customary for private placements agreements. 
+
+“Purchase Date” means the date of this Letter Agreement. 
+
+“Purchase Price” has the meaning specified in Section III. 
+
+“Registered Settlement” means a registered offering of Common Stock or the securities constituting Alternative Termination Delivery Units, as the case may be, effected pursuant to the registration requirements of the Securities Act, in connection with the settlement of the Company’s obligations contemplated by Section VI or Section X(d) and (e), on terms satisfactory to both the Company and GS&Co., and including customary documentation furnished and undertakings effected in connection with such offering, consisting, among other things, of (i) an effective registration statement under the Securities Act to cover the resale of such shares, (ii) an underwriting agreement for a registered offering, (iii) accountant’s “comfort” letters, (iv) disclosure and other legal opinions, and (v) a reasonable opportunity to conduct a “due diligence” investigation with respect to the Company. 
+
+“Regulation M” means Regulation M under the Exchange Act. 
+
+“Regulatory Disruption Event” means an occurrence of an event or condition, as a result of which, GS&Co. reasonably concludes in good faith and in consultation with legal counsel, that it is appropriate with respect to any legal, regulatory or self-regulatory requirements or related policies and procedures (whether or not such requirements, policies or procedures are imposed by law or have been voluntarily adopted by GS&Co.), for it to refrain from purchasing Common Stock on any Trading Day during the Pricing Period. 
+
+“Rule 10b-18” means Rule 10b-18 under the Exchange Act 
+
+“Scheduled Pricing Period Termination Date” means [**]; *provided*, *however,* that upon the occurrence of any Disrupted Day during the Pricing Period, the Scheduled Pricing Period Termination Date shall be extended by one scheduled Trading Day for each such Disrupted Day. 
+
+“Second Settlement Date” means, if the Settlement Number is positive, the third Trading Day immediately following the Pricing Period Termination Date, and otherwise, the third Trading Day immediately following the conclusion of the Settlement Period. 
+
+“Securities Act” means the Securities Act of 1933, as amended. 
+
+“Settlement Number” means the number of shares of Common Stock equal to (i) the Valuation Number *minus* (ii) the Initial Share Number. 
+
+“Settlement Period” means the period commencing on the second Trading Day immediately following the Pricing Period Termination Date and ending on the date on which GS&Co. notifies the Company that it has concluded its purchases in connection with the establishment of the Final Cash Settlement Amount in accordance with Section VI(b). 
+
+“Share Cap” means, as of any date of determination, two (2) times the Initial Share Number minus the number of shares of Common Stock delivered by the Company to GS&Co. on or prior to such date hereunder (subject to adjustment pursuant to Section VIII). 
+
+“Share Price Event Termination” has the meaning specified in Section VII(b)(ii). 
+
+“Share Sale Period” means the period, beginning on the Trading Day immediately following the Settlement Period, in which GS&Co. effects, pursuant to Section VI(d), sales of a number of shares of Common Stock equal to the Share Settlement Number. 
+
+“Share Settlement Election Notice” has the meaning specified in Section VI(d). 
+
+“Share Settlement Number” has the meaning specified in Section VI(d). 
+
+“Staggered Share Settlement Dates” has the meaning specified in Section VI(d). 
+
+“Sub-VWAP Price” means the average of the 10b-18 VWAPs for all Trading Days in the Pricing Period *minus* (ii) $[**]. 
+
+Confidential material appearing in this document has been omitted and filed separately with the Securities and Exchange Commission in accordance with the Securities Act of 1933, as amended, and rule 24b-2 promulgated thereunder. Omitted information has been replaced with asterisks (**).
+
+Confidential material appearing in this document has been omitted and filed separately with the Securities and Exchange Commission in accordance with the Securities Act of 1933, as amended, and rule 24b-2 promulgated thereunder. Omitted information has been replaced with asterisks (**).
+
+“Termination Notice” has the meaning specified in Section X(a). 
+
+“Termination Price” means the value of an Alternative Termination Delivery Unit over the Termination Share Purchase Period, as determined by GS&Co. in a commercially reasonable manner, subject to Section XV. 
+
+“Termination Share Purchase Period” has the meaning specified in Section X(c). 
+
+“Total ATDU Number” has the meaning specified in Section X(c). 
+
+“Trading Day” means any day other than a Saturday, a Sunday or a Disrupted Day. 
+
+“Valuation Number” means the number of shares of Common Stock, rounded down to the nearest integer, equal to the Purchase Price *divided by* the Sub-VWAP Price. 
+
+^^^Share Cap 
+
+Notwithstanding any other provisions of this Letter Agreement, no obligation of the Company hereunder to deliver shares of Common Stock or Alternative Termination Delivery Units shall exceed a number of shares equal to the Share Cap. For the avoidance of doubt, the foregoing sentence shall apply to settlements pursuant to Section VI and Section X 
+
+^^^Purchase and Initial Settlement 
+
+^^Subject to the terms and conditions of this Letter Agreement, on the Purchase Date, the Company agrees to purchase from GS&Co., and GS&Co. agrees to sell to the Company, a number of shares of Common Stock for a purchase price equal to $[[USD Value 1: Number]] (the “Purchase Price”). The number of shares of Common Stock purchased by the Company hereunder shall be determined in accordance with the terms of this Letter Agreement. 
+
+^^On the Initial Settlement Date, the Company shall pay an amount equal to the Purchase Price to GS&Co. 
+
+^^On the Initial Settlement Date, GS&Co. shall deliver a number of shares of Common Stock equal to the Initial Share Number to the Company. 
+
+^^Delivery and payment pursuant to this Section III shall be effected in accordance with GS&Co.’s customary procedures. 
+
+^^^GS&Co. Purchases and Other Hedging Activity 
+
+^^In its purchases of shares of Common Stock and other hedging activity related to this Transaction, GS&Co., its affiliates or persons acting on behalf of any of the foregoing may purchase shares of Common Stock or enter into derivative or other transactions, including without limitation options, forwards or swaps involving shares of Common Stock (collectively, the “Hedging Transactions”). The timing of such transactions, the price paid or received per share of Common Stock pursuant to such transactions and the manner in which such transactions are made, including without limitation whether such transactions are made on any securities exchange or privately, shall be within the commercially reasonable judgment of GS&Co., *provided* that GS&Co. agrees that, during the Pricing Period, any and all purchases of shares of Common Stock constituting Hedging 
+
+Transactions, as well any and all other direct or indirect “long” or “call equivalent” positions in shares of Common Stock (treated as purchases of such shares for the purposes of this sentence) in Hedging Transactions, shall not exceed that day’s volume limitation for “Rule 10b-18 purchases” by the Company and its “affiliated purchasers” pursuant to Rule 10b-18; *provided, however,* that for the purposes of calculating “ADTV” as defined in Rule 10b-18, GS&Co. may conclusively rely upon published information on Bloomberg or another widely recognized third party source for market data. Notwithstanding the foregoing, the parties hereto acknowledge that none of the Hedging Transactions shall constitute “Rule 10b-18 purchases” under Rule 10b-18. 
+
+^^It is the intent of the parties that the transactions contemplated hereunder comply with the requirements of Rule 10b5-1(c)(1)(A) and (B) and this Letter Agreement shall be interpreted to comply with the requirements of Rule 10b5-1(c). The Company acknowledges that (i) it does not have, and shall not attempt to exercise, any influence over how, when or whether to effect purchases of Common Stock by GS&Co. (or its agent or affiliate) in connection with this Letter Agreement and (ii) the Company is entering into this Letter Agreement in good faith and not as part of a plan or scheme to evade compliance with federal securities laws including, without limitation, Rule 10b-5 promulgated under the Exchange Act. The Company also acknowledges and agrees that any amendment, modification, waiver or termination of this Letter Agreement must be effected in accordance with the requirements for the amendment or termination of a “plan” as defined in Rule 10b5-1(c) under the Exchange Act. Without limiting the generality of the foregoing, any such amendment, modification, waiver or termination shall be made in good faith and not as part of a plan or scheme to evade the prohibitions of Rule 10b-5 under the Exchange Act, and no amendment, modification or waiver shall be made at any time at which the Company or any officer or director of the Company is aware of any material nonpublic information regarding the Company or the Common Stock. 
+
+^^^Company Purchases and Sales 
+
+^^Except as provided in the following sentence, the Company shall not purchase any shares of Common Stock on the open market, or enter into any accelerated share repurchase program, or any derivative share repurchase transaction, or other similar transaction, during the Pricing Period, the Settlement Period or the Termination Share Purchase Period. During such time, notwithstanding anything to the contrary provided in this Section V, the Company may, without the prior written consent of GS&Co., purchase shares of Common Stock in privately negotiated transactions or otherwise (including without limitation purchases of shares from employee benefit plans) that do not constitute Rule 10b-18 purchases (as such term is defined in Rule 10b-18), except for transactions that would result in open market purchases of Common Stock. 
+
+^^During each of the Pricing Period, the Settlement Period and the Termination Share Purchase Period, the Company (i) shall notify GS&Co. if the Company determines that as a result of an acquisition or other business transaction or for any other reason the Company will be engaged in a distribution of shares of Common Stock, or other securities for which such shares are a reference security for purposes of Rule 102 of Regulation M (a “Distribution”) no later than one (1) business day prior to the commencement of such Distribution, (ii) shall notify GS&Co. of the date of commencement of the restricted period for the purposes of Rule 102 of Regulation M in respect of any such Distribution (the date of commencement so timely notified by the Company, the “Distribution Commencement Date”) no later than one (1) business day prior to the commencement of such restricted period and (iii) shall notify GS&Co. of the completion of any such Distribution no later than one (1) business day following the completion of the related restricted period, which notice under this clause (iii), in order to be effective, shall include a representation by the Company to GS&Co. that as of the date of such notice, the Company is not in possession of any material nonpublic information regarding the Company or the Common Stock. 
+
+^^^Subsequent Settlement 
+
+^^On the Second Settlement Date, if the Settlement Number is positive, GS&Co. shall deliver to the Company a number of shares of Common Stock equal to the Settlement Number. 
+
+^^In the event that the Settlement Number is negative, the Settlement Period and the Final Cash Settlement Amount shall be determined as follows: Commencing on the second Trading Day immediately following the Pricing Period Termination Date, GS&Co. will purchase a number of shares of Common Stock equal to the absolute value of the Settlement Number and, at the conclusion of such purchases, GS&Co. shall notify the Company of the completion of the Settlement Period and the Final Cash Settlement Amount. GS&Co. shall use commercially reasonable efforts in good faith to effect such purchases of Common Stock in a manner that would comply with the limitations set forth in clauses (b)(2), (b)(3), (b)(4) and (c) of Rule 10b-18 as if such rule were applicable to such purchases. 
+
+^^If the Settlement Number is negative and a valid Share Settlement Election Notice has not been delivered to GS&Co. by the Trading Day immediately following the Pricing Period Termination Date, the Company shall pay to GS&Co. the Final Cash Settlement Amount on the Second Settlement Date. 
+
+^^By providing to GS&Co. notice in writing (the “Share Settlement Election Notice”) of such election no later than one Trading Day immediately following the Pricing Period Termination Date, the Company may elect, in lieu of payment of the Final Cash Settlement Amount, to deliver to GS&Co., on one or more Staggered Share Settlement Dates (as specified below), the number of shares of Common Stock (the “Share Settlement Number”) that GS&Co., using commercially reasonable efforts, must sell in order to realize the Final Cash Settlement Amount during the Share Sale Period, *subject to the following provisos:* 
+
+^^^The Company’s election to deliver such shares pursuant to this paragraph (d) shall not be valid and cash settlement shall apply if the representation made by the Company to GS&Co. in Section XVII(e) is not true and correct as of the date the Company makes such election, as if made on such date; 
+
+^^^Settlement of shares of Common Stock to be delivered by the Company to GS&Co. pursuant to this paragraph (d), up to the Share Settlement Number, shall occur on the second Trading Day immediately following notification by GS&Co. that such shares have been sold by GS&Co. during the Share Sale Period pursuant to this paragraph (d) (each such date, a “Staggered Share Settlement Date”); and 
+
+^^^If such shares do not satisfy the conditions for Registered Settlement, then such shares shall be sold in the Private Placement Settlement and GS&Co. may apply a commercially reasonable discount to the value of such shares and request by written notice an additional number of shares of Common Stock having a value equal to such discount. The Company shall deliver such additional number of shares within three Trading Days following delivery of GS&Co.’s notice communicating such number of shares. 
+
+^^Any share delivery pursuant to paragraph (d) above shall be effected pursuant to Registered Settlement or Private Placement Settlement, at the election of the Company. 
+
+^^Any deliveries and payments pursuant to this Section VI shall be effected in accordance with GS&Co.’s customary procedures. 
+
+^^^Additional Termination Events. 
+
+^^(i) If [[Percentage 1: Number]]% of the aggregate gross cash dividends per share of Common Stock (including any cash extraordinary dividends) declared by the Company and for which the ex-date occurs at any time during the Pricing Period or the Settlement Period is less than or exceeds the ordinary cash dividend amount for the related dividend period set forth in this Section VII(a)(i), a “Dividend Event” shall be deemed to have occurred. 
+
+**Ordinary Cash Dividend Amount**      \centered **Dividend Period**
+
+$[[USD Value 2: Number]] per share of Common Stock      Purchase Date  [[Date 2: Date]]
+
+$[[USD Value 3: Number]] per share of Common Stock      [[Date 3: Date]]  [**]
+
+$[[USD Value 2]] per share of Common Stock      Any period after [**]
+
+^^^Dividend Event Termination. Upon the occurrence of a Dividend Event, on any Trading Day up to and including the second Trading Day immediately following the earlier of (A) notice by the Company to GS&Co. of the occurrence of such Dividend Event and (B) actual knowledge of GS&Co. of the occurrence of such Dividend Event, (i) if such Dividend Event has occurred as a result of aggregate gross cash dividends per share of Common Stock being less than the ordinary cash dividend amount for the related dividend period as set forth in Section VII(a)(i), the Company may elect to terminate this Transaction, and (ii) if such Dividend Event has occurred as a result of aggregate gross cash dividends per share of Common Stock exceeding the ordinary cash dividend amount for the related dividend period as set forth in Section VII(a)(i), GS&Co. may elect to terminate this Transaction (either such termination, a “Dividend Event Termination”). Upon the occurrence of a Dividend Event Termination, the Affected Party shall be the Company and GS&Co. shall be the Non-Affected Party. 
+
+^^(i) If the 10b-18 VWAP on any Trading Day following the Purchase Date shall have been less than $[[USD Value 4: Number]] (subject to adjustment under Section VIII), a “Share Price Event” shall be deemed to have occurred. 
+
+^^^Share Price Event Termination. Upon the occurrence of a Share Price Event, on any Trading Day up to and including the second Trading Day immediately following the occurrence of such Share Price Event, GS&Co. may elect to terminate this Transaction (a “Share Price Event Termination”). Upon the occurrence of a Share Price Event Termination the Affected Party shall be the Company and GS&Co. shall be the Non-Affected Party. 
+
+Confidential material appearing in this document has been omitted and filed separately with the Securities and Exchange Commission in accordance with the Securities Act of 1933, as amended, and rule 24b-2 promulgated thereunder. Omitted information has been replaced with asterisks (**).
+
+^^(i) In the event that the Exchange announces that pursuant to the rules of the Exchange, the Common Stock ceases (or will cease) to be listed, traded or publicly quoted on the Exchange for any reason (other than the occurrence of an event addressed of Section VIII) and is not immediately re-listed, re-traded or re-quoted on the Exchange, the NASDAQ Global Market or the NASDAQ Global Select Market (or their respective successors), a “Delisting Event” shall be deemed to have occurred. 
+
+^^^Delisting Termination. Upon the occurrence of a Delisting Event, GS&Co. may elect to terminate this Transaction (a “Delisting Termination”). Upon the occurrence of a Delisting Termination, the Affected Party shall be the Company and GS&Co. shall be the Non-Affected Party. 
+
+^^(i) If, at any time on or after the Purchase Date, (A) due to the adoption of or any change in any applicable law or regulation (including, without limitation, any tax law), or (B) due to the promulgation of or any change in the interpretation by any court, tribunal or regulatory authority with competent jurisdiction of any applicable law or regulation (including any action taken by a taxing authority), GS&Co. determines in good faith that it has become illegal to hold, acquire or dispose of shares of Common Stock relating to this Transaction, a “Change in Law Event” shall be deemed to have occurred. 
+
+^^^Change in Law Termination. Upon the occurrence of a Change in Law Event, GS&Co. may elect to terminate this Transaction (a “Change in Law Termination”). Upon the occurrence of a Change in Law Termination, the Affected Party shall be the Company and GS&Co. shall be the Non-Affected Party. 
+
+^^^Adjustment of Terms 
+
+Subject to Section XV, in the event of (i) the public announcement of an offer to the holders of Common Stock to tender in excess of [[Percentage 2: Number]]% of the outstanding shares of Common Stock for cash or the public announcement of any other corporate event involving the Company or the Common Stock (including, without limitation, a non-cash dividend, stock split, reorganization, merger, offer to tender Common Stock for consideration other than cash, rights offering, recapitalization or spin-off) that would have a material effect on the theoretical value of the Common Stock or this Transaction or (ii) the occurrence of a Disrupted Day as a result of a Distribution Period, the terms of this Transaction described herein shall be subject to adjustment by GS&Co. (including, without limitation, with respect to the ordinary cash dividend amounts specified in Section VII(a) above and the number of Trading Days in the Pricing Period) as in the exercise of its good faith and commercially reasonable judgment it deems appropriate to preserve the relative rights and obligations of the parties hereto. GS&Co. shall notify the Company in writing as to the terms of any proposed adjustment pursuant to this Section VIII as soon as possible following the announcement of the relevant corporate event. For the avoidance of doubt, the parties agree that none of the following events shall, by itself, constitute a corporate event: (i) any change in, announcement or other public disclosure, by the Company or any other party, relating to the Company’s earnings, charges or other financial developments or ongoing business; or (ii) any sale by the Company for cash or other consideration of any subsidiaries, divisions, business lines or other assets. 
+
+^^^Events of Default 
+
+The occurrence of any of the following events with respect to a party which party shall be the Defaulting Party (the other party, the “Non-Defaulting Party”) shall be an Event of Default: 
+
+^^The failure to make any payment or any delivery pursuant to the terms of the Letter Agreement, which failure shall remain unremedied on or before the first business day after notice of such failure is given to a party; or 
+
+^^Any representation or warranty made in this Letter Agreement shall prove to have been false in any material respect at the time it was made, given or reaffirmed; or 
+
+^^The failure to perform or comply in any material respect with any other obligation in this Letter Agreement which failure shall continue for ten (10) business days after written notice of such failure has been sent to the Defaulting Party; or 
+
+^^(A) The initiation of any case, proceeding or other action (1) under any existing or future law of any jurisdiction, domestic or foreign, relating to bankruptcy, insolvency, reorganization or other relief of debtors, seeking to have an order for relief entered with respect to it, or seeking to have itself adjudicated as bankrupt or insolvent, or seeking reorganization, arrangement, adjustment, winding-up, liquidation, dissolution or composition or other relief under bankruptcy or insolvency law with respect to it or its debts or (2) which seeks appointment of a receiver, trustee, custodian, conservator or other similar official for it or for all or any substantial part of its assets; (B) a general assignment for the benefit of its creditors; (C) the initiation of any case, proceeding or other action of a nature referred to in clause (A) hereof which (1) results in the entry of an order for relief or any such adjudication or appointment with respect to the party or any of its assets or (2) is not dismissed, stayed, discharged or bonded for a period of five (5) days; (D) the initiation of any case, proceeding or other action seeking issuance of a warrant of attachment, execution, or similar process against all or any substantial part of its assets, which case, proceeding or other action results in the entry of an order for any such relief which shall not have been vacated, discharged, or stayed or bonded pending appeal within thirty (30) days from the entry thereof; (E) such party shall take any action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any of the acts set forth in clauses (A)(D) hereof; or (F) such party shall admit in writing its inability to pay its debts as they become due; or 
+
+^^Any loan or other obligation in respect of borrowed money (whether present or future, contingent or otherwise, as principal or surety or otherwise) of a party in an amount, in excess of (i) if such party is the Company, [[Percentage 3: Number]]% of tangible assets or (ii) if such party is GS&Co., [[Percentage 3]]% of shareholders’ equity, shall have become payable before the due date thereof as a result of acceleration of maturity caused by the occurrence of any event of default thereunder or if any other such loan or obligation shall not be repaid when due, as extended by any applicable grace period specified in the contracts or agreements constituting such loan or obligation. 
+
+^^^Remedies 
+
+^^Upon the occurrence and the continuance of an Event of Default, a Dividend Event Termination, a Share Price Event Termination, a Delisting Termination or a Change in Law Termination, the Non-Defaulting Party or the party specified in Section VII (as the case may be) in its sole discretion may immediately, upon notice to the other party (a “Termination Notice”), terminate this Transaction and the obligation of the parties to make any payment or delivery of shares in accordance with the settlement terms of this Letter Agreement will terminate (it being understood that such termination will not affect or suspend any payment or other obligations under this Section X). If GS&Co. is the Non-Defaulting Party or the Non-Affected Party, it may reduce the number of days in the Pricing Period, notwithstanding any other provision hereof, purchase a number of shares of Common Stock to cover its remaining short position or adjust any other term hereof, and sell, liquidate, offset or take any other action with respect to any short position established or maintained by it in connection with this Transaction. Following a Termination Notice, the Non-Defaulting Party or the Non-Affected Party (as the case may be) shall act in good faith and in a commercially reasonable manner (and in consultation with the other Party) to determine the amount that such party reasonably in good faith believes to be its total unreimbursed net losses and costs in connection with this Letter Agreement (or gain, in which case expressed as a negative number) (the “Loss”). Such computation shall include any out-of-pocket losses and loss or cost incurred as a result of its terminating, liquidating, obtaining or reestablishing any hedge or related trading position (or any gain resulting from any of them). In addition to the foregoing, the Non-Defaulting Party or the Non-Affected Party may include in its determination of its Loss hereunder such losses and costs (or gains) in respect of any payment or delivery required to have been made and not made on or before the relevant termination date. The amount of the Loss shall be specified in a notice to the Defaulting Party or Affected Party in a notice (the “Loss Notice”) as soon as practicable following calculation of the Loss within a commercially reasonable period following the Termination Notice. 
+
+^^(i) If GS&Co. is the Defaulting Party or Affected Party, upon receipt of a Loss Notice from the Company where the amount of such Loss is a positive number, or (ii) if the Company is the Defaulting Party or the Affected Party where the amount of such Loss is a negative number, then in either case GS&Co. shall promptly pay to the Company the absolute value of such Loss in cash or deliver, pursuant to paragraph (c) below, Alternative Termination Delivery Units at the Company’s election, which binding election shall be made in writing no later than one business day immediately following the Non-Defaulting Party’s or the Non-Affected Party delivery of the related Loss Notice, as applicable (the date of such delivery, the “Default Notice Day”); *provided* that the Company’s election to receive the Alternative Termination Delivery Units pursuant to this Section X(b) shall not be valid and cash settlement shall apply if the representation made by the Company to GS&Co. in Section XVII(e) is not true and correct as of the date the Company makes such election, as if made on such date. 
+
+^^If GS&Co. is the Defaulting Party or Affected Party and the amount of the Loss is a positive number or if the Company is the Defaulting Party or the Affected Party where the amount of the Loss is a negative number, and in each case if the Company elects physical settlement pursuant to paragraph (b) above, (i) GS&Co. shall, beginning on the first Trading Day following the Default Notice Day and ending on the Trading Day when GS&Co. shall have satisfied its obligations under this clause (the “Termination Share Purchase Period”), purchase a number of Alternative Termination Delivery Units (the “Net ATDU Number”) equal to (x) (A) the Loss *divided by* (B) the Termination Price (such quotient, the “Total ATDU Number”) *minus* (y) any Alternative Termination Delivery Units then directly or indirectly held by GS&Co. in its hedge position related to this Transaction; and (ii) GS&Co. shall deliver the Total ATDU Number to the Company as soon as practicable. The timing of the purchases of the Net ATDU Number by GS&Co., the price paid per unit pursuant to such purchases and the manner in which such purchases are made, including without limitation whether such transactions are made on any securities exchange or privately, shall be within the reasonable judgment of GS&Co.; *provided* that GS&Co. shall use commercially reasonable efforts in good faith to effect such purchases of Common Stock in a manner that would comply with the limitations set forth in clauses (b)(2), (b)(3), (b)(4) and (c) of Rule 10b-18 as if such rule were applicable to such purchases. 
+
+^^(i) If GS&Co. is the Defaulting Party or Affected Party, upon receipt of a Loss Notice from the Company where the amount of such Loss is a negative number, or (ii) if the Company is the Defaulting Party or the Affected Party where the amount of such Loss is a positive number, then in either case the Company shall promptly pay to GS&Co. the absolute value of such Loss in cash or deliver, pursuant to paragraph (e) below, Alternative Termination Delivery Units at the Company’s election, which binding election shall be made in writing no later than one business day immediately following the Non-Defaulting Party’s or the Non-Affected Party delivery of the related Loss Notice, as applicable (the date of such delivery, the “Default Notice Day”); *provided* that the Company’s election to deliver the Alternative Termination Delivery Units pursuant to this Section X(d) shall not be valid and cash settlement shall apply if the representation made by the Company to GS&Co. in Section XVII(e) is not true and correct as of the date the Company makes such election, as if made on such date. 
+
+^^If GS&Co. is the Defaulting Party or Affected Party and the amount of the Loss is a negative number or if the Company is the Defaulting Party or the Affected Party where the amount of the Loss is a positive number, and in each case if the Company elects physical settlement pursuant to paragraph (d) above, the Company shall deliver to GS&Co. a number of Alternative Termination Delivery Units (“Company ATDU Number”) having a value equal to the absolute value of the amount of such Loss. Such value shall be determined in a commercially reasonable manner by GS&Co. based on the then fair market value of the Alternative Termination Delivery Units, may take into account any transfer restrictions imposed by law on any securities constituting Alternative Termination Delivery Units and shall be conducted in compliance with the procedures for Registered Settlement or Private Placement Settlement, at the election of the Company. 
+
+^^In addition to the payments set forth in subsections (b) and (d) above, the Defaulting Party or Affected Party agrees to indemnify the other party from and against any reasonable expenses (including reasonable legal fees and other expenses of collection) it may incur as a result of any default by such party. Notwithstanding the foregoing, a party shall not be responsible for any special, indirect or consequential damages, even if informed of the possibility thereof. 
+
+^^^Other Agreements 
+
+^^The parties acknowledge and agree that this Letter Agreement is not intended to convey to GS&Co. rights against the Company hereunder that are senior to the claims of common stockholders in any U.S. bankruptcy proceedings of the Company; *provided*, *however*, that nothing herein shall limit or shall be deemed to limit GS&Co.’s right to pursue remedies in the event of a breach by the Company of its obligations and agreements with respect to this Letter Agreement; and *provided*, *further,* that in pursuing a claim against the Company in the event of a bankruptcy, insolvency or dissolution with respect to Company, GS&Co.’s rights hereunder shall rank on a parity with the rights of a holder of shares of Common Stock enforcing similar rights under a contract involving shares of Common Stock. 
+
+^^The Company agrees that the material terms of this Transaction (and any other similar transactions), and the consequences of such transactions on the financial condition and results of operations of the Company, will be disclosed by the Company in accordance with all rules, regulations, accounting principles (including ASC 815-40, Derivatives and Hedging  Contracts in Entity’s Own Equity (or any successor issue statements)) and laws applicable to the Company in its periodic filings under the Exchange Act and its financial statements and notes thereto. 
+
+^^Notwithstanding anything to the contrary in this Letter Agreement, the Company acknowledges that neither GS&Co. nor any of its affiliates is making any representations or warranties or taking any position or expressing any view with respect to the treatment of this Transaction under any accounting standards including ASC Topic 260, Earnings Per Share, ASC Topic 815, Derivatives and Hedging, or ASC Topic 480, Distinguishing Liabilities from Equity and ASC 815-40, Derivatives and Hedging  Contracts in Entity’s Own Equity (or any successor issue statements). 
+
+^^^Governing Law 
+
+THIS LETTER AGREEMENT SHALL BE GOVERNED BY THE LAW OF THE STATE OF [[Address 4: Address]] TO THE CHOICE OF LAW RULES THEREOF. 
+
+^^^Non-confidentiality 
+
+Notwithstanding anything to the contrary herein, (i) GS&Co. acknowledges that this Letter Agreement may be intended to produce U.S. federal income tax benefits for the Company and (ii) the Company and GS&Co. hereby agree that (A) the Company is not obligated to GS&Co. to keep confidential from any and all persons or otherwise limit the use of any aspect of this Letter Agreement relating to the structure or tax aspects thereof, and (B) GS&Co. does not assert any claim of proprietary ownership in respect of any such aspect of this Letter Agreement. 
+
+^^^Assignment and Transfer 
+
+The rights and duties under this Letter Agreement may not be assigned or transferred by either party hereto without the prior written consent of the other party hereto; *provided*, *however,* that notwithstanding any other provision in this Letter Agreement to the contrary requiring or allowing GS&Co. to purchase, sell, receive or deliver any shares of Common Stock or other securities to or from the Company, GS&Co. may, without the prior written consent of the Company, designate any of its affiliates to purchase, sell, receive or deliver such shares of Common Stock or other securities and otherwise to perform GS&Co.’s obligations in respect of this Transaction and any such designee may assume such obligations and GS&Co. shall be discharged of its obligations to the Company only to the extent of any such performance. For the avoidance of doubt, GS&Co. hereby acknowledges that notwithstanding any such designation or assignment hereunder, to the extent any of GS&Co.’s obligations in respect of this Transaction are not completed by its designee or assignee, GS&Co. shall be obligated to continue to perform or to cause any other of its designees to perform in respect of such obligations. Notwithstanding anything to the contrary in this Letter Agreement, GS&Co. may assign, transfer and set over all rights, title and interest, powers, privileges and remedies of GS&Co. under any transaction contemplated by this Letter Agreement, in whole or in part, to an affiliate of GS&Co. whose obligations are guaranteed by The Goldman Sachs Group, Inc. without the consent of the Company. 
+
+^^^Calculations 
+
+GS&Co. shall give the Company prompt written notice of all calculations, adjustments and determinations made hereunder. Any such calculation, adjustment, or determination shall be made by GS&Co. in good faith and in a commercially reasonably manner. At the request of the Company, following any such calculation, adjustment or determination, GS&Co. shall provide to the Company by electronic mail a report (in a commonly used file format for the storage and manipulation of financial data) setting forth in reasonable detail the basis and methodology for any such calculation, adjustment or determination and including, if applicable, a comparison to any like methodology utilized by GS&Co. in establishing the initial terms of this Transaction. 
+
+^^^Representations of the Parties 
+
+Each party represents to the other party that: 
+
+^^***Status.*** It is duly organized and validly existing under the laws of the jurisdiction of its organization or incorporation and, if relevant under such laws, in good standing; 
+
+^^***Powers.*** It has the corporate or other organizational power to execute and deliver this Letter Agreement and to perform its obligations under this Letter Agreement and has taken all necessary action to authorize such execution, delivery and performance; 
+
+^^***No Violation or Conflict.*** Such execution, delivery and performance do not violate or conflict with any law applicable to it, any provision of its constitutional documents, any order or judgment of any court or other agency of government applicable to it or any of its assets or any contractual restriction binding on or affecting it or any of its assets, except, in the case of any contractual restriction, violations or conflicts that individually or in the aggregate do not have and cannot be reasonably expected to have a material adverse effect on the ability of the Company to perform its obligations hereunder; 
+
+^^***Consents.*** All governmental and other consents that are required to have been obtained by it with respect to this Letter Agreement have been obtained and are in full force and effect and all conditions of any such consents have been complied with; 
+
+^^***Obligations Binding.*** Its obligations under this Letter Agreement constitute its legal, valid and binding obligations, enforceable in accordance with its respective terms (subject to applicable bankruptcy, reorganization, insolvency, moratorium or similar laws affecting creditors’ rights generally and subject, as to enforceability, to equitable principles of general application (regardless of whether enforcement is sought in a proceeding in equity or at law)); and 
+
+^^***Absence of Certain Events.*** No Event of Default (as defined in the Agreement) or event that, with the giving of notice or the passage of time or both, would constitute an Event of Default has occurred and is continuing and no such event or circumstance would occur as a result of its entering into or performing its obligations under this Letter Agreement. 
+
+^^^Representations of the Company 
+
+The Company hereby represents on the Purchase Date that: 
+
+^^it understands that GS&Co. has no obligation or intention to register the transactions contemplated by this Letter Agreement under the Securities Act or any state securities law or other applicable federal securities law; 
+
+^^it understands that no obligations of GS&Co. to it hereunder will be entitled to the benefit of deposit insurance and that such obligations will not be guaranteed by any affiliate of GS&Co. or any governmental agency; 
+
+^^IT UNDERSTANDS THAT THE TRANSACTIONS CONTEMPLATED BY THIS LETTER AGREEMENT ARE SUBJECT TO COMPLEX RISKS THAT MAY ARISE WITHOUT WARNING AND MAY AT TIMES BE VOLATILE AND THAT LOSSES MAY OCCUR QUICKLY AND IN UNANTICIPATED MAGNITUDE AND IS WILLING TO ACCEPT SUCH TERMS AND CONDITIONS AND ASSUME (FINANCIALLY AND OTHERWISE) SUCH RISKS; 
+
+^^each of its filings under the Securities Act, the Exchange Act, or other applicable securities laws that are required to be filed after [[Date 4: Date]], have been filed and that, as of the respective dates thereof, there was no misstatement of material fact contained therein or omission of a material fact required to be stated therein or necessary to make the statements therein not misleading; 
+
+^^it is not entering into this Letter Agreement on the basis of, and is not aware of, any material non-public information with respect to the Common Stock or the Company or in anticipation of, in connection with, or to facilitate, a distribution of its securities, a self tender offer or a third-party tender offer; 
+
+^^it is not entering into any transaction to create, and will not engage in any other securities or derivatives transactions to create, actual or apparent trading activity in the Common Stock (or any security convertible into or exchangeable for Common Stock) or to raise or depress or to manipulate the price of the Common Stock (or any security convertible into or exchangeable for Common Stock); 
+
+^^it has not and will not violate any applicable law, rule or regulation (including, without limitation, the Securities Act and the Exchange Act) in connection with the transactions contemplated by this Letter Agreement; *provided, however,* that the Company makes no representation as to the hedging and other activities of, or on behalf of, GS&Co. in connection with this Transaction; 
+
+^^the transactions contemplated by this Letter Agreement and any repurchase of Common Stock by the Company in connection with such transactions are pursuant to a publicly announced share repurchase program that has been approved by its board of directors and any such repurchase has been or will when so required be publicly disclosed in its periodic filings under the Exchange Act and its financial statements and notes thereto; 
+
+^^it will not consolidate or merge with or into any person unless the surviving person assumes or is responsible, by operation of law, for all obligations of the Company hereunder; 
+
+^^except as previously disclosed in writing to GS&Co., neither the Company nor any agent acting for the Company has, within the four calendar weeks prior to the Purchase Date, entered into a purchase by or for itself or for any of its Affiliated Purchasers of a block of Common Stock (“Affiliated Purchaser” and “blocks” each as defined in Rule 10b-18) in reliance on the block purchase exception set forth in Rule 10b-18(b)(4); 
+
+^^it is not relying, and has not relied upon, GS&Co. with respect to the legal, accounting, tax or other implications of this Letter Agreement and that it has conducted its own analyses of the legal, accounting, tax and other implications of this Letter Agreement; 
+
+^^it understands and acknowledges that GS&Co. and its affiliates may from time to time effect transactions for their own account or the account of customers and hold positions in securities or options on securities of the Company and that, subject to the limitations contained in this Letter Agreement, GS&Co. and its affiliates may continue to conduct such transactions during the Pricing Period, the Settlement Period or the Termination Share Purchase Period; 
+
+^^it is not engaged in a distribution, as such term is used in Regulation M, that would preclude purchases by it or GS&Co. of the Common Stock or cause GS&Co. to violate any law, rule or regulation with respect to such purchases; 
+
+^^its assets at their fair valuation exceed its liabilities, including contingent liabilities; its capital is adequate to conduct its business and it has the ability to pay its debts and obligations as such debts mature and does not intend to, or does not believe that it will, incur debt beyond its ability to pay as such debts mature; 
+
+^^it is an “eligible contract participant”, as defined in the U.S. Commodity Exchange Act (as amended), and is entering into each Transaction hereunder as principal (and not as agent or in any other capacity, fiduciary or otherwise) and not for the benefit of any third party; and 
+
+^^the offer and sale of the transactions contemplated by this Letter Agreement is intended to be exempt from registration under the Securities Act, by virtue of Section 4(2) thereof and, accordingly, the Company represents that (i) it has the financial ability to bear the economic risk of its investment in such transactions and is able to bear a total loss of its investment, (ii) it is an “accredited investor” as that term is defined under Regulation D under the Securities Act and (iii) the disposition of such transactions is restricted under this Master Confirmation, the Securities Act and state securities laws. 
+
+^^^Indemnification 
+
+The Company agrees to indemnify GS&Co. and its affiliates and their respective directors, officers, agents and controlling parties (GS&Co. and each such affiliate or person being an “Indemnified Party”) from and against any and all losses, claims, damages and liabilities, joint and several, incurred by or asserted against such Indemnified Party arising out of, in connection with, or relating to, any breach of the covenants made by the Company in Section V of this Letter Agreement (“Indemnifiable Losses”) and will reimburse any Indemnified Party for all reasonable expenses (including reasonable legal fees and expenses) as they are incurred in connection with the investigation of, preparation for, or defense of any pending or threatened claim or any action or proceeding arising therefrom, whether or not such Indemnified Party is a party thereto. The Company will not be liable under this Indemnity paragraph to the extent that any loss, claim, damage, liability or expense is found in a judgment by a court, agency, tribunal or similar judicial, administrative or arbitral body to have resulted from GS&Co.’s gross negligence or willful misconduct. GS&Co. shall promptly notify the Company of any Indemnifiable Losses. 
+
+^^^[RESERVED] 
+
+^^^Miscellaneous 
+
+^^No Collateral. Notwithstanding any provision of this Letter Agreement, or any other agreement between the parties, to the contrary, the obligations of the Company under this Letter Agreement are not secured by any collateral. 
+
+^^Waiver of Trial by Jury. EACH OF THE COMPANY AND GS&CO. HEREBY IRREVOCABLY WAIVES (ON ITS OWN BEHALF AND, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ON BEHALF OF ITS STOCKHOLDERS) ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS LETTER AGREEMENT OR THE ACTIONS OF GS&CO. OR ITS AFFILIATES IN THE NEGOTIATION, PERFORMANCE OR ENFORCEMENT HEREOF. 
+
+^^Bankruptcy Code. The parties hereto intend for (i) this Transaction to be a “securities contract” and a “swap agreement” as defined in the Bankruptcy Code (Title 11 of the United States Code) (the “Bankruptcy Code”), and the parties hereto are entitled to the protections afforded by, among other Sections, Sections 362(b)(6), 362(b)(17), 362(o), 546, 555, 560 and 561 of the Bankruptcy Code; (ii) a party’s right to liquidate, terminate or accelerate this Transaction and to exercise any other remedies upon the occurrence of any Event of Default, a Dividend Event Termination, a Share Price Event Termination, a Delisting Termination or a Change in Law Termination under this Letter Agreement with respect to the other party to constitute a “contractual right” within the meaning of the Bankruptcy Code; (iii) all transfers of cash, securities or other property under or in connection with this Transaction are “transfers” made “by or to (or for the benefit of)” a “master netting agreement participant”, a “financial institution”, a “financial participant”, a “forward contract merchant” or a “swap participant” (each as defined in the Bankruptcy Code) within the meaning of Sections 546(e), 546(f), 546(g) and 546(j) of the Bankruptcy Code; (iv) all obligations under or in connection with this Transaction represent obligations in respect of “termination values”, “payment amounts” or “other transfer obligations” within the meaning of Section 362, 560 and 561 of the Bankruptcy Code; and (v) each of the parties hereto to be a “swap participant” and “financial participant” within the meaning of Sections 101(53C) and 101(22A) of the Bankruptcy Code. 
+
+^^^Notices 
+
+Unless otherwise specified, notices under this Letter Agreement may be made by telephone, to be confirmed in writing to the address below. Changes to the Notices must be made in writing. 
+
+^^If to the Company:
+
+[[Company]] 
+
+[[Address 1: Address]]-5424 
+
+Attn: Shalabh Gupta 
+
+^^If to GS&Co.:
+
+Goldman, Sachs & Co. 
+
+One [[Address 5: Address]] 
+
+[[Address 6: Address]] 
+
+Attention: Serge Marquie, Equity Capital Markets 
+
+With a copy to: 
+
+Attention: Jason Lee, Equity Capital Markets 
+
+And email notification to the following address: 
+
+Eq-derivs-[[Email 1]]. 
+
+Please confirm your agreement to the foregoing by signing and returning to us the enclosed duplicate of this Letter Agreement. 
+
+Very truly yours,
+
+**GOLDMAN, SACHS & CO.**
+
+[[GOLDMAN SACHS & CO. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GOLDMAN SACHS & CO. Entity => By: [[GOLDMAN SACHS & CO. Signatory First Name]] [[GOLDMAN SACHS & CO. Signatory Last Name]]
+Title: [[GOLDMAN SACHS & CO. Signatory Title]]}}
+
+Authorized Representative
+
+Acknowledged and agreed:
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+SVP & Treasurer
+
+\centered **Goldman, Sachs & Co.** 
+
+\centered **One [[Address 5: Address]]** 
+
+\centered **[[Address 6: Address]]** 
+
+[[Company]] 
+
+[[Address 1: Address]]-5424 
+
+Attn.: Shalabh Gupta 
+
+Telephone: [[Phone 1]] 
+
+E-mail: [[Email 2]] 
+
+[[Date 5: Date]] 
+
+RE: Accelerated Share Repurchase  Definition Modification 
+
+Reference is made in this amendment letter to the letter agreement, dated as of [[Date 1]] (the “**Letter Agreement**”), between [[Company]] (the “**Company**”) and Goldman, Sachs & Co. (“**GS&Co.**”), with respect to the accelerated share repurchase transaction entered by the Company and GS&Co. (the “**Transaction**”). 
+
+In order to reflect an original agreement of the Company and GS&Co. with respect to the terms of the Transaction, by executing this letter, the parties agree to modify the definition of the “Sub-VWAP Price” contained in the Letter Agreement by revising the reference to “$[**]” in such definition to “$[**]). 
+
+In addition, in connection with the execution of this letter, the Company hereby repeats the representation contained in Section XVII(e) of the Letter Agreement. 
+
+This letter constitutes the entire agreement and understanding of the parties with respect to its subject matter and supersedes all oral communication and prior writings with respect thereto. This letter may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original, but all such counterparts shall together constitute but one and the same instrument. This letter shall inure to the benefit of each party’s successors and assigns and shall be governed by, and construed in accordance with, the law of the State of [[Address 7: Address]] 
+
+Confidential material appearing in this document has been omitted and filed separately with the Securities and Exchange Commission in accordance with the Securities Act of 1933, as amended, and rule 24b-2 promulgated thereunder. Omitted information has been replaced with asterisks (**).
+
+Please confirm your agreement to the foregoing by signing and returning to us an executed copy of this amendment letter. 
+
+Very truly yours,
+
+**GOLDMAN, SACHS & CO.**
+
+[[GOLDMAN SACHS & CO. Signatory Email: Identity | Signature]]
+__________________________________________
+{{GOLDMAN SACHS & CO. Entity => By: [[GOLDMAN SACHS & CO. Signatory First Name]] [[GOLDMAN SACHS & CO. Signatory Last Name]]
+Title: [[GOLDMAN SACHS & CO. Signatory Title]]}}
+
+Authorized Representative
+
+Acknowledged and agreed:
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Sr. VP & Treasurer

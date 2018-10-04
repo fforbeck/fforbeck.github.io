@@ -1,518 +1,167 @@
-\centered 
-
 \centered **CONSULTING SERVICES AGREEMENT**
 
-This Agreement (the **Agreement**), dated as of the ___ day of [[Date 1: Date]]
+This Consulting Services Agreement (“Agreement”) is made effective the [[Date 1: Date]] (the “Effective Date”), by and between **[[Consultant]]**, a [[State of Formation: State]] [[Organization: EntityType]], with offices at 2273 Research Boulevard, Suite 400, Rockville, Maryland 20850, and **The Hauer Group** (“Consultant”), located at 7850 Southdown Road, [[Address 1: Address]], Emergent and Consultant are sometimes hereinafter referred to in the singular as “Party” and collectively as the “Parties”.
 
-**BETWEEN:**  
-^Imperial Oil & Gas, Inc, having its principal office at Suite 2600, 144 -4th Ave SW, [[Address 1: Address]] 3N4 (the **Client**); and
+WHEREAS, Emergent and its Affiliates (as hereinafter defined) are engaged in the development, production, and commercialization of biopharmaceutical products;
 
-^Mara Energy, [[Address 2: Address]], T2A 3L7 (the **Consultant)**; and;
+WHEREAS, Consultant is engaged in providing consulting services as described in this Agreement; and
 
-Together, the **Parties**.  
-**WHEREAS:**  
-^The Client is a wholly owned subsidiary of Imperial Resources, Inc; and
+WHEREAS, Emergent and, as applicable, its Affiliates (as hereinafter defined) desires to engage Consultant to provide certain services from time to time as mutually agreed by the Parties, and Consultant desires to be so engaged.
 
-^The Client has purchased a [[Percentage 1: Number]]% working interest in both the Greater Garwood oil and gas development exploration asset and the producing Cochran #1 well located in the Greater Garwood prospect in Colorado County, Texas (together, “Garwood”), this acquisition being viewed as important to the development of the Client’s planned oil and gas activities; and
+NOW, THEREFORE, in consideration of the mutual covenants herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be bound, agree as follows:
 
-^The Consultant is able to provide essential services associated with any future development of Garwood and therefore the Parties desire to work together and share the rewards of Garwood, excluding the currently producing Cochran #1 well, to their mutual benefit on a performance basis, and to work together on any similar future opportunity that may arise on a similar basis; and
+^**Services**. Consultant agrees to provide certain services from time to time as requested by Emergent or any of Emergent’s Affiliates as specified in **Exhibit A** attached hereto (the “Services”). In the event that Consultant is requested or required to perform work for the Services beyond that which is specifically set forth in **Exhibit A**, any such additional services and an appropriate adjustment to the amounts owed shall be negotiated in good faith and the Parties shall amend this Agreement to reflect such additional services and any additional or modified terms in respect thereof prior to the provision of such new services.
 
-^The Client has appointed the Consultant to provide the services and scope of work as detailed in Schedule A (**the Services**); and
+^**Payment for Services**. Emergent shall compensate Consultant for Services in accordance with the payment terms set forth in **Exhibit A**, and all invoices for payment shall be submitted to Emergent as detailed therein. Notwithstanding the foregoing, for any invoice to be processed and paid, such invoice must refer to the applicable Emergent Accounting Code designated in **Exhibit A**. If Consultant bills on an hourly basis, all invoices must be accompanied by a timesheet detailing the hours worked and signed by both Consultant and Emergent. Payment of Consultant’s invoices shall be in full compensation for the Services performed by Consultant unless expressly agreed otherwise in writing by the Parties. Invoices shall be payable within thirty (30) days of receipt by Emergent. Representatives of Consultant performing Services hereunder will not receive employee benefits from Emergent, including but not limited to paid vacation, sick leave or any insurance benefits, even if such representatives are physically situated at Emergent’s offices.
 
-^The Consultant, having represented to the Client that it has the required professional skills and technical resources has agreed to provide the Services on the terms and conditions set forth in this Agreement and the Client has agreed to compensate the consultant on a performance as detailed in Schedule B (**Compensation**).
+^**Expenses**. Emergent shall pay for or reimburse Consultant for out-of-pocket expenses reasonably incurred in the performance of Services hereunder; provided, however, that expenses shall only be paid for or reimbursed if in compliance with Emergent’s Travel Policy (as previously provided to Consultant or as updated by Emergent from time-to-time and disclosed to Consultant), or otherwise expressly authorized in **Exhibit A** or as agreed in writing by the Parties. Consultant shall submit monthly invoices detailing expenses incurred during the immediately preceding month by appropriate category and shall provide supporting documentation as is acceptable to Emergent in its reasonable discretion. It is agreed that expenses shall not be marked up. This Agreement relates to the provision of Services only. In the event Consultant deems it necessary to purchase equipment, goods, software or other tangible or intangible property for which it will seek reimbursement from Emergent, no such purchase shall be made and Emergent shall not be responsible for reimbursement to Consultant unless Consultant has received Emergent's express, prior written authorization.
 
-**GENERAL PROVISIONS**
+^**Confidentiality of Information**. Consultant acknowledges that this Agreement creates a confidential relationship between Consultant and Emergent. Consultant and Emergent acknowledge that, in order to perform the Services, it will be necessary for Emergent to allow Consultant to have access to certain commercially valuable, proprietary, and confidential information of Emergent and its Affiliates. Consultant agrees to keep confidential and not, without the prior written consent of Emergent, to publish, disclose to any third party or use (except for purposes of performance under this Agreement) any confidential information, in either written, electronic or oral form whether or not marked as “confidential” or “proprietary,” and without limitation, any and all information relating to the business, prospective business, technical processes, finances, price lists, customer lists, information relating to the licensing or approval of any of the products, business plans, business prospects, employee information, information regarding facilities, operations and financial condition and results, inventions, improvements, trade secrets, know-how, processes, formulas, methods, assays, data, instrumentation, sales and marketing information, standard operating procedures, clinical trials, clinical trial data, clinical specimens, study protocols, investigators’ brochures and instructions or other scientific or technical information, and any documentation and materials specifically developed or prepared for or by Consultant in performance of Services under this Agreement (collectively, the "Confidential Information"). The obligations of this paragraph do not pertain to information which is generally known or hereafter becomes generally known to the public through no fault of Consultant or is disclosed by Consultant with the written approval of Emergent. Consultant shall return all such Confidential Information to Emergent upon completion of the Services hereunder or upon Emergent’s request. If Confidential Information is sought by any source, including any governmental organization, Consultant must immediately notify Emergent of such request and refuse to divulge any such information at least until a representative of Emergent is permitted to address the situation and either consents to the disclosure or has the opportunity to engage legal means to protect the disclosure of such information.
 
-^^**Definitions**
+^**Authorized Contacts**. With respect to the performance of Services, Consultant shall report to the Authorized Contact(s) identified in **Exhibit A** (or such other person that may hold the same position at a later date) or such other person(s) as such Authorized Contact(s) may designate from time to time in writing.
 
-Unless the context otherwise requires, the following terms whenever used in this Agreement have the following meanings:
+^**Deliverables and Reports**. Consultant shall make weekly reports and such other reports as Emergent or its Affiliates may from time to time request.
 
-**Agreement** means, this Agreement, including the Schedules hereto, as the same may be varied, supplemented or modified from time to time;
+^**Ownership of Work**. All right, title, and interest in and to all data, information, documents, materials and inventions relating to or arising out of the Services shall belong to and be the property of Emergent. Consultant agrees, without further payment by Emergent, to make any assignments and execute all documents necessary to effect Emergent's title thereto in all countries of the world. Furthermore, all documents and materials prepared by Consultant in the performance of its duties hereunder will constitute works-made-for-hire and shall belong to and be the exclusive property of Emergent and shall be surrendered by Consultant to Emergent upon request. Consultant hereby assigns to Emergent all rights that Consultant may have to data, information, documents, materials and inventions referred to in this paragraph. The above assignments and surrender shall be made once payment in full has been made by Emergent to Consultant as detailed in **Exhibit A**.
 
-**Applicable Law** means the laws and any other instruments having the force of law in Canada as they may be issued and come in force from time to time;
+^**Term and Termination**.  
+This Agreement shall become effective as of the Effective Date set forth above and shall continue in effect for one (1) year thereafter or until the Agreement otherwise terminates under this Section 8 (the “Term”); provided, however, that in the event that any requested Services are then outstanding, the Term shall be automatically extended until such Services are completed or are terminated by either Party.
 
-**Client** means Imperial Oil & Gas Inc.;  
-**Compensation** means that set out in schedule B
+This Agreement shall terminate upon the expiration of the Term or the first to occur of the following events:
 
-**Effective Date** has the meaning given to it in Clause 2.1;
+^^On the date Emergent provides Consultant with written notice (setting out with particularity) that this Agreement is being terminated for “cause.” For purposes of this Agreement, Consultant shall be deemed terminated for cause if Emergent terminates Consultant after Consultant:
 
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
+^^shall have committed any act or acts of embezzlement, theft or fraud against Emergent;
 
-\centered Page 1 of 15    
+^^shall have been convicted of a felony or any crime involving moral turpitude, whether or not related to the Services;
 
-**Parties** mean both the Client and the Consultant;
+^^shall have committed any act or acts of negligence or willful misconduct; or
 
-**Party** means the Client or the Consultant, as the case may be;
+^^shall have committed a breach of the representations, warranties or covenants contained in Sections 4, 7, 9, 11 or 16 herein.
 
-**Scope of Services** has the meaning given to it in Schedule A Part (i);
+^^^On the date either Party terminates the Agreement for convenience on not less than ten (10) days’ prior written notice.
 
-**Start Date** has the meaning given in Clause 2.1;
+Upon termination of this Agreement, Emergent shall have no further liability other than for payment in accordance with the terms of this Agreement for Services provided prior to the termination date. If this Agreement is terminated by Emergent under Section 8(b)(i)(d), in addition to any other rights or remedies available at law or in equity, Consultant will surrender any claim for payment under the Agreement and will refund any payments received under this Agreement.
 
-**Third Party** means any person or entity other than the Client or the Consultant.
+The provisions of Sections 2, 3, 4, 7, 8, 11 (with respect to 11(d), only for twelve months following termination or expiration), 13, 14, 15, 16 and 18 shall survive the expiration or termination of this Agreement for any reason.
 
-^^**Relation between the Parties**
+^**Representations and Warranties** Consultant represents and warrants that:
 
-Nothing contained herein shall be construed as establishing a relation of employer and employee as between the Client and the Consultant.
+^^the Services performed hereunder will be performed in a competent, diligent and workmanlike manner consistent with the expected industry standards of professional conduct;
 
-^^**Law Governing Agreement**
+^^Consultant and any of Consultant’s personnel performing Services will perform the Services for Emergent hereunder and have been advised of the restrictions and obligations set forth in this Agreement, including without limitation, the requirements of confidentiality (Section 4), compliance with laws (Section 11) and non-solicitation (Section 16); and
 
-This Agreement, its meaning and interpretation, and the relation between the Parties shall be governed by the Applicable Law.
+^^Consultant has full power to enter into and fully perform this Agreement and has the full and unrestricted right to disclose to Emergent any information Consultant makes available to Emergent under this Agreement.
 
-^^**Language**
+^**Relationship of Parties**. With respect to the subject matter of this Agreement, the Parties are and remain independent contractors. This Agreement shall not be deemed to create an employer/employee relationship, joint venture, partnership, association, or agency between the Parties. Consultant is not authorized to incur or create any obligation express or implied on behalf of Emergent or to bind Emergent in any manner whatsoever.
 
-This Agreement has been executed in the English language, which shall be the binding and controlling language for all matters relating to the meaning or interpretation of this Agreement.
+^**Compliance with Laws**. In performing the Services, Consultant shall comply with all applicable existing and future laws, rules and regulations. Consultant covenants and agrees to perform its duties and responsibilities under this Agreement in accordance with the highest standards of ethical business conduct and will not engage in any acts or activities that are illegal or that may adversely affect or reflect upon the business, integrity or goodwill of Emergent. Without limiting the generality of the foregoing, Consultant represents, warrants and agrees that:
 
-^^**Headings**
+^^Consultant will comply with all applicable existing and future treaties, laws, regulations, including but not limited to those governing employment practices (including those governing employee recruiting and hiring), anti-bribery, anti-corruption and anti-gratuities laws or other similar laws.
 
-The headings shall not limit, alter or affect the meaning of this Agreement. References to Clauses and Schedules are references to clauses and appendices in and of this Agreement.
+^^Consultant will comply with all Emergent stated policies and procedures applicable to consultants operating at Emergent’s offices, including without limitation, those governing safety, health, harassment, and discrimination.
 
-^^**Location**
+^^Consultant will prohibit its staff from involvement with the payment or giving of anything of value, either directly or indirectly, to an official of any government, political party or official thereof, any candidate for foreign political office, or any official of an international organization, for the purpose of influencing an act or decision in its official capacity, or inducing that official to use his/her influence with any government, to assist Emergent in obtaining or retaining business for or with, or directing business to, any person, or for obtaining an improper advantage. Consultant agrees to comply with the provisions of this Section 11(c) and take no action that it believes might cause Emergent to be in violation of international, federal, state or local laws or regulations, or Emergent’s policies and procedures, as well as any action by Consultant that might be construed as a violation of international, federal, state or local law, or Emergent’s policies and procedures.
 
-The Services specified in Schedule A hereto shall be performed at the principal place of business of the Consultant and at such other locations as the Client may reasonably request.
+^^At such times as may be requested by Emergent, Consultant will certify to Emergent in writing that: (1) Consultant understands the requirements of applicable anti-corruption or anti-bribery laws that apply to the Consultant and the Agreement; (2) Consultant believes it has complied with all applicable laws, regulations, and Emergent’s policies and procedures; (3) Consultant has, specifically, not made, offered to give or agreed to give anything of value, directly or indirectly, whether in cash or in kind to or for the benefit of any government official or “foreign official,” political party or official thereof, or candidate for political office, or official of an international organization, for the purpose of carrying out this Agreement; (4) Consultant does not know or have any reason to believe that any employee, agent, representative or other person retained by Consultant has violated any of the foregoing undertakings; and (5) Consultant will immediately advise Emergent if Consultant should learn or have reason to believe that there has been a violation of any of the foregoing undertakings.
 
-^^**Authorised Representatives**
+^^Emergent BioSolutions Inc. (“EBSI”), is a publicly traded company on the New York Stock Exchange. Consultant acknowledges the laws and regulations prohibiting “insider trading,” including the purchase or sale of securities of a company while in the possession of material information that has not been generally disclosed in the marketplace. Consultant represents that it may have access to certain material nonpublic information of EBSI, Emergent, and/or their Affiliates and will not engage in insider trading or disclose such information to any third parties.
 
-Any action required or permitted to be taken, and any document required or permitted to be executed under this Agreement, in the case of the Consultant may be taken or executed on behalf of the Consultant or their designated representatives and in the case of the Client may be taken or executed or on behalf of the Client or his designated representative, as the case may be from time to time, by those named representatives set out in Clause 14.
+^**Definition of Affiliate**. “Affiliate” shall mean any direct or indirect, current or future subsidiary of a Party, or any other entity which is controlled by a Party or which controls a Party. The term “control” as used herein shall mean possession, directly or indirectly of at least fifty percent ([[Percentage 1: Number]]%) of the voting equity of another entity (or other comparable interest for an entity other than a corporation), or the power to direct or cause the direction of the management or policies of an entity whether through ownership of securities, by contract or otherwise.
 
-**COMMENCEMENT, COMPLETION, MODIFICATION AND TERMINATION OF AGREEMENT**
+^**Export Control Technology**. The Parties acknowledge that any products, software, and technical information provided under this Agreement may be subject to the United States, United Kingdom and other export laws and regulations and any use or transfer of such products, software and technical information may require authorization under those regulations. The parties agree that they will not use, distribute, transfer, view or transmit such products, software or technical information (even if incorporated in other products) except in compliance with the applicable export regulations. The parties also agree to sign written assurances and other export related documents as may be required for compliance with applicable export regulations.
 
-^^**Effectiveness of Agreement**
+^**Indemnification and Limitation of Liability**. Consultant shall hold harmless and indemnify Emergent, its employees, agents and representatives, from and against any and all suits, demands, losses, damages, judgments, claims, costs, (including reasonable attorneys’ fees and costs) or other liability (including, without limitation personal injury or death) (collectively "Liability"), to the extent that such Liability arises from or is related to the performance of Services under this Agreement or the negligence, act or omission of Consultant or any of her agents or representatives.
 
-This Agreement shall come into force and effect on [[Date 2: Date]] (the **Effective Date**). The Consultant commenced the Services on [[Date 2]] (the **Start Date**). The Client hereby undertakes to pay the Consultant the fees and reimburse expenditures incurred in respect of the Services provided from the Start Date, in accordance with and subject to the terms of Schedule B.
+^**Dispute Resolution**. All disputes or claims arising under this Agreement that cannot be resolved by the Parties shall be submitted to non-binding mediation for a period of thirty days, which may be extended by written agreement of the Parties. If such dispute is not resolved amicably through mediation or otherwise within the specified period, either Party may pursue remedies available to it at law or in equity, subject to the terms of this Agreement.
 
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
+^**Non-Solicitation**. Consultant agrees that, during the term of this Agreement, and for a period of twelve (12) consecutive months after termination of such Agreement, Consultant will not knowingly (i) directly induce or attempt to induce or otherwise counsel, advise, solicit or encourage any employee to leave the employ of Emergent or accept employment with Consultant or any other person or entity, (ii) directly induce or attempt to induce or otherwise counsel, advise, solicit or encourage any person who at the time of such inducement, counseling, advice, solicitation or encouragement had left the employ of Emergent within the previous six (6) months to accept employment with any person or entity besides Emergent or (iii) solicit, interfere with, or endeavor to cause any customer, client, or business partner of Emergent to cease or reduce its relationship with Emergent or induce or attempt to induce any such customer, client, or business partner to breach any agreement that such customer, client, or business partner may have with Emergent.
 
-\centered Page 2 of 15    
+^**Force Majeure.** Neither Party shall be liable for delay or failure in the performance of any of its obligations under this Agreement if and to the extent such delay or failure is due to circumstances beyond the reasonable control of such Party, including but not limited to fires, floods, explosions, accidents, acts of God, war, riot, strike, lockout or other concerted acts of workers, acts of government and shortages of materials. The Party claiming force majeure shall use its commercially reasonable efforts to eliminate or prevent the cause so as to continue performing its obligations under this Agreement. During such time that the event of force majeure causes such a delay or failure of performance, this Agreement and the Parties’ obligations and responsibilities under it shall be deemed suspended until the event of force majeure ceases.
 
-^^**Expiration of Agreement**
+^**Miscellaneous Provisions.**  
+^^**Governing Law and Jurisdiction**. This Agreement and its interpretation shall be governed by the laws of the State of Delaware without reference to its conflict of law or choice of law provisions.
 
-This Agreement shall continue until the Consultant gives written notice of intention to terminate in accordance with Clause 2.6.
+^^**Non-Waiver**. No delay by or omission of any Party in exercising any right, power, privilege, or remedy shall impair such right, power, privilege, or remedy or be construed as a waiver thereof.
 
-^^**Entire Agreement** **and Conflict**
+^^**Remedies**. The rights and remedies provided in this Agreement are cumulative and are not exclusive of other rights or remedies provided by law.
 
-This Agreement contains all covenants, obligations, undertakings and provisions agreed to by the Parties. No agent or representative of either Party has authority to make, and the Parties shall not be bound by or be liable for, any statement, representation, promise or agreement not set forth herein.
+^^**Taxes**. Consultant shall be fully responsible for payment of all income taxes, social security taxes, and for any other taxes or payment which may be due and owing by Consultant as the result of fees or amounts paid to it by Emergent under this Agreement, and Consultant shall indemnify and hold harmless Emergent from and against any such tax or payment.
 
-^^**Modification**
+^^**Notices**. Any notice hereunder shall be given by first class mail, express mail, or facsimile (followed by confirmation), addressed to the Parties at the addresses given in the preamble of this Agreement, or to such other address as a Party may later designate in writing to the other Party. Notice given by Consultant to Emergent shall be directed to the President of EBSI; provided, however that Notice of any legal action, claim or other legal matter given by Consultant to Emergent shall be directed to the Legal Department of EBSI.
 
-Modification of the terms and conditions of this Agreement, including any modification of the scope of the Services, may only be made by written agreement between the Parties and shall not be effective until the consent of the Consultant and the Client has been obtained.
+^^**Use of Name**. Neither Party shall use the name, tradename or trademark of the other Party in a press release, advertising, publicity or promotional activity without the prior written consent of the other Party.
 
-^^**Force Majeure** **and Suspension**
+^^**Severability**. In the event that any section or any part of a section of this Agreement should be declared void, invalid, or unenforceable by any court of law, for any reason, such a determination shall not render void, invalid, or unenforceable any other section or any part of any other section of this Agreement and the remainder of this Agreement shall remain in full force and effect.
 
-2.5.1   **Definition**
+^^**Headings**. Headings and titles of parts and sections are for convenience only and have no interpretative significance.
 
-^^For the purposes of this Agreement, **Force Majeure** means an event which is beyond the reasonable control of a Party, and which makes a Party’s performance of its obligations hereunder impossible or impractical in the circumstances, and includes, but is not limited to, war, riots, civil disorder, earthquake, fire, explosion, storm, flood or other adverse weather conditions, strikes, lockouts or other industrial action (except where such strikes, lockouts or other industrial action are within the power of the Party invoking Force Majeure to prevent), confiscation or any other action by the Government or any agencies of the Government.
+^^**Successors**. This Agreement and the covenants hereof are binding on the Parties and their respective heirs, executors, representatives, trustees, permitted assigns, and successors in interest.
 
-^^Force Majeure shall not include (i) any event which is caused by the negligence or intentional action of a Party or such Party’s agents or employees, nor (ii) any event which a diligent Party could reasonably have been expected to both (A) take into account at the time of the conclusion of this Agreement and (B) avoid or overcome in the carrying out of its obligations hereunder.
+^^**Assignability**. This Agreement may not be assigned by Consultant without the prior, express written consent of Emergent. This Agreement may not be assigned by Emergent without the prior, express written consent of Consultant; provided, however, that this Agreement may, without Consultant’s written consent, be assigned and transferred to any Affiliate of Emergent upon such assignee assuming Emergent’s obligations hereunder, in which event Consultant agrees to continue to perform the duties and obligations according to the terms hereof to or for such assignee or transferee of this Agreement.
 
-^^Force Majeure shall not include insufficiency of funds or failure to make any payment required hereunder.
+^^**Counterparts**. This Agreement may be signed in two identical copies, each of which shall be deemed to be an original copy, and a facsimile copy shall constitute a legally binding, enforceable document.
 
-2.5.2   **No Breach of this Agreement**
+^^**Integration.** This Agreement, along with the corresponding Exhibit, constitutes the entire agreement of the Parties, supersedes all prior discussions, negotiations and understandings verbal and written, if any, and may only be amended or modified by a written agreement signed by both Parties. In the event of a conflict between the terms of this Agreement and the terms of any Exhibit or attachment hereto, proposal, quotation or any Consultant documentation, the terms of this Agreement shall prevail.
 
-The failure of a Party to fulfil any of its obligations hereunder shall not be considered to be a breach of, or default under, this Agreement insofar as such inability arises from an event of Force Majeure, provided that the Party affected by such an event has taken all reasonable precautions with the objective of carrying out the terms and conditions of this Agreement to the extent reasonably possible.
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date set forth in the preamble.
 
-2.5.3   **Measures to be Taken**
+**Emergent BioSolutions Inc.** By **/s/Daniel J. Abdun-Nabi** By: Daniel J. Abdun-Nabi Title:President & Chief Operating Officer   **The Hauer Group** By **/s/ Jerome Hauer** By: Jerome Hauer Title: Chief Executive Officer
 
-^Party affected by an event of Force Majeure shall take all reasonable measures to remove such Party’s inability to fulfil its obligations hereunder with a minimum of delay.
+\centered **EXHIBIT A**
 
-^Party affected by an event of Force Majeure shall notify the other Party of such an event as soon as possible, and in any event not later than fourteen (14) days following the occurrence of such event, providing evidence of the nature and cause of such event, and shall similarly give notice of the restoration of normal conditions as soon as possible.
+\centered **Scope of Work and Compensation**
 
-The Parties shall take all reasonable measures to minimise the consequence of any event of Force Majeure.
+The Services shall include, without limitation, the following:
 
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
+**Contract Objective:** 
+To assist Emergent BioSolutions in enhancing its corporate image and visibility, and expanding opportunities for BioThrax and its pipeline product candidates.
 
-\centered Page 3 of 15    
+**Summary of expected activities:**  
+**Strategic** **Support of Corporate Objectives**
 
-2.5.4   **Extension of Time**
+●   Consultation to CEO, President and Senior Management on corporate strategic issues
 
-Any period within which a Party is required, pursuant to this Agreement, to complete any action or task shall be extended for a period equal to the time during which such Party was unable to perform such action or task as a result of Force Majeure.
+●   General consultation and directed project support to including but not limited to:
 
-2.5.5   **Payments**
+^^Relationship management with targeted media outlets and reporters;
 
-The Compensation earned as a result of the arrangement detailed in Schedule B will remain payable regardless of Force Majeure.
+^^Introductions to relevant government officials;
 
-^^**Termination**
+^^Introductions to potential commercial partners.
 
-This Agreement will terminate at the end of the Term as set out in Clause 2.2 above or as set out in this Clause 2.6.1.
+● Other projects as may be directed by the CEO, President or Senior Management
 
-2.6.1   **By the Client**
+**Domestic and International Marketing**  
+· Target audiences: 
+^^KOLs, decision makers or senior officials in health or emergency planning departments or agencies of foreign governments
 
-The Parties agree that the Consultant is working on a risk basis from the date of the Agreement and in recognition of this the Client may not terminate this agreement in respect of any oil and gas project already carried out, partly carried out, agreed to be carried out, or introduced by the Consultant, whether or not the Consultant has fully performed the Services relating to that project.
+^^Senior leadership and decision makers in first responder communities in major cities in the US, including individuals such as the Chief of Police, Fire Chiefs, Head of HAZMAT units, Head of Counter-Terrorism Units, Head of EMS/Paramedics Units (both independent and those attached to fire departments) and other groups who may believe themselves to be at high risk for exposure to anthrax
 
-2.6.2   **By the Consultant**
+^^Senior leadership and decision makers in health departments in major cities in the US to help support decision makers in the first responder communities when making a medical decision surrounding the use of BioThrax
 
-The Consultant may, by not less than fifteen (15) days’ written notice to the Client, such notice to be given after the occurrence of any of the events specified in paragraphs (a) through (e) of this Clause 2.6.2, terminate this Agreement:
+· Specific activities targeted at these markets including the following:
 
-^^if the Client fails to pay any money due to and demanded by the Consultant pursuant to this Agreement and which is not subject to dispute pursuant to Clause 8, within thirty (30) days after receiving notice from the Consultant that such payment is overdue;
+^^Contacting individuals within the target audiences, prioritizing and arranging initial meetings/teleconferences with senior leadership and decision makers within the first responder and health department communities
 
-^^if the Client fails to remedy a failure in the performance of its obligations hereunder, as specified in a notice of suspension pursuant to Clause 2.6.2, within thirty (30) days of receipt of such notice of suspension or within such further period as the Consultant may have subsequently approved in writing;
+^^As needed and appropriate, attend meetings with Emergent executives when meeting with these key officials
 
-^^if, as the result of Force Majeure, the Consultant is unable to perform a material portion of the Services for a period of not less than fifteen (15) days; or
+^^Provide input and information on senior leadership and decision makers prior to meetings to ensure meeting materials and messaging are appropriate and tailored for the audience
 
-^^if the Client fails to comply with any final decision reached as a result of arbitration pursuant to Clause 13.2.
+^^2 to 4 meetings will be arranged per month with target audiences.
 
-^^if, as the result of Force Majeure, affecting the Client and the Client is unable to perform a material portion of the Services for a period of not less than sixty (60) days.
+**Place of Services**: All Services shall be performed on-site at Emergent’s offices (as specified in the preamble to this Agreement), unless otherwise directed by Emergent. Consultant agrees that he may be required to travel domestically and internationally to satisfy the scope of work and identified objectives.
 
-2.6.3   **Cessation of Rights and Obligations**
+**Authorized Contact(s)**: Daniel J. Abdun-Nabi
 
-Upon termination of this Agreement pursuant to Clause 2.6, or upon expiration of this Agreement pursuant to Clause 2.2, all rights and obligations of the Parties hereunder shall cease, except (i) such rights and obligations as may have occurred on or prior to the date of termination or expiration, (ii) the obligation of confidentiality set forth in Clause 10 and (iii) any right which a Party may have under the Applicable Law.
+President 
+Emergent BioSolutions Inc. 
+[[Address 2: Address]] 
+Phone: [[Phone 1]] 
+[[Email 1]]  
+**Compensation:** In exchange for the services provided above, Emergent shall compensate Consultant at the rate of $[[USD Value 1: Number]] per month.
 
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
+**Agreement Start Date:** [[Date 2: Date]]  
+**Travel:** The Parties agree that Consultant may book his own air travel for reservations in business class longer than 2.5 hours of flight time. All other travel will be pursuant to Emergent's Travel Policy (as provided to Consultant and updated by Emergent from time-to-time in writing) and all necessary lodging, rental car and other travel reservations shall be made by an Emergent Administrative Assistant and MAY NOT be made directly by Consultant. **Emergent will not reimburse for expenses that fail to comply with** **this process.** If airline, lodging, rental car or other travel reservations are to be made in connection with Services provided under this Agreement, it is Consultant's responsibility to contact the Emergent Authorized Contact to request that such arrangements be made.
 
-\centered Page 4 of 15    
-
-2.6.4   **Cessation of Services**
-
-Upon termination of this Agreement by notice by the Consultant to the Client pursuant to Clause 2.6.2, the Consultant shall, upon delivery of such notice, or pursuant to the completion of the Term in Clause 2.2 take all necessary steps to bring those aspects of the Services which the Consultant has performed to a close in a prompt and orderly manner and shall make every reasonable effort to keep expenditures for this purpose to a minimum.
-
-2.6.5   **Payment upon Termination**
-
-Upon termination of this Agreement pursuant to Clause 2.6.2, and as applicable Clause 2.2, the Client shall make the following payments to the Consultant:
-
-^^all invoiced amounts in respect of Services performed by the Consultant prior to the date of termination;
-
-^^all future payments in accordance with Schedule B.
-
-**OBLIGATIONS OF THE CONSULTANT**
-
-^^**General**
-
-3.1.1   **Standard of Performance**
-
-The Consultant shall perform the Services and carry out its obligations hereunder with diligence and efficiency and shall observe sound management and employ appropriate technology and methods.
-
-3.1.2   **Law Governing Services**
-
-The Consultant shall perform the Services in accordance with the Applicable Law.
-
-^^**Consultant not to Benefit from Commission, Discounts, etc**.
-
-The remuneration of the Consultant pursuant to Schedule B hereof shall constitute the Consultant’s sole remuneration in connection with this Agreement or the Services and the Consultant shall not accept for his own benefit any trade commission, discount or similar payment in connection with this Agreement or the Services or in the discharge of its obligations hereunder.
-
-^^**Liability of the Consultant**
-
-The Consultant shall be not be liable to the Client for the performance of the Services in accordance with the provisions of this Agreement and the Consultant shall not be liable for any loss suffered by the Client as a result of a default of the Consultant in such performance.
-
-**REIMBURSEMENT FOR EXPENSES**
-
-The Consultant will bear all its own expenses except where otherwise agreed by prior arrangement between the Parties.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 5 of 15    
-
-**SUBMITTAL OF INVOICES**
-
-The Consultant shall submit invoices to the Client as set out in Schedule B, and such invoices shall be payable within fifteen (15) days of receipt of a correct invoice by the Client. Interest at US Federal funds rate + [[Percentage 2: Number]]% may be charged on overdue accounts at the Consultant’s discretion.
-
-**INDEPENDENT CONTRACTOR**
-
-The Consultant will act as an independent contractor in the performance of the duties set forth in this Agreement, and shall have no authority to incur any obligations or liabilities on behalf of the Client, and shall not be deemed to be an agent of the Client. The Client shall be solely responsible for determining the means and methods for performing the Services.
-
-This Agreement does not oblige the Consultant to provide services exclusively to the Client always provided that such other services are not provided to a Third Party considered by Client to be a competitor. For avoidance of doubt Consultant shall seek approval from Client. Any such approval will not be unreasonably withheld.
-
-**TAXES**
-
-The Compensation for Services set out in Schedule B, unless otherwise specifically stated, excludes all sales taxes, charges and duties chargeable by any taxing authority having jurisdiction. For the avoidance of doubt the Consultant is responsible for its own taxation on the Compensation received and this is not recoverable from the Client.
-
-**CONFIDENTIALITY**
-
-^^In consideration of the parties providing each other with, or allowing each other access to, information under this Agreement, it is hereby agreed as follows:
-
-^^^The Consultant agrees to treat as confidential all information furnished to it by the Client and will not disclose any such information to a Third Party, other than a Statutory Authority with a right in the applicable law to demand such disclosure, without the express consent of the Client.
-
-^^^Except to the extent as required and necessary for the conduct of its business, the Client agrees to treat all information and opinions furnished to it by the Consultant, including presentations, opinions and reports, as confidential and will not disclose such information to any Third Party, other than a Statutory Authority with a right in the applicable law to demand such disclosure, without the prior consent of the Consultant. While the Client may for the purposes of this exercise use information presented by the Consultant, such information shall remain the property of the Consultant.
-
-Should either Party desire, and notify the other party in advance, the sub-clauses 8.1 (i) and (ii) also mean that the purpose or existence of the assignment shall be kept confidential.
-
-The obligations of the Parties to hold information confidential shall not apply to such information which at the time of its disclosure is in the public domain, or subsequently comes into the public domain other than by a breach of this Agreement; or at the time of its disclosure is in the receiving party's lawful possession or subsequently is received from another party who is lawfully in possession thereof and not bound by any obligation of confidentiality.
-
-The extent of these confidentiality provisions includes all information included in any proposal made by the Consultant to the Client and the contents of this Agreement.
-
-No Party makes any representation or warranty as to the accuracy, quality or completeness of any information and no liability to any party or its representatives shall result from its use.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 6 of 15    
-
-**OBLIGATIONS OF THE CLIENT**
-
-^^**Compensation**
-
-In consideration of the Services performed by the Consultant under this Agreement, the Client shall make to the Consultant such payments and in such manner as is provided by Schedule B.
-
-^^**Indemnification of the Consultant by the Client**
-
-The Client shall keep the Consultant, both during and after the term of this Agreement, fully and effectively indemnified against all losses, damage, injuries, deaths, expenses, actions, proceedings, costs and claims, including, but not limited to, legal fees and expenses suffered by the Consultant or any Third Party where such loss, damage, injury or death is the result of a wrongful action, negligence or breach of Agreement of the Client or its employees or agents.
-
-**OFFICIALS NOT TO BENEFIT**
-
-No monies or other valuable consideration shall be knowingly used, directly or indirectly, to influence, improperly or unlawfully any decision or judgement of any official or any government or of any subdivision, agency or instrument thereof in connection with the subject matter of the Agreement or in connection with any contracts or dealings with third parties associated with the Services and which the Consultant might reasonably have been expected to be aware of. The Consultant agrees that it shall conduct its activities in accordance with all applicable laws, rules, orders and regulations of governmental and regulatory authorities having jurisdiction.
-
-**NO CONSEQUENTIAL DAMAGES**
-
-Notwithstanding the provisions of Article 3.3, in no event shall any Party have any liability to any other Party or its affiliates or subcontractors for any special, indirect, exemplary, punitive or consequential loss or damage (including damages or claims in the nature of lost revenue, income, profits or investment opportunities) and each Party hereby releases and indemnifies the other Party from any such claimed liability.
-
-**SETTLEMENT OF DISPUTES**
-
-^^**Amicable Settlement**
-
-The Parties shall use their reasonable endeavours to settle amicably all disputes arising out of or in connection with this Agreement or the interpretation thereof.
-
-^^**Right to Arbitration**
-
-Any dispute between the Parties as to matters rising pursuant to this Agreement which cannot be settled amicably within ninety (90) days after receipt by one Party of the other Party’s request for such amicable settlement, shall at the option of either Party be referred to arbitration in the state of Texas.
-
-**ASSIGNMENT**
-
-^^None of the Parties may assign its rights or obligations hereunder without the prior written consent of the other Party, except that the Client may assign its rights and obligations hereunder to any affiliate or to any joint venture or any other entity in which the Client or any affiliate of either is a participant.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 7 of 15    
-
-**NOTICES**
-
-^^Any notice, request or consent required or permitted to be given or made pursuant to this Agreement shall be in writing. Any such notice, request or consent shall be deemed to have been given or made when delivered in person to an authorised representative of the Party to whom the communication is addressed, or when sent by registered mail or facsimile or by email to such Party at the following address:
-
-For the Client:   Imperial Oil & Gas Inc.
-Suite 2600, 144 -4th Ave SW, [[Address 1: Address]] 3N4
-Attention:   Robert Durbin
-E-Mail:   [[Email 1]]
-
-For the Consultant:   Mara Energy
-1211 Mardale Drive NE, [[Address 3: Address]], T2A 3L7
-Attention:   Dean Shah
-E-Mail:   [[Email 2]]
-
-^^Notices will be deemed to be effective as follows:
-
-^^in the case of personal delivery or registered mail, on delivery;
-
-^^in the case of facsimiles, one business day (being a day on which banks are open for business in London, excluding weekends and public holidays in the United Kingdom) following receipt of confirmed transmission and
-
-^^in the case of email when sent.
-
-^^A Party may change its address for notice hereunder by giving the other Party notice of such change pursuant to this Clause 14.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 8 of 15    
-
-IN WITNESS WHEREOF, the Parties hereto caused this Agreement to be executed in one or more counterparts, attested by the hands of their proper officers duly authorized in that behalf as of the date first written above.
-
-Imperial Oil & Gas Inc. (the Client)   Mara Energy (the Consultant)
-[[Imperial Oil & Gas Inc. the Client   Mara Energy the Consultant Signatory Email: Identity | Signature]]
-__________________________________________
-{{Imperial Oil & Gas Inc. the Client   Mara Energy the Consultant Entity => By: [[Imperial Oil & Gas Inc. the Client   Mara Energy the Consultant Signatory First Name]] [[Imperial Oil & Gas Inc. the Client   Mara Energy the Consultant Signatory Last Name]]
-Title: [[Imperial Oil & Gas Inc. the Client   Mara Energy the Consultant Signatory Title]]}}
-
-[[Title Party 1 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 1 Signatory Title}} Entity => By: [[Title Party 1 Signatory Title}} Signatory First Name]] [[Title Party 1 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 1 Signatory Title}} Signatory Title]]}}
-
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 9 of 15    
-
-**Schedule A**  
-
-\centered **Scope of Services**
-
-^^^**CORE SERVICES**
-
-The Consultant will provide:  
-·   Assistance with the first bridge financing to secure a suitable project essential as a first step in the development of the Client’s new Oil and Gas business beyond the Garwood project;
-
-·   Full and unencumbered preferential access for the Client to the Consultant’s pipeline of opportunity;
-
-·   Introductory services for the sourcing of niche oil and gas projects for consideration by the Client;
-
-·   A project scouting service with the needs and specifications of the Client as priority;
-
-·   Analysis and screening of potential projects for submittal to the board of the Client;
-
-·   Right of First Refusal to the Client to take up those projects;
-
-·   Working with the Client on joint analysis of selected projects;
-
-·   A perpetual licence, where it is applied to projects to which the Services apply, to the Consultants proprietary T-PAD® funding model;
-
-·   Introductory services for the financing of the Client’s oil and gas projects by T-PAD or otherwise;
-
-·   Assistance with all financial modelling required for the financing of the Client’s oil and gas projects, T-PAD or otherwise;
-
-·   Access to the Inbustrade Europe, SL network of clients able to provide funding, T-PAD or otherwise;
-
-·   Assistance with any follow on bridge financings required, T-PAD or otherwise;
-
-·   Contractual / legal assistance with oil and gas project documentation;
-
-·   Contractual / legal assistance with fund raising documentation, be it T-PAD or otherwise;
-
-·   Assistance with project and / or funding marketing materials, be it T-PAD or otherwise;
-
-·   Language services related to the above;
-
-·   Maintenance of a European presence to serve to up the Client’s profile regarding potential funding, be it T-PAD or otherwise;
-
-·   Assisting the Client with communication and language services with funders, be it T-PAD or otherwise.
-
-^^^**REPORTING STRUCTURE**
-
-Reports to the Chief Executive Officer of the Client.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 10 of 15    
-
-\centered **Schedule B**
-
-\centered **Compensation for Services**
-
-^^^**Performance related Payments,**
-
-To be made in accordance with the Net Profits Agreement between the Client and the Consultant of [[Date 2]], a form of which is attached as Appendix 1.
-
-^^^**Payment Terms**
-
-The Client will pay the fee and expenses in accordance with the terms in Clause 5 of this Agreement.
-
-^^^**The Consultant will invoice as follows:**
-
-The Consultant will invoice the client monthly promptly after the end of each month.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 11 of 15    
-
-\centered **Appendix 1**
-
-\centered **NET PROFITS AGREEMENT**
-
-This Agreement made effective as of the 19 day of [[Date 3: Date]]
-
-BETWEEN:  
-**IMPERIAL OIL & GAS INC.** a body corporate, having an office at the City of [[Address 4: Address]] Province of Alberta (hereinafter called “Grantor”)
-
-\centered -and-
-
-**MARA ENERGY**, a body corporate, having an office at the City of Vancouver, in the Province of British Columbia (hereinafter called “Grantee”)
-
-**WHEREAS**  
-^Grantee has contacts with, knowledge of and/or existing and future access to high growth potential oil and gas exploration and development opportunities in Canada and the continental United States (“Prospects”); and
-
-^The Grantee will at its own cost and risk examine, assess, negotiate, re-engineer existing and future Prospects and report upon them to a bankable standard as far as it is possible, in order to present pre-qualified Prospects to the Grantor so that the Grantor may consider and elect at its sole discretion to reject or to participate or otherwise take an involvement in those Prospects; and.
-
-^TheGrantee has the capability and contacts, worldwide, to assist the Grantor in obtaining financing by way of its capability of securing corporate finance from financial institutions banks, and finance houses so that the Grantor may have the opportunity to fund the development of the Prospects; Grantee will assist where necessary in the preparation of any/all marketing materials to help facilitate any fundraising; and
-
-^The Grantor has agreed to reserve an interest to the Grantee in the Prospects by way of a net profits interest as more particularly described herein.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 12 of 15    
-
-**NOW THEREFORE THIS AGREEMENT WITNESSETH** that in consideration of the mutual premises and covenants contained herein, the parties agree each with the other as follows:
-
-^**DEFINITIONS**
-
-**Except as otherwise defined in this Agreement, each term used in this Agreement including the recitals, will have the meaning given to it subject to the following;**
-
-^^“Capital Costs” means all capital costs incurred in the Prospects including, but not limited to, the costs of drilling wells, completion of wells, equipping of wells for the taking of production, rework or recompletion of wells and construction of pipelines and facilities;
-
-^^“Grantor” means Imperial and Gas, Inc. together with any person, corporation or entity to which it has assigned an interest in all or any portion of the Prospects;
-
-^^“Grantee” means Grantee or any other entity or individual Grantee nominates to assign over to the terms of this Agreement;
-
-“Net Proceeds of Production” means the gross proceeds of sale from or allocated to the Grantee’s share of production of petroleum substances from the Prospects less the Grantee’s share of:
-
-all payments for the lessor royalty under the title documents; and
-
-all taxes (other than income taxes) paid by the Grantee pursuant to the Regulations on the equipment for the production of petroleum substances from the Prospects; and
-
-all encumbrances applicable to petroleum substances produced from the Prospects; and
-
-all reasonable operating costs applicable to production of petroleum substances from the Prospects; and
-
-all reasonable facility fees and enrichment fees applicable to production of petroleum substances from the Prospects; and
-
-all land and mineral lease acquisition costs related to the Prospects.
-
-^^“Net Profits Interest” means an interest in the Prospects which entitles the Grantor to receive monthly an amount equal to 50 percent of the Net Proceeds of Production;
-
-^^“Payout” means the first day of the month following the date when the Grantor recovers out of the Net Proceeds of Production an amount equal to the Initial Funded Amount;
-
-^**NET PROFITS**
-
-After Payout, the Grantor agrees that the Grantee will be entitled to the Net Profits Interest subject to the following conditions:
-
-^^^the Net Profits Interest will be reduced in proportion to the interest in the Prospects retained by the Grantor.
-
-^^^the Grantee will in no event be liable to pay for or advance any portion of any costs and expenses including Capital Costs associated with the Prospects, the same being solely a deduction from the Net Profits Interest.
-
-^^^that costs and expenses including Capital Costs in excess of the Net Proceeds of Production shall be carried forward without limitation and deducted from future Net Profits Interest payments, but shall not be carried back so as to require any refund from the Grantee.
-
-^^^The Grantee may reduce, defer or waive, at its sole discretion, in part or whole, its Net Profits Interest in the event that, in the sole opinion of the Grantee, the Grantor experiences a necessity for funds.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 13 of 15    
-
-^**MISCELLANEOUS**
-
-^^If any term or condition of this Agreement conflicts with a term or condition of the title documents, then such term or condition in the title documents shall prevail and this Agreement shall be deemed to be modified accordingly.
-
-^^The headings of the clauses of this Agreement are inserted for convenience of reference only and shall not affect the meaning or construction thereof.
-
-^^Whenever the plural or masculine or neuter is used in this Agreement the same shall be construed as meaning singular or feminine or body politic or corporate and vice versa where the context so requires.
-
-This Agreement shall enure to the benefit of and be binding on the Parties and their respective successors and permitted assigns and upon the heirs, executors, administrators and assigns of natural persons who are or become Parties hereto.
-
-^^The management of the Net Proceeds of Production under this Agreement from assets located in the continental US shall be governed by the definitions contained in Article I of the A.A.P.L. Form 610 – MODEL FORM OPERATING AGREEMENT - 1989 (a copy of which is attached as Schedule “A” to this Agreement). The Net Profits Interest will be calculated and paid in the lawful currency of the United States of America for Prospects located in the United States.
-
-^^The management of the Net Proceeds of Production from assets under this Agreement located in Canada shall be governed by the definitions contained in clause 101 of the 1990 CAPL Operating Procedure (a copy of which is attached as Schedule “B” to this Agreement). The Net Profits Interest will be calculated and paid in the lawful currency of Canada for Prospects located in Canada.
-
-The Parties agree that this Agreement shall for all purposes be construed and interpreted according to the laws of the Province of Alberta and that the courts having jurisdiction with respect to any matter or thing arising directly or indirectly relating to this Agree­ment, or the relationship between the Parties, shall be the courts of said Province, to the jurisdiction of which courts the Parties by their execution of this Agreement do hereby submit.
-
-This Agreement may be executed in counterpart and when each Party has executed a counterpart, all counterparts taken together shall constitute one agreement.
-
-The terms of this Agreement express and constitute the entire agreement between the Parties insofar as the specific subject matter contained in this Agreement. No implied covenant or liability of any kind on the part of the Parties is created or shall arise by reason of these presents or anything contained in this Agreement.
-
-This Agreement supersedes and replaces all previous agreements, memoranda or correspondence, whether written or oral among the parties with respect to the subject matter of this Agreement.
-
-Each of the parties shall from time to time and at all times do such further acts and execute and deliver such further deeds and documents as shall be reasonably required in order to fully perform and carry out the terms of this Agreement.
-
-If any portion of this Agreement shall be or deemed to be unenforceable, illegal or invalid, the remaining portions of the Agreement shall not be affected thereby.
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 14 of 15    
-
-Time is of the essence of this Agreement.
-
-The two-year period for seeking a remedial order under section 3(1)(a) of the Limitations Act, R.S.A. 2000 c.L-12, as amended, for any claim (as defined in that Act) arising in connection with this agreement is extended to:
-
-^^^for claims disclosed by an audit, two years after the time this agreementpermitted that audit to be performed; or
-
-for all other claims, four years.  
-Each of the Parties represents and warrants that it now has or is entitled to have full right, full power and absolute authority to enter into this Agreement.
-
-The addresses for notice for the parties are:
-
-\centered Mara Energy.   Imperial Oil and Gas Inc. 
-
-Suite 408, #100   Suite 2600, 144 -4th Ave SW [[Address 5: Address]] 3Y6   [[Address 1: Address]] 3N4 
-
-Email: [[Email 3]]   Email: [[Email 3]]  
-
-**IN WITNESS WHEREOF** the parties hereto have executed and delivered this Agreement as of the day and year first above written.
-
-**MARA ENERGY.**         **IMPERIAL OIL & GAS INC.**
-
-**Name: Grant Twanow**         **Name: Grant Twanow**
-**Title: Director**         **Title: Director**
-
-\centered \centered **Consulting Services Agreement, Imperial Oil & Gas Inc. and Mara Energy**   
-
-\centered Page 15 of 15
+**Emergent Accounting Code**: 650081-10020/10025 (Payments will be applied evenly between cost centers.) Code must be noted on all invoices in order for payment to be processed

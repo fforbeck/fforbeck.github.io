@@ -1,133 +1,43 @@
-\centered **SEPARATION AGREEMENT**
+\centered **SEPARATION** **AGREEMENT**
 
-This Separation Agreement (this “Agreement”), dated [[Date 1: Date]], is entered into between [[Duerden]] (hereinafter “Duerden”) and Crocs, Inc. (together with its successors and assigns, the “Company”), hereinafter collectively referred to as the “Parties.” As used in this Agreement, the “Company” shall include Crocs, Inc. and any of its affiliates, subsidiaries, or divisions.
+This Separation Agreement (“Agreement”) is between [[Executive]] (“Executive”) and Unigene Laboratories, Inc. (“Unigene”), dated the [[Date 1: Date]].
 
-\centered **RECITALS**
+WHEREAS, Executive was employed by Unigene pursuant to an Employment Agreement dated [[Date 2: Date]], as amended by a First Amendment dated [[Date 3: Date]]; and
 
-^Duerden and Crocs, Inc. are parties to an Employment Agreement dated [[Date 2: Date]] (the “Employment Agreement”);
+WHEREAS, Unigene will terminate Employee’s employment without “cause,” as that term is defined in Employee’s Employment Agreement, effective as of the occurrence of the First Restated Closing under that certain Amended and Restated Financing Agreement, dated as of [[Date 4: Date]], by and among Unigene, the lenders party thereto and Victory Park Management, as agent (the “Termination Date”).
 
-^Duerden’s employment with the Company as President and Chief Executive Officer and his service as a member of the board of directors of the Company terminated effective [[Date 3: Date]] (the “Separation Date”); and
+NOW, THEREFORE, in consideration of the mutual promises set forth below, the parties agree as follows:
 
-^The Company agrees to make certain payments to Duerden and accelerate the vesting of certain equity awards held by Duerden, as set forth in Section 1 below, in consideration for Duerden entering into this Agreement, including Duerden’s agreement to release the Company from any all claims relating to his service to the Company.
+^**Compensation and Benefits**.  
+^^Unigene will pay severance to Executive in a lump sum equal to Executive’s current annual salary ($[[USD Value 1: Number]]), which will be paid as soon as practicable following the Termination Date, but no later than 90 days thereafter.
 
-\centered **AGREEMENT**
+^^All options currently issued and held by Executive as of the Termination Date, including any under the terms of Unigene’s 2006 Stock-Based Incentive Compensation Plan, as amended (or any predecessor plan) (the “Plan”), will remain exercisable until the earlier of (i) three and one-half (3 1/2) years after Executive’s Termination Date or (ii) the date the exercise period for the options would have expired if Executive had remained in his current positions as a director and employee.
 
-In consideration of all mutual promises contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, it is agreed by and between Duerden and the Company as follows:
+^^If permitted pursuant to the Unigene healthcare plan governing documents in effect as of the date of this Agreement, Executive will continue to receive healthcare benefits under Unigene’s healthcare plan, with Unigene’s paying that portion of the premium associated with the coverage that it would pay if Executive was then a current eligible employee and with family coverage at least as favorable to Executive as the most extensive healthcare benefit offered by Unigene to any employee, for a period of one (1) year following the Termination Date, at which time Executive’s healthcare benefits under Unigene’s healthcare plan will end, and Executive will receive a notification of COBRA rights. If for any reason Unigene cannot continue Executive’s healthcare coverage under the terms of the immediately preceding sentence under Unigene’s regular healthcare plan after the Termination Date, Unigene will pay Executive’s COBRA payments for a period of one (1) year following the Termination Date. In no event shall Unigene be required to provide individual or family healthcare coverage to Executive or his family except as part of Unigene’s regular healthcare plan or under COBRA. Unigene shall not be required to amend its healthcare plan to comply with this paragraph.
 
-^Consideration. Effective upon the expiration of the revocation period provided in Section 8 hereof and subject to the condition that this Agreement is not revoked by Duerden pursuant to such Section 8 prior to the expiration of such revocation period (such expiration date, the “Effective Date”) and provided that Duerden does not breach his obligations under Sections 4, 5, 6, 7 and 14 of the Employment Agreement or Section 10 below (such sections collectively, and together with Section 15 and Sections 16(a) through (e) of the Employment Agreement, the “Surviving Terms”), the Company agrees to:
+^**Resignation of Board Position**. In exchange for the good and valuable consideration set forth above, Executive will immediately resign from his position as Chairman of Unigene’s Board of Directors, which resignation shall be effective upon the Termination Date. Notwithstanding his resignation, Executive will be invited as an observer to all future meetings of Unigene’s Board of Directors, provided Executive executes and delivers to Unigene a confidentiality agreement in a form satisfactory to Unigene prior to any such meeting.
 
-^^ \centered (a) pay to Duerden a lump sum amount equal to $[[USD Value 1: Number]]; 
+^**D&O Coverage and Indemnification**. In addition to any rights to indemnification to which Executive is entitled under Unigene’s Certificate of Incorporation and Bylaws, Unigene shall indemnify Executive at all times after his employment terminates pursuant to this agreement to the maximum extent permitted under the Delaware General Corporation Law or any successor provision thereof, including its provisions regarding advancement of costs and attorneys’ fees, in connection with any action, suit, investigation or proceeding based in whole or in part upon Executive’s actions, inaction, or status as an employee, officer, or director of Unigene. At all times during and after the termination of Executive’s employment, Executive shall be covered to the same extent as directors of the Board or officers under any directors and officers liability insurance policy maintained in effect by Unigene.
 
-^^ \centered (b) pay to Duerden a lump sum amount equal to $[[USD Value 2: Number]] which amount equals one year of Duerden’s base salary in effect as of the Separation Date; 
+^**Binding Effect**. This Agreement is binding upon and shall inure to the benefit of anyone who succeeds to the rights, interests or responsibilities of the parties.
 
-^^pay to Duerden a lump sum amount equal to $[[USD Value 2]] which amount equals Duerden’s annual incentive compensation equal to [[Percentage 1: Number]]% of Duerden’s base salary as of the Separation Date;
+^**Entire Agreement**. This Agreement is the entire agreement between Executive and Unigene with respect to Executive’s termination of employment and position as Chairman of the Board. It supersedes any existing oral or written agreements with respect to Executive’s employment or termination of employment with Unigene and position as Chairman of the Board.
 
-^^accelerate the vesting and exercisability, to the Effective Date, of the unvested options to purchase Company common stock and the unvested restricted stock awards listed on Exhibit A hereto, which would have vested and become exercisable had Duerden
+^**Amendment**. This Agreement cannot be amended, except by a written document signed by the party against whom enforcement of any such amendment is sought.
 
-remained employed for 12 months after the Separation Date. Except as provided in this Section 1(d), all stock options and restricted stock awards that are unvested as of the Separation Date shall be terminated and cancelled as of the Separation Date, and Duerden shall have no further rights with respect to such awards; and
+^**Governing Law**. This Agreement shall be interpreted in accordance with the laws of the State of New Jersey, without regard to its principles of conflicts of law.
 
-^^pay the employer portion of premiums for group health insurance coverage until the earlier of (i) [[Date 4: Date]] or (ii) the date that Duerden and his dependents are no longer eligible for COBRA continuation coverage, *provided*, that Duerden (and/or Duerden’s covered dependents) is eligible for and properly elects to continue group health insurance coverage, as in place immediately prior to the Separation Date, and Duerden continues to pay the employee portion of such health coverage.
+\centered [no more text on this page]
 
-The amounts (if any) payable pursuant to Sections 1(a), (b) and (c) above shall be paid to Duerden in full on the first regular payroll date of Crocs, Inc. to occur after [[Date 5: Date]]. Duerden acknowledges that he will not be entitled to any annual incentive compensation for fiscal year 2010. Pursuant to the terms of the applicable stock option agreements between the Company and Duerden, all vested and exercisable stock options held by Duerden as of the Separation Date and any stock options that vest pursuant to Section 1(d) above may be exercised by Duerden at any time within three months after the Separation Date in accordance with the terms and conditions set forth in the stock option agreements. Duerden acknowledges that the aggregate fair market value of the shares of common stock (determined as of the respective date or dates of grant) for which one or more stock options granted to him may for the first time become exercisable as “incentive stock options,” within the meaning of Section 422 of the Internal Revenue Code, during any one calendar year shall not exceed the sum of $[[USD Value 3: Number]] and that any options (or portion thereof) that exceed such limit shall be treated as options that are not incentive stock options but only to the extent of such excess. For purposes of this Section 1, the parties confirm that the Separation Date is the date of Duerden’s separation from service with the Company within the meaning of Section 409A(a)(2)(A)(i) of the Code. Notwithstanding anything in this Agreement or elsewhere to the contrary, Duerden shall have no duties or responsibilities after the Separation Date that are inconsistent with his having a “separation from service” on the Separation Date.
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the day and year above written.
 
-^Amounts Owed. The Company and Duerden represent and warrant to each other that, other than Duerden’s annual incentive compensation for fiscal year 2009 in the amount of $[[USD Value 4: Number]] (the “2009 Bonus”) (provided that the 2009 Bonus has not been paid prior to the execution of this Agreement), no amount is obligated to be paid to or from the Company except pursuant to this Agreement. Duerden acknowledges that Duerden has received all wages or other compensation owed to Duerden for Duerden’s services to the Company through the Separation Date (subject only to payment of the 2009 Bonus, if applicable).
-
-^General Release. For and in consideration of this Agreement, Duerden, for himself and his respective heirs, successors and assigns, hereby releases and discharges the Company, its successors, assigns, agents, representatives, attorneys, principals, insurers, its past and present directors, officers, shareholders and employees, and any and all other persons, firms or corporations who are or might be liable through the Company, from any right Duerden has as of the date hereof to any relief of any kind arising from any and all claims, actions, causes of action, damages, taxes, demands, costs, debts, accounts, covenants, contracts, agreements, judgments, charges, loss of service, expenses, wages, or compensation of any kind (hereinafter “Claims”) against the Company, whether such Claims are known or unknown, arising from the beginning of time to the date of this Agreement. The Claims released by Duerden under this Agreement include, but are not limited to, any and all Claims arising out of or relating to the statements, actions or omissions of the Company; all Claims for any alleged unlawful discrimination, harassment, retaliation or reprisal, or other alleged unlawful practices arising under the laws of the United States or any other country or of any state, province, municipality, or other unit of government, including, without limitation, Claims under Title VII of the Civil Rights Act of 1964, the Civil Rights Act of 1991, the Age Discrimination in Employment Act, the Americans With Disabilities Act, 42 U.S.C. § 1981, the Employee Retirement Income Security Act, the Equal Pay Act, the Fair Credit Reporting Act, the Fair Labor Standards Act, the Occupational Safety and Health Act, the Worker Adjustment and Retraining Notification Act, the Sarbanes-Oxley Act, the Colorado Wage Act, the Colorado Anti-Discrimination Act, the Family and Medical Leave Act, the Lilly Ledbetter Fair Pay Act of 2009, or any similar state laws or statutes; all Claims for alleged wrongful discharge, breach of contract, breach of implied contract, failure to keep any promise, breach of a covenant of good faith and fair dealing, breach of fiduciary duty, estoppel, Duerden’s activities, if any, as a “whistleblower,” defamation, infliction of emotional distress, fraud, misrepresentation, negligence, harassment, retaliation or reprisal, constructive discharge, assault, battery, false imprisonment, invasion of privacy, interference with contractual or business relationships, any other wrongful employment practices, and violation of any other principle of common law; all Claims for compensation of any kind, including, without limitation, salary, bonuses, commissions, wages, stock-based compensation or stock options, vacation pay and 401(k) contributions; all Claims for payments or benefits pursuant to the terms of the Employment Agreement; all Claims for back pay, front pay, reinstatement, other equitable relief, compensatory damages, damages for alleged personal injury, liquidated damages and punitive damages; all Claims relating to taxes imposed under Section 409A of the Internal Revenue Code of 1986, as amended, and rules and regulations promulgated thereunder; all Claims for attorneys’ fees, costs and interest; and all Claims relating to Duerden’s relationship with the Company (whether that relationship was as a member of the board of directors or as an employee) and/or Duerden’s separation from the Company. Notwithstanding the foregoing, nothing in this Section 3 (i) precludes any action to enforce any of the terms of this Agreement, (ii) releases any rights arising under, or preserved by, this Agreement, (iii) releases any Claims that may arise subsequent to the execution of this Agreement, or (iv) precludes Duerden’s ability to assert his rights for indemnification and advancement of expenses from the Company pursuant to Section 15 of the Employment Agreement, the Company’s certificate of incorporation or bylaws, or any indemnification agreement or arrangement between the Company and Duerden.
-
-^Assignment of Claims. Duerden has not assigned any claims or rights released in this Agreement.
-
-^Unlawful Conduct. By entering into this Agreement, neither Party admits that it engaged in any unlawful or improper conduct, or that it is legally obligated to the other Party in any way except as is specifically addressed herein.
-
-^Consideration; Negotiation. The consideration stated herein is contractual and not merely a recital. The Parties execute and deliver this Agreement after being fully informed of its terms, contents and effects. The Parties acknowledge that this Agreement is a negotiated agreement that both Parties have reviewed with their attorneys, that both Parties have had a full opportunity to revise the language of the Agreement, and that, in the event of a dispute, the Agreement should not be construed in any way either for or against a Party based on whether a particular Party was or was not the primary drafter of this Agreement.
-
-^Binding Effect. This Agreement shall be effective, binding on the Parties, and in full force and effect immediately following the execution of the Agreement by both Parties, except for Duerden’s release of ADEA claims (if any), which shall be binding and effective as of the expiration of the revocation period addressed below.
-
-^ADEA. Duerden acknowledges that:
-
-^^By executing this Agreement, Duerden waives all rights or claims, if any, that Duerden may have against the Company under the Age Discrimination in Employment Act of 1967, 29 U.S.C. § 626, et seq. (“ADEA”);
-
-^^That this Agreement has been written in a manner calculated to be understood by Duerden, and is in fact understood by Duerden;
-
-^^That the aforementioned waiver reflects specifically, but is not limited to, all rights or claims, if any, that Duerden may have against the Company arising under the ADEA;
-
-^^That Duerden is not waiving rights and claims that Duerden may have under the ADEA against the Company that may arise after the date on which this Agreement is executed;
-
-^^That Duerden is waiving rights and claims that Duerden may have under the ADEA, if any, only in exchange for consideration in addition to anything of value to which Duerden is already entitled;
-
-^^That Duerden is advised and has had the opportunity to consult with an attorney of Duerden’s choice prior to executing this Agreement;
-
-^^That Duerden has been given a period of **** days from the date on which Duerden receives this Agreement, not counting the day upon which Duerden receives the Agreement, within which to consider whether to sign this Agreement;
-
-^^That if Duerden wishes to execute this Agreement prior to the expiration of the 21-day period set forth above, Duerden may do so;
-
-^^That Duerden has been given a period of **** days following Duerden’s execution of this Agreement to revoke Duerden’s waiver of all claims, if any, under the ADEA, and Duerden’s release of any claims under the ADEA shall not become effective or enforceable until the revocation period has expired without Duerden revoking Duerden’s waiver of all claims under the ADEA; and
-
-^^To revoke Duerden’s waiver of all claims under the ADEA, Duerden understands that Duerden must deliver a written, signed statement that Duerden revokes Duerden’s waiver of all claims under the ADEA to the Company by hand or by mail within the **** day revocation period. The revocation must be postmarked within the period stated above and properly addressed to the Company at the following address:
-
-Crocs, Inc.
-
-6328 Monarch Park Place
-
-Niwot, Colorado 80503
-
-ATTN: General Counsel
-
-^Remedies. Each Party acknowledges that it would be difficult to fully compensate the other Party for monetary damages resulting from any breach by the other Party of the provisions hereof. Accordingly, in the event of any actual or threatened breach of any such provision, the Company or Duerden, as applicable, shall, in addition to any other remedies it or he may have, be entitled to seek injunctive and other equitable relief to enforce such provision, such relief may be granted without the necessity of proving actual monetary damages. Each Party agrees that in the event the other Party is found to have breached (or threatened to breach) any such provision, the breaching Party will be liable to the other Party for reasonable attorneys’ fees and costs incurred in enforcing such provision.
-
-^Miscellaneous. The provisions of Sections 16(a) through 16(e) of the Employment Agreement (relating, respectively, to tax withholding, Section 409A, governing law, jurisdiction and venue, and arbitration of disputes) shall be deemed incorporated into this Agreement as if fully set forth herein.
-
-^Entire Agreement. This Agreement contains the entire agreement of the Parties relating to the subject matter addressed herein and supersedes all prior agreements and understandings with respect to such subject matter, including the provisions of the Employment Agreement other than the Surviving Terms, except any written agreements related to Duerden’s common stock and restricted stock awards, and the Parties have made no other agreements, representations or warranties relating to the subject matter of this Agreement.
-
-^Amendments; Waiver. This Agreement may not be altered, amended, or otherwise modified except by subsequent written agreement executed by both Parties. No term or condition of this Agreement shall be deemed to have been waived, except by a statement in writing signed by the Party against whom enforcement of the waiver is sought. Any written waiver shall not be deemed a continuing waiver unless specifically stated, shall operate only as to the specific term or condition waived and shall not constitute a waiver of such term or condition for the future or as to any act other than that specifically waived. Failure of the Company to require strict compliance with this Agreement or to enforce or seek to enforce this Agreement in response to a breach by Duerden does not constitute a waiver of the Company’s right subsequently to seek enforcement as to that breach or any other breach of this Agreement.
-
-^Severability. To the extent a court of competent jurisdiction deems that any portion of any provision of this Agreement is invalid or unenforceable, the Parties agree that such portion(s) shall be considered deleted herefrom and the remainder of such provision and of this Agreement shall be unaffected and continue in full force and effect.
-
-^Counterparts. This Agreement may be executed in counterparts and shall be fully enforceable in all regards if executed in such manner as if it had been executed as a single document. Signatures obtained by facsimile or by other electronic means shall constitute effective execution of this Agreement.
-
-\centered [*The remainder of this page is intentionally left blank*.]
-
-**IN WITNESS WHEREOF**, the Parties have signed this Agreement to be effective as of the date first written above.
-
-**DUERDEN:**
-
-/s/ [[Duerden]]
-[[Duerden]]
-
-**COMPANY:**
-
-**Crocs, Inc.**
-
-[[Crocs Inc. Signatory Email: Identity | Signature]]
+**/s/ [[Executive]] 
+[[Executive]]  
+Dated: [[Date 4]]   
+UNIGENE LABORATORIES, INC.   
+[[UNIGENE LABORATORIES INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Crocs Inc. Entity => By: [[Crocs Inc. Signatory First Name]] [[Crocs Inc. Signatory Last Name]]
-Title: [[Crocs Inc. Signatory Title]]}}
+{{UNIGENE LABORATORIES INC. Entity => By: [[UNIGENE LABORATORIES INC. Signatory First Name]] [[UNIGENE LABORATORIES INC. Signatory Last Name]]
+Title: [[UNIGENE LABORATORIES INC. Signatory Title]]}}
 
-and Administrative Officer
-
-\centered **Exhibit A**
-
-\centered **Accelerated Stock Options and Restricted Stock Awards**
-
-\centered **Original**Scheduled**            \centered **ISO**      \centered NQ**      
-
-\centered **TOTAL**
-\centered **Award**            \centered **Release/Vest**      \centered **RSA**      \centered **Option**      \centered **Option**      
-
-\centered **Option**
-\centered **Date**      \centered **Plan**      \centered **Date**      \centered **Shares**      \centered **Shares**      \centered **Shares**      
-
-\centered **Shares**
-
-\centered 2/24/2009          3/24/2010      8,333      3,318      5,016      8,334
-\centered 2/24/2009          4/24/2010      8,334      3,318      5,015      8,333
-\centered 2/24/2009          5/24/2010      8,333      3,317      5,016      8,333
-\centered 2/24/2009          6/24/2010      8,333      3,318      5,015      8,333
-\centered 2/24/2009          7/24/2010      8,334      3,318      5,016      8,334
-\centered 2/24/2009          8/24/2010      8,333      3,318      5,015      8,333
-\centered 2/24/2009          9/24/2010      8,333      3,318      5,016      8,334
-\centered 2/24/2009          10/24/2010      8,334      3,317      5,015      8,332
-\centered 2/24/2009          11/24/2010      8,333      3,318      5,016      8,334
-\centered 2/24/2009          12/24/2010      8,333      3,318      5,015      8,333
-\centered 2/24/2009          1/24/2011      8,334      6,083      2,251      8,334
-\centered 2/24/2009          2/24/2011      8,333      6,082      2,251      8,333
-^^,000      45,343      54,657      100,000
+Dated: [[Date 4]]

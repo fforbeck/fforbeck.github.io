@@ -1,0 +1,403 @@
+\centered **CIGNA LONG-TERM INCENTIVE PLAN (Amended and Restated Effective as of [[Date 1: Date]])** 
+
+The CIGNA Long-Term Incentive Plan is intended to: 
+
+^^Reward the creation of long-term value for CIGNA shareholders by providing key employees of the Company with an opportunity to acquire an equity interest in CIGNA Corporation, thereby increasing their personal interest in its continued success and progress, and aligning their interests with those of its shareholders;
+^^Aid the Company in attracting and retaining employees of exceptional ability;
+^^Supplement and balance the Company’s salary and incentive bonus programs in support of CIGNA Corporation’s long-term strategic plans and financial results;
+^^Encourage decisions and actions by Company executives to deliver superior enterprise results, with appropriate consideration of risk, and that are consistent with the long-range interests of CIGNA Corporation’s shareholders.
+
+This Plan is an amendment and restatement, as of the Restatement Date, of the Plan as the Plan was amended and restated effective [[Date 2: Date]]. Except as otherwise provided by the terms of the Plan, this amended and restated Plan applies to all authorized awards made after the Plan is approved by Company shareholders. 
+
+Except as otherwise provided in the Plan or unless the context otherwise requires, the terms defined below shall have the following meanings under the Plan: 
+
+^^**“Affiliate”**  the meaning set forth in Rule 12b-2 promulgated under the Exchange Act.
+^^**“Beneficial Owner”** and **“Beneficially Owned”**  the meaning set forth in Rule 13d-3 promulgated under the Exchange Act.
+^^**“Board”**  the board of directors of CIGNA Corporation or any duly authorized committee of that board.
+
+^^^^^ 
+^^**“CEO”**  the Chief Executive Officer of CIGNA Corporation.
+^^**“Change of Control”**  any of the following:
+
+^^A corporation, person or group acting in concert, as described in Exchange Act Section 14(d)(2), holds or acquires beneficial ownership within the meaning of Rule 13d-3 promulgated under the Exchange Act of a number of preferred or common shares of CIGNA Corporation having [[Percentage 1: Number]]% or more of the combined voting power of CIGNA Corporation’s then outstanding securities; or
+^^There is consummated a merger or consolidation of CIGNA Corporation or any direct or indirect subsidiary of CIGNA Corporation with any other corporation, other than
+
+^^^a merger or consolidation immediately following which the individuals who constituted the Board of Directors immediately prior thereto constitute at least a majority of the board of directors of the entity surviving such merger or consolidation or the ultimate parent thereof, or
+^^^a merger or consolidation effected to implement a recapitalization of CIGNA Corporation (or similar transaction) in which no Person is or becomes the Beneficial Owner, directly or indirectly, of securities of CIGNA Corporation (not including in the securities Beneficially Owned by such Person any securities acquired directly from CIGNA Corporation or its Affiliates) representing [[Percentage 1]]% or more of the combined voting power of CIGNA Corporation’s then outstanding securities; or
+
+^^A change occurs in the composition of the Board at any time during any consecutive 24-month period such that the Continuity Directors cease for any reason to constitute a majority of the Board. For purposes of the preceding sentence “Continuity Directors” shall mean those members of the Board who either: (1) were directors at the beginning of such consecutive 24-month period; or (2) were elected by, or on nomination or recommendation of, at least a majority of the Board (other than a director whose initial assumption of office is in connection with an actual or threatened election contest, including but not limited to a consent solicitation, relating to the election of directors of CIGNA Corporation); or
+^^The shareholders of CIGNA Corporation approve a plan of complete liquidation or dissolution of CIGNA Corporation or there is consummated an agreement for the sale or disposition by CIGNA Corporation of all or substantially all of CIGNA Corporation’s assets, other than a sale or disposition by CIGNA Corporation of all or substantially all of CIGNA Corporation’s assets immediately following which the individuals who constituted the Board immediately prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed or any parent thereof.
+
+^^^^^ 
+Notwithstanding the foregoing, a “Change of Control” shall not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately following which the record holders of the common stock of CIGNA Corporation immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in an entity which owns all or substantially all of the assets of CIGNA Corporation immediately following such transaction or series of transactions.
+
+^^**“Code”**  the Internal Revenue Code of 1986, as amended.
+^^**“Committee”**  the Board’s People Resources Committee or any successor committee with responsibility for compensation.
+^^**“Common Stock”**  the common stock, par value $[[USD Value 2: Number]] per share, of CIGNA Corporation.
+^^**“Company”**  CIGNA Corporation, a Delaware corporation, and/or its Subsidiaries.
+^^**“Deferred Compensation Plan”**  a Company deferred compensation plan, or another arrangement of the Company which has been designated by the Committee as a “Deferred Compensation Plan” for purposes of this Plan.
+^^**“Disability”**  permanent and total disability as defined in Code Section 22(e)(3).
+^^**“Early Retirement”**  a Termination of Employment, after appropriate notice to the Company, (a) on or after a Participant has reached age 55 (but not age 65) and attained at least five years of service (as determined under the elapsed time service counting rules applied by the Company to determine an employee’s total period of Company service using an adjusted service date), or (b) upon such terms and conditions approved by the Committee or officers of the Company designated by the Board or the Committee.
+^^**“Eligible Employee”**  a salaried officer or other key employee of the Company.
+^^**“Exchange Act”**  the Securities Exchange Act of 1934, as amended.
+
+^^^^^ 
+^^**“Expiration Date”**  the last date, specified in an Option or SAR grant, on which an Option or SAR may be exercised.
+^^**“Fair Market Value”**  the average of the highest and lowest quoted selling prices as reported on the Composite Tape (or any successor method of publishing stock prices) as of 4:00 p.m. Eastern time (or such other time as trading on the New York Stock Exchange may close) on the date as of which any determination of stock value is made. If the Composite Tape (or any successor publication) is not published on that date, the determination will be made on the next preceding date of publication. In the absence of reported Common Stock sales, the Committee will determine Fair Market Value by taking into account all facts and circumstances the Committee deems relevant, subject to the requirements of Code Section 409A.
+^^**“Incentive Stock Option”**  an Option described by Code Section 422(b).
+^^**“Nonqualified Option”**  an Option that is not an Incentive Stock Option.
+^^**“Option”**  a right granted under Article 5 to purchase one or more shares of Common Stock.
+^^**“Participant”**  an Eligible Employee who has received an award under the Plan.
+^^**“Payment”**  the compensation due a Participant, or Participant’s estate, under Article 10 of the Plan on account of a grant of Performance Shares or Units.
+^^**“Payment Date”**  the date that a Qualifying Plan payment is made (or would have been made if not deferred under Section 9.3).
+^^**“Peer Group”**  a group of companies, selected by the Committee, whose financial performance is compared to CIGNA Corporation’s.
+^^**“Performance Measures”**  the measures to be used to assess the Company’s performance with respect to Restricted Stock subject to performance conditions, Strategic Performance Units and Strategic Performance Shares. The measures shall be one or more of the following: earnings (total or per share); net income (total or per share); growth in net income (total or per share); income from selected businesses (total or per share); growth in net income or income from selected businesses (total or per share); pre-tax income or growth in pre-tax income; profit margins; revenues; revenue growth; premiums and fees; growth in premiums and fees; membership; membership growth; market share; change in market share; book value; total shareholder return; stock price; change in stock price; market capitalization; change in market capitalization; return on market value; shareholder equity (total or per share); return on equity; assets; return on assets;
+
+^^^^^ 
+capital; return on capital; economic value added; market value added; cash flow; change in cash flow; expense ratios or other expense management measures; medical loss ratio; ratio of claims or loss costs to revenues; satisfaction  customer, provider, or employee; service quality; productivity ratios or other measures of operating efficiency; and accuracy of claim processing or other measures of operational effectiveness. The Committee may specify any reasonable definition of the measures it uses. Such definitions may provide for reasonable adjustments to the measures and may include or exclude items, including but not limited to: realized investment gains and losses; special items identified in the company’s reporting; extraordinary, unusual or non-recurring items; effects of accounting changes, currency fluctuations, acquisitions, divestitures, reserve strengthening, or financing activities; expenses for restructuring or productivity initiatives; and other non-operating items.
+^^**“Performance Objectives”**  the written objective performance goals applicable to performance conditions for Restricted Stock granted under Section 7.3 or Strategic Performance Shares or Strategic Performance Units granted under Section 10.1. To the extent required by Code Section 162(m), the Performance Objectives shall be stated in terms of one or more Performance Measures. Performance Objectives may be stated separately for one or more of the Participants, collectively for the entire group of Participants, or in any combination of the two. Performance Objectives may be for the Company as a whole, for one or more of its subsidiaries, business units, lines of business or for any combination of the foregoing and may be absolute or may require comparing the Company’s financial performance to that of a Peer Group or of a specified index or indices, or be based on a combination of the foregoing. Except as prohibited by Code Section 162(m), if CIGNA Corporation is involved in a merger, acquisition or divestiture transaction (even if it does not constitute a Change of Control), the Committee may, in its sole discretion, adjust or modify completely the Performance Measures, and/or Performance Objectives if the transaction has any material affect on the Company’s ability to apply the Performance Measures, or meet the Performance Objectives, established at the time of grant.
+^^**“Performance Period”**  the period, specified by the Committee, during which Performance Objectives applicable to Strategic Performance Shares or Strategic Performance Units are measured.
+^^**“Person”**  the meaning given in Section 3(a)(9) of the Exchange Act, as modified and used in Sections 13(d) and 14(d) thereof, except that such term shall not include (a) CIGNA Corporation or any of its Subsidiaries, (b) a trustee or other fiduciary holding securities under an employee benefit plan of CIGNA Corporation or any of its Affiliates, (c) an underwriter temporarily holding securities pursuant to an offering of such securities, or (d) a corporation owned, directly or indirectly, by the stockholders of CIGNA Corporation in substantially the same proportions as their ownership of stock of CIGNA Corporation.
+
+^^^^^ 
+^^**“Plan”**  the CIGNA Long-Term Incentive Plan.
+^^**“Prior Plan”**  the CIGNA Long-Term Incentive Plan as restated effective [[Date 3: Date]] and as further amended and restated through [[Date 2]] and, unless otherwise provided under the terms of this Plan, the CIGNA Corporation Stock Plan as adopted effective [[Date 4: Date]], and as amended thereafter.
+^^**“Qualifying Plan”**  any Company bonus plan, short-term or long-term incentive compensation plan, any other incentive compensation arrangement or any supplemental retirement benefit plan that is not tax qualified under the Code. Except with respect to payment of Performance Shares or Units in the form of Common Stock, this Plan shall not be a Qualifying Plan.
+^^**“Restatement Date”**  [[Date 1]], or, if later, the date Company shareholders approve this amended and restated Plan.
+^^**“Restricted Period”**  the period during which Common Stock is subject to restrictions under Section 7.2.
+^^**“Restricted Stock”**  Common Stock granted under Article 7 that remains subject to a Restricted Period.
+^^**“Retirement”**  a Participant’s Termination of Employment, after appropriate notice to the Company, on or after a Participant has reached age 65 and attained at least five years of service (as determined under the elapsed time service counting rules applied by the Company to determine an employee’s total period of Company service using an adjusted service date) or upon such other terms and conditions approved by the Committee, or officers of the Company designated by the Board or the Committee.
+^^**“SAR”**  a stock appreciation right granted under Article 6.
+^^**“SEC”**  the Securities and Exchange Commission.
+^^**“Strategic Performance Share”** or **“Performance Share”**  an amount of incentive opportunity available for award to a Participant for a specified Performance Period, with a value equal to the Fair Market Value of one share of Common Stock.
+^^**“Strategic Performance Unit”** or **“Unit”**  the smallest amount of incentive opportunity available for award to a Participant for a specified Performance Period, with a target value of $75.00 per Unit unless a different target value is established by the Committee at the time a Unit award is made.
+
+^^^^^ 
+^^**“Subsidiary”**  any corporation of which more than [[Percentage 2: Number]]% of the total combined voting power of all classes of stock entitled to vote, or other equity interest, is directly or indirectly owned by CIGNA Corporation; or a partnership, joint venture or other un[[Party 1]] entity of which more than a [[Percentage 2]]% interest in the capital, equity or profits is directly or indirectly owned by CIGNA Corporation; provided that such corporation, partnership, joint venture or other un[[Party 1]] entity is included in the Company’s consolidated financial statements under generally accepted accounting principles.
+^^**“Termination for Cause”**  a Termination of Employment initiated by the Company on account of the conviction of an employee of a felony involving fraud or dishonesty directed against the Company.
+^^**“Termination of Employment”**  the termination of the Participant’s employment relationship with the Company (unless otherwise expressly provided by the Committee) or a transaction by which the Participant’s employing Company ceases to be a Subsidiary.
+^^**“Termination Upon a Change of Control”**  a Termination of Employment upon or within two years after a Change of Control (a) initiated by the Company or a successor other than a Termination for Cause or (b) initiated by a Participant after determining in the Participant’s reasonable judgment that there has been a material reduction in the Participant’s authority, duties or responsibilities, any reduction in the Participant’s compensation, or any change caused by the Company in the Participant’s office location of more than 35 miles from its location on the date of the Change of Control.
+^^**“Vesting Percentage”**  the ratio, determined by the Committee, of Performance Shares payable under Section 10.3 to Performance Shares granted under Section 10.1.
+
+^^Participation. An Eligible Employee who receives an authorized award under the Plan shall become a Participant upon receipt of the award. 
+
+^^Directors. Members of the Board who are not employed by the Company are not eligible to participate in the Plan. 
+
+^^^^^ 
+^^Authorized Awards. The Plan’s authorized awards are: (a) Options (including Incentive Stock Options); (b) SARs; (c) Restricted Stock; (d) dividend equivalent rights; (e) Common Stock in lieu of cash or other awards payable under a Qualifying Plan; (f) Strategic Performance Shares; and (g) Strategic Performance Units. 
+
+^^General Powers of the Committee. Subject to the requirements of the Plan and Delaware law, the Committee may in its sole discretion select Participants, grant them any authorized awards in amounts and combinations, and upon terms and conditions, as it shall determine, and exercise any other authority granted to the Committee under the Plan. The Committee may delegate to the CEO or the CEO’s designee any such authority; however, no power or authority delegated by the Committee under the Plan may be exercised (a) to affect the terms and conditions of an award made to anyone subject to the requirements of Section 16(a) of the Exchange Act or (b) as to matters reserved to the Board under the Delaware General Corporation Law. 
+
+^^General Powers of the CEO. Subject to the requirements of Delaware law, the CEO shall have the authority and discretion to select Participants and grant them any authorized awards in amounts and combinations and upon terms and conditions as the CEO shall determine, subject to the same limitations and provisions that apply under the Plan to the Committee, and also subject to the following: 
+
+^^The CEO may not grant any awards to or for the benefit of (1) members of the Board or (2) anyone subject to the requirements of Exchange Act Section 16(a);
+
+^^The CEO must be a member of the Board when the CEO grants any award under the Plan and must be properly empowered by the Board to grant such award; and
+
+^^The total number of shares of Common Stock which may be issued pursuant to awards granted under this Section 4.3 is limited to a maximum of [[Percentage 3: Number]]% of the number of shares of Common Stock authorized to be issued under the Plan.
+
+^^Term Limit. No awards may be made under this Plan after [[Date 5: Date]]. 
+
+^^^^^ 
+^^General. Subject to any Plan limitations and provisions, the Committee may grant Options to Eligible Employees upon terms and conditions that it may establish, including restrictions on the right to exercise Options. However, no Option shall be exercisable by a Participant within one year after the Option grant date, except as provided under the Plan or the terms of the Option grant upon a Participant’s Termination of Employment due to death, Disability, Early Retirement or Retirement or a Participant’s Termination Upon a Change of Control. 
+
+^^Option Price. The exercise price per share of any Option shall not be less than the Fair Market Value on the grant date. The Option price may be paid in cash or, if the Committee so provides, in Common Stock. Common Stock used to pay the Option price shall be valued using the Fair Market Value on the Option exercise date. 
+
+^^Maximum Term. No Expiration Date shall be more than 10 years after the Option grant date. Under Section 5.5, an Option may expire earlier than the Expiration Date specified in the Option grant. 
+
+^^Leave of Absence. Unless otherwise expressly provided by the Committee, no Option may be exercised during a leave of absence except to the extent exercisable immediately before the start of the leave. Termination of Employment during a leave of absence shall be treated under Section 5.5 the same as Termination of Employment during a period of active employment. 
+
+^^Expiration of Options.  
+^^Except as provided elsewhere in Section 5.5, any outstanding Option held by a Participant at Termination of Employment shall expire on the date of Termination of Employment.
+^^Any outstanding Option held by a Participant at Termination Upon a Change of Control shall:
+
+^Become exercisable no later than the date of the Participant’s Termination of Employment to the extent not already exercisable; and
+
+^Expire on the earlier of 3 months from the date of Termination of Employment or the Expiration Date.
+
+^^Any outstanding Option held by a Participant at Termination of Employment due to death, Disability, Early Retirement or Retirement shall become or remain exercisable in accordance with the terms and conditions established by the Committee at the time of grant.
+
+^^^^^ 
+^^No Repricing; No Automatic Option Grants (Reloads). Without prior approval of CIGNA Corporation shareholders, the Committee may not: 
+
+^^Cancel a previously granted Option and grant a replacement Option if the new Option exercise price is lower than that of the canceled Option;
+
+^^Provide for any automatic grant of a new Option upon a Participant’s exercise of any Option granted under the Plan;
+
+^^Except in connection with a corporate transaction involving CIGNA Corporation (including, without limitation, any stock dividend, stock split, extraordinary cash dividend, recapitalization, reorganization, merger, consolidation, split-up, spin-off, combination, or exchange of shares), (i) amend the terms of an Option to reduce the Option exercise price, or (ii) to the extent the exercise price of an Option exceeds the Fair Market Value of a share of Common Stock, cancel, exchange, substitute, buyout or surrender an outstanding Option in exchange for cash, other awards or Options or SARs with an exercise price that is less than the exercise price of the original Option; or
+^^Take any other action that could constitute a repricing.
+
+^^Incentive Stock Options. The following terms and conditions shall apply to any Options granted under the Plan that are identified as Incentive Stock Options. 
+
+^^Incentive Stock Options may be granted only to Eligible Employees who are employed by CIGNA Corporation or a corporation that is either a direct Subsidiary or an indirect Subsidiary through an unbroken chain of corporations.
+^^No Incentive Stock Option may be granted after [[Date 5]].
+
+^^No Incentive Stock Option may be granted to any person who, at the time of grant, owns (or is deemed to own under Code Section 424(d)) shares of outstanding Common Stock possessing more than [[Percentage 3]]% of the total combined voting power of all classes of stock of CIGNA Corporation or a Subsidiary, unless the Option exercise price is at least [[Percentage 4: Number]]% of the Fair Market Value on the grant date of the stock subject to the Option and the Option by its terms is not exercisable after the expiration of five years after the Option grant date.
+
+^^To the extent that the aggregate Fair Market Value of stock with respect to which the Incentive Stock Options first become exercisable by a Participant in any calendar year exceeds $[[USD Value 1: Number]] (taking into account both Common Stock subject to the Incentive Stock Options under this Plan and stock subject to Incentive Stock Options under all other Company plans, if any), such Options shall be treated as Nonqualified Options. For this purpose the Fair Market Value of the stock subject to Options shall be determined as of the date the Options were awarded. In reducing the number of options treated as Incentive Stock Options to meet the $[[USD Value 1]] limit, the most recently granted Options shall be reduced first. To the extent a reduction of simultaneously granted Options is necessary to meet the $[[USD Value 1]] limit, the Committee may, in the manner and to the extent permitted by law, designate which shares of Common Stock are to be treated as shares acquired pursuant to the exercise of an Incentive Stock Option.
+
+^^^^^ 
+^^Any grant of Incentive Stock Options shall include whatever terms and conditions are required to meet the requirements of Code Section 422.
+
+^^General. Subject to any Plan limitations and provisions, the Committee may grant SARs to Eligible Employees upon terms and conditions it may establish, including restrictions on the right to exercise SARs. However, no SAR shall be exercisable by a Participant within one year after the SAR grant date, except as provided under the Plan or the terms of the SAR grant upon a Participant’s Termination of Employment due to death, Disability, Early Retirement or Retirement or a Participant’s Termination Upon a Change of Control. 
+
+^^Maximum Term. No SAR shall be exercisable more than 10 years after the SAR grant date. Under Section 6.5, an SAR may expire earlier than the expiration date specified in the SAR grant. 
+
+^^SAR Exercise. The SAR shall entitle the Participant to receive upon exercise of the SAR, without payment to the Company, a whole number of shares of Common Stock determined by multiplying (a) and (b) and dividing the result by (c): 
+
+^^Total number of shares subject to the SAR that the Participant designates for SAR exercise, up to the maximum number available for exercise as of the SAR exercise date;
+
+^^Excess of (1) the Fair Market Value of a share of Common Stock on the SAR exercise date over (2) the Fair Market Value of a share of Common Stock on the grant date of the SAR; and
+^^Fair Market Value of a share of Common Stock on the SAR exercise date.
+
+Any fractional share of Common Stock resulting from this calculation shall be ignored. 
+
+The Committee may provide that, instead of issuing shares upon the SAR exercise, the Company shall pay cash equal to the Fair Market Value, on the SAR exercise date, of some or all the shares that would otherwise be issued upon the SAR exercise. 
+
+^^^^^ 
+Upon exercise of an SAR, the number of shares that the Participant designates for exercise will be subtracted from the number of shares available under the SAR immediately before the SAR exercise to determine the remaining number of shares, if any, that the Participant may designate for any future exercise of the SAR. 
+
+^^Leave of Absence. Unless otherwise expressly provided by the Committee, no SAR may be exercised during a leave of absence except to the extent exercisable immediately before the start of the leave. Termination of Employment during a leave of absence shall be treated under Section 6.5 the same as Termination of Employment during a period of active employment. 
+
+^^Expiration of SARs.  
+^^Except as provided elsewhere in Section 6.5, any outstanding SAR held by a Participant at Termination of Employment shall expire on the date of Termination of Employment.
+^^Any outstanding SAR held by a Participant at Termination Upon a Change of Control shall:
+
+^Become exercisable no later than the date of the Participant’s Termination of Employment to the extent not already exercisable; and
+
+^Expire on the earlier of 3 months from the date of Termination of Employment or the SAR Expiration Date.
+
+^^Any outstanding SAR held by a Participant at Termination of Employment due to death, Disability, Early Retirement or Retirement shall become or remain exercisable in accordance with the terms and conditions established by the Committee at the time of grant.
+
+^^No Repricing; No Automatic SAR Grants (Reloads). Without prior approval of CIGNA Corporation shareholders, the Committee may not: 
+
+^^Cancel a previously granted SAR and grant a replacement SAR if the Fair Market Value on date of grant of the new SAR is lower than the Fair Market Value on date of grant of the canceled SAR;
+
+^^Provide for any automatic grant of a new SAR upon a Participant’s exercise of any SAR granted under the Plan;
+
+^^^^^ 
+^^Except in connection with a corporate transaction involving CIGNA Corporation (including, without limitation, any stock dividend, stock split, extraordinary cash dividend, recapitalization, reorganization, merger, consolidation, split-up, spin-off, combination, or exchange of shares), (i) amend the terms of an SAR to reduce the SAR exercise price, or (ii) to the extent the exercise price of an SAR exceeds the Fair Market Value of a share of Common Stock, cancel, exchange, substitute, buyout or surrender an outstanding SAR in exchange for cash, other awards or Options or SARs with an exercise price that is less than the exercise price of the original SAR; or
+^^Take any other action that could constitute a repricing.
+
+^^General. Subject to any limitations and provisions in the Plan, the Committee may grant Restricted Stock to Eligible Employees upon terms and conditions it may establish. The consideration for a Restricted Stock grant may be solely in the form of the recipient’s services rendered to the Company, or it may be any other lawful form of consideration the Committee may determine. 
+
+^^Restricted Period. Except as provided below, Restricted Stock shall not be sold, transferred, assigned, pledged or otherwise disposed of by the Participant during the Restricted Period established by the Committee. The Committee may establish different Restricted Periods and different restriction terms for shares contained in a single Restricted Stock grant. No more than [[Percentage 5: Number]]% of the Restricted Stock granted under the Plan shall have a Restricted Period less than three years. 
+
+^^Performance Conditions. The Committee may grant Restricted Stock that is subject to performance conditions, as follows: 
+
+^^Restricted Stock may automatically be forfeited to the Company at the end of the Restricted Period unless, and to the extent that, the Company meets specified Performance Objectives; or
+
+^^The Restricted Period applicable to Restricted Stock may end earlier if, and to the extent that, the Company meets specified Performance Objectives, but no earlier than one year after the date of grant.
+
+If the Committee grants Restricted Stock subject to performance conditions, at the time of grant the Committee shall establish in writing the applicable Performance Measures, Performance Objectives, vesting schedule and, if the Performance Objectives require comparing the Company’s financial results to those of a Peer Group, the composition of the Peer Group. To the extent required by Code Section 162(m), before the vesting of any Restricted Stock subject to performance conditions, the Committee shall certify in writing that the Performance Objectives established at time of grant have been met. The Committee may establish different performance conditions for shares contained in a single Restricted Stock grant. No Eligible Employee may receive more than [[Shares 1: Number]] shares of Restricted Stock with performance conditions during any calendar year. In the event of a stock dividend, stock split, or other subdivision or combination of the Common Stock, effective as the date of such dividend, split, subdivision or combination, the maximum number of shares of Restricted Stock that may be awarded in any calendar year shall be adjusted proportionately in accordance with Section 12.1. 
+
+^^^^^ 
+^^Issuance; Voting Rights; Dividends. Restricted Stock granted to a Participant shall be issued by the Company as of the date of the grant. During the Restricted Period, the Participant shall be entitled to vote the shares. The Committee may provide for the current or deferred payment, as described below, of dividends on shares of Restricted Stock to the holders of such shares. Unless the Committee (or CEO) provides in the applicable Restricted Stock grant document at the time of grant that dividend payments are to be deferred, such payments will be made at least annually in each year that the Restricted Stock is outstanding in an amount equal to the number of shares of outstanding Restricted Stock multiplied by the amount of any dividend declared and paid on one share of Common Stock in that year, to the extent the Restricted Stock is outstanding on each such dividend record date. Restricted Stock shall be considered outstanding for this purpose until the earlier of the lapse of the applicable Restricted Period or the date the Restricted Stock is forfeited under the terms of the Plan. If the Committee (or CEO) provides that dividend payments are to be deferred, the Committee (or CEO) shall specify in the grant document the time and form of payment of the deferred dividends in a manner that complies with the requirements of Code Section 409A and the regulations thereunder. Shares issued as a result of stock dividends, splits or reclassifications, to the extent the issued shares relate to Restricted Stock, shall be subject to the same limitations, restrictions and provisions that are applicable to the related Restricted Stock. 
+
+^^Termination of Employment.  
+^^Except as provided below, Restricted Stock (and all related rights) held by a Participant at Termination of Employment during a Restricted Period shall be forfeited to the Company immediately upon Termination of Employment (unless otherwise expressly provided by the Committee).
+
+^^If a Participant’s Termination of Employment during a Restricted Period is due to Early Retirement or Retirement, the Committee or its designee (in the sole discretion of either) may provide before the Participant’s Termination of Employment that the Restricted Period applicable to any Restricted Stock (other than Restricted Stock granted pursuant to Section 7.3(a)) held by the Participant shall lapse immediately upon the Participant’s Termination of Employment.
+
+^^If a Participant’s Termination of Employment during a Restricted Period is a Termination Upon a Change of Control or is due to death or Disability, the Restricted Period applicable to any Restricted Stock held by the Participant shall lapse immediately on date of Termination of Employment.
+
+^^^^^ 
+^^Leave of Absence. The Committee shall determine the effect of approved leaves of absence on applicable Restricted Periods. No Restricted Period, however, may lapse during an approved leave of absence unless expressly provided by the Committee. 
+
+^^General. Subject to the limitations and provisions of the Plan, the Committee may grant dividend equivalent rights to Eligible Employees upon terms and conditions it may establish. The consideration for stock issued pursuant to dividend equivalent rights may be solely in the form of the recipient’s services rendered to the Company, or it may be any other lawful form of consideration as the Committee may determine. 
+
+^^Rights and Options, SARs, Performance Shares or Units. No dividend equivalent rights may be granted with respect to any Option, SAR, Strategic Performance Share or Strategic Performance Unit granted under the Plan. 
+
+^^Nature of Rights. The right shall entitle a holder to receive, for a period of time determined by the Committee and specified in the applicable grant document at the time of grant of such right, a payment or payments, as described in Section 8.4. 
+
+^^Payments. The Committee shall determine at time of grant whether payment pursuant to a right shall be made in cash or Common Stock, or a combination of both. Unless the Committee (or CEO) provides in the applicable grant document that payments are to be deferred, payments will be made at least annually in each year that the right is outstanding in an amount equal to the number of outstanding rights multiplied by the amount of any dividend declared and paid on one share of Common Stock in that year, to the extent the right is outstanding on each such dividend record date. A dividend equivalent right shall cease to be outstanding on the earlier of the end of the time period specified by the Committee in the applicable grant document or the date such right is forfeited under the terms of the Plan. If the Committee (or CEO) provides that the payments are to be deferred, the Committee (or CEO) shall specify in the grant document the time and form of payment in a manner that complies with the requirements of Code Section 409A and the regulations thereunder. 
+
+^^Termination of Employment. Any dividend equivalent right held by a Participant at Termination of Employment for any reason shall be forfeited to the Company immediately upon Termination of Employment, unless otherwise expressly provided by the Committee. 
+
+^^^^^ 
+^^General. The Committee may grant an Eligible Employee Common Stock instead of all or a portion (determined by the Committee) of an award otherwise payable under a Qualifying Plan. The grant shall be for a number of shares of Common Stock that have an aggregate Fair Market Value, determined as of the Payment Date, that most closely approximates, but does not exceed, the dollar amount of the award being replaced by the Common Stock if made in cash. 
+
+^^Death; Termination of Employment. Unless the Committee, in its sole discretion, provides otherwise, a Common Stock grant approved under Section 9.1 for a Participant whose Termination of Employment occurs before the Payment Date shall still be granted. If the reason for Termination of Employment is the Participant’s death,however, the Common Stock grant shall automatically be canceled, and the award payment shall be made in accordance with the terms of the Qualifying Plan. 
+
+^^Deferral of Payments. A Common Stock grant approved under Section 9.1 shall be deferred if the Participant had made a timely election to defer the underlying award under a Deferred Compensation Plan, subject to the provisions of the Deferred Compensation Plan and Code Section 409A, if applicable. Common Stock that would have been issued but for deferral under this provision shall be issued under this Plan at the end of the deferral period. 
+
+^^Award of Units and Shares.  
+^^The Committee may in its sole discretion grant Strategic Performance Shares, Strategic Performance Units or both to Eligible Employees selected for participation for a Performance Period.
+
+^^The Committee, the CEO or the CEO’s designee may grant Strategic Performance Shares (subject to the requirements of Delaware law), Strategic Performance Units, or both to a person who becomes an Eligible Employee during a Performance Period as long as any such grant made by the CEO or the CEO’s designee is (1) in accordance with guidelines approved by the Committee or (2) subject to ratification by the Committee before any resulting Payment is made.
+
+^^During any calendar year an Eligible Employee may receive no more than 500,000 Performance Shares or 250,000 Units. When an Eligible Employee receives a combination of Performance Shares and Units, each Unit awarded shall reduce the maximum number of awardable Performance Shares by two and every two Performance Shares awarded shall reduce the maximum number of awardable Units by one. That is, the Performance Shares-to-Units parity ratio shall be 2 to 1. For example, if an Eligible Employee is awarded 50,000 Units in a calendar year, the maximum number of awardable Performance Shares the Eligible Employee could receive for that year is 400,000.
+
+^^^^^ 
+^^In the event of a stock dividend, stock split, or other subdivision or combination of the Common Stock, effective as the date of such dividend, split, subdivision or combination, the maximum number of Performance Shares that may be awarded in any calendar year, and the Performance Shares-to-Units parity ratio described in Section 10.1(c), shall be adjusted proportionately in accordance with Section 12.1.
+
+^^Performance Goals; Financial Measures. When the Committee grantsPerformance Shares or Units for a particular Performance Period, it shall: 
+
+^^Establish in writing the Performance Objectives and the Performance Measures applicable to the Performance Period;
+
+^^Determine the length of the Performance Period and, if the Performance Objectives require comparing the Company’s financial results to those of a Peer Group, the composition of the Peer Group; and
+
+^^Determine the formula or method for determining the Vesting Percentage for Performance Shares and the value of Units.
+
+^^Vesting Percentage; Value of Units. After the close of the Performance Period, the Committee will determine the preliminary Vesting Percentage and/or Unit value based on the applicable formula or method under Section 10.2(c). The preliminary Vesting Percentage and/or Unit value may be adjusted downward by the Committee based upon the Committee’s evaluation of CIGNA Corporation’s strategic accomplishments over the Performance Period. The final Vesting Percentage shall not exceed [[Percentage 6: Number]]%, and the final Unit value shall not exceed $200.00. To the extent required by Code Section 162(m), before Payment of any Performance Share or Unit, the Committee shall certify in writing that the Vesting Percentage or Unit value for the Performance Period is based on the attainment of the pre-established Performance Objectives for the Performance Period. 
+
+^^Performance Share or Unit Payment.  
+^^After the Committee has determined the Vesting Percentage or Unit value for a Performance Period and subject to Sections 10.5 and 10.6, the Company shall make Payments to Participants to whom Performance Shares or Units were granted for the Performance Period.
+
+^^Payment to a Participant for a grant of Performance Shares shall equal (1) the number of Performance Shares granted to the Participant multiplied by (2) the Vesting Percentage determined under Section 10.3. This product shall be multiplied by the Fair Market Value of Common Stock on the date the Committee determines the Vesting Percentage, to the extent the Committee provides for payment of Performance Shares in cash.
+
+^^^^^ 
+^^Payment to a Participant for a grant of Units shall equal the number of Units granted to the Participant multiplied by the Unit value determined under Section 10.3.
+
+^^Notwithstanding the above, the Committee in its sole discretion may reduce the amount of any Payment to any Participant or eliminate entirely the Payment to any Participant. The Committee’s authority under this Section 10.4(d) shall expire immediately upon a Change of Control.
+
+^^Eligibility for Payments.  
+^^Except as described in Section 10.5(b), (c) and (d), a Participant shall be eligible to receive a Payment for a Performance Period under Section 10.4 only if the Participant has been employed by the Company continuously from the date of Participant’s grant of Performance Shares and/or Units through the date of Payment.
+
+^^For the purposes of this Section 10.5, a leave of absence of less than three months’ duration with the approval of the Company is not considered to be a break in continuous employment. In the case of a leave of absence of three months or longer, the Committee shall determine whether or not the leave of absence constitutes a break in continuous employment for purposes of a Payment.
+
+^^If the employment of a Participant is terminated by reason of Early Retirement, Retirement, death or Disability after receipt of a Performance Share or Unit grant, but before the related Payment is made, the Committee or its designee shall determine whether a Payment under Section 10.4 shall be made to or on behalf of such Participant, and whether the Payment, if made, shall be in full or prorated based on factors determined in the sole discretion of the Committee or its designee. Any such Payment shall be made to the Participant or the Participant’s estate in accordance with Section 10.6.
+
+^^In the event of a Participant’s Termination Upon a Change of Control, all of the Participant’s outstanding Performance Share and Units as of the date of the Participant’s Termination Upon a Change of Control shall be paid in accordance with Section 10.6.
+
+^^In the case of Units described in Section 10.5(d), the value of each Unit shall be the greatest of:
+
+^The Unit target value;
+
+^^^^^ 
+^The highest value established by the Committee for any Unit Payments made to any Participants during the twelve-month period immediately preceding the date of Participant’s Termination Upon a Change of Control; or
+
+^The average of the highest values established by the Committee for the last two Unit Payments made to any Participants before the Participant’s Termination Upon a Change of Control.
+
+^^In the case of Performance Shares described in Section 10.5(d), the applicable Vesting Percentage shall be the greatest of:
+
+^[[Percentage 7: Number]]%;
+
+^The Vesting Percentage for the Performance Period that ended immediately before the Participant’s Termination Upon a Change of Control; or
+
+^The average of the Vesting Percentages established by the Committee for the last two Performance Periods that ended before the Participant’s Termination Upon a Change of Control.
+
+^^Time and Form of Payment.  
+^^Unless otherwise provided at the time of award, Payments shall be made in the year following the close of the Performance Period. Payments shall be made in a single lump sum in the form of cash, shares of Common Stock, or a combination of these forms of Payment, as determined by the Committee in its sole discretion.
+
+^^If a Payment is made wholly or partially in shares of Common Stock, the Payment shall be made in a number of whole shares. That number of shares shall have an aggregate Fair Market Value that most closely approximates, but does not exceed, the dollar amount of the Payment if made in cash.
+
+^^Maximum Number Authorized.  
+^^The number of shares of Common Stock that, prior to the Restatement Date, were authorized to be issued pursuant to Options, SARs, rights, grants or other awards under the Prior Plan is (a) 75 million shares under the CIGNA Long-Term Incentive Plan, plus (b) any shares remaining on [[Date 6: Date]] of the 30 million shares authorized under the CIGNA Corporation Stock Plan.
+
+^^^^^ 
+^^The number of shares of Common Stock authorized to be issued pursuant to Options, SARs, rights, grants or other awards made under this Plan from and after the Restatement Date shall be 6.6 million shares plus the number of:
+
+^shares reserved for issuance upon exercise of Options granted under Prior Plans, to the extent the Options are outstanding on [[Date 7: Date]], and subsequently expire or are canceled or surrendered;
+
+^shares reserved for issuance under Article 9 upon vesting of restricted stock units granted under Qualifying Plans, to the extent the restricted stock units are outstanding on [[Date 7]], and subsequently expire or are canceled or surrendered; and
+
+^shares of Restricted Stock granted under Prior Plans, to the extent the applicable Restricted Period has not expired as of [[Date 7]] and the Restricted Stock is subsequently forfeited under Section 7.5 or is otherwise surrendered to the Company before the Restricted Period expires.
+
+However, shares granted, or reserved prior to [[Date 6]] for issuance, under the CIGNA Corporation Stock Plan shall not be included among the shares authorized under paragraphs (1), (2) and (3) above to be issued from and after the Restatement Date. 
+
+^^Prior to the Restatement Date, the maximum aggregate number of shares that could be issued as Incentive Stock Options was 30 million. The maximum aggregate number of shares that may be issued as Incentive Stock Options under this Plan from and after the Restatement Date is 2 million.
+
+^^Prior to the Restatement Date, no more than nine million shares could be awarded or granted, from and after [[Date 6]], under Articles 7, 8, 9 and 10 in the form of Common Stock. Effective as of the Restatement Date, the preceding limit shall be replaced by the share counting rules under Section [[Shares 2: Number]](a).
+
+^^Maximum Number Per Participant. The aggregate number of shares of Common Stock subject to Options and SARs that may be granted during any calendar year to any individual shall be limited to 1 million. 
+
+^^Share Counting.  
+^^Subject to the other provisions of Section 11.3, the following rules shall apply in determining whether shares of Common Stock remain available for issuance under Section 11.1(a) of the Plan.
+
+^^^^^ 
+^Each share reserved for issuance upon exercise of any Option or SAR granted under the Plan shall reduce the number of remaining authorized shares by one, provided that an SAR that may be settled only in cash shall not reduce the number of authorized shares.
+
+^Each share of Common Stock awarded under Articles 7, 8, 9 or 10 of the Plan, up to the Applicable Limit (described below in Section 11.3(a) (4)), shall reduce the number of authorized shares by one.
+
+^Each share of Common Stock awarded under Articles 7, 8, 9 or 10 of the Plan in excess of the Applicable Limit shall reduce the number of authorized shares by one and one-half.
+
+^The “Applicable Limit” is 2.8 million shares plus any shares described in Section 11.1(b)(2) and (3).
+
+^^The following shall not reduce the number of authorized shares of Common Stock available for issuance under this Plan:
+
+^Common Stock reserved for issuance upon exercise or settlement, as applicable, of awards granted under the Plan, to the extent the awards expire or are canceled or surrendered;
+
+^Restricted Stock granted under the Plan, to the extent such Restricted Stock is forfeited under Section 7.5 or is otherwise surrendered to the Company before the Restricted Period expires;
+
+^Common Stock reserved, upon the grant of restricted stock units under any Qualifying Plans, for issuance under Article 9 when such restricted stock units vest, to the extent the restricted stock units are forfeited, canceled or surrendered; and
+^Awards, to the extent the payment is actually made in cash.
+
+^^The following shares shall not become available for issuance under the Plan:
+
+^Shares tendered by Participants as full or partial payment to the Company upon exercise of Options granted under this Plan;
+
+^Shares reserved for issuance upon grant of SARs, to the extent the number of reserved shares exceeds the number of shares actually issued upon exercise of the SARs; and
+
+^Shares withheld by, or otherwise remitted to, the Company to satisfy a Participant’s tax withholding obligations upon the lapse of restrictions on Restricted Stock or the exercise of Options or SARs granted under the Plan or upon any other payment or issuance of shares under the Plan.
+
+^^^^^ 
+^^No Fractional Shares. No fractional shares of Common Stock shall be issued, accepted as payment of an Option exercise price or remitted to meet tax-withholding obligations under the Plan. 
+
+^^Source of Shares. Common Stock may be issued from authorized but unissued shares or out of shares held in CIGNA Corporation’s treasury, or both. 
+
+Except as expressly provided under the Plan, the following provisions shall apply to all shares of Common Stock (including Restricted Stock) authorized for issuance and all Options and SARs granted under the Plan: 
+
+^^Stock Dividends, Splits, Etc. In the event of a stock dividend, stock split, or other subdivision or combination of the Common Stock: 
+
+^^The number of authorized shares of Common Stock, and any numerical share limits, under the Plan will be adjusted proportionately; and
+
+^^There will be a proportionate adjustment in: the number of shares of Common Stock subject to unexercised stock Options and SARs; the per share Option and SAR exercise price (but without adjustment to the aggregate Option or SAR exercise price); the number of shares of Restricted Stock outstanding; and the number of Strategic Performance Shares outstanding.
+
+^^Merger, Exchange or Reorganization. If the outstanding shares of Common Stock are changed or converted into, exchanged or exchangeable for, a different number or kind of shares or other securities of CIGNA Corporation or of another corporation, by reason of a reorganization, merger, consolidation, reclassification or combination (an “Event”), appropriate adjustment shall be made by the Committee in the number of shares and kind of Restricted Stock and Common Stock for which Options, SARs and other rights may be or may have been awarded under this Plan, so that the proportionate interests of Participants shall be maintained as before the Event. However, in case of any contemplated Event which may constitute a Change of Control, the Committee, with the approval of a majority of the members of the Board who are not then Participants, may modify any and all outstanding Restricted Stock, Options and SARs, so as to accelerate, as a consequence of or in connection with the Event, the vesting of a Participant’s right to exercise any such Options or SARs or the lapsing of the Restricted Periods for shares of Restricted Stock, provided that such accelerated vesting shall occur only if a Change of Control is actually consummated. 
+
+^^^^^ 
+^^No New Grant. No adjustment to an Option or SAR shall be made under this Article 12 in a manner that will be treated under Code Section 409A as the grant of a new Option or SAR. 
+
+^^General Administration. The Plan shall be administered by the Committee, subject to any requirements for review and approval by the Board that the Board may establish. 
+
+^^Administrative Rules. The Committee shall have full power and authority to adopt, amend and rescind administrative guidelines, rules and regulations relating to this Plan, to interpret the Plan and to rule on any questions relating to any of its provisions, terms and conditions. 
+
+^^Committee Members Not Eligible. No member of the Committee shall be eligible to participate in this Plan. 
+
+^^Decisions Binding. All decisions of the Committee concerning this Plan shall be binding on CIGNA Corporation and its Subsidiaries and their respective boards of directors, and on all Eligible Employees, Participants and other persons claiming rights under the Plan. 
+
+^^General Provisions. All amendments to this Plan shall be in writing and shall be effective when approved by the Board, except that a Plan amendment shall not be effective without the prior approval of CIGNA Corporation shareholders if necessary under Internal Revenue Service or SEC regulations, or the rules of the New York Stock Exchange or any applicable law. Unless otherwise expressly provided by an amendment or the Board, no amendment to this Plan shall apply to any Plan awards made before the effective date of the amendment. A Participant’s rights under any Plan grants or awards, including any rights under paragraph 10.5(d), and a transferee’s rights relating to any transferred derivative securities, may not be abridged by any amendment, modification or termination of the Plan without the Participant’s individual consent. 
+
+^^Compliance with Code Section 409A. To the extent that a benefit under the Plan is subject to the requirements of Code section 409A, it is intended that the Plan, as applied to that benefit, comply with the requirements of Code section 409A, and the Plan shall be so administered and interpreted. The Board or Committee may make any changes required to conform the Plan and any Option agreements or other grants with applicable Code provisions and regulations relating to Incentive Stock Options or to deferral of compensation under Code Section 409A. 
+
+^^^^^ 
+^^Effective Date. The Plan as amended and restated is effective as of the Restatement Date. 
+
+^^Duration of the Plan. The Plan shall remain in effect until all Options and rights granted under the Plan have been satisfied by the issuance of Common Stock or terminated under the terms of this Plan, all Restricted Periods applicable to Restricted Stock granted under the Plan have lapsed, and all Performance Periods related to Performance Shares and Units granted under the Plan have expired, and all related Performance Share or Unit Payments have been made. 
+
+^^Early Termination. Notwithstanding Section 15.2, the Board may terminate this Plan at any time; but no such action by the Board shall adversely affect the rights of Participants which exist under this Plan immediately before its termination. 
+
+^^General Restriction. No Common Stock issued pursuant to this Plan shall be sold or distributed by a Participant until all appropriate listing, registration and qualification requirements and consents and approvals have been obtained, free of any condition unacceptable to the Board. In no event shall the value, amount or form of consideration for any award under the Plan be less than the value or amount, or in other than the form, required by applicable Delaware law. 
+
+^^Awards Not Assignable.  
+^^No derivative security (as defined in rules promulgated under Exchange Act Section 16), including any right to receive Common Stock (such as Options, SARs or similar rights), or any Strategic Performance Shares or Strategic Performance Units, or any right to payment under the Plan, shall be assignable or transferable by a Participant except by will or by the laws of descent and distribution. Any other attempted assignment or alienation shall be void and of no force or effect. Any right to receive Common Stock or any other derivative security (including Options, SARs or similar rights) shall be exercisable during a Participant’s lifetime only by the Participant or by the Participant’s guardian or legal representative.
+
+^^^^^ 
+^^Notwithstanding Section 15.5(a), the Committee shall have the authority, in its discretion, to grant (or to sanction by way of amendment of an existing grant) derivative securities (other than Incentive Stock Options) that may be transferred without consideration by the Participant during the Participant’s lifetime to any member of the Participant’s immediate family, to a trust established for the exclusive benefit of one or more members of the Participant’s immediate family, to a partnership of which the only partners are members of the Participant’s immediate family, or to such other person as the Committee shall permit. In the case of a grant, the written documentation containing the terms and conditions of such derivative security shall state that it is transferable, and in the case of an amendment to an existing grant, such amendment shall be in writing. A derivative security transferred as contemplated in this Section 15.5(b) may not be subsequently transferred by the transferee except by will or the laws of descent and distribution and shall continue to be governed by and subject to the terms and limitations of the Plan and the relevant grant. The Committee, in its sole discretion at the time the transfer is approved, may alter the terms and limitations of the relevant grant and establish such additional terms and conditions as it shall deem appropriate. As used in this subparagraph, “immediate family” shall mean, as to any person, a current or former spouse or domestic partner (as defined under the CIGNA 401(k) Plan), any child, stepchild or grandchild, and shall include relationships arising from legal adoption.
+
+^^Withholding Taxes. Upon the exercise of any Option or SAR, the vesting of any Restricted Stock, or payment of any award described in Section 4.1(d), (e), (f) or (g), or upon the exercise of an Incentive Stock Option prior to the satisfaction of the holding period requirements of Code Section 422, the Company shall have the right at its option to: 
+
+^^require the Participant (or personal representative or beneficiary) to remit an amount sufficient to satisfy applicable federal, state and local withholding taxes; or
+
+^^deduct from any amount payable the amount of any taxes the Company may be required to withhold because of the transaction.
+
+The Committee may require or permit the Participant to remit all or part of the required withholding amount in Common Stock (other than Restricted Stock). The remitted Common Stock may be shares deliverable to the Participant because of the transaction giving rise to the withholding obligation (in which case the number of shares of Common Stock delivered to a Participant shall be reduced by the number of shares so remitted) or shares the Participant has owned without restriction for at least six months as of the date the withholding obligation arises. If the Committee permits a Participant to elect to remit Common Stock, the election shall be made on or before the date the withholding obligation arises and be subject to the disapproval of the Committee. The Committee may establish any additional conditions it deems appropriate. The value of any remitted Common Stock shall be its Fair Market Value as of the date the withholding obligation arises. 
+
+^^^^^ 
+^^Book Entry; Certificates. A book entry shall be made in the electronic share ownership records maintained by the Company or the Company’s transfer agent as evidence of the issuance of Common Stock to a Participant (or beneficiary) upon a Restricted Stock grant, the exercise of an Option or any other grant or payment of Common Stock under the Plan. The Company or its transfer agent shall deliver to any Participant (or beneficiary), upon the Participant’s (or beneficiary’s) request and subject to the Participant’s (or beneficiary’s) compliance with applicable administrative procedures the Company or its transfer agent may establish, a certificate for any of the shares evidenced by book entry. A certificate for Restricted Stock, however, will not be delivered until the applicable Restricted Period has expired. 
+
+^^Participant’s Rights Unsecured. The right of any Participant to receive future payments under the provisions of the Plan shall be an unsecured claim against the general assets of the Company. 
+
+^^Future Award Not Guaranteed. Any award to a Participant described in Section 4.1 is not intended to be, or to be construed as, a right to receive another award at any later time. 
+
+^^Termination of Employment. The Company retains the right to terminate the employment of any employee at any time for any reason or no reason, and an award or grant under the Plan to an Eligible Employee is not, and shall not be construed in any manner to be, a waiver of that right. 
+
+^^Successors. Any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business or assets of CIGNA Corporation, shall assume the liabilities of CIGNA Corporation under this Plan and perform any duties and responsibilities in the same manner and to the same extent that CIGNA Corporation would be required to perform if no such succession had taken place. 
+
+^^Construction. The terms used in this Plan shall include the feminine as well as the masculine gender and the plural as well as the singular, as the context in which they are used requires. 
+
+^^Interpretation. All statutory or regulatory references in this Plan shall include successor provisions. 
+
+^^Controlling Law. This Plan shall be construed and enforced according to the laws of the Commonwealth of Pennsylvania, without regard to Pennsylvania conflict of laws rules, to the extent not preempted by federal law, which shall otherwise control. 
+ 

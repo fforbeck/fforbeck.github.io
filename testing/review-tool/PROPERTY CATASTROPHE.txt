@@ -1,0 +1,631 @@
+\centered PROPERTY CATASTROPHE EXCESS OF LOSS REINSURANCE AGREEMENT 
+
+\centered EFFECTIVE [[Date 1: Date]] AT 12:01 A.M. LOCAL STANDARD TIME 
+
+\centered INDEX 
+
+ARTICLE     SUBJECT    PAGE
+
+^COMMENCEMENT AND TERMINATION    
+^BUSINESS COVERED    
+^RETENTION AND LIMIT    
+^TERRITORY    
+^WARRANTIES    
+^EXCLUSIONS    
+^REINSTATEMENT    
+^RATES AND PREMIUMS    
+^REPORTS AND REMITTANCES    
+^DEFINITION OF LOSS OCCURRENCE    
+^NET RETAINED LINES    
+^ULTIMATE NET LOSS    
+^NOTICE OF LOSS AND LOSS SETTLEMENT    
+^SEVERABILITY PROVISION    
+^ERRORS AND OMISSIONS    
+^TAXES    
+^ACCESS TO RECORDS    
+^ARBITRATION    
+^SERVICE OF SUIT    
+^SPECIAL CONDITIIONS    
+^INSOLVENCY    
+^OFFSET    
+^INTERPRETATION    
+^ENTIRE AGREEMENT    
+^CONFIDENTIALITY CLAUSE    
+
+ATTACHMENTS:  
+
+\centered 
+
+EXHIBIT A    DEFINITION OF PROFIT CENTER 
+
+EXHIBIT B:    NUCLEAR INCIDENT EXCLUSION CLAUSE  PHYSICAL DAMAGE -REINSURANCE (BRMA 35B) 
+
+EXHIBIT C:    NUCLEAR INCIDENT EXCLUSION CLAUSE  PHYSICAL DAMAGE AND LIABILITY (BOILER AND MACHINERY POLICIES)  REINSURANCE (BRMA 35E) 
+
+EXHIBIT D:    POOLS, ASSOCIATIONS AND SYNDICATES EXCLUSION CLAUSE (BRMA 40B) 
+
+EXHIBIT E:    TERRORISM EXCLUSION CLAUSE  
+
+^^^^^ 
+\centered PROPERTY CATASTROPHE EXCESS OF LOSS REINSURANCE AGREEMENT 
+
+\centered Between 
+
+\centered LIBERTY MUTUAL INSURANCE COMPANY, Boston, MA, Reinsurer 
+
+\centered And 
+
+\centered PEERLESS INSURANCE COMPANY, Keene, NH, Reassured 
+
+\centered EFFECTIVE [[Date 1]] 
+
+^COMMENCEMENT AND TERMINATION  
+This Agreement shall incept at 12:01 a.m., Local Standard Time, [[Date 1]], shall apply to losses occurring during the term of this Agreement and shall remain in force until 12:01 a.m., Local Standard Time, January 1, 2005. This Agreement may be terminated at the close of any calendar quarter by any party giving to the other 90 days prior written notice by certified mail, of its intention to do so. Should this Agreement terminate while a Loss Occurrence is in progress, the entire loss arising out of the Loss Occurrence shall be subject to this Agreement. 
+
+^BUSINESS COVERED  
+^Applicable to Layers 1 and Layer 2; Section A
+
+All in force, new and renewal business classified by the Reassured as Property business including but not limited to;
+
+Automobile Physical Damage (including Specialty Automobile and Garagekeepers’ Legal Liability but excluding Collision),
+
+Homeowners and Farmowners (Property and/or Section 1 only),
+
+Commercial Multiple Peril (Property and/or Section 1 only),
+
+Fire,
+
+Extended Coverage and Allied Lines,
+
+Inland Marine (including Yachts),
+
+Boiler and Machinery,
+
+Burglary and Theft,
+
+Earthquake and Flood (when added to a Fire policy by endorsement or when part of an Inland Marine or Multiple Peril policy),
+
+Glass,
+
+Miscellaneous Property Insurance,
+
+Ocean Marine (Yacht business only),
+
+Water Damage Insurance
+
+*Layer 2, Section A is only available for business in the Peerless Profit Center, as defined in Exhibit A  Definition of Profit Center.*
+
+^^^^^ 
+^Applicable to Layer 2  Section B
+
+Earthquake and ensuing losses for all in force, new and renewal business classified by the Reassured as Property business including but not limited to;
+
+Homeowners and Farmowners (Property and/or Section 1 only),
+
+Commercial Multiple Peril (Property and/or Section 1 only),
+
+Fire,
+
+Extended Coverage and Allied Lines,
+
+Inland Marine (including Yachts),
+
+Boiler and Machinery,
+
+Burglary and Theft,
+
+Earthquake and Flood (when added to a Fire policy by endorsement or when part of an Inland Marine or Multiple Peril policy),
+
+Glass,
+
+Miscellaneous Property Insurance,
+
+Ocean Marine (Yacht business only),
+
+Water Damage Insurance
+
+*Layer 2, Section B is only available to Reassured for business in the Profit Centers of Indiana Insurance and Hawkeye-Security Insurance, as defined in Exhibit A Definition of Profit Center.*
+
+^Under this Agreement, the indemnity for reinsured loss applies only to business written by the Profit Centers, as defined in Exhibit A  Definition of Profit Center.
+
+^The term “Policy”, whenever used herein, shall mean all binders, policies, contracts, agreements, certificates, endorsements and other obligations, whether oral or written, of insurance or reinsurance issued by the Profit Center.
+
+^RETENTION AND LIMIT  
+^First Layer Catastrophe Excess of Loss Reinsurance
+
+The Reinsurer shall be liable in each and every Loss Occurrence, irrespective of the number and kinds of Policies involved, for [[Percentage 1: Number]]% of the excess Ultimate Net Loss above an initial net loss to the Reassured of $[[USD Value 1: Number]] provided, however, that the Reinsurer shall not be liable for more than $[[USD Value 2: Number]] of each and every such Loss Occurrence, nor more than $[[USD Value 3: Number]] in the aggregate during the term of this Agreement.
+
+^Second Layer Catastrophe Excess of Loss Reinsurance  Section A
+
+The Reinsurer shall be liable in each and every Loss Occurrence, irrespective of the number and kinds of Policies involved, for [[Percentage 1]]% of the excess Ultimate Net Loss above an initial net loss to the Reassured of $[[USD Value 4: Number]] provided, however, that the Reinsurer shall not be liable for more than $[[USD Value 2]] of each and every such
+
+^^^^^ 
+Loss Occurrence, nor more than $[[USD Value 3]] in the aggregate during the term of this Agreement. *Layer 2, Section A is only available for business in the Peerless Profit Center, as defined in Exhibit A  Definition of Profit Center.*
+
+^Second Layer Catastrophe Excess of Loss Reinsurance  Section B
+
+The Reinsurer shall be liable in each and every Loss Occurrence, irrespective of the number and kinds of Policies involved, for [[Percentage 1]]% of the excess Ultimate Net Loss above an initial net loss to the Reassured of $[[USD Value 4]] provided, however, that the Reinsurer shall not be liable for more than $[[USD Value 2]] of each and every such Loss Occurrence, nor more than $[[USD Value 3]] in the aggregate during the term of this Agreement. *Layer 2, Section B is only available to the Reassured for business in the Profit Centers of Indiana Insurance and Hawkeye-Security Insurance, as defined in Exhibit A  Definition of Profit Center.*
+
+^Recoveries under this Agreement, when combined with recoveries from inuring reinsurance, cannot exceed the Reassured’s actual loss, less its respective retentions.
+
+^The loss recovery will be allocated to each individual Profit Center based on their respective contribution to the total loss occurrence.
+
+^TERRITORY  
+The territorial limits of this Agreement shall be identical with those of the Reassured’s policies.
+
+^WARRANTIES  
+The Reassured warrants that the premium and losses on all policies which are ceded to OneBeacon Insurance Company under the Rewritten Indemnity Reinsurance Agreement by and between Peerless Insurance Company and OneBeacon Insurance Company shall inure to the benefit of this Agreement.
+
+^EXCLUSIONS  
+^It is expressly understood and agreed that this Agreement does not apply to the following:
+
+^All forms of Third Party Liability business, however not to exclude Bailee coverage of Inland Marine Policies which are covered in accordance with the Business Covered section of this Agreement;
+
+^Fidelity and Surety
+
+^Financial Guarantee and/or Insolvency;
+
+^^^^^ 
+^Life, Accident and Health Insurance;
+
+^Aircraft insurance, but not to exclude aircraft hulls insured under regular Fire policies (other than Aircraft Hull policies) and not to exclude Aircraft Property Damage;
+
+^Loss or damage occasioned by war, invasion, hostilities, acts of foreign enemies, civil war, rebellion, insurrection, military or usurped power, martial law or confiscation by order of any government or public authority, but not excluding loss or damage which would be covered under a standard policy form containing a standard war exclusion clause;
+
+^Nuclear Incidents as per Nuclear Incident Exclusion Clause Physical Damage  Reinsurance and Nuclear Incident Exclusion Clause  Physical Damage and Liability (Boiler and Machinery)  Reinsurance attached, as Exhibits B and C which are made a part hereof;
+
+^Treaty reinsurance assumed, except for any agency reinsurance or business written by affiliates of the Reassured and reinsured internally within the Companies comprised of the Regional Agency Markets strategic business unit of Liberty Mutual Insurance Company, and specifically any reinsurance transacted among or between members of Regional Agency Markets (shown in Exhibit A) or any reinsurance between OneBeacon Insurance Company, its affiliates and Peerless Insurance Company;
+
+^All liability of the Reassured arising, by agreement, operation of law, or otherwise, from its participation or membership, whether voluntary or involuntary, in any insolvency fund. “Insolvency Fund”, includes any guaranty fund, insolvency fund, plan, pool, association, fund or other arrangement, howsoever denominated, established or governed, which provides for any assessment of or payment or assumption by the Reassured of part or all of any claim, debt, charge, fee, or other obligation of an insurer, or its successors or assigns, which has been declared by any competent authority to be insolvent, or which is otherwise deemed unable to meet any claim, debt, charge, fee or other obligation in whole or in part;
+
+^Pollution and Seepage as per the Reassured’s original Policies;
+
+^All losses in respect of overhead transmission and distribution lines and their supporting structures other than those on or within 1,000 feet of the insured suppliers’ extension and / or contingent business interruption coverages are not subject to this exclusion, provided that these are not part of a transmitters’ or distributors’ policy;
+
+^Terrorism as per the attached Terrorism Exclusion clause;
+
+^Mold:
+
+This Agreement does not apply to loss or liability in any way or to any extent arising out of the actual or alleged presence or actual, alleged or threatened
+
+^^^^^ 
+presence of fungi including, but not limited to, mold, mildew, mycotoxins, microbial volatile organic compounds or other “microbial contamination”. This includes:
+
+^^Any supervision, instruction, recommendations, warnings, or advice given or which should have been given in connection with the above; and
+
+^^Any obligation to share damages with or repay someone else who must pay damages because of such injury or damage.
+
+For purposes of this exclusion, “microbial contamination” means any contamination, either airborne or surface, which arises out of or is related to the presence of fungi, mold, mildew, mycotoxins, microbial volatile organic compounds or spores, including, without limitation, Penicillium, Aspergillus, Fusarium, Aspergillus Flavus and Stachybotrys chartarum.
+
+Losses resulting from the above causes do not in and of themselves constitute an event unless arising out of one or more of the following perils, in which case this exclusion does not apply:
+
+Fire, lightning, explosion, aircraft or vehicle impact, falling objects, windstorm, hail, tornado, cyclone, hurricane, earthquake, volcano, tsunami, flood, freeze or weight of snow.
+
+^Losses arising out of “extra contractual obligations” or “loss in excess of policy limits.”
+
+^^The term “extra contractual obligations” shall mean any punitive, exemplary, compensatory, or consequential damages paid or payable by the Reassured as a result of an action against it by their insureds or their insured’s assignee or a third party claimant.
+
+^^The term “loss in excess of policy limits” shall mean any amount paid or Payable by the Reassured in excess of its policy limits, but otherwise within the terms of its policy, as a result of an action against individual Profit Centers by an insured or the insured’s assignee to recover damages the insured is legally obligated to pay to a third party claimant because of the Reassured’s alleged or actual negligence or bad faith in rejecting a settlement within policy limits, or in discharging its duty to defend or prepare the defense in the trial of an action against its insured, or in discharging its duty to prepare or prosecute an appeal consequent upon such action.
+
+^In respect of business classified by the Reassured as “Property,” the coverage afforded hereunder shall not apply to the following:
+
+^Flood, except when written in conjunction with other perils reinsured by this Agreement, whether under the same policy or a separate policy covering the same risk;
+
+^All liability on standing or growing crops;
+
+^Pools, Associations and Syndicates business as per the attached Exhibit D which is made part thereof.
+
+^^^^^ 
+^REINSTATEMENT  
+^Each claim hereunder shall reduce the amount of the Reinsurer’s liability from the time of the occurrence of the loss by the sum paid, but the sum so exhausted shall be reinstated immediately from the time of the occurrence of the loss.
+
+^For all layers each amount so reinstated, the Reassured agrees to pay an additional premium calculated by multiplying [[Percentage 1]]% of the annual reinsurance premium therein by the percentage that the amount reinstated bears to the limit of this Agreement.
+
+^A provisional reinstatement premium shall be paid by the Reassured at the time the Reinsurer pays the loss giving rise to the reinstatement premium through an offset of the provisional reinstatement premium due the Reinsurer against the loss payment due the Reassured, with only the net amount due to be remitted by the debtor party. The amount of this provisional reinstatement premium shall be based on [[Percentage 1]]% of the estimated annual reinsurance premium of each Layer, whichever may be reinstated.
+
+^As promptly as possible after the loss has been paid by the Reinsurer and the annual Reinsurance premium hereunder has been finally determined, the Reassured shall prepare and submit to the Reinsurer a final statement of reinstatement premium due. Any reinstatement premium shown to be due the Reinsurer (less prior payments, if any) shall be remitted by the Reassured with its statement. Any return reinstatement premium shown to be due the Reassured shall be remitted by the Reinsurer as promptly as possible after receipt of the Reassured’s final statement.
+
+^As respects Layers 1 & 2, if one or more Profit Centers contribute to one or more losses, reinstatement premium will allocated to the Profit Center based on its contribution to the total loss.
+
+^RATES AND PREMIUM  
+^Layer 1
+
+The premium paid to the Reinsurer shall be calculated at a rate of .[[Percentage 2: Number]]% of the Subject Earned Premium of the Reassured during the term of the Agreement for all classes of Business Covered hereunder, as stated in Paragraph A. of Article I  Business Covered. Layer 2  Section A The premium paid to the Reinsurer shall be calculated at a rate of .[[Percentage 3: Number]]% of the Subject Earned Premium of the Reassured during the term of the Agreement for all classes of Business Covered hereunder, as stated in Paragraph A. of Article I  Business Covered.
+
+Layer 2  Section B The premium paid to the Reinsurer shall be calculated at a rate of .[[Percentage 4: Number]]% of the Subject Earned Premium of the Reassured during the term of the Agreement for all
+
+^^^^^ 
+classes of Business Covered hereunder, as stated in Paragraph B. of Article I  Business Covered.
+
+^The term “Subject Earned Premium” as used herein is equal to the sum of the Net Premiums Written on the business covered hereunder during the period under consideration, plus the unearned premium reserve as respects premiums in force at the beginning of such period, less the unearned premium reserve as respects premiums in force at the end of the period, said unearned premium is to be calculated on a daily pro rata basis. For purposes of this agreement 90 percent of the Homeowner and Farmowner lines of business and 35 percent of the automobile physical damage lines of business shall be included, all other lines will be included at 100 percent.
+
+^The term “Net Premiums Written” shall mean gross premiums written less returns, allowances and reinsurance which inure to the benefit of the Reinsurer.
+
+^REPORTS AND REMITTANCES  
+The annual minimum reinsurance premium shall be remitted in four equal quarterly installments due on [[Date 2: Date]], [[Date 3: Date]], [[Date 4: Date]] and [[Date 5: Date]]. The Reassured shall submit finalized accounts to the Reinsurer on [[Date 6: Date]] summarizing the actual Subject Earned Premium for the January 1, 2005 through [[Date 7: Date]] coverage period. The difference between the deposit premium and actual subject earned premium will be settled to/from the Reassured within 15 days of [[Date 6]].
+
+\centered 
+
+Layer    Deposit     Minimum     Quarterly 
+
+Layer 1    $   2,824,300     $   2,824,300     $   706,075 Layer 2A    $   2,075,260     $   2,075,260     $   518,815 Layer 2B    $   235,531     $   235,531     $   58,883  
+
+^DEFINITION OF LOSS OCCURRENCE  
+^The term “Loss Occurrence” shall mean the sum of all individual losses directly occasioned by any one disaster, accident or loss or series of disasters, accidents or losses arising out of one event which occurs within the area of one state of the United States and states contiguous thereto and to one another. However, the duration and extent of any one “Loss Occurrence” shall be limited to all individual losses sustained by the Reassured occurring during any period of 168 consecutive hours arising out of and directly occasioned by the same event except that the term “Loss Occurrence” shall be further defined as follows:
+
+^As regards windstorm, hail, tornado, cyclone, including ensuing collapse and water damage, all individual losses sustained by the Reassured occurring during any period of 72 consecutive hours arising out of and directly occasioned by the same event. However, as respects named hurricanes or tropical storms within the 48 contiguous states, all individual losses sustained by the Reassured occurring during any period of 168 consecutive hours arising out of, and directly occasioned
+
+^^^^^ 
+[[^^^^^ Signatory Email: Identity | Signature]]
+__________________________________________
+{{^^^^^ Entity => By: [[^^^^^ Signatory First Name]] [[^^^^^ Signatory Last Name]]
+Title: [[^^^^^ Signatory Title]]}}
+
+^As regards riot, riot attending a strike, civil commotion, vandalism and malicious mischief, all individual losses sustaineds by the Reinsured occurring during any period of 72 consecutive hours within the area of one municipality or county and the municipalities or counties contiguous thereto arising out of and directly occasioned by the same event. The maximum duration of 72 consecutive hours may be extended in respect of individual losses which occur beyond such 72 consecutive hours during the continued occupation of an assured’s premises by strikers, provided such occupation commenced during the aforesaid period.
+
+^As regards earthquake (the epicenter of which need not necessarily be within the territorial confines referred to in the opening paragraph of this article) and fire following directly occasioned by the earthquake, only those individual fire losses which commence during the period of 168 consecutive hours may be included in the Reassured’s “Loss Occurrence”.
+
+^As regards freeze, only individual losses directly occasioned by collapse, breakage of glass and water damage (caused by bursting of frozen pipes and tanks) may be included in the Reassured’s “Loss Occurrence”.
+
+^For all “Loss Occurrences”, the Reassured may choose the date and time when any such period of consecutive hours commences, provided that it is not earlier than the date and time of the occurrence of the first recorded individual loss sustained by the Reassured arising out of that disaster, accident or loss, and provided that only one such period of 168 consecutive hours shall apply with respect to one event, except for those “Loss Occurrences” referred to in subparagraphs (1) and (2) of Paragraph A. above, where only one such period of 72 consecutive hours shall apply with respect to one event, regardless of the duration of the event.
+
+^As respects to those “Loss Occurrences” referred to in sub-paragraphs (1) and (2) of Paragraph A above, if the disaster, accident, or loss occasioned by the event is of greater duration than 72 consecutive hours, then the Reassured may divide that disaster or loss into two or more “Loss Occurrences,” provided no two periods overlap and no individual loss is included in more than one such period, and provided that no period commence earlier than the date and time of the occurrence of the first recorded individual loss sustained by the Reassured arising out of that disaster, accident, or loss.
+
+^No individual losses occasioned by an event that would be covered by 72 hours clauses may be included in any “Loss Occurrence” claimed under the 168 hours provisions.
+
+^A date change, including leap year calculations, shall not in and of itself be regarded as a loss occurrence for purposes of this reinsurance.
+
+^The following, in and of themselves do not constitute a loss occurrence unless they arise out of one or more of the following perils:
+
+^^^^^ 
+fire, lightning, explosion, aircraft or vehicle impact, falling objects, windstorm, hail, tornado, cyclone, hurricane, earthquake, volcano, tsunami, flood, freeze or weight of snow, including losses directly or indirectly occasioned by loss of, alteration of, damage to, or a reduction in the functionality, availability or operation of a computer system, hardware, program, software, data, information repository, microchip, integrated circuit or similar device in computer equipment or non-computer equipment, whether the property of the policyholder or not.
+
+^NET RETAINED LINES  
+^This Agreement applies only to that portion of any Policy which a Reassured retains net for its own respective account, and in calculating the amount of any loss hereunder and also in computing the amount or amounts in excess of which this Agreement attaches, only loss or losses in respect of that portion of any Policy which the Reassured retains net for their own respective account shall be included.
+
+^The amount of the Reinsurer’s liability hereunder in respect of any loss or losses shall not be increased by reason of the inability of a Reassured to collect from any other reinsurers, whether specific or general, any amounts which may have become due from such reinsurers, whether such inability arises from the insolvency of such other reinsurers or otherwise.
+
+^Inter-company reinsurance among the Legal Entities used by the Profit Centers shall be entirely disregarded for all purposes of this Agreement.
+
+^ULTIMATE NET LOSS  
+^The term “Ultimate Net Loss” shall mean:
+
+^the amount actually paid or payable by a Reassured, (and also including but not limited to all allocated loss adjustment expenses, [attorney’s fees, subrogation expenses and other costs of investigation or litigation], and unallocated loss adjustment expenses calculated at [[Percentage 5: Number]]% of any loss) in settlement or payment of claims or judgements arising from loss occurrences for which a Reassured is or may be found liable under their respective policies.
+
+^any salvage and subrogation recoveries, including any amounts recoverable under reinsurances which inure to the benefit of this Agreement, shall be first deducted from such loss to arrive at the amount of liability, if any, attaching hereunder.
+
+^any loss reimbursement a Reassured receive under the Florida Hurricane Catastrophe Fund (FHCF) shall apply as follows:
+
+^^Except as provided in subparagraph 2 below, any such loss reimbursement shall inure solely to the benefit of the Reassured and shall be entirely disregarded in applying all of the provisions of this Agreement.
+
+^^If one or more Loss Occurrences commencing during the term of this Agreement result(s) in recoveries made by the Reassured under this
+
+^^^^^ 
+Agreement and the FHFC, and such recoveries, together with any other reinsurance recoveries made by the Reassured applicable to said Loss Occurrence(s), exceed the amount permitted by Florida law, any amount in excess thereof shall reduce the Ultimate Net Loss subject to this Agreement for the Loss Occurrence(s) to which the recoveries apply.
+
+For purposes hereof, if a loss reimbursement received by the Reassured under the FHCF is based on the Reassured’s losses in more than one Loss Occurrence and the FHCF does not designate the amount allocable to each such Loss Occurrence, the reimbursement shall be prorated in the proportion that the Reassured’s losses in each such Loss Occurrence bear to the Reassured’s total losses arising out of all Loss Occurrences to which the recovery applies.
+
+^Recoveries under any other property catastrophe excess of loss reinsurance agreements or aggregate property catastrophe excess of loss reinsurance agreement, shall be disregarded in arriving at the Ultimate Net Loss under this Agreement.
+
+^Whenever the Reassured issues a lost instrument bond or a lost instrument letter of indemnity for salvage purposes or in lieu of loss payment under its policy, the Reinsurer agrees to accept liability under such bond or letter of indemnity in accordance with the terms of this Agreement.
+
+^Nothing however in this definition shall be construed as meaning that losses are not recoverable hereunder until the Ultimate Net Loss to the Reassured have been ascertained.
+
+^NOTICE OF LOSS AND LOSS SETTLEMENT  
+^The Reassured shall advise the Reinsurer promptly, but in no event later than 30 days, of all losses which, in the opinion of the Reassured, may result in a claim hereunder and of all subsequent developments thereto which, in the opinion of the Reassured, may materially affect the position of the Reinsurer. Notwithstanding the foregoing, the Reassured shall give notice to the Reinsurer once a claim exceeds or has the potential to exceed the retention.
+
+^All loss settlements made by the Reassured, provided they are within the terms of this Agreement, shall be unconditionally binding upon the Reinsurer, who agrees to pay all amounts for which it may be liable immediately, but in no event later than 30 days, upon being furnished by the Reassured with reasonable evidence of the amount due.
+
+^SEVERABILITY PROVISION  
+If any provision of this Agreement shall be rendered illegal or unenforceable by the laws, regulations or public policy of any state, such provision shall be considered void in such state, but this shall not affect the validity or enforceability of any other provision of this
+
+^^^^^ 
+Agreement or the enforceability of such provision in any other jurisdiction.
+
+^ERRORS AND OMISSIONS  
+Inadvertent delays, errors or omissions made by the Reassured in connection with this Agreement shall not relieve the Reinsurer from any liability which would have attached had such delay, error or omission not occurred, provided always that such delay, error or omission shall be rectified as soon as possible after discovery by the Reassured.
+
+^TAXES  
+In consideration of the terms under which this Agreement is issued, the Reassured undertakes not to claim any deduction of the premium hereon when making tax returns, other than Income or Profits Tax returns, to any State or Territory of the United States of America or to the District of Columbia.
+
+The Reinsurer shall allow for the purpose of paying Federal Excise Tax the applicable percentage of the premium payable hereon (as imposed under Section 4371 of the Internal Revenue Code) to the extent such premium is subject to such tax. In the event of any return premium, the Reinsurer shall deduct the aforesaid percentage from the return premium payable hereon and the Reassured or its agent shall recover such tax from the United Stated Government.
+
+^ACCESS TO RECORDS  
+The Reassured shall place at the disposal of the Reinsurer at all reasonable times, and the Reinsurer shall have the right to inspect through its designated representatives, during the term of this Agreement and thereafter, all books, records and papers of the Reassured in connection with any reinsurance hereunder, or the subject matter hereof.
+
+^ARBITRATION  
+^Any dispute or other matter in question between the Reassured and the Reinsurer arising out of, or relating to, the formation, interpretation, performance or breach of this Agreement, whether such dispute arises before or after termination of this Agreement, shall be settled by arbitration. Arbitration shall be initiated by the delivery of a written notice of demand for arbitration by one party to the other within a reasonable time after the dispute has arisen.
+
+^If more than one reinsurer is involved in the same dispute, all such reinsurers shall constitute and act as one party for the purposes of this Article, provided, however, that nothing herein shall impair the rights of such reinsurers to assert several, rather than joint, defenses or claims, nor be construed as changing the liability of the Reinsurers under the terms of this Agreement from several to joint.
+
+^Each party shall appoint an individual as arbitrator and the two so appointed shall
+
+^^^^^ 
+then appoint a third arbitrator. If either party refuses or neglects to appoint an arbitrator within sixty (60) days, the other party may appoint the second arbitrator. If the two arbitrators do not agree on a third arbitrator within sixty (60) days of their appointment, each of the arbitrators shall nominate three individuals. Each arbitrator shall then decline two of the nominations presented by the other arbitrator. The third arbitrator shall then be chosen from the remaining two nominations by drawing lots. The arbitrators shall be active or retired officers of insurance or reinsurance companies; the arbitrators shall not have a personal or financial interest in the result of the arbitration.
+
+^The arbitration hearings shall be held in Boston, Massachusetts, or such other place as may be mutually agreed. Each party shall submit its case to the arbitrators within sixty (60) days of the selection of the third arbitrator or within such longer period as may be agreed by the arbitrators. The arbitrators shall not be obliged to follow judicial formalities or the rules of evidence except to the extent required by governing law, that is, the state law of the situs of the arbitration as herein agreed; they shall make their decisions according to the practice of the reinsurance business. The decision rendered by a majority of the arbitrators shall be final and binding on both parties. Such decision shall be a condition precedent to any right of legal action arising out of the arbitrated dispute which either party may have against the other. Judgment upon the award rendered may be entered in any court having jurisdiction thereof.
+
+^Each party shall pay the fee and expenses of its own arbitrator and one-half of the fee and expenses of the third arbitrator. All other expenses of the arbitration shall be equally divided between the parties.
+
+^Except as provided above, arbitration shall be based, insofar as applicable, upon the procedures of the American Arbitration Association.
+
+^SERVICE OF SUIT  
+(This article applies to other than authorized Reinsurers and to Reinsurers who are domiciled outside the United States of America.)
+
+This Service of Suit Article will not be read to conflict with or override the obligations of the parties to arbitrate their disputes as provided for in the Arbitration Article. This Article is intended as an aid to compelling arbitration or enforcing such arbitration or arbitral award, not as an alternative to the Arbitration Article for resolving disputes arising out of this Agreement.
+
+In the event of the failure of the Reinsurer to pay any amount claimed to be due hereunder, the Reinsurer, at the request of the Reassured, will submit to the jurisdiction of a Court of competent jurisdiction within the United States. Nothing in this Article constitutes or should be understood to constitute a waiver of the Reinsurers’ rights to commence an action in any Court of competent jurisdiction in the United States, to remove an action to a United States District Court, or to seek a transfer of a case to another Court as permitted by the laws of the United States or of any state in the United States. The Reinsurer, once the appropriate Court is selected, whether such court is the one originally chosen by the Reassured and
+
+^^^^^ 
+accepted by Reinsurer or is determined by removal, transfer, or otherwise, as provided for above, will comply with all requirements necessary to give said Court jurisdiction and, in any suit instituted against any of them upon this Agreement, will abide by the final decision of such Court or of any Appellate Court in the event of an appeal.
+
+Service of process in such suit may be made upon **Mendes & Mount, LLP, 750 7**th** Avenue, [[Address 1: Address]]-6829.**
+
+The above-named are authorized and directed to accept service of process on behalf of the Reinsurer in any such suit.
+
+Further, pursuant to any statute of any state, territory or district of the United States that makes provision therefor, the Reinsurer hereby designate the Superintendent, Commissioner or Director of Insurance, or other officer specified for that purpose in the statute, or his successor or successors in office, as their true and lawful attorney upon whom may be served any lawful process in any action, suit or proceedings instituted by or on behalf of the Reassured or any beneficiary hereunder arising out of this Agreement, and hereby designate the above-named as the person to whom the said officer is authorized to mail such process or a true copy thereof.
+
+^SPECIAL CONDITIONS  
+The Reassured may terminate this Agreement at any time by the giving of 30 days notice in writing to the Reinsurer upon the happening of any one of the following circumstances:
+
+^A State Insurance Department or other legal authority orders the Reinsurer to cease writing business; or
+
+^The Reinsurer has become insolvent or has been placed into liquidation or receivership (whether voluntary or involuntary), or there have been instituted against it proceedings for the appointment of a receiver, liquidator, rehabilitator, conservator, trustee in bankruptcy or other agent known by whatever name, to take possession of its assets or control of its operations; or
+
+^The Reinsurer’s policyholders’ surplus has been reduced by [[Percentage 6: Number]]% of the amount of surplus at the inception of this Agreement; or
+
+^The Reinsurer has become merged with, acquired or controlled by any company, corporation or individual(s) not controlling the Reinsurer’s operations at the inception of this Agreement.
+
+^The Reinsurer’s A.M. Best Rating has been assigned or downgraded below A- or Standard and Poor’s rating has been assigned or downgraded below A-.
+
+The coverage afforded by this Agreement shall cease as of the date of termination and the Reinsurer shall return the unearned premium net of ceding commission, if any. If coverage hereunder terminates while a claim covered by this Agreement is in progress, the Reinsurer shall be liable subject to all other conditions hereof for its proportion of the entire claim, provided that the event giving rise to the claim started before such termination.
+
+^^^^^ 
+If the Reassured chooses to effect termination, it shall have the option to commute the Reinsurer’s liability for loss(es), whether reported or unreported, on policies covered by this Agreement as of the effective date of termination. The Reassured shall submit a statement of valuation of the outstanding claim or claims showing the elements considered reasonable to establish the “ultimate net loss,” and the Reinsurer shall pay the amount requested. In the event the Reassured and the Reinsurer cannot agree on the statement of valuation of the Reinsurer’s liability under such policies, either party may request in writing that the differences be settled by a panel of three actuaries. Each party shall appoint an actuary to assess such liability within 15 days after receipt of the written request for commutation. Upon such appointment, the two actuaries shall appoint a third actuary. If the two actuaries fail to agree on the third actuary within 30 days of their appointment, each of them shall nominate three individuals, of whom the other shall decline two, and the final decision shall be made by drawing lots. The actuaries shall then investigate and capitalize such loss(es) within 30 days. As used herein, capitalize shall mean to determine the present value of ultimate net losses, without regard to the Reinsurer’s ability to pay such losses. The panel shall meet in Boston, Massachusetts, unless the Reassured and Reinsurer agree otherwise.
+
+All actuaries shall be disinterested in the outcome of the commutation and shall be Fellows of the Society of Actuaries/Fellows of the Casualty Actuarial Society. Except as stated below, the expense of the actuaries and of the commutation shall be equally divided between the parties of the commutation.
+
+The decision in writing of the actuaries, when filed with the parties hereto, shall be final and binding, except that if the Reassured does not agree with the capitalized value of the loss(es), the Reassured shall have no obligation to commute. In the event the Reassured does not agree with the capitalized value of the loss(es) and does not move forward with commutation, the expense of the actuaries [including reasonable expense of the actuary appointed by the Reinsurer will be paid by the Reassured. If the Agreement is commuted, payment by the Reinsurer to the Reassured or any other third party mutually agreed upon by the Reinsurer and the Reassured shall constitute a complete and final release of the Reinsurer in respect to its liability under this Agreement.
+
+^INSOLVENCY  
+In the event of the insolvency and the appointment of a conservator, liquidator, or statutory successor of any individual Profit Center the portion of any risk or obligation assumed by the Reinsurer shall be payable to the conservator, liquidator, or statutory successor on the basis of claims allowed against the insolvent Reassured by any court of competent jurisdiction or by any conservator, liquidator, or statutory successor of such Reassured having authority to allow such claims, without diminution because of that insolvency, or because the conservator, liquidator, or statutory successor has failed to pay all or a portion of any claims. Payments by the Reinsurer shall be made directly to such Reassured or to its conservator, liquidator, or statutory successor, except where the contract of insurance or reinsurance specifically provides another payee of such reinsurance in the event of the insolvency of such Reassured. The conservator, liquidator, or statutory successor of such Reassured shall give written notice of the pendency of a claim against the Reassured indicating the policy or bond reinsured, within a reasonable time after such claim is filed and the Reinsurer
+
+^^^^^ 
+may interpose, at its own expense, in the proceeding where such claim is to be adjudicated, any defense or defenses which it may deem available to the Reassured or its conservator, liquidator, or statutory successor. The expense thus incurred by the Reinsurer shall be payable subject to court approval out of the estate of the insolvent Reassured as part of the expense of conservation or liquidation to the extent of a proportionate share of the benefit which may accrue to the Reassured in conservation or liquidation, solely as a result of the defense undertaken by the Reinsurer.
+
+^OFFSET  
+Each party hereto shall have the right to offset any balance or balances, whether on account of premiums or on account of losses, due from one party to any other party under this Agreement against any balance or balances currently due and payable to the one party from the other party under this Agreement.
+
+^INTERPRETATION  
+The validity and interpretation of this Agreement and of each Article and part thereof shall be governed by the laws of the Commonwealth of Massachusetts.
+
+^ENTIRE AGREEMENT
+
+This Agreement represents the entire agreement and understanding among the parties, and may not be changed except in writing, signed by the parties. No other oral or written agreements or contracts relating to the risks reinsured hereunder currently exist and / or are contemplated between the parties.
+
+^CONFIDENTIALITY CLAUSE  
+All terms and conditions of this Agreement and any materials provided in the course of inspection shall be kept confidential by the Reinsurer as against third parties, unless the disclosure is required pursuant to process of law or unless the disclosure is to Reinsurer’s retrocessionaires, financial auditors or governing regulatory bodies. Disclosing or using this information for any purpose beyond the scope of this Agreement, or beyond the expectations set forth above, is expressly forbidden without the prior consent of the Reassured.
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representative. 
+
+\centered 
+
+In Keene, New Hampshire, this    day of 2005 
+
+ATTEST:    PEERLESS INSURANCE COMPANY [[ATTEST    PEERLESS INSURANCE COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST    PEERLESS INSURANCE COMPANY Entity => By: [[ATTEST    PEERLESS INSURANCE COMPANY Signatory First Name]] [[ATTEST    PEERLESS INSURANCE COMPANY Signatory Last Name]]
+Title: [[ATTEST    PEERLESS INSURANCE COMPANY Signatory Title]]}}
+
+
+And in Boston, Massachusetts, this    day of , 2005 
+
+ATTEST:    LIBERTY MUTUAL INSURANCE COMPANY [[ATTEST    LIBERTY MUTUAL INSURANCE COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST    LIBERTY MUTUAL INSURANCE COMPANY Entity => By: [[ATTEST    LIBERTY MUTUAL INSURANCE COMPANY Signatory First Name]] [[ATTEST    LIBERTY MUTUAL INSURANCE COMPANY Signatory Last Name]]
+Title: [[ATTEST    LIBERTY MUTUAL INSURANCE COMPANY Signatory Title]]}}
+
+
+^^^^^ 
+\centered EXHIBIT A 
+
+Section 1  Definition of Profit Center: 
+
+For purposes of this Treaty, the Regional Agency Markets strategic business unit of LMIC is defined to include the following Profit Centers: 
+
+\centered 
+
+Business Produced By Agents Resident Profit Center    Legal Entities Used By Profit Center    in the Following States America First Insurance:    America First Insurance Co.    AK, LA, OK, TX America First Lloyd’s Insurance Co.    AK, LA, OK, TX Peerless Insurance Co.    AK, LA, OK, TX 
+
+Liberty County Mutual Insurance Co.    For business classified as RAM only 
+
+Business Solutions Group*    (Multi-State Business **) Peerless Indemnity Insurance Co.    (Multi-State Business **) The Netherlands Insurance Co.    (Multi-State Business **) 
+
+Colorado Casualty Insurance:    Colorado Casualty Insurance Co.    AZ, CO, NM, NV, WY, UT Golden Eagle Insurance Corp.    AZ, CO, NM, NV, WY, UT One Beacon Insurance Co. Cession to Peerless    AZ, CO, NM, NV, WY, UT 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-State Business**) 
+
+Golden Eagle Insurance:    Golden Eagle Insurance Corp.    CA One Beacon Insurance Co. Cession to Peerless    CA Peerless Insurance Co.    CA 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-State Business**) 
+
+Hawkeye-Security Insurance:    Hawkeye-Security Insurance Co.    IA, KS, MN, MO, NE, ND, SD, WI Consolidated Insurance Co.    IA, KS, MN, MO, NE, ND, SD, WI Indiana Insurance Co.    IA, KS, MN, MO, NE, ND, SD, WI One Beacon Insurance Co. Cession to Peerless    IA, KS, MN, MO, NE, ND, SD, WI Peerless Insurance Co.    IA, KS, MN, MO, NE, ND, SD, WI The Midwestern Indemnity Co.    IA, KS, MN, MO, NE, ND, SD, WI 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-State Business**)  
+
+^^^^^ 
+\centered 
+
+Business Produced By Agents Resident Profit Center    Legal Entities Used By Profit Center    in the Following States Indiana Insurance:    Indiana Insurance Co.    IL, IN, KY, MI, OH, TN Consolidated Insurance Co.    IL, IN, KY, MI, OH, TN Mid-American Fire and Casualty Co.    IL, IN, KY, MI, OH, TN One Beacon Insurance Co. Cession to Peerless    IL, IN, KY, MI, OH, TN Peerless Insurance Co.    IL, IN, KY, MI, OH, TN The Midwestern Indemnity Co.    IL, IN, KY, MI, OH, TN 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-State Business**) 
+
+Business Solutions Group:    Liberty Mutual Insurance Co.    All states other than multi- Liberty Mutual Fire Insurance Co.    state business in the other LM Insurance Corp.    Profit Centers Liberty Insurance Corp. The First Liberty Insurance Corp. Liberty County Mutual Insurance Co. 
+
+Montgomery Insurance:    Montgomery Mutual Insurance Co.    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV Colorado Casualty Insurance Co.    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV Excelsior Insurance Co.    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV One Beacon Insurance Co. Cession to Peerless    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV Peerless Insurance Co.    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV The Midwestern Indemnity Co.    AL, DC, DE, FL, GA, MD, MS, NC, SC, VA, WV 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-State Business**) 
+
+Peerless Insurance:    Peerless Insurance Co.    CT, MA, ME, NH, NJ, NY, PA, RI, VT :    Excelsior Insurance Co.    CT, MA, ME, NH, NJ, NY, PA, RI, VT Indiana Insurance Co.    CT, MA, ME, NH, NJ, NY, PA, RI, VT One Beacon Insurance Co. Cessions to Peerless    CT, MA, ME, NH, NJ, NY, PA, RI, VT Merchants and Business Men’s Mutual Insurance Co.    CT, MA, ME, NH, NJ, NY, PA, RI, VT 
+
+Business Solutions Group*    (Multi-State Business**) Peerless Indemnity Insurance Co.    (Multi-State Business**) The Netherlands Insurance Co.    (Multi-state Business**)  
+
+^^^^^ 
+
+*    Business Solutions Group consists of; Liberty Mutual Insurance Co., Liberty Mutual Fire Insurance Co., LM Insurance Corp., Liberty Insurance Corp., The First Liberty Insurance Corp. and Liberty County Mutual Insurance Co.
+**    Agent responsible for the risk resides in the Profit Center but the risk is located in multiple states both in and outside states assigned to the Profit Center.
+
+^^^^^ 
+\centered EXHIBIT B 
+
+\centered NUCLEAR INCIDENT EXCLUSION CLAUSE ~ PHYSICAL DAMAGE  REINSURANCE (BRMA 35B) 
+
+^This reinsurance does not cover any loss or liability accruing to the Reassured, directly or indirectly, and whether as Insurer or Reinsurer, from any Pool of Insurers or Reinsurers formed for the purpose of covering Atomic or Nuclear Energy risks.
+
+^Without in any way restricting the operation of paragraph (1) of this Clause, this reinsurance does not cover any loss or liability accruing to the Reassured, directly or indirectly, and whether as Insurer or Reinsurer, from any insurance against Physical Damage (including business interruption or consequential loss arising out of such Physical Damage) to:
+
+^^^Nuclear reactor power plants including all auxiliary property on the site, or
+
+^^^Any other nuclear reactor installation, including laboratories- handling radioactive materials in connection with reactor installations and “critical facilities” as such, or
+
+^^^Installations for fabricating complete fuel elements or for processing substantial quantities of “special nuclear material” and for reprocessing, salvaging, chemically separating, storing or disposing of “spent”
+
+nuclear fuel or waste materials, or
+
+^^^Installations other than those listed in paragraph (2) III. above using substantial quantities of radioactive isotopes or other products of nuclear fission.
+
+^Without in any way restricting the operations of paragraphs (1) and (2) hereof, this reinsurance does not cover any loss or liability by radioactive contamination accruing to the Reassured, directly or indirectly, and whether as Insurer or Reinsurer, from any insurance on property which is on the same site as a nuclear reactor power plant or other nuclear installation and which normally would be insured therewith except that this paragraph (3) shall not operate:
+
+^^where Reassured does not have knowledge of such nuclear reactor power plant or nuclear installation, or
+
+^^where said insurance contains a provision excluding coverage for damage to property caused by or resulting from radioactive contamination, however caused. However, on and after 1st [[Date 8: Date]], this sub-paragraph (b) shall only apply provided the said radioactive contamination exclusion provision has been approved by the Governmental Authority having jurisdiction thereof.
+
+^Without in any way restricting the operations of paragraphs (1), (2) and (3) hereof, this reinsurance does not cover any loss or liability by radioactive contamination accruing to the Reassured, directly or indirectly, and whether as Insurer or Reinsurer, when such radioactive contamination is a named hazard specifically insured against.
+
+^It is understood and agreed that this Clause shall not extend to risks using radioactive isotopes in any form where the nuclear exposure is not considered by the Reassured to be the primary hazard.
+
+^The term especial nuclear material. shall have the meaning given it in the Atomic Energy Act of 1954 or by any law amendatory thereof.
+
+^Reassured to be sole judge of what constitutes:
+
+^^^^^ 
+^^substantial quantities, and
+
+^^the extent of installation, plant or site.
+
+Notes: Without in any way restricting the operation of paragraph (1) hereof, it is understood and agreed that: 
+
+^^All policies issued by the Reassured on or before 31st [[Date 9: Date]] shall be free from the application of the other provisions of this Clause until expiry date or 31st [[Date 10: Date]] whichever first occurs whereupon all the provisions of this Clause shall apply.
+
+^^With respect to any risk located in Canada policies issued by the Reassured on or before 31st [[Date 11: Date]] shall be free from the application of the other provisions of this Clause until expiry date or 31st [[Date 10]] whichever first occurs whereupon all the provisions of this Clause shall apply.
+
+^^^^^ 
+\centered EXHIBIT C 
+
+\centered NUCLEAR INCIDENT EXCLUSION CLAUSE  PHYSICAL DAMAGE AND  LIABILITY (BOILER AND MACHINERY)  REINSURANCE (BRMA 35E)  . 
+
+^This reinsurance does not cover any loss or liability accruing to the Reassured as a member of, or subscriber to, any association of insurers of reinsurers formed for the purpose of covering nuclear energy risks or as a direct or indirect reinsurer of any such member, subscriber or association.
+
+^Without in any way restricting the operation of paragraph (1) of this Clause, it is understood and agreed that for all purposes of this reinsurance all original Boiler and Machinery Insurance or Reinsurance agreements of the Reassured shall be deemed to include the following provisions of this paragraph:
+
+This Policy does not apply to “loss”, whether it be direct or indirect, proximate or remote; 
+
+^^from an Accident caused directly or indirectly by nuclear reaction,~nuclear radiation or radioactive contamination, all whether controlled or uncontrolled; or
+
+^^from nuclear reaction, nuclear radiation or radioactive contamination, all whether controlled or uncontrolled, caused directly or indirectly by, contributed to or aggravated by an Accident.
+
+^However, it is agreed that loss arising out of the use of radioactive isotopes in any form is not hereby excluded from reinsurance protection. 
+
+^Without in any way restricting the operation of paragraph (1) hereof, it is understood and agreed that
+
+^^all policies issued by the Reassured effective on or before 30th [[Date 12: Date]], shall be free from the application of the other provisions of this Clause until expiry date or 30th [[Date 13: Date]], whichever first occurs, whereupon all the provisions of this Clause shall apply.
+
+^^with respect to any risk located in Canada policies issued by the Reassured effective on or before 30th [[Date 14: Date]] shall be free from the application of the other provisions of this Clause until expiry date or 30th [[Date 15: Date]], whichever first occurs, whereupon all the provisions of this Clause shall apply
+
+^^^^^ 
+\centered EXHIBIT D 
+
+\centered POOLS, ASSOCIATIONS & SYNDICATES EXCLUSION CLAUSE 
+
+^:  
+Excluding:  
+^All business derived directly or indirectly from any Pool, Association or Syndicate which maintains its own reinsurance facilities.
+
+^Any Pool or Scheme (whether voluntary or mandatory) formed after [[Date 16: Date]] for the purpose of insuring property whether on a country-wide basis or in respect of designated areas. This exclusion shall not apply to so-called Automobile Insurance Plans or other Pools formed to provide coverage for Automobile Physical Damage.
+
+^:  
+It is agreed that business written by the Reassured for the same perils, which is known at the time to be insured by, or in excess of underlying amounts placed in the following Pools, Associations or Syndicates, whether by way of insurance or reinsurance, is excluded hereunder: 
+
+Any Pool, Association or Syndicate formed for the purpose of writing Oil, Gas or Petro-Chemical Plants and/or Oil or Gas Drilling Rigs, United States Aircraft Insurance Group, Canadian Aircraft Insurance Group, Global Aerospace.
+
+^does not apply:  
+^Where the Total Insured Value over all interests of the risk in question is less than $[[USD Value 5: Number]]
+
+^To interests traditionally underwritten as Inland Marine and/or Stock and/or Contents written on a Blanket basis.
+
+^To Contingent Business Interruption, except when the Reassured is aware that the key location is known at the time to be insured in any Pool, Association or Syndicate named above, other than as provided for under Section B(1).
+
+^To risks as follows:
+
+Offices, Hotels, Apartments, Hospitals, Educational Establishments, Public Utilities (other than Railroad Schedules) and Builder’s Risks on the classes of risks specified in this subsection (4) only.
+
+Where this clause attaches to Catastrophe Excesses, the following Sections C and D are added: 
+
+^:  
+Nevertheless the Reinsurer specifically agrees that liability accruing to the Reassured from its participation in Residual Market Mechanisms including but not limited to: 
+
+^The following so-called “Coastal Pools”:
+
+Alabama Insurance Underwriting Association Citizens Property Insurance Corporation (CPIC) Louisiana Citizens Coastal Plan Mississippi Windstorm Underwriting Association North Carolina Insurance Underwriting Association
+
+^^^^^ 
+South Carolina Wind and Hail Underwriting Association Texas Windstorm Insurance Association
+
+AND
+
+^All “Fair Plan” and “Rural Risk Plan” business,
+
+AND
+
+^California Earthquake Authority (CEA),
+
+for all perils otherwise protected hereunder shall not be excluded herefrom, except however, that this reinsurance does not include any increase in such liability resulting from: 
+
+^^The inability of any other participant in such Residual Market Mechanisms to meet its liability.
+
+^^Any claim against such Residual Market Mechanisms or any participant therein, including the Reassured, whether by way of subrogation or otherwise, brought by or on behalf of any insolvency fund (as defined in the Insolvency Funds Exclusion Clause incorporated in this Agreement).
+
+^:  
+^Notwithstanding Section C above, in respect of the CEA, where an assessment is made against the Reassured by the CEA, the Reassured may include in its ultimate net loss only that assessment directly attributable to each separate loss occurrence covered hereunder. The Reassured’s initial capital contribution to the CEA shall not be included in the ultimate net loss.
+
+^Notwithstanding Section C above, in respect of CPIC, where an assessment is made against the Reassured by CPIC, the maximum loss that the Reassured may include in the ultimate net loss in respect of any loss occurrence hereunder shall not exceed the lesser of:
+
+^^The Reassured’s assessment from CPIC for the accounting year in which the loss occurrence commenced, or
+
+^^The product of the following:
+
+^^^The Reassured’s percentage participation in CPIC for the accounting year in which the loss occurrence commenced; and
+
+^^^CPIC’s total losses in such loss occurrence.
+
+Any assessments for accounting years subsequent to that in which the loss occurrence commenced may not be included in the ultimate net loss hereunder. Moreover, notwithstanding Section C above, in respect of CPIC, the ultimate net loss hereunder shall not include any monies expended to purchase or retire bonds as a consequence of being a member of CPIC.
+
+For the purposes of this Agreement, the Reassured may not include in the ultimate net loss any assessment or any percentage assessment levied by CPIC to meet the obligations of an insolvent insurer, member or other party, or to meet any obligations arising from the deferment by CPIC of the collection of monies.
+
+^^^^^ 
+\centered EXHIBIT E 
+
+\centered TERRORISM EXCLUSION CLAUSE 
+
+This Agreement does not apply to and specifically excludes terrorism-related losses as follows: 
+
+^For risks located in the United States of America and its territories and possessions, and at the premises of any United States mission as such terms are intended to apply under the terms of the Terrorism Risk Insurance Act of 2002 as it may be amended from time to time:
+
+^“Insured Losses” resulting directly or indirectly from a “Certified Act of Terrorism” under the terms of the Terrorism Risk Insurance Act of 2002 as it may be amended from time to time.
+
+^Loss or damage directly or indirectly arising out of or in connection with nuclear, chemical, biological, or radiological explosion, pollution, or contamination resulting from any other act of terrorism. Notwithstanding the foregoing, this Agreement shall extend to cover insured physical loss or damage, excluding all time element coverages and extensions, incurred as a direct and immediate consequence of an “other act of terrorism” employing any non-nuclear weapon or device designed to disperse chemical, biological, or radiological contaminants; but, no coverage shall be afforded for any ensuing chemical, biological or radiological contamination or pollution resulting from an “other act of terrorism” employing such weapon or device.
+
+“Other act of terrorism” as used in subparagraph A.2. above shall mean any violent act or act that is dangerous to human life, property, or infrastructure that results in physical loss or damage that is committed by an individual or individuals acting on behalf of any person or interest as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States government by coercion, that is not a “Certified Act of Terrorism”.
+
+(Revised 12/16/2003)

@@ -1,0 +1,59 @@
+[[Date 1: Date]]  
+Merck KGaA
+
+[[Address 1: Address]] 
+
+Attention: Legal Department  
+Dear Sirs:  
+
+\centered 
+
+Re:      **Supply agreement (the “Supply Agreement”) dated the [[Date 2: Date]] between Biomira International Inc. (“Biomira”) and Merck KGaA (“Merck”) and Collaboration agreement (the “Collaboration Agreement”) dated the [[Date 2]] between Biomira and Merck** (collectively, the “Agreements”)  
+
+We note that pursuant to the Agreements, each of Biomira and Merck has agreed that if applicable laws or regulations require that taxes be withheld on any payments received by either party from the other party under the Agreements, that the party withholding the taxes (the “Withholding Party”) will deduct those taxes (the “Withheld Amount”) from the amount of such payment due to the receiving party. We also note that pursuant to the Agreements, both parties have agreed to cooperate to reduce the amount of any such Withheld Amount and obtain the benefit of any tax treaty with appropriate withholding exemption waivers with respect to the Withheld Amount. For good and valuable consideration the receipt and sufficiency of which is hereby acknowledged, Biomira agrees to indemnify Merck and Merck agrees to indemnify Biomira with respect to certain reassessments of the Withheld Amount as further described below. With respect only to the Agreements:
+
+^Both parties agree to discuss, share information and disclose pertinent data with each other with respect to international taxation matters relating to non-resident withholding taxes and/or effectively connected income of fiscal jurisdictions and to use commercially reasonable efforts to ensure that intercompany transactions of one party do not create adverse tax consequences for the other party. The tax representatives from both parties agree to meet either directly or by way of teleconference at least annually, or more frequently upon a party’s reasonable request, to address and reconcile any outstanding or pending taxation matters with respect to such intercompany transactions. Any information disclosed by one party to the other pursuant to this letter is confidential, proprietary information of the disclosing party and shall be governed by the provisions of Article 12 of the Collaboration Agreement.
+
+^Notwithstanding the provisions of paragraph 1 above, if after such consultation, the parties are unable to agree on an intercompany transaction proposed by a party, such party shall (subject to the provisions of the Agreements) be free to proceed with the intercompany transaction.
+
+^If, as a result of an assessment or review (the “Original Assessment”), a final determination is made, from which no appeal lies (the “Reassessment”) by the relevant responsible taxing authority (the “Authority”) and:
+
+^^^^^ 
+^^^the Authority determines that the Withheld Amount is less than the amount that should have been withheld pursuant to domestic law and/or the relevant tax treaty (the “Reassessed Amount”); and
+
+^^^the reason for the Reassessment is not attributable to any action or failure to act within the control of the Withholding Party; provided however, that any action under paragraphs 1 and 2 shall not be deemed an action or failure to act within the control of the Withholding Party under this subparagraph (ii),
+
+then:
+
+^^if Biomira (or any of its affiliates) is the Withholding Party, Merck agrees to indemnify and hold Biomira (or any such affiliate) free and harmless for the difference between the Withheld Amount and the Reassessed Amount including any interest, penalties and reasonable outside attorney and accounting fees incurred with respect to such difference; or
+
+^^if Merck (or any of its affiliates) is the Withholding Party, Biomira agrees to indemnify and hold Merck (or any such affiliate) free and harmless for the difference between the Withheld Amount and the Reassessed Amount including any interest, penalties and reasonable outside attorney and accounting fees incurred with respect to such difference.
+
+The parties shall give each other prompt written notice of any requests or inquiries from any taxing authority with respect to the Withheld Amount and will cooperate with each other and their counsel in the course of the review by the taxing authority. Further, the provisions of section 17.3 of the Collaboration Agreement shall apply to any claim for indemnity under paragraph 3 above.
+
+^The indemnity set forth in paragraph 3 above shall not apply to any intercompany transaction the details of which had not been disclosed to the other party under paragraph 1.
+
+^Biomira acknowledges that Merck shall sublicense its rights and obligations (however, Merck’s payment obligations vis-a-vis Biomira shall not be affected) with respect to the United States under the Collaboration Agreement to EMD Pharmaceuticals, Inc. Biomira hereby consents to such sublicense as required under section 2.1 of the Collaboration Agreement, subject to Merck’s compliance with the provisions of paragraph 1 above.
+
+^An example of a calculation under section 6.3 of the Collaboration Agreement is attached hereto as Schedule “A”. Both parties agree to the methodology as proposed in Schedule “A”.
+
+^This letter agreement shall be governed by the laws of England (without regard to the choice of laws provisions thereof).
+
+Kindly confirm your agreement with the foregoing by signing the duplicate copy of this letter where indicated and then returning the same to the writer.
+
+^^^^^ 
+\centered 
+
+Yours truly, 
+
+BIOMIRA INTERNATIONAL INC. 
+
+Per: W. Vickery Stoughton    /s/ W. Vickery Stoughton 
+
+Accepted and agreed this [[Date 2]]. 
+
+Merck KGaA 
+
+Per: Bernhard Scheuble    /s/ Bernhard Scheuble  Chairman and CEO 
+
+Per: Jens Eckhardt    /s/ Jens Eckhardt  Legal Counsel

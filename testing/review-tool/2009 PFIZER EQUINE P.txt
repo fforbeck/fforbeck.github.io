@@ -1,0 +1,473 @@
+*** *  CERTAIN INFORMATION IN THIS EXHIBIT HAS BEEN OMITTED AND FILED SEPARATELY WITH THE COMMISSION. CONFIDENTIAL TREATMENT HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.**
+
+\centered **2009 PFIZER EQUINE PRODUCTS MARKETING AGREEMENT**
+
+This Agreement dated and effective as of [[Date 1: Date]] is made by and between **Pfizer Inc**, 235 East 42nd Street, [[Address 1: Address]] (hereinafter, “PFIZER”) and **MWI Veterinary Supply Co.**, [[Address 2: Address]] (hereinafter, “MWI”).
+
+^PFIZER hereby appoints MWI, and MWI hereby accepts appointment, as a contract distributor for PFIZER Products set forth on Exhibit A (the “Products”), to purchase from PFIZER and to resell for MWI’s own account as a distributor, subject to the following terms and conditions.
+
+^MWI recognizes and agrees to the following:
+
+^^PFIZER has elected to work with a select group of distributors that are committed to maximizing the sale of the Products and to working closely with PFIZER to identify market opportunities for both companies. The intent of this Agreement is to attain that goal;
+
+^^PFIZER intends to utilize this group of distributors to sell the Products to customers below them in the distribution chain and that PFIZER has, and may in the future, run promotions and other activities that would be seriously prejudiced if MWI resells the Products to other PFIZER contract distributors, non-employee agents or through brokers.
+
+^Accordingly, MWI shall:
+
+^^use its reasonable best efforts to sell the Products by focusing its primary effort at reselling to veterinarians, OTC retailers, and horse owners;
+
+^^maintain a full-time outside and inside sales force that will personally and actively solicit sales of the Products and pay such sales representatives reasonable commission as MWI deems appropriate in its sole discretion;
+
+^^store and handle its inventory of Products under conditions that will ensure that such Products retain their potency, purity, quality, and identity;
+
+^^MWI will provide PDA/EDI with sales out data on each PFIZER sku MWI sells. MWI will provide to Covansys its Health Industry Number, Customer Health Industry Number, PFIZER product number, transaction date, ship to zip code, number of units and price with respect to each sale of product, and unit inventories on each PFIZER sku that MWI sells. This information should be sent to Covansys within /**/ of the date of each invoice. MWI will use its best efforts to insure sales out data integrity and timeliness;
+
+^^set its resale prices for the Products independently and at its sole discretion;
+
+^^cooperate fully with PFIZER by actively participating in such strategy sessions as PFIZER reasonably may require, for the purpose of developing programs to increase use of the Products; and to cooperate fully with PFIZER in implementing all promotions and sales campaigns for the Products;
+
+^^allow PFIZER’s representatives to attend and actively participate in meetings of MWI’s sales representatives;
+
+^^MWI agrees that credit limits established by PFIZER shall be subject to change by PFIZER in its sole discretion and that no shipments will be made to MWI in excess of the established credit limits;
+
+^^take no action, whether or not identified above, that would harm the goodwill or name of PFIZER, or damage the interests of PFIZER or the Products, other than where supported by sound factual evidence. For purposes of this Agreement “Goodwill” shall mean the marketplace advantage of customer patronage and loyalty developed with continuous business under the same name over a period of time.
+
+^^MWI shall immediately notify PFIZER in the event MWI obtains information indicating that any of the Products may have to be recalled either by virtue of applicable law or regulation or good business judgment. PFIZER shall control all efforts necessary to conduct any such recall. MWI shall cooperate with PFIZER and MWI agrees to maintain adequate records to conduct such recall, including the name, address and Product purchases of all purchasers of PFIZER Products.
+
+^^MWI may make use of the custom marketing program funding provided for in Exhibit E hereto.
+
+^^Make payment to Pfizer /**/, and
+
+^^Provide to PFIZER by the close of business on the last business day of each PFIZER Accounting Period (as set forth in Exhibit G hereto) an inventory report covering all inventory purchased from PFIZER and setting forth in dollars at MWI’s acquisition cost from PFIZER the amount of inventory by species. MWI agrees that PFIZER shall have the right to audit inventory in the possession of MWI to confirm compliance with this paragraph 3(m) and to confirm the accuracy of the data contained in the report.
+
+^PFIZER shall:
+
+^^sell the Products to MWI at the prices in effect in the then current published PFIZER Animal Health Products Distributor Price List (hereinafter, “Price List”). PFIZER also shall permit MWI to participate in the distributor incentive programs offered by PFIZER, in accordance with the terms of such programs. PFIZER shall have the unrestricted right to revise the prices, terms and conditions of the Price List, and to add or delete Products or package sizes, without advance notice to MWI, and the revisions shall be effective on all orders submitted after the effective date of the price revisions. In all cases of orders received for other than immediate shipment, the price for the Products shall be that in effect at the time of shipment. PFIZER agrees to give MWI /**/ advance notice of price increases;
+
+^^compensate MWI in accordance with Exhibits B, D and E hereto. In the event that one Agreement holder acquires or combines with another Agreement holder, the purchase objectives will be adjusted accordingly for the purpose of determining incentives earned; and
+
+^^allow MWI credit on prepaid returns in accordance with PFIZER’s Outdated Products Policy which is in effect at the time;
+
+^^Agreement holders with more than one location must combine purchases of all locations to determine attainment level for incentives. In the event that one Agreement holder acquires or combines with another Agreement holder, the purchase objectives will be adjusted accordingly for the purpose of determining incentives earned.
+
+^^Direct purchase from PFIZER will be used to determine the level of purchases achieved. Any discrepancies must be documented by the Marketing Agreement holder using copies of PFIZER invoices.
+
+^All purchases by MWI pursuant to this Agreement shall be in accordance with the terms of PFIZER’s Pricing and Shipping Policies, as may be amended by PFIZER from time to time. Unless the parties agree otherwise, shipments shall be made to either MWI’s central warehouse point or to branch offices at MWI’s direction.
+
+^MWI shall not be provided with any rebate, discount or other compensation for Products handled under this Agreement unless specifically set forth herein. MWI will NOT be eligible to collect an RSA or Performance Payment on any lateral sales to other PFIZER contract distributors or to an unauthorized Pfizer distributor. (It is MWI’s obligation to confirm with Pfizer, prior to making a sale, as to whether a distributor is a PFIZER contract distributor or an unauthorized distributor.) Nor shall MWI be eligible to collect an RSA or Performance Payment on sales made through brokers or non-employee agents.
+
+^The following standard conditions shall apply to all sales under this Agreement:
+
+^^MWI shall cooperate fully with PFIZER in participating fully in the Animal Health Institute Electronic Data Interchange (“AHI EDI”) for the reporting of sales and inventory data on a daily basis. The data to be reported shall be as described in the AHI EDI Transaction sets.
+
+^^all orders are subject to acceptance by PFIZER’s [[Address 3: Address]]. Title to the goods shall pass to MWI once they have been properly delivered to the address designated by MWI. Products requiring temperature control will be shipped F.O.B. destination;
+
+^^any tax or other charge upon the sale and/or shipment of the goods now or hereafter imposed by federal, state or municipal authorities shall be paid by MWI. In the event that the price of any article includes transportation charges, any increase or decrease in transportation charges shall be for MWI’s account;
+
+^^EXCEPT AS SET FORTH IN THIS AGREEMENT, OR IN THE LABELING OF THE PRODUCTS SOLD HEREUNDER, PFIZER MAKES NO EXPRESS OR IMPLIED WARRANTIES WITH RESPECT TO THE PRODUCTS;
+
+^^PFIZER shall defend and indemnify MWI from all claims resulting from any breach by PFIZER of the warranties set forth in this paragraph 6, and specifically any claim that the Products, as sold by PFIZER, were defective. In the event PFIZER is found by any court of competent jurisdiction to be liable for any claim based in products liability, then PFIZER shall reimburse MWI’s reasonable legal fees incurred in the course of cooperating with PFIZER’s defense. To be covered by this defense and indemnity, MWI must: promptly notify PFIZER of any such claim; allow PFIZER to fully control the defense and/or resolution of the claim; and cooperate fully with PFIZER in the matter. This defense, indemnity and payment for legal fees shall not apply to claims alleging: MWI alteration, negligent handling or improper storage of the Products; sale of outdated Products; sale or recommendation of the Products for uses or in a manner not set forth in the labeling supplied by PFIZER; or sale of the Products after receipt of notice from PFIZER that such sales should be halted;
+
+^^in no event shall PFIZER be liable to MWI for special, collateral, incidental, or consequential damages in connection with or arising out of the purchase, resale, or use of the Products. Except as provided under subparagraph 6(e), above, total damages recoverable against PFIZER by MWI shall be exclusively limited to the purchase price of the Products with respect to which damages are claimed;
+
+^^failure of PFIZER to make or of MWI to take, when due, any delivery (or portion thereof) pursuant to an order hereunder, if occasioned by any circumstance or condition beyond the control of the party so failing, shall not subject the failing party to any liability to the other and, at the option of either party, that order or portion thereof not delivered may be canceled;
+
+^^acceptance of MWI’s order by PFIZER is expressly made conditional upon MWI’s acceptance of the conditions of sale as set forth herein, and the prices, terms and conditions of the Price List then in effect, notwithstanding acknowledgment or receipt of MWI’s purchase order containing additional or different provisions, or conflicting oral representations by any agent of PFIZER.
+
+\centered *The remainder of this page intentionally left blank.*
+
+^MWI and PFIZER agree that, under the specific circumstances delineated herein, PFIZER, at PFIZER’s sole discretion may recoup the sums outstanding to it from MWI against those sums which may become due from PFIZER to MWI, in that the obligations arise from mutual transactions. The specific circumstances which will enable PFIZER to initiate recoupment are:
+
+^^MWI becomes insolvent which shall be defined as:
+
+^^^the sum of MWI’s debts is greater than all of MWI’s property (“Balance Sheet Test”); or
+
+^^^MWI is generally not paying its debts as they come due; or
+
+^^^MWI has failed to act in good faith for a period in excess of six months to resolve any outstanding invoice or purchase order issues or reconciliations.
+
+^^MWI commences a liquidation of its operations by means of a sale of its assets in their entirety or piecemeal; or
+
+^^MWI ceases its business operations whether or not such cessation is voluntary or involuntary; or
+
+^^MWI files a proceeding pursuant to the U.S. Bankruptcy Code or any state court proceeding, including an Assignment for the Benefit of Creditors.
+
+^MWI shall distribute PFIZER products only under the labeling provided by PFIZER; prescribe, recommend, suggest, and advertise each product for use only under the conditions stated in the labeling provided by PFIZER; and observe all federal, state, and local laws governing the distribution of animal drugs. In the case of Products bearing the legend, “CAUTION: FEDERAL LAW RESTRICTS THIS DRUG TO USE BY OR ON THE ORDER OF A LICENSED VETERINARIAN,” or any similar legend, sell such Products only to or on the order of a licensed veterinarian for use in the course of his or her professional practice or to another person or entity regularly and lawfully engaged in the use, distribution or dispensing of such legend drugs.
+
+^Nothing in this Agreement shall be deemed to limit PFIZER’s ability to sell any product at any time to any other customer or any other party.
+
+^MWI and PFIZER acknowledge that in the performance of their duties hereunder MWI and PFIZER may obtain access to “Confidential Information” (as defined below) of each other. MWI and PFIZER agree that during the term of this Agreement and for a period of three (3) years after the termination of this Agreement, unless specifically permitted in writing by the other party, which permission shall not be unreasonably withheld, especially with the sale of all or a substantial portion of MWI’s business, to (a) retain in confidence and not disclose to any third party and (b) use only for the purpose of carrying out their duties hereunder, any such Confidential Information. As used herein the term “Confidential Information” means any information, or data, whether of a business or scientific nature and whether in written, oral or tangible form, relating to PFIZER’s and MWI’s business or potential business or its research and development activities, not generally available to or known to the public, and not otherwise known to the receiving party, that is disclosed to or learned by the other party pursuant hereto. “Confidential Information” does not mean or include any information: (a) which is, at the time of disclosure, available to the general public; or (b) which following disclosure becomes available to the general public through no fault of the recipient; or (c) which recipient can demonstrate was in its possession before receipt; or (d) which is disclosed to recipient without restriction on disclosure. Upon completion of the work provided for hereunder or other termination of this Agreement each party will return to the other party any documents, or copies thereof, or any product samples, containing or constituting Confidential Information disclosed to or generated by either party in connection with this Agreement.
+
+^This Agreement shall be effective as of the date first written above and shall continue in force until [[Date 2: Date]]. Either party may terminate this Agreement prior to the expiration date (i) with or without cause, upon thirty (30) days written notice to the other party, or (ii) immediately upon written notice, in the event of a material breach by the other party.
+
+^This Agreement shall be governed by the laws of the State of [[Address 4: Address]] contracts to be fully performed therein. This Agreement is not assignable without the express written consent of PFIZER, and may be modified or amended only in writing signed by the party to be bound.
+
+^This Agreement and documents referred to herein embody the entire understanding between the parties hereto, will supersede prior agreements relating to the Products, and may be modified only in writing and signed by the parties to be bound. No activities conducted pursuant to this Agreement or related thereto, including but not limited to the future planning activities of the parties, shall be deemed to give rise to any obligations on the part of either party other than as expressly provided for herein.
+
+IN WITNESS WHEREOF, intending to be legally bound, the parties have executed this Agreement.
+
+MWI Veterinary Supply Co.      Pfizer Inc
+
+[[MWI Veterinary Supply Co.      Pfizer Inc Signatory Email: Identity | Signature]]
+__________________________________________
+{{MWI Veterinary Supply Co.      Pfizer Inc Entity => By: [[MWI Veterinary Supply Co.      Pfizer Inc Signatory First Name]] [[MWI Veterinary Supply Co.      Pfizer Inc Signatory Last Name]]
+Title: [[MWI Veterinary Supply Co.      Pfizer Inc Signatory Title]]}}
+
+Clinton A. Lewis, Jr.
+Print Name:   Jim Cleary         President, U.S. Operations
+Pfizer Animal Health
+Title:   President
+
+Date:   Dec. 31, 2008      Date:   1/09/09
+
+\centered Exhibit A
+
+\centered Product List for Equine Products
+
+**SKU #**      \centered **DESCRIPTION**      \centered **UNIT**      \centered **Units/Shipper Min.Quantity**
+\centered ANTI-INFLAMMATORIES
+
+Depo-Medrol, 40 mg/ml      \centered 5ml     
+
+Depo-Medrol, 20 mg/20 ml      \centered 20ml     
+
+Depo-Medrol, 20 mg/10 ml      \centered 10ml     
+
+Hylartin V      \centered 2 ml     
+
+Predef 2X      \centered 100 ml     
+
+Solu-Delta Cortef 100 mg      \centered 10 ml     
+
+Solu-Delta Cortef 500 mg      \centered 10 ml     
+\centered ANTI-INFECTIVES
+
+Naxcel      \centered 1 gm     
+
+Naxcel      \centered 4 gm     
+
+Sterile Water      \centered 80 ml     
+
+Tucoprim Powder      \centered 400 gm     
+
+Tucoprim Powder      \centered 2000 gm     
+\centered BIOLOGICALS (PER DOSE)
+
+Rhinomune      \centered 25 X 1 ds     
+
+Rhinomune      \centered 5ds     
+
+Rhinomune      \centered Single     
+
+Zylexis      \centered 5 x 1ds     
+\centered PARASITICIDES & INSECTICIDES
+
+Anthelcide EQ Paste      \centered Tube     
+
+Anthelcide EQ Suspension      \centered Gallon     
+
+Equell Paste      \centered Tube     
+\centered 5154*      Equell Paste Volume Discount      \centered Tube      
+
+\centered 3,456
+
+Equimax      \centered Tube     
+
+Equimax Vet Pack      \centered Tube     
+
+Solitude IGR      \centered 2 lb pail     
+
+Solitude IGR      \centered 6 lb pail     
+
+Solitude IGR      \centered 20 lb Pail     
+
+Strongid Paste      \centered Tube     
+
+Strongid Paste Bulk      \centered Tube     
+
+Strongid C      \centered 25 lb Pail     
+
+Strongid C 2X      \centered 10 lb Pail     
+
+Strongid C 2X      \centered 50 lb Bag     
+
+Strongid T      \centered Quart     
+\centered SEDATIVES & ANESTHESIA
+
+Carbocaine-V      \centered 50 ml     
+
+Dormosedan      \centered 5 ml     
+
+Dormosedan      \centered 20 ml     
+
+**SKU #**      \centered **DESCRIPTION**      \centered **UNIT**      \centered **Units/Shipper Min.Quantity**
+\centered WOUND CARE
+
+Derma-Clens      \centered 14 ounce     
+
+Granulex-V Aero Spray      \centered 4 ounce     
+
+Granulex-V Liquid      \centered 1 ounce     
+\centered REPRODUCTIVE PRODUCTS
+
+Lutalyse (5/sleeve)      \centered 30 ml     
+
+Lutalyse      \centered 100 ml     
+\centered OTHER PRODUCTS
+
+Lixotinic      \centered Gallon     
+
+Roccal-D Plus      \centered Gallon     
+
+Roccal-D Plus (CA Only)      \centered Galon     
+
+Roccal-D Plus      \centered 5 Gallon     
+
+\centered Exhibit B
+
+PFIZER shall compensate MWI in the following ways:
+
+^^Reimburse MWI /**/ of sales out of Products on the RSA product list contained in Exhibit C, with the exception of
+
+^^^Depo-Medrol 20/20 which shall be paid at /**/,
+
+^^^Depo-Medrol 20/10 which shall be paid a /**/
+
+^^^Sterile Water and Roccal-D which shall /**/, and
+
+^^^Predef, Naxcel, and Lutalyse which shall be paid at /**/ WITH THE EXCEPTION of sales to Leaders’ Edge Veterinarians or Dealers, such sales to be reimbursed under the terms of the 2009 Livestock Products Distribution Agreement,
+
+per the EDI sales out data calculated based on the products purchase price contained in the Price List. Reimbursement shall be made /**/.
+
+^^Reimburse MWI an additional /**/ of sales out of Strongid C/C2X and Solitude IGR per the EDI sales out data.
+
+\centered EXHIBIT C
+
+\centered RSA Eligible Product List
+
+**SKU #**      \centered **DESCRIPTION**      \centered **UNIT**      \centered **RSA ELIGIBLE**
+
+Solitude IGR      \centered 2 lb pail      \centered /**/
+
+Solitude IGR      \centered 6 lb pail      \centered /**/
+
+Solitude IGR      \centered 20 lb Pail      \centered /**/
+
+Strongid C      \centered 25 lb Pail      \centered /**/
+
+Strongid C 2X      \centered 10 lb Pail      \centered /**/
+
+Strongid C 2X      \centered 50 lb Bag      \centered /**/
+
+Depo-Medrol, 40 mg/ml      \centered 5ml      \centered /**/
+
+Hylartin V      \centered 2 ml      \centered /**/
+
+Solu-Delta Cortef 100 mg      \centered 10 ml      \centered /**/
+
+Solu-Delta Cortef 500 mg      \centered 10 ml      \centered /**/
+
+Tucoprim Powder      \centered 400 gm      \centered /**/
+
+Tucoprim Powder      \centered 2000 gm      \centered /**/
+
+Rhinomune      \centered 25 X 1ds      \centered /**/
+
+Rhinomune      \centered 5ds      \centered /**/
+
+Rhinomune      \centered Single      \centered /**/
+
+Zylexis      \centered 5 x 1ds      \centered /**/
+
+Anthelcide EQ Paste      \centered Tube      \centered /**/
+
+Anthelcide EQ Suspension      \centered Gallon      \centered /**/
+
+Equell Paste      \centered Tube      \centered /**/
+\centered 5154*      Equell Paste Volume Discount      \centered Tube      
+
+\centered /**/
+
+Equimax      \centered Tube      \centered /**/
+
+Equimax Vet Pack      \centered Tube      \centered /**/
+
+Strongid Paste      \centered Tube      \centered /**/
+
+Strongid Paste Bulk      \centered Tube      \centered /**/
+
+Strongid T      \centered Quart      \centered /**/
+
+Carbocaine-V      \centered 50 ml      \centered /**/
+
+Dormosedan      \centered 5 ml      \centered /**/
+
+Dormosedan      \centered 20 ml      \centered /**/
+
+Derma-Clens      \centered 14 ounce      \centered /**/
+
+Granulex-V Aero Spray      \centered 4 ounce      \centered /**/
+
+Granulex-V Liquid      \centered 1 ounce      \centered /**/
+
+Lixotinic      \centered Gallon      \centered /**/
+
+Predef 2X      \centered 100 ml      \centered /**/
+
+Naxcel      \centered 1 gm      \centered /**/
+
+Naxcel      \centered 4 gm      \centered /**/
+
+Lutalyse (5/sleeve)      \centered 30 ml      \centered /**/
+
+Lutalyse      \centered 100 ml      \centered /**/
+
+Depo-Medrol, 20 mg/20 ml      \centered 20ml      \centered /**/
+
+Sterile Water      \centered 80 ml      \centered /**/
+
+Roccal-D Plus      \centered Gallon      \centered /**/
+
+Roccal-D Plus      \centered 5 Gallon      \centered /**/
+
+\centered Exhibit D
+
+\centered Performance Payment
+
+MWI will be eligible to receive the performance payments set forth in this clause 1 below subject to the performance criteria set forth below and MWI’s fulfillment of all of the other obligations contained in this Agreement.
+
+If MWI has achieved sales out during the period [[Date 1]] through [[Date 2]] of at least /**/ of the Products listed below, MWI, will be eligible for a performance payment. The performance payment will be equal to:
+
+^^/**/
+
+^^/**/c) /**/
+
+^^/**/
+
+Only EDI data for invoices dated [[Date 1]] through [[Date 2]] and submitted to Covansys by [[Date 2]] and accepted by PFIZER from Covansys by [[Date 3: Date]] will count towards the calculation of sales out for the period.
+
+Only sales by MWI of the products listed in Exhibit E count towards the performance payments under this Exhibit D.
+
+\centered Exhibit E
+
+\centered Performance Payment Product List
+
+**SKU**      \centered **Description**
+
+Solitude IGR
+
+Solitude IGR
+
+Solitude IGR
+
+Strongid C
+
+Strongid C 2X
+
+Strongid C 2X
+
+Depo-Medrol, 40 mg/ml
+
+Hylartin V
+
+Solu-Delta Cortef 100 mg
+
+Solu-Delta Cortef 500 mg
+
+Tucoprim Powder
+
+Tucoprim Powder
+
+Rhinomune
+
+Rhinomune
+
+Rhinomune
+
+Zylexis
+
+Anthelcide EQ Paste
+
+Anthelcide EQ Suspension
+
+Equell Paste
+5154*      Equell Paste Volume Discount
+
+Equimax
+
+Equimax Vet Pack
+
+Strongid Paste
+
+Strongid Paste Bulk
+
+Strongid T
+
+Carbocaine-V
+
+Dormosedan
+
+Dormosedan
+
+Derma-Clens
+
+Granulex-V Aero Spray
+
+Granulex-V Liquid
+
+Lixotinic
+
+Depo-Medrol, 20 mg/20 ml
+
+\centered Exhibit F
+
+\centered Product Focus Funds
+
+If MWI fulfils all of the obligations set forth in this Exhibit F, PFIZER will pay MWI up to a maximum of /**/ in Product Focus funds (“PFF”) based on MWI executing PFF’s which are agreed with PFIZER. Programs that use these funds must be discussed in advance with MWI’s PFIZER Account Executive, submitted in writing to PFIZER’s Senior Director of Distribution and approved in writing by PFIZER’s Senior Director of Distribution prior to the start of the program. PFIZER shall have no obligation to pay MWI PFF’s if the parties are unable to agree on the programs to be funded. In addition;
+
+^To be eligible for PFF’s, programs must include specific performance metrics and specifics on total PFF’s to be spent in the program and how all PFF’s would be spent. In no event will MWI be eligible to receive PFF’s in excess of /**/.
+
+^Programs that result in a direct price decrease to the Purchaser will not be supported.
+
+^ALL PFF’S REQUIRE PROOF OF PERFORMANCE AT PROGRAM CONCLUSION. No payment of PFF’S will be made by PFIZER to MWI until all proof or performance wrap-ups are submitted.
+
+^All program wrap-ups are to be submitted within forty-five (45) days of completion of the program. Wrap ups for programs that run to year end 2009 should be submitted no later than [[Date 4: Date]] for payment. Any program wrap-ups submitted to PFIZER after [[Date 4]] for 2009 programs will be paid out of 2010 PFF’s at PFIZER’s discretion. Programs will be paid by credit memo or check.
+
+\centered Exhibit G
+
+\centered Pfizer Domestic 2009 Calendar
+
+**Accounting Period**      \centered **Close Date**      \centered **# of Weeks**
+\centered AP 1      
+
+\centered 1/27/09     
+\centered AP 2      
+
+\centered 2/24/09     
+\centered AP 3      
+
+\centered 3/30/09     
+
+\centered AP 4      \centered 4/27/09     
+\centered AP 5      
+
+\centered 5/25/09     
+\centered AP 6      
+
+\centered 6/29/09     
+
+\centered AP 7      \centered 7/27/09     
+\centered AP 8      
+
+\centered 8/24/09     
+\centered AP 9      
+
+\centered 9/28/09     
+
+\centered AP 10      \centered 10/26/09     
+\centered AP 11      
+
+\centered 11/23/09     
+\centered AP 12      
+
+\centered 12/31/09     

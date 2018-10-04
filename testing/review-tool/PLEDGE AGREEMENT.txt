@@ -1,201 +1,156 @@
 \centered **PLEDGE AGREEMENT**
 
-This PLEDGE AGREEMENT (this “**Agreement**”) is made as of [[Date 1: Date]], by and between [[Pledgor]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Pledgor**”), and [[Secured Party]], a [[State of Formation: State]] [[Organization: EntityType]], or its successors and assigns (the “**Secured Party**”).
+THIS PLEDGE AGREEMENT, dated as of [[Date 1: Date]], is made and given by WINMARK CORPORATION, a Minnesota corporation (the “Pledgor”) to THE PRIVATEBANK AND TRUST COMPANY, an Illinois bank and trust company (in its capacity as Agent for the ratable benefit of the Lenders referred to below) (the “Bank”).
 
-\centered **RECITALS**
+**RECITALS:**
 
-^Contemporaneously with the execution and delivery hereof, the Pledgor and the Secured Party entered into that certain Investment Agreement, dated as of the date hereof, pursuant to which the Secured Party agreed to make available to the Pledgor a senior secured term loan credit facility of up to $[[USD Value 1: Number]] for the purpose of, among other things, providing capital to the Secured Party for the conduct of certain mining activities (as the same may be amended, modified, supplemented, renewed, restated, extended or replaced, the “**Investment Agreement**”).
+^The Pledgor, the Bank and certain other persons are parties to that certain Credit Agreement of even date herewith (as it may be amended, modified, supplemented, restated or replaced from time to time, the “Credit Agreement”) pursuant to which the Lenders from time to time party thereto (collectively, the “Lenders”) are providing financial accommodations to the Pledgor and the other Loan Parties (as defined in the Credit Agreement).
 
-^Pledgor is the owner of [[Shares 1: Number]] shares of common stock, par value $[[USD Value 2: Number]] per share, of Blue Fin Capital, Inc., a Utah corporation (the “**Blue Fin Shares**”), which represents all of the issued and outstanding shares of Blue Fin Capital, Inc.
+^The Pledgor owns all of the outstanding equity interests of Wirth Business Credit, Inc., a Minnesota corporation, Winmark Capital Corporation, a Minnesota corporation, and Grow Biz Games, Inc., a Minnesota corporation (the “Pledged Securities”).
 
-^In order to induce the Secured Party to enter into the Investment Agreement and make available to the Pledgor the senior secured term loan credit facility contemplated thereby, the Pledgor agreed to execute and deliver to and for the benefit of the Secured Party this Agreement pursuant to which the Pledgor shall pledge to the Secured Party the Blue Fin Shares as collateral security for the timely payment and performance in full of the Secured Obligations (as defined herein).
+^The Pledgor will benefit from the financial accommodations provided by the Lenders to the Loan Parties, and the Pledgor finds it advantageous, desirable and in the Pledgor’s best interests to execute and deliver to the Bank this Agreement.
 
-^This Pledge Agreement is the “Pledge Agreement” defined and referenced in the Investment Agreement.
+**AGREEMENTS:**
 
-\centered **AGREEMENT**
+IN CONSIDERATION of the premises and in order to induce the Bank and the other Lenders to enter into the Credit Agreement and to extend credit accommodations to the Pledgor thereunder, the Pledgor hereby agrees with the Bank for the ratable benefit of the Lenders as follows:
 
-ACCORDINGLY, in consideration of the premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Pledgor agrees with and for the benefit of the Secured Party as follows:
+^Defined Terms.
 
-^**Definitions**: The following terms shall have the meanings ascribed to them below:
+^^General. As used in this Agreement, the following terms shall have the meanings indicated:
 
-“**Agreement**” has the meaning set forth in the preamble hereof.
+“Collateral” shall have the meaning given to such term in Section 2.
 
-“**Blue Fin Shares**” has the meaning set forth in the Recitals hereof.
+“Event of Default” shall have the meaning given to such term in Section 11.
 
-“**Business Day**” means a day of the year on which banks are not required or authorized by law to close in New York City.
+“Lien” shall mean any security interest, mortgage, pledge, lien, charge, encumbrance, title retention agreement or analogous instrument or device (including the interest of the lessors under capitalized leases), in, of or on any assets or properties of the Person referred to.
 
-“**Distributions**” has the meaning specified in Section 2(a) hereof.
+“Obligations” shall mean (a) any and all indebtedness, liabilities and obligations of the Pledgor and/or any other Loan Party to the Bank and/or any other Lender of every kind, nature or description under the Credit Agreement, including the Pledgor’s obligation on any note or notes hereafter issued in substitution or replacement thereof, whether due or to become due, and whether now existing or hereafter arising or incurred, (b) any and all liabilities of the Pledgor under this Agreement, whether due or to become due, and whether now existing or hereafter arising or incurred and (c) any and all other indebtedness, liabilities and obligations of the Pledgor and/or any other Loan Party to the Bank and/or any other Lender of every kind, nature or description, whether due or to become due, and whether now existing or hereafter arising or incurred.
 
-“**Foreclosure Event**” shall mean any “Event of Default” (as defined in the Investment Agreement).
+“Person” shall mean any individual, corporation, partnership, limited partnership, limited liability company, joint venture, firm, association, trust, un[[Party 1]] organization, government or governmental agency or political subdivision or any other entity, whether acting in an individual, fiduciary or other capacity.
 
-“**Investment Agreement**” has the meaning set forth in the Recitals hereof.
+“Security Interest” shall have the meaning given to such term in Section 2.
 
-“**Note**” has the meaning set forth in the Investment Agreement.
+^^Terms Defined in Uniform Commercial Code. All other terms used in this Agreement that are not specifically defined herein or the definitions of which are not [[Party 1]] herein by reference shall have the meaning assigned to such terms in the Uniform Commercial Code in effect in the State of Minnesota as of the date first above written to the extent such other terms are defined therein.
 
-“**Person**” shall mean any individual, partnership (including limited partnership), corporation, limited liability company, association, joint stock company, trust, joint venture, unincorporated organization or governmental entity or department, agency or political subdivision thereof.
+^^Singular/Plural, Etc. Unless the context of this Agreement otherwise clearly requires, references to the plural include the singular, references to the singular include the plural and “or” has the inclusive meaning represented by the phrase “and/or.” The words “include,” “includes” and “including” shall be deemed to be followed by the phrase “without limitation.” The words “hereof,” “herein,” “hereunder,” and similar terms in this Agreement refer to this Agreement as a whole and not to any particular provision of this Agreement. References to Sections are references to Sections in this Pledge Agreement unless otherwise provided.
 
-“**Pledged Collateral**” has the meaning specified in Section 2 hereof.
+^Pledge. As security for the payment and performance of all of the Obligations, the Pledgor hereby pledges to the Bank (for the ratable benefit of the Lenders) and grants to the Bank (for the ratable benefit of the Lenders) a security interest (the “Security Interest”) in the following (the “Collateral”):
 
-“**Pledgor**” has the meaning set forth in the preamble hereof.
+^^The Pledged Securities and the certificates representing the Pledged Securities, and all distributions, dividends, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of the Pledged Securities.
 
-“**Secured Obligations**” shall mean the Obligations (as defined in the Investment Agreement).
+^^All additional securities of any issuer of the Pledged Securities from time to time acquired by the Pledgor in any manner, and the certificates representing such additional securities, and all distributions, dividends, cash, instruments and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such securities.
 
-“**Secured Party**” has the meaning set forth in the preamble hereof.
+^^All notes, debentures or other property constituting collateral for or otherwise securing the payment and/or performance of any such additional securities or equity interests.
 
-“**UCC**” shall mean the Uniform Commercial Code as in effect from time to time in the State of New York.
+^^All proceeds of any and all of the foregoing (including proceeds that constitute property of types described above).
 
-^**Security Interest**. As security for the prompt and complete payment and performance, when due (whether at stated maturity, acceleration or otherwise), of the Secured Obligations, the Pledgor, for value received, hereby pledges and assigns to the Secured Party and grants to the Secured Party a continuing, first priority security interest in and lien on the following (the “**Pledged Collateral**”):
+^Delivery of Collateral. All certificates and instruments representing or evidencing the Pledged Securities shall be delivered to the Bank contemporaneously with the execution of this Agreement. All certificates and instruments representing or evidencing Collateral received by the Pledgor after the execution of this Agreement shall be delivered to the Bank promptly upon the Pledgor’s receipt thereof. All such certificates and instruments shall be held by or on behalf of the Bank (for the ratable benefit of the Lenders) pursuant hereto and shall be in suitable form for transfer by delivery, or shall be accompanied by duly executed instruments of transfer or assignment in blank, all in form and substance satisfactory to the Bank. The Bank shall have the right at any time, whether before or after an Event of Default, to cause any or all of the Collateral to be transferred of record into the name of the Bank or its nominee (but subject to the rights of the Pledgor under Section 6) and to exchange certificates and instruments representing or evidencing Collateral for certificates and instruments of smaller or larger denominations. Notwithstanding any of the foregoing, as to any Collateral consisting of book-entry or uncertificated securities or securities which are held by a third Person, the Pledgor shall deliver to the Bank evidence satisfactory to the Bank that such Collateral has been registered in the name of, or as pledged to, the Bank (for the ratable benefit of the Lenders). Such evidence shall include the acknowledgment of the issuer or Person holding such Collateral that such issuer or Person holds such Collateral as agent for the Bank (for the ratable benefit of the Lenders) and that such Collateral is identified on the books of such issuer or third Person as belonging to or pledged to the Bank (for the ratable benefit of the Lenders).
 
-^^the Blue Fin Shares and the certificates, if any, representing such Blue Fin Shares, and all products and proceeds of such Blue Fin Shares, including, without limitation, all distributions, dividends, cash, instruments, subscription, warrants and any other rights and options and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such Blue Fin Shares (“**Distributions**”) and including, without limitation, all “proceeds” as such term is defined in the UCC;
+^Certain Warranties and Covenants. The Pledgor makes the following warranties and covenants with respect to such Pledgor and his Pledged Securities:
 
-^^all additional shares of stock or other equity interests of or in Blue Fin Capital, Inc. from time to time acquired by the Pledgor in any manner, and the certificates, if any, representing such additional shares or interests (any such additional shares or interests will constitute part of the Blue Fin Shares under and as defined in this Agreement), and all products and proceeds of any such additional Blue Fin Shares, including, without limitation, all distributions, dividends, cash, instruments, subscription, warrants and any other rights and options and other property from time to time received, receivable or otherwise distributed in respect of or in exchange for any or all of such additional Blue Fin Shares;
+^^The Pledgor has title to the Pledged Securities and will have title to each other item of Collateral hereafter acquired, free of all Liens except the Security Interest.
 
-^^all other claims of any kind or nature and any instruments, certificates, chattel paper or other writings evidencing such claims, whether in contract or tort and whether arising by operation of law, consensual agreement or otherwise, at any time acquired by the Pledgor against Blue Fin Capital, Inc. or any other Person having any liability to holders of the Blue Fin Shares; and
+^^The Pledgor has full power and authority to execute this Pledge Agreement, to perform the Pledgor’s obligations hereunder and to subject the Collateral to the Security Interest created hereby.
 
-^^any “investment property” (as defined in the UCC) now owned or hereafter acquired by the Pledgor with respect to the property described in clauses (a), (b) or (c) above.
+^^No financing statement covering all or any part of the Collateral is on file in any public office (except for any financing statements filed by the Bank).
 
-^**Voting Rights; Distributions**. So long as no Foreclosure Event has occurred and is continuing, the Pledgor may exercise any voting rights incident to the Pledged Collateral and shall have the right to receive and retain any and all Distributions to the extent that all or any portion of such Distributions are permitted to be made by Blue Fin Capital, Inc. in accordance with the provisions of the Investment Agreement.
+^^The Pledged Securities have been duly authorized and validly issued by the issuer thereof and are fully paid and nonassessable. The certificates representing the 
 
-^**Delivery of Pledged Collateral**. The Pledgor shall deliver to the Secured Party (i) simultaneously with or prior to the execution and delivery of this Pledge Agreement, all certificates representing the Blue Fin Shares, and (ii) promptly upon the receipt thereof by the Pledgor, all other certificates and instruments constituting Pledged Collateral owned by the Pledgor. All such certificates shall be delivered in suitable form for transfer by delivery or shall be accompanied by duly executed instruments of transfer or assignment in blank, substantially in the form provided in **Exhibit A** attached hereto.
+Pledged Securities are genuine. The Pledged Securities are not subject to any offset or similar right or claim of the issuer thereof.
 
-^**Representations and Warranties**. The Pledgor hereby represents and warrants to the Secured Party as follows:
+^^The Pledgor’s company charter number is 5Z-841.
 
-^^**Enforceability; Creation of Security Interest**. This Agreement has been duly executed and delivered by Pledgor and constitutes the legal, valid and binding obligation of the Pledgor, enforceable against the Pledgor in accordance with its terms, subject to bankruptcy, insolvency, moratorium, reorganization and similar laws of general applicability affecting the rights and remedies of creditors and to general principles of equity, regardless of whether enforcement is sought in proceedings in equity or at law. The security interest created hereby constitutes (i) a legal and valid security interest in the Pledged Collateral owned by the Pledgor securing the payment and performance of the Secured Obligations, and (ii) a first priority and perfected security interest in the Pledged Collateral. The security interest created hereby shall be prior to any lien on the Pledged Collateral, other than liens arising by operation of law and that would be prior in right.
+^Further Assurances. The Pledgor agrees that at any time and from time to time, at the expense of the Pledgor, the Pledgor will promptly execute and deliver all further instruments and documents, and take all further action that may be necessary or that the Bank may reasonably request, in order to perfect and protect the Security Interest or to enable the Bank to exercise and enforce its rights and remedies hereunder with respect to any Collateral (but any failure to request or assure that the Pledgor execute and deliver such instruments or documents or to take such action shall not affect or impair the validity, sufficiency or enforceability of this Agreement and the Security Interest, regardless of whether any such item was or was not executed and delivered or action taken in a similar context or on a prior occasion). Without in any way limiting the generality of the foregoing, the Pledgor hereby authorizes the Bank to file from time to time such financing statements against the Collateral as the Bank deems necessary or useful to perfect the Security Interest.
 
-^^**Ownership and Liens**. The Pledgor is the record and beneficial owner of Blue Fin Shares, and the Blue Fin Shares constitute all of the issued and outstanding capital stock of Blue Fin Capital, Inc. The Pledgor owns the Pledged Collateral, free and clear of all liens, except for the security interest created by this Agreement and the Transaction Documents (as defined in the Investment Agreement). The Pledgor has not executed any other security agreement affecting the Pledged Collateral, and no financing statement or other similar instrument in respect of the Pledged Collateral is in effect or on file in any recording office in any jurisdiction, except pursuant to the Transaction Documents.
+^Voting Rights; Dividends; Etc.
 
-^**Covenants**. The Pledgor shall comply with the covenants contained in this Section 6 at all times during the period of time this Agreement remains in effect unless the Secured Party shall otherwise consent in writing:
+^^Subject to Section 6(d), the Pledgor shall be entitled to exercise or refrain from exercising any and all voting and other consensual rights pertaining to the Pledged Securities or any other securities that become part of the Collateral or any part thereof for any purpose not inconsistent with the terms of this Agreement or the Credit Agreement; provided, however, that the Pledgor shall not exercise or refrain from exercising any such right if such action could reasonably be expected to have a material adverse effect on the value of the Collateral or any material part thereof.
 
-^^**Ownership and Liens**. The Pledgor will maintain good and valid title to the Pledged Collateral, free and clear of all liens, except for the security interest created by this Agreement and the Transaction Documents.
+^^Subject to Section 6(e), the Pledgor shall be entitled to receive, retain, and use in any manner not prohibited by the Credit Agreement any and all distributions or dividends paid in respect of the Collateral; provided, however, that any and all
 
-^^**Adverse Claim**. The Pledgor will promptly notify the Secured Party of any claim, action or proceeding affecting ownership of the Pledged Collateral, or any part thereof, or the security interest created hereunder. The Pledgor will promptly deliver to the Secured Party a copy of all written notices received by the Pledgor with respect to the Pledged Collateral. The Pledgor will defend the Pledged Collateral pledged hereby against, and take such other action as is necessary to remove, any lien or charge on, defect in title to, or other encumbrance on, any of the Pledged Collateral.
+^^^distributions or dividends paid or payable other than in cash in respect of, and instruments and other property received, receivable or otherwise distributed in respect of, or in exchange for, any Collateral,
 
-^^**Further Assurances**. The Pledgor will from time to time at its expense promptly execute and deliver all further instruments and documents and take all further action necessary or appropriate or that the Secured Party may reasonably request in order (i) to perfect and protect the security interest created or purported to be created hereby and the priority of such security interest, (ii) to enable the Secured Party to exercise and enforce its rights and remedies hereunder in respect of the Pledged Collateral, and (iii) to otherwise effect the purposes of this Agreement.
+^^^dividends and other distributions paid or payable in cash in respect of any Collateral in connection with a partial or total liquidation or dissolution or in connection with a reduction of capital, capital surplus or paid-in-surplus, and
 
-^**Transfer or Encumbrance**. The Pledgor will not (i) sell, assign (by operation of law or otherwise), transfer or otherwise dispose of the Pledgor’s rights in any of the Pledged Collateral, or (ii) grant a lien or security interest in or execute, file or record any financing statement or other security instrument with respect to the Pledged Collateral to any party other than the Secured Party.
+^^^cash paid, payable or otherwise distributed in redemption of, or in exchange for, any Collateral,
 
-^**Remedies Upon Foreclosure Event**. If a Foreclosure Event occurs, the Secured Party may exercise any and all the rights, powers and remedies of any owner of the Pledged Collateral (including the right to vote the securities and receive dividends and distributions with respect to such securities) and shall have and may exercise without demand any and all the rights and remedies granted to a secured party upon default under the UCC or otherwise available to the Secured Party under applicable law. Without limiting the foregoing, following a Foreclosure Event, the Secured Party is authorized to sell, assign, convey, transfer and deliver at its discretion, from time to time, all or any part of the Pledged Collateral together with all rights and entitlements appurtenant thereto at any private sale or public auction, on not less than ten (10) days written notice to the Pledgor, at such price or prices and upon such terms as the Secured Party may deem commercially reasonable. The Pledgor shall have no right to redeem the Pledged Collateral after any such sale or assignment. At any such sale or auction, the Pledgor may bid for, and become the purchaser of, the whole or any part of the Pledged Collateral offered for sale. In case of any such sale, after deducting the reasonable costs, attorneys’ fees and other expenses of sale and delivery, the remaining proceeds of such sale shall be applied to the Secured Obligations (first, to the payment in full of all amounts owing under the Investment Agreement, with the balance to the remaining Secured Obligations); **provided** that after payment in full of the indebtedness under the Note and all other Secured Obligations, the balance of the proceeds of sale then remaining shall be paid to the Pledgor, and the Pledgor shall be entitled to any remaining portion of the Pledged Collateral. The Pledgor shall be liable for any deficiency if the remaining proceeds are insufficient to pay the indebtedness under the Note in full and the other Secured Obligations, including the reasonable fees of any attorneys employed by the Secured Party to collect such deficiency. Upon the occurrence and during the continuation of a Foreclosure Event and upon request of the Secured Party, the Pledgor will not exercise any voting rights with respect to the Pledged Collateral.
+shall be, and shall be forthwith delivered to the Bank to hold as, Collateral (for the ratable benefit of the Lenders) and shall, if received by the Pledgor, be received in trust for the benefit of the Bank (for the ratable benefit of the Lenders), be segregated from the other property or funds of the Pledgor, and be forthwith delivered to the Bank as Collateral (for the ratable benefit of the Lenders) in the same form as so received (with any necessary endorsement or assignment). The Pledgor shall, upon request by the Bank, promptly execute all such documents and do all such acts as may be necessary or desirable to give effect to the provisions of this Section 6(b).
 
-^**Waiver of Presentment**. The Pledgor hereby waives, to the fullest extent permitted by applicable law, presentment, notice (other than such notices as are expressly provided for) and demand with respect to breaches of the payment of any of the Secured Obligations.
+^^The Bank shall execute and deliver (or cause to be executed and delivered) to the Pledgor all such proxies and other instruments as the Pledgor may reasonably request for the purpose of enabling the Pledgor to exercise the voting and other rights that the Pledgor is entitled to exercise pursuant to Section 6(a) and to receive the dividends that the Pledgor is authorized to receive and retain pursuant to Section 6(b).
 
-^**Power of Attorney; Performance**. The Pledgor hereby irrevocably appoints the Secured Party as its attorney-in-fact during the term of this Agreement (such power of attorney being coupled with an interest and with full right of substitution) and proxy to exercise any voting rights with respect to the Pledged Collateral, and to take such other actions and exercise such other remedies provided herein, but only upon the occurrence and during the continuation of a Foreclosure Event. If the Pledgor fails to perform any obligation hereunder required to be performed on the part of the Pledgor, the Secured Party may itself perform (or cause the performance of) such obligation, and the reasonable expenses of the Secured Party incurred in connection therewith shall be paid by the Pledgor.
+^^Upon the occurrence and during the continuance of any Event of Default, the Bank shall have the right in its sole discretion, and the Pledgor shall execute and deliver all such proxies and other instruments as may be necessary or appropriate to give effect to such right, to terminate all rights of the Pledgor to exercise or refrain from exercising the voting and other consensual rights that the Pledgor would otherwise be entitled to exercise pursuant to Section 6(a), and all such rights shall thereupon become vested in the Bank (for the ratable benefit of the Lenders) who shall thereupon have the sole right to exercise or refrain from exercising such voting and other consensual rights; provided, however, that the Bank shall not be deemed to possess or have control over any voting rights with respect to any Collateral unless and until the Bank has given written notice to the Pledgor that any further exercise of such voting rights by the Pledgor is prohibited and that the Bank and/or its assigns will henceforth exercise such voting rights; and provided, further, that neither the registration of any item of Collateral in the Bank’s name nor the exercise of any voting rights with respect thereto shall be deemed to constitute a retention by the Bank of any such Collateral in satisfaction of the Obligations or any part thereof.
 
-^**No Assumption of Duties; Reasonable Care**. The rights and powers granted to the Secured Party hereunder are being granted in order to preserve and protect the Secured Party’s security interest in and to the Pledged Collateral granted hereby and will not be interpreted to, and will not, impose any duties on the Secured Party in connection therewith. The Secured Party will be deemed to have exercised reasonable care in the custody and preservation of the Pledged Collateral in its possession if the Pledged Collateral is accorded treatment substantially similar to that which the Secured Party accords its own property.
+^^Upon the occurrence and during the continuance of any Event of Default:
 
-^**Miscellaneous**.  
+^^^all rights of the Pledgor to receive the distributions and dividends that the Pledgor would otherwise be authorized to receive and retain pursuant to Section 6(b) shall cease, and all such rights shall thereupon become vested in the Bank (for the ratable benefit of the Lenders) who shall thereupon have the sole right to receive and hold such distributions and dividends as Collateral, and
 
-^^**Amendment**. No modification, consent or amendment of any provision of this Agreement shall be valid or effective unless the same is in writing and signed by the party against whom it is sought to be enforced.
+^^^all payments of distributions and dividends that are received by the Pledgor contrary to the provisions of paragraph (i) of this Section 6(e) shall be received in trust for the benefit of the Bank (for the ratable benefit of the Lenders), shall be segregated from other funds of the Pledgor and shall be forthwith paid over to the Bank as Collateral (for the ratable benefit of the Lenders) in the same form as so received (with any necessary endorsement).
 
-^^**Waiver by the Secured Party**. The Secured Party may waive any Foreclosure Event without waiving any other subsequent Foreclosure Event. Neither the failure by the Secured Party to exercise, nor the delay by the Secured Party in exercising, any right or remedy upon any Foreclosure Event shall be construed as a waiver of such Foreclosure Event or as a waiver of the right to exercise any such right or remedy at a later date. No single or partial exercise by the Secured Party of any right or remedy hereunder shall exhaust the same or shall preclude any other or further exercise thereof, and every such right or remedy hereunder may be exercised at any time. No waiver of any provision hereof or consent to any departure by the Pledgor therefrom shall be effective unless the same shall be in writing and signed by the Secured Party and then such waiver or consent shall be effective only in the specific instances, for the purpose for which given and to the extent therein specified. No notice to or demand on the Pledgor in any case shall of itself entitle the Pledgor to any other or further notice or demand in similar or other circumstances.
+^Transfers and Other Liens; Additional Securities.
 
-^^**Costs and Expenses**. The Pledgor will, within five (5) days after demand, pay to the Secured Party the amount of any and all reasonable costs and expenses (including, but not limited to, attorneys’ fees and expenses and all costs and expenses of collection and sale of collateral), which the Secured Party may incur after a Foreclosure Event in connection with (i) the exercise or enforcement of any of the rights or remedies of the Secured Party under the Investment Agreement, this Agreement or applicable law, or (ii) the failure by the Pledgor to perform or observe any of the provisions hereof.
+^^The Pledgor agrees that the Pledgor will not (i) sell, assign (by operation of law or otherwise) or otherwise dispose of, or grant any option with respect to, any of the Collateral, or (ii) create or permit to exist any Lien upon or with respect to any of the Collateral.
 
-^^**GOVERNING LAW**. THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED IN SUCH STATE, WITHOUT GIVING EFFECT TO THE CONFLICT OF LAW PRINCIPLES THEREOF, EXCEPT FOR SECTIONS 5-1401 AND 5-4102 OF THE NEW YORK GENERAL OBLIGATIONS LAW.
+^^The Pledgor agrees that the Pledgor will (i) cause each issuer of the Pledged Securities that it controls not to issue any stock or other securities in addition to or in substitution for the Pledged Securities to any Person other than the Pledgor hereunder, and (ii) pledge hereunder, immediately upon the Pledgor’s acquisition (directly or indirectly) thereof, any and all additional securities of each issuer of the Pledged Securities.
 
-^^**Jurisdiction, Etc**.  
-^^^Each of the parties hereto hereby irrevocably and unconditionally submits, for itself and its property, to the nonexclusive jurisdiction of any New York State court or Federal court of the United States of America sitting in New York County, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement, or for recognition or enforcement of any judgment, and each of the parties hereto hereby irrevocably and unconditionally agrees that all claims in respect of any such action or proceeding may be heard and determined in any such New York State court or, to the fullest extent permitted by law, in such Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding, to the extent permitted by law, shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Nothing in this Agreement shall affect any right that any party may otherwise have to bring any action or proceeding relating to this Agreement in the courts of any jurisdiction.
+^Bank Appointed Attorney-in-Fact. The Pledgor hereby appoints the Bank the Pledgor’s attorney-in-fact, with full authority in the place and stead of such Pledgor and in the name of such Pledgor or otherwise, from time to time in the Bank’s discretion, to take any action and to execute any instrument that the Bank may reasonably believe necessary or advisable to accomplish the purposes of this Agreement (subject to the rights of the Pledgor under Section 6), in a manner consistent with the terms hereof, including, without limitation, to receive, indorse and collect all instruments made payable to the Pledgor representing any dividend or other distribution in respect of the Collateral or any part thereof and to give full discharge for the same.
 
-^^^Each of the parties hereto irrevocably and unconditionally waives, to the fullest extent it may legally and effectively do so, any objection that it may now or hereafter have to the laying of venue of any suit, action or proceeding arising out of or relating to this Agreement in any New York State or Federal court. Each of the parties hereto hereby irrevocably waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such court.
+^Bank May Perform. If the Pledgor fails to perform any agreement contained herein, the Bank may itself perform, or cause performance of, such agreement, and the reasonable expenses of the Bank incurred in connection therewith shall be payable by the Pledgor under Section 14.
 
-^^**WAIVER OF JURY TRIAL**. EACH OF THE PLEDGOR AND THE SECURED PARTY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM (WHETHER BASED ON CONTRACT, TORT OR OTHERWISE) ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE ACTIONS OF THE PARTIES IN THE NEGOTIATION, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT THEREOF.
+^The Bank’s Duties. The powers conferred on the Bank hereunder are solely to protect its interest in the Collateral and shall not impose any duty upon it to exercise any such powers. The Bank shall be deemed to have exercised reasonable care in the safekeeping of any Collateral in its possession if such Collateral is accorded treatment substantially equal to the safekeeping which the Bank accords its own property of like kind. Except for the safekeeping of any Collateral in its possession and the accounting for monies and for other properties actually received by it hereunder, the Bank shall have no duty, as to any Collateral, as to ascertaining or taking action with respect to calls, conversions, exchanges, maturities, tenders or other matters relative to any Collateral, whether or not the Bank has or is deemed to have knowledge of such matters, or as to the taking of any necessary steps to preserve rights against any Persons or any other rights pertaining to any Collateral. The Bank will take action in the nature of exchanges, conversions, redemption, tenders and the like requested in writing by the Pledgor with respect to any of the Collateral in the Bank’s possession if the Bank in its reasonable judgment determines that such action will not impair the Security Interest or the value of the Collateral, but a failure of the Bank to comply with any such request shall not of itself be deemed a failure to exercise reasonable care.
 
-^^**Severability**. If any provision of this Agreement is held by a court of competent jurisdiction to be illegal, invalid or unenforceable under present or future laws, such provision shall be fully severable, shall not impair or invalidate the remainder of this Agreement and the effect thereof shall be confined to the provision held to be illegal, invalid or unenforceable
+^Event of Default. The occurrence of any Event of Default, as defined in Section 13.1 of the Credit Agreement, shall constitute an Event of Default hereunder.
 
-^^**Notices**. All notices and other communications provided for hereunder shall be in writing (including telecopy communication confirmed by mail or delivery) and mailed, telecopied, e-mailed or delivered:
+^Remedies upon Default. If any Event of Default shall have occurred and be continuing:
 
-^^^if to the Pledgor, to it at:  
-8921 North Indian Trail Road 
-Number 288 
-Spokane, WA 99208 
-Attention: Bob Jorgensen 
-Telephone: [[Phone 1]] 
-Telecopier: [[Phone 2]] 
-E-mail Address: [[Email 1]] with a copy to:  
-Holland & Hart LLP 
-555 Seventeenth Street 
-Denver, CO 80202 
-Attention: Kevin W. Johnson 
-Telephone: [[Phone 3]] 
-Telecopier: [[Phone 4]] 
-E-mail Address: [[Email 2]]
+^^The Bank may exercise in respect of the Collateral, in addition to other rights and remedies provided for herein or otherwise available to it, all the rights and remedies of a secured party on default under the Uniform Commercial Code of the State of Minnesota (the “Uniform Commercial Code”) in effect at that time (whether or not the Uniform Commercial Code then applies to the affected Collateral), and may, without notice except as specified below, sell the Collateral or any part thereof in one or more parcels at public or private sale, at any exchange, broker’s board or at any of the Bank’s offices or elsewhere, for cash, on credit or for future delivery, and upon such other terms as the Bank may reasonably believe are commercially reasonable. The Pledgor agrees that, to the extent notice of sale shall be required by law, at least ten days’ prior notice to the Pledgor of the time and place of any public sale or the time after which any private sale is to be made shall constitute reasonable notification. The Bank shall not be obligated to make any sale of Collateral regardless of notice of sale having been given. The Bank may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, without further notice, be made at the time and place to which it was so adjourned. The Pledgor hereby waives all requirements of law, if any, relating to the marshalling of assets which would be applicable in connection with the enforcement by the Bank of its remedies hereunder, absent this waiver.
 
-^^^if to the Secured Party, to it at:  
-Carnegie Hall Tower 
-152 West 57th Street 
-New York, NY 10019 
-Attention: David Levy 
-Telephone: [[Phone 5]] 
-Telecopier: [[Phone 6]] 
-E-mail Address: [[Email 3]]  
-with a copy to:  
-Katten Muchin Rosenman LLP 
-575 Madison Avenue 
-New York, NY 10022 
-Attention: Elliot Press 
-Telephone: [[Phone 7]] 
-Telecopier: [[Phone 8]] 
-E-mail address: [[Email 4]]
+^^The Bank may notify any Person obligated on any of the Collateral that the same has been assigned or transferred to the Bank (for the ratable benefit of the Lenders) and that the same should be performed as requested by, or paid directly to, the Bank, as the case may be. The Pledgor shall join in giving such notice, if the Bank so requests. The Bank may, in the Bank’s name or in the Pledgor’s name, demand, sue for, collect or receive any money or property at any time payable or receivable on account of, or securing, any such Collateral or grant any extension to, make any compromise or settlement with or otherwise agree to waive, modify, amend or change the obligation of any such Person.
 
-or, as to any party, at such other telecopy number or address as shall be designated by such party in a written notice to the other parties. All such notices and other communications shall, when mailed, telecopied, e-mailed or delivered, be effective when received or, in the case of delivery by mail, on the fourth (4th) Business Day after such notice or other communication shall have been deposited in the mail, postage prepaid, return receipt requested or, in the case of delivery by overnight express courier, on the Business Day following the Business Day such notice or communication shall have been deposited with such courier service. Delivery by telecopier of an executed counterpart of any amendment or waiver of any provision of this Agreement shall be effective as delivery of an original executed counterpart thereof. Notwithstanding anything to the contrary contained herein, with respect to any notice or communication given by email: (i) such notice or communication sent to an email address shall be deemed received upon the sender’s receipt of an acknowledgment from the intended recipient, such as by the “return receipt requested” function, as available, return email or other written acknowledgment, and (ii) if such notice or communication shall have been given after normal business hours of the recipient, such notice or communication shall be deemed to have been given at the opening of business on the next Business Day for the recipient.
+^^Any cash held by the Bank as Collateral (for the ratable benefit of the Lenders) and all cash proceeds received by the Bank in respect of any sale of, collection from, or other realization upon all or any part of the Collateral may, in the discretion of the Bank, be held by the Bank as Collateral (for the ratable benefit of the Lenders) for, or then or at any time thereafter be applied in whole or in part by the Bank against, all or any part of the Obligations (including any expenses of the Bank payable pursuant to Section 14).
 
-^^**Binding Effect and Assignment**. This Agreement (i) creates a continuing security interest in the Pledged Collateral, (ii) shall be binding on the Pledgor and the successors and permitted assigns of the Pledgor, and (iii) shall inure to the benefit of the Secured Party and any permitted assignee under the Investment Agreement. The Pledgor may not assign or delegate any of its rights or obligations hereunder without the prior written consent of the Secured Party.
+^Waiver of Certain Claims. The Pledgor acknowledges that because of present or future circumstances, a question may arise under the Securities Act of 1933, as from time to time amended (the “Securities Act”), with respect to any disposition of the Collateral permitted hereunder. The Pledgor understands that compliance with the Securities Act may very strictly limit the course of conduct of the Bank if the Bank were to attempt to dispose of all or any portion of the Collateral and may also limit the extent to which or the manner in which any subsequent transferee of the Collateral or any portion thereof may dispose of the same. There may be other legal restrictions or limitations affecting the Bank in any attempt to dispose of all or any portion of the Collateral under the applicable Blue Sky or other securities laws or similar laws analogous in purpose or effect. The Bank may be compelled to resort to one or more private sales to a restricted group of purchasers who will be obligated to agree, among other things, to acquire such Collateral for their own account for investment only and not to engage in a distribution or resale thereof. The Pledgor agrees that the Bank shall not incur any liability, and any liability of the Pledgor for any deficiency shall not be impaired, as a result of the sale of the Collateral or any portion thereof at any such private sale in a manner that the Bank reasonably believes is commercially reasonable (within the meaning of the Uniform Commercial Code). The Pledgor hereby waives any claims against the Bank arising by reason of the fact that the price at which the Collateral may have been sold at such sale was less than the price that might have been obtained at a public sale or was less than the aggregate amount of the Obligations, even if the Bank shall accept the first offer received and does not offer any portion of the Collateral to more than one possible purchaser. The Pledgor further agrees that the Bank has no obligation to delay sale of any Collateral for the period of time necessary to permit the issuer of such Collateral to qualify or register such Collateral for public sale under the Securities Act, applicable Blue Sky laws and other applicable state and federal securities laws, even if the issuer would agree to do so. Without limiting the generality of the foregoing, the provisions of this Section would apply if, for example, the Bank were to place all or any portion of the Collateral for private placement by an investment banking firm, or if such investment banking firm purchased all or any portion of the Collateral for its own account, or if the Bank placed all or any portion of the Collateral privately with a purchaser or purchasers.
 
-^^**Termination**. This Agreement (and the pledge hereunder) shall terminate upon the payment and performance in full in cash of the Secured Obligations. Upon the termination of this Agreement, the Secured Party shall promptly deliver to the Pledgor any certificates or instruments representing the Pledged Collateral delivered to the Secured Party in accordance with Section 4 of this Agreement that have not previously been sold or otherwise applied pursuant to this Agreement.
+^Costs and Expenses; Indemnity. The Pledgor will pay or reimburse the Bank on demand for all out-of-pocket expenses (including in each case all filing and recording fees and taxes and all reasonable fees and expenses of counsel and of any experts and agents) incurred by the Bank in connection with the creation, perfection, protection, satisfaction, foreclosure or enforcement of the Security Interest and the preparation, administration, continuance, amendment or enforcement of this Agreement, and all such costs and expenses shall be part of the Obligations secured by the Security Interest. The Pledgor shall indemnify and hold the Bank harmless from and against any and all claims, losses and liabilities (including reasonable attorneys’ fees) growing out of or resulting from this Agreement (including enforcement of this Agreement) or the Bank’s actions pursuant hereto, except claims, losses or liabilities resulting from the Bank’s gross negligence or willful misconduct as determined by a final judgment of a court of competent jurisdiction. Any liability of the Pledgor to indemnify and hold the Bank harmless pursuant to the preceding sentence shall be part of the Obligations secured by the Security Interest. The obligations of the Pledgor under this Section shall survive any termination of this Agreement.
 
-^^**Gender and Number**. Within this Agreement, words of any gender shall be held and construed to include the other gender, and words in the singular number shall be held and construed to include the plural and words in the plural number shall be held and construed to include the singular, unless in each instance the context requires otherwise.
+^Waivers and Amendments; Remedies. This Agreement can be waived, modified, amended, terminated or discharged, and the Security Interest can be released, only explicitly in a writing signed by the Bank. A waiver so signed shall be effective only in the specific instance and for the specific purpose given. Mere delay or failure to act shall not preclude the exercise or enforcement of any rights and remedies available to the Bank. All rights and remedies of the Bank shall be cumulative and may be exercised singly in any order or sequence, or concurrently, at the Bank’s option, and the exercise or enforcement of any such right or remedy shall neither be a condition to nor bar the exercise or enforcement of any other.
 
-^^**Descriptive Headings**. The headings in this Agreement are for convenience only and shall in no way enlarge, limit or define the scope or meaning of the various and several provisions hereof.
+^Notices. All notices to be given shall be deemed sufficiently given if sent in the same manner as provided in the Credit Agreement.
 
-^^**Construction**. The construction and interpretation of this Agreement shall not take into consideration the party who drafted or whose representatives drafted this Agreement or any portion hereof, and no canon of construction shall be applied that resolves ambiguities against the drafter of a document. The parties hereto are sophisticated parties and have been represented by counsel throughout the negotiation, execution and delivery of this Agreement and have carefully negotiated the provisions hereof. Each of the parties hereto waives, to the fullest extent permitted by applicable law, any statute, rule, regulation or other law that relates to, or provides for, the construction or interpretation of a contract against the drafter of such contract.
+^Pledgor Acknowledgments. The Pledgor hereby acknowledges that (a) the Pledgor has been advised by counsel in the negotiation, execution and delivery of this Agreement, (b) the Bank has no fiduciary relationship to the Pledgor, the relationship being solely that of debtor and creditor, and (c) no joint venture exists between the Pledgor and the Bank.
 
-^^**Counterparts**. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. Delivery of an executed counterpart of a signature page to this Agreement by telecopier shall be effective as delivery of an original executed counterpart of this Agreement.
+^Continuing Security Interest; Assignments under Note. This Agreement shall create a continuing security interest in the Collateral and shall (a) remain in full force and effect until the indefeasible payment in full in cash of the Obligations and the expiration of the obligation, if any, of the Bank and the other Lenders to extend credit accommodations to the Pledgor, (b) be binding upon the Pledgor, and Pledgor’s successors and assigns, and (c) inure, together with the rights and remedies of the Bank hereunder, to the benefit of, and be enforceable by, the Bank and its legal representatives, successors, transferees and assigns. Without limiting the generality of the foregoing clause (c), the Bank may assign or otherwise transfer all or any portion of its rights and obligations under the Credit Agreement to any other Person to the extent and in the manner provided in the Credit Agreement, and may similarly transfer all or any portion of its rights under this Pledge Agreement to such Persons.
 
-\centered **[Signature Page Follows]**
+^Termination of Security Interest. Upon indefeasible payment in full in cash of the Obligations and the expiration of any obligation of the Bank to extend credit accommodations to the Pledgor, the Security Interest granted hereby shall terminate and all rights to the Collateral shall revert to the Pledgor. Upon any such termination, the Bank will return to the Pledgor such of the Collateral as shall not have been sold or otherwise applied pursuant to the terms hereof and execute and deliver to the Pledgor such documents as the Pledgor shall reasonably request to evidence such termination. Any reversion or return of the Collateral upon termination of this Agreement and any instruments of transfer or termination shall be at the expense of the Pledgor and shall be without warranty by, or recourse on, the Bank. As used in this Section, “Pledgor” includes any assigns of Pledgor, any Person holding a subordinate security interest in any part of the Collateral or whoever else may be lawfully entitled to any part of the Collateral.
 
-EXECUTED as of the date first written above.
+^Governing Law and Construction. THE VALIDITY, CONSTRUCTION AND ENFORCEABILITY OF THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF MINNESOTA. Whenever possible, each provision of this Agreement and any other statement, instrument or transaction contemplated hereby or relating hereto shall be interpreted in such manner as to be effective and valid under such applicable law, but, if any provision of this Agreement or any other statement, instrument or transaction contemplated hereby or relating hereto shall be held to be prohibited or invalid under such applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of such provision or the remaining provisions of this Agreement or any other statement, instrument or transaction contemplated hereby or relating hereto.
 
-**PLEDGOR:**
+^Consent to Jurisdiction; Waiver of Jury Trial. AT THE OPTION OF THE BANK, THIS AGREEMENT MAY BE ENFORCED IN ANY FEDERAL COURT OR MINNESOTA STATE COURT SITTING IN HENNEPIN COUNTY, MINNESOTA; AND THE PLEDGOR CONSENTS TO THE JURISDICTION AND VENUE OF ANY SUCH COURT AND WAIVES ANY ARGUMENT THAT VENUE IN SUCH FORUMS IS NOT CONVENIENT. IN THE EVENT THE PLEDGOR COMMENCES ANY ACTION IN ANOTHER JURISDICTION OR VENUE UNDER ANY TORT OR CONTRACT THEORY ARISING DIRECTLY OR INDIRECTLY FROM THE RELATIONSHIP CREATED BY THIS AGREEMENT, THE BANK AT ITS OPTION SHALL BE ENTITLED TO HAVE THE CASE TRANSFERRED TO ONE OF THE JURISDICTIONS AND VENUES ABOVE-DESCRIBED, OR IF SUCH TRANSFER CANNOT BE ACCOMPLISHED UNDER APPLICABLE LAW, TO HAVE SUCH CASE DISMISSED WITHOUT PREJUDICE. **EACH OF THE** **PLEDGOR AND THE BANK IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.**
 
-[[Pledgor]]
+^Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, but all such counterparts together shall constitute but one and the same instrument.
 
-[[Pledgor Signatory Email: Identity | Signature]]
+^General. All representations and warranties contained in this Agreement or in any other agreement between the Pledgor and the Bank shall survive the execution, delivery and performance of this Agreement and the creation and payment of the Obligations. The Pledgor waives notice of the acceptance of this Agreement by the Bank. Captions in this Agreement are for reference and convenience only and shall not affect the interpretation or meaning of any provision of this Agreement.
+
+\centered **(The signature page follows.)**
+
+EACH PLEDGOR has caused this Pledge Agreement to be duly executed and delivered as of the date first above written.
+
+PLEDGOR:
+
+**WINMARK CORPORATION**
+
+[[WINMARK CORPORATION Signatory Email: Identity | Signature]]
 __________________________________________
-{{Pledgor Entity => By: [[Pledgor Signatory First Name]] [[Pledgor Signatory Last Name]]
-Title: [[Pledgor Signatory Title]]}}
+{{WINMARK CORPORATION Entity => By: [[WINMARK CORPORATION Signatory First Name]] [[WINMARK CORPORATION Signatory Last Name]]
+Title: [[WINMARK CORPORATION Signatory Title]]}}
 
 
-**SECURED PARTY:**
+Address for Pledgor:
+605 Highway 169 North
+Suite 400
+[[Address 1: Address]]
+Attention: Chief Financial Officer
 
-[[Secured Party]]**
-
-[[Secured Party Signatory Email: Identity | Signature]]
-__________________________________________
-{{Secured Party Entity => By: [[Secured Party Signatory First Name]] [[Secured Party Signatory Last Name]]
-Title: [[Secured Party Signatory Title]]}}
-
-
-\centered [Signature Page to Pledge Agreement]
-
-\centered **Exhibit A**
-
-\centered to
-
-\centered Pledge Agreement
-
-\centered dated as of [[Date 1]]
-
-\centered in favor of [[Secured Party]]
-
-\centered as Secured Party
-
-\centered **Irrevocable Stock Power**
-
-FOR VALUE RECEIVED, [[Pledgor]], a Nevada corporation, hereby sells, assigns and transfers unto __________________________ [[Shares 1]] shares of Common Stock of Blue Fin Capital, Inc. (the “**Shares**”), standing in its name on the books of Blue Fin Capital, Inc., and does hereby irrevocably constitute and appoint ____________________________ attorney to transfer such Shares on the books of Blue Fin Capital, Inc., with full power of substitution.
-
-Dated: _____________________  
-[[Pledgor]]
-
-[[Pledgor Signatory Email: Identity | Signature]]
-__________________________________________
-{{Pledgor Entity => By: [[Pledgor Signatory First Name]] [[Pledgor Signatory Last Name]]
-Title: [[Pledgor Signatory Title]]}}
+Address for Bank:
+The PrivateBank and Trust Company
+[[Address 2: Address]]
+Attention: Peter Pricco
