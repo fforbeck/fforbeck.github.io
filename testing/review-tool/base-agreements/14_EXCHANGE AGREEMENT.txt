@@ -1,0 +1,211 @@
+\centered **EXCHANGE AGREEMENT** 
+
+This **EXCHANGE AGREEMENT** (this “**Agreement**”) dated as of [[Date 1: Date]], is by and among [[Borrower]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Borrower**”), [[Obligors]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Guarantor**,” and together with the Borrower collectively, the “**Obligors**”), Deerfield Private Design Fund II, L.P. (“**DPDF**”) and Deerfield Private Design International II, L.P. (“**DPDI**” and, together with DPDF, the “**Purchasers**”). Capitalized terms used herein which are defined in the Facility Agreement (as defined below), unless otherwise defined herein, shall have the meanings ascribed to them in the Facility Agreement. 
+
+\centered RECITALS: 
+
+^The Borrower and the Purchasers have entered into that certain Facility Agreement, dated as of [[Date 2: Date]], as amended by the First Amendment to Facility Agreement and Registration Rights Agreement, dated as of [[Date 3: Date]], the Second Amendment to Facility Agreement, dated as of [[Date 4: Date]], the Exchange and Third Amendment to Facility Agreement, dated as of [[Date 5: Date]], the Fourth Amendment to Facility Agreement (the “**Fourth Amendment**”), dated as of [[Date 6: Date]], the Fifth Amendment to Facility Agreement (the “**Fifth Amendment**”), dated as of [[Date 7: Date]], and the Exchange and Sixth Amendment to Facility Agreement (the “**Sixth Amendment**”), dated as of [[Date 8: Date]] (as the same may be further amended, modified, restated or otherwise supplemented from time to time, the “**Facility Agreement**”). 
+
+^The Facility Agreement provides for the issuance of Notes in 4 Tranches of $[[USD Value 1: Number]] per Tranche. Prior to the date hereof, the Purchasers have purchased the Tranche 1 Notes, the Tranche 2 Notes, the Tranche 3 Notes and the Tranche 4 Notes in the aggregate principal amount of $[[USD Value 1]] per Tranche. 
+
+^Prior to the date hereof, (i) the Purchasers have converted $[[USD Value 2: Number]] in principal amount of the Tranche 1 Notes, $[[USD Value 3: Number]] in principal amount of the Tranche 4 Notes and all of the Tranche 2 Notes and the Tranche 3 Notes into Common Stock, (ii) the Tranche 1 Notes have been amended and restated (and are hereinafter referred to as the “**Amended and Restated Notes**”), and (iii) the Borrower has repaid $[[USD Value 4: Number]] in principal amount of the Amended and Restated Notes and (through the exchange of principal for shares of Common Stock) $[[USD Value 5: Number]] in principal amount of the Tranche 4 Notes, leaving $[[USD Value 4]] in principal amount of the Amended and Restated Notes and $[[USD Value 6: Number]] in principal amount of the Tranche 4 Notes outstanding. 
+
+^The Facility Agreement also provides for the issuance of Tranche B Notes. An aggregate of $[[USD Value 2]] in principal amount of Tranche B Notes have been issued to the Purchasers, and the Borrower has repaid $[[USD Value 7: Number]] in principal amount of the Tranche B Notes, leaving $[[USD Value 8: Number]] in principal amount of the Tranche B Notes outstanding. 
+
+^Pursuant to this Agreement (and subject to the terms and conditions hereof), the Borrower shall repay $[[USD Value 7]] in principal amount of the Tranche B Notes through the exchange of such principal amount for shares of Common Stock. 
+
+**NOW, THEREFORE**, in consideration of the foregoing and the mutual covenants and agreements contained herein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound, agree as follows: 
+
+\centered **EXCHANGE** 
+
+^Exchange. Subject to the terms and conditions hereof, each Purchaser hereby agrees to exchange a portion of the principal amount of such Purchaser’s Tranche B Notes for the issuance by the Borrower to such Purchaser of the shares of Common Stock (the “**Exchange**”), as follows: 
+
+^^Issuance of Shares. Pursuant to the Exchange, which shall be deemed effective and consummated on the date hereof (immediately following the execution and delivery of this Agreement of all parties hereto), (i) the Borrower shall issue [[Shares 1: Number]] shares of Common Stock (the “**DPDF Exchange Shares**”) to DPDF and [[Shares 2: Number]] shares of Common Stock (the “**DPDI Exchange Shares**” and, together with the DPDI Exchange Shares, collectively, the “**Exchange Shares**”) to DPDI, and, subject thereto and in exchange therefor, (ii) (A) the principal amount of DPDF’s Tranche B Note shall be deemed repaid by $[[USD Value 9: Number]] and the principal amount of DPDI’s Tranche B Note shall be deemed repaid by $[[USD Value 10: Number]] each such deemed repayment to be applied against, and reduce, the principal amount of each such Purchaser’s Tranche B Note, all with respect to the Tranche B principal payment due [[Date 9: Date]], and shall be reflected by the Borrower in the Register. The Borrower represents, warrants, covenants and agrees that, in reliance on the Purchasers’ representations in Section 3.01(e), the Exchange Shares will be freely transferable by the Purchasers, without restriction or limitation (including any volume limitation) under federal or state securities laws, pursuant to Rule 144 under the Securities Act, and will not contain or be subject to any legend or stop transfer instructions restricting the sale or transferability thereof. 
+
+^^Delivery of Exchange Shares. No later than two (2) Business Days after the date hereof, the Borrower shall cause the transfer agent for the Common Stock to credit the aggregate number of Exchange Shares to which each Purchaser is entitled pursuant to the Exchange to such Purchaser’s or its designee’s balance account with The Depository Trust Company through its Deposit/Withdrawal At Custodian system. For the avoidance of doubt, as of effectiveness of the Exchange, each Purchaser shall be deemed for all corporate purposes to have become the legal and record holder of its Exchange Shares without any further action by any party. In the event that any Exchange Shares are not delivered on a timely basis in accordance herewith, the Purchasers shall have the right to rescind and terminate any or all of this Agreement and the transactions contemplated hereby, to exercise any of the remedies available under the Notes in the event of any failure to timely deliver the Exchange Shares, and/or to exercise any and all other rights and remedies available at law or in equity. 
+
+\centered **REPRESENTATIONS AND WARRANTIES** 
+
+^Representations and Warranties of the Purchasers. Each Purchaser hereby represents and warrants to the Borrower as of the date of this Agreement as follows: 
+
+^^Organization and Good Standing. Such Purchaser is an entity duly incorporated or otherwise organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. 
+
+^^Authority. Such Purchaser has the requisite corporate power and authority to enter into and to consummate the transactions contemplated by this Agreement and otherwise to carry out its obligations hereunder and thereunder. The execution and delivery of this Agreement by such Purchaser and the consummation by it of the transactions contemplated hereby have been duly authorized by all necessary action on the part of such Purchaser and no further action is required in connection herewith or therewith. 
+
+^^Valid and Binding Agreement. This Agreement has been duly executed and delivered by such Purchaser and constitutes the valid and binding obligations of such Purchaser, enforceable against such Purchaser in accordance with its terms, except (i) as limited by general equitable principles and applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other laws of general application affecting enforcement of creditors’ rights generally and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
+
+^^Non-Contravention. The execution and delivery of this Agreement by such Purchaser and the performance by such Purchaser of its obligations hereunder does not and will not (i) violate any provision of such Purchaser’s certificate or articles of incorporation, bylaws or other organizational or charter documents, or (ii) conflict with or result in a violation of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority to which such Purchaser is subject, or by which any of such Purchaser’s Notes is bound or affected. 
+
+^^Exemption. Such Purchaser has held such Purchaser’s Notes of record and beneficially for a period of at least one (1) year for purposes of Rule 144 under the Securities Act and is not, and during the three-month period prior to the date hereof has not been, an Affiliate of the Borrower. Such Purchaser understands that the Exchange Shares are being offered, sold, issued and delivered to it in reliance upon specific exemptions from registration or qualification under federal and applicable state securities laws. 
+
+^^Ownership of the Notes. Such Purchaser is the record and beneficial owner of, and has good and valid title to, such Purchaser’s Notes, free and clear of all Liens, and has full power to dispose thereof and to exercise all rights thereunder (other than as restricted by the Facility Agreement), without the consent or approval of, or any other action on the part of, any other Person. Other than the transactions contemplated by this Agreement, there is no outstanding contract, vote, plan, pending proposal or other right of any Person to acquire such Purchaser’s Notes or any portion thereof. 
+
+^^Stock Ownership. The execution and delivery of this Agreement and the consummation of the transactions contemplated hereby will not cause such Purchaser to own, or be treated as owning under the attribution rules of Section 871(h)(3)(C) of the Code, [[Percentage 1: Number]]% or more of the total combined voting power of the outstanding common stock of the Borrower for purposes of Section 871(h)(3) of the Code. 
+
+^Representations and Warranties of the Obligors. Each Obligor hereby represents and warrants to the Purchasers as of the date of this Agreement as follows: 
+
+^^Organization and Good Standing. Each Obligor is an entity duly incorporated or otherwise organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization, with the requisite power and authority to own and use its properties and assets and to carry on its business as currently conducted. 
+
+^^Authority. Each Obligor has the requisite corporate or limited liability company power and authority, as applicable, to enter into and to consummate the transactions contemplated by this Agreement and otherwise to carry out its obligations hereunder. The execution and delivery of this Agreement by each Obligor and the consummation by it of the transactions contemplated hereby have been duly authorized by all necessary action on the part of each Obligor, and no further action of any Obligor, its board of directors, managers, members or stockholders, as applicable, is required in connection herewith or therewith. 
+
+^^Consents. No Obligor is required to obtain any consent from, authorization or order of, or make any filing or registration with any Governmental Authority or any regulatory or self-regulatory agency or any other Person in order for it to execute, deliver or perform any of its respective obligations under or contemplated by this Agreement or the Transaction Documents, in each case, in accordance with the terms hereof or thereof. 
+
+^^Valid and Binding Agreement. This Agreement has been duly executed and delivered by each Obligor, and this Agreement constitutes the valid and binding obligations of each Obligor, enforceable against each Obligor in accordance with its terms, except (i) as limited by general equitable principles and applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and other laws of general application affecting enforcement of creditors’ rights generally and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies. 
+
+^^Non-Contravention. The execution and delivery of this Agreement by each Obligor and the performance by each Obligor of its obligations hereunder do not and will not (i) violate any provision of any Obligor’s organizational documents, (ii) conflict with or result in a violation of any law, rule, regulation, order, judgment, injunction, decree or other restriction of any court or governmental authority to which any Obligor is subject, or by which any property or asset of any Obligor is bound or affected, (iii) require any permit, authorization, consent, approval, exemption or other action by, notice to or filing with, any court or other federal, state, local or other governmental authority or other Person, (iv) violate, conflict with, result in a material breach of, or constitute (with or without notice or lapse of time or both) a material default under, or an event which would give rise to any right of notice, modification, acceleration, payment, cancellation or termination under, or in any manner release any party thereto from any obligation under, any permit or contract to which any Obligor is a party or by which any of its properties or assets are bound or (v) result in the creation or imposition of any Lien on any part of the properties or assets of any Obligor. No Event of Default exists. 
+
+^^Issuance of Exchange Shares. The Exchange Shares are duly authorized and, when issued in accordance with this Agreement, will be duly and validly issued, fully paid and nonassessable, free and clear of all Liens imposed by the Borrower, and will not be issued in violation of, or subject to, any preemptive or similar rights of any Person. 
+
+^^SEC Reports; NASDAQ. The Borrower has filed all reports, schedules, forms, statements and other documents required to be filed by it under the Securities Act and the Exchange Act, including pursuant to Section 13(a) or 15(d) thereof, for the two years preceding the date hereof (the foregoing materials, including the exhibits thereto and documents incorporated by reference therein, being collectively referred to herein as the “**SEC Reports**”). None of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading. The Borrower is not in violation of the requirements of the NASDAQ Stock Market (“**NASDAQ**”) and has no knowledge of any facts or circumstances which could reasonably lead to delisting or suspension of trading of the Common Stock in the foreseeable future. 
+
+^^Certain Fees. No brokerage or finder’s fees or commissions are or will be payable by the Borrower or any of its affiliates or representatives to any broker, financial advisor or consultant, finder, placement agent, investment banker, bank or other Person with respect to the transactions contemplated by this Agreement. The Purchasers shall have no obligation with respect to any fees or with respect to any claims made by or on behalf of other Persons for fees of a type contemplated in this Section 3.2(h) that may be due in connection with the transactions contemplated hereby. 
+
+^^Exemption from Registration. No registration under the Securities Act or any state securities laws is required for the offer and issuance of the Exchange Shares by the Borrower to the Purchasers as contemplated hereby. The transactions contemplated hereby, including the issuance and sale of the Exchange Shares hereunder, do not contravene, or require stockholder approval pursuant to, the rules and regulations of NASDAQ. 
+
+^^No Integrated Offering. Neither the Borrower, nor any of its affiliates, nor any Person acting on its or their behalf has, directly or indirectly, made, or will make, any offers or sales of any security or solicited, or will solicit, any offers to buy any security, under circumstances that would cause this offering and issuance of the Exchange Shares or the offering and issuance of any of the Conversion Shares (as defined in the Notes) to be integrated with prior offerings by the Borrower (i) for purposes of the Securities Act and which would require the registration of any such securities under the Securities Act, or (ii) for purposes of any applicable stockholder approval provisions of NASDAQ and which would require stockholder approval for the issuance of any Exchange Shares or Conversion Shares. 
+
+\centered **COVENANTS** 
+
+^Blue Sky Filings. The Borrower shall take such action as is necessary in order to obtain an exemption for, or to qualify the Exchange Shares for issuance and sale to the Purchasers under applicable securities or “Blue Sky” laws of the states of the United States, and shall provide evidence of such actions promptly upon request of any of the Purchasers. 
+
+^Listing. To the extent required under the rules of NASDAQ, the Borrower has submitted an application for the listing of the Exchange Shares on NASDAQ and will use its commercially reasonable efforts to secure such listing. For so long as any Notes remain outstanding, the Borrower shall use commercially reasonable efforts to maintain the Common Stock’s listing on NASDAQ. The Borrower shall not take any action which could be reasonably expected to result in the delisting or suspension of trading the Common Stock on NASDAQ. The Borrower shall pay all fees and expenses in connection with satisfying its obligations under this Section 3.02. 
+
+^Disclosure; Confidentiality. On or before 8:00 a.m., New York time, on the date of this Agreement, the Borrower shall file a Current Report on Form 8-K describing all the material terms of the transactions contemplated by this Agreement, attaching this Agreement and disclosing any other presently material non-public information (if any) provided or made available to any Purchaser (or any Purchaser’s agents or representatives) on or prior to the date hereof (the “**8-K Filing**”). From and after the filing of the 8-K Filing, the Borrower shall have disclosed all material, non-public information (if any) provided or made available to any Purchaser (or any Purchaser’s agents or representatives) by Borrower or any of its respective officers, directors, employees, Affiliates or agents in connection with the transactions contemplated by this Agreement or otherwise on or prior to the date hereof. Notwithstanding anything contained in this Agreement to the contrary and without implication that the contrary would otherwise be true, after giving effect to the 8-K Filing, the Borrower expressly acknowledges and agrees that no Purchaser shall have (unless expressly agreed to by a particular Purchaser after the date hereof in a written definitive and binding agreement executed by the Borrower and such particular Purchaser or customary oral (confirmed by e-mail) “wall-cross” agreement (it being understood and agreed that no Purchaser may bind any other Purchaser with respect thereto)), any duty of trust or confidence with respect to, or a duty not to trade on the basis of, any information regarding the Borrower. 
+
+Notwithstanding any affirmative disclosure obligations of the Borrower or the Guarantor pursuant to the terms of this Agreement or any of the other Transaction Documents or anything else to the contrary contained herein or therein, (a), subject to clause (b) below, each of the Borrower and the Guarantor shall not, and shall cause each of its officers, directors, employees, Affiliates and agents to not, provide any Purchaser with any material non-public information with respect to the Borrower from and after the filing of the Form 8-K Filing with the SEC without the express prior written consent of such Purchaser, and (b) in the event that the Borrower or the Guarantor believes that a notice or communication to any Purchaser contains material, nonpublic information with respect to the Borrower, the Borrower shall so indicate to such Purchaser prior to the delivery of such notice or communication, and such indication shall provide such Purchaser the means to refuse to receive such notice or communication (in which case any obligation of the Borrower or the Guarantor to provide such notice to such Purchaser under the Facility Agreement or this Agreement shall be deemed waived), and in the absence of any such indication, such Purchaser shall be allowed to presume that all matters relating to such notice or communication do not constitute material non-public information with respect to the Borrower and shall have no duty of trust or confidence with respect thereto. 
+
+^Taxes. The Borrower shall be responsible for paying all present or future stamp, court or documentary, intangible, recording, filing or similar Taxes that arise from any payment or issuance made under, from the execution, delivery, performance or enforcement of, or otherwise with respect to, this Agreement. 
+
+^Fees and Expenses. The Borrower shall promptly reimburse the Purchasers for all of their reasonable out-of-pocket, costs, fees and expenses, including legal fees and expenses, incurred in connection with the negotiation and drafting of this Agreement and the consummation of the transactions contemplated hereby. 
+
+\centered **ACKNOWLEDMENT OF THE BORROWER AND THE GUARANTOR** 
+
+^The Borrower and the Guarantor irrevocably and unconditionally acknowledge, affirm and covenant to each Purchaser that: 
+
+^^such Purchaser is not in default under any of the Transaction Documents and has not otherwise breached any obligations to the Borrower or the Guarantor; and 
+
+^^there are no offsets, counterclaims or defenses to the Obligations, including the liabilities and obligations of the Borrower under the Notes and other Transaction Documents (as amended hereby), or to the rights, remedies or powers of such Purchaser in respect of any of the Obligations or any of the Transaction Documents, and the Borrower and the Guarantor agree not to interpose (and each does hereby waive and release) any such defense, set-off or counterclaim in any action brought by such Purchaser with respect thereto. 
+
+\centered **CONDITIONS PRECEDENT.** 
+
+^Conditions Precedent. The effectiveness of this Agreement is subject to the following conditions precedent: 
+
+^^Delivery of Documents. The Borrower and the Purchasers shall each have executed and delivered this Agreement. 
+
+^^Performance: No Default. The representations and warranties of the Borrower contained herein shall be true and correct, and the Borrower shall have performed and complied with all agreements and conditions contained in the Facility Agreement and the other Transaction Documents to be performed by or complied with by the Borrower prior to the date hereof in all material respects. 
+
+^^Reimbursement of Expenses. The Borrower shall have reimbursed the Purchasers for all reasonable out-of-pocket costs, fees and expenses, including legal fees and expenses, in connection with the negotiation, execution and closing of this Agreement and the transactions contemplated hereby. 
+
+\centered **MISCELLANEOUS** 
+
+^Entire Agreement. This Agreement and the Transaction Documents (as may be deemed amended hereby) constitute the entire agreement, and supersede all other prior and contemporaneous agreements and understandings, both oral and written, among the Purchasers, the Borrower and the Guarantor with respect to the subject matter hereof. 
+
+^Amendments and Waivers. No provision of this Agreement may be waived or amended except in a written instrument signed by the parties hereto. No waiver of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of either party to exercise any right hereunder in any manner impair the exercise of any such right. 
+
+^Successors and Assigns. All of the covenants and provisions of this Agreement by or for the benefit of the Purchasers or the Obligors shall bind and inure to the benefit of their respective successors and permitted assigns. No party hereunder may assign its rights or obligations hereunder without the prior written consent of the other parties hereto, except as otherwise provided in the Transaction Documents (as amended hereby). 
+
+^Notices. Any notice to be given by any party to this Agreement shall be given in writing and be effected as provided in Section 6.1 of the Facility Agreement. 
+
+^Applicable Law; Consent to Jurisdiction. 
+
+^^As part of the consideration and mutual promises being exchanged and given in connection with this Agreement, the parties hereto agree that all claims, controversies and disputes of any kind or nature arising under or relating in any way to the enforcement or interpretation of this Agreement or to the parties’ dealings, rights or obligations in connection herewith, including disputes relating to the negotiations for, inducements to enter into, or execution of, this Agreement, and disputes concerning the interpretation, enforceability, performance, breach, termination or validity of all or any portion of this Agreement shall be governed by the laws of the State of New York without regard to its choice or conflicts of laws principles. 
+
+^^The parties hereto agree that all claims, controversies and disputes of any kind or nature relating in any way to the enforcement or interpretation of this Agreement or to the parties’ dealings, rights or obligations in connection herewith, shall be brought exclusively in the state and federal courts sitting in The City of New York, borough of Manhattan. With respect to any such claims, controversies or disputes, each of the Parties hereby irrevocably: 
+
+^^^submits itself and its property, generally and unconditionally, to the personal jurisdiction of the aforesaid courts and agrees that it will not bring any action in any court or tribunal other than the aforesaid courts; 
+
+^^^waives, and agrees not to assert, by way of motion, as a defense, counterclaim or otherwise, in any action or proceeding (A) any claim that it is not personally subject to the jurisdiction of the above named courts for any reason other than the failure to serve process in accordance with this Section 6.05, (B) any claim that it or its property is exempt or immune from jurisdiction of any such court or from any legal process commenced in such courts (whether through service of notice, attachment prior to judgment, attachment in aid of execution of judgment, execution of judgment or otherwise) and (C) to the fullest extent permitted by the applicable law, any claim that (1) the suit, action or proceeding in such court is brought in an inconvenient forum, (2) the venue of such suit, action or proceeding is improper or (3) this Agreement, or the subject matter hereof, may not be enforced in or by such courts; and 
+
+^^^WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY DISPUTE ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT. EACH PARTY TO THIS AGREEMENT CERTIFIES AND ACKNOWLEDGES THAT (I) NO REPRESENTATIVE OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT SEEK TO ENFORCE THE FOREGOING WAIVER IN THE EVENT OF A LEGAL ACTION, (II) SUCH PARTY HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (III) SUCH PARTY MAKES THIS WAIVER VOLUNTARILY AND (IV) SUCH PARTY HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 6.05. 
+
+Notwithstanding the foregoing in this Section 6.05, a party may commence any action or proceeding in a court other than the above-named courts solely for the purpose of enforcing an order or judgment issued by one of the above-named courts. 
+
+^Counterparts; Effectiveness. This Agreement and any amendment hereto may be executed and delivered in any number counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original, but all of which taken together shall constitute one and the same agreement. In the event that any signature to this Agreement or any amendment hereto is delivered by facsimile transmission or by e-mail delivery of a “.pdf” format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or “.pdf” signature page were an original thereof. No party hereto shall raise the use of a facsimile machine or e-mail delivery of a “.pdf” format data file to deliver a signature to this Agreement or any amendment hereto or the fact that such signature was transmitted or communicated through the use of a facsimile machine or e-mail delivery of a “.pdf” format data file as a defense to the formation or enforceability of a contract, and each party hereto forever waives any such defense. 
+
+^No Third Party Beneficiaries. Nothing in this Agreement, express or implied, is intended to or shall confer upon any Person (other than the parties to this Agreement) any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement. 
+
+^Specific Performance. The parties to this Agreement agree that irreparable damage would occur and that the parties to this Agreement would not have any adequate remedy at law in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the parties to this Agreement shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement, in each case without the necessity of posting bond or other security or showing actual damages, and this being in addition to any other remedy to which they are entitled at law or in equity. 
+
+^Effect of Headings. The section and subsection headings herein are for convenience only and not part of this Agreement and shall not affect the interpretation thereof. 
+
+^Severability. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement so long as this Agreement as so modified continues to express, without material change, the original intentions of the parties as to the subject matter hereof and the prohibited nature, invalidity or unenforceability of the provision(s) in question does not substantially impair the respective expectations or reciprocal obligations of the parties or the practical realization of the benefits that would otherwise be conferred upon the parties. The parties will endeavor in good faith negotiations to replace the prohibited, invalid or unenforceable provision(s) with a valid provision(s), the effect of which comes as close as possible to that of the prohibited, invalid or unenforceable provision(s). 
+
+^Amendment of Facility Agreement; Avoidance of Doubt. To the extent any provision of this Agreement shall in any manner effect a modification to the terms of the Facility Agreement, this Agreement shall be deemed to constitute an amendment to the Facility Agreement. The parties hereto hereby agree, for the avoidance of doubt, that, (a) the term “Liabilities” and “Obligations” as used in the Transaction Documents shall include all liabilities and obligations under this Agreement, under the Facility Agreement (as amended hereby), under the Notes and under the other Transaction Documents,(b) the Exchange Shares issued hereunder shall not be applied against, reduce or otherwise affect the Conversion Cap (as defined in the Notes), and (c) any future conversion of Principal under the Notes shall continue to be applied to reduce principal payments under the Notes in accordance with Schedule 1.01(b) of the Sixth Amendment, beginning, with respect to any conversions effected following the Exchange, with the Fourth order of application of conversions thereunder, and each of the parties hereto agrees not to take any contrary positions. 
+
+^Reservation of Rights. Neither of the Purchasers has hereby waived (a) any breach, default or Event of Default that may be continuing under any of the Transaction Documents or (b) any of such Purchaser’s rights or remedies arising from any such breach, default or Event of Default or otherwise available under the Transaction Documents or at law or in equity. Each of the Purchasers expressly reserves all such rights and remedies. 
+
+^Further Assurances. The Borrower hereby agrees, from time to time, as and when requested by any Purchaser, to execute and deliver or cause to be executed and delivered, all such documents, instruments and agreements, including secretary’s certificates, stock powers and irrevocable transfer agent instructions, and to take or cause to be taken such further or other action, as any Purchaser may reasonably deem necessary or desirable in order to carry out the intent and purposes of this Agreement and the Transaction Documents (as amended hereby). 
+
+^No Strict Construction. The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction will be applied against any party. 
+
+^Interpretative Matters. Unless otherwise indicated or the context otherwise requires, (i) all references to Sections, Schedules, Appendices or Exhibits are to Sections, Schedules, Appendices or Exhibits contained in or attached to this Agreement, (b) words in the singular or plural include the singular and plural and pronouns stated in either the masculine, the feminine or neuter gender shall include the masculine, feminine and neuter, (c) the words “hereof,” “herein” and words of similar effect shall reference this Agreement in its entirety, and (d) the use of the word “including” in this Agreement shall be by way of example rather than limitation. 
+
+^Reaffirmation. Each of the Borrower and the Guarantor, as issuer, debtor, grantor, pledgor, mortgagor, guarantor or assignor, or in other any other similar capacity in which such Person grants Liens or security interests in its property or otherwise acts as accommodation party or guarantor, as the case may be, hereby (i) acknowledges and agrees that it has reviewed this Agreement, (ii) ratifies and reaffirms all of its obligations, contingent or otherwise, under each of the Transaction Documents (as may be deemed amended hereby) to which it is a party (after giving effect hereto), and (iii) to the extent such Person granted Liens on or security interests in any of its property pursuant to any such Transaction Document as security for or otherwise guaranteed the Obligations under or with respect to the Transaction Documents, ratifies and reaffirms such guarantee and grant of security interests and Liens and confirms and agrees that such security interests and Liens hereafter secure all of the Obligations (as amended hereby). Each Obligor hereby consents to this Agreement and acknowledges that this Agreement is a Transaction Document and that each of the other Transaction Documents (as may be deemed amended hereby) remains in full force and effect and is hereby ratified and reaffirmed. 
+
+\centered *[The remainder of the page is intentionally left blank]* 
+
+**IN WITNESS WHEREOF**, each party hereto has caused this Agreement to be duly executed as of the date first written above. 
+
+**THE BORROWER:**
+
+[[Borrower]]
+
+[[Borrower Signatory Email: Identity | Signature]]
+__________________________________________
+{{Borrower Entity => By: [[Borrower Signatory First Name]] [[Borrower Signatory Last Name]]
+Title: [[Borrower Signatory Title]]}}
+
+
+**THE GUARANTOR:**
+
+[[Obligors]]
+
+[[Obligors Signatory Email: Identity | Signature]]
+__________________________________________
+{{Obligors Entity => By: [[Obligors Signatory First Name]] [[Obligors Signatory Last Name]]
+Title: [[Obligors Signatory Title]]}}
+
+
+\centered [*Signature page to Exchange Agreement*]
+
+**PURCHASERS:**
+
+**DEERFIELD PRIVATE DESIGN FUND II, L.P.**
+
+[[DEERFIELD PRIVATE DESIGN FUND II L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DEERFIELD PRIVATE DESIGN FUND II L.P. Entity => By: [[DEERFIELD PRIVATE DESIGN FUND II L.P. Signatory First Name]] [[DEERFIELD PRIVATE DESIGN FUND II L.P. Signatory Last Name]]
+Title: [[DEERFIELD PRIVATE DESIGN FUND II L.P. Signatory Title]]}}
+
+[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
+
+
+**DEERFIELD PRIVATE DESIGN INTERNATIONAL II, L.P.**
+
+[[DEERFIELD PRIVATE DESIGN INTERNATIONAL II L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{DEERFIELD PRIVATE DESIGN INTERNATIONAL II L.P. Entity => By: [[DEERFIELD PRIVATE DESIGN INTERNATIONAL II L.P. Signatory First Name]] [[DEERFIELD PRIVATE DESIGN INTERNATIONAL II L.P. Signatory Last Name]]
+Title: [[DEERFIELD PRIVATE DESIGN INTERNATIONAL II L.P. Signatory Title]]}}
+
+[[Title Party 7 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 7 Signatory Title}} Entity => By: [[Title Party 7 Signatory Title}} Signatory First Name]] [[Title Party 7 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 7 Signatory Title}} Signatory Title]]}}
+
+
+[[Title Party 8 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 8 Signatory Title}} Entity => By: [[Title Party 8 Signatory Title}} Signatory First Name]] [[Title Party 8 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 8 Signatory Title}} Signatory Title]]}}
+
+
+\centered [*Signature page to Exchange Agreement*]
