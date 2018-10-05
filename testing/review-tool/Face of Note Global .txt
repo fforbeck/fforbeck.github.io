@@ -1,0 +1,194 @@
+\centered [Face of Note] 
+
+\centered *[Global Note Legend]* 
+
+THIS GLOBAL NOTE IS HELD BY THE DEPOSITARY (AS DEFINED IN THE INDENTURE GOVERNING THIS NOTE) OR ITS NOMINEE IN CUSTODY FOR THE BENEFIT OF THE BENEFICIAL OWNERS HEREOF, AND IS NOT TRANSFERABLE TO ANY PERSON UNDER ANY CIRCUMSTANCES EXCEPT THAT (1) THE TRUSTEE MAY MAKE SUCH NOTATIONS HEREON AS MAY BE REQUIRED PURSUANT TO SECTION 2.06 OF THE INDENTURE, (2) THIS GLOBAL NOTE MAY BE EXCHANGED IN WHOLE BUT NOT IN PART PURSUANT TO SECTION 2.06(a) OF THE INDENTURE, (3) THIS GLOBAL NOTE MAY BE DELIVERED TO THE TRUSTEE FOR CANCELLATION PURSUANT TO SECTION 2.11 OF THE INDENTURE AND (4) THIS GLOBAL NOTE MAY BE TRANSFERRED TO A SUCCESSOR DEPOSITARY WITH THE PRIOR WRITTEN CONSENT OF THE COMPANY. 
+
+UNLESS AND UNTIL IT IS EXCHANGED IN WHOLE OR IN PART FOR NOTES IN DEFINITIVE FORM, THIS NOTE MAY NOT BE TRANSFERRED EXCEPT AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY OR BY THE DEPOSITARY OR ANY SUCH NOMINEE TO A SUCCESSOR DEPOSITARY OR A NOMINEE OF SUCH SUCCESSOR DEPOSITARY. UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY (55 WATER STREET, NEW YORK, NEW YORK) (“*DTC*”), TO THE ISSUERS OR THEIR AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR SUCH OTHER NAME AS MAY BE REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR SUCH OTHER ENTITY AS MAY BE REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN. 
+
+\centered *[Private Placement Legend]* 
+
+THE NOTE (OR ITS PREDECESSOR) EVIDENCED HEREBY WAS ORIGINALLY ISSUED IN A TRANSACTION EXEMPT FROM REGISTRATION UNDER SECTION 5 OF THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “**SECURITIES ACT**”), AND THE NOTE EVIDENCED HEREBY MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED IN THE ABSENCE OF SUCH REGISTRATION OR AN APPLICABLE EXEMPTION THEREFROM. EACH PURCHASER OF THE NOTE EVIDENCED HEREBY IS HEREBY NOTIFIED THAT THE SELLER MAY BE RELYING ON THE EXEMPTION FROM THE PROVISIONS OF SECTION 5 OF THE SECURITIES ACT PROVIDED BY RULE 144A THEREUNDER. THE HOLDER OF THE NOTE EVIDENCED HEREBY AGREES FOR THE BENEFIT OF THE COMPANY THAT (A) SUCH SECURITY MAY BE RESOLD, PLEDGED OR OTHERWISE TRANSFERRED, ONLY (1)(a) INSIDE THE UNITED STATES TO A PERSON WHO THE SELLER REASONABLY BELIEVES IS A QUALIFIED INSTITUTIONAL BUYER (AS DEFINED IN RULE 144A UNDER THE SECURITIES ACT) PURCHASING FOR ITS OWN ACCOUNT OR FOR THE ACCOUNT OF A QUALIFIED INSTITUTIONAL BUYER IN A TRANSACTION MEETING THE REQUIREMENTS OF RULE 144A UNDER THE SECURITIES ACT, (b) OUTSIDE THE UNITED STATES TO A FOREIGN PERSON IN A TRANSACTION MEETING THE REQUIREMENTS OF RULE 903 OR RULE 904 OF REGULATION S UNDER THE SECURITIES ACT, (c) PURSUANT TO AN EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT PROVIDED BY RULE 144 THEREUNDER (IF APPLICABLE) OR (d) IN ACCORDANCE WITH ANOTHER EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT (AND BASED UPON AN OPINION OF COUNSEL ACCEPTABLE TO THE COMPANY IF THE COMPANY SO REQUESTS), (2) TO THE COMPANY OR (3) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT AND, IN EACH CASE, IN ACCORDANCE WITH ANY APPLICABLE SECURITIES LAWS OF ANY STATE OF THE UNITED STATES OR ANY OTHER APPLICABLE JURISDICTION AND (B) THE HOLDER WILL, AND EACH SUBSEQUENT HOLDER IS REQUIRED TO, NOTIFY ANY PURCHASER OF THE SECURITY EVIDENCED HEREBY OF THE RESALE RESTRICTIONS SET FORTH IN CLAUSE (A) ABOVE. NO REPRESENTATION CAN BE MADE AS TO THE AVAILABILITY OF THE EXEMPTION PROVIDED BY RULE 144 FOR RESALE OF THE SECURITY EVIDENCED HEREBY. 
+
+CUSIP/ISIN 
+
+\centered [[Percentage 1: Number]]% Senior Notes due 2016 
+
+No.      $
+
+\centered SUSSER HOLDINGS, L.L.C. 
+
+\centered SUSSER FINANCE CORPORATION 
+
+promises to pay to CEDE & CO. or registered assigns, 
+
+the principal sum of DOLLARS on [[Date 1: Date]]. 
+
+Interest Payment Dates: [[Date 2: Date]] and [[Date 3: Date]] 
+
+Record Dates: [[Date 4: Date]] and [[Date 5: Date]] 
+
+Dated: , 2010 
+
+SUSSER HOLDINGS, L.L.C.
+
+[[SUSSER HOLDINGS L.L.C. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SUSSER HOLDINGS L.L.C. Entity => By: [[SUSSER HOLDINGS L.L.C. Signatory First Name]] [[SUSSER HOLDINGS L.L.C. Signatory Last Name]]
+Title: [[SUSSER HOLDINGS L.L.C. Signatory Title]]}}
+
+Name:
+Title:
+
+
+
+[[Title Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Entity => By: [[Title Signatory First Name]] [[Title Signatory Last Name]]
+Title: [[Title Signatory Title]]}}
+
+
+This is one of the Notes referred to in the 
+
+within-mentioned Indenture: 
+
+WELLS FARGO BANK, N.A., as Trustee 
+
+By:
+Authorized Signatory
+
+\centered [Back of Note] 
+
+\centered [[Percentage 1]]% Senior Notes due 2016 
+
+Capitalized terms used herein have the meanings assigned to them in the Indenture referred to below unless otherwise indicated. 
+
+^*Interest*. Susser Holdings, L.L.C., a Delaware limited liability company (the “*Company*”), and Susser Finance Corporation, a Delaware corporation (“*SFC*” and, together with the Company, the “*Issuers*”), promise to pay interest on the principal amount of this Note at [[Percentage 1]]% per annum from [[Date 6: Date]] until maturity and shall pay the Additional Interest, if any, payable pursuant to the Registration Rights Agreement referred to below. The Issuers will pay interest and Additional Interest, if any, semi-annually in arrears on [[Date 2]] and [[Date 3]] of each year, or if any such day is not a Business Day, on the next succeeding Business Day (each, an “*Interest Payment Date*”). Interest on the Notes will accrue from the most recent date to which interest has been paid or, if no interest has been paid, from the date of issuance; *provided* that if there is no existing Default in the payment of interest, and if this Note is authenticated between a record date referred to on the face hereof and the next succeeding Interest Payment Date, interest shall accrue from such next succeeding Interest Payment Date; *provided further* that the first Interest Payment Date shall be [[Date 7: Date]]. The Issuers will pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue principal and premium, if any, from time to time on demand at a rate that is equal to the rate then in effect; they will pay interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue installments of interest and Additional Interest, if any, (without regard to any applicable grace periods) from time to time on demand at the same rate to the extent lawful. Interest will be computed on the basis of a 360-day year of twelve 30-day months. 
+
+^*Method of Payment*. The Issuers will pay interest on the Notes (except defaulted interest) and Additional Interest, if any, to the Persons who are registered Holders at the close of business on the [[Date 4]] or [[Date 5]] next preceding the Interest Payment Date, even if such Notes are canceled after such record date and on or before such Interest Payment Date, except as provided in Section 2.12 of the Indenture with respect to defaulted interest. The Notes will be payable as to principal, premium and Additional Interest, if any, and interest at the office or agency of the Issuers maintained for such purpose within or without the City and State of New York, or, at the option of the Issuers, payment of interest and Additional Interest, if any, may be made by check mailed to the Holders at their addresses set forth in the register of Holders; *provided* that payment by wire transfer of immediately available funds will be made with respect to principal of and interest, premium and Additional Interest, if any, on all 
+
+Global Notes and all other Notes the Holders of which will have provided wire transfer instructions to the Company or the Paying Agent. Such payment will be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts. 
+
+^*Paying Agent and Registrar*. Initially, Wells Fargo Bank, N.A., the Trustee under the Indenture, will act as Paying Agent and Registrar. The Issuers may change any Paying Agent or Registrar without notice to any Holder. The Company or any of its Subsidiaries may act in any such capacity. 
+
+^*Indenture*. The Issuers issued the Notes under an Indenture dated as of [[Date 6]] (the “*Indenture*”) among the Issuers, the Guarantors and the Trustee. The terms of the Notes include those stated in the Indenture and those made part of the Indenture by reference to the TIA (15 U.S. Code §§ 77aaa-77bbbb). The Notes are subject to all such terms, and Holders are referred to the Indenture and such Act for a statement of such terms. To the extent any provision of this Note conflicts with the express provisions of the Indenture, the provisions of the Indenture shall govern and be controlling. 
+
+^*Optional Redemption*. 
+
+^^At any time prior to [[Date 8: Date]], the Issuers may on any one or more occasions redeem up to [[Percentage 2: Number]]% of the aggregate principal amount of Notes issued under the Indenture at a redemption price of [[Percentage 3: Number]]% of the principal amount, plus accrued and unpaid interest and Additional Interest, if any, to the redemption date, with the net cash proceeds of a Public Equity Offering of the Company or a contribution to the Company’s or a Restricted Subsidiary’s common equity capital made with the net cash proceeds of a Public Equity Offering of any other direct or indirect parent of the Company; *provided* that: 
+
+^at least [[Percentage 4: Number]]% of the aggregate principal amount of Notes issued under this Indenture (excluding Notes held by the Company and its Subsidiaries) remains outstanding immediately after the occurrence of such redemption; and 
+
+^the redemption occurs within 90 days of the date of the closing of such sale of Equity Interests. 
+
+^^The Notes may be redeemed, in whole or in part, at any time prior to [[Date 8]] at the option of the Issuers, upon not less than 30 nor more than 60 days’ notice (prior notice mailed by first-class mail to each Holder’s registered address) at the redemption price equal to [[Percentage 5: Number]]% of the 
+
+principal amount of the Notes redeemed plus the Applicable Premium as of, and accrued and unpaid interest and Additional Interest, if any, to the applicable redemption date (subject to the right of the Holders of record on the relevant record date to receive interest due on the relevant interest payment date). 
+
+^^Except pursuant to subparagraphs (a) and (b) above, the Notes will not be redeemable at the Issuers’ option prior to [[Date 8]]. On or after [[Date 8]], the Issuers may redeem all or a part of the Notes upon not less than 30 nor more than 60 days’ notice, at the redemption prices (expressed as percentages of principal amount) set forth below plus accrued and unpaid interest and Additional Interest, if any, on the Notes redeemed, to the applicable redemption date, if redeemed during the twelve-month period beginning on [[Date 2]] of the years indicated below, subject to the rights of Holders on the relevant record date to receive interest on an interest payment date that is prior to the applicable redemption date: 
+
+**Year**      **Percentage**
+
+^^%
+
+^^%
+2015 and thereafter      100.000   %
+
+Unless the Issuers default in the payment of the redemption price, interest will cease to accrue on the Notes or portions thereof called for redemption on the applicable redemption date. 
+
+^*Mandatory Redemption*. The Issuers will not be required to make mandatory redemption payments with respect to the Notes. 
+
+^*Repurchase at the Option Of Holder*. 
+
+^^If a Change of Control occurs, each Holder will have the right to require the Issuers to repurchase all or any part (equal to $[[USD Value 1: Number]] or an integral multiple of $[[USD Value 2: Number]] in excess thereof) of that Holder’s Notes (a “*Change of Control Offer*”) at a purchase price (the “*Change of Control Payment*”) equal to [[Percentage 6: Number]]% of the aggregate principal amount thereof plus accrued and unpaid interest and Additional Interest, if any, on the Notes repurchased, if any, to the date of purchase, subject to the rights of Holders on the relevant record date to receive interest due on an interest payment date that is prior to the purchase date. Within ten days following any Change of Control, the Issuers will mail a notice to each Holder setting forth the procedures governing the Change of Control Offer as required by the Indenture. 
+
+^^If the Company or a Restricted Subsidiary of the Company consummates any Asset Sales, once the aggregate amount of Excess Proceeds exceeds $10.0 million, the Issuers will commence an offer to all Holders pursuant to Section 3.09 of the Indenture to purchase the maximum principal amount of Notes (including any Additional Notes) that may be purchased out of the Excess Proceeds at an offer price in cash in an amount equal to [[Percentage 5]]% of the principal amount thereof plus accrued and unpaid interest and Additional Interest thereon, if any, to the date of purchase, in accordance with the procedures set forth in the Indenture. If any Excess Proceeds remain after consummation of an Asset Sale Offer, the Issuers may use those Excess Proceeds for any purpose not otherwise prohibited by the Indenture. If the aggregate principal amount of Notes tendered into such Asset Sale Offer exceeds the amount of Excess Proceeds, the Trustee will select the Notes to be purchased on a *pro rata* basis. Holders that are the subject of an offer to purchase will receive an Asset Sale Offer from the Issuers prior to any related purchase date and may elect to have such Notes purchased by completing the form entitled “Option of Holder to Elect Purchase” attached to the Notes. 
+
+^*Notice of Redemption*. Notice of redemption will be mailed at least 30 days but not more than 60 days before the redemption date to each Holder whose Notes are to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a redemption date if the notice is issued in connection with a defeasance of the Notes or a satisfaction or discharge of the Indenture. Notes in denominations larger than $[[USD Value 1]] may be redeemed in part but only in whole multiples of $[[USD Value 3: Number]] unless all of the Notes held by a Holder are to be redeemed. On and after the redemption date interest ceases to accrue on Notes or portions thereof called for redemption. 
+
+^*Denominations, Transfer, Exchange*. The Notes are in registered form without coupons in denominations of $[[USD Value 1]] and integral multiples of $[[USD Value 2]] in excess thereof. The transfer of Notes may be registered and Notes may be exchanged as provided in the Indenture. The Registrar and the Trustee may require a Holder, among other things, to furnish appropriate endorsements and transfer documents and the Issuers may require a Holder to pay any taxes and fees required by law or permitted by the Indenture. The Issuers need not exchange or register the transfer of any Note or portion of a Note selected for redemption, except for the unredeemed portion of any Note being redeemed in part. Also, the Issuers need not exchange or register the transfer of any Notes (i) for a period of 15 days before a selection of Notes to be redeemed or during the period between a record date and the corresponding Interest Payment Date, or (ii) during a period beginning at the opening of business 15 days before any Interest Payment Date and ending at the close of business on such Interest Payment Date. 
+
+^*Persons Deemed Owners*. The registered Holder of a Note may be treated as its owner for all purposes. 
+
+^*Amendment, Supplement and Waiver*. Subject to certain exceptions, the Indenture, the Note Guarantees or the Notes may be amended or supplemented with the consent of the Holders of at least a majority in principal amount of the then outstanding Notes and Additional Notes, if any, voting as a single class, and any existing Default or Event of Default or compliance with any provision of the Indenture, the Note Guarantees or the Notes may be waived with the consent of the Holders of a majority in principal amount of the then outstanding Notes and Additional Notes, if any, voting as a single class. Without the consent of any Holder of a Note, the Indenture, the Note Guarantees or the Notes may be amended or supplemented to cure any ambiguity, defect or inconsistency, to provide for uncertificated Notes in addition to or in place of certificated Notes, to provide for the assumption of an Issuer’s or any Guarantor’s obligations to Holders of the Notes and Note Guarantees in the case of a merger or consolidation or sale of all or substantially all of such Issuer’s or such Guarantor’s assets, as applicable, to make any change that would provide any additional rights or benefits to the Holders of the Notes or that does not adversely affect the rights under the Indenture or under the Intercreditor Agreement of any such Holder, to comply with the requirements of the SEC in order to effect or maintain the qualification of the Indenture under the TIA, to conform the text of the Indenture, the Notes or the Note Guarantees to any provision of the “Description of Notes” section of the Issuers’ Offering Memorandum dated [[Date 9: Date]], relating to the initial offering of the Notes, to the extent that such provision in that “Description of Notes” was intended to be a verbatim recitation of a provision of the Indenture, the Notes or the Note Guarantees, to provide for the Issuance of Additional Notes in accordance with the limitations set forth in the Indenture or to allow any Guarantor to execute a supplemental indenture to the Indenture and/or a Note Guarantee with respect to the Notes. 
+
+^*Defaults and Remedies*. Each of the following is an Event of Default: (i) the Issuers default for 30 days in the payment when due of interest on, or Additional Interest, if any, with respect to, the Notes; (ii) the Issuers default in the payment when due (at maturity, upon redemption or otherwise) of the principal of, or premium, if any, on the Notes; (iii) the Company or any of its Restricted Subsidiaries fails to comply with the provisions of Sections 4.10, 4.15 or 5.01 of the Indenture; (iv) the Company or any of its Restricted Subsidiaries fails to observe or perform any other covenant or other agreement in the Indenture or the Notes for 60 
+
+days after written notice to the Company by the Trustee or the Holders of at least [[Percentage 7: Number]]% in aggregate principal amount of the Notes then outstanding voting as a single class; (v) a default occurs under any mortgage, indenture or instrument under which there may be issued or by which there may be secured or evidenced any Indebtedness for money borrowed by the Company or any of its Restricted Subsidiaries (or the payment of which is guaranteed by the Company or any of its Restricted Subsidiaries), whether such Indebtedness or guarantee exists as of, or is created after, the Issue Date, if that default results in the acceleration of such Indebtedness prior to its express maturity, and the principal amount of any such Indebtedness, together with the principal amount of any other such Indebtedness under which there has been a Payment Default or the maturity of which has been so accelerated, aggregates $15.0 million or more; (vi) failure by the Company or any of its Restricted Subsidiaries to pay final and non-appealable judgments entered by a court or courts of competent jurisdiction aggregating in excess of $15.0 million, which judgments are not paid, discharged or stayed for a period of 60 days; (vii) except as permitted by the Indenture, any Note Guarantee is held in any judicial proceeding to be unenforceable or invalid or shall cease for any reason to be in full force and effect or any Guarantor, or any Person acting on behalf of any Guarantor, shall deny or disaffirm its obligations under its Note Guarantee; and (viii) certain events of bankruptcy or insolvency with respect to the Company or any of its Restricted Subsidiaries that is a Significant Subsidiary or any group of Restricted Subsidiaries that, when taken together, would constitute a Significant Subsidiary. If any Event of Default occurs and is continuing, the Trustee or the Holders of at least [[Percentage 7]]% in principal amount of the then outstanding Notes may declare all the Notes to be due and payable. Notwithstanding the foregoing, in the case of an Event of Default arising from certain events of bankruptcy or insolvency, all outstanding Notes will become due and payable without further action or notice. Holders may not enforce the Indenture or the Notes except as provided in the Indenture. In the event of a declaration of acceleration of the Notes because an Event of Default has occurred and is continuing as a result of the acceleration of any Indebtedness described in clause (5) of Section 6.01 of the Indenture, the declaration of acceleration of the Notes shall be automatically annulled if the holders of any Indebtedness described in clause (5) of Section 6.01 of the Indenture have rescinded the declaration of acceleration in respect of such Indebtedness within 30 days of the date of such declaration and if (a) the annulment of the acceleration of the Notes would not conflict with any judgment or decree of a court of competent jurisdiction and (b) all existing Events of Default, except nonpayment of principal or interest on the Notes that became due solely because of the acceleration of the Notes, have been cured or waived. Subject to certain limitations, Holders of a majority in principal amount of the then outstanding Notes may direct the Trustee in 
+
+its exercise of any trust or power. The Trustee may withhold from Holders of the Notes notice of any continuing Default or Event of Default (except a Default or Event of Default relating to the payment of principal or interest) if it determines that withholding notice is in their interest. The Holders of a majority in aggregate principal amount of the Notes then outstanding by notice to the Trustee may on behalf of the Holders of all of the Notes waive any existing Default or Event of Default and its consequences under the Indenture except a continuing Default or Event of Default in the payment of interest or premium or Additional Interest, if any, on, or the principal of, the Notes; *provided*, *however*, that the Holders of a majority in aggregate principal amount of the then outstanding Notes may rescind an acceleration and its consequences, including any related payment default that resulted in such acceleration. The Issuers are required to deliver to the Trustee annually a statement regarding compliance with the Indenture, and the Issuers are required, upon becoming aware of any Default or Event of Default, to deliver to the Trustee a statement specifying such Default or Event of Default. 
+
+^*Trustee Dealings with Issuers*. The Trustee, in its individual or any other capacity, may make loans to, accept deposits from, and perform services for the Issuers or its Affiliates, and may otherwise deal with the Issuers or their Affiliates, as if it were not the Trustee. 
+
+^*No Recourse Against Others*. A director, officer, employee, incorporator or stockholder, of the Issuers or any of the Guarantors, as such, will not have any liability for any obligations of the Company or such Guarantor under the Notes, the Note Guarantees or the Indenture or for any claim based on, in respect of, or by reason of, such obligations or their creation. Each Holder by accepting a Note waives and releases all such liability. The waiver and release are part of the consideration for the issuance of the Notes. 
+
+^*Authentication*. This Note will not be valid until authenticated by the manual signature of the Trustee or an authenticating agent. 
+
+^*Abbreviations*. Customary abbreviations may be used in the name of a Holder or an assignee, such as: TEN COM (= tenants in common), TEN ENT (= tenants by the entireties), JT TEN (= joint tenants with right of survivorship and not as tenants in common), CUST (= Custodian), and U/G/M/A (= Uniform Gifts to Minors Act). 
+
+^*Additional Rights of Holders of Restricted Global Notes and Restricted Definitive Notes*. In addition to the rights provided to Holders under the Indenture, Holders of Restricted Global Notes and Restricted Definitive Notes will have all the rights set forth in the Registration Rights Agreement dated as of [[Date 6]], between the Issuers and the other 
+
+parties named on the signature pages thereof or, in the case of Additional Notes, Holders of Restricted Global Notes and Restricted Definitive Notes will have the rights set forth in one or more registration rights agreements, if any, between the Issuers and the other parties thereto, relating to rights given by the Issuers to the purchasers of any Additional Notes (collectively, the “*Registration Rights Agreement*”). 
+
+^*CUSIP Numbers*. Pursuant to a recommendation promulgated by the Committee on Uniform Security Identification Procedures, the Issuers have caused CUSIP numbers to be printed on the Notes and the Trustee may use CUSIP numbers in notices of redemption as a convenience to Holders. No representation is made as to the accuracy of such numbers either as printed on the Notes or as contained in any notice of redemption and reliance may be placed only on the other identification numbers placed thereon. 
+
+^*GOVERNING LAW*. THIS NOTE SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK. 
+
+The Issuers will furnish to any Holder upon written request and without charge a copy of the Indenture and/or the Registration Rights Agreement. Requests may be made to: 
+
+Susser Holdings, L.L.C. 
+
+[[Address 1: Address]] 
+
+\centered ASSIGNMENT FORM 
+
+To assign this Note, fill in the form below: 
+
+^or (we) assign and transfer this Note to:
+(Insert assignee’s legal name)
+
+\centered (Insert assignee’s soc. sec. or tax I.D. no.) 
+
+\centered (Print or type assignee’s name, address and zip code) 
+
+and irrevocably appoint 
+
+to transfer this Note on the books of the Issuers. The agent may substitute another to act for him. 
+
+Date: 
+
+Your Signature:
+(Sign exactly as your name  appears on the face of this Note)
+
+Signature Guarantee*: 
+
+*   Participant in a recognized Signature Guarantee Medallion Program (or other signature guarantor acceptable to the Trustee).
+
+\centered OPTION OF HOLDER TO ELECT PURCHASE 
+
+If you want to elect to have this Note purchased by the Issuers pursuant to Section 4.10 or 4.15 of the Indenture, check the appropriate box below: 
+
+\centered ¨ Section 4.10 ¨ Section 4.15 
+
+If you want to elect to have only part of the Note purchased by the Issuers pursuant to Section 4.10 or Section 4.15 of the Indenture, state the amount you elect to have purchased: 
+
+$ 
+
+Date: 
+
+Your Signature:
+(Sign exactly as your name  appears on the face of this Note)
+
+Tax Identification No.:
+
+Signature Guarantee*: 
+
+*   Participant in a recognized Signature Guarantee Medallion Program (or other signature guarantor acceptable to the Trustee).
+
+\centered SCHEDULE OF EXCHANGES OF INTERESTS IN THE GLOBAL NOTE* 
+
+The following exchanges of a part of this Global Note for an interest in another Global Note or for a Definitive Note, or exchanges of a part of another Global Note or Definitive Note for an interest in this Global Note, have been made: 
+
+**Date of Exchange**      \centered **Amount of**   \centered **decrease in**   \centered **Principal Amount**   \centered **of this Global**   \centered **Note**      \centered **Amount of**   \centered **increase in**   \centered **Principal Amount**   \centered **of this Global**   \centered **Note**      \centered **Principal Amount**   \centered **of this Global**   \centered **Note following**   \centered **such decrease**   \centered **(or increase)**      \centered **Signature of**   \centered **authorized officer**   \centered **of Trustee or**   \centered **Custodian**
+
+*   This schedule should be included only if the Note is issued in global form.

@@ -1,1036 +1,404 @@
 \centered **FIRST AMENDED AND RESTATED**
 
-\centered B Y E - L A W S of ASSURED GUARANTY LTD.
+\centered **ENGLOBAL CORPORATION**
 
-\centered **As adopted on [[Date 1: Date]]**
+\centered **INCENTIVE BONUS PLAN**
 
-\centered **TABLE OF CONTENTS**
+\centered SECTION I
 
-\centered **Page**
+\centered **PURPOSE**
 
-INTERPRETATION  
+ENGlobal Corporation, a Nevada corporation (the “**Corporation**”), adopted an Incentive Bonus Plan effective as of [[Date 1: Date]], to promote and advance the interests of the Corporation and its stockholders by enabling the Corporation and its Affiliates to attract, retain and reward certain valued employees (the “**Participants**”). The Corporation hereby adopts this First Amended and Restated Incentive Bonus Plan (this "**Plan**"), effective as of [[Date 2: Date]], in order, among other matters, to provide more flexibility to the Corporation in the design of bonuses granted under this Plan.
 
-^Interpretation  
+\centered SECTION II
 
-BOARD OF DIRECTORS  
+\centered **DEFINITIONS**
 
-^Board of Directors  
+Capitalized terms in this Plan shall have the following meanings:
 
-^Management of Company  
+^“**Achievement Percentages**” means (i) the Threshold Percentage, the Target Percentage and the High Performance Percentage; or (ii) any other percentage measure by which the amount of a Bonus may be determined.
 
-^Power to Appoint Managing Director or Chief Executive Officer  
+^“**Affiliate**” means any company controlled by, controlling or under common control with the Corporation.
 
-^Power to Appoint Manager  
+^“**Base Salary**” means [[Percentage 1: Number]]% of the Participant’s annual salary at the beginning of the Performance Period without inclusion of earn-outs, bonuses granted outside of this Plan, stock options or other equity incentives, or any other forms of compensation.
 
-^Power to Authorize Specific Actions  
+^“**Bonus**” means an amount awarded to an individual Participant and payable by the Corporation, subject to the terms and conditions of this Plan.
 
-^Power to Appoint Attorney  
+^“**Bonus Measures**” means (i) the Metrics Hurdles and Metrics Weighting applicable to any particular Participant or group of Participants; or (ii) any other measures established in accordance with the terms of this Plan.
 
-^Power to Delegate  
+^“**Bonus Calculation Statement**” means the information provided in writing to any Participant or group of Participants setting forth, for each Performance Period, the Bonus Measures, Achievement Percentages or other information applicable to the Participant entitled to the Bonus, either in the form of **Appendix A, B or C,** or in any other form as may be appropriate.
 
-^Power to Appoint and Dismiss Employees  
+^“**Change of Control**” means (i) a sale of substantially all of the assets of the Corporation to a person or entity that is not an Affiliate of the Corporation; (ii) any sale in a single transaction or in a series of related and substantially similar contemporaneous transactions of the issued and outstanding securities of the Corporation representing [[Percentage 1]]% or more of the total
 
-^Power to Borrow and Charge Property  
+First Amended & Restated Incentive Bonus Plan 
 
-^Exercise of Power to Purchase Shares of or Discontinue the Company  
+Austin_1 592601v4 47080-9 
 
-^Board Size; Classes of Directors  
+number of shares of the Corporation then outstanding to any person or entity that is not an Affiliate of the selling stockholders; or (iii) any merger, consolidation or reorganization of the Corporation with or into one or more entities that are not Affiliates of the Corporation, as a result of which less than [[Percentage 1]]% of the outstanding voting securities, partnership interests or membership interests of the surviving or resulting entity are owned by the holders of the Corporation’s securities (or their Affiliates) immediately prior to such merger, consolidation or reorganization. A "Change of Control" also includes any for the foregoing events with respect to an Affiliate, but only if the Participant will no longer be employed by the Corporation or any of its Affiliates following the Affiliate's Change of Control. However, the issuance of secu rities by the Corporation or by an Affiliate in an acquisition by the Corporation or by any of its Affiliates of another business shall not constitute a Change of Control.
 
-^Defects in Appointment Of Directors  
+^“**Code**” means the Internal Revenue Code of 1986, as amended, and the regulations under the Code.
 
-^Shareholder Proposals and Nominations  
+^“**Committee**” means the Compensation Committee of the Board of Directors. The Committee shall be comprised of not less than the number of directors required to satisfy the requirements of Code Section 162(m), the Securities Act of 1933, and the rules and regulations of NASDAQ or any exchange on which the Corporation’s shares may be traded. In addition, the Committee shall be composed solely of “outside directors” within the meaning of Code Section 162(m).
 
-^Removal of Directors  
+^“**High Performance Percentage**” means the percentage used in the calculation of a Participant’s Bonus if the high performance Metrics Hurdles set forth in the applicable Bonus Calculation Statement are met.
 
-^Other Vacancies on the Board  
+^“**Maximum Percentage**” means the highest percentage of a Participant’s Base Salary payable to the Participant as a Bonus.
 
-^Notice of Meetings of the Board  
+^“**Metrics**” means the criteria against which the Committee or the Chief Executive Officer, as applicable, decides to measure performance. Without limitation, the Metrics may include:
 
-^Quorum at Meetings of the Board  
+^**Consolidated Earnings Per Share** – Consolidated Earnings per Share shall be determined in accordance with the reviewed or, if available, the audited consolidated financial statements for the applicable Performance Period.
 
-^Meetings of the Board  
+^**Segment Profit Contribution ("Contribution")** – Earnings of a Segment after depreciation and amortization but before allocation of bonuses under this Plan, corporate overhead, interest and taxes, determined in accordance with the reviewed or, if available, the audited consolidated financial statements for the applicable Performance Period. Contribution may also be calculated and utilized as a Metric for business units within a Segment. Contribution will not apply as a Metric for Participants serving in Corporate functions.
 
-^Unanimous Written Resolutions  
+^**Safety** - The Total Recordable Incidents per 200,000 hours worked (“TRIR”) (as defined by the United States Department of Labor’s Occupational Health and Safety Administration) during the applicable Performance Period. Any lost time or days away from work cases that occur within a Segment or its business unit will result in that Segment or business unit failing to meet the threshold level for Safety for the Performance Period. Any fatality that occurs within the Corporation and its Affilia tes will result in all Participants failing to meet the threshold level for Safety for the Performance Period.
 
-^Contracts and Disclosure of Directors’ Interests  
+First Amended & Restated Incentive Bonus Plan 
 
-^Remuneration of Directors  
+Austin_1 592601v4 47080-9 
 
-OFFICERS  
+Page 2    
 
-^Officers of the Company  
+^**Days Sales Outstanding (“DSO”**) - The number of days within which the Corporation or the applicable Segment or business unit collects amounts due for work performed on average, whether or not the customer has received an invoice, as computed by the Corporation in accordance with its standard accounting practice. Month ending DSO’s for the six months of each Performance Period will be mathematically averaged to arrive at the DSO value to be utilized in the Bonus calculation.
 
-^Appointment of Officers  
+^**Gross Profit Increase ("GPI")** – The amount of the increase in Gross Profit produced during the Performance Period by the applicable Segment, division or other designated group as compared to gross profits in the same prior-year period.
 
-^Remuneration of Officers  
+^**Gross Profit (“GP”)** – The amount of Gross Profit produced during the Performance Period by the applicable Segment, division or other designated group.
 
-^Duties of Officers  
+Metrics which are based on financial performance shall be adjusted as appropriate, in the opinion of the Committee or the Chief Executive Officer, as applicable, to account for any change in the accounting principles used by the Corporation.
 
-^Chairman of Meetings  
+^“**Metrics Hurdles**” means the assigned threshold, target and high performance criteria that correspond with each Metric against which performance may be measured.
 
-\centered -i-
+^“**Metrics Weighting**” means the percentage allocation of a Participant’s potential Bonus among Metrics (e.g., Net Income, Safety, or other Metrics that may be established pursuant to this Plan).
 
-^Register of Directors and Officers  
+^“**Payout**” means the actual payment of a Bonus earned by a Participant.
 
-MINUTES  
+^“**Performance Period**” means the period from [[Date 3: Date]] of each year to [[Date 4: Date]] of that year, and the period from [[Date 5: Date]] of each year to [[Date 6: Date]] of that year, or any other period specified by the Committee during which the Metrics are to be measured.
 
-^Obligations of Board to Keep Minutes  
+^“**Required Payment Date**” means the date on which a Payout is required to be made, as provided in Section IV.8.B.
 
-INDEMNITY  
+^“**Segment**” means one of the four operating segments designated by the Corporation for financial and SEC reporting purposes, as modified from time to time by the Corporation.
 
-^Indemnification and Exculpation of Directors of the Company and Others  
+^“**Senior Management Team**” means the Chief Executive Officer, the Chief Operating Officer, if any, the Chief Financial Officer, the Chief Governance Officer, any Segment President, and any Senior Vice-President of the Corporation.
 
-^Waiver of Claim by the Company and Shareholders  
+^“**Target Percentage**” means the percentage used in the calculation of a Participant’s Bonus if the target Metrics Hurdles set forth in the applicable Bonus Calculation Statement are met.
 
-MEETINGS  
+First Amended & Restated Incentive Bonus Plan
 
-^Notice of Annual General Meeting  
+Austin_1 592601v4 47080-9 
 
-^Notice of Special General Meeting  
+Page 3 
 
-^Accidental Omission of Notice of General Meeting  
+^“**Threshold Percentage**” means the percentage used in the calculation of a Participant’s Bonus if the threshold Metrics Hurdles set forth in the applicable Bonus Calculation Statement are met.
 
-^Meeting Called on Requisition of Shareholders  
+\centered SECTION III
 
-^Short Notice  
+\centered **ADMINISTRATION**
 
-36A.   Giving Notice and Access  
+The Plan shall be administered by the Committee. Subject to the provisions of the Plan, and except as expressly provided in a particular Bonus Calculation Statement, the Committee shall have exclusive authority to interpret the Plan, to adopt, amend and rescind rules and regulations relating to the Plan and to make all other determinations that the Committee believes are necessary or advisable in connection with the administration of the Plan. The determinations of the Committee pursuant to this authority shall be conclusive.
 
-^Postponement of Meetings  
+\centered SECTION IV
 
-^Quorum for General Meeting  
+\centered **OPERATION OF INCENTIVE PLAN**
 
-38A.   Chairman to Preside at General Meetings  
+^**Determination of Bonus Measures**. Prior to the beginning of each Performance Period (except for the first Performance Period), or as soon after the beginning of the Performance Period as practical:
 
-^Adjournment of Meetings  
+^The Committee shall determine the Bonus Measures applicable to the Corporation’s Chief Executive Officer, Chief Financial Officer, and Chief Operating Officer, if any. The Committee may not delegate this task. Bonuses to the Chief Executive Officer, the Chief Financial Officer and any other “covered employees” as defined in Section 162(m) of the Code, shall comply with the requirements of Section 162(m) for the payments to be deductible.
 
-^Attendance at Meetings  
+^The Chief Executive Officer, or his designee, shall determine the Bonus Measures for each other Participant.
 
-^Written Resolutions  
+^**Bonus Calculation Formula**. Subject to Section IV.6.A, the Bonus Calculation Formula for each Participant shall be set forth in the applicable Bonus Calculation Schedule and attached as an Appendix to this Plan.
 
-^Attendance of Directors  
+^**Restatement of Financial Statements**.  
+^If the Corporation awards a Bonus to a Participant entitled to a Bonus under Appendix B and the Bonus is based on financial statements that are later restated, the amount of the Bonus shall be adjusted to reflect the restated financial statements. Specifically, either the Corporation shall pay (on the applicable Payout Date or on the earliest practical date after the applicable Payout Date) any additional Payout owing to the Participant based on the restated financial statements; or (ii) the Participant shall refund any overpayment of Payouts that the Participant received from the Corporation. Any refund shall be made within 30 days of the date the Corporation gives the Participan t written notice that the restated financial statements have been filed with the Securities and Exchange Commission. The notice shall be deemed given five days following the deposit by the Corporation in the United States mail, postage paid, addressed to the Participant at his last address shown in the Corporation's books and records or to a more recent address if the Participant has given the Corporation written notice of the more recent address.
 
-^Voting at Meetings  
+First Amended & Restated Incentive Bonus Plan
 
-^Voting by Poll  
+Austin_1 592601v4 47080-9 
 
-^Decision of Chairman  
+Page 4 
 
-^Instrument of Proxy  
+^Unless otherwise expressly provided in an Appendix, this provision is not applicable to Participants who are eligible to receive Bonuses under an Appendix other than Appendix B.
 
-^Representation of Corporations etc. at Meetings  
+^**Maximum Bonus Payable**.  
+^The Committee may, in its sole discretion, establish a maximum amount of aggregate Bonuses to be awarded under this Plan, or a maximum amount to be awarded to any group of Participants, expressed either as a percentage of a financial measure, such as Consolidated Earnings Per Share or Contribution, an absolute dollar amount, or in any other manner.
 
-VOTES OF SHAREHOLDERS  
+^Unless otherwise expressly provided in a Bonus Calculation Statement to the contrary, Participants may not be granted a Bonus that exceeds the following amounts:
 
-^General  
+^^^For members of the Senior Management Team, [[Percentage 2: Number]]% of the Participant's Base Salary; and
 
-^Adjustment of Voting Power  
+^^^For all other Participants, [[Percentage 3: Number]]% of the Participant's Base Salary.
 
-^Other Adjustments of Voting Power  
+^**Bonus Calculation Statement**.  
+^^^The Corporation shall provide each Participant with a copy of a Bonus Calculation Statement applicable to that Participant and, in the case of a Participant’s first participation in this Plan, a copy of the Plan. The Corporation shall provide each Participant with a copy of an amended Plan if the amended Plan materially impacts the rights of that Participant.
 
-^Notice  
+^^^If a Participant does not receive a Bonus Calculation Statement or written notice that he is not eligible for a Bonus within 90 days of the commencement of a Performance Period, his Bonus shall be calculated in the same manner as it was calculated in the prior Performance Period.
 
-\centered -ii-
+^^^Except to the extent the information is required by law to be disclosed, or as necessitated by Section IV.3, no Participant shall be entitled to review the Bonus Calculation Statement applicable to any other Participant.
 
-^Board Determination Binding  
+^**Modification of Bonus Measures**. The Committee and the Chief Executive Officer, as applicable, may add, delete or amend the Bonus Measures that it is responsible for establishing, but no addition, deletion or amendment shall be effective as to a past Performance Period or the then-current Performance Period.
 
-^Requirement to Provide Information and Notice  
+^**Establishment of New Incentive Plans**. The Committee may, in its sole discretion, and after consulting with management of the Corporation, establish new incentive plans for the Chief Executive Officer, the Chief Financial Officer and the Chief Operating Officer and, following notice to the Committee, the Chief Executive Officer may establish new incentive plans for any other Participants.
 
-CERTAIN SUBSIDIARIES  
+First Amended & Restated Incentive Bonus Plan 
 
-^Voting of Subsidiary Shares  
+Austin_1 592601v4 47080-9 
 
-^Bye-laws or Articles of Association of Certain Subsidiaries  
+Page 5 
 
-SHARE CAPITAL AND SHARES  
+^**No Guarantee of Payment**.  
+^Notwithstanding anything in this Plan to the contrary, this Plan does not constitute an inducement or consideration for the employment of any Participant, nor is it a contract between the Corporation or any Affiliate, and any Participant. Unless expressly provided otherwise in a Bonus Calculation Statement, the fact that an individual is a Participant does not guarantee that he will receive a Bonus. The Corporation may determine that, even if Bonus Measures are met, for reasons related to a particular Participant's individual performance, the Participant should not be entitled to a Bonus. The Corporation must give the Participant written notice of any such determination within 90 days following the last day of the applicable Performance Period.
 
-^Rights of Shares  
+^Unless otherwise determined by the Committee, no Payout shall be made to a Participant unless the Participant is employed on a regular, full-time basis on the Required Payment Date. However, if the Participant dies or becomes disabled prior to the end of a Performance Period, the Corporation may, in the sole discretion of the Committee, pay the Participant or his estate an amount equal to the product of (x) the Bonus that the Committee determines that the Participant would have earned for the applicable Performance Period had the Participant continued in the employ of the Corporation for the entire Performance Period, and (y) a fraction, the numerator of which is the number of days elapsed f rom the commencement of the applicable Performance Period through the Participant’s termination of employment by death or disability, and the denominator of which is the total number of days in the applicable Performance Period.
 
-^Power to Issue Shares  
+^**Compliance with Applicable Law**. Bonuses shall be subject to applicable federal, state and local law. Without limitation, the Corporation shall withhold all amounts required to be withheld by foreign, federal or state laws, as well as all amounts withheld in accordance with the Corporation’s payroll practices.
 
-^Variation of Rights, Alteration of Share Capital and Purchase of Shares of the Company  
+^**Mode and Timing of Payment**.  
+^Unless otherwise specifically provided in a Bonus Calculation Statement, Bonuses shall be paid in cash.
 
-^Registered Holder of Shares  
+^Payouts shall be made on the following dates, each of which is a Required Payment Date:
 
-^Death of a Joint Holder  
+^^^For Performance Periods ending [[Date 4]], Payouts shall be made in two equal installments, the first of which shall be made in the first week of October in that year and the second of which shall be made in the first week of January in the following year. For illustrative purposes, a Payout for the Performance Period ending on [[Date 7: Date]] shall be paid in two equal installments, one of which shall be in the first week of [[Date 8: Date]], and the other one of which shall be in the first week of [[Date 9: Date]].
 
-^Share Certificates  
+^^^For Performance Periods ending [[Date 6]], Payouts shall be made in two equal installments, the first of which shall be made in the first week of March of the following year, and the second of which shall be made in the first week of July of the following year. For illustrative purposes, Payouts for the period ending [[Date 10: Date]] shall be paid in two equal installments, one of which shall be in the first week of [[Date 11: Date]], and the other one of which shall be in the first week of [[Date 12: Date]].
 
-^Calls on Shares  
+First Amended & Restated Incentive Bonus Plan 
 
-^Forfeiture of Shares  
+Austin_1 592601v4 47080-9 
 
-^Repurchase of Shares  
+Page 6 
 
-REGISTER OF SHAREHOLDERS  
+^Notwithstanding Sections 8.B(i) and 8.B(ii), (i) if it is administratively impractical to make a Payout by the Required Payment Date and such impracticability was not foreseeable at the time the Participant obtained a legally binding right to the Payout, the Payout may be made following the Required Payment Date but must be made as soon as administratively practical; and (ii) if making the Payout by the Required Payment Date would jeopardize the ability of the Corporation to continue as a going concern, the Payout may be made after the Required Payment Date as long as it is made as soon as it would not have such effect. If the provisions of this Section IV.8.C are applicable, but the Corpora tion can make a partial payment in compliance with these provisions, it may do so as long as the payment is made pro rata as to Payouts then due to all Participants.
 
-^Contents of Register of Shareholders  
+\centered SECTION V
 
-^Inspection of Register of Shareholders  
+\centered **CHANGE OF CONTROL**
 
-^Determination of Record Dates  
+Unless otherwise determined by the Committee prior to a Change of Control, if a Change of Control occurs, the following provisions shall be applicable:
 
-TRANSFER OF SHARES  
+^The then-current Performance Period will terminate immediately prior to the Change of Control and the total Bonuses payable will be the amount payable assuming attainment for the applicable Participant of the Maximum Metrics Hurdles or the maximum bonus otherwise payable under a particular Appendix, multiplied by a fraction, the numerator of which is the number of days that have elapsed during the Performance Period up to and including the date on which the Change of Control occurs, and the denominator of which is the total number of days in the Performance Period. All amounts so determined shall be paid on the date of the Change of Control.
 
-^Instrument of Transfer  
+^Except for the payment provisions set forth in Sections IV.8.B and V.1, this Plan and each Bonus Calculation Statement will automatically terminate on a Change of Control unless expressly determined otherwise by the Committee in its sole discretion.
 
-^Restrictions on Transfer  
+\centered SECTION VI
 
-^Transfers by Joint Holders  
+\centered **APPLICABILITY OF CODE SECTION 409A**
 
-TRANSMISSION OF SHARES  
+If any compensation or benefits provided by this Plan may result in the application of Section 409A of the Code, the Committee may, in its sole discretion, with respect to any Participant: (A) modify this Plan in the least restrictive manner necessary in order to exclude such compensation from the definition of “deferred compensation” within the meaning of Section 409A or in order to comply with the provisions of Section 409A, other applicable provisions of the Code, and any rules, regulations or other regulatory guidance issued under such provisions and with as little diminution in the value of the Bonuses to the Participants as practical; (B) elect to pay an amount in addition to the amount otherwise due, to cover excise taxes that may be due under Section 409A; or (C) make one or more of the Payouts as provided by this Plan, without modification.
 
-^Representative of Deceased Shareholder  
+First Amended & Restated Incentive Bonus Plan
 
-^Registration on Death or Bankruptcy  
+Austin_1 592601v4 47080-9 
 
-DIVIDENDS AND OTHER DISTRIBUTIONS  
+Page 7 
 
-^Declaration of Dividends by the Board  
+\centered SECTION VII
 
-^Other Distributions  
+\centered **GENERAL PROVISIONS**
 
-\centered -iii-
+^**No Third Party Beneficiaries**. The establishment of this Plan shall not confer upon any Participant any legal or equitable right against the Corporation or any Affiliate, except as expressly provided in this Plan. There are no third party beneficiaries to this Plan.
 
-^Reserve Fund  
+^**Employee at Will**. Unless a Participant has a written agreement signed by a duly authorized officer of the Corporation or its Affiliates providing otherwise, the Participant is an employee at-will and either he or the Corporation may terminate his employment with or without notice and with or without cause at any time.
 
-^Deduction of Amounts Due to the Company  
+^**Governing Law; Venue**. This Plan and all disputes related to this Plan shall be governed by the laws of the State of Texas without regard to principles of conflicts or choice of law which direct the application of the laws of a different state.** Venue for any dispute relating to this Plan shall be exclusively in Harris County, Texas.**
 
-CAPITALIZATION  
+^**Waiver of Jury Trial and of Certain Damages**.** EACH PARTICIPANT WAIVES THE RIGHT TO TRIAL BY JURY IN ANY ACTION, SUIT, PROCEEDING OR COUNTERCLAIM OF ANY KIND ARISING OUT OF OR RELATED TO THIS PLAN. NEITHER THE CORPORATION NOR ANY PARTICIPANT SHALL BE ENTITLED TO CONSEQUENTIAL OR PUNITIVE DAMAGES OR ANY OTHER ENTITLEMENT FROM THE OTHER.**
 
-^Issue of Bonus Shares  
+^**Severability**. This Plan is intended to comply in all aspects with applicable laws and regulations. If any provision of this Plan is held by final judgment of a court of competent jurisdiction to be invalid, illegal or unenforceable, the invalid, illegal or unenforceable provision shall be severed from the remainder of this Plan, and the remainder of this Plan shall be enforced. In addition, the invalid, illegal or unenforceable provision shall be deemed to be automatically modified, and, as so modified, shall be included in this Plan, the modification being made to the minimum extent necessary to render th e provision valid, legal and enforceable. Notwithstanding the foregoing, however, if the severed or modified provision concerns all or a portion of the essential consideration to be delivered under this Plan by one party to the other, the remaining provisions of this Plan shall also be modified to the extent necessary to equitably adjust the parties’ respective rights and obligations hereunder.
 
-ACCOUNTS AND FINANCIAL STATEMENTS  
+^**Unsecured Plan**. This Plan is an unfunded and unsecured compensation arrangement. It is not governed by the Employee’s Retirement and Income Security Act of 1974. Neither this Plan nor any Bonus Calculation Statement or Bonus shall create or be construed to create a trust or separate fund of any kind or a fiduciary relationship between the Corporation and a Participant or any other person. To the extent that any person acquires a right to receive a Bonus under this Plan, that right shall be no greater than the right of any unsecured general creditor of the Corporation.
 
-^Records of Account  
+^**No Assignment of Rights Under Plan**. Until paid to a Participant, neither Bonuses nor any contingent or actual right, if any, to receive a Payout may be assigned, transferred or hypothecated without the prior written consent of the Committee, in its sole discretion. Any attempt by a Participant to assign his Bonus or his rights under this Plan without the prior written consent of the Committee shall be void ab initio.
 
-^Financial Year End  
+First Amended & Restated Incentive Bonus Plan 
 
-^Financial Statements  
+Austin_1 592601v4 47080-9 
 
-AUDIT  
+Page 8  
 
-^Appointment of Auditor  
+^**Modification or Termination of Plan**. Unless otherwise expressly provided in a specific Bonus Calculation Statement, the Committee may, without the consent of any Participant, modify or terminate this Plan as to any future Performance Period. Any such action may be taken without the approval of the Corporation’s stockholders unless stockholder approval is required by applicable law or the rules of any stock exchange on which the Corporation’s shares are traded. Termination or modification of this Plan shall not apply to the then-current Performance Period, and all Payouts from Bonuses earned during th e then-current Performance Period shall continue to be subject to the terms of this Plan, notwithstanding its modification or termination.
 
-^Remuneration of Auditor  
+^**No Waiver**. No term or provision of this Plan may be waived unless the waiver is in writing and signed by the party against whom it is sought to be enforced. No failure on the part of any party to exercise and no delay in exercising, any right, power, or remedy under this Plan shall operate as a waiver, nor shall any single or partial exercise of any right under this Plan preclude any other or further exercise of that right or the exercise of any other right.
 
-^Vacation of Office of Auditor  
+^**Construction**. Whenever used in this Plan, the singular number will include the plural, and the plural number will include the singular, and pronouns in the masculine, feminine, or neuter gender will include each other gender, as the identity of the antecedent may require. Headings are used for convenience only, and are not to be given substantive effect. All references to section numbers are references to sections of this Plan, unless otherwise specifically indicated. The Appendices are incorporated in this Plan as if set forth herein in full. The provisions of this Plan shall not be construed s trictly against the Corporation, but shall be interpreted in accordance with its intention, as determined by the Committee.
 
-^Access to Books of the Company  
+^**Supersedure**. This Plan supersedes all of the currently effective bonus plans of the Corporation unless the Corporation has delivered written notice to the contrary to the person entitled to benefits under such other bonus plans. However, this Plan does not supersede any other agreements between the Corporation and any Participant, including, without limitation, any stock option or other equity compensation agreements, and the portions of any agreements relating to protection of the Corporation’s confidential and proprietary information, non-competition, non-disparagement or non-solicitation.
 
-^Report of the Auditor  
+Adopted by the Compensation Committee of ENGlobal Corporation as of [[Date 13: Date]].
 
-NOTICES  
+ENGLOBAL CORPORATION 
 
-^Notices to Shareholders of the Company  
+COMPENSATION COMMITTEE    
 
-^Notices to Joint Shareholders  
-
-^Service and Delivery of Notice  
-
-SEAL OF THE COMPANY  
-
-^The Seal  
-
-^Manner in which Seal is to be Affixed  
-
-WINDING-UP  
-
-^Winding-Up/Distribution by Liquidator  
-
-ALTERATION OF BYE-LAWS  
-
-^Alteration of Bye-Laws  
-
-\centered -iv-
-
-\centered **INTERPRETATION**
-
-^Interpretation
-
-^In these Bye-laws the following words and expressions shall, where not inconsistent with the context, have the following meanings, respectively:
-
-^^“**Act**” means the Companies Act 1981 as amended from time to time;
-
-^^“**Affiliate**” means, with respect to any person, any person directly or indirectly controlling, controlled by or under common control with such person, provided that no Shareholder or indirect holder or owner of shares shall be deemed an Affiliate of another Shareholder solely by the reason of an investment in the Company. For the purposes of this definition, the term “control” shall mean the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person, whether through the ownership of voting securities, by contract or otherwise.
-
-^^“**Attribution Percentage**” shall mean, with respect to a Shareholder, the percentage of the Shareholder’s shares that are treated as Controlled Shares of a Tentative [[Percentage 1: Number]]% U.S. Shareholder.
-
-^^“**Audit Committee**” means the audit committee appointed by the Board in accordance with these Bye-laws, provided that in the event that the Board shall not have appointed an Audit Committee, members of the Board who satisfy the requirements of the New York Stock Exchange (or such other stock exchange as may serve as the primary stock exchange for the Company’s common shares) and Rule 10A-3 pursuant to the U.S. Securities Exchange Act of 1934, as amended, shall constitute the Audit Committee;
-
-^^“**Auditor**” includes any individual, partnership or other entity appointed in accordance with the Act;
-
-^^“**Board**” means the Board of Directors appointed or elected pursuant to these Bye-laws and acting by resolution in accordance with the Act and these Bye-laws or the Directors present at a meeting of Directors at which there is a quorum;
-
-^^“**Cause**” means willful misconduct, fraud, gross negligence, embezzlement or any criminal conduct or violation of law or applicable rule of a self-regulatory organization;
-
-^^“**Code**” means the Internal Revenue Code of 1986, as amended, of the United States of America;
-
-^^“**Company**” means the company for which these Bye-laws are approved and confirmed;
-
-^^“**Compensation Committee**” means the compensation committee appointed by the Board in accordance with these Bye-laws or such other committee as may be designated to perform compensation functions as required by applicable rule or regulation, provided that in the event that the Board shall not have appointed a Compensation Committee, the members of the Board who satisfy (i) the requirements of the New York Stock Exchange (or such other stock exchange as may serve as the primary stock exchange for the Company’s common shares) and (ii) any other applicable requirements for directors who determine compensation, such as the requirements for non-employee directors under Rule 16b-3 pursuant to the U.S. Securities Exchange Act of 1934, as amended, and the requirements for outside directors under Section 162(m) of the Code shall constitute the Compensation Committee;
-
-^^“**Controlled Shares**” in reference to any person means all shares of the Company directly, indirectly or constructively owned by such person as determined pursuant to Section 958 of the Code and Treasury Regulations promulgated thereunder and under Section 957 of the Code;
-
-^^“**Director**” means a director of the Company;
-
-^^“**Executive Committee**” means the executive committee appointed by the Board in accordance with these Bye-laws;
-
-^^“**Finance Committee**” means the finance committee appointed by the Board in accordance with these Bye-laws, provided that in the event that the Board shall not have appointed a Finance Committee, the Board shall constitute the Finance Committee;
-
-^^“**Indirect**” means when referring to a holder or owner of shares, ownership of shares within the meaning of Section 958(a)(2) of the Code;
-
-^^“**[[Percentage 1]]% U.S. Shareholder**” means a “United States person” as defined in the Code (a “U.S. Person”) whose Controlled Shares constitute nine and one-half percent ([[Percentage 1]]%) or more of the voting power (determined without applying the voting power adjustments or eliminations in Bye-laws 49-53 (inclusive)) of all issued and outstanding shares of the Company and who generally would be required to recognize income with respect to the Company under Section 951(a)(1) of the Code, if the Company were a controlled foreign corporation as defined in Section 957 of the Code; and if the ownership threshold under Section 951(b) of the Code; were [[Percentage 1]]%.
-
-^^“**Nominating and Governance Committee**” means the nominating and governance committee appointed by the Board in accordance with these Bye-laws or such other committee as may be designated to perform director nominating and governance functions as required by applicable rule or regulation, provided that in the event that the Board shall not have appointed a Nominating and Governance Committee, members of the Board who satisfy the requirements of the New York Stock Exchange (or such other stock exchange as may serve as the primary stock exchange for the Company’s common shares) shall constitute the Nominating and Governance Committee.
-
-^^“**Notice**” means written notice as further defined in these Bye-laws unless otherwise specifically stated;
-
-^^“**Officer**” means any person appointed by the Board to hold an office in the Company;
-
-^^“**Register of Directors and Officers**” means the Register of Directors and Officers referred to in these Bye-laws;
-
-^^“**Register of Shareholders**” means the Register of Shareholders referred to in these Bye-laws and shall be the same “register of members” required to be kept by the Company under the Act;
-
-^^“**Resident Representative**” means any person appointed to act as resident representative;
-
-^^**“Risk Oversight Committee”** means the risk oversight committee appointed by the Board in accordance with these Bye-laws, provided that in the event that the Board shall not have appointed a Risk Oversight Committee, the Board shall constitute the Risk Oversight Committee;
-
-^^“**Secretary**” means the person appointed to perform any or all the duties of secretary of the Company and includes any deputy or assistant or acting secretary;
-
-^^“**Shareholder**” means the person registered in the Register of Shareholders as the holder of shares (sometimes referred to in these Bye-laws as the direct holder) of the Company and shall have the same meaning as the term “Member” in the Act;
-
-^^“**Tentative [[Percentage 1]]% U.S. Shareholder**” means a U.S. Person that, but for adjustments or eliminations of the voting power of shares pursuant to **Bye-laws 49-53** (inclusive), would be a [[Percentage 1]]% U.S. Shareholder;
-
-(aa) **“Treasury Share”** means a share of the Company that was or is treated as having been acquired and held by the Company and has been held continuously by the Company since it was so acquired and has not been cancelled; and
-
-(bb) **“United States of America**” or “**U.S.**” means the United States of America and dependent territories or any part thereof.
-
-^In these Bye-laws, where not inconsistent with the context:
-
-^^words denoting the plural number include the singular number and vice versa;
-
-^^words denoting the masculine gender include the feminine and neuter gender;
-
-^^words importing persons include individuals, companies, associations, partnerships, firms or bodies of persons whether corporate or not;
-
-^^the words:
-
-^^^“may” shall be construed as permissive;
-
-^^^“shall” shall be construed as imperative;
-
-^^unless otherwise provided herein words or expressions defined in the Act shall bear the same meaning in these Bye-laws; and
-
-^^references to specific statutes or regulations shall be deemed to include references to successor statutes or regulations.
-
-^Expressions referring to writing or its cognates shall, unless the contrary intention appears, include facsimile, printing, lithography, photography, electronic mail and other modes of representing words in a visible form.
-
-^Headings used in these Bye-laws are for convenience only and are not to be used or relied upon in the construction hereof.
-
-\centered **BOARD OF DIRECTORS**
-
-^Board of Directors
-
-The business and affairs of the Company shall be managed and conducted by the Board.
-
-^Management of Company
-
-^In managing the business and affairs of the Company, the Board may exercise all such powers of the Company as are not, by the Act or by these Bye-laws, required to be exercised by the Company in general meeting. The Board may also present any petition and make any application in connection with the liquidation or reorganization of the Company.
-
-^No regulation or alteration to these Bye-laws made by the Company in general meeting shall invalidate any prior act of the Board which would have been valid if that regulation or alteration had not been made.
-
-^The Board may procure that the Company pays all expenses incurred in promoting and incorporating the Company.
-
-^Power to Appoint Managing Director or Chief Executive Officer
-
-The Board may from time to time appoint one or more Directors to the office of Managing Director or Chief Executive Officer of the Company who shall, subject to the control of the Board, supervise and administer all of the general business and affairs of the Company.
-
-^Power to Appoint Manager
-
-The Board may appoint a person to act as manager of the Company’s day-to-day business or any part thereof (and the Board may appoint more than one managers as manager of different parts of the Company’s business) and may entrust to and confer upon such manager such powers and duties as it deems appropriate for the transaction or conduct of such business.
-
-^Power to Authorize Specific Actions
-
-The Board may from time to time and at any time authorize (and confer powers upon) any company, firm, person or body of persons to act on behalf of the Company for any specific purpose and in connection therewith to execute any agreement, document or instrument on behalf of the Company.
-
-^Power to Appoint Attorney
-
-The Board may from time to time and at any time by power of attorney appoint any company, firm, person or body of persons, whether nominated directly or indirectly by the Board, to be an attorney of the Company for such purposes and with such powers, authorities and discretions (not exceeding those vested in or exercisable by the Board) and for such period and subject to such conditions as it may think fit and any such power of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the Board may think fit and may also authorize any such attorney to sub-delegate all or any of the powers, authorities and discretions so vested in the attorney.
-
-^Power to Delegate
-
-^The Board may delegate any (and all in the case of the Executive Committee) of its powers (including the power to sub-delegate) to a committee appointed by the Board which may consist of one or more Shareholders or wholly of Directors, or partly or entirely of non-Directors, and every such committee shall conform to such directions as the Board shall impose on them. Without limiting the foregoing, such committees may include (separately or combined to the extent permitted by applicable law or regulation):
-
-^^an Audit Committee, which may, among other things, review the internal administrative and accounting controls of the Company and the Company’s subsidiary companies or other companies associated with the Company and recommend to the Shareholders the appointment of Auditor;
-
-^^a Compensation Committee, which may, among other things, establish and review the compensation of Officers and the compensation policies and procedures of the Company and the Company’s subsidiary companies or other companies associated with the Company;
-
-^^an Executive Committee, which shall have all of the powers of the Board between meetings of the Board;
-
-^^a Finance Committee, which may, among other things, establish and review the investment policy of the Company, and review and make recommendations regarding the Company’s capital structure, financing activities and dividend policy;
-
-^^a Nominating and Governance Committee, which may, among other things, assist the Board in identifying individuals to be nominated to serve as Directors, establish and review the Company’s governance guidelines and establish and review the compensation of Directors; and
-
-^^a Risk Oversight Committee, which may among other things, assist the Board with establishment of the Company’s risk tolerance and oversight of management’s establishment and implementation of standards, controls, limits, guidelines and policies relating to risk assessment and risk management.
-
-^The meetings and proceedings of any such committee shall be governed by the provisions of these Bye-laws regulating the meetings and proceedings of the Board, so far as the same are applicable and are not superseded by directions imposed by the Board, and in that connection the Board may authorize a committee to adopt such rules for its meetings (including, without limitation, notice periods and quorum requirements) and the conduct of its affairs as the committee sees fit.
-
-^The Board may delegate to any company, firm, person, or body of persons any power of the Board (including the power to sub-delegate).
-
-^Power to Appoint and Dismiss Employees
-
-The Board may appoint, suspend or remove any officer, manager, secretary, clerk, agent or employee of the Company and may fix their remuneration and determine their duties.
-
-^Power to Borrow and Charge Property
-
-The Board may exercise all the powers of the Company to borrow money and to mortgage or charge or otherwise grant a security interest in its undertaking, property and uncalled capital, or any part thereof, and may issue debentures, debenture stock and other securities whether outright or as security for any debt, liability or obligation of the Company or any third party.
-
-^Exercise of Power to Purchase Shares of or Discontinue the Company
-
-^The Board may exercise all the powers of the Company to purchase (sometimes referred to in these Bye-laws as “repurchase”) or acquire all or any part of its own shares pursuant to the Act for cancellation or acquire them as Treasury Shares in accordance with the Act on such terms as the Board shall think fit, provided, however, that such repurchase shall not be made if, in the Board’s determination, it would result in a non-de minimis adverse tax, legal or regulatory consequence to the Company, any of its subsidiaries or any direct or indirect holder of shares or its Affiliates.
-
-^The Board may exercise all the powers of the Company to discontinue the Company to a named country or jurisdiction outside Bermuda pursuant to the Act.
-
-^Board Size; Classes of Directors
-
-^The Board shall consist of not less than 3 and not more than 21 Directors (as determined by resolution of the Board of Directors) the exact number to be determined from time to time by resolution adopted by the affirmative vote of at least two-thirds majority of the Board then in office; provided, however, that if no such resolution shall be in effect the number of Directors shall be deemed to be the number of Directors then in office if such number is within the range specified by this Bye-law 12(1) and if the number of Directors then in office is less than three, the number of Directors shall be deemed to be three Directors. Any increase in the size of the Board pursuant to this Bye-law 12(1) shall be deemed to be a vacancy and may be filled in accordance with Bye-law 16 hereof. Directors shall be elected, except in the case of a vacancy (as provided for in Bye-law 15 or , as the case may be), by the Shareholders in the manner set forth in paragraph (2) of this Bye-law 12 at an annual general meeting or any special general meeting called for the purpose and who shall hold office for the term set forth in paragraph (2) of this Bye-law 12.
-
-^The Directors shall be divided into three classes, designated Class I, Class II and Class III. Each class shall consist, as nearly as may be possible, of one-third of the total number of Directors constituting the entire Board of Directors. Each class of directors shall have a three year term. At each annual general meeting, successors to the class of Directors whose term expires at that annual general meeting shall be elected for a three year term. If the number of Directors is changed, any increase or decrease shall be apportioned among the classes so as to maintain the number of Directors in each class as nearly equal as possible, and any Director of any class elected to fill a vacancy shall hold office for a term that shall coincide with the remaining term of the other Directors of that class, but in no case shall a decrease in the number of Directors shorten the term of any Director then in office. A Director shall hold office until the annual general meeting for the year in which his term expires, subject to his office being vacated pursuant to Bye-law 15 or . Notwithstanding the foregoing, each Director shall hold office until such Director’s successor shall have been duly elected or until they are removed from office by the Shareholders pursuant to **Bye-law 15** or their office is otherwise vacated. In the event of any change in the number of Directors, the Board of Directors shall apportion any newly created directorships among, or reduce the number of directorships in, such class or classes as shall equalize, as nearly as possible, the number of Directors in each class.
-
-^Defects in Appointment Of Directors
-
-All acts done bona fide by any meeting of the Board or by a committee of the Board or by any person acting as a Director shall, notwithstanding that it be afterwards discovered that there was some defect in the appointment of any Director or person acting as aforesaid, or that they or any of them were disqualified, be as valid as if every such person had been duly appointed and was qualified to be a Director.
-
-^Shareholder Proposals and Nominations
-
-^If a Shareholder desires to submit a proposal for consideration at an annual general meeting or special general meeting, or to nominate persons for election as Directors at any general meeting duly called for the election of Directors, written notice of such Shareholder’s intent to make such a proposal or nomination must be given and received by the Secretary of the Company at the principal executive office or registered office of the Company not later than (i) with respect to an annual general meeting of Shareholders, ninety (90) days prior to the anniversary date of the immediately preceding annual general meeting, and (ii) with respect to a special general meeting, the close of business on the tenth (10th) day following the date on which notice of such meeting is first sent or given to Shareholders. Each notice shall describe the proposal or nomination in sufficient detail for a proposal or nomination to be summarized on the agenda for the meeting and shall set forth (i) the name and address, as it appears on the books of the Company, of the Shareholder who intends to make the proposal or nomination; (ii) a representation that the Shareholder is a holder of record of shares of the Company entitled to vote at such meeting and intends to appear in person or by proxy at the meeting to present such proposal or nomination; and (iii) the class and number of shares of the Company which are beneficially owned by the Shareholder. In addition, in the case of a Shareholder’s proposal, the notice shall set forth the reasons for conducting such proposed business at the meeting and any material interest of the Shareholder in such business.
-
-^In the case of a nomination of any person for election as a Director, the notice shall set forth: (i) the name and address of any person to be nominated; (ii) a description of all arrangements or understandings between the Shareholder and each nominee and any other person or persons (naming such person or persons) pursuant to which the nomination or nominations are to be made by the Shareholder; (iii) such other information regarding such nominee proposed by such Shareholder as would be required to be included in a proxy statement filed pursuant to Regulation 14A under the Securities Exchange Act of 1934, as amended, of the United States of America, whether or not the Company is then subject to such Regulation; and (iv) the consent of each nominee to serve as a Director of the Company, if so elected.
-
-^The chairman of the annual general meeting or special general meeting shall, if the facts warrant (as he may determine), refuse to acknowledge a proposal or nomination not made in compliance with the foregoing procedure, and any such proposal or nomination not properly brought before the meeting shall not be considered.
-
-^Notwithstanding anything contained in these Bye-laws to the contrary, the affirmative vote of the holders of at least sixty-six and two-thirds percent (66 2/[[Percentage 2: Number]]%) of the total combined voting power of all the issued and outstanding shares of the Company (after giving effect to any adjustments or eliminations of voting power under Bye-laws 49-53 (inclusive)) shall be required to amend or repeal, or adopt any Bye-law provision inconsistent with, this Bye-law 14.
-
-^Removal of Directors
-
-^The Shareholders may, at any annual general or special general meeting convened and held in accordance with these Bye-laws, remove a Director before the expiry of his term only for Cause by the affirmative vote of Shareholders holding at least a majority of the total combined voting power of all of the issued and outstanding shares of the Company (after giving effect to any adjustments or eliminations of voting power under **Bye-laws 49-53** (inclusive)); provided that the notice of any such meeting convened for the purpose of removing a Director shall contain a statement of the intention so to do and be served upon such Director not less than 14 days before the meeting and at such meeting such Director shall be entitled to be heard on the motion for such Director’s removal without prejudice to Bye-law 41.
-
-^A vacancy on the Board created by the removal of a Director under the provisions of paragraph (1) of this Bye-law may be filled by the affirmative vote of Shareholders holding at least a majority of the total combined voting power of all of the issued and outstanding shares of the Company (after giving effect to any adjustments or eliminations of voting power under **Bye-laws 49-53** (inclusive)) at the meeting at which such Director is removed and, in the absence of such election or appointment, the Board may fill the vacancy. A Director so elected or appointed shall hold office until the next annual general meeting or until such Director’s office is otherwise vacated and shall serve within the same class of Directors as the predecessor. If term of such class extends beyond such next annual general meeting, then at such next annual general meeting the Shareholders shall elect a Director to serve the remaining term of such class.
-
-^Other Vacancies on the Board
-
-^The Board shall have the power from time to time and at any time to appoint any person as a Director to fill a vacancy on the Board occurring as the result of any of the events listed in paragraph (3) of this Bye-law 16 or from an increase in the size of the Board of Directors pursuant to **Bye-law 12**. The Board shall also have the power from time to time to fill any vacancy left unfilled at a general meeting. A Director appointed by the Board to fill a vacancy shall hold office until the next annual general meeting or until such Director’s office is otherwise vacated. When filling the vacancy, the Board shall assign the Director to a class in keeping with the provisions of Bye-law 12(2). If term of such class extends beyond such next annual general meeting, then at such next annual general meeting the Shareholders shall elect a Director to serve the remaining term of such class.
-
-^The Board may act notwithstanding any vacancy in its number but, if and so long as its number is reduced below the number fixed by these Bye-laws as the quorum necessary for the transaction of business at meetings of the Board, the continuing Directors or Director may act for the purpose of (i) summoning a general meeting of the Company, or (ii) preserving the assets of the Company.
-
-^The office of a Director shall be vacated if the Director:
-
-^^is removed from office pursuant to these Bye-laws or is prohibited from being a Director by law;
-
-^^is or becomes bankrupt, or makes any arrangement or composition with his creditors generally;
-
-^^is or becomes disqualified, of unsound mind, or dies; or
-
-^^resigns his or her office by notice in writing to the Company if such Director is not an employee of the Company or any of its subsidiaries; provided, however that if such individual has also served as an employee of the Company or any of its subsidiaries and ceases to be employed by the Company or any of its subsidiaries or is employed by the Company or any of its subsidiaries in a different capacity, the Board of Directors may approve the retention of such individual as a Director, without such Director participating in the vote, in which case the office of Director shall not be deemed vacated.
-
-^Notice of Meetings of the Board
-
-^The Chairman may, and the Chairman may instruct the Secretary on the requisition of a majority of the Directors then in office shall, at any time, upon at least 24 hours notice, summon a meeting of the Board, provided that all the Directors may consent to a shorter notice period.
-
-^Notice of a meeting of the Board shall be deemed to be duly given to a Director if it is given to such Director verbally in person or by telephone or otherwise communicated or sent to such Director by post, electronic means (including, without limitation, facsimile or electronic mail) or other mode of representing words in a visible form at such Director’s last known address or in accordance with any other instructions given by such Director to the Company for this purpose.
-
-^Quorum at Meetings of the Board
-
-The quorum necessary for the transaction of business at a meeting of the Board shall be at least one-half of the total number of the Directors then in office, present in person or represented by a duly authorized representative appointed in accordance with the Act, provided that at least two Directors are present in person.
-
-^Meetings of the Board
-
-^The Board may meet for the transaction of business, adjourn and otherwise regulate its meetings as it sees fit.
-
-^Directors may participate in any meeting of the Board by such telephonic, electronic or other communication facilities or means as permit all persons participating in the meeting to communicate with each other simultaneously and instantaneously, and participation in such a meeting shall constitute presence in person at such meeting.
-
-^A resolution put to the vote at a meeting of the Board shall be carried by the affirmative votes of a majority of the votes cast and in the case of an equality of votes the resolution shall fail.
-
-^Unless otherwise agreed by a majority of the Directors attending, the Chairman, if there be one, shall act as chairman at all meetings of the Board at which such person is present. In his or her absence, a chairman shall be appointed or elected by the Directors present at the meeting.
-
-^Unanimous Written Resolutions
-
-^resolution in writing signed by all the Directors which may be in counterparts, which signature may be by electronic transmission, shall be as valid as if it had been passed at a meeting of the Board duly called and constituted, such resolution to be effective on the date on which the last Director signs the resolution provided that any such resolution shall be valid only if the Board has not determined that the use of a resolution in writing would result in a non-de minimis adverse tax, regulatory or legal consequence to the Company, any subsidiary of the Company, or any direct or indirect holder of shares or its Affiliates. For the purposes of this Bye-law only, “the Directors” shall not include an alternate Director.
-
-^Contracts and Disclosure of Directors’ Interests
-
-^Any Director may hold any other office or place of profit under the Company, and any Director, or any Director’s firm, partner or any company or enterprise with whom any Director is associated, may act in any capacity for the Company and such Director or such Director’s firm, partner or such company or enterprise shall be entitled to remuneration for services or work as if such Director were not a Director, provided that nothing herein contained shall authorize a Director or Director’s firm, partner or such company or enterprise to act as Auditor of the Company.
-
-^A Director who is directly or indirectly interested in a contract or proposed contract or arrangement with the Company shall declare the nature of such interest as required by the Act.
-
-^Following a declaration being made pursuant to this Bye-law, and unless disqualified by the chairman of the relevant Board meeting, a Director may vote in respect of any contract or proposed contract or arrangement in which such Director is interested and may be counted in the quorum at such meeting.
-
-^Remuneration of Directors
-
-The remuneration and benefits (if any) of the Directors shall be determined by the Nominating and Governance Committee or such other committee as may be designated for such purpose in accordance with applicable rules and regulations and shall be deemed to accrue from day to day. The Directors may also be paid or reimbursed for all travel, hotel and other expenses properly and reasonably incurred by them in attending and returning from meetings of the Board, any committee appointed by the Board, general meetings of the Company or in connection with the business of the Company or their duties as Directors generally.
-
-\centered **OFFICERS**
-
-^Officers of the Company
-
-The Officers of the Company may consist of a Chairman, a President and a Secretary and additionally may consist of such additional Officers as the Board may from time to time determine and appoint, all of whom shall be deemed to be Officers for the purposes of these Bye-laws.
-
-^Appointment of Officers
-
-The Board may appoint such officers (who may or may not be Directors) as the Board may determine.
-
-^Remuneration of Officers
-
-The Officers shall receive such remuneration and benefits as the Compensation Committee may from time to time determine or as otherwise determined in accordance with applicable Compensation Committee policy, stock exchange regulation and law or regulation.
-
-^Duties of Officers
-
-The Officers shall have such powers and perform such duties in the management, business and affairs of the Company as may be delegated to them from time to time by the Board or, in the case of Officers other than the Chief Executive Officer, by the Chief Executive Officer.
-
-^Chairman of Meetings
-
-The Chairman, and if not, the President, shall act as chairman at all meetings of the Shareholders and of the Board at which such person is present. In their absence, any of the executive officers of the Company, if present, shall act as chairman and in the absence of all of them a chairman shall be appointed or elected by those present at the meeting and entitled to vote.
-
-^Register of Directors and Officers
-
-The Board shall cause to be kept in one or more books at the registered office of the Company a Register of Directors and Officers and shall enter therein the particulars required by the Act.
-
-\centered **MINUTES**
-
-^Obligations of Board to Keep Minutes
-
-^The Board shall cause minutes to be duly entered in books provided for the purpose:
-
-^^of all elections and appointments of Officers;
-
-^^of the names of the Directors present at each meeting of the Board and of any committee appointed by the Board; and
-
-^^of all resolutions and proceedings of general meetings of the Shareholders, meetings of the Board, meetings of managers and meetings of committees appointed by the Board.
-
-^Minutes prepared in accordance with the Act and these Bye-laws shall be kept by the Secretary at the registered office of the Company.
-
-\centered **INDEMNITY**
-
-^Indemnification and Exculpation of Directors of the Company and Others
-
-^The Directors and Officers (such term to include, for the purposes of Bye-laws 30-31, any person appointed to any committee by the Board and any person who is or was serving at the request of the Company as a director, officer or employee of another corporation, partnership, joint venture, trust or other enterprise (any person serving as a director, officer or employee of a subsidiary of the Company shall be deemed to be so serving at the request of the Company) and the Resident Representative for the time being acting in relation to any of the affairs of the Company or any subsidiary thereof and the liquidator or trustees (if any) for the time being acting in relation to any of the affairs of the Company and every one of them, and their respective heirs, executors and administrators (all of the foregoing hereinafter referred to as “Indemnified Persons”), shall be indemnified and secured harmless out of the assets of the Company from and against all actions, liabilities, costs, charges, losses, damages and expenses (including but not limited to liabilities under contract, tort and statute or any applicable foreign law or regulation and all reasonable legal and other costs and expenses properly payable) which they or any of them shall or may incur or sustain by or by reason of any act, by such person, or other person or a collective of persons (including without limitation the Board) or by the Company, done, concurred in or omitted (actual or alleged) in or about the execution of their duty, or supposed duty, or in their respective offices or trusts, and none of them shall be answerable for the acts, receipts, neglects or defaults of the others of them or for joining in any receipts for the sake of conformity, or for any bankers or other persons with whom any moneys or effects belonging to the Company shall or may be lodged or deposited for safe custody, or for insufficiency or deficiency of any security upon which any moneys of or belonging to the Company shall be placed out on or invested, or for any other loss, misfortune or damage which may happen in the execution of their respective offices or trusts, or in relation thereto, provided that this indemnity shall not extend to any matter in respect of any fraud or dishonesty which may attach to any of the said persons.
-
-^No Indemnified Person shall be liable for the acts, receipts, neglects or defaults of any other Indemnified Person or other person, or for any loss or expense incurred by the Company through the insufficiency or deficiency of title to any property acquired by the Board for or on behalf of the Company, or for the insufficiency or deficiency of any security in or upon which any of the monies of the Company is invested, or for any loss or damage arising from the bankruptcy, insolvency or tortious act of any person with whom any monies, securities or effects is deposited, or for any loss occasioned by any error of judgment, omission, default or oversight on his or her part, or for any other loss, damage or misfortune whatever which shall happen in relation to the execution of the duties of his or her office, or in relation thereto, unless the same happens through fraud or dishonesty on his or her part.
-
-^Each Indemnified Person shall be indemnified out of the assets of the Company against all liabilities, costs, charges, losses, damages and expenses which any of them shall or may incur or sustain, by or by reason of any act, by such person, or other person or a collective of persons (including without limitation the Board) or by the Company, done, concurred in or omitted (actual or alleged) in or about the execution of his, her or their duty, or supposed duty, or in his, her or their respective offices or trusts, in defending or appearing or giving evidence in any proceedings (such term to include, for the purposes of this Bye-law, threatened proceedings, investigations and enquiries, whether by a regulatory authority, prosecutions authority or otherwise), whether civil or criminal, including where allegations of fraud and dishonesty are made against such Indemnified Person, and, the Company shall pay to or on behalf of such Indemnified Person any and all reasonable costs, charges and expenses associated in defending or appearing or giving evidence with respect to such Indemnified Person in such proceedings (including without limitation independent representation and counseling by an attorney or other professional selected by such Indemnified Person concerned) as and when such liabilities, losses, costs and expenses are incurred, provided that in the event of a finding of fraud or dishonesty (such fraud or dishonesty having been established in a final judgment or decree not subject to appeal), such Indemnified Person shall reimburse to the Company all funds paid by the Company in respect of liabilities, losses, costs and expenses of defending such proceedings.
-
-^The Company may purchase and maintain insurance for the benefit of any Director, Officer or employee against any liabilities, costs, charges, losses, damages and expenses incurred by him in his capacity as a Director, Officer or employee or indemnifying such Director, Officer or employee in respect of any liabilities, costs, charges, losses, damages or expenses incurred by him by virtue of any rule of law in respect of any negligence, default, breach of duty or breach of trust of which the Director, Officer or employee may be guilty in relation to the Company or any subsidiary thereof, whether or not the Company would have the power to indemnify him against such liability under this Bye-law 30 or the Act.
-
-^The rights conferred on any Indemnified Person by this Bye-law 30 shall not be exclusive of any other rights which such Indemnified Person may have or hereafter acquire under any statute, provision of these bye-laws, agreement, vote of shareholders or disinterested directors or otherwise.
-
-^The provisions of this Bye-law 30 shall apply to, and for the benefit of, any person acting as (or with the reasonable belief that he or she will be appointed or elected as) a Director, Officer, Resident Representative, or liquidator or trustee in the reasonable belief that he or she has been so appointed or elected notwithstanding any defect in such appointment or election and to any person who is no longer, but at one time was, a Director, Officer, Resident Representative or liquidator or trustee of the Company.
-
-^No amendment or repeal of any provision of this Bye-law 30 shall alter, to the detriment of any Person, the right of such Person to the indemnification or advancement of expenses related to a claim based on an act or failure to act which took place prior to such amendment, repeal or termination.
-
-^Waiver of Claim by the Company and Shareholders
-
-^The Company and each Shareholder waives any claim or right of action the Company or such Shareholder might have, whether individually or by or in the right of the Company, against any Director, Chairman, President, Secretary or other Officer, Resident Representative or liquidator or trustee of the Company on account of any action taken by such Director or other such person, or the failure of such Director or other person to take any action, in the performance of his or her duties with or for the Company or any subsidiary thereof, provided that such waiver shall not extend to any matter in respect of any fraud or dishonesty which may attach to such Director or other person.
-
-^The provisions of this Bye-law 31 shall apply to, and for the benefit of, any person acting as (or with the reasonable belief that he or she will be appointed or elected as) a Director, Secretary, other Officer, the Resident Representative, or liquidator or trustee in the reasonable belief that he or she has been so appointed or elected notwithstanding any defect in such appointment or election and to any person who is no longer, but at one time was, a Director, Secretary, other Officer, Resident Representative or liquidator or trustee of the Company.
-
-\centered **MEETINGS**
-
-^Notice of Annual General Meeting
-
-The annual general meeting of the Company shall be held in each year other than the year of incorporation at such time and place as the President or the Chairman, or any two Directors or any Director and the Secretary or the Board shall appoint. At least 20 days’ notice of such meeting shall be given to each Shareholder entitled to attend and vote thereat, stating the date, place and time at which the meeting is to be held, that the election of Directors will take place thereat.
-
-^Notice of Special General Meeting
-
-The Chairman or the President or any Director and the Secretary or the Board may convene a special general meeting of the Company whenever in their judgment such a meeting is necessary, upon not less than five days’ notice to each Shareholder entitled to attend and vote thereat which shall state the date, time, place and the general nature of the business to be considered at the meeting.
-
-^Accidental Omission of Notice of General Meeting
-
-The accidental omission to give notice of a general meeting to, or the non-receipt of notice of a general meeting by, any person entitled to receive notice shall not invalidate the proceedings at that meeting.
-
-^Meeting Called on Requisition of Shareholders
-
-Notwithstanding anything herein, the Board shall, on the requisition of Shareholders holding at the date of the deposit of the requisition shares representing not less than one-tenth of such of the paid-up share capital of the Company as at the date of the deposit carries the right to vote at general meetings of the Company, forthwith proceed to convene a special general meeting of the Company and the provisions of the Act shall apply.
-
-^Short Notice
-
-^general meeting of the Company shall, notwithstanding that it is called by shorter notice than that specified in these Bye-laws, be deemed to have been properly called if it is so agreed by (i) all the Shareholders entitled to attend and vote thereat in the case of an annual general meeting; and (ii) by a majority in number of the Shareholders having the right to attend and vote at the meeting, being a majority together holding not less than [[Percentage 3: Number]]% in nominal value of the shares giving a right to attend and vote thereat in the case of a special general meeting.
-
-^ \centered 36A. Giving Notice and Access 
-
-^A notice may be given by the Company to a Shareholder:
-
-^^by delivering it to such Shareholder in person; or
-
-^^by sending it by mail or courier to such Shareholder’s address in the Register of Shareholders; or
-
-^^by transmitting it by electronic means (including facsimile and electronic mail, but not telephone) in accordance with such directions as may be given by such Shareholder to the Company for such purpose; or
-
-^^by delivering it in accordance with the provisions of the Act pertaining to delivery of electronic records by publication on a website.
-
-^Any notice required to be given to a Shareholder shall, with respect to any shares held jointly by two or more persons, be given to whichever of such persons is named first in the Register of Shareholders and notice so given shall be sufficient notice to all the holders of such shares.
-
-^Any notice delivered in accordance with Bye-laws 36A (1)(a), 36A(1)( b) or 36A(1)(c) shall be deemed to have been served at the time when the same would be delivered in the ordinary course of transmission and, in proving such service, it shall be sufficient to prove that the notice was properly addressed and prepaid, if posted, and the time when it was posted, delivered to the courier, or transmitted by electronic means. Any notice delivered in accordance with Bye-law 36A (1)(d) shall be deemed to have been delivered at the time when the requirements of the Act in that regard have been met.
-
-^Postponement of Meetings
-
-The Chairman or the President or any two Directors may, and the Secretary on instruction from the Chairman or the President or any two Directors shall, postpone any general meeting called in accordance with the provisions of these Bye-laws (other than a meeting requisitioned under these Bye-laws) provided that notice of postponement is given to each Shareholder before the time for such meeting. Fresh notice of the date, time and place for the postponed meeting shall be given to each Shareholder in accordance with the provisions of these Bye-laws.
-
-^Quorum for General Meeting
-
-At the commencement of any general meeting of the Company, two or more persons present in person and representing in person or by proxy shares representing more than fifty percent ([[Percentage 4: Number]]%) of the issued and outstanding shares entitled to vote at the meeting (without applying adjustments or eliminations of voting power of shares pursuant to Bye-laws 49-53, inclusive) shall form a quorum for the transaction of business, provided that, if the Company shall at any time have only one Shareholder, one Shareholder present in person or by proxy shall form a quorum for the transaction of business at any general meeting of the Company held during such time. If within half an hour from the time appointed for the meeting a quorum is not present, then, in the case of a meeting convened on a requisition, the meeting shall be deemed cancelled and, in any other case, the meeting shall stand adjourned to the same day one week later, at the same time and place or to such other day, time or place as the Secretary may determine. If the meeting shall be adjourned to the same day one week later or the Secretary shall determine that the meeting is adjourned to a specific date, time and place, it is not necessary to give notice of the adjourned meeting other than by announcement at the meeting being adjourned. If the Secretary shall determine that the meeting be adjourned to an unspecified date, time or place, fresh notice of the resumption of the meeting shall be given to each Shareholder entitled to attend and vote thereat in accordance with the provisions of these Bye-laws.
-
-38A. Chairman to Preside at General Meetings
-
-Unless otherwise agreed by a majority of those attending and entitled to vote thereat, the Chairman, if there be one, and if not the President, if there be one, shall act as chairman at all general meetings at which such person is present. In their absence, a chairman shall be appointed or elected by those present at the meeting and entitled to vote.
-
-^**Adjournment of Meetings**
-
-^The chairman of a general meeting may, with the consent of the majority of the Shareholders present at any general meeting at which a quorum is present (and shall if so directed by the meeting), adjourn the meeting. In addition, the chairman may adjourn the meeting to another time and place without such consent or direction if it appears to him that:
-
-^^it is likely to be impracticable to hold or continue that meeting because of the number of Shareholders wishing to attend who are not present;
-
-^^the unruly conduct of persons attending the meeting prevents, or is likely to prevent, the orderly continuation of the business of the meeting; or
-
-^^an adjournment is otherwise necessary so that the business of the meeting may be properly conducted.
-
-^Unless the meeting is adjourned to a specific date, place and time announced at the meeting being adjourned, fresh notice of the date, place and time for the resumption of the adjourned meeting shall be given to each Shareholder entitled to attend and vote thereat in accordance with the provisions of these Bye-laws.
-
-^Attendance at Meetings
-
-^If the Board of Directors, or a committee of the Board of Directors, approves, Shareholders may participate in any general meeting, subject to any procedures or restrictions established by the Board of Directors, by telephonic, electronic or other communication facilities or means as permit all persons participating in the meeting to communicate with each other simultaneously and instantaneously, and participation in such a meeting shall constitute presence in person at such meeting.
-
-^The Board may, and at any general meeting, the chairman of such meeting may make any arrangement and impose any requirement or restriction as may be considered appropriate to ensure the security of a general meeting including, without limitation, requirements for evidence of identity to be produced by those attending the meeting, the searching of their personal property and the restriction of items that may be taken into the meeting place. The Board and, at any general meeting, the chairman of such meetings are entitled to refuse entry to a person who refuses to comply with any such arrangements, requirements or restrictions.
-
-^Written Resolutions
-
-^Subject to these Bye-laws, anything which may be done by resolution of the Company in general meeting or by resolution of a meeting of any class of the Shareholders of the Company, may, without a meeting and without any previous notice being required, be done by resolution in writing signed by, or, in the case of a Shareholder that is a corporation, partnership, limited liability company or other form of entity whether or not a company within the meaning of the Act, on behalf of, [[Percentage 5: Number]]% of the Shareholders who at the date of the resolution would be entitled to attend the meeting and vote on the resolution.
-
-^A resolution in writing may be signed by, or, in the case of a Shareholder that is a corporation, partnership, limited liability company or other form of entity, whether or not a company within the meaning of the Act, on behalf of, [[Percentage 5]]% of the Shareholders, or any class thereof, in as many counterparts as may be necessary.
-
-^A resolution in writing made in accordance with this Bye-law is as valid as if it had been passed by the Company in general meeting or by a meeting of the relevant class of Shareholders and such resolution passed shall constitute the holding of a meeting so required under the Act.
-
-^For the purposes of this Bye-law, the effective date of the resolution is the date when the resolution is signed by, or, in the case of a Shareholder that is a corporation, partnership, limited liability company or other form of entity, whether or not a company within the meaning of the Act, on behalf of, the last Shareholder to sign and any reference in any Bye-law to the date of passing of a resolution is, in relation to a resolution made in accordance with this Bye-law, a reference to such date.
-
-^A resolution in writing made in accordance with this Bye-law is as valid as if it had been passed by the Company in general meeting or by a meeting of the relevant class of Shareholders, as the case may be, and any reference in any Bye-law to a meeting at which a resolution is passed or to Shareholders voting in favor of a resolution shall be construed accordingly.
-
-^A resolution in writing made in accordance with this Bye-law shall constitute minutes for the purposes of the Act.
-
-^This Bye-law shall not apply to a resolution passed to remove an Auditor or a Director from office before the expiration of his term of office.
-
-^Attendance of Directors
-
-The Directors of the Company shall be entitled to receive notice of and to attend and be heard at any general meeting.
-
-^Voting at Meetings
-
-^Subject to the provisions of the Act and these Bye-laws, any question proposed for the consideration of the Shareholders at any general meeting shall be decided by the affirmative votes of a majority of the votes cast, but in all cases after giving effect to any adjustments or eliminations of voting power pursuant to **Bye-laws 49-53** (inclusive), cast in accordance with the provisions of these Bye-laws and in the case of an equality of votes the resolution shall fail.
-
-^In the event that a Shareholder participates in a general meeting by telephone, electronic or other communication facilities or means to the extent permitted in accordance with Bye-law 40, the chairman of the meeting shall direct the manner in which such Shareholder may cast his vote on a show of hands.
-
-^Voting by Poll
-
-^At any general meeting, a resolution put to the vote of the meeting or any question proposed for the consideration of the Shareholders shall, in the first instance, be voted upon by poll, subject to any rights or restrictions for the time being lawfully attached to any class or series of shares, including, without limitation, the provisions of **Bye-laws 49-53** (inclusive) on the adjustments or eliminations of voting power.
-
-^Where, in accordance with the provisions of paragraph (1) of this Bye-law 44, subject to any rights or restrictions for the time being lawfully attached to any class or series of shares, every person present at such meeting shall have for each voting share of which such person is the holder or for which such person holds a proxy, the number of votes determined pursuant to **Bye-laws 49-53** (inclusive) and such votes shall be counted in the manner set out in paragraph (4) of this Bye-law or in the case of a general meeting at which one or more Shareholders are present by telephone, electronic or other communication facilities or means, in such manner as the chairman of the meeting may direct. A person entitled to more than one vote need not use all of his votes or cast all the votes he uses in the same way. The result of such poll shall be deemed to be the resolution of the meeting at which the poll and for the avoidance of doubt, shall replace any previous resolution upon the same matter which may have been the subject of a vote on a show of hands.
-
-^A poll taken in accordance with the provisions of paragraph (1) of this Bye-law 44 on a question of adjournment shall be taken forthwith and a poll taken on any other question shall be taken in such manner and at such time and place as the chairman (or acting chairman) of the general meeting may direct and any business may be proceeded with pending the taking of the poll.
-
-^Where a vote is taken by poll, each person physically present and entitled to vote shall be furnished with a ballot paper on which such person shall record his or her vote in such manner as shall be determined at the meeting having regard to the nature of the question on which the vote is taken, and each ballot paper shall be signed or initialed or otherwise marked so as to identify the voter and (if not otherwise indicated on proxy records available to the Company), the registered holder in the case of a proxy. Each person present by telephone, electronic or other communication facilities or means shall cast his vote in such a manner as the chairman shall direct. At the conclusion of the poll, the ballot papers and votes cast in accordance with such directions shall be examined and counted by the inspector of election, being a representative of the Company’s transfer agent or registrar or such other inspector of election appointed from time to time by the Board, for the purpose and the result of the poll shall be declared by the chairman of the meeting.
-
-^Decision of Chairman
-
-^At any general meeting if an amendment shall be proposed to any resolution under consideration and the chairman of the meeting shall rule on whether the proposed amendment is out of order, the proceedings on the substantive resolution shall not be invalidated by any error in such ruling.
-
-^At any general meeting a declaration by the chairman of the meeting that a question proposed for consideration has been carried, or carried unanimously, or by a particular majority, or lost, and an entry to that effect in a book containing the minutes of the proceedings of the Company shall be conclusive evidence of that fact.
-
-^Instrument of Proxy
-
-^Every Shareholder entitled to vote has the right to do so either in person or by one or more persons authorized by a proxy executed and delivered in accordance with these Bye-laws.
-
-^A Person so authorized as a proxy shall be entitled to exercise the same power on behalf of the grantor of the proxy as the grantor could exercise at a general meeting of the Company.
-
-^Any Shareholder may appoint a standing proxy or (if a corporation, partnership, limited liability company or other form of entity, by a representative pursuant to Bye-law 47) by depositing at the registered office of the Company, or at such place or places as the Board may otherwise specify from time to time for the purpose, a proxy or (if a corporation, partnership, limited liability company or other form of entity) an authorization and such proxy or authorization shall be valid for all general meetings and adjournments thereof or, resolutions in writing, as the case may be, until notice of revocation is received at the registered office of the Company, or at such place or places as the Board may otherwise specify from time to time for the purpose. A person so authorized as a proxy or representative shall be entitled to exercise the same power on behalf of the grantor of the authority as the grantor could exercise and the grantor shall for the purposes of these Bye-laws be deemed to be present in person at any such meeting if a person so authorized is present at the meeting. Where a standing proxy or authorization exists, its operation shall be deemed to have been suspended at any general meeting or adjournment thereof at which the Shareholder is present or in respect to which the Shareholder has specially appointed a proxy or representative. The Board may from time to time require such evidence as it shall deem necessary or appropriate as to the due execution and continuing validity of any such standing proxy or authorization and the operation of any such standing proxy or authorization shall be deemed to be suspended until such time as the Board determines that it has received the requested evidence or other evidence satisfactory to it.
-
-^Subject to paragraph (3) of this Bye-law the instrument appointing a proxy together with such other evidence as to its due execution as the Board may from time to time require shall be delivered at the registered office of the Company (or at such place or places as may be specified in the notice convening the meeting or in any notice of any adjournment or in any instrument of proxy sent out by the Company in relation to a meeting or, in any document sent therewith), prior to the holding of the relevant meeting or adjourned meeting at which the individual named in the instrument proposes to vote and in default the instrument of proxy shall not be treated as valid.
-
-^Instruments of proxy shall be in such form as the Board may approve (including, without limitation, written form or electronic form which may include proxies voted by Internet or telephone) and the Board may, if it thinks fit, send out with the notice of any meeting forms of instruments of proxy for use at the meeting. The instrument of proxy shall be deemed to confer authority to demand or join in demanding a poll (as the Act may permit persons to demand a poll) and to vote on any amendment of a resolution put to the meeting for which it is given as the proxy thinks fit. The instrument of proxy shall unless the contrary is stated therein be valid as well for any adjournment of the meeting as for the meeting to which it relates.
-
-^A vote given in accordance with the terms of an instrument of proxy shall be valid notwithstanding the previous death or unsoundness of mind of the principal subsequent to giving the proxy but before the vote, or revocation of the instrument of proxy or of the authority under which it was executed.
-
-^The decision of the chairman of any general meeting as to the validity of any appointment of a proxy shall be final.
-
-^Representation of Corporations etc. at Meetings
-
-^corporation, partnership, limited liability company or other form of entity which is a Shareholder may, by written instrument, authorize such person as it thinks fit to act as its representative at any meeting of the Shareholders or for all meetings of the Shareholders or for all meetings of the Shareholders for a certain or determinable period or until revocation and the person so authorized shall be entitled to exercise the same powers on behalf of the corporation, partnership, limited liability company or other form of entity which such person represents as that corporation, partnership, limited liability company or other term of entity could exercise if it were an individual Shareholder and that Shareholder shall be deemed to be present in person at any such meeting attended by its authorized representative or representatives. Notwithstanding the foregoing, the chairman of the meeting may accept such assurances as he or she thinks fit as to the right of any person to attend and vote at general meetings on behalf of a corporation, partnership, limited liability company or other form of entity which is a Shareholder.
-
-\centered **VOTES OF SHAREHOLDERS**
-
-^General
-
-Subject to the provisions of **Bye-laws 49-53** (inclusive) below, and subject to any rights and restrictions for the time being attached to any class or classes or series of shares, every Shareholder shall have one vote for each share carrying the right to vote on the matter in question of which he is the holder. Notwithstanding any other provisions of these Bye-laws, all determinations in these Bye-laws that are made by or subject to a vote or approval of Shareholders shall be based upon the voting power of such Shareholders’ shares as determined pursuant to **Bye-laws 49-53** (inclusive).
-
-^Adjustment of Voting Power
-
-^The voting power of all shares is hereby adjusted (and shall be automatically adjusted in the future) to the extent necessary so that there is no [[Percentage 1]]% U.S. Shareholder. The Board shall implement the foregoing in the manner provided herein provided, however, that the foregoing provision and the remainder of this **Bye-law 49** shall not apply in the event that one 
-
-Shareholder owns greater than [[Percentage 6: Number]]% of the voting power of the issued and outstanding shares of the Company determined without applying the voting power adjustments or eliminations under Bye-laws 49-53 (inclusive).
-
-^The Board shall from time to time, including prior to any time at which a vote of Shareholders is taken, take all reasonable steps necessary to ascertain, including those specified in **Bye-law 53**, through communications with Shareholders or otherwise, whether there exists, or will exist at the time any vote of Shareholders is taken, a Tentative [[Percentage 1]]% U.S. Shareholder.
-
-^In the event that a Tentative [[Percentage 1]]% U.S. Shareholder exists, the aggregate votes conferred by shares held by a Shareholder and treated as Controlled Shares of that Tentative [[Percentage 1]]% U.S. Shareholder shall be reduced to the extent necessary such that the Controlled Shares of the Tentative [[Percentage 1]]% U.S. Shareholder will constitute less than [[Percentage 1]]% of the voting power of all issued and outstanding shares. In applying the previous sentence where shares held by more than one Shareholder are treated as Controlled Shares of such Tentative [[Percentage 1]]% U.S. Shareholder, the reduction in votes shall apply to such Shareholders in descending order according to their respective Attribution Percentages, provided that, in the event of a tie, the reduction shall apply pro rata to such Shareholders. The votes of Shareholders owning no shares treated as Controlled Shares of any Tentative [[Percentage 1]]% U.S. Shareholder shall, in the aggregate, be increased by the same number of votes subject to reduction as described above provided however that no shares shall be conferred votes to the extent that doing so will cause any Shareholder to be treated as a [[Percentage 1]]% U.S. Shareholder. Such increase shall be apportioned to all such Shareholders in proportion to their voting power at that time, provided that such increase shall be limited to the extent necessary to avoid causing any person to be a [[Percentage 1]]% U.S. Shareholder. The adjustments of voting power described in this Bye-law shall apply repeatedly until there is no [[Percentage 1]]% U.S. Shareholder. The Board of Directors may deviate from any of the principles described in this Bye-law and determine that shares held by a Shareholder shall carry different voting rights as it determines appropriate (1) to avoid the existence of any [[Percentage 1]]% U.S. Shareholder or (2) to avoid adverse tax, legal or regulatory consequences to the Company, any subsidiary of the Company, or any direct or indirect holder of shares or its Affiliates. For the avoidance of doubt, in applying the provisions of **Bye-laws 49-53** (inclusive), a share may carry a fraction of a vote.
-
-^Other Adjustments of Voting Power
-
-In addition to the provisions of **Bye-law 49**, any shares shall not carry any right to vote to the extent that the Board of Directors determines, that it is necessary that such shares should not carry the right to vote in order to avoid adverse tax, legal or regulatory consequences to the Company, any subsidiary of the Company, or any other direct or indirect holder of shares or its Affiliates, provided that no adjustment pursuant to this sentence shall cause any person to become a [[Percentage 1]]% U.S. Shareholder.
-
-^Notice
-
-Prior to the meeting on which Shareholders shall vote on any matter (or prior to any vote in the case of notification to Shareholders specified in item (3) of this Bye-law), the Board shall use best efforts to (1) retain the services of an internationally recognized accounting firm or organization with comparable professional capabilities in order to assist the Company in applying the principles of **Bye-laws 49-50** and (2) obtain from such firm or organization a statement describing the information obtained and procedures followed and setting forth the determinations made with respect to **Bye-laws 49-50**, and (3) notify in writing or orally each Shareholder of the voting power conferred by its shares determined in accordance with **Bye-laws 49-50**. For the avoidance of doubt, any failure by the Board to comply with any of the provisions of this Bye-law shall not invalidate any votes cast or the proceedings at the meeting.
-
-^Board Determination Binding
-
-Any determination by the Board as to any adjustments or eliminations of voting power of any shares made pursuant to Bye-laws 49-53 (inclusive) shall be final and binding and any vote taken based on such determination shall not be capable of being challenged solely on the basis of such determination.
-
-^Requirement to Provide Information and Notice
-
-^The Board shall have the authority to request from any direct or indirect holder of shares, and such holder of shares shall provide, such information as the Board may reasonably request for the purpose of determining whether any holder’s voting rights are to be adjusted. If such holder fails to respond to such a request, or submits incomplete or inaccurate information in response to such a request, the Board may determine in its discretion that such holder’s shares shall carry no voting rights in which case such shares shall not carry any voting rights until otherwise determined by the Board.
-
-^Any direct or indirect holder of shares shall give notice to the Company within ten days following the date that such holder acquires actual knowledge that it is the direct or indirect holder of Controlled Shares of [[Percentage 1]]% or more of the voting power of all issued and outstanding shares of the Company (without giving effect to voting power adjustments or eliminations under Bye-laws 49-53 (inclusive).
-
-^Notwithstanding the foregoing, no Shareholder shall be liable to any other Shareholder or the Company for any losses or damages resulting from such Shareholder’s failure to respond to, or submission of incomplete or inaccurate information in response to, a request under paragraph (1) or from such Shareholder’s failure to give notice under paragraph (2) of this Bye-law 53.
-
-^Any information provided by any Shareholder to the Company pursuant to this Bye-law 53 or for purposes of making the analysis required by Bye-laws 49-50, shall be deemed “confidential information” (the “Confidential Information”) and shall be used by the Company solely for the purposes contemplated by such Bye-laws (except as may be required otherwise by applicable law or regulation). The Company shall hold such Confidential Information in strict confidence and shall not disclose any Confidential Information that it receives, except (i) to the U.S. Internal Revenue Service (the “Service”) if and to the extent the Confidential Information is required by the Service, (ii) to any outside legal counsel or accounting firm engaged by the Company to make determinations regarding the relevant Bye-laws or (iii) as otherwise required by applicable law or regulation.
-
-^For the avoidance of doubt, the Company shall be permitted to disclose to the Shareholders and others the relative voting percentages of all Shareholders after application of Bye-laws 49-53 (inclusive). At the written request of a Shareholder, the Confidential Information of such Shareholder shall be destroyed or returned to such Shareholder after the later to occur of (i) such Shareholder no longer being a Shareholder or (ii) the expiration of the applicable statute of limitations with respect to any Confidential Information obtained for purposes of engaging in any tax-related analysis.
-
-\centered **CERTAIN SUBSIDIARIES**
-
-^Voting of Subsidiary Shares
-
-Notwithstanding any other provision of these Bye-laws to the contrary, if the Company is required or entitled to vote at a general meeting of any direct non-U.S. subsidiary of the Company, the Board shall refer the subject matter of the vote to the Shareholders of the Company on a poll (subject to **Bye-laws 49-53** (inclusive)) and seek authority from the Shareholders for the Company’s corporate representative or proxy to vote in favor of the resolution proposed by the subsidiary. The Board shall cause the Company’s corporate representative or proxy to vote the Company’s shares in the subsidiary pro rata to the votes received at the general meeting of the Company, with votes for or against the directing resolution being taken, respectively, as an instruction for the Company’s corporate representative or proxy to vote the appropriate proportion of its shares for and the appropriate proportion of its shares against the resolution proposed by the subsidiary. The Board shall have authority to resolve any ambiguity.
-
-^Bye-laws or Articles of Association of Certain Subsidiaries
-
-The Board in its discretion shall require that the Bye-laws or Articles of Association or similar organizational documents of each subsidiary of the Company, organized under the laws of a jurisdiction outside the United States of America, other than any non-U.S. subsidiary that is a direct or indirect subsidiary of a U.S. Person, shall contain provisions substantially similar to **Bye-laws 49-53** (inclusive). The Company shall enter into agreements, as and when determined by the Board, with each such subsidiary, only if and to the extent reasonably necessary and permitted under applicable law, to effectuate or implement this Bye-law.
-
-\centered **SHARE CAPITAL AND SHARES**
-
-^Rights of Shares
-
-^Without prejudice to any special rights previously conferred on the holders of any existing shares or class or series of shares, the share capital of the Company shall consist of at least one class of common shares that carry voting rights. The holders of shares shall, subject to the provisions of these Bye-laws and unless shares held are not common shares and are classes or series of shares with additional or other rights and restrictions:
-
-^^be entitled to one vote per share but subject to any adjustments or eliminations of voting power under Bye-laws 49-53 (inclusive);
-
-^^be entitled to such dividends as the Board may from time to time declare;
-
-^^in the event of a winding-up or dissolution of the Company, whether voluntary or involuntary or for the purpose of a reorganization or otherwise or upon any distribution of capital, be entitled to the surplus assets of the Company; and
-
-^^generally be entitled to enjoy all of the rights attaching to shares.
-
-^All the rights attaching to a Treasury Share shall be suspended and shall not be exercised by the Company while it holds such Treasury Share and, shall except where required by the Act, all Treasury Shares shall be excluded from the calculation of any percentage or fraction of the share capital, or shares, of the Company. Once a Treasury Share ceases to be held by the Company it will no longer be treated as a Treasury Share and the rights allocated to such share shall be restored on a prospective basis.
-
-^Power to Issue Shares
-
-^Subject to the restrictions, if any that are provided for in these Bye-laws from time to time and without prejudice to any special rights previously conferred on the holders of any existing shares or class or series of shares, the Board shall have power to issue any unissued shares of the Company on such terms and conditions and with such rights and restrictions as it may determine and any shares or class or series of shares may be issued with such preferred, deferred, redemption, repurchase or other special rights or such restrictions, whether in regard to dividend, voting (including, without limitation, shares which do not carry any voting rights), return of capital or otherwise as the Board may determine. Further, the Board may create and issue shares of a new class or series or of any existing class or series of shares and the Board may generally exercise the powers of the Company namely to (a) divide its shares into several classes or series and attach thereto respectively any preferential, deferred, qualified or special rights, privileges or conditions; (b) consolidate and divide all or any of its share capital into shares of larger amount than its existing shares; (c) subdivide its shares, or any of them, into shares of smaller amount than is fixed by the Memorandum of Association of the Company, provided however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of a share from which the reduced share is derived; (d) make provision for the issue and allotment of shares which do not carry any voting rights; and (e) cancel shares which, at the date of the passing of the resolution of the Board in that behalf, have not been taken or agreed to be taken by any person, and diminish the amount of the Company’s share capital by the amount of the shares so cancelled, without the need of any specific approval of the Shareholders as might otherwise be required by such sections of the Act. The Board may also issue options, warrants or other rights to purchase or acquire shares or, subject to the Act, securities convertible into or exchangeable for shares (including, without limitation, any employee benefit plan providing for the issue of shares or options or rights in respect thereof) on such terms, conditions and other provisions as are fixed by the Board, including, without limiting the generality of this authority, conditions that preclude or limit any person or persons owning or offering to acquire a specified number or percentage of the outstanding shares, option rights, securities having conversion or option rights, or obligations of the Company or transferee of the person or persons from exercising, converting, transferring or receiving the shares, option rights, securities having conversion or option rights, or obligations and, at such times, for such consideration and on such terms and conditions as it may determine. Without limiting the generality of the foregoing, the Board may create and issue shares including, but not limited to, series of preferred shares (which may or may not be separate classes of preferred shares), at such times, for such consideration and on such terms and conditions, with similar or different rights or restrictions as any other class or series and to establish from time to time the number of preferred shares to be included in each such class or series, and to fix the designation, powers, preferences, voting rights, dividend rights, redemption, repurchase provisions, and other rights, qualifications, limitations or restrictions thereof, as it may determine. Notwithstanding the foregoing or any other provision of these Bye-laws (except for the immediately following sentence), the Company shall not issue any shares or grant options or warrants in any manner that the Board determines may result in a non-de minimis adverse tax, legal or regulatory consequence to the Company, any of its subsidiaries or any direct or indirect holder of shares or its Affiliates. The immediately preceding sentence shall not apply to any issuance of shares or to grants of options or warrants to a person acting as an underwriter in the ordinary course of its business, purchasing such shares, options or warrants pursuant to a purchase agreement to which the Company is a party, for resale.
-
-^The Board shall, in connection with the issue of any share, have the power to authorize the Company to pay such commission and brokerage as may be permitted by law.
-
-^Except as authorized by the Board and permitted by applicable law, the Company shall not give, whether directly or indirectly, whether by means of loan, guarantee, provision of security or otherwise, any financial assistance for the purpose of a purchase or subscription made or to be made by any person of or for any shares in the Company, but nothing in this Bye-law shall prohibit transactions permitted under the Act.
-
-^The Company may from time to time do any one or more of the following things:
-
-^^make arrangements on the issue of shares for a difference between the Shareholders in the amounts and times of payments of calls on their shares;
-
-^^accept from any Shareholder the whole or a part of the amount remaining unpaid on any shares held by him, although no part of that amount has been called up;
-
-^^pay dividends in proportion to the amount paid up on each share where a larger amount is paid up on some shares than on others; and
-
-^^issue its shares in fractional denominations and deal with such fractions to the same extent as its whole shares and shares in fractional denominations shall have in proportion to the respective fractions represented thereby all of the rights of whole shares including (but without limiting the generality of the foregoing) the right to vote, to receive dividends and distributions and to participate in a winding up.
-
-^Variation of Rights, Alteration of Share Capital and Purchase of Shares of the Company
-
-^Subject to the provisions of the Act, any preference or preferred shares may be issued or converted into shares that, at a determinable date or at the option of the Company, are liable to be redeemed on such terms and in such manner as, before the issue or conversion, may be determined by the Board.
-
-^If at any time the share capital is divided into different classes or series of shares, the rights attached to any class or series (unless otherwise provided by the terms of issue of the shares of that class or series) may, whether or not the Company is being wound-up, be varied with the consent in writing of the holders of three-fourths of the issued shares of that class or series or with the sanction of a resolution passed by a majority of the votes cast at a separate general meeting of the holders of the shares of the class or series. The rights conferred upon the holders of the shares of any class or series issued with preferred or other rights shall not, unless otherwise expressly provided by the terms of issue of the shares of that class or series, be deemed to be varied by the creation or issue of further shares ranking pari passu therewith or having less rights. Further, the rights attaching to the common shares shall be deemed not to be varied by the creation or issue of any share ranking in priority for payment of a dividend or with any other rights more favorable than those conferred by the common shares.
-
-^The Company may from time to time by resolution of the Shareholders or pursuant to Bye-law 57 (as applicable) change the currency denomination of, increase, alter, divide, consolidate, subdivide, diminish or reduce its share capital in accordance with the provisions of the Act. Where, on any change or reduction of share capital as aforesaid, fractions of shares or some other difficulty would arise, the Board may deal with or resolve the same in such manner as it thinks fit, including, without limiting the generality of the foregoing, the issue to Shareholders, as appropriate, of fractions of shares and/or arranging for the sale or transfer of the fractions of shares of Shareholders.
-
-^The Company may from time to time purchase (or repurchase) its own shares in accordance with the provisions of the Act on such terms as the Board shall think fit.
-
-^Notwithstanding the foregoing, the Company shall not vary the rights attaching to any class or series of shares, change or reduce its share capital or purchase (or repurchase) its own shares if the Board, after taking into account, among other things, adjustments or eliminations of voting power contained in Bye-laws 49-53 (inclusive), determines that any non-de minimis adverse tax, regulatory or legal consequences to the Company, any subsidiary of the Company, or any direct or indirect holder of shares or its Affiliates would result from such action.
-
-^Registered Holder of Shares
-
-^The Company shall be entitled to treat the registered holder of any share as the absolute owner thereof and accordingly shall not be bound to recognize any equitable or other claim to, or interest in, such share on the part of any other person.
-
-^Any dividend, interest or other moneys payable in cash in respect of shares may be paid by check or draft sent through the post directed to the Shareholder at such Shareholder’s address in the Register of Shareholders or, in the case of joint holders, to such address of the holder first named in the Register of Shareholders, or to such person and to such address as the holder or joint holders may in writing direct. If two or more persons are registered as joint holders of any shares, any one can give an effectual receipt for any dividend paid in respect of such shares.
-
-^Death of a Joint Holder
-
-Where two or more persons are registered as joint holders of a share or shares, then in the event of the death of any joint holder or holders, the remaining joint holder or holders shall be absolutely entitled to the said share or shares and the Company shall recognize no claim in respect of the estate of any joint holder except in the case of the last survivor of such joint holders.
-
-^Share Certificates
-
-^Every Shareholder shall be entitled to a certificate under the common seal of the Company (or a facsimile thereof) or bearing the signature (or a facsimile thereof) of a Director or the Secretary or a person expressly authorized to sign specifying the number and, where appropriate, the class or series of shares held by such Shareholder and whether the same are fully paid up and, if not, how much has been paid thereon. The Board may determine, either generally or in a particular case, that any or all signatures on certificates may be printed thereon or affixed by mechanical means. Notwithstanding Bye-law 90, the Board may determine that a share certificate need not be signed on behalf of the Company or that the seal of the Company need not be attested.
-
-^The Company shall be under no obligation to complete and deliver a share certificate unless specifically called upon to do so by the person to whom such shares have been allotted.
-
-^If any such certificate shall be proved to the satisfaction of the Board to have been worn out, lost, mislaid or destroyed, the Board may cause a new certificate to be issued and request an indemnity for the lost certificate if it sees fit.
-
-^Calls on Shares
-
-^The Board may from time to time make such calls as it thinks fit upon the Shareholders in respect of any monies unpaid on the shares allotted to or held by such Shareholders and, if a call is not paid on or before the day appointed for payment thereof, the Shareholder may, at the discretion of the Board, be liable to pay the Company interest on the amount of such call at such rate as the Board may determine, from the date when such call was payable up to the actual date of payment. The joint holders of a share shall be jointly and severally liable to pay all calls in respect thereof.
-
-^The Board may, on the issue of shares, differentiate between the holders as to the amount of calls to be paid and the times of payment of such calls.
-
-^Any sum which by the terms of allotment of a share becomes payable upon issue or at any fixed date, whether on account of the nominal value of the share or by way of premium, shall for all the purposes of these Bye-laws be deemed to be a call duly made and payable, on the date on which, by the terms of issue, the same becomes payable, and in case of non-payment all the relevant provisions of these Bye-laws as to payment of interest, costs, charges and expenses, forfeiture or otherwise shall apply as if such sum had become payable by virtue of a call duly made and notified.
-
-^The joint holders of a share shall be jointly and severally liable to pay all calls in respect thereof.
-
-^The Company may accept from any Shareholder the whole or a part of the amount remaining unpaid on any shares held by him, although no part of that amount has been called up.
-
-^Forfeiture of Shares
-
-^If any Shareholder fails to pay, on the day appointed for payment thereof, any call in respect of any share allotted to or held by such Shareholder, the Board may, at any time thereafter during such time as the call remains unpaid, direct the Secretary to forward to such Shareholder a notice in the form, or as near thereto as circumstances admit, of Form “A” in the Schedule hereto.
-
-^If the requirements of such notice are not complied with, any such share may at any time thereafter before the payment of such call and the interest due in respect thereof be forfeited by a resolution of the Board to that effect, and such share shall thereupon become the property of the Company and may be disposed of as the Board shall determine.
-
-^A Shareholder whose share or shares have been forfeited as aforesaid shall, notwithstanding such forfeiture, be liable to pay to the Company all calls owing on such share or shares at the time of the forfeiture and all interest due thereon.
-
-^The Board may accept the surrender of any shares which it is in a position to forfeit on such terms and conditions as may be agreed. Subject to those terms and conditions, a surrendered share shall be treated as if it has been forfeited.
-
-^Repurchase of Shares
-
-^If the Board determine that share ownership by any person may result in a non-de minimis adverse tax, legal or regulatory consequences to the Company, any subsidiary of the Company, or any other direct or indirect holder of shares or its Affiliates (including if such consequence arises as a result of any such U.S. Person owning Controlled Shares of [[Percentage 1]]% or more of the value of the Company or the voting shares of the Company (after giving effect to any adjustments or eliminations of voting power pursuant to the provisions of Bye-laws 49-53 (inclusive)), the Company will have the option but not the obligation to purchase or repurchase or assign to a third party the right to purchase the minimum number of shares held by such person which is necessary to eliminate such non-de minimis adverse tax, legal or regulatory consequence at a price determined in the discretion of the Board to represent such shares’ Fair Market Value;
-
-^“Fair Market Value” means, with respect to a repurchase of any shares of the Company in accordance with paragraph (1) of this Bye-law 64, (a) if such shares are listed on a securities exchange (or quoted in a securities quotation system), the average closing sale price of such shares on such exchange (or in such quotation system), or, if such shares are listed on (or quoted in) more than one exchange (or quotation system), the average closing sale price of the shares on the principal securities exchange (or quotation system) on which such shares are then traded, or, if such shares are not then listed on a securities exchange (or quotation system) but are traded in the over-the-counter market, the average of the latest bid and asked quotations for such shares in such market, in each case for the last eight (8) trading days immediately preceding the day on which notice of the repurchase of such shares is sent pursuant to paragraph (1) of this Bye-law 64, or (b) (i) with respect to a repurchase, if no such closing sales prices or quotations are available because such shares are not publicly traded or otherwise, the fair value of such shares as determined by the Board; provided, that the calculation of the Fair Market Value of the shares (A) shall not include any discount relating to (x) the absence of a public trading market for, or any transfer restrictions on, such shares, or (y) the fact that such shares being repurchased represent a minority of the issued and outstanding shares, and (B) shall be final and the fees and expenses stemming from such calculation shall be borne by the Company or its assignee, as the case may be. If a Shareholder disagrees with the price so determined by the Board and notifies the Company of such disagreement within ten (10) days after notice of such determination,the Fair Market Value per share and the liquidity discount, if any, will be determined by an independent appraiser retained by the Company at its expense and reasonably acceptable to such Shareholder.
-
-\centered **REGISTER OF SHAREHOLDERS**
-
-^Contents of Register of Shareholders
-
-The Board shall cause to be kept in one or more books a Register of Shareholders and shall enter therein the particulars required by the Act.
-
-^Inspection of Register of Shareholders
-
-The Register of Shareholders shall be open to inspection without charge at the registered office of the Company on every business day, subject to such reasonable restrictions as the Board may impose, so that not less than two hours in each business day be allowed for inspection. The Register of Shareholders may, after notice has been given by advertisement in an appointed newspaper to that effect, be closed for any time or times not exceeding in the whole thirty days in each year.
-
-^Determination of Record Dates
-
-Notwithstanding any other provision of these Bye-laws, the Board may fix any date as the record date for:
-
-^^determining the Shareholders entitled to receive any dividend or distribution; and
-
-^^determining the Shareholders entitled to receive notice of and to vote at any general meeting of the Company.
-
-\centered **TRANSFER OF SHARES**
-
-^Instrument of Transfer
-
-^Subject to paragraph (5) of Bye-law 69, an instrument of transfer shall be in the form or as near thereto as circumstances admit of Form “B” in the Schedule hereto or in such other common form as the Board may accept including, without limitation, customary forms of the transfer agent of the Company or those of the New York Stock Exchange (or such other stock exchange as may serve as the primary stock exchange for the Company’s common shares). Such instrument of transfer shall be signed by or on behalf of the transferor and transferee provided that, in the case of a fully paid share, the Board may accept the instrument signed by or on behalf of the transferor alone. The transferor shall be deemed to remain the holder of such share until the same has been transferred to the transferee in the Register of Shareholders.
-
-^The Board may refuse to recognize any instrument of transfer unless it is accompanied by the certificate in respect of the shares to which it relates and by such other evidence as the Board may reasonably require to show the right of the transferor to make the transfer.
-
-^Restrictions on Transfer
-
-^The Board may decline to approve or register any transfer of shares if it appears to the Board, after taking into account, among other things, the adjustments or eliminations of voting power contained in Bye-laws 49-53 (inclusive), that any non-de minimis adverse tax, regulatory or legal consequences to the Company, any subsidiary of the Company, or any other direct or indirect holder of shares or its Affiliates would result from such transfer (including if such consequence arises as a result of any such U.S. Person owning Controlled Shares of [[Percentage 1]]% of more of the value of the Company or the voting shares of the Company (after giving effect to any adjustments or eliminations of voting power pursuant to the provisions of **Bye-laws 49-53** (inclusive)). The Board shall have the authority to request from any holder of shares, and such holder of shares shall provide, such information as the Board may reasonably request for the purpose of determining whether any transfer should be permitted.
-
-^Subject to any applicable requirements of the New York Stock Exchange (or any other applicable stock exchange), the Board (i) may decline to approve or to register any transfer of any share if a written opinion from counsel acceptable to the Company shall not have been obtained to the effect that registration of such shares under the U.S. Securities Act of 1933, as amended, is not required and (ii) shall decline to approve or to register any transfer of any share if the transferee shall not have been approved by applicable governmental authorities if such approval is required or if not in compliance with applicable consent, authorization or permission of any governmental body or agency in Bermuda.
-
-^If the Board refuses to register a transfer of any share, the Secretary shall send or procure that there shall be sent, within one month after the date on which the transfer was lodged with the Company, send to the transferor and transferee notice of the refusal.
-
-^The registration of transfers may be suspended at such times and for such periods as the Board may, from time to time determine, provided always that such registration shall not be suspended for more than 45 days in any year.
-
-^Shares may be transferred without a written instrument if transferred by an appointed agent or otherwise in accordance with the Act.
-
-^The restrictions on transfer of shares contained in this Bye-law 69 shall not apply to (a) any transfer that was approved by the Board prior to these Bye-laws coming into effect (as indicated in the resolutions adopting these Bye-laws), or (b) any transfer in connection with any matter approved by the Board prior to these Bye-laws coming into effect, including, without limitation, the initial public offering of the Company’s shares; provided, however, any such transfer must be in compliance with applicable consent, authorization or permission of Bermuda Monetary Authority.
-
-^Transfers by Joint Holders
-
-The joint holders of any share or shares may transfer such share or shares to one or more of such joint holders, and the surviving holder or holders of any share or shares previously held by them jointly with a deceased Shareholder may transfer any such share to the executors or administrators of such deceased Shareholder.
-
-\centered **TRANSMISSION OF SHARES**
-
-^Representative of Deceased Shareholder
-
-In the case of the death of a Shareholder, the survivor or survivors where the deceased Shareholder was a joint holder, and the legal personal representatives of the deceased Shareholder where the deceased Shareholder was a sole holder, shall be the only persons recognized by the Company as having any title to the deceased Shareholder’s interest in the shares. Nothing herein contained shall release the estate of a deceased joint holder from any liability in respect of any share which had been jointly held by such deceased Shareholder with other persons. Subject to the provisions of the Act, for the purpose of this Bye-law, legal personal representative means the executor or administrator of a deceased Shareholder or such other person as the Board may decide as being properly authorized to deal with the shares of a deceased Shareholder.
-
-^Registration on Death or Bankruptcy
-
-Any person becoming entitled to a share in consequence of the death or bankruptcy of any Shareholder may be registered as a Shareholder upon such evidence as the Board may deem sufficient or may elect to nominate some person to be registered as a transferee of such share, and in such case the person becoming entitled shall execute in favor of such nominee an instrument of transfer in the form, or as near thereto as circumstances admit, of Form “C” in the Schedule hereto or in such customary form stipulated by the transfer agent of the Company or the New York Stock Exchange or such other stock exchange as may serve as the primary stock exchange for the Company’s common shares (as appropriate). On the presentation thereof to the Board, accompanied by such evidence as the Board may require to prove the title of the transferor, the transferee shall be registered as a Shareholder but the Board shall, in either case, have the same right to decline or suspend registration as it would have had in the case of a transfer of the share by that Shareholder before such Shareholder’s death or bankruptcy, as the case may be.
-
-\centered **DIVIDENDS AND OTHER DISTRIBUTIONS**
-
-^Declaration of Dividends by the Board
-
-^The Board may, subject to these Bye-laws and in accordance with the Act, declare a dividend to be paid to the Shareholders, in proportion to the number of shares held by them, and such dividend may be paid in cash or wholly or partly in specie in which case the Board may fix the value for distribution in specie of any assets. No unpaid dividend shall bear interest as against the Company.
-
-^The Company may pay dividends in proportion to the amount paid up on each share where a larger amount is paid up on some shares than on others.
-
-^Other Distributions
-
-^The Board may declare and make such other distributions (in cash or in specie) to the Shareholders as may be lawfully made out of the assets of the Company. No unpaid distribution shall bear interest as against the Company.
-
-^Reserve Fund
-
-The Board may from time to time before declaring a dividend set aside, out of the surplus or profits of the Company, such sum as it thinks proper as a reserve to be used to meet contingencies or for equalizing dividends or for any other special purpose.
-
-^Deduction of Amounts Due to the Company
-
-The Board may deduct from the dividends or distributions payable to any Shareholder all monies due from such Shareholder to the Company on account of calls or otherwise.
-
-\centered **CAPITALIZATION**
-
-^Issue of Bonus Shares
-
-^The Board may resolve to capitalize any part of the amount for the time being standing to the credit of any of the Company’s share premium or other reserve accounts or to the credit of the profit and loss account or otherwise available for distribution by applying such sum in paying up unissued shares to be allotted as fully paid bonus shares pro rata to the Shareholders.
-
-^The Company may capitalize any sum standing to the credit of a reserve account or sums otherwise available for dividend or distribution by applying such amounts in paying up in full partly paid or nil paid shares of those Shareholders who would have been entitled to such sums if they were distributed by way of dividend or distribution.
-
-\centered **ACCOUNTS AND FINANCIAL STATEMENTS**
-
-^Records of Account
-
-The Board shall cause to be kept proper records of account with respect to all transactions of the Company and in particular with respect to:
-
-^^all sums of money received and expended by the Company and the matters in respect of which the receipt and expenditure relates;
-
-^^all sales and purchases of goods by the Company; and
-
-^^the assets and liabilities of the Company.
-
-Such records of account shall be kept at the registered office of the Company or, subject to the Act, at such other place as the Board may determine and shall be available for inspection by the Directors during normal business hours.
-
-^Financial Year End
-
-The financial year end of the Company may be determined by resolution of the Board and failing such resolution shall be 31st December of each year.
-
-^Financial Statements
-
-Subject to any rights to waive laying of accounts pursuant to the Act, financial statements as required by the Act shall be laid before the Shareholders in general meeting.
-
-\centered **AUDIT**
-
-^Appointment of Auditor
-
-Subject to the provisions of the Act, at the annual general meeting or at a subsequent special general meeting in each year, an independent representative of the Shareholders shall be appointed by them as Auditor of the accounts of the Company. Such Auditor may not be a Shareholder and no Director, Officer or employee of the Company shall, during his or her continuance in office, be eligible to act as an Auditor of the Company.
-
-^Remuneration of Auditor
-
-The remuneration of the Auditor shall be fixed by the Audit Committee.
-
-^Vacation of Office of Auditor
-
-If the office of Auditor becomes vacant by the resignation or death of the Auditor, or by the Auditor becoming incapable of acting by reason of illness or other disability at a time when the Auditor’s services are required, the Board shall, as soon as practicable, convene a special general meeting to fill the vacancy thereby created.
-
-^Access to Books of the Company
-
-The Auditor shall at all reasonable times have access to all books kept by the Company and to all accounts and vouchers relating thereto, and the Auditor may call on the Directors or Officers of the Company for any information in their possession relating to the books or affairs of the Company.
-
-^Report of the Auditor
-
-^Subject to any rights to waive laying of accounts or appointment of an Auditor pursuant to provisions of the Act, the accounts of the Company shall be audited at least once in every year.
-
-^The financial statements provided for by these Bye-laws shall be audited by the Auditor in accordance with generally accepted auditing standards. The Auditor shall make a written report thereon in accordance with generally accepted auditing standards and the report of the Auditor shall be submitted to the Shareholders in a general meeting.
-
-^The generally accepted auditing standards referred to in paragraph (2) of this Bye-law may be those of a country or jurisdiction other than Bermuda, as may be determined by the Board. If so, the financial statements and the report of the Auditor must disclose this fact and name such country or jurisdiction.
-
-\centered **NOTICES**
-
-^Notices to Shareholders of the Company
-
-^notice may be given by the Company to any Shareholder either by delivering it to such Shareholder in person or by sending it to such Shareholder’s address in the Register of Shareholders or to such other address given for the purpose. For the purposes of this Bye-law, a notice may be sent by mail, courier service, electronic means (including without limitation, cable, telex, telecopier, facsimile or electronic mail) or other mode of representing words in a legible and non-transitory form.
-
-^Notices to Joint Shareholders
-
-Any notice required to be given to a Shareholder shall, with respect to any shares held jointly by two or more persons, be given to whichever of such persons is named first in the Register of Shareholders and notice so given shall be sufficient notice to all the holders of such shares.
-
-^Service and Delivery of Notice
-
-Any notice shall be deemed to have been served at the time when the same would be delivered in the ordinary course of transmission and, in proving such service, it shall be sufficient to prove that the notice was properly addressed and prepaid, if posted, and the time when it was posted, delivered to the courier or to the cable company or transmitted by electronic means (including without limitation, cable, telex, telecopier, facsimile or electronic mail) or other method as the case may be.
-
-\centered **SEAL OF THE COMPANY**
-
-^The Seal
-
-The Company may adopt a seal in such form as the Board may from time to time determine. The Board may adopt one or more duplicate seals.
-
-^Manner in which Seal is to be Affixed
-
-^Subject to Bye-law 61, a seal of the Company may, but need not be affixed to any deed, instrument or document, and if the seal is to be affixed thereto, it shall be attested by the signature of (i) any Director, (ii) any Officer, (iii) the Secretary or (iv) any person authorized by the Board for that purpose.
-
-^A Resident Representative may, but need not, affix the seal of the Company to certify the authenticity of any copies of documents.
-
-\centered **WINDING-UP**
-
-^Winding-Up/Distribution by Liquidator
-
-If the Company shall be wound up, the liquidator may, with the sanction of a resolution of the Shareholders, divide amongst the Shareholders in specie or in kind the whole or any part of the assets of the Company (whether they shall consist of property of the same kind or not) and may, for such purpose, set such value as he or she deems fair upon any property to be divided as aforesaid and may determine how such division shall be carried out as between the Shareholders or different classes of Shareholders; provided that each Shareholder holding common shares of the Company shall receive at least the pro rata portion (based on its ownership of such shares) of any cash so distributed. The liquidator may, with the like sanction, vest the whole or any part of such assets in trustees upon such trusts for the benefit of the Shareholders as the liquidator shall think fit, but so that no Shareholder shall be compelled to accept any shares or other securities or assets whereon there is any liability.
-
-\centered **ALTERATION OF BYE-LAWS**
-
-^Alteration of Bye-Laws
-
-No Bye-law shall be rescinded, altered or amended and no new Bye-law shall be made until the same has been approved by a resolution of the Board and by a resolution of the Shareholders.
-
-\centered SCHEDULE - - FORM A (**BYE-LAW 63**)
-
-\centered NOTICE OF LIABILITY TO FORFEITURE FOR NON PAYMENT OF CALL
-
-You have failed to pay the call of [amount of call] made on the day of , 20 last, in respect of the [number] share(s) [numbers in figures] standing in your name in the Register of Shareholders of the Company, on the day of , 20 last, the day appointed for payment of such call. You are hereby notified that unless you pay such call together with interest thereon at the rate of per annum computed from the said day of , 20 last, on or before the day of , 20 next at the place of business of the Company, the share(s) will be liable to be forfeited.
-
-Dated this day of , 20
-
-[Signature of Secretary]
-
-[[Signature of Secretary Signatory Email: Identity | Signature]]
+[[COMPENSATION COMMITTEE Signatory Email: Identity | Signature]]
 __________________________________________
-{{Signature of Secretary Entity => By: [[Signature of Secretary Signatory First Name]] [[Signature of Secretary Signatory Last Name]]
-Title: [[Signature of Secretary Signatory Title]]}}
+{{COMPENSATION COMMITTEE Entity => By: [[COMPENSATION COMMITTEE Signatory First Name]] [[COMPENSATION COMMITTEE Signatory Last Name]]
+Title: [[COMPENSATION COMMITTEE Signatory Title]]}}
 
-\centered SCHEDULE - - FORM B (**BYE-LAW 68**)
+David C. Roussel, Chairman 
 
-\centered TRANSFER OF A SHARE OR SHARES
+First Amended & Restated Incentive Bonus Plan 
 
-FOR VALUE RECEIVED
-\centered [amount]
+Austin_1 592601v4 47080-9 
 
-\centered [transferor]
+Page 9  
 
-Hereby sell assign and transfer unto
-\centered [transferee]
+\centered **APPENDIX A**
 
-Of
-\centered [address]
+**The form of the Bonus Calculation Statement for Appendix A Participants shall be as follows, subject to appropriate modifications as the Corporation determines appropriate:**
 
-\centered [number of shares]
+**Segment/Division/Corporation/Function/Etc.**
 
-shares of
-\centered [name of Company]
+**Performance Period**
 
-Dated
+**Participant**
 
-\centered (Transferor)
+**Maximum Percentage**
 
-In the presence of:
+**Metrics**
 
-(Witness)
+**Bonus Calculation:**    
 
-\centered (Transferor)
+First Amended & Restated Incentive Bonus Plan 
 
-In the presence of:
+Austin_1 592601v4 47080-9 
 
-(Witness)
+APPENDIX A 
 
-\centered SCHEDULE - - FORM C (**BYE-LAW 72**)
+\centered **APPENDIX B-1**
 
-\centered TRANSFER BY A PERSON BECOMING ENTITLED ON DEATH/BANKRUPTCY OF A SHAREHOLDER
+\centered **BONUS CALCULATION FOR SENIOR MANAGEMENT**
 
-I/We having become entitled in consequence of the [death/bankruptcy] of [name of the deceased Shareholder] to [number] share(s) standing in the register of Shareholders of [Company] in the name of the said [name of deceased Shareholder] instead of being registered myself/ourselves elect to have [name of transferee] (the “Transferee”) registered as a transferee of such share(s) and I/we do hereby accordingly transfer the said share(s) to the Transferee to hold the same unto the Transferee his or her executors administrators and assigns subject to the conditions on which the same were held at the time of the execution thereof; and the Transferee does hereby agree to take the said share(s) subject to the same conditions.
+\centered **TEAM AND OTHER DESIGNATED EMPLOYEES**
 
-WITNESS our hands this day of , 20 Signed by the above-named
+**Corporate Function:**   [Member of Senior Management Team or other designated employees**]
 
-[person or persons entitled] in the presence of:
+**Performance Period:**   [[Date 2]] to [[Date 14: Date]]
 
-Signed by the above-named [transferee] in the presence of:
+**Participant:**   [insert name]
+
+**Maximum Percentage**   [Insert percentage]
+
+**Metrics**   Consolidated Earnings Per Share, Segment Contribution, Segment Safety, Segment Average DSO
+
+**Employees entitled to a Bonus under Appendix B are not entitled to a Bonus under any other portion of this Plan.
+
+**Bonus Calculation:**  
+^^^For each Metric, the Metrics Hurdles shall be applied to the actual performance of the Corporation to determine the level of achievement;
+
+^^^The Achievement Percentage for each Metric shall be multiplied by the applicable Metrics Weighting percentage, with the resulting weighted achievement for all Metrics then added together; and
+
+^^^The amount determined in (ii) shall be multiplied by the Maximum Percentage for the applicable Participant’s Bonus. The percentage amount so calculated shall be multiplied by the Participants Base Salary for the Performance Period to determine the total amount of the Bonus for the Participant. A sample calculation is attached as **Appendix B-1**.
+
+First Amended & Restated Incentive Bonus Plan 
+
+Austin_1 592601v4 47080-9 
+
+APPENDIX B-1 
+
+\centered **Metrics Hurdles**
+**Metric**   \centered **Weighting**   \centered **Threshold**   \centered **Target**   \centered **High Performance**
+
+^Consolidated Earnings Per Share   \centered [[Percentage 4: Number]]%   \centered $   \centered per share   \centered $   \centered per share   \centered $   \centered per share
+^Segment Contribution   \centered [[Percentage 5: Number]]%   $   $   $
+^Segment Safety (TRIR) w/No Segment Lost Time Recordables   \centered [[Percentage 6: Number]]%   \centered <0.4   \centered <0.3   \centered <0.2
+^Segment Average DSO (Days Sales Outstanding)   \centered [[Percentage 4]]%   \centered 65 days   \centered 60 days   \centered 55 days
+
+**Achievement Percentages:**
+
+Threshold Percentage:   [[Percentage 3]]%
+
+Target Percentage:   [[Percentage 7: Number]]%
+
+High Performance Percentage:   [[Percentage 8: Number]]%
+
+**Approved:**  
+Signature:   
+Title:    
+
+First Amended & Restated Incentive Bonus Plan 
+
+Austin_1 592601v4 47080-9 
+
+APPENDIX B-1 
+
+\centered **APPENDIX B-2**
+
+\centered **EXAMPLE OF APPENDIX B BONUS CALCULATION**
+
+John Smith is an Operational Vice President in the Engineering Segment and not a member of the Senior Management Team. John Smith’s Maximum Percentage Bonus is [[Percentage 9: Number]]%. The following Bonus Measures for the Performance Period have been established for calculation of his Bonus:
+
+\centered **Metrics Hurdles**
+**Metric**   \centered **Weighting**   \centered **Threshold**   \centered **Target**   \centered **High**   \centered **Performance**
+
+^Consolidated Earnings Per Share   \centered [[Percentage 4]]%   \centered $[[USD Value 2: Number]]   \centered per share   \centered $[[USD Value 3: Number]]   \centered per share   \centered $[[USD Value 4: Number]]   \centered per share
+^Segment Contribution   \centered [[Percentage 5]]%   \centered $[[USD Value 5: Number]]M   \centered $[[USD Value 6: Number]]M   \centered $[[USD Value 7: Number]]M
+^Segment Safety (TRIR)   \centered [[Percentage 6]]%   \centered <0.4   \centered <0.3   \centered <0.2
+^Segment Average DSO (Days Sales Outstanding)   \centered [[Percentage 4]]%   \centered 65 days   \centered 60 days   \centered 55 days
+
+The following Achievement Percentages have been established for calculation of his Bonus:
+
+**Threshold Percentage:**   [[Percentage 3]]%
+**Target Percentage:**   [[Percentage 7]]%
+**High Performance Percentage:**   [[Percentage 8]]%
+
+John’s business Segment and the Corporation have performed as follows:
+
+**Metric**   \centered **Actual Performance**   \centered **Level of Achievement**
+
+Consolidated EPS   \centered $[[USD Value 8: Number]]   \centered Target
+Segment Contribution   \centered $[[USD Value 1: Number]]   \centered Target
+Segment Safety (TRIR)   \centered 0.15   \centered High Performance
+Segment Average DSO   \centered 73 days   \centered Below Threshold
+
+Mr. Smith’s Bonus calculation as a percent of his Base Salary is as follows:
+
+\centered **Metric**   \centered **Metric Weighting Percentage**      \centered **Achievement Percentage**      \centered **Weighted**   \centered **Achieved**   \centered **Percentages**   
+
+\centered **Totals**
+
+Consolidated Net Income   \centered [[Percentage 4]]%   \centered X   \centered [[Percentage 7]]%   \centered =   [[Percentage 10: Number]]%
+Segment Contribution   \centered [[Percentage 5]]%   \centered X   \centered [[Percentage 7]]%   \centered =   [[Percentage 11: Number]]%
+Segment Safety (TRIR)   \centered [[Percentage 6]]%   \centered X   \centered [[Percentage 8]]%   \centered =   [[Percentage 6]]%
+Segment Average DSO   \centered [[Percentage 4]]%   \centered X   \centered [[Percentage 12: Number]]%   \centered =   [[Percentage 12]]%
+^Percent of Maximum Bonus Achieved                  [[Percentage 13: Number]]%
+
+^Participant’s Maximum Bonus                  [[Percentage 14: Number]]%
+Bonus percent of Base Salary (A x B)                  [[Percentage 15: Number]]%
+
+First Amended & Restated Incentive Bonus Plan 
+
+Austin_1 592601v4 47080-9 
+
+APPENDIX B-2 
+
+\centered **APPENDIX C**
+
+\centered **BONUS MEASURES FOR**
+
+\centered **ENGINEERING IN-PLANT DIVISION**
+
+**Unit:**   Engineering In-Plant
+
+**Performance Period:**   [[Date 2]] to [[Date 14]]
+
+**Participant:**   [insert name]
+
+
+
+**Maximum Bonus Pool**   An aggregate of [[Percentage 10]]% of the Gross Profit Increase for all Appendix C Participants
+
+**Maximum Percentage for Participant**   ___% of Base Salary
+
+**Determination of Bonus Amount**   The President of the Engineering segment, with the written approval of the Chief Executive Officer of the Corporation, will determine the amount of the available Bonus pool to be awarded to any Participant. No Participant is guaranteed to receive a Bonus.
+
+*Gross Profit Increase means the amount of the increase in Gross Profit produced by the Engineering In-Plant Division for the Performance Period as compared to the same prior-year period.
+
+**Approved:**  
+Signature:   
+Title:  
+
+First Amended & Restated Incentive Bonus Plan 
+
+Austin_1 592601v4 47080-9 
+
+APPENDIX C

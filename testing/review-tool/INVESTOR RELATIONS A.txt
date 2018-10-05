@@ -1,6 +1,6 @@
 \centered **INVESTOR RELATIONS AGREEMENT**
 
-THIS INVESTOR RELATIONS AGREEMENT (the “Agreement”) is made and entered into effective [[Date 1: Date]] by and between Two Eight, Inc. (the “Consultant”), and [[Client]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Client”), whose principal place of business is 6440 Lusk Blvd., Suite 200, [[Address 1: Address]].
+THIS INVESTOR RELATIONS AGREEMENT (the “Agreement”) is made and entered into effective [[Date 1: Date]] by and between Kay Holdings, Inc. (the “Consultant”), and [[Client]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Client”), whose principal place of business is 6440 Lusk Blvd., Suite 200, [[Address 1: Address]].
 
 WHEREAS, Consultant provides investor relations services for publicly traded companies; and
 
@@ -16,7 +16,7 @@ NOW THEREFORE, in consideration of the mutual promises and covenants set forth i
 
 ^Term of Agreement. The term of this Agreement shall be through [[Date 2: Date]], subject to prior termination as hereinafter provided.
 
-^Compensation**.** Consultant shall be responsible for all costs incurred in providing the services. Client shall pay Consultant One Hundred and Fifty Thousand (150,000) Shares of its unregistered Common Stock for its services hereunder. 
+^Compensation**.** Consultant shall be responsible for all costs incurred in providing the services. Client shall pay Consultant Five Hundred Fifty Thousand (550,000) Shares of its unregistered Common Stock for its services hereunder. 
 
 ^Termination.
 
@@ -58,19 +58,14 @@ NOW THEREFORE, in consideration of the mutual promises and covenants set forth i
 
 IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement which is to be effective as of the date set forth above.
 
-**TWO EIGHT, INC.**
+**KAY HOLDINGS, INC.**
 
-[[TWO EIGHT INC. Signatory Email: Identity | Signature]]
+[[KAY HOLDINGS INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{TWO EIGHT INC. Entity => By: [[TWO EIGHT INC. Signatory First Name]] [[TWO EIGHT INC. Signatory Last Name]]
-Title: [[TWO EIGHT INC. Signatory Title]]}}
+{{KAY HOLDINGS INC. Entity => By: [[KAY HOLDINGS INC. Signatory First Name]] [[KAY HOLDINGS INC. Signatory Last Name]]
+Title: [[KAY HOLDINGS INC. Signatory Title]]}}
 
-[[Title Client Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Client Signatory Title}} Entity => By: [[Title Client Signatory Title}} Signatory First Name]] [[Title Client Signatory Title}} Signatory Last Name]]
-Title: [[Title Client Signatory Title}} Signatory Title]]}}
-
-Shadi Hanna, President
+Robert Wheat, President
 
 [[Client]] 
 
@@ -78,10 +73,5 @@ Shadi Hanna, President
 __________________________________________
 {{Client Entity => By: [[Client Signatory First Name]] [[Client Signatory Last Name]]
 Title: [[Client Signatory Title]]}}
-
-[[Title Party 3 Signatory Title}} Signatory Email: Identity | Signature]]
-__________________________________________
-{{Title Party 3 Signatory Title}} Entity => By: [[Title Party 3 Signatory Title}} Signatory First Name]] [[Title Party 3 Signatory Title}} Signatory Last Name]]
-Title: [[Title Party 3 Signatory Title}} Signatory Title]]}}
 
 James Collas, CEO

@@ -1,430 +1,279 @@
-\centered **WAIVER AND AMENDMENT NO. 2 TO AMENDED AND RESTATED CREDIT AGREEMENT** 
+\centered **WAIVER AND AMENDMENT NO. 6 TO CREDIT AGREEMENT** 
 
-**WAIVER AND AMENDMENT NO. 2 TO AMENDED AND RESTATED CREDIT AGREEMENT**, dated as of [[Date 1: Date]] (this “**Amendment**”), among DHS HOLDING COMPANY, a Delaware corporation (“**Holdings**”), DHS DRILLING COMPANY, a Colorado corporation (“**Borrower**”), each Lender listed on the signature pages hereof, each subsidiary of the Borrower listed on the signature pages hereof (the “**Guarantors**”), and LEHMAN COMMERCIAL PAPER INC., as administrative agent (in such capacity, the “**Administrative Agent**”, and together with Holdings, Borrower, the Guarantors and the Administrative Agent, the “**Parties**”). 
+THIS WAIVER AND AMENDMENT NO. 6 TO CREDIT AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is by and among [[Parent]], a [[State of Formation: State]] [[Organization: EntityType]] (“Parent”), [[Newco]], a German company (“Newco”), BALDWIN GERMANY GMBH, a German company (“[[DRY MASCHINEN GMBH]]”), BALDWIN OXY-DRY GMBH (formerly known as “OXY-DRY MASCHINEN GMBH”), a German company (“Oxy-Dry GmbH”, and, collectively with the Parent, Newco and [[DRY MASCHINEN GMBH]], the “Borrowers”), the other Credit Parties (as defined in the Guaranty and Collateral Agreement (as defined below)) a party hereto, the Lenders (as defined in the Credit Agreement referred to below) signatory hereto and BANK OF AMERICA, N.A., a national banking association (as successor-by-merger to LASALLE BANK NATIONAL ASSOCIATION), in its capacity as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders. 
 
-\centered W I T N E S S E T H: 
+\centered **PRELIMINARY STATEMENTS** 
 
-WHEREAS, the Borrower and Loan Parties have requested that the Lenders waive certain Defaults or Events of Default that have occurred and are continuing under the Credit Agreement as of the date hereof; 
+^The Borrowers, the Lenders and the Administrative Agent are parties to that certain Credit Agreement, dated as of [[Date 2: Date]], as amended by that certain (i) Amendment to Credit Agreement dated as of [[Date 3: Date]], (ii) Waiver, Consent and Amendment No. 2, dated as of [[Date 4: Date]], (iii) Waiver, Consent and Amendment No. 3 to Credit Agreement dated as of [[Date 5: Date]], (iv) Amendment No. 4 to Credit Agreement dated as of [[Date 6: Date]], (v) Modification and Limited Waiver Agreement dated as of [[Date 7: Date]], as amended and restated as of [[Date 8: Date]] and amended on [[Date 9: Date]] (such Modification and Limited Waiver Agreement, as so amended and restated and as so amended, and as may be further amended, restated, supplemented or otherwise modified from time to time, the “Modification and Limited Waiver”) and (vi) Waiver and Amendment No. 5 to Credit Agreement dated as of [[Date 10: Date]] (“Amendment No. 5”); 
 
-WHEREAS, the Holdings, Borrower, the Lenders, and the Administrative Agent entered into that certain Amended and Restated Credit Agreement, dated as of [[Date 2: Date]], as amended pursuant to that certain Amendment No. 1, dated as of [[Date 3: Date]] (as further supplemented or modified prior to the date hereof, the “**Credit Agreement**”); 
+^The term “Credit Agreement” as used in this Amendment shall mean such Credit Agreement as amended as set forth in paragraph A above; 
 
-WHEREAS, the Lenders party hereto and the Administrative Agent intend to provide the waivers set forth herein and the Parties hereto intend to amend the Credit Agreement as set forth herein; and 
+^The Guaranty and Collateral Agreement (as defined in the Credit Agreement) was amended pursuant to an Amendment No. 1 to Guaranty and Collateral Agreement, dated as of [[Date 11: Date]] and by an Amendment No. 2 to Guaranty and Collateral Agreement, dated as of [[Date 12: Date]]; 
 
-NOW, THEREFORE, in consideration of the foregoing, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto hereby agree as follows: 
-
-^Defined Terms.  
-
-^^Capitalized terms used herein and not otherwise defined herein shall have the meanings ascribed to such terms in the Credit Agreement. 
-
-^^“**Effective Date**”: has the meaning set forth in Section 4 of this Amendment. 
-
-^^“**Going Concern Qualification**”: means a “going concern” or like qualification or exception in any opinion or document accompanying any audited financial statement. 
-
-^Waivers: Effective as of the Effective Date, the Lenders party hereto and the Administrative Agent waive any Defaults and Events of Default resulting from the following: 
-
-^^the Borrower or any other Loan Party failing to comply with Section 2.7 (Mandatory Prepayments), Section 5.1(e) (Financial Statements) and Section 5.3(b)(i)(B) (Certificates; Other Information) in respect of any Collateral Value Deficiency existing prior to the Effective Date; 
-
-^^the Borrower or any other Loan Party failing to comply with Section 5.1 (Financial Statements) prior to the Effective Date; 
+^The Borrowers have requested that Lenders constituting at least the Required Lenders agree to further amend the Credit Agreement to change the latest date, under Section 10.1.8 of the Credit Agreement, for the delivery of the financial projections for the Parent and its Subsidiaries for the Fiscal Year commencing [[Date 13: Date]] from [[Date 14: Date]] to [[Date 15: Date]]; 
 
 ^^^^^ 
-^^the Borrower or any other Loan Party failing to comply with Section 6.1(a) (Minimum Consolidated EBITDA) prior to the Effective Date; 
+^The Borrowers have notified the Lenders and the Administrative Agent that the Minimum Liquidity and Currency Adjusted Net Sales Certificate with respect to the Currency Adjusted Net Sales for the consecutive three-month period ending [[Date 16: Date]] will show the Currency Adjusted Net Sales for the consecutive three-month period ending [[Date 16]] to be less than $[[USD Value 1: Number]] in breach of the requirement of the financial covenant set forth in Section 11.14.4 of the Credit Agreement that Currency Adjusted Net Sales for the consecutive three-month period ending [[Date 16]] not be less than $[[USD Value 1]] (the Event of Default resulting from such breach is referred to below in this Amendment as the “Specified Event of Default”); 
 
-^^the Borrower or any other Loan Party failing to comply with Section 6.1(b) (Consolidated Leverage Ratio) prior to the Effective Date; 
+^The Borrowers have requested that Lenders constituting at least the Required Lenders waive the Specified Event of Default; and 
 
-^^the Borrower or any other Loan Party failing to comply with Section 6.1(c) (Consolidated Interest Coverage Ratio) prior to the Effective Date; 
+^The Lenders signatories hereto, representing at least the Required Lenders, are willing to provide for such amendment and to waive the Specified Event of Default, all upon the terms and conditions set forth in this Amendment. 
 
-^^the Borrower or any other Loan Party failing to comply with Section 6.1(d) (Minimum Current Ratio) prior to the Effective Date; 
+**NOW, THEREFORE**, in consideration of the premises herein contained and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties, intending to be legally bound, agree as follows: 
 
-^^pursuant to Section 7.1(l) (Events of Default) arising from an event or occurrence (a) solely relating to financial and market conditions or (b) disclosed to the Lenders and the Administrative Agent, in each case prior to the Effective Date; 
+**DEFINITIONS**  
 
-^^arising from a Going Concern Qualification existing in any opinion or other document delivered with respect to each of Fiscal Years 2008, 2009 and 2010 pursuant to Section 5.1(a) of the Credit Agreement; and 
+^Capitalized terms used in this Amendment and not defined herein shall have the meanings ascribed to such terms in the Credit Agreement unless otherwise stated herein. 
 
-^^^the first Change of Control under clauses (a) through (c) of the definition of “Change of Control” giving rise to a Default or Event of Default under Section 7.1(k) (Events of Default) occurring after the Effective Date; 
+**AMENDMENT**  
 
-*provided, however*, that the waiver set forth in this Section 2 shall not excuse or otherwise waive any failure by any Loan Party to comply after the Effective Date with any other term of any Loan Document; *provided, further*, that the waiver set forth in clause (i) of this Section 2 shall be deemed void and any Default or Event of Default shall be deemed to have occurred and be continuing as from the date on which it shall have initially occurred (without giving effect to the waiver contemplated in Section 2(i)) if at any time after the Effective Date, any Loan Party fails to comply with any provision of any Loan Document. 
+^**Amendment to Section 10.1.8****.** Section 10.1.8 of the Credit Agreement is hereby amended by deleting the date “[[Date 14]]” and inserting in lieu thereof the date “[[Date 15]]”. 
 
-^Amendments. Subject to the terms and conditions set forth herein, effective as of the Effective Date, the Credit Agreement (together with the Exhibits and Schedules thereto) is hereby amended as described on **Exhibit A** attached hereto. 
+**CERTAIN WAIVER**  
 
-^Conditions to Effectiveness of this Amendment. The Waivers set forth in Section 3 and the Amendments described in Section 4 of this Amendment shall become effective as of the first date on which each of the following conditions precedent are satisfied (the “**Effective Date**”): 
-
-^^the Administrative Agent shall have received: 
-
-^^^counterparts of this Amendment duly executed and delivered by each of Holdings, the Borrower, the Guarantors, the Administrative Agent, and each Lender; and 
-
-^^^resolutions or written consents of the Board of Directors or equivalent governing body of each Loan Party authorizing entry into this Amendment and performance by such Loan Party of its obligations thereunder, duly certified by the Secretary of each Loan Party (or its general partner or managing member, as applicable) or any other officer of such Loan Party (or its general partner or managing member, as applicable), in a form reasonably acceptable to the Administrative Agent; 
+^**Waiver**. The Required Lenders hereby waive the Specified Event of Default The foregoing waiver in this Section 3.01 is limited solely to the Specified Event of Default and shall not apply to any other Events of Default or Unmatured Events of Default which may now or hereafter exist. Without limiting the generality of the immediately preceding sentence, the Borrowers (and other Credit Parties) hereby acknowledge and agree that the waiver set forth in the first sentence of this paragraph does not apply to any breach of Sections 11.14.4 of the Credit Agreement other than the breach of Section 11.14.4 for the consecutive three-month period ending [[Date 16]]. Each of the Borrowers and the other Credit Parties hereby consents to, and acknowledges the availability of, each and every right and remedy set forth in the Credit Agreement, the Guaranty and Collateral Agreement and the other Loan Documents with respect to any Event of Default other than the Specified Event of Default. 
 
 ^^^^^ 
-^^^counterparts of a perfection certificate, duly executed and delivered by each of Holdings, the Borrower and each Guarantor, in the form attached hereto as **Exhibit B**; 
+**CONDITIONS PRECEDENT**  
 
-^^^a certificate of Delta Petroleum Corporation certifying the complete and accurate calculation of the aggregate outstanding principal amount of the Delta Account Receivable, as of the date hereof, as set forth on **Exhibit C** hereto, in a form reasonably acceptable to the Administrative Agent; and 
+^^**Conditions to Effectiveness**. The effectiveness of the amendment set forth in Section 2.01 above and of the waiver set forth in Section 3.01 above are each subject to the satisfaction (by no later than the date of this Amendment unless the Administrative Agent extends such date) of the following conditions precedent, unless specifically waived in writing by the Administrative Agent: 
 
-^^a certificate of each Loan Party certifying that other than the defaults described in Section 2 hereof, no Default or Event of Default has occurred and is continuing on the Effective Date prior to or after giving effect to this Amendment, in a form reasonably acceptable to the Administrative Agent. 
+^^The Administrative Agent shall have received this Amendment duly executed by Borrowers and the other Credit Parties and the Lenders; 
 
-^^each of the representations and warranties set forth below in Section 7 of this Amendment shall be true and correct in all material respects on and as of the Effective Date with the same effect as though made on and as of the Effective Date; 
+^^Borrowers shall have paid the Amendment No. 6 Waiver Fee (as defined below); and 
 
-^^Borrower shall have paid the Administrative Agent for the account of each Lender a fee equal to [[Percentage 1: Number]]% of the Loans outstanding under the Credit Agreement as at the Effective Date; 
+^^Borrowers shall have paid the $[[USD Value 2: Number]] of costs and expenses referred to in clause (a) of the second sentence of Section 8.04 below. 
 
-^^there shall have been paid to the Administrative Agent, for the account of the Agents and the Lenders, as applicable, free and clear of any recoupment or set-off, in immediately available funds all fees and expenses due and payable to the Agents or the Lenders in an amount not to exceed $[[USD Value 1: Number]] for the period on or prior to the Effective Date to the account listed on Exhibit E hereto; 
+**WAIVER FEE**  
 
-^^Borrower shall have filed with the clerk of United States Bankruptcy Court for the Southern District of [[Address 1: Address]](the “**Court**”) a “Withdrawal of Claim” in respect of Claim 25652 previously filed with the Court; 
+^**Waiver Fee**. In consideration of the Required Lenders entering into this Amendment, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Borrowers hereby agree to pay, no later than the date of this Amendment, to each Lender who executes and delivers this Amendment on or before the date hereof, a waiver fee (the “Amendment No. 6 Waiver Fee”) equal to such Lender’s Pro-Rata Share (as defined in clause (d) of the definition of Pro-Rata Share) of $[[USD Value 3: Number]] The Amendment No. 6 Waiver Fee shall be fully earned on the date hereof. For the avoidance of doubt, the Amendment No. 6 Waiver Fee is in addition to any remaining unpaid installments of the Amendment Fee (as defined in Amendment No. 5) owed by the Borrowers. 
 
-^^no Default or Event of Default shall have occurred and be continuing on the Effective Date after giving effect to this Amendment; and 
+**NO WAIVER**  
 
-^^Borrower shall have repaid the Loans in an amount of not less than $[[USD Value 2: Number]] 
-
-^Representations and Warranties.  
-
-^^Prior to and after giving effect to this Amendment, each of the representations and warranties set forth in Article III (Representations and Warranties) of the Credit Agreement and in the other Loan Documents are true and correct in all material respects on and as of the Effective Date with the same effect as though made on and as of the Effective Date, except to the extent such representations and warranties expressly relate to an earlier date, in which case such representations and warranties shall have been true and correct in all material respects as of such earlier date. 
-
-^^Each of the Loan Parties hereby represents and warrants to the Administrative Agent and the Lenders, on and as of the Effective Date, (i) both prior to and after giving effect to this Amendment, (x) each of the Loan Parties has taken all necessary action to authorize the execution, delivery and performance of this Amendment and (y) this Amendment has been duly executed and delivered by each of the Loan Parties and (ii) after giving effect to this Amendment, this Amendment is the legal, valid and binding obligation of each of the Loan Parties, enforceable against it in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, 
+^**No Waiver**. Other than the waiver set forth in Section 3.01 hereof, nothing contained in this Amendment shall be construed as a waiver by the Administrative Agent or the Lenders of any covenant or provision of the Credit Agreement, the Guaranty and Collateral Agreement, this Amendment, the other Loan Documents, or of any other contract or instrument among the Borrowers and/or the other Credit Parties, as the case may be, and the Administrative Agent and/or the Lenders (and/or their respective Affiliates), as the case may be, and the failure of the Administrative Agent and/or Lenders (and/or their respective Affiliates) at any time or times hereafter to require strict performance by the Borrowers and/or the other Credit Parties of any provision thereof shall not waive, affect or diminish any right of the Administrative Agent and the Lenders (or their respective Affiliates) to thereafter demand strict compliance therewith. 
 
 ^^^^^ 
-reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles. 
+**RATIFICATIONS, REPRESENTATIONS AND WARRANTIES; CONFIRMATIONS** 
 
-^^Each of the Loan Parties hereby represents and warrants to the Administrative Agent and the Lenders, on and as of the Effective Date, that set forth on **Exhibit C** hereto is a complete and accurate calculation of the entire aggregate outstanding principal amount of the Delta Account Receivable. 
+^**Ratifications**. The terms and provisions set forth in this Amendment shall modify and supersede all inconsistent terms and provisions set forth in Credit Agreement and the other Loan Documents. The terms and provisions of the Credit Agreement and the other Loan Documents, as amended hereby, are ratified and confirmed and shall continue in full force and effect. The Borrowers, the other Credit Parties, the Lenders and the Administrative Agent agree that the Credit Agreement and the other Loan Documents, as amended hereby, shall continue to be legal, valid, binding obligations of the parties thereto, enforceable against such parties in accordance with their respective terms. Without limiting the generality of the foregoing, the Borrowers and the other Credit Parties hereby confirm and agree that (a) all Liens under the Collateral Documents (as amended) remain in full force and effect (as so amended) and (b) the guaranty obligations and other obligations of the Borrowers and all other Credit Parties under the Guaranty and Collateral Agreement (and other applicable Collateral Documents), as amended, remain in full force and effect (as so amended) and (as set forth in the Guaranty and Collateral Agreement) shall not be impaired or otherwise limited by any waiver or modification set forth in this Amendment (and nothing contained in this Amendment shall, or shall be interpreted to, create a custom, course of dealing or other agreement or arrangement by which the consent or confirmation of any Credit Party to any modification or waiver is required in order to keep any obligations under the Guaranty and Collateral Agreement (and other applicable Collateral Documents) in full force and effect, it being agreed that no such consent or confirmation is necessary or required in order to keep such obligations in full force and effect). Without limiting the generality of the foregoing (or of Section 1.2(e) of the Credit Agreement), it is hereby confirmed and agreed that any reference in the Loan Documents to any Note shall include all amendments, restatements, supplements and other modifications thereto and any Notes issued under Section 15.6.1 of the Credit Agreement and/or other Notes in substitution or replacement of any Note(s). Any breach of any representation, warranty or confirmation set forth in this Amendment by any Borrower or any other Credit Party shall be deemed to constitute an Event of Default under the Credit Agreement. 
 
-^^Each of the Loan Parties hereby represents and warrants to the Administrative Agent and the Lenders that other than the Proof of Claim attached hereto as **Exhibit D**, none of the Loan Parties nor any of their Affiliates have filed any other Proof of Claim with the Court or any other court with respect to Lehman Brothers Holdings Inc. or any of its Affiliates. 
-
-^^Each of the Loan Parties hereby represents and warrants to the Administrative Agent and the Lenders that such Loan Party does not charge any interest or late fee with respect to any amount constituting the Delta Account Receivable. 
-
-^^Each of the Administrative Agent and the Lenders hereby represents and warrants to the Loan Parties that it is not aware of any Default or Event of Default other than such Defaults and Events of Defaults specified in Section 2 of this Agreement. 
-
-^Continuing Effect; Liens and Guaranties. 
-
-^^Except as expressly set forth in this Amendment, all of the terms and provisions of the Credit Agreement are and shall remain in full force and effect and the Loan Parties shall continue to be bound by all of such terms and provisions. The Amendment provided for herein is limited to the specific provisions of the Credit Agreement specified herein and shall not constitute an amendment of, or an indication of the Administrative Agent’s or any Lender’s willingness to amend or waive, any other provisions of the Credit Agreement or the same sections for any other date or purpose. Nothing in this Amendment shall be deemed to be a novation of any of the obligations under the Credit Agreement. Notwithstanding any provision of this Amendment or any other document or instrument executed in connection herewith, the execution and delivery of this Amendment shall be in substitution for, but not in payment of, the obligations owed by the Borrower under the Credit Agreement 
-
-^^From and after the execution of this Amendment, each reference to the “**Agreement**”, “**Credit Agreement**”, “**Loan Agreement**” or other reference originally applicable to the Agreement contained in any Loan Document shall be a reference to the Credit Agreement, as amended by this Amendment. 
-
-^^Each of the Loan Parties expressly acknowledges the terms of the Credit Agreement, as amended by this Amendment, (ii) ratifies and affirms its obligations under the Loan Documents (including but not limited to security documents and guarantees) executed by it, including all Liens and guaranties granted to the Secured Parties under the applicable Loan Documents and (iii) acknowledges, renews and extends its continued liability under all such Loan Documents and agrees such Loan Documents remain in full force and effect. 
-
-^^Each of the Loan Parties hereby reaffirms, as of the date hereof, (i) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, such covenants and agreements as in effect immediately after giving effect to this Amendment and the transactions contemplated hereby, and (ii) the Lien on the Collateral securing payment of the Obligations pursuant to the Security Documents. 
+^**Representations and Warranties**. Each of the Borrowers and the other Credit Parties hereby represents and warrants to the Administrative Agent and the Lenders that (a) the execution, delivery and performance of this Amendment and any and all Loan Documents executed and/or delivered in connection herewith have been authorized by all requisite corporate (or other applicable organization) action on the part of such Borrower or other Credit Party, as the case may be, and will not violate the charter, by-laws or other organizational documents of such Borrower or other Credit Party; (b) the representations and warranties of such Borrower or other Credit Party, as the case may be, contained in any Loan Document are true and correct in all respects (or if the applicable representation or warranty is not qualified by a materiality qualifier, true and correct in all material respects) on the date hereof and on and as of the date of execution hereof as though made on and as of each such date (except to the extent stated to relate to a specific earlier date, in which case such representations and warranties were true and correct in all respects (or if the applicable representation or warranty is not qualified by a materiality qualifier, true and correct in all material respects) as of such earlier date); (c) after giving effect to the waiver set forth in Section 3.01 hereof, no Event of Default or Unmatured Event of Default under the Credit Agreement has occurred and is continuing; and (d) no Credit Party that 
 
 ^^^^^ 
-^^The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of the Lenders or the Administrative Agent under any of the Loan Documents, nor constitute a waiver or amendment of any other provision of any of the Loan Documents or for any purpose except as expressly set forth herein. 
+is party to the Guaranty and Collateral Agreement has changed its legal name since [[Date 2]] except (i) Newco changed its name from Mainsee 430. VV GmbH to [[Newco]], (ii) Oxy-Dry GmbH changed its name from Oxy-Dry Maschinen GmbH to Baldwin Oxy-Dry GmbH and (iii) Baldwin Southeast Asia Corporation changed its name from Oxy-Dry Asia Pacific, Inc. The Borrowers and the other Credit Parties acknowledge and agree that all unpaid principal of, and accrued and unpaid interest under, each of the Loans is justly owed without claim, counterclaim, cross-complaint, offset, defense or other reduction of any kind against the Lenders or the Administrative Agent. 
 
-^Expenses. The payment specified in Section 4(d) of this Amendment shall constitute full and final payment and reimbursement to the Administrative Agent for all its reasonable out-of-pocket costs and expenses incurred prior to the Effective Date in connection with the negotiation, preparation, execution and delivery of this Amendment, and other documents prepared in connection herewith, and the transactions contemplated hereby, including, without limitation, reasonable fees and disbursements and other charges of counsel to the Administrative Agent. In the event of any conflict between the provisions of Section 8 of this Amendment and Section 9.5 of the Credit Agreement with respect to costs and expenses incurred prior to the Effective Date, the provisions of this Section 8 shall apply; provided that Section 9.5 of the Credit Agreement shall continue subsequent to the Effective Date. 
+^**Confirmations**. All confirmations and agreements set forth in Sections 7.03, 7.04 and 7.05 of Amendment No. 5 remain in full force and effect. 
 
-^Release. Each of Holdings, the Borrower and the Loan Parties hereby unconditionally and irrevocably waive all claims, suits, debts, liens, losses, causes of action, demands, rights, damages or costs, or expenses of any kind, character or nature whatsoever, known or unknown, fixed or contingent, which any of them may have or claim to have against each Lender, the Arranger and the Administrative Agent (whether in its capacity as an agent, lender, hedging counterparty or otherwise) or its agents, employees, officers, affiliates, directors, representatives, attorneys, successors and assigns (collectively, the “**Released Parties**”) to the extent arising out of or in connection with the Loan Documents or any prior or future Borrower request to fund or make an extension of credit under the Credit Agreement including, without limitation, any past or future failure by any Lender to fund any Loan required to be funded by it under the Credit Agreement (collectively, the “**Claims**”). Each of Holdings, the Borrower and the Loan Parties, each on behalf of itself and its respective successors, assigns, and other legal representatives, further agree forever to refrain from commencing, instituting or prosecuting any lawsuit, action or other proceeding against any Released Parties with respect to any and all of the foregoing described waived, released, acquitted and discharged Claims and from exercising any right of recoupment or setoff that it may have under a master netting agreement or otherwise against any Released Party with respect to Obligations under the Loan Documents. Each of the Released Parties shall be a third party beneficiary of this Agreement. If Holdings, Borrower, any Loan Party or any their respective successors, assigns or other legal representative violate the foregoing covenant, each of Holdings, the Borrower, the Loan Parties and each of their respective successors, assigns and legal representatives, agree to pay, in addition to such other damages as any Released Party may sustain as a result of such violation, all attorneys’ fees and costs incurred by any Released Party as a result of such violation. 
+**MISCELLANEOUS PROVISIONS**  
 
-^Consents. Each of the Lenders listed on the signature pages hereto hereby irrevocably consents, pursuant to and in accordance with Section 9.1 (Amendments and Waivers) of the Credit Agreement, to the waivers, consents, amendments and other terms of this Amendment as of the Effective Date and acknowledges and agrees to be bound by the terms of this Amendment and that the terms of this Amendment shall not affect its obligations and liabilities as a Lender under the Loan Documents (other than as expressly described in this Amendment) and that all of such obligations and liabilities remain in full force and effect and are hereby reaffirmed. 
+^**Survival of Representations and Warranties**. All representations and warranties made in the Credit Agreement or the Guaranty and Collateral Agreement or any other Loan Documents or under or in connection with this Amendment, including, without limitation, any document furnished in connection with this Amendment, shall survive the execution and delivery of this Amendment and the other Loan Documents. 
 
-^Choice of Law; Submission to Jurisdiction; Service of Process. This Amendment and the rights and obligations of the Parties hereto shall be governed by, and construed and interpreted in accordance with the law of the State of [[Address 2: Address]], the Parties agree that Section 9.12 of the Credit Agreement shall apply *mutatis mutandis* in relation to the submission to jurisdiction and service of process. 
+^**Severability**. Any provision of this Amendment held by a court of competent jurisdiction to be invalid or unenforceable shall not impair or invalidate the remainder of this Amendment and the effect thereof shall be confined to the provision so held to be invalid or unenforceable. 
 
-^^^^^ 
-^Counterparts. This Amendment may be executed in any number of counterparts and by different parties and separate counterparts, each of which when so executed and delivered, shall be deemed an original, and all of which, when taken together, shall constitute one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or e-mail shall be effective as delivery of a manually executed counterpart of this Amendment. 
+^**Successors and Assigns**. This Amendment is binding upon and shall inure to the benefit of the Administrative Agent, the Lenders, the Borrowers and the other Credit Parties and their respective successors and assigns, except that no Borrower or Credit Party may assign or transfer any of its rights or obligations hereunder without the prior written consent of the Administrative Agent. It is acknowledged and agreed that Bank of America, N.A., has, as successor by merger to LaSalle Bank National Association, succeeded to all of the respective rights and duties of LaSalle Bank National Association as a Lender (including without limitation as the Issuing Lender), and the Administrative Agent under the Loan Documents. 
 
-^Integration. This Amendment, together with the other Loan Documents, incorporates all negotiations of the Parties hereto with respect to the subject matter hereof and is the final expression and agreement of the Parties hereto with respect to the subject matter hereof. 
-
-^Severability. In case any provision in this Amendment shall be invalid, illegal or unenforceable, such provision shall be severable from the remainder of this Amendment and the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby. 
-
-^Loan Document. This Amendment is a Loan Document. 
-
-^Waiver of Jury Trial. Each of the Parties hereto irrevocably waives trial by jury in any action or proceeding with respect to this Amendment and any other Loan Document. 
-
-^Successors and Assigns. The terms of this Amendment shall be binding upon, and shall inure to the benefit of, the Parties hereto and their respective successors and assigns. 
-
-\centered [Signature Pages Follow] 
+^**Certain Costs and Expenses**. Without in any way limiting the generality of Sections 10.2 or 15.5 of the Credit Agreement, the Parent acknowledges and agrees that it shall promptly pay the reasonable fees and disbursements of all legal counsel retained by the Administrative Agent in connection with the preparation, negotiation, execution and delivery of this Amendment or any future waiver or modification (or proposed modification or waiver whether or not consummated), if any, of any Loan Document(s) (provided that Borrower shall not have to pay the allocable costs of internal legal services of the Administrative Agent in connection with the preparation, negotiation, execution and delivery of this Amendment, provided, further, that it is understood and agreed that this parenthetical phrase shall not, and shall not be interpreted to, limit the right of the Administrative Agent or any Lender to receive the allocable costs of internal legal services with respect to agreements or matters other than the preparation, negotiation, execution and delivery of this Amendment). The Parent acknowledges 
 
 ^^^^^ 
-IN WITNESS WHEREOF, the parties have entered into this Amendment as of the date first above written. 
+and agrees that (a) it owes, as of the date of this Amendment, $[[USD Value 2]] for the fees and disbursements of legal counsel of the Agent in connection with the preparation, negotiation, execution and delivery of this Amendment and for various work done in connection with the Guaranty and Collateral Agreement and other Collateral Documents, (b) it owes additional amounts for the fees and disbursements of legal counsel of the Agent in connection with other work of such legal counsel and (c) it owes additional amounts for the fees of Capstone (as defined in the Modification and Limited Waiver). The Borrowers and other Credit Parties hereby agree that all findings and conclusions and other work product of Capstone shall be protected by the attorney-client privilege and shall not be subject to review or discovery by the Borrowers or any other Credit Party. 
 
-\centered 
+^**Counterparts**. This Amendment may be executed and delivered by facsimile, portable document format (“.pdf”), Tagged Image File Format (“.TIFF”) or other electronic means of delivery and in one or more counterparts, each of which when so executed shall be deemed to be an original, but all of which when taken together shall constitute one and the same instrument. 
 
-DHS HOLDING COMPANY, *as Holdings* 
+^**Preliminary Statements**. The Preliminary Statements set forth in this Amendment are accurate and shall form a substantive part of the agreement of the parties hereto. 
 
-[[DHS HOLDING COMPANY as Holdings Signatory Email: Identity | Signature]]
+^**Headings**. The headings, captions, and arrangements used in this Amendment are for convenience only and shall not affect the interpretation of this Amendment. 
+
+^**Relationship.** The relationship between the Borrowers and other Credit Parties on the one hand and the Lenders and the Administrative Agent on the other hand shall be solely that of borrowers and guarantors, on the one hand, and lender on the other. Neither the Administrative Agent nor any Lender has any fiduciary relationship with or duty to any Borrower or other Credit Party arising out of or in connection with this Amendment or any of the other Loan Documents, and the relationship between the Borrowers and other Credit Parties, on the one hand, and the Administrative Agent and the Lenders, on the other hand, in connection herewith or therewith is solely that of debtor and creditor. The Borrowers and other Credit Parties acknowledge that they have been advised by counsel in the negotiation, execution and delivery of this Amendment and the other Loan Documents. No joint venture is created hereby or by the other Loan Documents or otherwise exists by virtue of the transactions contemplated hereby or by the other Loan Documents among the Lenders or among the Borrowers (and other Credit Parties) and the Lenders. 
+
+^^**Time is of the Essence**. The parties hereto (i) have agreed specifically with regard to the times for performance set forth herein and in the other Loan Documents and (ii) acknowledge and agree such times are material to this Amendment and the other Loan Documents. Therefore, time is of the essence with respect to this Agreement and the other Loan Documents. 
+
+^^**Jury Trial; Indemnification**. Without limiting the generality of Sections 15.17, 15.18, 15.19 and 15.20 of the Credit Agreement, it is hereby agreed that the terms and provisions of such Sections shall apply to this Amendment and any transaction or matter contemplated by, in connection with or arising out of this Amendment. 
+
+^^^^^ 
+^^**Applicable Law**. THIS AMENDMENT AND ALL OTHER AGREEMENTS EXECUTED PURSUANT HERETO (EXCEPT AS EXPRESSLY SET FORTH IN ANY SUCH AGREEMENT) SHALL BE A CONTRACT MADE UNDER AND GOVERNED BY THE INTERNAL LAWS OF THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED ENTIRELY WITHIN SUCH STATE (INCLUDING SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW). 
+
+^^**Final Agreement**. THE CREDIT AGREEMENT (AS AMENDED HEREBY) AND THE OTHER LOAN DOCUMENTS REPRESENT THE ENTIRE EXPRESSION OF THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HEREOF AND THEREOF ON THE DATE THIS AMENDMENT IS EXECUTED. THE CREDIT AGREEMENT (AS AMENDED HEREBY) AND THE OTHER LOAN DOCUMENTS MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING PROVISIONS, THE BORROWERS AND THE OTHER CREDIT PARTIES ACKNOWLEDGE AND AGREE THAT NEITHER ANY LENDER NOR THE ADMINISTRATIVE AGENT HAS MADE ANY PROMISES OR ASSURANCES WITH RESPECT TO, AND THE BORROWERS AND OTHER CREDIT PARTIES ACKNOWLEDGE AND AGREE THAT THERE IS NO ORAL AGREEMENT WITH RESPECT TO, ANY FUTURE AMENDMENT, WAIVER OR OTHER MODIFICATION OF THE LOAN DOCUMENTS OR ANY RESTRUCTURING OR WORKOUT THEREOF OR WITH RESPECT THERETO. NO MODIFICATION, RESCISSION, WAIVER, RELEASE OR AMENDMENT OF ANY PROVISION OF THIS AMENDMENT SHALL BE MADE, EXCEPT BY A WRITTEN AGREEMENT SIGNED BY THE BORROWERS AND THE REQUIRED LENDERS AND (WITH RESPECT TO MATTERS AFFECTING THE ADMINISTRATIVE AGENT) THE ADMINISTRATIVE AGENT AND (WITH RESPECT TO MATTERS AFFECTING THE ISSUING LENDER) THE ISSUING LENDER. 
+
+^^**Release**. EACH OF THE BORROWERS AND THE OTHER CREDIT PARTIES HEREBY ACKNOWLEDGES THAT, AS OF THE DATE HEREOF, IT HAS NO DEFENSE, COUNTERCLAIM, OFFSET, CROSS-COMPLAINT, CLAIM OR DEMAND OF ANY KIND OR NATURE WHATSOEVER THAT CAN BE ASSERTED (A) TO REDUCE OR ELIMINATE ALL OR ANY PART OF ITS APPLICABLE LIABILITIES UNDER ANY LOAN DOCUMENT, ANY BANK PRODUCT AGREEMENT OR ANY HEDGING AGREEMENT WITH ANY LENDER, THE ADMINISTRATIVE AGENT OR ANY OF THEIR RESPECTIVE AFFILIATES AND/OR (B) TO SEEK AFFIRMATIVE RELIEF OR DAMAGES OF ANY KIND OR NATURE FROM THE ADMINISTRATIVE AGENT OR ANY OF THE LENDERS (OR ANY OF THEIR RESPECTIVE AFFILIATES). EACH OF THE BORROWERS AND THE OTHER CREDIT PARTIES HEREBY VOLUNTARILY AND KNOWINGLY RELEASES AND FOREVER DISCHARGES THE ADMINISTRATIVE AGENT AND LENDERS, THEIR PREDECESSORS, AGENTS, AFFILIATES, EMPLOYEES, SUCCESSORS AND ASSIGNS, FROM ALL POSSIBLE CLAIMS, DEMANDS, ACTIONS, CAUSES OF ACTION, DAMAGES, COSTS, EXPENSES, AND LIABILITIES WHATSOEVER, KNOWN OR UNKNOWN, ANTICIPATED OR UNANTICIPATED, SUSPECTED OR UNSUSPECTED, FIXED, CONTINGENT, OR CONDITIONAL, AT LAW OR IN EQUITY, ORIGINATING IN WHOLE OR IN PART ON OR BEFORE THE DATE 
+
+^^^^^ 
+THIS AMENDMENT IS EXECUTED, WHICH SUCH BORROWER OR OTHER CREDIT PARTY MAY NOW OR HEREAFTER HAVE AGAINST THE ADMINISTRATIVE AGENT, LENDERS, THEIR PREDECESSORS, AGENTS, EMPLOYEES, SUCCESSORS AND ASSIGNS, IF ANY, AND IRRESPECTIVE OF WHETHER ANY SUCH CLAIMS ARISE OUT OF CONTRACT, TORT, VIOLATION OF LAW OR REGULATIONS, OR OTHERWISE, AND ARISING OUT OF OR OTHERWISE IN ANY WAY RELATING IN ANY WAY TO THIS AMENDMENT OR ANY OTHER LOAN DOCUMENT, HEDGING AGREEMENT, BANK PRODUCT AGREEMENT, THE OBLIGATIONS, ANY OTHER TRANSACTION CONTEMPLATED BY ANY OF THE FOREGOING DOCUMENTS, OR ANY ACTION OR OMISSION OF THE ADMINISTRATIVE AGENT OR ANY LENDER UNDER OR OTHERWISE IN ANY WAY RELATING TO ANY OF THE FOREGOING DOCUMENTS. THE BORROWERS AND OTHER CREDIT PARTIES EXPRESSLY WAIVE ANY PROVISION OF STATUTORY OR DECISIONAL LAW TO THE EFFECT THAT A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE RELEASING PARTY(IES) DOES NOT KNOW OR SUSPECT TO EXIST IN SUCH PARTY’S FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH, IF KNOWN BY SUCH PARTY, MUST OR MIGHT HAVE MATERIALLY AFFECTED SUCH PARTY’S SETTLEMENT WITH THE RELEASED PARTIES. NOTHING CONTAINED IN THIS PARAGRAPH SHALL, OR SHALL BE INTERPRETED TO, IMPAIR ANY RIGHTS OF ANY BORROWER (OR OTHER CREDIT PARTY) WITH RESPECT TO ANY DEPOSIT OR OTHER BANK ACCOUNTS OF SUCH BORROWER OR OTHER CREDIT PARTY (OR ANY OF THEIR RESPECTIVE SUBSIDIARIES) WITH ANY LENDER OR THE ADMINISTRATIVE AGENT. 
+
+\centered *[Remainder of Page Intentionally Left Blank]* 
+
+^^^^^ 
+IN WITNESS WHEREOF, each of the parties hereto has executed this Amendment as of the date first written above. 
+
+[[Parent]]
+[[Parent Signatory Email: Identity | Signature]]
 __________________________________________
-{{DHS HOLDING COMPANY as Holdings Entity => By: [[DHS HOLDING COMPANY as Holdings Signatory First Name]] [[DHS HOLDING COMPANY as Holdings Signatory Last Name]]
-Title: [[DHS HOLDING COMPANY as Holdings Signatory Title]]}}
+{{Parent Entity => By: [[Parent Signatory First Name]] [[Parent Signatory Last Name]]
+Title: [[Parent Signatory Title]]}}
+ and Chief Executive Officer
 
-
-DHS DRILLING COMPANY, *as Borrower* 
-
-[[DHS DRILLING COMPANY as Borrower Signatory Email: Identity | Signature]]
+[[Newco]]
+[[Newco Signatory Email: Identity | Signature]]
 __________________________________________
-{{DHS DRILLING COMPANY as Borrower Entity => By: [[DHS DRILLING COMPANY as Borrower Signatory First Name]] [[DHS DRILLING COMPANY as Borrower Signatory Last Name]]
-Title: [[DHS DRILLING COMPANY as Borrower Signatory Title]]}}
+{{Newco Entity => By: [[Newco Signatory First Name]] [[Newco Signatory Last Name]]
+Title: [[Newco Signatory Title]]}}
 
 
-C&L DRILLING COMPANY, *as Loan Party* 
-
-[[C&L DRILLING COMPANY as Loan Party Signatory Email: Identity | Signature]]
+BALDWIN GERMANY GMBH
+[[BALDWIN GERMANY GMBH Signatory Email: Identity | Signature]]
 __________________________________________
-{{C&L DRILLING COMPANY as Loan Party Entity => By: [[C&L DRILLING COMPANY as Loan Party Signatory First Name]] [[C&L DRILLING COMPANY as Loan Party Signatory Last Name]]
-Title: [[C&L DRILLING COMPANY as Loan Party Signatory Title]]}}
+{{BALDWIN GERMANY GMBH Entity => By: [[BALDWIN GERMANY GMBH Signatory First Name]] [[BALDWIN GERMANY GMBH Signatory Last Name]]
+Title: [[BALDWIN GERMANY GMBH Signatory Title]]}}
 
 
-CHAPMAN TRUCKING COMPANY, *as Loan Party* 
-
-[[CHAPMAN TRUCKING COMPANY as Loan Party Signatory Email: Identity | Signature]]
+BALDWIN OXY-DRY GMBH (formerly known as OXY-DRY MASCHINEN GMBH)
+[[BALDWIN OXY-DRY GMBH formerly known as OXY-DRY MASCHINEN GMBH Signatory Email: Identity | Signature]]
 __________________________________________
-{{CHAPMAN TRUCKING COMPANY as Loan Party Entity => By: [[CHAPMAN TRUCKING COMPANY as Loan Party Signatory First Name]] [[CHAPMAN TRUCKING COMPANY as Loan Party Signatory Last Name]]
-Title: [[CHAPMAN TRUCKING COMPANY as Loan Party Signatory Title]]}}
+{{BALDWIN OXY-DRY GMBH formerly known as OXY-DRY MASCHINEN GMBH Entity => By: [[BALDWIN OXY-DRY GMBH formerly known as OXY-DRY MASCHINEN GMBH Signatory First Name]] [[BALDWIN OXY-DRY GMBH formerly known as OXY-DRY MASCHINEN GMBH Signatory Last Name]]
+Title: [[BALDWIN OXY-DRY GMBH formerly known as OXY-DRY MASCHINEN GMBH Signatory Title]]}}
 
 
-HASTINGS DRILLING COMPANY, *as Loan Party* 
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
 
-[[HASTINGS DRILLING COMPANY as Loan Party Signatory Email: Identity | Signature]]
+^^^^^ 
+
+BALDWIN GRAPHIC SYSTEMS, INC.
+[[BALDWIN GRAPHIC SYSTEMS INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{HASTINGS DRILLING COMPANY as Loan Party Entity => By: [[HASTINGS DRILLING COMPANY as Loan Party Signatory First Name]] [[HASTINGS DRILLING COMPANY as Loan Party Signatory Last Name]]
-Title: [[HASTINGS DRILLING COMPANY as Loan Party Signatory Title]]}}
+{{BALDWIN GRAPHIC SYSTEMS INC. Entity => By: [[BALDWIN GRAPHIC SYSTEMS INC. Signatory First Name]] [[BALDWIN GRAPHIC SYSTEMS INC. Signatory Last Name]]
+Title: [[BALDWIN GRAPHIC SYSTEMS INC. Signatory Title]]}}
 
 
-^^^^^ 
-\centered 
-
-LEHMAN COMMERCIAL PAPER INC., *as Administrative Agent* 
-
-[[LEHMAN COMMERCIAL PAPER INC. as Administrative Agent Signatory Email: Identity | Signature]]
+OXY-DRY FOOD BLENDS, INC.
+[[OXY-DRY FOOD BLENDS INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{LEHMAN COMMERCIAL PAPER INC. as Administrative Agent Entity => By: [[LEHMAN COMMERCIAL PAPER INC. as Administrative Agent Signatory First Name]] [[LEHMAN COMMERCIAL PAPER INC. as Administrative Agent Signatory Last Name]]
-Title: [[LEHMAN COMMERCIAL PAPER INC. as Administrative Agent Signatory Title]]}}
+{{OXY-DRY FOOD BLENDS INC. Entity => By: [[OXY-DRY FOOD BLENDS INC. Signatory First Name]] [[OXY-DRY FOOD BLENDS INC. Signatory Last Name]]
+Title: [[OXY-DRY FOOD BLENDS INC. Signatory Title]]}}
+ and Treasurer
 
-
-LEHMAN COMMERCIAL PAPER INC. *as Lender* 
-
-[[LEHMAN COMMERCIAL PAPER INC. as Lender Signatory Email: Identity | Signature]]
+OXY-DRY U.K., INC.
+[[OXY-DRY U.K. INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{LEHMAN COMMERCIAL PAPER INC. as Lender Entity => By: [[LEHMAN COMMERCIAL PAPER INC. as Lender Signatory First Name]] [[LEHMAN COMMERCIAL PAPER INC. as Lender Signatory Last Name]]
-Title: [[LEHMAN COMMERCIAL PAPER INC. as Lender Signatory Title]]}}
+{{OXY-DRY U.K. INC. Entity => By: [[OXY-DRY U.K. INC. Signatory First Name]] [[OXY-DRY U.K. INC. Signatory Last Name]]
+Title: [[OXY-DRY U.K. INC. Signatory Title]]}}
 
 
-^^^^^ 
-\centered EXHIBIT A 
+BALDWIN SOUTHEAST ASIA CORPORATION (formerly known as Oxy-Dry Asia Pacific, Inc.)
+By:   /s/ John P. Jordan
+Name:   John P. Jordan
+Title:   Vice President
 
-\centered Amendments to the Credit Agreement 
 
-Effective as of the Effective Date, the Credit Agreement (together with the Exhibits and Schedules thereto) is hereby amended as follows: 
+[[Title   Vice President Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title   Vice President Entity => By: [[Title   Vice President Signatory First Name]] [[Title   Vice President Signatory Last Name]]
+Title: [[Title   Vice President Signatory Title]]}}
 
-^Section 1.1 (Defined Terms) is hereby amended by: 
 
-^^inserting the following definitions in alphabetical order therein: 
 
-“***Amendment No. 2***: as defined in the recitals hereto. 
+[[Title Newco Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Newco Signatory Title}} Entity => By: [[Title Newco Signatory Title}} Signatory First Name]] [[Title Newco Signatory Title}} Signatory Last Name]]
+Title: [[Title Newco Signatory Title}} Signatory Title]]}}
 
-***Amendment No. 2 Effective Date***: the “Effective Date”, as defined in Amendment No. 2. 
 
-***Asset Sale Proceeds****:* the aggregate amount of Net Cash Proceeds of any Asset Sale required to be applied to the prepayment of Loans in accordance with Section 2.7(b). 
-
-***Delta Account Receivable***: the accounts receivable payable by Delta Petroleum Corporation or its Affiliates to Borrower or any of its Subsidiaries set forth on Exhibit C to Amendment No. 2. The aggregate outstanding amount of the Delta Account Receivable as of the Amendment No. 2 Effective Date is $[[USD Value 3: Number]] 
-
-***Delta A/R Satisfaction Date****:* the date upon which a Responsible Officer of the Borrower shall certify to the Administrative Agent that the principal amount of and other amounts payable on the Delta Account Receivable has been fully paid at par to the Borrower by Delta Petroleum Corporation, without discount, compromise or setoff. 
-
-***Ratable Portion***: with respect to any Lender, the percentage obtained by dividing the outstanding principal amount of such Lender’s Loans by the aggregate outstanding principal amount of the Loans of all Lenders. 
-
-***Scheduled Installment***: the amount of each scheduled repayment of Loans payable under Section 2.4(a).” 
-
-^^deleting the terms “Loan Percentage”, “Make-Whole Price”, “Required Equity Contribution”, “Term A Commitment”, “Term A Lender”, “Term A Loan Percentage”, “Term A Loan”, “Term B Commitment”, “Term B Lender”, “Term B Loan Percentage”, and “Term B Loan” in their entirety. 
-
-^^amending and restating the definitions of the following terms: 
-
-“***Applicable Interest Margin***: a per annum rate equal to [[Percentage 2: Number]]%. 
-
-***Benefited Lender***: as defined in Section 9.7(a). 
-
-\centered A-1 
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
 
 ^^^^^ 
-***Borrowing Notice***: with respect to any request for borrowing of Loans hereunder, a notice from Borrower, substantially in the form of, and containing the information prescribed by, Exhibit B, delivered to the Administrative Agent. 
 
-***Commitment Expiration Date***: the earlier of (a) the Amendment No. 2 Effective Date and (b) [[Date 4: Date]]. 
+MTC TRADING COMPANY
+[[MTC TRADING COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{MTC TRADING COMPANY Entity => By: [[MTC TRADING COMPANY Signatory First Name]] [[MTC TRADING COMPANY Signatory Last Name]]
+Title: [[MTC TRADING COMPANY Signatory Title]]}}
 
-***Consolidated Current Assets***: at any date, the total consolidated current assets (other than cash and Cash Equivalents) of Borrower and its Subsidiaries at such date, adjusted for non-cash assets, determined in conformity with GAAP. 
 
-***Consolidated Current Liabilities***: at any date, all liabilities of Borrower and its Subsidiaries at such date which should, in conformity with GAAP, be classified as current liabilities, adjusted for non-cash liabilities, on a consolidated balance sheet of Borrower and its Subsidiaries prepared in conformity with GAAP, *but excluding* the sum of (a) the principal amount of any current portion of long-term Indebtedness and (b) (without duplication of clause (a) above) the then outstanding principal amount of Loans. 
 
-***Consolidated Total Debt***: at any date, the aggregate principal amount of all Indebtedness of Borrower and its Subsidiaries at such date, determined on a consolidated basis in accordance with GAAP, *less* (i) the aggregate amount of all Cash and Cash Equivalents in excess of $[[USD Value 4: Number]] and (ii) until the earlier of (A) the Initial Service Date of any Additional Rig(s) and (B) the quarter ending [[Date 5: Date]], the aggregate portion of the principal amount of Loans used to acquire such Additional Rig(s). 
+[[Title Party 4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 4 Signatory Title}} Entity => By: [[Title Party 4 Signatory Title}} Signatory First Name]] [[Title Party 4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 4 Signatory Title}} Signatory Title]]}}
 
-***Loans***: as defined in Section 2.1(b). The aggregate principal amount of Loans outstanding as of the Amendment No. 2 Effective Date is $[[USD Value 5: Number]]” 
 
-^Sections 2.1(a) and 2.1(b) are hereby deleted in their entirety and the following is inserted in lieu thereof: 
+BALDWIN EUROPE CONSOLIDATED INC.
+By:   /s/ Karl S. Puehringer
+Name:   Karl S. Puehringer
+Title:   President
 
-^^^The Credit Parties acknowledge and agree that as of immediately prior to the Closing Date the aggregate principal amount of all loans outstanding under the Existing Credit Agreement equals $[[USD Value 6: Number]] (the “***Existing Loans***”) and that, subject to Section 4.1, the entire principal balance of such Existing Loans are hereby converted into and continued as term loans hereunder (such loans, together with any loans made by Lender pursuant to clause (b) below prior to the Amendment No. 2 Effective Date, “*Loans*”). 
-
-^^^Subject to the terms and conditions hereof, each Lender severally agrees to make additional term loans to Borrower, from time to time prior to the Commitment Expiration Date, on any Borrowing Date requested by Borrower, subject to Section 4.2, in an aggregate principal amount not to exceed such Lender’s Commitment (set forth on Schedule 1.1 hereto) as of such Borrowing Date. 
-
-^Each instance of the phrase “Term B” is hereby deleted in Section 2.2 and the phrase “requested after the Closing Date” is hereby inserted immediately prior to the first use of the term “Borrower” in such section. 
-
-^Section 2.4(a) subclause (i) and (ii) are hereby deleted in their entirety and the following is inserted in lieu thereof: 
-
-\centered A-2 
-
-^^^^^ 
-“(i) Borrower promises to repay the Loans at the dates and in the amounts as set forth below, subject to any reductions in accordance with Section 2.7, with the entire unpaid principal amount of Loans payable on the Maturity Date: 
-
-Installment Date:      Scheduled Installment of Principal:         $[[USD Value 18: Number]]         $[[USD Value 18]] [[Date 1]]         $[[USD Value 7: Number]] [[Date 6: Date]]         $[[USD Value 8: Number]] [[Date 7: Date]]         $[[USD Value 8]] [[Date 8: Date]]         $[[USD Value 8]] [[Date 9: Date]]         $[[USD Value 8]] [[Date 10: Date]]         $[[USD Value 9: Number]] [[Date 11: Date]]         $[[USD Value 9]] 
-
-“  
-
-^Section 2.4(e) is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“Borrower agrees that, upon the request to the Administrative Agent by any Lender, Borrower will promptly execute and deliver to such Lender a promissory note of Borrower evidencing any Loans of such Lender, substantially in the form of Exhibit G (a “***Note***”), with appropriate insertions as to date and principal amount; *provided* that delivery of Notes shall not be a condition precedent to the occurrence of the Closing Date or the making of the Loans on any Borrowing Date.” 
-
-^Section 2.6 is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“(a) At any time after [[Date 12: Date]], Borrower may, upon at least three Business Days’ prior notice to the Administrative Agent stating the Prepayment Date and aggregate principal amount of the prepayment, prepay, at par, on any date the outstanding principal amount of the Loans, in whole or in part, at Borrower’s option, together with accrued interest through the Prepayment Date on the principal amount prepaid, in accordance with the provisions of this Agreement. 
-
-^^Each partial prepayment shall be in an aggregate amount not less than $[[USD Value 10: Number]] or integral multiples of $[[USD Value 11: Number]] in excess thereof, and any such prepayment must be accompanied by payment of Agent’s and each Lender’s reasonable out-of-pocket expenses and payment of any LIBOR funding breakage costs in accordance with Section 2.12. Upon the giving of such notice of prepayment, the principal amount of the Loans specified to be prepaid and at the applicable price specified therefor, together with the accrued interest through the Prepayment Date shall become due and payable on the Prepayment Date. 
-
-^^Upon the giving of any such notice of prepayment, the principal amount of the Loans specified to be prepaid, together with the accrued interest thereon through the Prepayment Date shall become due and payable on the Prepayment Date. 
-
-^^Any optional prepayment under this Section 2.6 shall be applied to the Loans as set forth in Section 2.9 below.” 
-
-\centered A-3 
-
-^^^^^ 
-^Section 2.7 is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“(a) Unless the Required Lenders shall otherwise agree, if any Capital Stock shall be issued (excluding any Permitted Equity Financing and the Required Equity Contribution), or any Indebtedness (excluding any Permitted Indebtedness) incurred, by any Loan Party or any Person shall make any contribution to the capital of any Loan Party (excluding any Permitted Equity Financing, the Required Equity Contribution and contributions by Holdings to the capital of Borrower, or by Borrower to the capital of any Wholly Owned Subsidiary Guarantor), then on the date of such issuance, incurrence or capital contribution, Borrower shall prepay the principal amount of the Loans in an amount equal to the amount of the Net Cash Proceeds of such issuance, incurrence or capital contribution. The provisions of this Section 2.7(a) do not constitute a consent to the issuance of any Capital Stock by any Person whose Capital Stock is pledged pursuant to any Security Document, or a consent to the incurrence of any Indebtedness or the making of any capital contribution by any Loan Party. 
-
-^^Unless the Required Lenders shall otherwise agree, if on any date any Loan Party shall receive a Purchase Price Refund or Net Cash Proceeds from any Asset Sale or Recovery Event then, on the date of receipt by such Person of such Net Cash Proceeds or such Purchase Price Refund, Borrower shall (i) prepay the principal amount of the Loans in an amount equal to the amount of such Net Cash Proceeds from any Recovery Event or of such Purchase Price Refund and (ii) prepay, in an amount equal to the amount of such Net Cash Proceeds from any Asset Sale and such prepayment shall be applied, *first*, to prepay the immediately succeeding Scheduled Installment in full, *second*, to prepay all interest payable on the immediately succeeding quarterly Interest Payment Date in full, *third*, to pay the second succeeding Scheduled Installment and *fourth*, to prepay the remaining principal amount of Loans in accordance with Section 2.9(a)(iii) or, at the applicable Loan Party’s option, all interest payable on the second succeeding quarterly Interest Payment Date with the remainder being applied to prepay the principal amount of Loans in accordance with Section 2.9(a)(iii); *provided*, *however*, that in the case of any Net Cash Proceeds constituting the Reinvestment Deferred Amount with respect to a Reinvestment Event, Borrower shall prepay the Loans in an amount equal to the Reinvestment Prepayment Amount applicable to such Reinvestment Event, if any, on the Reinvestment Prepayment Date with respect to such Reinvestment Event; *provided further* that the aggregate Net Cash Proceeds of Reinvestment Events that may be specified as Reinvestment Deferred Amounts in one or more Reinvestment Notices shall not exceed $[[USD Value 11]] in the case of any Reinvestment Event and $[[USD Value 10]] in the aggregate in the case of all Reinvestment Events. The provisions of this Section do not constitute a consent to the consummation of any Disposition not permitted by Section 6.5. 
-
-^^Not later than the fifth business day following the date on which the Borrower delivers the quarterly statements required by Section 5.1(b), Borrower shall prepay the principal amount of the Loans in an amount equal to [[Percentage 3: Number]]% of Excess Cash Flow for such fiscal quarter; 
-
-^^Upon the occurrence of a Change of Control that has not been duly waived by the Lenders and the Administrative Agent pursuant to Amendment No. 2, the Required Lenders, at their sole discretion, may require Borrower to immediately prepay the outstanding principal amount of the Loans (after considering any prepayments by Borrower pursuant to Section 2.6), together with all other amounts owing under this 
-
-\centered A-4 
-
-^^^^^ 
-Agreement or any Loan Document including any fees and expenses earned or then due and payable under any Loan Document. 
-
-^^Each prepayment of the Loans pursuant to this Section 2.7 shall be applied in accordance with Section 2.9 below and shall be accompanied by payment of accrued interest to the Prepayment Date on the principal amount prepaid. 
-
-^^In the event of any overpayment of interest pursuant to Section 2.7(b), as determined by the Administrative Agent from time to time, which computations shall be conclusive in the absence of manifest error, the Administrative Agent shall apply an amount equal to such overpayment to reduce the outstanding principal amount of the Loans 
-
-^Sections 2.8(b) and (c) are hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“(b) Subject to Section 2.7(b) and (e) and Section 2.9(h), interest on the Loans shall be payable in arrears on each Interest Payment Date, *provided* that interest accruing pursuant to Section 2.8(a) shall be payable from time to time on demand. 
-
-^^Interest, fees and commissions payable pursuant hereto shall be calculated on the basis of a year of 360 days.” 
-
-^Section 2.9(a) is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“(a) (i) The borrowing by Borrower of Loans from the Lenders hereunder, any reduction of the Commitments of the Lenders and, subject to Section 2.9(c), each payment by Borrower on account of any fee, shall be made *pro rata* according to the Ratable Portion of each Lender. 
-
-^^^Each payment (including prepayments) in respect of principal or interest in respect of any Loans and each payment in respect of fees or expenses payable hereunder shall be applied to the amounts of such obligations owing to the Lenders *pro rata* according to the respective amounts then due and owing to the Lenders. 
-
-^^^Any optional prepayments made by Borrower pursuant to Section 2.6 and any mandatory prepayments of principal made by Borrower pursuant to Section 2.7 (including in respect of any Asset Sales consummated following the occurrence of the Delta A/R Satisfaction Date) shall be applied *first* to reduce the Scheduled Installments in stated order of their maturities and *second* to any remaining principal amount of Loans then outstanding. For the avoidance of doubt, the application of Net Cash Proceeds of Assets Sales will be governed by the provisions of Section 2.7(b) until such provisions explicitly require the application of such Net Cash Proceeds to be in accordance with this Section 2.9(a)(iii). 
-
-^^^Amounts prepaid on account of the Loans may not be reborrowed.” 
-
-^Section 2.9(c)(iv) is hereby amended by deleted the parenthetical at the end of such subclause in its entirety; 
-
-\centered A-5 
-
-^^^^^ 
-^Section 3.2 is hereby amended by deleting the “.” at the end thereof and inserting the following in lieu thereof:
-
-“, except as disclosed in writing to the Administrative Agent prior to the Amendment No. 2 Effective Date.” 
-
-^Section 4.2 is hereby amended by deleting the each instance of the phrase “Term B” and replacing the first instance of such phrase with the word “**Additional**” and replacing the second instance of such phrase with the word “additional” in lieu thereof. 
-
-^Section 5.1 is hereby amended by inserting the word “and” at the end of clause (c) thereof, by deleting the “and” at the end of clause (d) thereof, and by deleting clause (e) in its entirety. 
-
-^Section 5.3 is hereby amended by deleting the parenthetical “(A)” in its entirety and by deleting the phrase “or (B) the existence of a Collateral Value Deficiency, in each case” in its entirety. 
-
-^Section 5.15 is hereby amended by deleting it in its entirety and replacing it with the following in lieu thereof: 
-
-“**Appraisals.** At the sole expense of the Borrower, obtain and deliver to the Administrative Agent a Rig Appraisal (i) no later than [[Date 13: Date]] of each year following the Amendment No. 2 Effective Date, (ii) no later than [[Date 14: Date]] of each year following the Amendment No. 2 Effective Date and (iii) at any other time as the Administrative Agent may request; *provided, however*, that so long as no Default or Event of Default has occurred or is continuing, Borrower shall not be required to obtain and deliver more than three Rig Appraisals in any calendar year; *provide further*, that after the occurrence and during the continuance of a Default or Event of Default, Borrower shall obtain and deliver Rig Appraisals at any time and frequency, but in no case more than four Rig Appraisals in any calendar year.” 
-
-^The existing Section 5.16 is hereby re-numbered as Section 5.17, and the following new Section 5.16 is inserted therein: 
-
-“**Meetings of the Board of Directors.**  
-^^Contemporaneously with notification to the persons constituting the Board of Directors or equivalent of each of the Borrower and each Loan Party, notify the Administrative Agent of any such meeting and provide the Administrative Agent with any written materials distributed in connection with such meeting. 
-
-^^As soon as available and in any event within ten (10) Business Days after any meeting of the Board of Directors or equivalent of each of the Borrower and each Loan Party, Borrower shall deliver, or cause to be delivered, to the Administrative Agent the minutes of such meeting, duly certified by the Secretary or Assistant Secretary of the Borrower or the applicable Loan Party as being a true, accurate and complete copy of such minutes.” 
-
-^Section 6.1 is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-“(a) Minimum Consolidated EBITDA. (i) Permit the Consolidated EBITDA for any period of four consecutive fiscal quarters of Borrower ending with any fiscal quarter to be less than the amounts set forth below for such periods: 
-
-\centered A-6 
-
-^^^^^ 
-\centered 
-
-Period       EBITDA For the periods ending on or prior to [[Date 15: Date]]         $[[USD Value 12: Number]] For the periods ending after [[Date 15]] and before [[Date 16: Date]]         $[[USD Value 13: Number]] 
-
-^^^Permit the Consolidated EBITDA for any fiscal quarter to be less than the correlative amount set forth below for such fiscal quarter: 
-
-\centered 
-
-Fiscal Quarter       EBITDA For the fiscal quarter ending [[Date 16]]         $[[USD Value 11]] For the fiscal quarter ending [[Date 5]]         $[[USD Value 14: Number]] For the fiscal quarter ending [[Date 17: Date]]         $[[USD Value 4]] For the fiscal quarter ending [[Date 18: Date]] and each fiscal quarter thereafter         $[[USD Value 15: Number]] 
-
-^^Consolidated Leverage Ratio. Permit the Consolidated Leverage Ratio as at the last day of any period of four consecutive fiscal quarters of Borrower, beginning with the four-fiscal-quarter period ending [[Date 19: Date]] until the four-fiscal-quarter period ending [[Date 4]], to exceed 3.5:1.0. For purposes of this Section 6.1(b) and notwithstanding any other provision herein to the contrary, in determining Borrower’s Consolidated EBITDA for purposes of calculating the Consolidated Leverage Ratio: 
-
-^^^for all determinations made prior to the last day of the first fiscal quarter of Borrower after the Initial Service Date for any Additional Rig, the projected income for such Additional Rig shall be as provided by Borrower in the Borrowing Notice for the applicable Loans utilized to acquire such Additional Rig (including any deposits made for the acquisition of such Additional Rig) and acceptable to the Administrative Agent; and 
-
-^^^for all determinations made as at and after the last day of the first fiscal quarter of Borrower after the Initial Service Date for any Additional Rig and as at and prior to the last day of any period of four consecutive fiscal quarters of Borrower after the Initial Service Date for any Additional Rig, the income derived from the utilization of such Additional Rig shall be an annualized amount based on the actual income derived from the utilization of such Additional Rig so that such income for one fiscal quarter shall be multiplied by four, for two fiscal quarters shall be multiplied by two and for three fiscal quarters shall be multiplied by four-thirds. 
-
-^^Consolidated Interest Coverage Ratio. Permit the Consolidated Interest Coverage Ratio for any period of four consecutive fiscal quarters of Borrower, beginning with the four-fiscal-quarter period ending [[Date 19]] until the four-fiscal-quarter period ending [[Date 4]] to be less than 2.5:1.0. 
-
-^^[INTENTIONALLY OMITTED.]”  
-
-^Section 6.3(g) is hereby amended by inserting the word “and” at the end thereof; 
-
-\centered A-7 
-
-^^^^^ 
-^Section 6.6 is hereby amended by deleting the reference to “Section 5.16(c)” therein and inserting a reference to “Section 5.17(c)” in lieu thereof; 
-
-^Section 6.7 is hereby deleted in its entirety and the following is inserted in lieu thereof: 
-
-^^“6.7 Capital Expenditures. Make or commit to make, in any fiscal year, an aggregate amount of Capital Expenditure in excess of the Permitted Capex Amount; *provided* that Borrower and its Subsidiaries shall not make or commit an aggregate amount of Capital Expenditures in excess of $[[USD Value 16: Number]] in any fiscal quarter. For purposes hereof, “***Permitted Capex Amount***” means, (i) for any fiscal year after the Amendment No. 2 Effective Date other than 2011, an amount equal to $[[USD Value 17: Number]] and (ii) for 2011, an amount equal to $[[USD Value 17]] *multiplied by* the percentage constituting (A) the number of days between, and including, [[Date 20: Date]] and the Maturity Date *divided by* (B) 365. 
-
-^Section 7.1(c) is hereby amended by inserting the words “Section 5.17” directly after the words “Section 5.16,”; 
-
-^Section 9.2 is hereby amended by deleting each word between the “:” at the end of the first paragraph and the proviso at the end thereof, and replacing it with the following in lieu thereof: 
-
-“Holdings:    DHS Drilling Company
-P.O. Box 277
-1813 Coleman Circle
-Casper, Wyoming 8260
-Attention: Bill Sauer, Jr.
-Facsimile: [[Phone 1]]
-
-Borrower    DHS Drilling Company
-P.O. Box 277
-1813 Coleman Circle
-Casper, Wyoming 8260
-Attention: Bill Sauer, Jr.
-Facsimile: [[Phone 1]]
-
-with a copy to:    DHS Drilling Company
-370 17th Street, Suite 4300
-Denver, Colorado 80202
-Attention: Gregg Tubbs
-Facsimiles: [[Phone 2]]
-
-Polsinelli Shughart PC
-[[Address 3: Address]]
-Attention: Peter T. Moore
-Facsimile: [[Phone 3]]
-
-\centered A-8 
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
 
 ^^^^^ 
 
-Agent(s):    Lehman Commercial Paper Inc.
-1271 Avenue of the Americas, 38th Floor
-[[Address 4: Address]]
-Attention: Yvonne Lin-Lu
-Email: [[Email 1]]
-with a copy to:
-Attention: Eric Salzman
-Facsimile: [[Phone 4]]
-Email: [[Email 2]]
-and:
-Attention: Howard Liao
-Email: [[Email 3]]
 
-with a copy to:    Weil, Gotshal & Manges LLP
-[[Address 5: Address]]
-Attention: Andrew Colao
-Facsimile: [[Phone 5]]”
+[[^^^^^ Signatory Email: Identity | Signature]]
+__________________________________________
+{{^^^^^ Entity => By: [[^^^^^ Signatory First Name]] [[^^^^^ Signatory Last Name]]
+Title: [[^^^^^ Signatory Title]]}}
 
-^Section 9.7 is hereby amended by deleting each instance of the term “Benefitted Lender” and replacing it with “Benefited Lender” in lieu thereof. 
 
-^Schedule 1.1 is hereby amended in the form of Annex 1 hereto. 
+BALDWIN EUROPE CONSOLIDATED B.V.   By: Baldwin Graphic Equipment BV
+[[BALDWIN EUROPE CONSOLIDATED B.V.   By Baldwin Graphic Equipment BV Signatory Email: Identity | Signature]]
+__________________________________________
+{{BALDWIN EUROPE CONSOLIDATED B.V.   By Baldwin Graphic Equipment BV Entity => By: [[BALDWIN EUROPE CONSOLIDATED B.V.   By Baldwin Graphic Equipment BV Signatory First Name]] [[BALDWIN EUROPE CONSOLIDATED B.V.   By Baldwin Graphic Equipment BV Signatory Last Name]]
+Title: [[BALDWIN EUROPE CONSOLIDATED B.V.   By Baldwin Graphic Equipment BV Signatory Title]]}}
 
-\centered A-9
+
+[[Title Parent3 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Parent3 Signatory Title}} Entity => By: [[Title Parent3 Signatory Title}} Signatory First Name]] [[Title Parent3 Signatory Title}} Signatory Last Name]]
+Title: [[Title Parent3 Signatory Title}} Signatory Title]]}}
+
+
+BALDWIN GRAPHIC EQUIPMENT B.V.
+[[BALDWIN GRAPHIC EQUIPMENT B.V. Signatory Email: Identity | Signature]]
+__________________________________________
+{{BALDWIN GRAPHIC EQUIPMENT B.V. Entity => By: [[BALDWIN GRAPHIC EQUIPMENT B.V. Signatory First Name]] [[BALDWIN GRAPHIC EQUIPMENT B.V. Signatory Last Name]]
+Title: [[BALDWIN GRAPHIC EQUIPMENT B.V. Signatory Title]]}}
+
+
+[[Title Parent4 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Parent4 Signatory Title}} Entity => By: [[Title Parent4 Signatory Title}} Signatory First Name]] [[Title Parent4 Signatory Title}} Signatory Last Name]]
+Title: [[Title Parent4 Signatory Title}} Signatory Title]]}}
+
+
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
+
+^^^^^ 
+
+BANK OF AMERICA, N.A., as Administrative Agent
+[[BANK OF AMERICA N.A. as Administrative Agent Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA N.A. as Administrative Agent Entity => By: [[BANK OF AMERICA N.A. as Administrative Agent Signatory First Name]] [[BANK OF AMERICA N.A. as Administrative Agent Signatory Last Name]]
+Title: [[BANK OF AMERICA N.A. as Administrative Agent Signatory Title]]}}
+
+
+BANK OF AMERICA, N.A., as Lender
+[[BANK OF AMERICA N.A. as Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{BANK OF AMERICA N.A. as Lender Entity => By: [[BANK OF AMERICA N.A. as Lender Signatory First Name]] [[BANK OF AMERICA N.A. as Lender Signatory Last Name]]
+Title: [[BANK OF AMERICA N.A. as Lender Signatory Title]]}}
+
+
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
+
+^^^^^ 
+
+WEBSTER BANK, NATIONAL ASSOCIATION, as Lender
+[[WEBSTER BANK NATIONAL ASSOCIATION as Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{WEBSTER BANK NATIONAL ASSOCIATION as Lender Entity => By: [[WEBSTER BANK NATIONAL ASSOCIATION as Lender Signatory First Name]] [[WEBSTER BANK NATIONAL ASSOCIATION as Lender Signatory Last Name]]
+Title: [[WEBSTER BANK NATIONAL ASSOCIATION as Lender Signatory Title]]}}
+
+
+\centered **[Signature Page to Amendment No. 6 to Credit Agreement]** 
+
+^^^^^ 
+
+RBS CITIZENS, N.A., as Lender
+[[RBS CITIZENS N.A. as Lender Signatory Email: Identity | Signature]]
+__________________________________________
+{{RBS CITIZENS N.A. as Lender Entity => By: [[RBS CITIZENS N.A. as Lender Signatory First Name]] [[RBS CITIZENS N.A. as Lender Signatory Last Name]]
+Title: [[RBS CITIZENS N.A. as Lender Signatory Title]]}}
+
+
+\centered Exhibit F-15

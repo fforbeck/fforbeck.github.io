@@ -1,257 +1,155 @@
-\centered **SETTLEMENT AGREEMENT** 
+\centered **SETTLEMENT AGREEMENT**
 
-This Settlement Agreement (“Agreement”) is entered into by and among [[HHS]], acting through the United States Department of Justice on behalf of the Office of Inspector General (“OIG-HHS”) of the Department of Health and Human Services (“HHS”), the TRICARE Management Activity (“TMA”), and the [[State of Formation: State]] [[Organization: EntityType]]; Alpharma Pharmaceuticals LLC; and Relator Debra Parks (“Relator”), and solely for purposes of Paragraph 19 below, King Pharmaceuticals, Inc. (“King”); through their authorized representatives. (Collectively, all of the above will be referred to as “the Parties.”) 
+**THIS SETTLEMENT AGREEMENT** (“Agreement”) is made and entered into as of the [[Date 1: Date]], by and among **[[LYH]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“LYH”), **[[LNS]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“LNS”), **[[LANJK]]**, a [[State of Formation: State]] [[Organization: EntityType]](“LANJK”), **[[RRC]]**, a [[State of Formation: State]] [[Organization: EntityType]] (“RRC”), (vi) **[[VoIP Loans]]**, III**, an individual resident of California (“[[VoIP Loans]]”), (vii) **CTS EQUITIES LIMITED PARTNERSHIP**, a Nevada limited partnership (“CTS”), and (viii) **[[Letter Agreement Holders]]**, an individual resident of Kentucky (“Carmicle,” collectively with LANJK, RRC, [[VoIP Loans]], and CTS, the (“Letter Agreement Holders”).
 
-\centered **PREAMBLE** 
+\centered **RECITALS:**
 
-As a preamble to this Agreement, the Parties agree to the following: 
+^**Sullivan Note**.  
+^Pursuant to that certain Fifth Amended and Restated Commercial Note dated [[Date 2: Date]], made by LYH payable to Sullivan in the face principal amount of Eight Million and 00/100 Dollars ($[[USD Value 1: Number]]) (the “Sullivan Note”), Sullivan has made a loan to LYH, which has a current outstanding principal balance as of the date of this Agreement of Seven Million Seven Hundred Fifty Thousand and No/100 Dollars ($[[USD Value 2: Number]]).
 
-^Alpharma Inc. is a Delaware corporation with its principal place of business in New Jersey. At all relevant times, Alpharma Inc., through its subsidiary, Alpharma Pharmaceuticals LLC, developed, manufactured, distributed, marketed and sold pharmaceutical products in the United States, including the morphine-based drug sold under the trade name of Kadian. Hereafter, Alpharma Inc. and Alpharma Pharmaceuticals LLC, will be collectively referred to as “Alpharma.” In [[Date 1: Date]], King effectuated a short-form merger agreement between one of King’s wholly-owned subsidiaries, Albert Acquisition Corp., and Alpharma. As a result of this merger agreement, Alpharma became a wholly-owned subsidiary of King. At the time King acquired Alpharma, King also entered into an asset purchase agreement with Actavis Elizabeth. to divest all assets comprising Kadian. 
+^Pursuant to that certain Commercial Note dated [[Date 3: Date]], made by Sullivan payable to Fifth Third Bank in the fact principal amount of Ten Million and 00/100 Dollars ($[[USD Value 3: Number]]) (the “Fifth Third Note”), Fifth Third has made a loan to Sullivan. The Fifth Third Note will mature on [[Date 4: Date]]. Sullivan desires to obtain Fifth Third’s forbearance, or an extension of twelve to eighteen months, on the Fifth Third Note and the parties are negotiating in good faith.
 
-^Relator Debra Parks is an individual resident of Florida. In [[Date 2: Date]], Relator Parks filed a qui tam action against Alpharma Inc. and other defendants that is currently pending and that is captioned: U.S. et al. ex rel. Debra Parks v. Alpharma Inc., et al., Civil 
+^Sullivan indicated to LYH that he will not refinance or renew the Sullivan Loan when it reaches maturity on [[Date 4]], but will instead require LYH to pay the Sullivan Note in full. If Sullivan did require the Sullivan Note to be paid in full and LYH did not make a full payment, Sullivan would likely foreclose on the LYH assets securing the Sullivan Loan, including without limitation the membership interests held by certain of the members of LYH.
 
-^^^^^ 
-Action No. AMD 06-2411 (D. MD). This action is referred to below as the “Civil Action.” The Relator and Alpharma agree that the complaint in the Civil Action alleges misconduct that continues through, but does not extend past, [[Date 3: Date]]. This complaint has been twice amended. 
+^**Letter Agreements / Rights to Override Payments**.
 
-^Alpharma has entered into or will be entering into separate settlement agreements, described in Paragraph 1(b) below (hereinafter referred to as the “Medicaid State Settlement Agreement”) with certain states and the District of Columbia in settlement of the Covered Conduct. States with which Alpharma executes a Medicaid State Settlement Agreement in the form to which Alpharma and the National Association of Medicaid Fraud Control Units (“NAMFCU”) Negotiating Team have agreed, or in a form otherwise agreed to by Alpharma and an individual State, shall be defined as “Medicaid Participating States.” 
+^**VoIP Letter Agreements**. Pursuant to the terms of that certain Loan Agreement dated [[Date 5: Date]], as amended, by and among LNS, LYH, and the Letter Agreement Holders, LNS obtained from the Letter Agreement Holdings the following term loans: (i) a loan from [[VoIP Loans]] in the amount of $[[USD Value 4: Number]], (ii) a loan from RRC in the amount of $[[USD Value 5: Number]], (iii) a loan from Carmicle in the amount of $[[USD Value 5]], (iv) a loan from LANJK in the amount of $[[USD Value 5]], and (v) a loan from CTS in the amount of $[[USD Value 5]] (collectively, the “VoIP Loans”).
 
-^The United States alleges that Alpharma caused to be submitted claims for payment for Kadian to the Medicaid Program (“Medicaid”), Title XIX of the Social Security Act, 42 U.S.C. §§ 1396-1396v. The United States further alleges that Alpharma caused claims for payment for Kadian to be submitted to the TRICARE Program (“TRICARE”), 10 U.S.C. §§ 1071-1109; and the Federal Employees Health Benefits Program (“FEHBP”), 5 U.S.C. §§ 8901-8914 (collectively, the “other Federal Health Care Programs”). The United States additionally alleges that Alpharma caused certain claims for payment for Kadian to be submitted to the Medicare Program (“Medicare”), Title XVIII of the Social Security Act, 42 U.S.C. §§ 1395-1395hhh. 
+Pursuant to, and in consideration for, the VoIP Loans, each Letter Agreement Holder entered into a separate Letter Agreement with LNS and LYH (the “VoIP Letter Agreements”). Pursuant to the VoIP Letter Agreements, LNS and LYH collectively agreed to pay each Letter Agreement Holder a certain percentage of the Monthly Revenue (as defined in the VoIP Letter Agreements) from sales of products and services generated from Voice over Internet Protocol Technology, all as more fully set forth in the VoIP Letter Agreements (the “VoIP Revenue Payments”).
 
-^The United States contends that it and the Medicaid Participating States have certain civil claims, as specified in Paragraph 2 below, against Alpharma due to Alpharma having engaged in the following conduct (hereinafter referred to as the “Covered Conduct”): 
+^**Wireless Letter Agreements**. LYH and LNS also obtained from the Letter Agreement Holders additional loans pursuant to and as evidenced by the following term notes: (i) Term Note dated [[Date 6: Date]] payable to [[VoIP Loans]] in the original principal amount of $[[USD Value 5]], (ii) Term Note dated [[Date 6]] payable to RRC in the original principal amount of $[[USD Value 5]], (iii) Term Note dated [[Date 6]] payable to Carmicle in the original principal amount of $[[USD Value 5]], (iv) Term Note dated [[Date 6]] payable to LANJK in the original principal amount of $[[USD Value 6: Number]] and (v) Term Note dated [[Date 6]] payable to CTS in the original principal amount of $[[USD Value 5]] (collectively, the “Wireless Loans”; collectively with the VoIP Loans, the “Loans”).
 
-^^^^^ 
-During the period of [[Date 4: Date]] through [[Date 3]], (a) offering and paying illegal remuneration to health care professionals in connection with advisory boards, speakers’ bureaus or training programs, educational or research grants, consulting forums or other consultancies, preceptorships, or arrangements to make patient enrollment payments in connection with educational or research grants, to induce health care professionals to promote and/or prescribe Kadian, in violation of the Federal Anti-Kickback Statute, 42 U.S.C. § 1320a-7b(b), and (b) making and/or disseminating unsubstantiated and/or false representations or statements, directly or indirectly, about the safety and efficacy of Kadian to promote or encourage prescribing of Kadian for uses that were not reasonable and necessary. As a result of the foregoing conduct, Alpharma knowingly caused false or fraudulent claims for Kadian to be submitted to Medicaid, Medicare and the other Federal Health Care Programs. 
+Pursuant to, and in consideration for, the Wireless Loans, each Letter Agreement Holder entered into a separate Letter Agreement with LNS and LYH (the “Wireless Letter Agreements,” collectively with the VoIP Letter Agreements, the “Letter Agreements”). Pursuant to the Wireless Letter Agreements, LNS and LYH collectively agreed to pay each Letter Agreement Holder a certain percentage of the Monthly Revenue (as defined in the Wireless Letter Agreements) from the sales of wireless service offerings (excluding equipment and accessories), all as more fully set forth in the Wireless Letter Agreements (the “Wireless Revenue Payments”; collectively with the VoIP Revenue Payments, the “Revenue Payments”).
 
-^The United States also contends that it has certain administrative claims against Alpharma as specified in Paragraphs 3 through 5, below, for engaging in the Covered Conduct. 
+^On [[Date 7: Date]], Libra Alliance Corporation (“Libra”) acquired LNS pursuant to a securities exchange agreement (the “Exchange Agreement”) by and among Libra and LYH (the “Exchange”). As part of the Exchange, Libra issued [[Shares 1: Number]] shares of common stock and [[Shares 2: Number]] shares of preferred stock to LYH. After the Exchange, LYH owns [[Percentage 1: Number]]% of Libra’s stock on an as-converted, fully diluted basis.
 
-^In the Civil Action, the Relator has also asserted claims against Alpharma for payment of reasonable attorneys’ fees and costs, pursuant to 31 U.S.C. § 3730(d), and for alleged wrongful termination, pursuant to 31 U.S.C. § 3730(h). In a separate action, Relator has also asserted claims against Alpharma and King for wrongful discharge under Maryland law. These claims are not resolved by this Agreement, as set forth in Paragraph 7 below. 
+Immediately prior to closing the Exchange, Libra, LYH, LNS and the Letter Agreement Holders expected to close a purchase of the Letter Agreements by Libra and LNS (the “Override Purchase Plan”). Although the Override Repurchase Plan was not fully consummated, LNS, LYH and the Letter Agreement Holders did enter into that certain First Modification to Letter Agreements dated [[Date 2]] (the “Modification Agreement”). Pursuant to the Modification Agreement, among other things, LNS and the Letter Agreement Holders released LYH from any and all obligations under the Letter Agreements, including without limitation, any obligation to make any Revenue Payments to any of the Letter Agreement Holders, and LNS agreed to remain liable for its obligations under the Letter Agreements, as modified.
 
-^This Agreement is made in compromise of disputed claims. This Agreement is not an admission of facts or liability by Alpharma. This Agreement is also not a concession by the United States that its claims are not well-founded. Alpharma expressly denies allegations of the United States and the Relator as set forth herein and in the Civil Action and denies that they have engaged in any wrongful conduct in connection with the Covered Conduct. Neither this 
+LNS and Libra did not close on the purchase of the Letter Agreements from the Letter Agreement Holders. Thus, LNS is currently obligated to make Revenue Payments to each of the Letter Agreement Holders pursuant to the Letter Agreements. LNS desires to limit its obligation to make Revenue Payments under the Letter Agreements.
 
-^^^^^ 
-Agreement, its execution, nor the performance of any obligation under it, including any payment, nor the fact of the settlement, is intended to be, or shall be understood as, an admission of liability or wrongdoing, or other expression reflecting upon the merits of the dispute, by Alpharma. 
+^**Settlement of Sullivan Claims; Purchase of Sullivan Note by LNS; Grant of Security Interest in and Option to Purchase Letter Agreements**.
 
-^To avoid the delay, uncertainty, inconvenience, and expense of protracted litigation of these claims, the Parties reach a full and final settlement as set forth in this Agreement. 
+LYH’s obligation to Sullivan is maturing. If LYH fails to pay this debt or otherwise reach a forbearance agreement, Sullivan may foreclose on liens in his favor, including the membership interest pledges securing the debt with shares in LYH held by certain of the Letter Agreement Holders. This action would result in Sullivan owning the majority of membership interests in LYH and otherwise entitling Sullivan to control Libra and LNS.
 
-\centered **TERMS AND CONDITIONS** 
+LNS and the Letter Agreement Holders have determined that it is in their respective best interests to take steps to cause Sullivan to forbear from foreclosing on liens in his favor. LNS and the Letter Agreement Holders acknowledge that preventing Sullivan from taking action to foreclose on his liens will preserve the likelihood of receiving payment on debt owed to each of them and further preserve each Letter Agreement Holder’s economic investment in LYH. Moreover, LNS acknowledges that LYH made payments to Sullivan after the parties reached an understanding in principal and prior to the execution of this Agreement, which advances on behalf of LNS it now intends to reimburse.
 
-NOW, THEREFORE, in reliance on the representations contained herein and in consideration of the mutual promises, covenants, and obligations in this Agreement, and for good and valuable consideration, as set forth herein, the Parties agree as follows: 
+To induce Sullivan to forbear from foreclosing on liens in his favor, LYH, LNS and the Letter Agreement Holders have agreed to a settlement of Sullivan’s claims pursuant to which: (1) LNS will purchase and assume the Sullivan Note from Sullivan in exchange for the Settlement Amount and (2) LYH will be indebted to LNS pursuant to and in the amount of the Sullivan Note. To induce LNS to purchase Sullivan’s rights under the Sullivan Note, the Letter Agreement Holders will (a) grant LNS security interests in the Letter Agreements to secure payment by LYH of the Sullivan Note to LNS, and (b) give LNS an option pursuant to which LNS may purchase the Letter Agreements. LNS is willing to enter into this Agreement because the security interest in the Letter Agreements affords LNS the possibility of discontinuing its obligation to make override revenue payments to the Letter Agreement Holders and the option provides LNS with the ability to determine its maximum potential liability under the Letter Agreements.
 
-^Alpharma Inc. and Alpharma Pharmaceuticals LLC agree to pay to the United States and the Medicaid Participating States, collectively, the sum of forty-two million five hundred thousand dollars ($[[USD Value 1: Number]]), plus interest at the rate of [[Percentage 1: Number]]% per annum on that amount from [[Date 5: Date]] (collectively, the “Settlement Amount”). The Settlement Amount shall constitute a debt due and owing to the United States and the Medicaid Participating States on the dates set forth in Subparagraphs (a) and (b) of this Paragraph. This debt shall be discharged by payments to the United States and the Medicaid Participating States, under the following terms and conditions: 
+NOW, THEREFORE**,** in consideration of the mutual covenants and agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of all of which is hereby acknowledged, the parties do hereby agree as follows:
 
-^^Alpharma shall pay to the United States the sum of thirty-three million six hundred twenty-four thousand and thirty-five dollars ($[[USD Value 2: Number]]) plus accrued interest on that amount from [[Date 5]] and continuing until and including the day before payment is made under this Agreement (“Federal Settlement Amount”), within ten days of the Effective 
+^**Effect of the Foregoing**. All of the foregoing are a part of this Agreement and are not mere recitals.
 
-^^^^^ 
-Date of this Agreement, as defined in Paragraph 29. The Federal Settlement Amount shall be paid by electronic funds transfer pursuant to written instructions from the Department of Justice. 
+^**Settlement**.  
 
-^^Alpharma shall pay to the Medicaid Participating States the sum of eight million eight hundred seventy-five thousand nine hundred and sixty five dollars ($[[USD Value 3: Number]]) plus accrued interest (“Medicaid State Settlement Amount”). The payment of the Medicaid State Settlement Amount shall be made at such time and in such manner as shall be negotiated between Alpharma and the NAMFCU Negotiating Team under the terms and conditions of the Medicaid State Settlement Agreements into which Alpharma will enter with the Medicaid Participating States. 
+^^. **Purchase and Assumption of Sullivan Note**. LNS hereby purchases and assumes any and all of Sullivan’s rights and obligations under and in connection with the Sullivan Note.
 
-^^The United States agrees that, pursuant to 31 U.S.C. § 3730(d)(1), it shall pay to the Relator, through her legal counsel, fifteen point eighty six (15.86) percent of the Federal Settlement Amount or any portion thereof actually recovered under this Agreement. Payment to the Relator is referred to herein as the “Relator’s share.” The United States agrees that after ninety (90) days of receipt of payment of any portion of the Federal Settlement Amount, the United States will pay to the Relator an amount equal to 15.86 percent of the payment; provided however that in the event a bankruptcy proceeding involving Alpharma is commenced within ninety days of receipt of payment, the United States will pay the Relator’s share as soon as feasible after receiving the payment from King referenced in Paragraph 19 below. Payment of the Relator’s share under this Agreement shall be made by electronic funds transfer to a trust account in the name of the Relator in accordance with the written instruction of Relator’s counsel. 
+^^. **Settlement Payment**. In exchange for the purchase of the Sullivan Note, LNS shall pay to Sullivan the sum of Seven Million Seven Hundred Fifty Thousand and No/100 Dollars ($[[USD Value 2]]) (the “Settlement Payment”), which amount shall be paid as follows: (a) $[[USD Value 7: Number]] contemporaneous with the execution of this Agreement in immediately available funds payable to Fifth Third as directed by Sullivan at Closing, (b) on [[Date 4]], and on the first day of each quarter year thereafter until and including the Maturity Date (as defined below), $[[USD Value 7]] plus accrued and unpaid interest payable to Fifth Third as directed by Sullivan (the “Quarterly Payments”), and (c) on the Maturity Date, the then-outstanding principal amount plus accrued and unpaid interest (the “Final Payment,” collectively with the Quarterly Payments, the “Deferred Payment”). If all such sums are not paid and satisfied in full by the Maturity Date, any sums remaining due shall thereafter bear interest at the Default Rate (as defined below). For purposes of this Agreement, “Maturity Date” shall mean the sooner of (i) [[Date 8: Date]], or (ii) the maturity date of the Fifth Third Note.
 
-^Subject to the exceptions in Paragraph 10 below, in consideration of the obligations of Alpharma set forth in this Agreement, conditioned upon the payment in full of the 
+LNS intends to prepay the Deferred Payment from subsequent fund raising or operations to the extent it is able. LNS may prepay the Deferred Payment in whole or in part at any time, without premium or penalty. Any partial prepayment shall be applied first to accrued interest due and owing on the Deferred Payment, with the balance being applied to principal. Provided, however, no partial prepayment shall postpone the due date of any installment of principal or interest due on the Deferred Payment unless and until the Deferred Payment is paid in full.
 
-^^^^^ 
-Settlement Amount by Alpharma, and subject to Paragraph 18 below (concerning bankruptcy proceedings commenced within 91 days of the Effective Date of this Agreement or any payment made under this Agreement), the United States (on behalf of itself, its officers, agents, agencies, and departments) agrees to release Alpharma, its predecessors, and their current and former divisions, parents, affiliates, subsidiaries, successors, and assigns (the “Released Alpharma Entities”) and their current and former directors, officers, and employees (the “Released Alpharma Individuals”) (collectively, the Released Alpharma Entities and the Released Alpharma Individuals shall be referred to as the “Released Alpharma Entities and Individuals”), from any civil or administrative monetary claim that the United States has or may have for the Covered Conduct under the False Claims Act, 31 U.S.C. §§ 3729-3733; the Civil Monetary Penalties Law, 42 U.S.C. § 1320a-7a; the Program Fraud Civil Remedies Act, 31 U.S.C. §§ 3801-3812; any statutory provision for which the Civil Division of the Department of Justice has actual and present authority to assert and compromise pursuant to 28 C.F.R. Part 0, Subpart I, 0.45 (d) (1995) for the Covered Conduct, and the common law claims of fraud, unjust enrichment and payment by mistake for the Covered Conduct. [Material redacted pursuant to order of the United States District Court for the District of Maryland, Civil No. RDB-06-2411 ([[Date 6: Date]]).] 
+In addition to the Settlement Payment, at Closing LNS shall reimburse LYH for advances made by LYH on behalf of Sullivan after the parties reached a settlement in principal but prior to the execution of this Agreement in the amount of Two Hundred Sixty Thousand and No/100 Dollars ($[[USD Value 8: Number]]).
 
-^OIG-HHS expressly reserves all rights to institute, direct, or to maintain any administrative action seeking exclusion against Alpharma and/or King, and/or their officers, directors, and employees, from Medicare, Medicaid, and all other Federal health care programs (as defined in 42 U.S.C. § 1320a-7b(f)) under 42 U.S.C. § 1320a-7(a) (mandatory exclusion), or 42 U.S.C. § 1320a-7(b) or 42 U.S.C. § 1320a-7a (permissive exclusion). 
+^^. Notwithstanding the foregoing, LNS shall not be required to pay any installment of the Deferred Payment when due if the payment of such installment would cause LNS to be unable to pay its other creditors, as determined by LNS in its sole, reasonable discretion and LNS provides written notice to Sullivan that it is withholding payment; provided, however, that LNS must pay any withheld payment(s) to Sullivan not more than two (2) days after LNS has sufficient funds to make such payment(s) and pay its other creditors as its debts to such other creditors become due.
 
-^^^^^ 
-^TMA expressly reserves all rights to institute, direct, or to maintain any administrative action seeking exclusion against Alpharma and/or King from the Tricare Program under 32 C.F.R. Chapter 199.9, including both mandatory and permissive exclusions. 
+Interest on the Deferred Payment shall bear interest from the date hereof until the outstanding principal balance of the Deferred Payment, all accrued but unpaid interest thereon and all other charges, fees or expenses hereunder have been repaid to Sullivan in full at a rate equal to (a) the rate charged to Sullivan by Fifth Third pursuant to the Fifth Third Note; plus (b) (i) three percent ([[Percentage 2: Number]]%) per annum on all amounts owed hereunder up to Seven Million Dollars ($[[USD Value 9: Number]]) and (ii) six percent ([[Percentage 3: Number]]%) per annum on all amounts owed hereunder in excess of Seven Million Dollars ($[[USD Value 9]]); provided, however, that (x) except in the case of an Event of Default, in no event shall the rate of interest charged hereunder exceed ten percent ([[Percentage 4: Number]]%) per annum, and (y) if the debt evidenced by the Fifth Third Note is retired (and not refinanced), the rate of interest charged hereunder until paid in full shall be equal to the rate of interest charged hereunder on the business day immediately preceding the date that the debt evidenced by the Fifth Third Note was retired (the “Interest Rate”). Interest shall be computed on the basis of the actual number of days elapsed in a year of 365 days. In the event of a default by LNS with respect to the payment of the Deferred Payment, if such default is not cured prior to the expiration of any applicable cure period, Sullivan may, in his sole discretion, determine that all of the Deferred Payment owing to Sullivan shall bear interest at the a rate of Five and 00/100 percent ([[Percentage 5: Number]]%) per annum above the Interest Rate (hereinafter referred to as the “Default Rate”). If LNS fails to make any payment due under this Agreement within two (2) days of the date it is due, the LNS shall pay a late charge of five percent ([[Percentage 6: Number]]%) of the amount of the overdue payment.
 
-^OPM expressly reserves all rights to institute, direct, or to maintain any administrative action seeking debarment against Alpharma and/or King from the FEHBP under 5 U.S.C. § 8902(b) (mandatory debarment), or 5 U.S.C. § 8902 (c) and (d) (permissive debarment). 
+The occurrence of any of the following shall constitute an “Event of Default” under this Section 1(b): (i) the Deferred Payment, or any part thereof, shall not be paid in full within two (2) business days after such payment becomes due hereunder (whether by lapse of time, acceleration of maturity, or otherwise), (ii) LNS fails to comply with any term, condition, requirement, or covenant set forth in Section 2(b), (iii) LNS has withheld two (2) or more payments under Section 2(c) in successive quarters and Sullivan has reasonable grounds to believe that the creditworthiness of LNS has become unsatisfactory, or (iv) Fifth Third declares an event of default under the Fifth Third Note. Upon the occurrence of an Event of Default, Sullivan shall deliver written notice to LNS indicating the claimed default and giving LNS five (5) business days to cure such Event of Default. If LNS fails to cure any Event of Default prior to the expiration of the cure period, Sullivan may (i) declare the outstanding balance of the Deferred Payment, together with accrued interest thereon, to be at once due and payable, or (ii) declare this Agreement to be void. If Sullivan avoids the Agreement pursuant to this Section 2(b), the Sullivan Note shall revert to Sullivan, LNS will have no further obligation to make any payments to Sullivan whether for amounts withheld or to become due, and the payments Sullivan received from LNS hereunder shall be credited against the Sullivan Note.
 
-^Conditioned upon receipt of the Relator’s share set forth in Paragraph 1(c) above, the Relator, for herself individually, and for her heirs, successors, agents, and assigns, fully and finally releases, waives, and forever discharges the United States, its officers, agents, and employees, from any claims arising from or relating to 31 U.S.C. § 3730 for any claims against Alpharma arising from the Covered Conduct and/or for any other claims in the Civil Action; and from any other claims for a share of the Settlement Amount, and in full settlement of any claims Relator may have against the United States under this Agreement. Nothing in this Paragraph or any other provision of this Agreement resolves, or in any manner affects, any claims the United States has or may have against the Relator arising under Title 26, U.S. Code (Internal Revenue Code), or any claims arising under this Agreement. 
+^**Continuation of LYH’s Liability**. The purchase of the Sullivan Note by LNS shall have no effect on the obligations of LYH thereunder. LYH shall be and remain absolutely, fully, irrevocably, and unconditionally liable to LNS for any and all obligations under the Sullivan Note.
 
-^The Relator also agrees that:  
+^**Continuation of UCC Security Interests and Other Liens**. The Sullivan Note is secured by certain UCC security interests and other liens (collectively, the “Liens”) in favor of Sullivan securing the Sullivan Note. Sullivan, the grantors of any such security interests, and LYH shall execute and deliver to LNS any and all documents to confirm the continuation of the first and prior Liens of LNS to secure the Sullivan Note.
 
-^^Conditioned upon the full and complete payment of the Settlement Amount by Alpharma to the United States and the Medicaid Participating States, the Relator, for herself, and for her heirs, successors, agents, and assigns, fully and finally releases, waives, and forever discharges the Released Alpharma Entities and Individuals from any and all claims, liabilities, demands, damages, actions or causes of action arising from the allegations in the Civil
+^**Security Interest in the Letter Agreements**. To induce LNS to purchase the Sullivan Note, and without such inducement LNS would not purchase the Sullivan Note, the Letter Agreement Holders grant to LNS a security interest in all of its rights, title and interests in and to the Letter Agreements and the “Proceeds,” as that term is defined in the UCC (including insurance Proceeds), products of any sale, exchange, collection or other disposition of the Letter Agreements or any part thereof, and all Accessions thereto. The security interest granted by the Letter Agreement Holders hereby secures the payment and performance of all of the following Secured Obligations: all loans, advances, debts, liabilities, obligations, covenants and duties owing to LNS from LYH of any kind or nature, present or future, evidenced by the Sullivan Note. LNS, its successors and assigns, shall hold the security interests created hereby upon the terms of this Agreement, and this Agreement shall continue until the Sullivan Note has been paid in full.
 
-^^^^^ 
-Action for the period from [[Date 4]] through [[Date 3]], whether known or unknown, fixed or contingent, in law or in equity, that she has or may have, on behalf of herself or any other person, entity, or thing, including the United States, or any state or local government or sovereign, except as provided in paragraph 7 (c) below (“Relator’s Claims”); 
+^**Option**. The Letter Agreement Holders hereb grants to LNS the exclusive option to purchase the Letter Agreements upon the terms, covenants and conditions set forth herein (the “Option”).
 
-^^The Relator has not assigned or transferred any of the Relator’s Claims to any person, entity, or thing, and covenants and agrees not to assert or pursue any of the Relator’s Claims in any way, including by offset or recoupment; and
+^^. **Term** a**nd Manner** of Exercise. LNS may exercise the Option at any time during the period commencing on the date of this Agreement and terminating at 11:59 p.m. on [[Date 9: Date]] (the “Option Period”) by giving written notice thereof to all, but not less than all, of the Letter Agreement Holders at the business address of each such Letter Agreement Holder on file with LNS.
 
-^^Notwithstanding the above provisions of this Paragraph, the Relator does not release the Released Alpharma Entities and Individuals from (i) Relator’s claims for reasonable attorneys’ fees and cost in connection with the Civil Action, pursuant to 31 U.S.C. § 3730(d), and (ii) Relator’s claims that are based on allegations that Alpharma wrongfully retaliated against the Relator in violation of the anti-retaliation provisions of the FCA, 31 U.S.C. § 3730(h), and (iii) Relator’s claims that are based on allegations that Alpharma wrongfully terminated relator’s employment which are pending in the Circuit Court of Maryland for Baltimore City Circuit Court Case Number 24-C-09-004512 OT. As stated in Paragraph 20 of this Agreement, the claims described in this sub-paragraph are not being released by any provision in this Agreement. The purpose of this sub-paragraph is to exclude and exempt the claims described in this sub-paragraph from being released in any manner. The Released Alpharma Entities and Individuals specifically agree that they will not raise this release, or Relator’s signature on this release as grounds for dismissal or judgment in favor the Released Alpharma Entities and Individuals on the claims described in this sub-paragraph; and
+^^. **Option Purchase Price**. If the Option is exercised by LNS, the purchase price for the Letter Agreements (the “Purchase Price”) shall be Eight Million and No/100 Dollars ($[[USD Value 10: Number]]). On the Option Closing Date (as defined herein), LNS shall pay the Purchase Price to the Letter Agreement Holders as follows:
 
-^^No portion of the Relator’s share paid to Relator by the United States or the Medicaid Participating States is intended to compensate, or does compensate, Relator for any
+\centered (i).   LANJK      $   1,714,285.72 (ii).   RRC      $   1,142,857.14 (iii).   [[VoIP Loans]]      $   2,857,142.86 (iv).   CTS      $   1,142,857.14 (v).   Carmicle      $   1,142,857.14  
 
-^^^^^ 
-damages compensable under 31 U.S.C. § 3730(h) or damages Relator seeks to recover through her claims asserted in the Circuit Court of Maryland for Baltimore City, Case Number 24-C-09004512 OT. 
+^^. **Closing; Costs**. The closing of the option shall be held on a date to be selected by LNS, which date shall not be later than thirty (30) days after the date on which LNS exercises this Option (the “Option Closing Date”). If the Option Closing Date is a Saturday, Sunday or holiday, the next following business day shall be deemed to be the Option Closing Date. The closing shall be held at a time and place mutually agreed upon by LNS and the Letter Agreement Holders. Each party shall bear any and all of its own expenses in connection with the exercise of the Option.
 
-^Alpharma fully and finally releases the United States, and its agencies, employees, servants, and agents from any claims (including attorneys’ fees, costs and expenses of every kind and however denominated) which Alpharma has asserted, could have asserted, or may assert in the future against the United States, its agencies, employees, servants, and agents, related to the Covered Conduct or arising from the United States’ investigation and prosecution of the Civil Action. 
+^**Representations, Warranties** a**nd Covenants**. Each of the parties to this Agreement represents, warrants and covenants, as of the date hereof, as follows:
 
-^In consideration of the obligations of the Relator set forth in this Agreement, Alpharma, on behalf of itself and the other Alpharma Released Entities and Individuals, fully and finally releases, waives, and forever discharges the Relator and her heirs, successors, assigns, agents, and attorneys from any claims or allegations that Alpharma has asserted or could have asserted, arising from the allegations in the Civil Action for the period from [[Date 4]] through [[Date 3]]. Notwithstanding the foregoing, this Paragraph does not release or foreclose the assertion of any defenses or counterclaims available to the Alpharma Released Entities and Individuals with respect to the claims reserved by Relator pursuant to Paragraph 7(c) above. 
+^^. Each party hereto has the requisite power and authority to enter into this Agreement. The execution and delivery hereof and the performance by each party hereto of his or its obligations hereunder will not violate or constitute an event of default under the terms and provisions of any agreement, document or instrument to which any such party is a party or by which any such party is bound;
 
-^Notwithstanding any term of this Agreement, specifically reserved and excluded from the scope and terms of this Agreement as to any entity or person (including Alpharma and the Relator) are the following claims of the United States: 
+^^. This Agreement is a valid and binding obligation of each party hereto;
 
-^^Any civil, criminal, or administrative liability arising under Title 26, U.S. Code (commonly referred to as the Internal Revenue Code);
+^^. To the best of each party’s knowledge as of the date hereof, each party is in full compliance with all applicable laws and any other local, municipal, regional, state or federal requirements and no party hereto has received actual notice from any governmental authority that he or it is not in full compliance with all applicable laws and any other local, municipal, regional, state or federal requirements;
 
-^^^^^ 
-^^Any criminal liability; 
+^^. The Letter Agreement Holders have not granted any option or any other rights to acquire the Letter Agreements, other than as set forth in this Agreement;
 
-^^Except as explicitly stated in this Agreement, any administrative liability, including permissive or mandatory exclusion from the Federal health care programs;
+^^. So long as the Option remains in effect, each Letter Agreement Holder will take no action, or fail to take any required action, that would prohibit him or it or it from complying with the obligations hereunder or that would cause any of the representations or warranties hereunder to be untrue as of the date hereof or at any future date;
 
-^^Any liability to the United States (or its agencies) for any conduct other than the Covered Conduct;
+^^. So long as the Option remains in effect, each Letter Agreement Holder will not grant any liens on any Letter Agreement, or sell or otherwise transfer any Letter Agreement.
 
-^^Any liability based upon such obligations as are created by this Agreement;
+^**Miscellaneous**. This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements in regard thereto. This Agreement cannot be amended except by an agreement in writing signed by authorized representatives of all parties and specifically referring to this Agreement. The paragraph headings set forth herein are for convenience only and do not constitute a substantive part of this Agreement. This Agreement shall be governed by and construed under the laws of the Commonwealth of Kentucky, without regard to conflicts of law principles. If any provision of this Agreement shall be determined to be illegal or unenforceable by any Court of law or any competent governmental or other authority, the remaining provisions shall be severable and enforceable in accordance with their terms.
 
-^^Any liability for express or implied warranty claims or other claims for defective or deficient products or services, including quality of goods and services;
+^**Notice**. All notices, demands, requests, consents or approvals and other communications required or permitted hereunder will be in writing, and, to the extent required by applicable law, will comply with the requirements of the Uniform Commercial Code then in effect, and will be addressed to such party at the address on file with LYH or to such other address as any party may give to the other in writing for such purpose. All such communications, if personally delivered, will be conclusively deemed to have been received by a party hereto and to be effective when so delivered, or if sent by telex, facsimile or telegraphic means, on the day on which transmitted, or if sent by overnight courier service, on the day after deposit thereof with such service, or if sent by certified or registered mail, on the third business day after the day on which deposited in the mail.
 
-^^Any liability for personal injury or property damage, or for other similar consequential damages, arising from the Covered Conduct;
+^**Binding Effect**. This Agreement is binding upon, and shall inure to the benefit of, the parties hereto and their heirs, personal representatives, successors and assigns.
 
-^^Any liability for failure to deliver goods or services due; or
+^**Counterparts**. This Agreement may be executed in several counterparts, each of which shall be an original and all of which together shall constitute but one and the same instrument.
 
-^^^Any civil or administrative liability of individuals (including current or former directors, officers, employees, or agents of Alpharma) who receive written notification that they are the target of a criminal investigation (as defined in the United States Attorneys’ Manual), are indicted, charged, or convicted, or who enter into a criminal plea agreement arising from the Covered Conduct.
+\centered **[SPACE INTENTIONALLY BLANK; SIGNATURES ON FOLLOWING PAGE]**
 
-^The Relator and her heirs, successors, attorneys, agents, and assigns agree not to object to this Agreement and agree and confirm that this Agreement is fair, adequate, and reasonable under all the circumstances, pursuant to 31 U.S.C. § 3730(c)(2)(B), and expressly waive the opportunity for a hearing on any objection to this Agreement pursuant to 31 U.S.C. § 3730(c)(2)(B). 
+**IN WITNESS WHEREOF,** the parties have executed this Agreement as of the day and date first above written.
 
-^^^^^ 
-^Alpharma waives and shall not assert any defenses it may have to any criminal prosecution or administrative action relating to the Covered Conduct that may be based in whole or in part on a contention that, under the Double Jeopardy Clause in the Fifth Amendment of the Constitution, or under the Excessive Fines Clause in the Eighth Amendment of the Constitution, this Agreement bars a remedy sought in such criminal prosecution or administrative action. Nothing in this Paragraph or any other provision of this Agreement constitutes an agreement by the United States concerning the characterization of the Settlement Amount for purposes of the Internal Revenue Laws, Title 26 of the United States Code. 
+**LY HOLDINGS**
 
-^The Settlement Amount shall not be decreased as a result of the denial of claims for payment now being withheld from payment by any Medicare carrier or intermediary, or any state payer, related to the Covered Conduct; and Alpharma agrees not to resubmit to any Medicare carrier or intermediary, or any state payer, any previously denied claims related to the Covered Conduct, and agrees not to appeal any such denials of claims. 
+[[LY HOLDINGS Signatory Email: Identity | Signature]]
+__________________________________________
+{{LY HOLDINGS Entity => By: [[LY HOLDINGS Signatory First Name]] [[LY HOLDINGS Signatory Last Name]]
+Title: [[LY HOLDINGS Signatory Title]]}}
 
-^Alpharma agrees to the following:  
 
-^^Unallowable Costs Defined: That all costs (as defmed in the Federal Acquisition Regulation, 48 C.F.R. § 31.205-47 and in Titles XVIII and XIX of the Social Security Act, 42 U.S.C. §§ 1395-1395hhh and 1396-1396v, and the regulations and official program directives promulgated thereunder) incurred by or on behalf of the Released Alpharma Entities and Individuals in connection with any of the following shall be “Unallowable Costs” on government contracts and under the Medicare Program, Medicaid Program, TRICARE Program, and FEHBP:
+**LIGHTYEAR NETWORK SOLUTIONS**
 
-^the matters covered by this Agreement; 
+[[LIGHTYEAR NETWORK SOLUTIONS Signatory Email: Identity | Signature]]
+__________________________________________
+{{LIGHTYEAR NETWORK SOLUTIONS Entity => By: [[LIGHTYEAR NETWORK SOLUTIONS Signatory First Name]] [[LIGHTYEAR NETWORK SOLUTIONS Signatory Last Name]]
+Title: [[LIGHTYEAR NETWORK SOLUTIONS Signatory Title]]}}
 
-^^^^^ 
-^the United States’ audit, and any United States’ investigation of the matters covered by this Agreement; 
 
-^the Released Alpharma Entities investigation, defense, and any corrective actions undertaken in response to the United States’ audit, and civil and criminal investigation, in connection with the matters covered by this Agreement (including attorneys’ fees); 
+/s/ **[[Party 4]]**
+**[[Party 4]]**
 
-^the negotiation and performance of this Agreement, and the Medicaid State Settlement Agreements; 
+**LANJK**
 
-^the payments that Alpharma makes to the United States or any State pursuant to this Agreement, or the Medicaid State Settlement Agreements and any payment that Alpharma may make to the Relator, including any costs and attorneys’ fees. 
+[[LANJK Signatory Email: Identity | Signature]]
+__________________________________________
+{{LANJK Entity => By: [[LANJK Signatory First Name]] [[LANJK Signatory Last Name]]
+Title: [[LANJK Signatory Title]]}}
 
-^^Future Treatment of Unallowable Costs: These Unallowable Costs shall be separately determined and accounted for by Alpharma, and Alpharma shall not charge such Unallowable Costs directly or indirectly to any contracts with the United States or any State Medicaid program, or seek payment for such Unallowable Costs through any cost report, cost statement, information statement or payment request submitted by any of the Released Alpharma Entities to the Medicare, Medicaid, TRICARE, or FEHBP Programs.
 
-^^Treatment of Unallowable Costs Previously Submitted for Payment: Alpharma further agrees that, within 90 days of the Effective Date of this Agreement, it shall identify to applicable Medicare and TRICARE fiscal intermediaries, carriers, and/or contractors, and Medicaid and FEHBP fiscal agents, any Unallowable Costs (as defined in this Paragraph) included in payments previously sought from the United States, or any State Medicaid program, including, but not limited to, payments sought in any cost reports, cost statements, information
+**RICE REALTY COMPANY**
 
-^^^^^ 
-reports, or payment requests already submitted by any of the Released Alpharma Entities, and shall request, and agree, that such cost reports, cost statements, information reports, or payment requests, even if already settled, be adjusted to account for the effect of the inclusion of the Unallowable Costs. Alpharma agrees that the United States, at a minimum, shall be entitled to recoup from Alpharma any overpayment, plus applicable interest and penalties, as a result of the inclusion of such Unallowable Costs on previously submitted cost reports, information reports, cost statements, or requests for payment. 
+[[RICE REALTY COMPANY Signatory Email: Identity | Signature]]
+__________________________________________
+{{RICE REALTY COMPANY Entity => By: [[RICE REALTY COMPANY Signatory First Name]] [[RICE REALTY COMPANY Signatory Last Name]]
+Title: [[RICE REALTY COMPANY Signatory Title]]}}
 
-Any payments due after the adjustments have been made shall be paid to the United States pursuant to the direction of the Department of Justice and/or the affected agencies. The United States reserves its rights to disagree with any calculations submitted by the Released Alpharma Entities on the effect of inclusion of Unallowable Costs (as defined in this Paragraph) on the cost reports, cost statement, or information reports of the Released Alpharma Entities. 
 
-^^Nothing in this Agreement shall constitute a waiver of the rights of the United States to audit, examine, or re-examine the books and records of the Released Alpharma Entities to determine that no Unallowable Costs have been claimed in accordance with the provisions of this Paragraph.
+\centered S-1
 
-^This Agreement is intended to be for the benefit of the Parties only. The Parties do not release any claims against any other individual, employee, or entity, except to the extent provided for specifically herein. 
+/s/ **[[VoIP Loans]]**, III
+**[[VoIP Loans]]**, III**
 
-^Alpharma agrees that it waives and shall not seek payment for any of the health care billings covered by this Agreement from any health care beneficiaries or their parents, sponsors, legally responsible individuals, or third party payors based upon the claims defined as Covered Conduct. 
+**CTS EQUITIES LIMITED PARTNERSHIP**
 
-^^^^^ 
-^Alpharma expressly warrants that it has reviewed its financial situation and that it is currently solvent within the meaning of 11 U.S.C. §§ 547(b)(3) and 548 (a)(1)(B)(ii)(I), and will remain solvent following payment of the Settlement Amount. Further, the Parties warrant that, in evaluating whether to execute this Agreement, they (a) have intended that the mutual promises, covenants, and obligations set forth herein constitute a contemporaneous exchange for new value given to Alpharma, within the meaning of 11 U.S.C. § 547(c)(1); and (b) conclude that these mutual promises, covenants, and obligations do, in fact, constitute such a contemporaneous exchange. Further, the Parties warrant that the mutual promises, covenants, and obligations set forth herein are intended to, and do, in fact, represent a reasonably equivalent exchange of value which is not intended to hinder, delay, or defraud any entity to which Alpharma was or became indebted to on or after the date of this transfer, within the meaning of 11 U.S.C. § 548(a)(1). 
+[[CTS EQUITIES LIMITED PARTNERSHIP Signatory Email: Identity | Signature]]
+__________________________________________
+{{CTS EQUITIES LIMITED PARTNERSHIP Entity => By: [[CTS EQUITIES LIMITED PARTNERSHIP Signatory First Name]] [[CTS EQUITIES LIMITED PARTNERSHIP Signatory Last Name]]
+Title: [[CTS EQUITIES LIMITED PARTNERSHIP Signatory Title]]}}
 
-^In the event that Alpharma Inc. or Alpharma Pharmaceuticals LLC. commences, or a third party commences, within 91 days of the Effective Date of this Agreement, or of any payment made hereunder, any case, proceeding, or other action under any law relating to bankruptcy, insolvency, reorganization, or relief of debtors, (a) seeking to have any order for relief of Alpharma Inc.’s or Alpharma Pharmaceutical LLC’s debts, or seeking to adjudicate either of these entities as bankrupt or insolvent; or (b) seeking appointment of a receiver, trustee, custodian, or other similar official for either of these entities for all or any substantial part of either of these entities’ assets, Alpharma agrees as follows: 
 
-^^Alpharma’s obligations under this Agreement may not be avoided pursuant to 11 U.S.C. §§ 547 or 548, and Alpharma shall not argue or otherwise take the position in any such case, proceeding, or action that: (i) Alpharma’s obligations under this Agreement 
+[[Title RRC Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title RRC Signatory Title}} Entity => By: [[Title RRC Signatory Title}} Signatory First Name]] [[Title RRC Signatory Title}} Signatory Last Name]]
+Title: [[Title RRC Signatory Title}} Signatory Title]]}}
 
-^^^^^ 
-may be avoided under 11 U.S.C. §§ 547 or 548; (ii) Alpharma was insolvent at the time this Agreement was entered into, or became insolvent as a result of any payment made to the United States hereunder; or (iii) the mutual promises, covenants, and obligations set forth in this Agreement do not constitute a contemporaneous exchange for new value given to Alpharma. 
+**[[Letter Agreement Holders]]**
 
-^^If Alpharma’s obligations under this Agreement are avoided for any reason, including, but not limited to, through the exercise of a trustee’s avoidance powers under the Bankruptcy Code, and if the obligations of Alpharma are not discharged by King pursuant to Paragraph 19 within 30 days after demand by the United States upon King, the United States, at its sole option, may rescind the releases in this Agreement, and bring any civil and/or administrative claim, action, or proceeding against Alpharma for the claims that would otherwise be covered by the releases provided in Paragraph 2 above. Alpharma agrees that (i) any such claim, action, or proceeding brought by the United States (including any proceeding to exclude any of the Released Alpharma Entities/Individuals from participation in Medicare, Medicaid, or other Federal health care programs) are not subject to an “automatic stay” pursuant to 11 U.S.C. § 362(a) as a result of the action, case, or proceeding described in the first clause of this Paragraph, and that Alpharma shall not argue or otherwise contend that the United States’ claim, action, or proceeding is subject to an automatic stay; (ii) Alpharma shall not plead, argue, or otherwise raise any defenses under the theories of statute of limitations, laches, estoppel, or similar theories, to any such civil or administrative claim, action, or proceeding that is brought by the United States within one-hundred-twenty (120) calendar days of written notification to Alpharma that the releases have been rescinded pursuant to this Paragraph, except to the extent such defenses were available on [[Date 7: Date]], the date the Civil Action case was originally filed; and (iii) the United States has a valid claim against Alpharma for the Covered
-
-^^^^^ 
-Conduct in the amount of treble damages plus penalties, as provided for under the False Claims Act, 31 U.S.C. §§ 3729-3733, and the United States may pursue its claims in any case, action, or proceeding referenced in the first clause of this subparagraph. 
-
-^^Alpharma acknowledges that its agreements in this Paragraph are provided in exchange for valuable consideration provided in this Agreement.
-
-^In order to induce the United States to enter into this Settlement Agreement with Alpharma, and in consideration for the benefits that King, in its capacity as sole stockholder of Alpharma, will realize from this Settlement Agreement, King hereby absolutely, unconditionally and irrevocably guarantees to the United States the payment in full of the Federal Settlement Amount when due. King hereby waives any defense to its obligations under this Paragraph 19, other than the complete and indefeasible payment by Alpharma or King of the Federal Settlement Amount, or a rescission by the United States pursuant to Paragraph 18. In the event that, within the 90-day period following payment of the Settlement Amount during which a payment by Alpharma can potentially be set aside under the United States bankruptcy laws as a preference, Alpharma becomes subject to a bankruptcy proceeding, and counsel for the United States informs counsel for King, in writing, that the United States has determined that some or all of the funds that it received from Alpharma may be set aside as a preference, then the United States may declare Alpharma in breach of its obligations hereunder and return the funds received from Alpharma as the Federal Settlement Amount (without discharging Alpharma for its liability for such payment), and within ten business days after the date that such funds are returned, King, in its capacity as guarantor of Alpharma’s obligation shall pay to the United States the sum of thirty-three million six hundred twenty-four thousand and thirty-five dollars ($[[USD Value 2]]) 
-
-^^^^^ 
-plus interest at the rate of 3.125 percent per annum on that amount from [[Date 5]] to the date that King makes its payment as guarantor. 
-
-^Within 30 days of the Effective Date of this Agreement, the United States shall: intervene in the Civil Action as to the Covered Conduct, consent to the voluntary dismissal as to defendants Alpharma Inc., Alpharma Branded Products Division, Inc., Faulding Laboratories, and Purepac Pharmaceutical Company as to all allegations against these defendants that are set forth in the Civil Action, except those claims referenced in subparagraph (c) of this Paragraph, and file a stipulation of dismissal in the Civil Action as follows: 
-
-^^the stipulation of dismissal shall be with prejudice as to both the United States’ and Relator’s claims against Alpharma as to the Covered Conduct, pursuant to and consistent with the terms and conditions of this Agreement, and conditioned upon Alpharma’s payment in full of the Settlement Amount;
-
-^^the stipulation of dismissal shall be without prejudice as to the United States and with prejudice as to the Relator as to all other claims in the Civil Action against Alpharma Inc., Alpharma Branded Products Division, Inc., Faulding Laboratories, and Purepac Pharmaceutical Company;
-
-^^provided, however, that the following claims in the Civil Action against Alpharma shall not be dismissed unless they are settled, adjudicated, or otherwise resolved: (1) the Relator’s claims for reasonable attorneys’ fees, expenses, and costs pursuant to 31 U.S.C. § 3730(d); and (2) the Relator’s claims under 31 U.S.C. § 3730(h).
-
-^Except as expressly provided for to the contrary in this Agreement, each Party shall bear its own legal and other costs incurred in connection with this matter, including the 
-
-^^^^^ 
-preparation and performance of this Agreement, except that the Relator reserves her rights against Alpharma to seek attorney’s fees, costs and expenses under § 3730(d). 
-
-^The Parties each represent that this Agreement is freely and voluntarily entered into without any degree of duress or compulsion whatsoever. 
-
-^This Agreement is governed by the laws of the United States. The Parties agree that the exclusive jurisdiction and venue for any dispute arising between or among the Parties under this Agreement, including any dispute regarding payment of the Relator’s attorney’s fees, expenses and costs, or the Relator’s claims under § 3730(h), will be in the United States District Court for the District of Maryland. 
-
-^For purposes of construction, this Agreement shall be deemed to have been drafted by all Parties to this Agreement and shall not, therefore, be construed against any party for that reason in any dispute. 
-
-^The individuals signing this Agreement on behalf of Alpharma and King warrant that they are authorized by Alpharma and King to execute this Agreement. The United States’ signatories represent that they are signing this Agreement in their official capacities and that they are authorized to execute this Agreement. The individuals signing this Agreement on behalf of the Relator represent and warrant that they are authorized by the Relator to execute this Agreement. 
-
-^This Agreement may be executed in counterparts, each of which constitutes an original and all of which constitute one and the same Agreement. 
-
-^This Agreement is binding on the successors, transferees, heirs, and assigns of Alpharma, King and Relator. 
-
-^^^^^ 
-^All Parties consent to the disclosure of this Agreement, and information about this Agreement, to the public after it has been finally executed. 
-
-^This Agreement is effective on the date of signature of the last signatory to the Agreement (“Effective Date”). Facsimiles of signatures shall constitute acceptable, binding signatures for purposes of this Agreement. 
-
-^This Agreement may not be amended except by the written consent of the affected Parties. This Agreement constitutes the complete agreement between the Parties with respect to the issues covered by the Agreement. 
-
-IN WITNESS WHEREOF, the parties hereto affix their signatures:
-
-^^^^^ 
-\centered FOR [[HHS]] 
-
-\centered 
-
-DATED:        BY: 
-
-JAMIE BENNETT THOMAS CORCORAN Assistant United States Attorneys District of Maryland 
-
-DATED:        BY: 
-
-DANIEL SPIRO Senior Trial Counsel Commercial Litigation Branch, Civil Division United States Department of Justice 
-
-DATED:        BY: 
-
-LAUREL C. GILLESPIE Deputy General Counsel Tricare Management Activity United States Department of Defense 
-
-DATED:        BY: 
-
-GREGORY E. DEMSKE Assistant Inspector General for Legal Affairs Office of Inspector General United States Department of Health and Human Resources 
-
-DATED:        BY: 
-
-SHIRLEY R. PATTERSON Assistant Director for Insurance Services Programs Center for Retirement & Insurance Services United States Office of Personnel Management  
-
-^^^^^ 
-\centered FOR ALPHARMA AND KING 
-
-\centered 
-
-DATED:        BY: 
-
-WILL PHILLIPS Assistant General Counsel and Assistant Secretary Alpharma Pharmaceuticals LLC 
-
-DATED:        BY: 
-
-RIC BRUCE President Alpharma Inc. 
-
-DATED:        BY: 
-
-JAMES ELROD Chief Legal Officer King Pharmaceuticals, Inc. 
-
-DATED:        BY: 
-
-GEOFFREY HOBART MATTHEW O’CONNOR Covington & Burling LLP Counsel for Alpharma Inc., Alpharma Pharmaceuticals LLC, and King Pharmaceuticals, Inc.  
-
-^^^^^ 
-\centered FOR THE RELATOR 
-
-\centered 
-
-DATED:        BY: 
-
-DEBRA PARKS 
-
-DATED:        BY: 
-
-MARY LOUISE COHEN, Esq. TIMOTHY McCORMACK Phillips & Cohen LLP. Counsel for Relator Debra Parks  
- 
+\centered S-2

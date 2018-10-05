@@ -1,112 +1,140 @@
-\centered **CONVERTIBLE PROMISSORY NOTE**
-
-\centered **$[[USD Value 1: Number]] PLUS INTEREST DUE & PAYABLE**
-
-THIS NOTE AND THE SHARES ISSUABLE UPON CONVERSION OF THIS NOTE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THIS NOTE AND THE SHARES ISSUABLE UPON CONVERSION OF THIS NOTE MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED OR HYPOTHECATED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT OR APPLICABLE EXEMPTION OR SAFE HARBOR PROVISION.
-
-FOR VALUE RECEIVED, on the Effective Date, as defined below on the signature page, **ClearLite Holdings, Inc** as Obligor ("Borrower,” or “Obligor”), hereby promises to pay to the Lender (“Lender” or “ Holder”), as defined below on the signature page, the Principal Sum, as defined below, along with the Interest Rate, as defined below, according to the terms herein.
-
-The "Lender" shall be:   JMJ Financial / Its Principal, or Its Assignees
-The "Principal Sum" shall be:   $[[USD Value 1]] (five hundred thousand US Dollars): Subject to the following: accrued, unpaid interest shall be added to the Principal Sum.
-The “Consideration” shall be:   $[[USD Value 1]] (five hundred thousand US Dollars) in the form of the Secured & Collateralized Promissory Note Document C-07192010a (including Security & Collateral Agreement).
-The "Interest Rate" shall be:   [[Percentage 1: Number]]% one-time interest charge on the Principal Sum. No interest or principal payments are required until the Maturity Date, but both principal and interest may be included in conversion prior to maturity date.
-The "Conversion Price" shall be the following price:   As applied to the Conversion Formula set forth in 2.2, [[Percentage 2: Number]]% (sixty five percent) of the average of the two lowest closing prices in the 22 trading days prior to the conversion; as applies to ClearLite Holdings, Inc. voting common stock.
-The "Maturity Date" is the date upon which the Principal Sum of this Note, as well as any unpaid interest shall be due and payable, and that date shall be:   3 (three) years from the Effective Date, as defined below on the signature page.
-The “Prepayment Terms” shall be:   Prepayment is not permitted, unless approved by Holder in writing.
-
-^^Interest Rate. Subject to the Holder's right to convert, interest payable on this Note will accrue interest at the Interest Rate and shall be applied to the Principal Sum.
-
-The Holder will have the right to convert the Principal Sum and accrued interest under this Note into Shares of the Borrower's Common Stock as set forth below.
-
-^^Conversion Rights and Cashless Exercise. Subject to the terms set forth in Section 2.7, the Holder will have the right at its election from and after the Effective Date, and then at any time, to convert all or part of the outstanding and unpaid Principal Sum and accrued interest into shares of fully paid and nonassessable shares of common stock of ClearLite Holdings, Inc. (as such stock exists on the date of issuance of this Note, or any shares of capital stock of ClearLite Holdings, Inc. into which such stock is hereafter changed or reclassified, the "Common Stock") as per the Conversion Formula set forth in Section 2.2. Any such conversion shall be cashless, and shall not require further payment from Holder. Unless otherwise agreed in writing by both the Borrower and the Holder, at no time will the Hol der convert any amount of the Note into common stock that would result in the Holder owning more than [[Percentage 3: Number]]% of the common stock outstanding of ClearLite Holdings, Inc. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 3 (three) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment).
-
-^^Conversion Formula. The number of shares issued through conversion is the conversion amount divided by the conversion price.
-
-# Shares = **Conversion Amount** 
-
-Conversion Price  
-^^This section 2.3 intentionally left blank.
-
-^^This section 2.4 intentionally left blank.
-
-^^Reservation of Shares. As of the issuance date of this Note and for the remaining period during which the conversion right exists, the Borrower will reserve from its authorized and unissued Common Stock a sufficient number of shares to provide for the issuance of Common Stock upon the full conversion of this Note. The Borrower represents that upon issuance, such shares will be duly and validly issued, fully paid and non-assessable. The Borrower agrees that its issuance of this Note constitutes full authority to its officers, agents and transfer agents who are charged with the duty of executing and issuing stock certificates to execute and issue the necessary certificates for shares of Common Stock upon the conversion of this Note.
-
-^^Delivery of Conversion Shares. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 3 (three) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment). If those shares are not delivered in accordance with this timeframe stated in this Section 2.6, at any time for any reason prior to offering those shares for sale in a private transaction or in the public market through its broker, Holder may rescind that particular conversion to have the conversion amount returned to the note balance with the conversion shares returned to the Borrower. ***The Company will make its reasonable best efforts to deliver shares to Holder same day / n ext day.***
-
-2.6.1. Conversion Delay Penalties. Holder may assess penalties or liquidated damages (both referred to herein as “penalties”) as follows. For each conversion, in the event that shares are not delivered by the forth business day (inclusive of the day of the conversion), a penalty of $[[USD Value 2: Number]] per day will be assessed for each day after the third business day (inclusive of the day of the conversion) until share delivery is made; and such penalty will be added to the principal balance of the Note (under Holder and Borrower’s expectation that any penalty amounts will tack back to the original date of the note). Borrower will not be subjected to any penalties once its transfer agent processes the shares to the DWAC system.
-
-^^Discharge By Payment. Conversions under this Convertible Promissory Note Document B-07192010a are available only after the Conversion Amount described herein is discharged by payment of equal or greater value from the Secured & Collateralized Promissory Note Document C-07192010a by either, at the Holder’s choice, cash payment, or surrender of security/collateral, or other negotiated form of payment mutually agreed to in writing.
-
-^^Notices. Any notice required or permitted hereunder must be in writing and either personally served, sent by facsimile or email transmission, or sent by overnight courier. Notices will be deemed effectively delivered at the time of transmission if by facsimile or email, and if by overnight courier the business day after such notice is deposited with the courier service for delivery.
-
-^^Amendment Provision. The term "Note" and all reference thereto, as used throughout this instrument, means this instrument as originally executed, or if later amended or supplemented, then as so amended or supplemented.
-
-^^Assignability. This Note will be binding upon the Borrower and its successors and permitted assigns, and will inure to the benefit of the Holder and its successors and permitted assigns, and may be assigned by the Holder.
-
-^^Governing Law. This Note will be governed by, and construed and enforced in accordance, with the laws of the State of Florida, without regard to the conflict of laws principles thereof. Any action brought by either party against the other concerning the transactions contemplated by this Agreement shall be brought only in the state courts of Florida or in the federal courts located in Miami-Dade County, in the State of Florida. Both parties and the individuals signing this Agreement agree to submit to the jurisdiction of such courts.
-
-^^Maximum Payments. Nothing contained herein may be deemed to establish or require the payment of a rate of interest or other charges in excess of the maximum permitted by applicable law. In the event that the rate of interest required to be paid or other charges hereunder exceed the maximum permitted by such law, any payments in excess of such maximum will be credited against amounts owed by the Borrower to the Holder and thus refunded to the Borrower.
-
-^^Attorney Fees. In the event any attorney is employed by either party to this Note with regard to any legal or equitable action, arbitration or other proceeding brought by such party for the enforcement of this Note or because of an alleged dispute, breach, default or misrepresentation in connection with any of the provisions of this Note, the prevailing party in such proceeding will be entitled to recover from the other party reasonable attorneys' fees and other reasonable costs and expenses incurred, in addition to any other relief to which the prevailing party may be entitled.
-
-^^No Public Announcement. Except as required by law, no public announcement may be made regarding this Note, payments, or conversions without written permission by both Borrower and Holder.
-
-^^Opinion of Counsel. In the event that an opinion of counsel is needed for any matter related to this Note, Holder has the right to have any such opinion provided by its counsel. Holder also has the right to have any such opinion provided by Borrower’s counsel.
-
-^^Effective Date. This Note will become effective only upon occurrence of the two following events: execution by both parties, and delivery of valid payment by the Lender in the form of the Secured & Collateralized Promissory Note Document C-07192010a (including Security & Collateral Agreement).
-
-^^Director’s Resolution. Once effective, Borrower will execute and deliver to Holder a copy of a Board of Director’s resolution resolving that this note is validly issued, paid, and effective.
-
-^^No Shorting. Holder agrees that so long as any Notes from Borrower to Holder remain outstanding, Holder will not enter into or effect any “short sales” of the common stock or hedging transaction which establishes a net short position with respect to the common stock of ClearLite Holdings, Inc. Borrower acknowledges and agrees that upon submission of conversion notice as set forth in Section 3.1 (up to the amount of cash paid in under the Notes), Holder immediately owns the common shares described in the conversion notice and any sale of those shares issuable under such conversion notice would not be considered short sales.
-
-***Signature Page to Follow***    
-**BORROWER[S]:**   
+\centered CONVERTIBLE PROMISSORY NOTE 
 
 \centered 
-Thomas Irvine      Paul Niedermeyer CEO      VP of Operations ClearLite Holdings, Inc.      ClearLite Holdings, Inc. 
 
-**LENDER/HOLDER:**   
-____________________________ 
-JMJ Financial / Its Principal  
-EFFECTIVE DATE AS EXECUTED BY LENDER/HOLDER: ________________________
+$[[USD Value 1: Number]]    [[Date 1: Date]] Atlanta, Georgia  
 
-NOTARY FOR SIGNATURE BY LENDER/HOLDER:    
+**FOR VALUE RECEIVED**, the undersigned, **SANUWAVE HEALTH, INC.** (the “**Company**”), promises to pay to the order of **KEVIN and MARGARET RICHARDSON**, or their registered assigns (the “**Holder**”), the principal sum of Three Hundred Thousand Dollars ($[[USD Value 1]]), with interest thereon from time to time as provided herein. 
 
-\centered **SAMPLE**
+^**Maturity Date; Repayment; Interest**. The principal under this Note shall be due and payable ninety (90) days after the issuance of this Note (the “**Maturity Date**”), together with interest from the date hereof (computed on the basis of a 365-day year) at the rate of five percent ([[Percentage 1: Number]]%) per annum on the unpaid principal amount in arrears. Provided this Note is not converted in accordance with Section 4 below, Interest shall be due and payable at the earlier of (i) the Maturity Date, or (ii) the Prepayment Date (defined below). No principal or interest shall be payable or callable under this Note until the earlier of (a) the Maturity Date or (b) the Prepayment Date. 
 
-\centered NOTICE OF CONVERSION
+^**Prepayment**. The Company may prepay the Note in cash, in whole but not in part prior to the Maturity Date or the conversion of the Note (the “**Prepayment Date**”). 
 
-(To be executed by the Holder in order to convert the Note)
+^**Warrant****.** At the earlier of the Maturity Date or the Prepayment Date, and provided the this Note has not been converted in accordance with Section 4 below, the Company shall issue the Holder a warrant, in the form attached hereto as Exhibit A to purchase, at a purchase price of $[[USD Value 4: Number]] per share, the number of shares of the Company’s common stock, par value $[[USD Value 5: Number]] determined as follows: 
 
-The undersigned hereby elects to convert a portion of the Note issued by ClearLite Holdings, Inc. into Shares of Common Stock of ClearLite Holdings, Inc. according to the conditions set forth in such Note, as of the date written below.
+The number of shares is determined by dividing the sum of the principal and interest payable hereunder by twenty (20). For example: if the sum of the principal and interest is $[[USD Value 2: Number]] the number of shares equals 10,000 (200,000 / 20). 
 
-Date of Conversion:________________________________________________
+^**Conversion****.**  
+^^Upon the consummation of a Qualified Financing on or prior to the earlier of the Maturity Date or the Prepayment Date, the Company shall have the option to cause the conversion of the unpaid principal and interest on this Note into (A) shares of the Company’s common stock, par value $[[USD Value 5]] (the “**Company Stock**”), the number of such shares to be equal to the amount obtained by dividing (i) by the unpaid principal and interest on this Note to be converted, by (ii) the Conversion Price (as defined below), (B) a warrant to purchase the same number of warrant shares as the number of warrant shares a holder would have received had he invested an amount equal to the unpaid principal and interest on this Note to be converted in the Qualified Financing; the terms of such warrant to be substantially similar to the terms of the warrant granted pursuant to the Qualified Financing, and (C) any other securities to be issued pursuant to the Qualified Financing in the same amounts and under the same terms Holder would had received had he/she invested an amount equal to the unpaid principal and interest on this Note to be converted, in the Qualified Financing. The conversion price for the securities to be issued to the Holder shall be equal to the per share purchase price of the Company Stock issued in the Qualified Financing, the “**Conversion Price**”). The Company shall give the Holder written notice of any Qualified Financing and its election to cause the conversion of this Note in accordance with this Section 4 within a reasonable period of time (but in no event more than fifteen (15) business day) following the consummation of the Qualified Financing. For purposes of this Note, “**Qualified Financing**” shall mean the consummation, on or prior to the earlier of the Maturity Date or the Prepayment Date, of a private placement of not less than Three Million Dollars ($[[USD Value 3: Number]]) in the aggregate of Company Stock. 
 
-Conversion Amount:__________________________________________________
+^^^^^ 
+^^In the event of any conversion as provided above, the Company shall not issue fractional securities but shall pay the dollar equivalent of any fractional securities that would otherwise be issuable. 
 
-Conversion Price:_________________________________________________
+^^The Company shall not be obligated to issue certificates evidencing the securities issuable upon such conversion unless the Note is either delivered to the Company or the Holder notifies the Company that such Note has been lost, stolen or destroyed and executes an agreement satisfactory to the Company to indemnify the Company from any loss incurred by it in connection with such Note. The Company shall, as soon as practicable after such delivery, or such agreement and indemnification, issue and deliver at such office to such holder of the Note, a certificate or certificates for the securities to which the Holder shall be entitled as the result of a conversion, as mutually agreed to between the Company and the Holder. The person or persons entitled to receive securities issuable upon such conversion shall be treated for all purposes as the record holder or holders of such securities on such date. 
 
-Shares To Be Delivered:_____________________________________________
+^^In the event that any principal of or interest on this Note remains unpaid at any time after payment thereof is due hereunder, the Holder shall retain all rights hereunder until such time as amounts due, including additional accrued interest, have been paid in full. Subject to the foregoing, upon (I) either (w) payment in full by the Company to the Holder of all principal, interest and any other amounts due pursuant to the terms hereof or (x) conversion of this Note in full pursuant to the terms hereof, and (II) fulfillment by the Company of all its other material obligations hereunder, this Note shall terminate. 
 
-Signature:________________________________________________________
+^**Defaults and Remedies****.**  
+^^In the event the principal is not paid in full within three (3) business days of the due date stipulated above, or any other default occurs, then, from and after such date and until payment in full of the amount due hereunder, interest shall accrue on the outstanding principal balance of this Note at the simple rate equal to ten percent ([[Percentage 2: Number]]%) per annum. Time is of the essence of this Note. The Company agrees to pay all costs and expenses of collection of the indebtedness evidenced by this Note including fifteen percent ([[Percentage 3: Number]]%) of the amount of principal and interest involved as attorneys’ fees (if collected by or through an attorney) in connection with such collection. 
 
-Print Name:______________________________________________________
+^^Presentment for payment, demand, protest and notice of demand, dishonor, protest and non-payment and all other notices are hereby waived by the Company. No acceptance of a partial installment, late payment or indulgences granted from time to time shall be construed (i) as a novation of this Note or as a reinstatement of the indebtedness evidenced hereby or as a waiver of the right of Holder thereafter to insist upon strict compliance with the terms of this Note, or (ii) to prevent the exercise of any right granted hereunder or by the laws of the State of Georgia; and the Company hereby expressly waives the benefit of any statute or rule of law or equity now provided, or which may hereafter be provided, which would produce a result contrary to or in conflict with the foregoing. No extension of the time for the payment of this Note or any installment due hereunder, made by agreement with any person now or hereafter liable for the payment of this Note, shall operate to release, discharge, modify, change or affect the original liability of the Company under this Note, either in whole or in part, unless Holder agrees otherwise in writing. 
 
-Address:________________________________________________________
+^^^^^ 
+^^If from any circumstances whatsoever, fulfillment of any provision of this Note or of any other instrument evidencing or securing the indebtedness evidenced hereby, at the time performance of such provision shall be due, shall involve transcending the limit of validity presently prescribed by any applicable usury statute or any other applicable law, with regard to obligations of like character and amount, then, the obligation to be fulfilled shall be reduced to the limit of such validity, so that in no event shall any action be possible under this Note or under any other instrument evidencing or securing the indebtedness evidenced hereby, that is in excess of the current limit of such validity, but such obligation shall be fulfilled to the limit of such validity. 
 
-_______________________________________________________________
+^**Remedies Cumulative**. No remedy herein conferred upon the Holder is intended to be exclusive of any other remedy and each and every such remedy shall be cumulative and shall be in addition to every other remedy given hereunder or now or hereafter existing at law or in equity or by statute or otherwise. To the extent permitted by applicable law, the Company and the Holder waive presentment for payment, demand, protest and notice of dishonor. 
 
-_______________________________________________________________
+^**Governing Law**. This Note shall be governed by and construed in accordance with the laws of the State of Georgia regardless of conflicts of law principles. 
 
-**Shares from any such conversion will be delivered to Holder by 2:30pm EST within 2 (two) business days of conversion notice by “DWAC/FAST” electronic transfer in accordance with** Section 2.6.
+^**Assignment**. Neither the Holder nor the Company shall assign its rights or obligations under this Note to any third party. Any assignment in breach of the foregoing shall be void and of no force or effect. 
 
-\centered SHARE DELIVERY ATTACHMENT
+^**Amendment/Waiver**. No term of this Note may be amended and the observance of any term of this Note may not be waived except with the written consent of the Company and Holder hereof. 
 
-\centered EXAMPLE
+**IN WITNESS WHEREOF**, this Note has been executed by the Company by its duly authorized officer as of the day and year first above written. 
 
-^^Delivery of Conversion Shares. Shares from any such conversion will be delivered to Holder by 2:30pm EST within 2 (two) business days of conversion notice delivery (see 3.1) by “DWAC/FAST” electronic transfer (see “Share Delivery” attachment). If those shares are not delivered in accordance with this timeframe stated in this Section 2.6, at any time for any reason prior to offering those shares for sale in a private transaction or in the public market through its broker, Holder may rescind that particular conversion to have the conversion amount returned to the note balance with the conversion shares returned to the Borrower. ***The Company will make its best efforts to deliver shares to Holder same day / next day.***
+**SANUWAVE Health, Inc.**
+[[SANUWAVE Health Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SANUWAVE Health Inc. Entity => By: [[SANUWAVE Health Inc. Signatory First Name]] [[SANUWAVE Health Inc. Signatory Last Name]]
+Title: [[SANUWAVE Health Inc. Signatory Title]]}}
 
-Example:  
-Holder delivers conversion notice to Borrower at 5:15pm eastern time on Monday [[Date 1: Date]].
 
-Borrower’s transfer agent must deliver shares to Holder’s broker via “DWAC/FAST” electronic transfer by no later than 10:30am eastern time on Wednesday [[Date 2: Date]].
+^^^^^ 
+
+\centered **EXHIBIT A** 
+
+\centered Form of Class A Warrant Agreement 
+
+\centered **SANUWAVE HEALTH, INC.** 
+
+\centered **Warrant for the Purchase of [**  **] Shares of Common Stock Par Value $[[USD Value 5]]** 
+
+\centered **CLASS A WARRANT AGREEMENT (this “Agreement”)** 
+
+THE HOLDER OF THIS WARRANT, BY ACCEPTANCE HEREOF, BOTH WITH RESPECT TO THE WARRANT AND COMMON STOCK ISSUABLE UPON EXERCISE OF THE WARRANT, AGREES AND ACKNOWLEDGES THAT THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF ANY STATE. THESE SECURITIES HAVE BEEN ACQUIRED FOR INVESTMENT AND MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT AND THE LAWS OF ANY APPLICABLE STATE, OR (B) AN OPINION OF COUNSEL REASONABLY SATISFACTORY TO THE ISSUER, AND ITS COUNSEL, TO THE EFFECT THAT THE SALE OR TRANSFER IS EXEMPT FROM REGISTRATION UNDER THE SECURITIES ACT AND SUCH STATE STATUTES, OR (II) UNLESS SOLD PURSUANT TO RULE 144 UNDER THE SECURITIES ACT. 
+
+This is to certify that, for value received, **,** (the “Holder”) is entitled to purchase from **SANUWAVE HEALTH, INC.** (the “Company”), on the terms and conditions hereinafter set forth, all or any part of [ ] shares (“Warrant Shares”) of the Company’s common stock, par value $[[USD Value 5]] (the “Common Stock”), at the purchase price of $[[USD Value 4]] per share (“Warrant Price”). Upon exercise of this warrant in whole or in part, a certificate for the Warrant Shares so purchased shall be issued and delivered to the Holder. If, at any time prior to the Expiration Date (as defined below), less than the total warrant is exercised, a new warrant of similar tenor shall be issued for the unexercised portion of the warrants represented by this Agreement. 
+
+This warrant is granted subject to the following further terms and conditions: 
+
+^This warrant shall be exercisable at any time or from time to time after the execution and delivery of this Warrant by the Company on the date hereof and shall expire at 5:00 p.m. Eastern Time on the date that is five years following the date hereof (the “Expiration Date”). In order to exercise this warrant with respect to all or any part of the Warrant Shares for which this warrant is at the time exercisable, Holder (or in the case of exercise after Holder’s death, Holder’s executor, administrator, heir or legatee, as the case may be) must take the following actions: 
+
+^^Deliver to the Corporate Secretary of the Company an executed notice of exercise substantially in the form of notice attached to this Agreement (the “Exercise Notice”) in which there is specified the number of Warrant Shares that are to be purchased under the exercised warrant; 
+
+^^Tender payment of the aggregate Warrant Price for the purchased shares in cash or by check made payable to the Company’s order; and 
+
+^^Furnish to the Company appropriate documentation that the person or persons exercising the warrant (if other than Holder) have the right to exercise the warrant. 
+
+^^^^^ 
+^^For purposes of this Agreement, the “Exercise Date” shall be the date on which the executed Exercise Notice shall have been delivered to the Company. 
+
+^^Upon such exercise, the Company shall issue and cause to be delivered, with all reasonable dispatch (and in any event within five business days of such exercise), to or upon the written order of the Holder at its address, and in the name of the Holder, a certificate or certificates for the number of full Warrant Shares issuable upon the exercise, together with such other property (including cash) and securities as may then be deliverable upon such exercise. Such certificate or certificates shall be deemed to have been issued and the Holder shall be deemed to have become a holder of record of such Warrant Shares as of the Exercise Date. 
+
+^The Holder acknowledges that this warrant may not be exercised if the issuance of the Warrant Shares upon such exercise would constitute a violation of any applicable federal or state securities laws, or other law or regulation, and the Warrant Shares have not been and will not be registered as of the date of exercise of this warrant under the Securities Act or the securities laws of any state. The Holder acknowledges that this warrant and the Warrant Shares, when and if issued, are and will be “restricted securities” as defined in Rule 144 promulgated under the Securities Act and must be held indefinitely unless subsequently registered under the Securities Act and any other applicable state registration requirements. Except as provided herein, the Company is under no obligation to register the securities under the Securities Act or under applicable state statutes. In the absence of such a registration or an available exemption from registration, sale of the Warrant Shares may be practicably impossible. The Holder shall confirm to the Company the representations set forth above in connection with the exercise of all or any portion of this warrant. 
+
+^The number of Warrant Shares purchasable upon the exercise of this warrant and the Warrant Price per share shall be subject to adjustment from time to time as follows: 
+
+^^In the event that the Company should at any time, or from time to time, fix a record date for the effectuation of a split, either forward or reverse, subdivision or combination of the outstanding shares of Common Stock, or the determination of holders of Common Stock entitled to receive a dividend or other distribution payable in additional shares of Common Stock or other securities or rights convertible into, or entitling the holder thereof to receive directly or indirectly, additional shares of Common Stock (hereinafter referred to as “Common Stock Equivalents”), without payment of any consideration by such holder for the additional shares of Common Stock or the Common Stock Equivalents (including the additional shares of Common Stock issuable upon conversion or exercise thereof), then, as of such record date (or the date of such dividend distribution, split or subdivision if no record date is fixed), the number of Warrant Shares purchasable hereunder shall be appropriately increased or decreased in proportion to such increase or decrease in the aggregate number of shares of Common Stock outstanding and those issuable with respect to such Common Stock Equivalents. 
+
+^^Whenever there is an adjustment in the number of Warrant Shares purchasable upon the exercise of this warrant pursuant to the provisions of Section 3(a), the Warrant Price shall be adjusted to an amount proportionate to the adjustment in the number of Warrant Shares. 
+
+^^If at any time, or from time to time, there shall be a recapitalization of the Common Stock (other than a subdivision or combination, or merger or sale of assets transaction provided for elsewhere in this Section 3) provision shall be made so that the Holder shall thereafter be entitled to receive upon exercise of this warrant the number of shares of Common Stock, Common Stock Equivalents or property of the Company or otherwise, to which the Holder would have been entitled upon such recapitalization assuming this warrant was exercised immediately prior thereto. In any such case, appropriate adjustment shall be made in the application of the provisions of this Section 3 with respect to the rights of the Holder of this warrant after the recapitalization to the end that the provisions of this Section 3 (including adjustment of the Warrant Price then in effect and the number of Warrant Shares issuable upon exercise) shall be applicable after that event as nearly equivalent as may be practicable. 
+
+^^^^^ 
+^^If at any time, or from time to time, the Company shall consolidate with or merge into another corporation, or shall sell, lease, or convey to another corporation the assets of the Company as an entity or substantially as an entity (any one or more of such transactions being a “Corporate Transaction”), provision shall be made so that the Holder shall thereafter be entitled to receive upon exercise of this warrant the number of shares of Common Stock, Common Stock Equivalents or property of the Company or otherwise, to which the Holder would have been entitled to receive in such Corporate Transaction assuming this warrant was exercised immediately prior thereto. In any such case, appropriate adjustment shall be made in the application of the provisions of this Section 3 with respect to the rights of the Holder of this warrant after the Corporate Transaction to the end that the provisions of this Section 3 (including adjustment of the Warrant Price then in effect and the number of Warrant Shares issuable upon exercise) shall be applicable after that event as nearly equivalent as may be practicable. 
+
+^The Company covenants and agrees that all Warrant Shares which may be delivered upon the exercise of this warrant will, upon delivery, be free from all taxes, liens, and charges with respect to the purchase thereof; provided, that the Company shall have no obligation with respect to any income tax liability of the Holder. 
+
+^The Company agrees at all times to reserve or hold available a sufficient number of shares of Common Stock to cover the number of Warrant Shares issuable upon the exercise of this warrant. 
+
+^This warrant shall not entitle the holder hereof to any voting rights or other rights as a shareholder of the Company, or to any other rights whatsoever, except the rights herein expressed, and no dividends shall be payable or accrue in respect of this warrant or the Warrant Shares until or unless, and except to the extent that, this warrant shall be exercised. 
+
+^The Company may deem and treat the registered owner of this warrant as the absolute owner hereof for all purposes and shall not be affected by any notice to the contrary. 
+
+^In the event that any provision of this Agreement is found to be invalid or otherwise unenforceable under any applicable law, such invalidity or unenforceability shall not be construed as rendering any other provisions contained herein invalid or unenforceable, and all such other provisions shall be given full force and effect to the same extent as though the invalid or unenforceable provision was not contained herein. 
+
+^This Agreement shall be governed by and construed in accordance with the internal laws of the State of Georgia, without regard to the principles of conflicts of law thereof. 
+
+^This Agreement shall be binding on and inure to the benefit of the Company and the person to whom a warrant is granted hereunder, and such person’s heirs, executors, administrators, legatees, personal representatives, assignees, and transferees. 
+
+^The Company shall not have any right to redeem any of the Warrants evidenced hereby. 
+
+^^^^^ 
+IN WITNESS WHEREOF, the Company has caused this warrant to be executed by the signature of its duly authorized officer, effective this _____ day of  20 _____. 
+
+**SANUWAVE HEALTH, INC.**
+[[SANUWAVE HEALTH INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{SANUWAVE HEALTH INC. Entity => By: [[SANUWAVE HEALTH INC. Signatory First Name]] [[SANUWAVE HEALTH INC. Signatory Last Name]]
+Title: [[SANUWAVE HEALTH INC. Signatory Title]]}}
+Name:   Barry J. Jenkins
+Title:   Chief Financial Officer
+
+The undersigned Holder hereby acknowledges receipt of a copy of the foregoing warrant and acknowledges and agrees to the terms and conditions set forth in the warrant. 
+
+By:
+
+^^^^^ 
+
+\centered **Exercise Notice (to be signed only upon exercise of Warrant)** 
+
+TO: SANUWAVE HEALTH, INC.  
+The Holder of the attached warrant hereby irrevocable elects to exercise the purchase rights represented by the warrant for, and to purchase thereunder,  shares of common stock of SANUWAVE Health, Inc. and herewith makes payment therefor, and requests that the certificate(s) for such shares be delivered to the Holder at: 
+
+If acquired without registration under the Securities Act of 1933, as amended (“Securities Act”), the Holder represents that the Common Stock is being acquired without a view to, or for, resale in connection with any distribution thereof without registration or other compliance under the Securities Act and applicable state statutes, and that the Holder has no direct or indirect participation in any such undertaking or in the underwriting of such an undertaking. The Holder understands that the Common Stock has not been registered, but is being acquired by reason of a specific exemption under the Securities Act as well as under certain state statutes for transactions by an issuer not involving any public offering and that any disposition of the Common Stock may, under certain circumstances, be inconsistent with these exemptions. The Holder acknowledges that the Common Stock must be held and may not be sold, transferred, or otherwise disposed of for value unless subsequently registered under the Securities Act or an exemption from such registration is available. The Company is under no obligation to register the Common Stock under the Securities Act or any state securities law, except as provided in the Agreement for the warrant. The certificates representing the Common Stock will bear a legend restricting transfer, except in compliance with applicable federal and state securities statutes. 
+
+The Holder agrees and acknowledges that this purported exercise of the warrant is conditioned on, and subject to, any compliance with requirements of applicable federal and state securities laws deemed necessary by the Company. 
+
+DATED this _____ day of , .  
+
+Signature

@@ -1,0 +1,655 @@
+\centered **Loan Agreement**
+
+\centered **between**
+
+\centered **Louisiana Public Facilities Authority**
+
+\centered **and**
+
+\centered **[[Company]]**
+
+\centered **Dated as of [[Date 1: Date]]**
+
+\centered **$[[USD Value 1: Number]]**
+
+\centered **Louisiana Public Facilities Authority**
+
+\centered **Revenue Bonds**
+
+\centered **(**[[Company]]** Project)**
+
+\centered **Series 2008**
+
+\centered **Table of Contents**
+^\centered DEFINITIONS AND INTERPRETATIONS
+
+^Definitions  
+^Interpretations  
+
+^\centered ACQUISITION AND CONSTRUCTION OF THE PROJECT
+
+^Acquisition and Construction of the Project  
+^Completion  
+
+^\centered SALE OF THE BONDS; LOAN;
+\centered DISPOSITION OF LOAN PROCEEDS
+
+^Issuance of the Bonds  
+^Loan  
+^Investment of Fund Moneys  
+^Redemption of Bonds  
+^Security Interests  
+^Disbursements  
+^Completion  
+
+^\centered LOAN PAYMENTS AND OTHER MATTERS
+
+^Loan Payments; Purchase Price Payments  
+^Bond Fund  
+^Payments to Issuer  
+^Payments to Trustee and Remarketing Agent  
+^Company's Option to Designate Interest Rate Determination Methods  
+^Purchase of Bonds  
+^Credit Facility  
+^Excess Funds  
+^Nature of Obligations of the Company  
+^Company Obligations Under the Indenture  
+
+^\centered MAINTENANCE, INSURANCE, MODIFICATIONS AND ABANDONMENT
+
+^Maintenance and Insurance  
+^Modifications  
+^Issuer Relieved from Responsibility to Maintain Project  
+
+\centered -i- 
+
+^\centered CASUALTY AND CONDEMNATION
+
+^Casualty or Condemnation of the Project  
+^Effect of Casualty or Condemnation  
+^Cooperation; Sale in Lieu of Condemnation  
+
+^\centered PREPAYMENT OF LOAN PAYMENTS
+
+^Prepayment and Payment of Loan  
+^Mandatory Acceleration of Loan Payments; Preservation of Tax Status  
+
+^\centered SPECIAL REPRESENTATIONS AND COVENANTS
+
+^Indemnification  
+^Representations of the Company  
+^Filing  
+^Representations and Covenants of the Issuer  
+^Removal of Liens  
+^Special Covenants  
+^Bonds are Limited Obligations  
+^Net Agreement  
+^No Warranty of the Project  
+^State Bond Commission Reporting Requirements  
+^Representations Regarding the Project  
+^Tax Representations and Covenants  
+^Financial Information  
+
+^\centered ASSIGNMENT
+
+^Consolidation, Merger and Assignment by the Company  
+^Issuer's Rights of Assignment  
+
+^\centered EVENTS OF DEFAULT AND REMEDIES
+
+^Enumeration of "Events of Default"  
+^Remedies  
+^No Remedy Exclusive  
+^Agreement to Pay Attorneys' Fees and Expenses  
+
+\centered -ii- 
+
+^\centered GENERAL
+
+^Force Majeure  
+^Waiver of Rights  
+^Notices  
+^Term of Agreement  
+^Company's Approval of Indenture  
+
+EXHIBIT A   Description of the Project
+EXHIBIT B   Form of Note
+EXHIBIT C   Form of Completion Certificate
+
+\centered -iii- 
+
+\centered **Loan Agreement**
+
+This **Loan Agreement** dated as of [[Date 1]] (together with any amendments or supplements hereto, this "Agreement"), is by and between the **Louisiana Public Facilities Authority** (the "Issuer"), a public trust and public corporation established for public purposes for the benefit of the State of Louisiana (the "State") by a certain Trust Indenture dated [[Date 2: Date]], and created and existing under and pursuant to the Louisiana Public Trust Act, being Chapter 2-A of Title 9 of the Louisiana Revised Statutes of 1950, as amended (the "Act"), and **[[Company]]**, a [[State of Formation: State]] [[Organization: EntityType]] (together with any permitted successors or assigns under this Agreement, the "Company").
+
+^i t n e s s e t h :  
+
+WHEREAS, Issuer is a public trust and public corporation of the State of Louisiana (the "State") created and existing pursuant to the provisions of the Act, and is authorized and empowered by the Act to issue its revenue bonds and use the funds derived from the sale thereof for the purpose of acquiring, constructing, purchasing, equipping, maintaining, installing, leasing, subleasing, holding, extending, enlarging, remodeling, storing, operating, repairing and administering liquid and solid waste disposal, collection, treatment and drainage facilities and services, antipollution and air, water, ground and subsurface pollution abatement and control facilities and activities; and
+
+WHEREAS, the Company has requested that the Issuer issue its revenue bonds for the purpose of acquiring, constructing, reconstructing, renovating or improving nonresidential real property and public utility property located in the Gulf Opportunity Zone as provided in the Gulf Opportunity Zone Act of 2005, including but not limited to Iberia Parish, St. Mary Parish and St. Tammany Parish (the "Project") and paying the costs of issuance of such revenue bonds, through the issuance by the Authority of $[[USD Value 1]] aggregate principal amount of Louisiana Public Facilities Authority Revenue Bonds (**[[Company]]** Project) Series 2008 (the "Bonds"), pursuant to an Indenture of Trust (the "Indenture") between the Issuer and The Bank of New York Mellon Trust Company, N.A., as trustee (the "T rustee"), the proceeds of which Bonds are to be loaned to the Company pursuant to this Agreement; and
+
+WHEREAS, the Issuer has determined, based upon representations of the Company, that the issuance of the Bonds to finance the cost of the Project will be in furtherance of the public purposes of the Act; and
+
+WHEREAS, the Issuer proposes hereby to lend the proceeds of the Bonds to the Company and the Company desires to borrow the proceeds of the Bonds upon the terms and conditions set forth herein and use the proceeds to finance the cost of the acquisition, construction and improvement of the Project for the purposes of the Act; and
+
+WHEREAS, pursuant to this Agreement, the Company will agree to make payments in an amount sufficient to make timely payments of principal of, premium, if any, and interest on the Bonds and to pay such other amounts as are required by this Agreement;
+
+NOW, THEREFORE, in consideration of the premises and other good and valuable consideration and the mutual benefits, covenants and agreements herein expressed, the Issuer and the Company agree as follows (provided that any obligation of the Issuer created by or arising out of this Agreement shall not impose a debt or pecuniary liability upon the State or any political subdivision thereof, or a charge upon the general credit or taxing powers of such bodies, but shall be payable solely out of the revenues and receipts derived pursuant to this Agreement and, to the extent provided in this Agreement, out of the proceeds of the sale of the Bonds and any temporary investment thereof and any insurance and condemnation awards as herein provided).
+
+\centered **DEFINITIONS AND INTERPRETATIONS**
+
+SECTION 1.1. **Definitions**. The following terms shall have the meanings assigned to them below whenever they are used in this Agreement, unless the context clearly otherwise requires. Except where the context otherwise requires, words imparting the singular number shall include the plural number and vice versa. Capitalized terms used but not otherwise defined herein shall have the meanings assigned such terms in the Indenture or in the form of the Bonds attached thereto.
+
+**"Act"** means Chapter 2-A of Title 9 of the Louisiana Revised Statutes of 1950, as amended, and all future acts supple­mental thereto and amendatory thereof.
+
+**"Affiliate"** is defined in the Indenture.
+
+**"Agreement"** means this Loan Agreement dated as of [[Date 1]] between the Issuer and the Company.
+
+**"Authorized Company Representative"** is defined in the Indenture.
+
+**"Authorized Issuer Representative"** is defined in the Indenture.
+
+**"Bank"** is defined in the Indenture.  
+
+**"Bond Documents"** means the Financing Documents and all other agreements, certificates, documents and instruments ever delivered in connection with any of the Financing Documents.
+
+**"Bond Fund"** is defined in the Indenture.
+
+**"Bondholder"** or **"holder"** is defined in the Indenture.
+
+**"Bonds"** means the bonds defined as such in the recitals of this Agreement, which are issued and delivered pursuant to Article II of the Indenture.
+
+**"Business Day"** is defined in the Indenture.
+
+**"Claims"** is defined in Section 8.1 of this Agreement.
+
+**"Code"** means the Internal Revenue Code of 1986, as amended, from time to time, and shall include the applicable provisions of the GOZone Act. A reference to any specific section of the Code shall be deemed also to be a reference to the comparable provisions of any enactment that supersedes or replaces the Code.
+
+**"Communication"** is defined in Section 11.3 of this Agreement.
+
+**"Company"** means **[[Company]]**, a Louisiana limited liability company, and its successors and assigns.
+
+**"Company Event of Bankruptcy"** means (a) an order of relief shall be issued by a United States Bankruptcy Court having valid jurisdiction granting the Company relief under the provisions of the United 
+
+States Bankruptcy Code, or any other court having valid jurisdiction shall issue an order or decree under applicable federal or state law providing for the appointment of a custodian, receiver, liquidator, assignee, trustee, sequestrator (or other similar official) of the Company or of any substantial part of its property, or ordering the winding up or liquidation of its affairs, and the continuance of any such decree or order unstayed and in effect for a period of sixty (60) consecutive days; or (b) the Company shall have consented to the institution of proceedings in bankruptcy against it, or the Company shall have consented to the institution of any proceeding against it under any federal or state insolvency laws, or the Company shall have consented to the filing of any petition, application or complaint seeking the appointment of a custodian, receiver, liquidator, assignee, trustee, sequestrator (or other similar official) of the Company or of any substantial part of its property, or the Company shall have made an assignment for the benefit of creditors, or the Company shall admit in writing its inability to pay its debts as they become due.
+
+**"Completion Date"** means the date the Project has been completed and placed in service.
+
+**"Computation Date"** means any date selected by the Company pursuant to Section 1.148-3(e) of the Regulations.
+
+**"Construction Fund"** is defined in the Indenture.
+
+**"Event of Default"** or **"Default"** is defined in Section 10.1 of this Agreement.
+
+**"Final Computation Date"** means the last date on which Bonds are outstanding.
+
+**"Final Payment Date"** means the date on which all amounts of Proceeds payable with respect to the acquisition and construction of the Project have been requisitioned or transferred from the Construction Fund.
+
+**"Financing Documents"** means this Agreement, the Bonds, the Indenture, the Note, the Remarketing Agreement, the Reimbursement Agreement and the Pledge and Security Agreement.
+
+**"Force Majeure"** is defined in Section 11.1 of this Agreement.
+
+**"GOZone Act"** means the Gulf Opportunity Zone Act of 2005.
+
+**"Gross Proceeds"** means any Proceeds of the Bonds and any Replacement Proceeds for the Bonds.
+
+**"Indemnified Parties"** means the Issuer, the Trustee, the Paying Agent, and any of their respective officers, directors, members, trustees, commissioners, attorneys, employees, agents, servants and any other person acting for or on behalf of the Issuer, the Trustee or the Paying Agent.
+
+**"Indenture"** means that certain Indenture of Trust by and between the Issuer and the Trustee dated as of the date of this Agreement, together with any amendments or supplements thereto.
+
+**"Inducement Date"** means [[Date 3: Date]].
+
+**"Interest Payment Date"** means each date upon which an interest payment on the Bonds becomes due and payable under the Indenture.
+
+**"Investment Proceeds"** means any amounts actually or constructively received from investing Proceeds of the Bonds.
+
+**"Issuance Costs"** means costs incurred by or on behalf of the Company in connection with the making of the Loan by the Issuer to the Company. The parties hereby express their understanding and agreement that the sole purpose for the issuance of the Bonds is to enable the making of the Loan to the Company in order to effect the public purposes of the Act and that all costs incurred in connection with the issuance of the Bonds are incurred incident to the making of such Loan at the request and for the benefit of the Company and, therefore, are properly chargeable as costs incurred by or on behalf of the Company; therefore, such costs include, among others, payment of financial, legal, accounting and appraisal fees, expe nses and disbursements, the Issuer's fees and expenses attributable to the issuance of the Bonds, the fee of the State Bond Commission, the cost of printing, engraving and reproduction services, Rating Service fees, legal fees and expenses for Bond Counsel, counsel to the Bank, counsel to the Underwriter, Issuer's counsel and Trustee's counsel, the initial or acceptance fee of the Trustee, the fees and disbursements of the Trustee payable in accordance with the Indenture prior to the Completion Date and all other fees, charges and expenses incurred in connection with the issuance of the Bonds (including all costs, fees, expenses and other amounts (other than interest, principal or prepayment premiums on the Bonds) which may be payable by the Company or the Issuer under any bond purchase agreement or agreements pursuant to which the Bonds are sold) and the preparation and filing or recording of any Bond Document.
+
+**"Issue Date"** is defined in the Indenture.
+
+**"Issue Price"** means "issue price" as defined in section 1.148-1(b) of the Regulations and, generally, is the first price at which a substantial number of Bonds is sold to persons other than bond houses, brokers or similar persons or organizations acting in the capacity of underwriters, placement agents or wholesalers.
+
+**"Issuer"** means the Louisiana Public Facilities Authority, and its successors and assigns.
+
+**"Loan"** means the loan made by the Issuer to the Company under this Agreement.
+
+**"Loan Payments"** means the payments to be made by the Company pursuant to Section 4.1(a) of this Agreement.
+
+**"Losses"** is defined in Section 8.1 of this Agreement.
+
+**"Nonpurpose Investment"** means an investment described in section 1.148-1(b) of the Regulations as a nonpurpose investment.
+
+**"Note"** means the note issued by the Company to the Issuer evidencing the Loan made on behalf of the Issuer to the Company under this Agreement, substantially in the form of the note attached hereto as **Exhibit B**.
+
+**"Opinion of Counsel"** means an opinion or opinions in writing, signed by legal counsel who, unless otherwise specified, may be counsel to the Company, the Trustee or the Issuer. As to any factual matters involved in an opinion of counsel, such counsel may rely, to the extent that they deem such reliance proper, upon a certificate or certificates setting forth such matters which have been signed by an official, officer, general partner or authorized representative of a particular governmental authority, corporation, firm or other person or entity.
+
+**"Outstanding"** when used with respect to the Bonds has the same meaning as that specified in the Indenture.
+
+**"Paying Agent"** is defined in the Indenture.
+
+**"Person"** is defined in the Indenture.  
+
+**"Plans and Specifications"** means the plans and specifications prepared for the Project, as the same may be implemented and detailed from time to time and as the same may be revised from time to time in accordance with this Agreement, a copy of which is on file with the Company.
+
+**"Principal Office"** is defined in the definitions of Trustee, Paying Agent, and Remarketing Agent in the Indenture.
+
+**"Proceeds"** means any Sale Proceeds and any Investment Proceeds of the Bonds.
+
+**"Project"** means the property and improvements described as such in **Exhibit A**.
+
+**"Project Costs"** means the cost of acquisition, construction, reconstruction, renovation or improvement of the Project, including the cost of the acquisition of all land, rights-of-way, property rights, easements and interests, the cost of all machinery and equipment (other than movable fixtures and equipment), financing charges, inventory, raw materials and other supplies, research and development costs, interest prior to and during construction and for one year after completion of construction whether or not capitalized, necessary reserve funds, cost of estimates and of engineering and legal services, plans, specifications, surveys, estimates of cost and of revenue, other expenses necessary or incident to determining the feasi bility and practicability of acquiring, constructing, reconstructing, renovating or improving the Project, administrative expense and such other expense as may be necessary or incident to the acquisition, construction, reconstruction, renovation or improvement thereof, the placing of the same in operation and the financing or refinancing of the Project, including the refunding of any outstanding obligations, mortgages or advances issued, made or given by any person for any of the aforementioned costs, and any other cost permitted to be paid out of proceeds of the Bonds by the Act; provided, however, that Issuance Costs are not Project Costs.
+
+**"Purchase Price Payments"** means the payments to be made by the Company pursuant to Section 4.1(b) of this Agreement.
+
+**"Qualifying Costs"** means the Project Costs that were paid or incurred after the Inducement Date and that are incurred for those parts of the Project that constitute nonresidential real property, including fixed improvements associated with such property" located in the Gulf Opportunity Zone within the meaning of the GOZone Act and facilities functionally related and subordinate thereto within the meaning of sections 1.103-8(a)(3) of the Regulations, and which for federal income tax purposes are chargeable to the capital account(s) of such items of property included in the Project or would be so chargeable either with a proper election or but for a proper election to deduct such Project Costs.
+
+**"Rebate Amount"** means that amount computed in accordance with section 148(f) of the Code and section 1.148-3(b) and 1.148-3(c) of the Regulations as of any Computation Date within the meaning of section 1.148-3(e) of the Regulations.
+
+**"Rebate Fund"** is defined in the Indenture.
+
+**"Regulations"** means the applicable proposed, temporary or final Income Tax Regulations promulgated under the Code, or, to the extent applicable to the Code, under the Internal Revenue Code of 1986, as such regulations may be amended or supplemented from time to time.
+
+**"Remarketing Agent"** means, collectively, KeyBanc Capital Markets Inc. and Morgan Keegan & Company, Inc.
+
+**"Replacement Proceeds"** means any amounts described in section 1.148-1(c) of the Regulations.
+
+**"Sale Proceeds"** means, with respect to the Bonds, any amounts actually or constructively received from the sale (or other disposition) of any Bond that is part of the issue, including amounts used to pay underwriters' discount or compensation and accrued interest other than pre-issuance accrued interest.
+
+**"Site"** means the tracts of land in the Parishes of St. Tammany, St. Mary and Iberia on which the Project is located.
+
+**"State"** means the State of Louisiana.  
+
+**"Stated Maturity"** when used with respect to the Bonds or any installment of interest thereon means any date specified therein as the fixed date on which the principal of the Bonds or any installment thereof or the fixed date on which such installment of interest thereon is due and payable.
+
+**"Trustee"** means The Bank of New York Mellon Trust Company, N.A., serving as trustee pursuant to the Indenture, and any successor trustee.
+
+**"Unassigned Rights"** means the rights of the Issuer under Sections 4.3, 8.1 and 10.4 this Agreement and the right to receive notices hereunder.
+
+**"Yield"** means the yield as determined in accordance with section 148(h) of the Code, and generally, is the yield which when used in computing the present worth of all payments of principal and interest to be paid on an obligation produces an amount equal to the Issue Price of such obligation.
+
+SECTION 1.2. **Interpretations**. The table of contents and article and section headings of this Agreement are for reference purposes only and shall not affect its interpretation in any respect.
+
+\centered **ACQUISITION AND CONSTRUCTION OF THE PROJECT**
+
+SECTION 2.1. **Acquisition and Construction of the Project**. The Company agrees to cause the Project to be acquired, constructed and installed on the Site substantially in accordance with the Plans and Specifications. The Company agrees to pay all Project Costs which are not or cannot be paid or reimbursed from the proceeds of the Bonds.
+
+Anything in this Agreement to the contrary notwithstanding, the Company shall not be obligated to complete the acquisition, construction and installation of the Project or any part thereof upon (i) acceleration of the payment of all amounts to be paid by the Company pursuant to the provisions of Article VII hereof and (ii) the making of any such payment in the amount required by, and in accordance with the terms of, this Agreement.
+
+SECTION 2.2 **Completion**. There shall be no diminution in or postponement of the payments required in Section 4.1 hereof or any other payment required under this Agreement to be paid by the Company because of any delay in the completion of the Project.
+
+\centered **SALE OF THE BONDS; LOAN;DISPOSITION OF LOAN PROCEEDS**
+
+SECTION 3.1. **Issuance of the Bonds**. The Issuer agrees that immediately following the delivery of this Agreement, it will execute and deliver the Indenture and issue, sell and deliver the Bonds in the aggregate principal amount specified by the Company. The Bonds shall be limited obligations of the Issuer and shall be payable by the Issuer solely out of the Revenues derived from or in connection with the Note and this Agreement. The Bonds shall never be payable out of any other funds of the Issuer except such Revenues. The Company agrees to pay all Issuance Costs not otherwise paid from the Construction Fund in accordance with Section 3.6(b), promptly following demand therefor (including, without limitation, all out-of-pocket expenses and costs of issuance reasonably incurred by the Issuer in connection with the issuance of the Bonds), and to make such payments in compliance with Section 8.12 of this Agreement.
+
+SECTION 3.2. **Loan**. The proceeds of the sale of the Bonds which are deposited into the Construction Fund pursuant to Section 5.2 of the Indenture are hereby lent by the Issuer to the Company. The Loan shall be evidenced by the Company's creation and issuance of the Note, dated as of the date of the Bonds and payable to the order of the Issuer.
+
+SECTION 3.3. **Investment of Fund Moneys**. The Issuer hereby authorizes the Company to prepare and provide instructions to the Trustee as to the investment and reinvestment of moneys held as part of any fund under the Indenture ("Fund"), subject to the limitations specified in the Indenture.
+
+SECTION 3.4. **Redemption of Bonds**. The Issuer agrees that, at the request at any time of the Company and if permitted by the Indenture, it will, at its option, forthwith take all steps that may be necessary under the applicable redemption provisions of the Indenture to effect redemption of all or part of the then outstanding Bonds, as may be specified by the Company, on the redemption date designated by the Company and on which such redemption may be made under such applicable provisions, and if for any reason the Issuer shall fail promptly to take such steps upon the request of the Company, the Company may, to the extent permitted by law, take such steps on behalf and in the name of the Issuer.
+
+SECTION 3.5. **Security Interests**. The Company acknowledges and consents to the Issuer's grant of security interest to the Trustee in all amounts at any time deposited in any Fund established under the Indenture (other than the Bond Purchase Fund and the Rebate Fund), including all investments and reinvestments made with such amounts and the proceeds thereof. The Company hereby authorizes and directs the Trustee to hold such amounts, investments, reinvestments and proceeds, and to invest and disburse such amounts and proceeds in accordance with the Indenture and this Agreement. The Company shall not direct the Trustee to make any investments or reinvestments o ther than those permitted by law, the Indenture and this Agreement.
+
+SECTION 3.6. **Disbursements**. (a) Except as provided in the Indenture in case of acceleration of maturity of the Bonds, the Trustee shall disburse the money in the Construction Fund in accordance with this Section.
+
+^^The Trustee shall disburse (or transfer to the Bond Fund) amounts in the Construction Fund to pay Project Costs with respect to the Project or Issuance Costs upon receipt of a Disbursement Request in substantially the form of Exhibit B to the Indenture signed by an Authorized Company Representative stating: (i) the requisition number, amount to be paid, the name of the Person to whom payment is to be made and a Project Costs description; (ii) that there has been expended, or is being expended concurrently with the delivery of such certificate (or in the case of interest which the Trustee is directed to transfer to the Bond Fund after the Completion Date, will be expended within one year following the Completion Date), an amount on account of Project Costs or Issuance Costs at least equal to the amount set forth in such certificate; (iii) that no other certificate in respect of such expenditure is being or previously has been delivered to the Trustee; (iv) that at least [[Percentage 1: Number]]% of the total of all amounts previously disbursed plus the amount requested by such certificate to be disbursed from the Construction Fund have been and will be used to pay Qualifying Costs of the Project; and (v) the sum of the amount of such requisition in respect of Issuance Costs, if any, plus amounts previously paid for Issuance Costs, does not exceed [[Percentage 2: Number]]% of the am ount of the Sale Proceeds.
+
+^^Concurrently with the delivery of the certificate required under Section 3.7 of this Agreement, the Company shall direct the Trustee in writing to transfer any amounts then on deposit in the Construction Fund (other than the retainage described in clause (iii) of Section 3.7 if the Final Payment Date has not occurred) to the Bond Fund to be used (i) to redeem Bonds pursuant to Article IX of the Indenture on the first date the Bonds are subject to redemption at a price of par plus accrued interest or (ii) to purchase Bonds on the open market for cancellation.
+
+SECTION 3.7. **Completion**. Immediately after the Completion Date (and immediately after the Final Payment Date if such dates are not the same), and after requesting pursuant to Section 3.6 any amounts then permitted to be disbursed thereunder, the Company shall deliver to the Trustee a certificate (the "Completion Certificate") in substantially the form of **Exhibit C** hereto signed by an Authorized Company Representative certifying: (i) as appropriate, (A) that as of the Completion Date specified in the certificate the Project has been completed and placed in service, or (B) that the Final Payment Date has occurred; (ii) the amount of Proceeds expended for Qualifying Costs, for Project Costs that were not Qualifying Costs and for Issuance Costs; and (iii) if such certificate is delivered prior to the Final Payment Date, the amount which the Trustee is to retain in the Construction Fund for payment of amounts then subject to dispute or not then due.
+
+\centered **LOAN PAYMENTS AND OTHER MATTERS**
+
+SECTION 4.1. **Loan Payments; Purchase Price Payments**. (a) To repay the Loan evidenced by the Note, the Company shall make or cause to be made Loan Payments in installments, so as to provide amounts for the timely payment of the principal of, premium, if any, and interest on the Bonds in the amounts and at or before the opening of business on the dates as follows: (i) on each Interest Payment Date, an aggregate amount equal to the sum of (x) the accrued interest coming due on such date on all outstanding Bonds, plus (y) the principal amount of all outstanding Bonds maturing on such date; (ii) on each date on which any of the Bonds are to be redeemed, the principal amount of, and premium, if any, and interest (including interest accrued or to be accrued to such date) on the Bonds to be redeemed on such date in accordance with the provisions of the Indenture; and (iii) on any date on which all the Bonds shall be declared to be and shall become due and payable prior to their Stated Maturity pursuant to the provisions of the Indenture, the aggregate amount of principal, premium, if any, and interest so becoming due and payable on all the Bonds in accordance with the terms of the Indenture. Any amount in cash held in or concurrently paid to the Bond Fund or otherwise held by the Trustee which may, pursuant to the provisions of the Indenture, be applied to the payment of the principal of and interest and premium, if any, on the Bonds and which is in excess of the amount, if any, required for payment of any past due principal of (whether by maturity or redemption) and premium, if any, on any Bonds theretofore matured or called for redemption and any past due inter est, if any, on the Bonds shall be credited against the installment of the Loan Payments then required to be made by the Company. If on any date of payment referred to in clause (i), (ii) or (iii) of this Section 4.1(a), the amount in cash held in the Bond Fund or otherwise held by the Trustee and available in accordance with the provisions of the Indenture for the payment of the principal of and interest and premium, if any, on the Bonds shall not be sufficient to pay all principal, interest and premium, if any, then due or overdue, the Company forthwith shall also pay the amount of such deficiency on such date to the Trustee in immediately available funds.
+
+^^The Company will pay to the Paying Agent for deposit in the Bond Purchase Fund, on or before 2:30 p.m., New York City time, on each day on which a payment of purchase price of a Bond which has been tendered for optional or mandatory purchase shall become due, an amount which, together with other moneys held by the Paying Agent under the Indenture and available therefor, will enable the Paying Agent to make such payment in full in a timely manner.
+
+SECTION 4.2. **Bond Fund**. The Company shall pay the Loan Payments required of it under this Agreement by remitting or causing to be remitted the same directly to the Trustee for deposit in the Bond Fund which is to be established under the Indenture and administered by the Trustee as provided in the Indenture.
+
+SECTION 4.3. **Payments to Issuer**. Out of money from the proceeds from the sale and delivery of the Bonds or out of funds provided by the Company, there shall be paid (i) all of the Issuer's reasonable actual out-of-pocket expenses and Issuance Costs in connection with the Bonds, and (ii) on the Issue Date, an issuance fee in the amount of 1/20th of [[Percentage 3: Number]]% of the face amount of the Bonds. The Company agrees to make administrative payments directly to the Issuer on [[Date 4: Date]] of each year in an amount equal to 1/10th of [[Percentage 3]]% of the outstanding Bonds on [[Date 5: Date]] of each year, unless waived by the Issuer, if billed. The administrative payments shall be used for the purpos e of paying administrative and related costs of the Issuer, but shall not include Trustee fees or expenses incurred by the Issuer in enforcing the provisions of this Agreement. The Issuer agrees that it will notify the Company in writing prior to [[Date 6: Date]] of each year thereafter whether it shall waive such administrative payments for such year. If these fees are not waived, such written notice shall advise the Company of the amount that is to be paid (not to exceed 1/10 of [[Percentage 3]]% per annum), the date on which payment is due, and where such payment is to be remitted. In the event the Company should fail to pay such administrative expenses then due, the payment shall continue as an obligation of the Company until the amount shall have been fully paid, and the Company agrees to pay the same with interest thereon (to the extent legally enforceable) at a rate per annum equal to the interest rate in effect from time to time on the Bonds, until paid.
+
+SECTION 4.4. **Payments to Trustee and Remarketing Agent**. (a) The Company agrees to pay (i) the initial acceptance fee of the Trustee and reasonable costs and expenses incurred by the Trustee in entering into and executing the Indenture and (ii) until the principal of, premium, if any, and interest on the Bonds shall have been fully paid or provision for the payment thereof shall have been made in accordance with the provisions of the Indenture, (A) an amount equal to the annual fee of the Trustee for the ordinary services of the Trustee, as trustee, rendered and its reasonable ordinary expenses incurred under the Indenture, including reasonable attorneys fees and expens es, as and when the same become due, (B) the fees, charges and expenses of the Trustee, as bond registrar and as Paying Agent, and any other bond registrar or Paying Agent on the Bonds, as and when the same become due, (C) the reasonable fees, charges and expenses of the Trustee for the necessary extraordinary services rendered by it and extraordinary expenses incurred by it under the Indenture or this Agreement, as and when the same become due, including reasonable attorneys fees and expenses, (D) the reasonable fees and expenses of any co-trustee appointed under the Indenture, and (E) the cost of printing any Bonds required to be furnished by the Issuer. In the event the Company should fail to make any of the payments required in this Section 4.4, the item or installments shall accrue interest at the prime rate of the Trustee (or its primary banking affiliate) and shall continue as an obligation of the Company until the amount shall have been fully paid.
+
+^^The Company agrees to pay to the Remarketing Agent as set forth in the Remarketing Agreement, until the principal of, premium, if any, and interest on the Bonds shall have been fully paid or provision for the payment thereof shall have been made in accordance with the provisions of the Indenture and provided that they are providing services as Remarketing Agent, (i) an amount equal to the reasonable annual fee of the Remarketing Agent for the ordinary services of the Remarketing Agent rendered and its reasonable ordinary expenses incurred under the Indenture and the Remarketing Agreement, as and when the same become due, and (ii) the reasonable fees, charges and expenses of the Remarketing Agent for the necessary e xtraordinary services rendered by it and extraordinary expenses incurred by it under the Indenture and the Remarketing Agreement, as and when the same become due, including reasonable attorneys fees. In the event the Company shall fail to make any of the payments required in this Section, the item or installments shall continue as an obligation of the Company until the amount shall have been fully paid.
+
+SECTION 4.5. **Company's Option to Designate Interest Rate Determination Methods**. The Company is hereby granted the option to designate from time to time changes in interest rate determination methods in the manner and to the extent set forth in Section 3.3 of the Indenture. In the event the Company elects to exercise any such option, the Company agrees that it shall cause notices of changes in interest rate determination methods to be given to the Issuer, the Trustee, the Bank, if any, and the Remarketing Agent in accordance with Section 3.3(b) of the Indenture.
+
+SECTION 4.6. **Purchase of Bonds**. (a) The Company shall cause the necessary arrangements to be made and to be thereafter continued whereby from time to time owners of the Bonds may deliver Bonds for purchase and whereby such Bonds shall be so purchased. In furtherance of the foregoing covenant of the Company, the Issuer, at the direction of the Company, has set forth in Article IV of the Indenture the terms and conditions relating to the delivery of Bonds by the registered holders thereof to the Remarketing Agent for purchase and has set forth in the Indenture or the Remarketing Agreement the duties and responsibilities of the Remarketing Agent with respect to the purchase and remarketing of Bonds. The Company hereby authorizes and directs the Remarketing Agent to purchase, offer, sell, and deliver Bonds in accordance with the provisions of Article IV of the Indenture.
+
+Without limiting the generality of the foregoing covenant of the Company, the Company covenants, for the benefit of the owners of the Bonds, to pay, or cause to be paid, to the Trustee such amounts as shall be necessary to enable the Paying Agent to pay the Purchase Price of the Bonds delivered to it for purchase or deemed delivered for purchase, all as more particularly described, in the Indenture; provided, however, that the obligation of the Company to make, or cause to be made, any such payment hereunder shall be satisfied only, in order of priority, first, by funds received by the Paying Agent from the remarketing of the Bonds by the Remarketing Agent, second, in the event sufficient funds are not available from such remarketing, from draws upon the Credit Facility, if any, and third, from funds provided by the Company.
+
+^^The Issuer shall have no obligation or responsibility, financial or otherwise, with respect to the purchase of Bonds or the making or continuation of arrangements therefor other than as expressly set forth in subsection (a) of this Section 4.6, except that the Issuer shall generally cooperate with the Company and the Remarketing Agent as contemplated by the Indenture.
+
+SECTION 4.7. **Credit Facility**. (a) A Credit Facility will not be provided upon the initial delivery of the Bonds. In order to support the payment of principal of and interest on, and Purchase Price of, the Bonds, when due, the Company may, after the initial delivery of the Bonds, secure and deliver to the Trustee, for the benefit of the owners of the Bonds, the Credit Facility. The Credit Facility shall conform to the requirements set forth in the Indenture. After the initial delivery of the Credit Facility, and at all times thereafter while any of the Bonds are Outstanding, the Company may, but shall not be obligated to cause the Bonds to be supported by either extensions of the Credit Facility or by the securing and delivery of an alternate Credit Facility. The Company hereby authorizes the Trustee to seek payment under any Credit Facility in accordance with its terms and the terms of the Indenture. As long as a Credit Facility is in effect and the Bank is not in default thereunder, the Company’s obligation to make Loan Payments sufficient hereunder to pay principal of, premium, if any, or interest on the Bonds or to pay Purchase Price of the Bonds shall be satisfied solely from payments made by the Bank pursuant to the Credit Facility. Amounts drawn by the Trustee under any Credit Facility shall be credited against the obligation of the Company to make Loan Payments and Purchase Price Payments hereunder.
+
+^^In the event the Company elects to deliver a Credit Facility, the Company shall notify the Trustee in writing at least forty-five days prior to the expiration of such Credit Facility whether or not the Bank intends to extend such Credit Facility or whether a binding obligation to secure an alternate Credit Facility has been entered into.
+
+^^The Company, the Trustee, and the Bank, with the written consent of the Issuer, may, without the consent of the Bondholders, amend, change, or modify any Credit Facility (i) to cure any ambiguity, formal defect, inconsistency, or minor omission, (ii) to conform to the requirements of the Indenture or the Rating Services, or (iii) if such amendment, change or modification is not prejudicial to the Bondholders in any material respect and the Trustee receives a Favorable Opinion to such effect.
+
+^^The Company shall pay all costs incurred by the Trustee and the Issuer in connection with any reissuance, extension or substitution of any Credit Facility.
+
+SECTION 4.8. **Excess Funds**. After all of the Bonds have been retired and all interest and applicable premiums, if any, due thereon have been paid or provision for such retirement and payment has been made, and all compensation and expenses of the Trustee and any Paying Agent have been paid as set forth in any of the Financing Documents or provision for such payment has been made, any excess moneys remaining in the Construction Fund and the Bond Fund shall forthwith be paid by the Trustee to the Company in the manner prescribed respectively, by Section 5.4 and Section 6.4 of the Indenture.
+
+SECTION 4.9. **Nature of Obligations of the Company**. Until all of the Bonds shall be deemed to have been paid within the meaning of Section 16.1 of the Indenture, the obligations of the Company to pay the Loan Payments and Purchase Price Payments as provided in this Agreement and to make or cause to be made all other payments required herein shall be absolute and unconditional, irrespective of any rights of set-off, recoupment or counterclaim the Company might otherwise have against the Issuer, the Trustee or any other Person or Persons, and the Company will not suspend or discontinue any such payment or (except in accordance with Article VII of this Agreement) terminate this Agree ment for any cause including, without limiting the generality of the foregoing, any event constituting force majeure, any acts or circumstances that may constitute an eviction or constructive eviction, failure of consideration, failure of title, or commercial frustration of purpose, or any damage to or destruction of all or part of the Project, or the failure to obtain any permit or order from any governmental agency which is required to be obtained in connection with the operation of the Project or the taking or condemnation of title to or the use or possession of all or any part of the Project, or any change in the laws of the United States, or any state, or any political subdivision thereof, or any failure of the Issuer to perform and observe any agreement or covenant, whether express or implied, or to discharge any duty, liability or obligation arising out of or connected with this Agreement or any other agreement between the Company and the Issuer. The preceding sentence shall not be construe d to release the Issuer from the performance of any of its obligations contained in this Agreement, or except to the extent provided in this Section, prevent or restrict the Company from asserting any rights which it may have against the Issuer, the Trustee or any other persons under this Agreement or under any provision of law or prevent or restrict the Company, at its own cost and expense, from prosecuting or defending any action or proceeding against or by third parties or taking any other action to secure or protect its rights of purchase, acquisition, possession and use of the Project and its rights under this Agreement.
+
+SECTION 4.10. **Company Obligations Under the Indenture**. The Company agrees that it will perform all obligations imposed on the Company under the Indenture.
+
+\centered **MAINTENANCE, INSURANCE, MODIFICATIONS AND ABANDONMENT**
+
+SECTION 5.1. **Maintenance and Insurance**. Subject to the other provisions of this Agreement, the Company shall not be required to maintain, repair or replace any portion of the Project, but may from time to time do any and all of the foregoing as it, in its sole discretion, shall deem appropriate. The Company shall provide (including through self-insurance) for such insurance coverage including assumption of the risk of damage or destruction as is customarily carried by Persons engaged in the same business as and having the financial capability of the Company with respect to operating facilities like the facilities that comprise the Project.
+
+SECTION 5.2. **Modifications**. Subject to the provisions of Sections 8.11 and 8.12 of this Agreement, the Company shall have the right to remodel or alter the Project, make substitutions, additions and improvements thereto and abandon or remove any part thereof, all as the Company, in its sole discretion, may deem to be desirable.
+
+SECTION 5.3. **Issuer Relieved from Responsibility to Maintain Project**. The Company and the Issuer hereby expressly acknowledge and agree that the Issuer is under no responsibility to maintain, operate, insure or repair the Project and the Company expressly relieves the Issuer from any such responsibility.
+
+\centered **CASUALTY AND CONDEMNATION**
+
+SECTION 6.1. **Casualty or Condemnation of the Project**. If (a) any material damage or destruction of the Project or any portion thereof shall occur or (b) title to or the temporary use of any portion of the Project shall be taken in any condemnation proceedings or by the exercise of the power of eminent domain by any governmental body or by any person acting under governmental authority, the Company shall (i) in its sole judgment, restore or not restore the Project or portions thereof so damaged, destroyed or condemned, (ii) be entitled to dispose of the proceeds of any such insurance or condemnation awards in any manner it deems proper, and (iii) not be obligated to notify the Issue r with respect to such actions.
+
+SECTION 6.2. **Effect of Casualty or Condemnation**. The occurrence of a casualty or condemnation shall not entitle the Company to any abatement, postponement or reduction in the amount of the Loan Payments or Purchase Price Payments payable under this Agreement and the Company hereby waives the benefits and provisions of all laws and rights which, by reason of the casualty or condemnation, might relieve the Company from any of its obligations under this Agreement.
+
+SECTION 6.3. **Cooperation; Sale in Lieu of Condemnation**. The Issuer agrees that, if and to the extent that the Company may request, it will cooperate with the Company at the expense of the Company in all matters relating to any casualty to or condemnation of all or any part of the Project and to this end the Issuer hereby authorizes the Company to take any and all action, in its own name or in the name of the Issuer as the Company may elect, which the Issuer could take in respect of such matters, after giving prior written notice to the Issuer.
+
+\centered **PREPAYMENT OF LOAN PAYMENTS**
+
+SECTION 7.1. **Prepayment and Payment of Loan**. The Company may at any time deliver moneys and/or Governmental Obligations to the Trustee with instructions to the Trustee to hold such moneys and/or Governmental Obligations in the special segregated fund referred to in Section 16.1 of the Indenture in connection with a discharge of the Indenture.
+
+No payment of or on account of the Loan Payments need be made during the term of this Agreement or thereafter when and so long as the amount in the Bond Fund, together with any other amounts then held by the Trustee and available for the purpose, is sufficient to retire all of the Bonds then outstanding in accordance with the Indenture, including any applicable redemption premium on such Bonds and the amount of interest due and thereafter to become due on the Bonds on and prior to such retirement. However, if, subsequent to a date on which the Company is not obligated to pay the Loan Payments or any installment thereof pursuant to the preceding sentence, losses (net of gains) shall be incurred in respect of the investments in the Bond Fund and such net losses or any other event shall have reduced the amounts in the Bond Fund, together with any other amounts then held by the Trustee and available for the purpose, below the amount sufficient at the time of such occurrence or other event to redeem or pay, in accordance with the provisions of the Indenture, on the next date on which redemption or payment is to be effected, the principal amount of the Bonds, and the amount of interest and premium, if any, due or to become due on the Bonds on and prior to such redemption or payment, the Trustee shall notify the Company of such fact and thereafter, the Company, as and when required for purposes of such Bond Fund, shall pay to the Trustee for deposit in the Bond Fund the amount of any such reduction below such sufficient amount.
+
+SECTION 7.2. **Mandatory Acceleration of Loan Payments; Preservation of Tax Status**. The Company covenants that it will not take any action or omit to take any action required under this Agreement, the Code and the Regulations, as applicable, which act or omission will cause the interest paid on the Bonds to become includable in the gross income of the holders thereof for federal income tax purposes. The payment of the Loan Payments shall be accelerated, in whole or in part, upon the mandatory redemption of the Bonds as provided in Section 9.1(b) of the Indenture.
+
+The provisions of this Section 7.2 shall be deemed a separate and independent covenant for the benefit of the holders of the Bonds. Acceleration pursuant to this Section 7.2 shall not limit or discharge any remaining obligations which the Company may have.
+
+\centered **SPECIAL REPRESENTATIONS AND COVENANTS**
+
+SECTION 8.1. **Indemnification**. The Company agrees that it will at all times indemnify and hold harmless each of the Indemnified Parties against any and all losses, penalties, costs, damages, expenses and liabilities (collectively herein called "Losses") of whatsoever nature (including but not limited to reasonable attorney's fees and expenses, the reasonable allocated costs and expenses of in-house counsel, litigation and court costs, amounts paid in settlement and amounts paid to discharge judgments) directly or indirectly resulting from, arising out of, or related to one or more Claims, as hereinafter defined, even if such Losses or Claims, or both, directly or indirectly result from, arise out of or relate to or are asserted to have resulted from, arisen out of, or related to, in whole or in part, one or more negligent or grossly negligent acts or omissions of the Indemnified Parties (except for the Trustee and the Paying Agent, which will be liable for their own negligent and grossly negligent acts and omissions unless the Trustee or Paying Agent was acting in accordance with a direction upon which it is entitled to rely under the Financing Documents, in which event this exception shall not apply) in connection with the issuance of the Bonds, arising out of or in connection with the execution and performance of the Financing Documents, a breach of the Company of its covenants under this Agreement, or in connection with the Project. The term "Claims" as used herein shall mean all claims, lawsuits, Internal Revenue Service audits in connection with the Bonds, causes of action and other legal actions and proceedings of whatsoever nature, including but not limited to claims, lawsuits, causes of action and other legal actions and proceedings, involving bodily or personal injury or death of any person or damage to any property (including, but not limited to, persons employed by the Issuer, the Trustee, the Company, the Paying Agent or any other Person and all property owned or claimed by any Indemnified Party, the Company, any affiliate of the Company or any other Person) or involving damages relating to the issuance, offering, sale or delivery of the Bonds brought against any Indemnified Party or to which any Indemnified Party is a party, even if groundless, false or fraudulent, that directly or indirectly result from, arise out of, or relate to the design, construction, installation, operation, use, occupancy, maintenance or ownership of the Project or any part thereof or from the issuance, offering, sale or delivery of the Bonds, and including but not limited to all claims for indemnification of the Trustee arising out of or in connection with the performance of any of its powers or duties under and in accordance with the terms of the Indenture or any of the other Financing Documents. Without limiting the generality of the foregoing, the term "Claims" shall include Claims brought under federal or state environmental or hazardous materials laws. The obligations of the Company under this Section 8.1 shall apply to all Losses or Claims, or both, that result from, arise out of, or are related to any event, occurrence, condition or relationship and shall survive the termination of this Agreement. The obligations of the Company under this Section 8.1 shall not be affected by any assignment or other transfer by the Issuer of its rights, titles or interests under this Agreement to the Trustee pursuant to the Indenture or the resignation or removal of the Trustee for any reason, or the termination of the Financing Documents or the payment or defeasance of the Bonds and will continue to inure to the benefit of the Indemnified Party both prior to and after any such assignment or transfer or resignation or removal. None of the Indemnified Parties will be liable to the Company for, and the Company hereby releases each of them from all liability to the Company for, all injuries, damages or destruction of all or any part or parts of any property owned or claimed by the Company that directly or indirectly result from, arise out of or relate to the design, construction, operation, use, occupancy, maintenance or ownership of the Project or any part thereof, even if such injuries, damages or destruction directly or indirectly result from, arise out of or relate to, in whole or in part, one or more negligent or grossly negligent acts or omissions of the Indemnified Parties in connection with the issuance of the Bonds, in connection with the execution and performance of the Financing Documents or in connection with the Project. Each Indemnified Party, as appropriate, shall reimburse the Company for payments made by the Company pursuant to th is Section 8.1 to the extent of any proceeds, net of all expenses of collection, actually received by them from any insurance with respect to the loss sustained. Each Indemnified Party may, but shall not have the duty to claim any such insurance proceeds and, to the extent of any such claim, such Indemnified Party shall assign its rights to such proceeds, to the extent of such required reimbursement, to the Company. In case any action shall be brought or to the knowledge of any Indemnified Party threatened against any of them in respect of which indemnity may be sought against the Company, the Indemnified Party shall promptly notify the Company in writing and the Company shall have the right to assume the investigation and defense thereof including the employment of counsel and the payment of all expenses. The Company shall not settle any such case without the consent of the affected Indemnified Party, which consent shall not be unreasonably withheld. The Indemnified Party shall have the right to employ separate counsel in any such action and participate in the investigation and defense thereof, but the fees and expenses of such counsel shall be paid by the Indemnified Party unless (a) the employment of such counsel has been specifically authorized by the Company, in writing, or (b) the Company has failed to assume the defense and to employ counsel or (c) the named parties to any such action (including any impleaded parties) include both an Indemnified Party and the Company, and said Indemnified Party shall have been advised by its counsel that there may be one or more legal defenses available to it which are different from or additional to those available to the Company (in which case, if the Indemnified Party notifies the Company in writing that it elects to employ separate counsel at the Company's expense, the Company shall not have the right to assume the defense of such action on behalf of such Indemnified Party, it being understood, however, that the Company shall not, in connection wi th any one such action or separate but substantially similar or related actions in the same jurisdiction arising out of the same general allegations or circumstances, be liable for the reasonable fees and expenses of more than one separate firm of attorneys for the Indemnified Parties, provided that any Indemnified Party which has been advised by counsel that there may be one or more legal defenses available to it which are different from or additional to those available to any other Indemnified Party shall have the right to employ separate counsel whose reasonable fees and expenses shall be paid by the Company, which firm shall be designated in writing by said Indemnified Party). The Indemnified Party, as a condition of such indemnity, shall use its best efforts to cooperate with the Company in the defense of any such action or claim. The Company shall not be liable for any settlement of any such action without its consent but, if any such action is settled with the consent of the Comp any or if there be final judgment for the plaintiff in any such action, the Company agrees to indemnify and hold harmless the Indemnified Parties from and against any Loss by reason of such settlement or judgment.
+
+In the event of failure by the Company to observe the covenants, conditions and agreements contained in this Section 8.1, any Indemnified Party may take any action at law or in equity to collect amounts then due and thereafter to become due, or to enforce performance and observance of any obligation, agreement or covenant of the Company under this Section 8.1.
+
+SECTION 8.2. **Representations of the Company**. The Company represents that it is duly organized and existing under the laws of the State, that it is and it (or its successors hereunder) will remain duly qualified to do business in the State, that it has duly accomplished all conditions precedent necessary to be accomplished by it prior to issuance and delivery of the Bonds and execution and delivery of this Agreement, that it is not in default under any agreement, indenture or other instrument in any manner which would impair the Company's ability to carry out its obligations hereunder, that it has power to enter into the transactions contemplated by this Agreement, that it has bee n duly authorized to execute and deliver this Agreement and that it will not, except as provided in this Section, voluntarily take any action that would adversely affect its existence.
+
+SECTION 8.3. **Filing**. The Company will cause all financing and continuation statements related to this Agreement and the Indenture and all supplements to either of the foregoing, as well as such other security agreements, financing and continuation statements and all supplements thereto and other instruments as may be required from time to time to be kept and filed in such manner and in such places as may from time to time be required by law in order to preserve and protect fully the security of the holders and the rights of the Trustee hereunder and under the Indenture and to take or cause to be taken any and all other action necessary to perfect the security interest created under the Indenture or this Agreement.
+
+SECTION 8.4. **Representations and Covenants of the Issuer**. The Issuer represents that it is duly organized and existing under the Act, that it has duly accomplished all conditions precedent necessary to be accomplished by it prior to issuance and delivery of the Bonds and execution and delivery of this Agreement and the Indenture, that it is not in default under any of the provisions contained in the laws of the State or any agreement to which it is a party in any manner which would impair its ability to carry out its obligations hereunder, that it has power to enter into and perform the transactions contemplated by this Agreement and the Indenture, that it has been duly authorize d to execute, deliver and perform this Agreement and the Indenture, and that it will not voluntarily take any action that would adversely affect its existence.
+
+The Issuer will not knowingly take any affirmative action or omit to take any action within its control, which act or omission will adversely affect the exclusion from gross income for federal income tax purposes of interest paid on the Bonds, and in the event it should unknowingly do so or omit to do so, will promptly upon having such event brought to its attention take such reasonable actions as may rescind or otherwise negate its unknowing action or omission.
+
+SECTION 8.5. **Removal of Liens**. If any lien, encumbrance or charge of any kind based on any claim of any kind (including, without limitation, any claim for income, franchise or other taxes, whether federal, state or otherwise), shall be asserted or filed against any amount paid or payable by the Company under or pursuant to this Agreement or any order (whether or not valid) of any court shall be entered with respect to any such amount by virtue of any claim of any kind, in either case so as to:
+
+^^interfere with the due payment of such amount to the Trustee or the due application of such amount by the Trustee pursuant to the applicable provisions of the Indenture,
+
+^^subject the holders of the Bonds to any obligation to refund any moneys applied to payment of the Bonds, or
+
+^^result in the refusal of the Trustee to make such due application because of its reasonable determination that liability might be incurred if such due application were to be made,
+
+then the Company will promptly take such action (including, but not limited to, the payment of money) as may be necessary to prevent, or to nullify the cause or result of, such interference, such obligation or such refusal, as the case may be.
+
+SECTION 8.6. **Special Covenants**. The Issuer and the Company agree that all proceeds received from the sale of the Bonds, as well as all Loan Payments paid by the Company and other moneys received by the Issuer pursuant to this Agreement, shall be applied solely in the manner and for the purposes specified in this Agreement and the Indenture. The Issuer further agrees that it will observe the covenants made by it in the Indenture and that the Company may have and exercise all the rights, powers and benefits stated to be in the Company in this Agreement and the Indenture and that, without the prior written consent of the Company, the Indenture, the Bonds and any bond purc hase agreement pursuant to which the Bonds are to be sold shall not be modified in any manner.
+
+SECTION 8.7. **Bonds are Limited Obligations**. The Bonds shall be limited obligations of the Issuer, payable solely out of the Revenues derived from or in connection with this Agreement (including all sums deposited in any Fund (other than the Bond Purchase Fund and the Rebate Fund) from time to time pursuant to this Agreement, the Indenture, and the Note) and, in certain events, out of amounts attributable to Bond proceeds or amounts obtained through the exercise of any remedy provided for in the Indenture. The Bonds shall never be paid out of any other funds of the Issuer except such Revenues. No recourse under the Bonds shall be had against any past, present or future officer or director of the Issuer. The Bonds shall never be paid in whole or in part out of any funds raised or to be raised by taxation or out of any other revenues or assets of the Issuer or the State except those Revenues pledged by the Indenture. The principal of, and premium, if any, and interest on the Bonds are secured, as set forth in the Indenture, by an assignment by the Issuer of certain of its rights under this Agreement and the Note, including a pledge of certain of the Revenues derived from and in connection w ith this Agreement.
+
+THE BONDS ARE LIMITED AND SPECIAL OBLIGATIONS OF THE ISSUER AND DO NOT CONSTITUTE OR CREATE AN OBLIGA­TION, GENERAL OR SPECIAL, DEBT, LIABILITY OR MORAL OBLIGATION OF THE STATE OR ANY POLITICAL SUBDIVISION THEREOF WITHIN THE MEANING OF ANY CONSTITU­TIONAL OR STATUTORY PROVISIONS WHATSOEVER AND NEITHER THE FAITH OR CREDIT NOR THE TAXING POWER OF THE STATE OR OF ANY POLITICAL SUBDIVI­SION THEREOF IS PLEDGED TO THE PAYMENT OF THE PRINCIPAL OF, PREMIUM, IF ANY, OR THE INTEREST ON THE BONDS. THE BONDS ARE NOT A GENERAL OBLIGATION OF THE ISSUER (WHICH HAS NO TAXING POWER AND RECEIVES NO FUNDS FROM ANY GOVERNMENTAL BODY) BUT ARE A LIMITED AND SPECIAL REVENUE OBLIGATION OF THE ISSUER PAYABLE SOLELY FROM THE INCOME, REVENUES AND RECEIPTS DERIVED OR TO BE DERIVED FRO M PAYMENTS MADE PURSUANT TO THIS AGREEMENT.
+
+SECTION 8.8. **Net Agreement**. This Agreement shall be deemed and construed to be a "net agreement", and the Company shall during its term pay absolutely net the Loan Payments and all other payments required hereunder, free of any deductions, without abatement, deduction or setoff other than those herein expressly provided.
+
+SECTION 8.9. **No Warranty of the Project**. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project, including, but not limited to, the merchantability thereof or the fitness thereof for any particular purposes; the design or condition thereof; the workmanship, quality or capacity thereof; compliance thereof with the requirements of any law, rule, specification or contract pertaining thereto; patent infringement; latent defects; or that the proceeds derived from the sale of the Bonds will be sufficient to pay in full for same.
+
+SECTION 8.10. **State Bond Commission Reporting Requirements**. The Company covenants that it shall furnish to the Issuer and Bond Counsel such information necessary to satisfy the reporting requirements of La. R.S. 39:1405.4, as may be amended from time to time. This information shall be delivered to the Issuer and Bond Counsel not less than five Business Days prior to the date such information is to be reported to the State Bond Commission.
+
+SECTION 8.11. **Representations Regarding the Project**. The Company represents and warrants (i) that it has no present intention of allowing the disposal or abandonment of the Project nor of directing the Project to a use other than the purposes represented herein; (ii) that the Project is in furtherance of the public purposes of the Act; and (iii) that all necessary licenses and permits to acquire, construct, and operate the Project were obtained, and that the Project has been approved by all necessary governmental bodies or agencies having jurisdiction. Notwithstanding the foregoing, certain component parts of the Project may, from time to time be disposed of or abandoned as provid ed in Section 5.2 of this Agreement and subject to Section 8.12 of this Agreement.
+
+SECTION 8.12 **Tax Representations and Covenants**. The Company hereby represents and covenants as follows:
+
+^^**Qualifying Costs**. At least 95 percent of the Proceeds actually expended will be expended for Qualifying Costs.
+
+^^**Limit on Costs of Issuance**. No portion of the Proceeds of the Bonds in excess of 2 percent of the Sale Proceeds of the Bonds, within the meaning of section 147(g) of the Code, will be expended to pay Issuance Costs with respect to the Bonds.
+
+^^**Limitation on Maturities**. The term of the Bonds will not exceed 120 percent of the average reasonably expected economic life of the Project to be financed by the Bonds, weighted in proportion to the respective cost of each item comprising the Project, the cost of which has been or will be financed, directly or indirectly, with the Proceeds of the Bonds. For purposes of the preceding sentence, the reasonably expected economic life of property shall be determined as of the later of (i) the Issue Date for the Bonds or (ii) the date on which such property is placed in service (or expected to be placed in service). In addition, land shall not be taken into account in det ermining the reasonably expected economic life of property, except that, in the event 25 percent or more of the collective Net Proceeds of the Bonds, directly or indirectly, have been expended for land, such land shall be treated as having an economic life of 30 years and shall be taken into account for purposes of determining the reasonably expected economic life of such property.
+
+^^**Rebate**. The Company agrees to take all steps necessary to compute and pay any rebatable arbitrage in accordance with section 148(f) of the Code and section 1.148-3 of the Regulations, including:
+
+^^^Delivery of Documents and Money on Computation Dates. The Company shall deliver to the Trustee, within 45 days after each Computation Date,
+
+^a statement, signed by an Authorized Representative of the Company, stating the Rebate Amount as of such Computation Date; and
+
+^(1) if such Computation Date is not the Final Computation Date, an amount which, together with any amount then held for the credit of the Rebate Fund, is equal to at least 90 percent of the Rebate Amount in respect of such issue of Bonds as of such Computation Date, less the future value as of such date, of any prior payments made to the United States pursuant to section 148(f) of the Code in respect of the Bonds, and (2) if such Computation Date is the Final Computation Date, an amount which, together with any amount then held for the credit of the Rebate Fund in respect of the Bonds, is equal to the Rebate Amount as of such Final Computation Date, less the future value as of such date, of any prior payments made to the United States pursuant to section 148(f) of the Code in respect of the Bonds; and
+
+^to the extent any Rebate Amount is due, an Internal Revenue Service Form 8038-T completed as of such Computation Date.
+
+^^^Correction of Underpayments. If the Trustee or the Company shall discover or be notified as of any date that any payment paid to the United States Treasury pursuant to Section 8.4 of the Indenture of an amount described in Section 8.12(d)(i) above shall have failed to satisfy any requirement of section 1.148-3(f) of the Regulations (whether or not such failure shall be due to any default by the Company, the Issuer, or the Trustee), the Company shall (1) deliver to the Trustee a brief written explanation of such failure and any basis for concluding that such failure was innocent and (2) pay to the Trustee (for deposit to the Rebate Fund) and cause the Trustee to pay to the United States Treasury from the Rebate Fund the penalty in respect thereof and as specified in section 1.148-3(h) of the Regulations, within 45 days after any discovery or notice.
+
+^^^Records. The Company shall retain all of its accounting records relating to the Construction Fund, the Bond Fund and the Rebate Fund and all calculations made in preparing the statements described in this Section 8.12(d) for at least six years after the date on which no Bonds are outstanding.
+
+^^^Fees and Expenses. The Company agrees to pay all of the reasonable fees and expenses of Bond Counsel, a certified public accountant and any other necessary consultant employed by the Company, the Trustee or the Issuer in connection with computing the Rebate Amount.
+
+^^^No Diversion of Rebatable Arbitrage. The Company will not indirectly pay any amount otherwise payable to the federal government pursuant to the foregoing requirements to any person other than the federal government by entering into any investment arrangement with respect to the Gross Proceeds of the Bonds that is not purchased at fair market value or includes terms that the Company would not have included if the Bonds were not subject to section 148(f) of the Code.
+
+^^^Investment of Rebate Fund. In the event funds are deposited to the Rebate Fund, the Company shall give the Trustee written instructions as to the investment of such funds upon deposit of such funds.
+
+^^**Prohibited Facilities**. None of the Proceeds of the Bonds will be used to provide any health club facility, airplane, sky-box or other private luxury box, facility primarily used for gambling, or store the principal business of which is the sale of alcoholic beverages for consumption off premises.
+
+^^**Information Reporting Requirements**. The Company will provide the Issuer with the information required for it to comply with the information reporting requirements of section 149(e)(2) of the Code requiring certain information regarding the Bonds to be filed with the Internal Revenue Service within prescribed time limits.
+
+^^**"Federally Guaranteed" Obligations**. The Company covenants and agrees not to take any action, or knowingly omit to take any action within its control, that, if taken or omitted, respectively, would cause the Bonds to be "federally guaranteed" within the meaning of section 149(b) of the Code and applicable regulations thereunder, except as permitted by section 149(b)(3) of the Code and such regulations.
+
+^^**Bonds Are Not Hedge Bonds**. The Company covenants and agrees that none of the proceeds of the Bonds will be invested in Nonpurpose Investments having a substantially guaranteed Yield for four years or more within the meaning of section 149(g)(3)(A)(ii) of the Code, and the Company reasonably expects that all of the spendable proceeds of the Bonds will be used to carry out the governmental purposes of the Bonds within the three-year period beginning on the Issue Date.
+
+^^**Yield on Investment of Gross Proceeds**. The Company will restrict the cumulative, blended Yield on the investment of the Gross Proceeds of the Bonds, to the Yield of the Bonds, other than amounts (i) not subject to yield restriction because of (A) the availability of any applicable temporary period under section 148(c) of the Code and section 1.148-2(e) of the Regulations, (B) their deposit in a reasonably required reserve or replacement fund described in section 148(d) of the Code and section 1.148-2(f)(2) of the Regulations or a bona fide Bond Fund described in section 1.148-1(b) of the Regulations (including the Bond Fund) or (C) the minor portion exception described in section 1.148-2 (g) of the Regulations, or (ii) invested in obligations described in section 103(a) of the Code.
+
+^^**No Arbitrage**. The Company will not use or invest the Proceeds of the Bonds such that the Bonds become "arbitrage bonds" within the meaning of section 148 of the Code, and as evidence of this intent, a representative of the Company has reviewed the No-Arbitrage Certificate of the Issuer prepared in connection and delivered concurrently with the Bonds and the Company understands, and will take (or request the Trustee or the Issuer to take), the actions described therein.
+
+^^**Acquisition of Land**. Less than 25 percent of the Net Proceeds of the Bonds actually expended will be used, directly or indirectly, for the acquisition of land or an interest therein. Notwithstanding the immediately preceding sentence, no portion of the Net Proceeds of the Bonds will be used, directly or indirectly, for the acquisition of land or an interest therein to be used for farming purposes.
+
+^^**Used Property**. No portion of the Net Proceeds of the Bonds will be used for the acquisition of any existing property or an interest therein unless (i) the first use of such property is pursuant to such acquisition or (ii) the rehabilitation expenditures with respect to any building and equipment therefor equal or exceed 15 percent of the cost of acquiring such building financed with the proceeds of the Bonds (with respect to structures other than buildings, this clause shall be applied by substituting 100 percent for 15 percent). For purposes of the preceding sentence, the term "rehabilitation expenditures" shall have the meaning set forth in section 147(d)(3) of the Code.
+
+^^**Modification of Requirements**. If at any time during the term of this Agreement, the Issuer, the Trustee or the Company desires to take any action or omit to take any action that would otherwise be prohibited by the terms of this Section, such Person shall be permitted to take such action or omit to take such action if it shall first obtain and provide to the other Persons named herein an opinion of Bond Counsel to the effect that (i) such action or omission shall not adversely affect the exclusion from gross income for federal income tax purposes of interest on the Bonds and (ii) such action or omission otherwise is in compliance with the laws of the State and the terms of the Indenture and this Agreement.
+
+The Company will not knowingly take any action, or knowingly omit to take any action, which action or omission will adversely affect the exclusion from gross income of the holders thereof for federal income tax purposes of interest on the Bonds (other than holders who are substantial users of the Project or related persons within the meaning of section 147(a) of the Code), and in the event of such action or omission (whether taken with knowledge or not) will promptly, upon receiving knowledge thereof, take all lawful actions, based on advice of Bond Counsel and at the Company's expense, as may rescind or otherwise negate such action or omission.
+
+SECTION 8.13. **Financial Information**. During such time, if ever, as no Credit Facility is in effect, and the Company does not file annual financial information with the United States Securities Exchange Commission, the Company, shall furnish to the Trustee and any owner, or any beneficial owner, of any Bond who shall have requested the same in writing, as soon as available and in any event within 150 days after the end of the fiscal year, financial statements for the Company for the immediately preceding fiscal year, audited by a nationally recognized accounting firm. The Trustee shall have no responsibility with respect to such financial statements except to make them available fo r reasonable examination by any owner of any Bond upon reasonable, prior written request.
+
+\centered **ASSIGNMENT**
+
+SECTION 9.1. **Consolidation, Merger and Assignment by the Company**. The Company shall not merge or consolidate with any other legal entity unless the successor entity (if other than the Company or an affiliate of the Company) (a) irrevocably and unconditionally assumes, in an instrument delivered to the Issuer and the Trustee, the due performance of the obligations of the Company under this Agreement and (b) is authorized to transact business in this State. The Company may, without the consent of the Issuer or the Trustee, transfer or assign this Agreement or transfer or assign all or a portion of the Project and any or all of its rights and delegate any or all of its duties hereunder to an entity either affiliated or unaffiliated with the Company, but no such transfer, assignment or delegation shall relieve the Company of its liability for the payment of the Loan Payments or for the payment of any other amounts to be paid by it under this Agreement or the Note and for the full observance and performance of all of the covenants and conditions to be observed and performed by it which are contained in this Agreement and the Note. The Company shall within fifteen days after the execution thereof, furnish to the Issuer and the Trustee appropriate documentation demonstrating that the surviving, resulting or transferee legal entity, as the case may be, is a domestic legal entity, is qualified to do business in the State, and has assumed in writing all of the obligations of the Company under this Agreement.
+
+SECTION 9.2. **Issuer's Rights of Assignment**. The Issuer may, only in accordance with the Indenture, assign this Agreement, the Note and the security interest of the Issuer created hereby and pledge the moneys receivable hereunder to the Trustee as security for payment of the principal of and premium, if any, and interest on the Bonds and all amounts payable under the Indenture and the other Financing Documents. The Company hereby assents to such assignments and agrees that the Trustee may exercise and enforce in accordance with the Indenture any of the rights of the Issuer under this Agreement or the Note. Any such assignment, however, shall be subject to all of the rights and privileges of the Company as provided in this Agreement.
+
+\centered **EVENTS OF DEFAULT AND REMEDIES**
+
+SECTION 10.1. **Enumeration of "Events of Default"**. The terms "Event of Default" or "Default" shall mean, whenever they are used in this Agreement, any one or more of the following events:
+
+^^Failure by the Company to pay when due in accordance with Section 4.1(a) and (b) of this Agreement the portion of the Loan Payments representing payment of the principal of and premium, if any, on the Bonds.
+
+^^Failure by the Company to pay when due in accordance with Section 4.1(a) and (b) of this Agreement the portion of the Loan Payments representing payment of interest on the Bonds.
+
+^^The occurrence of one or more of the events specified in subsections (d) and (e) of Section 11.1 of the Indenture.
+
+^^The occurrence of a Company Event of Bankruptcy.
+
+^^Default by the Company in the payment of any other amount required to be paid under this Agreement or in the performance or observance of any other of the covenants, agreements or conditions contained in this Agreement, or in the Bonds issued under the Indenture, and continuance thereof for a period of ninety (90) days after written notice specifying such failure and requesting that it be remedied shall have been given to the Company by the Trustee, which may give such notice in its discretion and shall give such notice at the written request of the holders of not less than twenty-five percent ([[Percentage 4: Number]]%) in principal amount of the Bonds then outstanding, unless the Trustee, or the Trustee and holders of a principal amount of Bonds not less than the principal amount o f Bonds the holders of which requested such notice, as the case may be, shall agree in writing to an extension of such period prior to its expiration; provided, however, that the Trustee, or the Trustee and the holders of such principal amount of Bonds, as the case may be, shall be deemed to have agreed to an extension of such period if corrective action is instituted by the Company within such period and is being diligently pursued.
+
+SECTION 10.2. **Remedies**. Upon any acceleration of the principal of the Bonds under the Indenture, all Loan Payments shall be immediately due and payable under this Agreement and the maturity of the Note shall be accelerated. In addition, whenever any Event of Default referred to in Section 10.1 shall have occurred and be continuing, the Trustee, or the Issuer with the prior written consent of the Trustee, may take any action at law or in equity to collect amounts then due and thereafter to become due, or to enforce performance and observance of any obligation, agreement or covenant of the Company under this Agreement. Any amounts collected pursuant to action taken under this Section 10.2 shall be applied in accordance with the provisions of the Indenture.
+
+Neither the Trustee nor the Issuer may declare all unpaid Loan Payments immediately due because of a failure by the Company to observe or perform any covenant, condition or agreement contained in Section 8.1 of this Agreement. However, the exception of the preceding sentence shall not otherwise preclude the Issuer from enforcing, with or without the consent of the Trustee, or the Trustee from enforcing the observance and performance of the covenants, conditions and agreements contained in such Section.
+
+^waiver by the Trustee of any Events of Default as that term is defined in the Indenture, in accordance with the terms and provisions of the Indenture, or any annulment of or acceleration of the due date of the principal of the Bonds, shall also constitute a waiver of the corresponding Event of Default and its consequences hereunder or annulment of any acceleration of principal hereunder, without further action on the part of the Trustee.
+
+SECTION 10.3. **No Remedy Exclusive**. No remedy conferred upon or reserved to the Issuer or the Trustee by this Agreement is intended to be exclusive of any other available remedy or remedies, but each and every such remedy shall be cumulative and shall be in addition to every other remedy given under this Agreement or now or hereafter existing at law or in equity or by statute. No delay or omission to exercise any right or power accruing hereunder shall impair any such right or power or shall be construed to be a waiver thereof, nor shall any single or partial exercise of any other right, power or privilege, but every such right and power may be exercised from time to time and as of ten as may be deemed expedient. In order to entitle the Trustee to exercise any remedy reserved to it in this Article, it shall not be necessary to give any notice other than such notices as may be herein expressly required.
+
+SECTION 10.4. **Agreement to Pay Attorneys' Fees and Expenses**. In the event the Company should default under any of the provisions of this Agreement and the Issuer or the Trustee should employ attorneys or incur other expenses for the collection of the payments due under this Agreement or the enforcement of performance or observance of any obligation or agreement on the part of the Company herein contained, the Company agrees that it will on demand therefor, and upon presentation of an itemized bill, pay to the Issuer or the Trustee the reasonable fees and expenses of such attorneys and such other expenses so incurred by the Issuer or the Trustee.
+
+\centered **GENERAL**
+
+SECTION 11.1. **Force Majeure**. If by reason of force majeure either the Issuer or the Company shall be rendered unable wholly or in part to carry out its obligations under this Agreement, and if such party gives notice and full particulars of such force majeure in writing to the other party within a reasonable time after failure to carry out its obligations under this Agreement, such obligations (other than the obligations of the Company specified in the last sentence of this Section 11.1) of the party giving such notice, so far as they are affected by such force majeure, shall be suspended during the continuance of the inability then claimed, including a reasonable time for removal of t he effect thereof. The term "force majeure" shall mean acts of God, strikes, lockouts or other industrial disturbances, acts of the public enemy, orders of any kind of the Government of the United States, or of any state thereof, or any civil or military authority, insurrections, riots, epidemics, landslides, lightning, earthquakes, fires, hurricanes, tornadoes, storms, floods, washouts, droughts, arrests, restraining of government and people, civil disturbances, explosions, breakage or accidents to machinery, transmission pipes or canals, partial or entire failure of utilities, shortages of labor, material, supplies or transportation, or any other cause not reasonably within the control of the party claiming such inability. The requirement that any force majeure shall be reasonably beyond the control of the party shall be deemed to be fulfilled even though the existing or impending strike, lockout or other industrial disturbance may not be settled but could have been settled by accedin g to the demand of the opposing Person or Persons. The occurrence of any event of force majeure shall not suspend or otherwise abate, and the Company shall not be relieved from, the obligation to pay the Loan Payments and to pay any other payments required to be made by it under this Agreement at the times required.
+
+SECTION 11.2. **Waiver of Rights**. Failure by the Issuer, the Company or the Trustee to insist upon the strict performance of any of the covenants and agreements contained in this Agreement or to exercise any rights or remedies upon default shall not be considered a waiver or relinquishment of the right to insist upon and to enforce by any appropriate legal remedy strict compliance by the defaulting party with all of the covenants and conditions binding on it, or of the right to exercise any such rights or remedies if such default be continued or repeated.
+
+SECTION 11.3. **Notices**. Unless otherwise provided hereunder or in the Agreement, all notices, certificates or other communications (a "Communication") hereunder to be given by any of the following parties to any of the other following parties shall be deemed to have been sufficiently given and received by such parties only upon actual receipt thereof and if sent by registered mail, by Electronic notice, by overnight courier (signature required), telephone, confirmed in writing, to the relevant party as follows:
+
+Company:   **[[Company]]**
+[[Address 1: Address]]
+ATTN: Manager, Treasury Services and Corporate Financing
+Fax#: [[Phone 1]]
+
+Issuer:   Louisiana Public Facilities Authority
+[[Address 2: Address]]
+ATTN: President and CEO
+Fax#: [[Phone 2]]
+
+Trustee Principal   The Bank of New York Mellon Trust Company, N.A.
+Office and Tender   [[Address 3: Address]]-6050
+ATTN: Corporate Trust Department
+Fax#: [[Phone 3]]
+
+Paying Agent:   The Bank of New York Mellon Trust Company, N.A.
+[[Address 4: Address]]-6050
+ATTN: Corporate Trust Department
+Fax#: [[Phone 3]]
+
+Remarketing   KeyBanc Capital Markets Inc.
+Agent:   [[Address 5: Address]]
+ATTN: Tax-Exempt Remarketing Desk
+Fax #: [[Phone 4]]
+
+Morgan Keegan & Company, Inc.
+[[Address 6: Address]]
+ATTN: Public Finance Department
+Fax #: [[Phone 5]]
+
+or, in each case, at such other address or facsimile number as may have been designated most recently in writing by the addressee to the addressor; provided, however, that in order to be considered duly made, a duplicate copy of any Communication to the Issuer, the Company or the Trustee shall be sent at the same time and in like manner to each of the others.
+
+Whenever this Agreement provides for the delivery by the Issuer of a Communication, the person receiving the same shall be entitled to rely and act upon such Communication if it is signed by the Chairman, Vice Chairman or the Secretary-Treasurer or an Assistant Secretary of the Issuer, or any other authorized officer of the Issuer. Whenever this Agreement provides for the delivery by the Company of any Communication, the Person receiving such Communication shall be entitled to rely and act upon such Communication if it is signed by the President, Chief Financial Officer or Treasurer of the Company, or any other duly authorized officer of the Company.
+
+The Trustee is authorized to accept and act upon instructions or directions pursuant to the Financing Documents sent by unsecured e-mail, facsimile transmission or other similar unsecured electronic methods, provided, however, that (i) the Company, subsequent to such transmission of written instructions, shall provide the originally executed instructions or directions to the Trustee in a timely manner, (ii) such originally executed instructions or directions shall be signed by a person as may be designated and authorized to sign for the Company or in the name of the Company, by an authorized representative of the Company, and (iii) the Company shall provide to the Trustee an incumbency certificate listing such designated persons, which incumbency certificate shall be amended wheneve r a person is to be added or deleted from the listing. If the Company elects to give the Trustee e-mail or facsimile instructions (or instructions by a similar electronic method) and the Trustee in its discretion elects to act upon such instructions, the Trustee’s understanding of such instructions shall be deemed controlling. The Trustee shall not be liable for any losses, costs or expenses arising directly or indirectly from the Trustee's reliance upon and compliance with such instructions notwithstanding such instructions conflict or are inconsistent with a subsequent written instruction.
+
+SECTION 11.4. **Counterparts, Amendments, Governing Law, Etc.** This Agreement (a) may be executed in several counterparts, each of which shall be deemed an original, and all of which shall constitute one and the same instrument; (b) except as provided in this Agreement or in the Indenture, may be modified or amended only by an instrument in writing signed by the duly authorized representatives of all parties (or their respective successors or assigns) and, so long as any Bonds are outstanding, only with the consent of the Trustee given in accordance with the applicable provisions of the Indenture; and (c) shall be governed, in all respects including validity, interpretation and effect by, and s hall be enforceable in accordance with, the law of the State. The parties agree that, in accordance with the Act, they will appropriately amend this Agreement to increase the payments to be made by the Company hereunder if for any reason such payments, if made, are not sufficient to pay the principal of and interest and premium, if any, on the Bonds as the same become due but, in no event shall the Company be obligated to pay interest on the principal amount of the Loan in excess of the maximum amount allowed by law.
+
+The Section and other headings contained in this Agreement are for reference purposes only and shall not control or affect its interpretation in any respect. In the event that any clause or provision of this Agreement shall be held to be invalid by any court of competent jurisdiction, the invalidity of such clause or provision shall not affect any of the remaining provisions hereof.
+
+SECTION 11.5. **Term of Agreement**. Except as provided in Article VII of this Agreement, this Agreement shall remain in full force and effect from the date of execution and delivery hereof until the Indenture has been discharged in accordance with the provisions thereof; provided, however, that the provisions of Sections 8.1, 8.5, and the last paragraph of Section 7.1 of this Agreement shall survive any expiration or termination of this Agreement.
+
+SECTION 11.6. **Company's Approval of Indenture**. The Indenture has been submitted to the Company for examination, and the Company acknowledges that, by execution of this Agreement, it has approved the Indenture.
+
+IN WITNESS WHEREOF, the Issuer and the Company have caused this Agreement to be signed in their behalf by their duly authorized representatives as of the date set forth above.
+
+LOUISIANA PUBLIC FACILITIES AUTHORITY
+
+[[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Email: Identity | Signature]]
+__________________________________________
+{{LOUISIANA PUBLIC FACILITIES AUTHORITY Entity => By: [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory First Name]] [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Last Name]]
+Title: [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Title]]}}
+
+Chairman
+
+ATTEST:    
+[[ATTEST Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST Entity => By: [[ATTEST Signatory First Name]] [[ATTEST Signatory Last Name]]
+Title: [[ATTEST Signatory Title]]}}
+
+Assistant Secretary [SEAL]  
+WITNESSES:   
+**/s/ Jacob S. Cogsrun**    
+**/s/ Holly Barham**    
+**[[Company]]**
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Vice President - Tax and Treasurer
+
+WITNESSES:   
+**/s/ Louise King**    
+**/s/ Stephanie G. Knapp**     
+
+\centered **EXHIBIT A**
+
+\centered **DESCRIPTION OF THE PROJECT**
+
+**St. Tammany Parish**  
+Reconductor lines at (i) 441-1421 Hwy. 22 West, Madisonville, LA, (ii) 73010-75100 Hwy. 1077, Covington, LA, and (iii) from coordinates N30.424, W90.077 north to 19558 Helenberg Road, Covington, LA, then west to 69010 Hwy. 190, Covington, LA, then north to 1601 N. Hwy. 190, Covington, LA, and from 2925 N. Hwy. 190, Covington, LA to 614 E. Boston Street, Covington, LA.
+
+Padmounts at (i) 73005-74450 Hwy. 25, Covington, LA, (ii) 58300-59580 Hwy. 433, Slidell, LA, and (iii) Hwy. 1088, Mandeville, LA.
+
+Line at 61025-64023 Hwy. 11, Slidell, LA.
+
+Transformers at (i) Galatas Road substation at 348 Hwy. 1077, Madisonville, LA, (ii) new substation on Military Road, Covington, LA, and (iii) new substation on Hwy. 11, Slidell, LA.
+
+Purchase of Slidell Work Center building and rehabilitation thereof, property and additions located between I-12 and Hwy. 190 on Camp Villerie Road, Slidell, LA.
+
+**Iberia Parish**  
+New Substations at (i) 1100 Macho Grande and Jane Street, New Iberia, LA, and (ii) 7298 Hwy. 90 East, New Iberia, LA.
+
+Installation and replacement of transmission and distribution systems throughout Iberia Parish.
+
+**St. Mary Parish**  
+Installation and replacement of transmission and distribution systems throughout St. Mary Parish.
+
+\centered **EXHIBIT B**
+
+\centered **FORM OF NOTE**
+
+NOTICE: This Note has been endorsed, pledged and assigned by the Louisiana Public Facilities Authority to The Bank of New York Mellon Trust Company, N.A., as trustee under the Indenture (as defined below), and this Note is held in trust by such The Bank of New York Mellon Trust Company, N.A., as trustee, under such Indenture, reference to which is made for the terms on which this Note is held.
+
+$[[USD Value 1]]            _______, 2008  
+FOR VALUE RECEIVED, **[[Company]]**, a Louisiana limited liability company (the "Company"), does hereby promise to pay to the order of the **Louisiana Public Facilities Authority** (hereinafter called the "Issuer") at the corporate trust office of The Bank of New York Mellon Trust Company, N.A. (the "Trustee"), or any successor trustee acting as such under that certain Indenture of Trust (the "Indenture") dated as of [[Date 1]] by and between the Issuer and the Trustee, in lawful money of the United States of America, the principal sum of One Hundred Million Dollars ($[[USD Value 1]]), and to pay interest on the unpaid principal amount hereof, in like money, at such office in the amounts specified in Section 4.1(a) of the Loan Agreement hereinafter referenced.
+
+ALL SUMS paid hereon shall be applied first to the satisfaction of accrued interest and the balance to the unpaid principal.
+
+THIS NOTE is due and payable on [[Date 7: Date]]. Interest on the Note is due and payable on each Interest Payment Date and at maturity in the amounts and at the rate specified in Section 4.1(a) of the Loan Agreement.
+
+THIS NOTE is the Note referred to in that certain Loan Agreement dated as of [[Date 1]] by and between the Company and the Issuer (the "Loan Agreement"), and is subject to, and is executed in accordance with, all of the terms, conditions and provisions thereof, including those respecting prepayment and the acceleration of maturity and is further subject to all of the terms, conditions and provisions of the Indenture, all as provided in the Loan Agreement.
+
+THIS NOTE is a contract made under and shall be construed in accordance with and governed by the laws of the State of Louisiana.
+
+**[[Company]]**    
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Vice President - Tax 
+
+and Treasurer     
+
+\centered ENDORSEMENT
+
+\centered (To be set forth on back of Note)
+
+Pay to the order of The Bank of New York Mellon Trust Company, N.A., as Trustee, without recourse or warranty, except warranty of good title and warranty that the Issuer has not assigned this Note to a person other than the Trustee and that the principal amount of $[[USD Value 1]] remains unpaid under this Note.
+
+LOUISIANA PUBLIC FACILITIES AUTHORITY    
+
+[[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Email: Identity | Signature]]
+__________________________________________
+{{LOUISIANA PUBLIC FACILITIES AUTHORITY Entity => By: [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory First Name]] [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Last Name]]
+Title: [[LOUISIANA PUBLIC FACILITIES AUTHORITY Signatory Title]]}}
+
+Chairman    
+
+\centered **EXHIBIT C**
+
+\centered **FORM OF COMPLETION CERTIFICATE**
+
+The undersigned, a duly authorized officer of **[[Company]]** (the "Company"), hereby certifies that:
+
+^As of the date of this Completion Certificate, **[**the Project has been completed and placed in service**]** OR **[**the Final Payment Date has occurred**]**.
+
+^$____________ is the amount of Proceeds expended for Qualifying Costs, $____________ for Project Costs that were not Qualifying Costs and $_____________ for Issuance Costs.
+
+^**[if the Final Payment Date has not occurred]** $_____________ is the amount which the Trustee is to retain in the Construction Fund for payment of amounts now subject to dispute or not now due.
+
+All capitalized terms used herein shall have the means given to them in the Loan Agreement dated as of [[Date 1]] between the Company and the Louisiana Public Facilities Authority (the "Loan Agreement").
+
+**[[Company]]**   
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Authorized Company Representative  
+Date: ________________________

@@ -1,0 +1,21 @@
+\centered AMENDMENT NO. 1 TO FIRST AMENDED AND RESTATED EXECUTIVE EMPLOYMENT AGREEMENT OF [[First Amendment]]  This is the First Amendment ("First Amendment") to the First Amended and Restated Executive Employment Agreement of [[First Amendment]] originally entered into as of [[Date 1: Date]] (the "Agreement"), by and between [[Executive]], a [[State of Formation: State]] [[Organization: EntityType]], and [[First Amendment]] (the "Executive"). This First Amendment shall apply prospectively and is effective as of [[Date 2: Date]]. WHEREAS, Executive is presently serving the Company as an employee pursuant to the Agreement between the parties (said Agreement including all previous amendments and/or addenda, if any), and the parties desire to modify the Agreement as set forth below. NOW, THEREFORE, in consideration of the mutual covenants and obligations hereinafter set forth, and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:  
+
+\centered 1.   In paragraph 4 of the Agreement, replace the term "[[Date 3: Date]]" with "[[Date 4: Date]]."
+
+\centered 2.   In paragraph 7(a) of the Agreement, replace the content of section (iii) with the following: "(iii) be payable at the annual rate of $[[USD Value 1: Number]] beginning [[Date 2]]."
+
+\centered 3.   In paragraph 8(d) of the Agreement, add the phrase "and tax" between the terms "accounting" and "services", and change the sum "$[[USD Value 3: Number]]" to "$[[USD Value 2: Number]]".
+
+\centered 4.   Except as modified herein, the remainder of the Agreement shall remain unchanged.
+
+EXECUTIVE ACKNOWLEDGES THAT HE HAS BEEN GIVEN THE OPPORTUNITY TO DISCUSS THIS FIRST AMENDMENT WITH HIS PRIVATE LEGAL COUNSEL AND HAS AVAILED HIMSELF OF THAT OPPORTUNITY.  
+
+**First Cash Financial Services, Inc.**      **Executive**
+
+[[First Cash Financial Services Inc.      Executive Signatory Email: Identity | Signature]]
+__________________________________________
+{{First Cash Financial Services Inc.      Executive Entity => By: [[First Cash Financial Services Inc.      Executive Signatory First Name]] [[First Cash Financial Services Inc.      Executive Signatory Last Name]]
+Title: [[First Cash Financial Services Inc.      Executive Signatory Title]]}}
+
+Philip E. Powell      [[First Amendment]]
+Chairman of the Board

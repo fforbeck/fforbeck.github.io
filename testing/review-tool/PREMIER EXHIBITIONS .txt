@@ -1,0 +1,34 @@
+#**  
+
+\centered **PREMIER EXHIBITIONS, INC.** 
+
+\centered **NON-EMPLOYEE DIRECTOR RESTRICTED STOCK UNIT AWARD AGREEMENT (2009 Equity Incentive Plan)** 
+
+Premier Exhibitions, Inc. (the “Company”), pursuant to its 2009 Equity Incentive Plan (the “Plan”), hereby grants to the non-employee director listed below (the “Participant”), the number of units (the “Units”) set forth below (the “Award”). The Award is subject to the terms and conditions of this Restricted Stock Unit Award Agreement (this “Agreement”) and the Plan, which is attached hereto as Exhibit A and incorporated herein by reference. Any capitalized term used but not otherwise defined herein shall have the meaning ascribed to such term in the Plan. 
+
+\centered 
+
+Participant:    [] 
+
+Number of Units awarded:    [] 
+
+Date of grant:    [[Date 1: Date]]  
+
+Period of Restriction: The Period of Restriction shall end on [[Date 2: Date]], or such earlier date as provided in the Plan (the “Vesting Date”), provided that the Participant continuously serves on the Board from the date of grant until the Vesting Date. Notwithstanding the above, the Units shall immediately vest on a pro-rata basis (proportionally to the number of days that the Participant served on the Company’s Board during the 2010 calendar year) upon the Participant’s resignation or other termination from the Board prior to the Vesting Date. Any Units that do not vest shall be forfeited. 
+
+Payment: Once vested, the Units shall be paid to the Participant, in the form of one Share per vested Unit, within 20 days after becoming vested. 
+
+[[Payment Once vested the Units shall be paid to the Participant in the form of one Share per vested Unit within 20 days after becoming vested. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Payment Once vested the Units shall be paid to the Participant in the form of one Share per vested Unit within 20 days after becoming vested. Entity => By: [[Payment Once vested the Units shall be paid to the Participant in the form of one Share per vested Unit within 20 days after becoming vested. Signatory First Name]] [[Payment Once vested the Units shall be paid to the Participant in the form of one Share per vested Unit within 20 days after becoming vested. Signatory Last Name]]
+Title: [[Payment Once vested the Units shall be paid to the Participant in the form of one Share per vested Unit within 20 days after becoming vested. Signatory Title]]}}
+
+
+\centered 
+
+**PREMIER EXHIBITIONS, INC.**    **Participant: [****]** 
+
+[[PREMIER EXHIBITIONS INC.    Participant Signatory Email: Identity | Signature]]
+__________________________________________
+{{PREMIER EXHIBITIONS INC.    Participant Entity => By: [[PREMIER EXHIBITIONS INC.    Participant Signatory First Name]] [[PREMIER EXHIBITIONS INC.    Participant Signatory Last Name]]
+Title: [[PREMIER EXHIBITIONS INC.    Participant Signatory Title]]}}

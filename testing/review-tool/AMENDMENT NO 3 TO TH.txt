@@ -1,33 +1,33 @@
-\centered **AMENDMENT NO. 3**
+\centered **AMENDMENT NO. 3 TO THE NACCO MATERIALS HANDLING GROUP, INC. LONG-TERM INCENTIVE COMPENSATION PLAN FOR THE PERIOD FROM [[Date 2: Date]] THROUGH [[Date 1: Date]]**  **(As Amended and Restated as of [[Date 1]])** 
 
-\centered **TO THE**
+NACCO Materials Handling Group, Inc. hereby adopts this Amendment No. 3 to the NACCO Materials Handling Group, Inc. Long-Term Incentive Compensation Plan For the Period from January 1, 2000 through [[Date 1]] (As Amended and Restated as of December 31, 2007) (the “Plan”), to be effective as of [[Date 3: Date]]. Words used herein with initial capital letters which are defined in the Plan are used herein as so defined. 
 
-\centered **ALLIED MOTION TECHNOLOGIES INC.**
+\centered Section 1 
 
-\centered **YEAR 2000 STOCK INCENTIVE PLAN**
+Section 13 of the Plan is hereby amended by adding the following new Subsection (d) to the end thereof, to read as follows: 
 
-THIS AMENDMENT is made by Allied Motion Technologies Inc., a Colorado corporation (the “Corporation”).
+“(d) Notwithstanding the foregoing, or any other provision of the Plan to the contrary, NACCO Industries, Inc. shall be responsible for the payment of the amounts credited to the 2007 Sub-Accounts of all Participants other than Non-U.S. Participants (including interest) that are due to be paid during the period from [[Date 4: Date]] and [[Date 5: Date]]. In furtherance thereof, but without limiting the foregoing, NACCO Industries, Inc. shall not be responsible for the payment of any other amount under the Plan.” 
 
-WHEREAS, the Corporation entered into and executed the Allied Motion Technologies Inc. Year 2000 Stock Incentive Plan (the “Plan”); and
+EXECUTED this [[Date 6: Date]]. 
 
-WHEREAS, Section 9.1 of the Plan provides that “The Board may at any time terminate, and from time-to-time may amend or modify, the Plan”; and
-
-WHEREAS, the Corporation desires to amend the Plan.
-
-NOW THEREFORE, the Corporation hereby amends the Plan as follows:
-
-***. Section 4.1(b) hereby is amended to read as follows (underlined language added or changed):*
-
-^^^ \centered (b) The maximum number of Shares of Stock that may be issued in conjunction with Restricted Stock Awards granted pursuant to Section 7 shall equal [[Shares 1: Number]] Shares. 
-
-^Except as provided above, the Corporation hereby reaffirms and readopts each and every other provision of the Plan, to the extent not inconsistent with this amendment.
-
-^The effective date of this amendment shall be [[Date 1: Date]], and this amendment shall apply to all currently outstanding stock award agreements and all future stock awards granted under the Plan.
-
-IN WITNESS WHEREOF, the undersigned officer of the Corporation, having been duly authorized by the Board of Directors of the Corporation, has signed this amendment effective as of the date set forth above.
-
-ALLIED MOTION TECHNOLOGIES INC.
-[[ALLIED MOTION TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
+**NACCO MATERIALS HANDLING GROUP, INC.**
+[[NACCO MATERIALS HANDLING GROUP INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{ALLIED MOTION TECHNOLOGIES INC. Entity => By: [[ALLIED MOTION TECHNOLOGIES INC. Signatory First Name]] [[ALLIED MOTION TECHNOLOGIES INC. Signatory Last Name]]
-Title: [[ALLIED MOTION TECHNOLOGIES INC. Signatory Title]]}}
+{{NACCO MATERIALS HANDLING GROUP INC. Entity => By: [[NACCO MATERIALS HANDLING GROUP INC. Signatory First Name]] [[NACCO MATERIALS HANDLING GROUP INC. Signatory Last Name]]
+Title: [[NACCO MATERIALS HANDLING GROUP INC. Signatory Title]]}}
+
+Charles A. Bittenbender
+Title:   Vice President, General Counsel and Secretary
+
+NACCO Industries, Inc. agrees to the terms of this Amendment No. 3. 
+
+EXECUTED this [[Date 6]]. 
+
+**NACCO INDUSTRIES, INC.**
+[[NACCO INDUSTRIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{NACCO INDUSTRIES INC. Entity => By: [[NACCO INDUSTRIES INC. Signatory First Name]] [[NACCO INDUSTRIES INC. Signatory Last Name]]
+Title: [[NACCO INDUSTRIES INC. Signatory Title]]}}
+
+Charles A. Bittenbender
+Title:   Vice President, General Counsel and Secretary

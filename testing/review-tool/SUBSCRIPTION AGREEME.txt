@@ -1,820 +1,214 @@
+______________________________________
+Name of Subscriber
+
 \centered **SUBSCRIPTION AGREEMENT**
 
-This SUBSCRIPTION AGREEMENT (“**Subscription Agreement**”) made as of this ____ day of _______________, 2010, by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “**Company**”), CD Media (Holding) Co., Limited, a company organized in the British Virgin Islands and upon the Closing Date (as defined below) a wholly-owned subsidiary of the Company (“**CD Media BVI**”), Huizhou CD Media Advertisement Co., Ltd., a company organized in the People’s Republic of China and a wholly-owned subsidiary of CD Media BVI (“**CD Media Huizhou**”), and Beijing CD Media Advertisement Co., Ltd., a company organized in the People’s Republic of China and controlled by CD Media Huizhou by contractual agreements and arrangements (“**CD Media Beijing**” and together with CD Media BVI and CD Media Huizhou, the “**CD Media Entities**”), and the undersigned (the “**Subscriber**”).
+GelTech Solutions, Inc. 
+[[Address 1: Address]] 
+Attention: Mr. [[Party 1]]  
+Dear Sirs:  
 
-WHEREAS, the Company, each of the CD Media Entities and Zhang Hailan, an individual and sole shareholder of CD Media BVI, are parties to a certain Share Exchange Agreement dated as of March [___], 2010 (the “**Exchange Agreement**”), pursuant to which CD Media BVI will become a wholly-owned subsidiary of the Company and [[Percentage 1: Number]]% of the outstanding securities of CD Media BVI will be exchanged for securities in the Company (the “**Share Exchange**”). Immediately after the effective time of the Share Exchange (the “**Closing Date**”), the Company will assume the business and operations of CD Media BVI and its subsidiaries.
+^^**Subscription**. I, the undersigned investor (the “Investor”), hereby subscribe for and agree to purchase on the terms and conditions contained herein _______ Units, each Unit consisting of [[Shares 1: Number]] shares of Common Stock and 10,000 Warrants to purchase shares of common stock of GelTech Solutions, Inc., a Delaware corporation (the “Company”). Each Warrant is exercisable at $[[USD Value 9: Number]] per share over a three-year period. The price per Unit is $[[USD Value 1: Number]] I understand the Company is conducting a private placement offering on a “best efforts basis” (the “Offering”) as described in a Term Sheet dated [[Date 1: Date]] (the “Term Sheet”).
 
-WHEREAS, as a condition to the closing of the Share Exchange, the Company intends to obtain subscriptions for the purchase and sale, in a private placement transaction (the “**Offering**”) pursuant to Regulation D promulgated under the Securities Act of 1933, as amended (the “**Act**”), of shares of common stock (the “**Shares**”) of the Company, par value $[[USD Value 8: Number]]1 per share (“**Common Stock**”) on the terms and conditions hereinafter set forth, and the Subscriber desires to acquire that number of Shares set forth on the signature page hereof.
+^^**Subscription Payment.** As payment for this subscription, simultaneously with the execution hereof, I am (i) wire transferring to the Company or (ii) delivering herewith to the Company a check made payable to the Company in the amount of $_______________.
 
-WHEREAS, the Company has entered into a Share and Warrant Cancellation Agreement dated as of March [__], 2010 with each of its stockholders (the “**Share and Warrant Cancellation Agreement**”), pursuant to which each of the Company’s stockholders has agreed to cancel certain shares and warrants held by them in connection with the transactions contemplated by the Exchange Agreement.
+^^**Investor Representations and Warranties**. I acknowledge, represent and warrant to, and agree with, the Company as follows:
 
-NOW, THEREFORE, for and in consideration of the promises and the mutual covenants hereinafter set forth, the parties hereto do hereby agree as follows:
+^^I am aware that my investment involves a high degree of risk;
 
-^**Subscription Procedure**  
-^^Subject to the terms and conditions hereinafter set forth, the Subscriber hereby subscribes for and agrees to purchase from the Company such number of Shares as is set forth upon the signature page hereof at a price per Share calculated pursuant to Section 1.2 below (the “**Purchase Price**”). The Company agrees to sell such Shares to the Subscriber for the Purchase Price, subject to the provisions of Section 1.8 below.
+^^I acknowledge and am aware that there is no assurance as to the future performance of the Company;
 
-^^The per Share purchase price for the Shares shall be calculated as follows:
+^^I am purchasing the Units for my own account for investment and not with a view to or for sale in connection with the distribution of the Units nor with any present intention of selling or otherwise disposing of all or any part of the Units. I agree that I must bear the economic risk of my investment for an indefinite period of time because, among other reasons, the shares have not been registered under the Securities Act of 1933 (the “Securities Act”) or under the securities laws of any states and, therefore, cannot be resold, pledged, assigned or otherwise disposed of unless they are subsequently registered under the Securities Act and under applicable securities laws of such states or an exemption from such registration is available. I hereby authorize the Company to place a legend denoting the restriction on the certificates to be issued. I ackn owledge that no public market may develop for the Warrants.
 
-^^It is understood and agreed that further to the Exchange Agreement, CD Media BVI must have at least US$[[USD Value 1: Number]] (Eight Million Five Hundred Thousand) in net income for the most recently completed fiscal period (the "**Fiscal Period**"), such results to have been verified by CD Media BVI's independent auditors (the "**Auditors**"), such Auditors verifying to each of SRKP 25 and CD Media BVI that it has reviewed such results consistent with the requirements of Rule 10-01(d) of Regulation S-X (or any succeeding provision) (the "**Review**”). CD Media BVI has previously represented to SRKP 25 that it projects net income for the Fiscal Period to be US$[[USD Value 1]] (Eight Million Five Hundred Thousand) (the “**Projection**”);
+^^I further acknowledge my understanding that the Company’s reliance on such exemptions referred to in subsection (c) above are, in part, based upon the foregoing representations, warranties, and agreements by me and that the statutory basis for such exemptions would not be present, if, notwithstanding such representations, warranties and agreements, I were acquiring the Units for resale on the occurrence or non-occurrence of some pre-determined event. In order to induce the Company to issue and sell the Units subscribed for hereby to me, it is agreed that the Company will have no obligation to recognize the ownership, beneficial or otherwise, of such Units or any part thereof by anyone, except as set forth herein;
 
-^^The per Share purchase price for the Shares equals $[[USD Value 9: Number]] multiplied by a fraction (the "**Fraction**"), the denominator of which is the Projection and the numerator of which is the actual net income of CD Media BVI for the Fiscal Period as determined and verified by the Auditors further to the Review, provided however that in no event shall the Fraction be greater than 1. It is understood and agreed that if the Closing Date of the Share Exchange extends beyond the nine month period ending [[Date 1: Date]] (the "**Next Fiscal Period**"), and if SRKP 25 has not opted to terminate the Exchange Agreement further to its terms, CD Media BVI shall provide SRKP 25 an updated projection of net income for the Next Fiscal Period (the "**Updated Projection**") and if after receipt of the Updated Projection SRKP 25 does not then terminate the Exchange Agreement further to its terms, the Fraction shall be adjusted so that the denominator is then the Updated Projection and the numerator is the actual net income of CD Media BVI for the Updated Fiscal Period as determined and verified by the Auditors further to the Review, provided again, however, that in no event shall the Fraction be greater than 1.
+^^I have the financial ability to bear the economic risk of my investment in the Company (including its possible total loss), have adequate means for providing for my current needs and personal contingencies and have no need for liquidity with respect to my investment in the Company;
 
-^^The subscription period will begin on [[Date 2: Date]] and will terminate at 5:00 PM Eastern Standard Time on [[Date 3: Date]], unless extended for up to an additional 90 days by the Company, CD Media BVI and the Placement Agent (as defined below) (the “**Termination Date**”). The Shares will be offered on a “best efforts” basis as more particularly set forth in a Confidential Private Placement Memorandum and any supplements thereto (the “**Offering Memorandum**”), which shall supersede in its entirety that Executive Summary dated [[Date 4: Date]], in addition to other offering memoranda. The Offering will take place through an initial closing on the Closing Date, and there may be one or more subsequent closings of the Offering thereafter, with the closing applicable to this Agreement being referred to as the “Closing.” The final Offering Memorandum will be provided to Subscribers in the Offering no later than one (1) day prior to the applicable Closing. The consummation of the Offering is subject to the satisfaction of a number of conditions to be further described in the Offering Memorandum, one or more of which conditions may not occur.
+^^I have such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of an investment in the Units and have obtained, in my judgment, sufficient information from the Company to evaluate the merits and risks of an investment in the Company;
 
-^^Placement of Shares will be made by WestPark Capital, Inc. (the “**Placement Agent**”), which will receive certain compensation therefore as will be more fully described in the Offering Memorandum.
+^^I: _________________   
+^Have carefully read this Subscription Agreement and the Company’s Form 10-K for the Company’s fiscal year ended [[Date 2: Date]], and all subsequent filings filed with the Securities and Exchange Commission and press releases contained on the Company’s website and understand and have evaluated the risks of a purchase of the Units and have relied solely (except as indicated in subsection (2) and (3)) on the information contained in this Subscription Agreement;
 
-^^The Purchase Price will be placed in escrow pursuant to an escrow agreement (the “**Escrow Agreement**”) by and among the Placement Agent, the Company and Wells Fargo, National Association, as escrow agent (the “**Escrow Agent**”), and such escrowed funds shall be transmitted and maintained in compliance with SEC Rule 15c2-4, as promulgated under the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”), as applicable, and shall be paid over to the Company at the Closing.
+^Have been provided an opportunity to obtain any additional information concerning the Offering, the Company and all other information to the extent the Company possesses such information or can acquire it without unreasonable effort or expense; and
 
-^^The certificates for the Common Stock bearing the name of the Subscriber will be delivered by the Company no later than thirty (30) days following the final Closing of the Offering. The Subscriber hereby authorizes and directs the Company to deliver the securities to be issued to such Subscriber pursuant to this Subscription Agreement to the residential or business address indicated in the Investor Questionnaire, as attached.
+^Have been given the opportunity to ask questions of, and receive answers from, the Company concerning the terms and conditions of the Offering and other matters pertaining to this investment. In addition, as required by Section 517.061(11)(a)(3), Florida Statutes and by Rule 3E-500.05(a) thereunder, I may have, at the offices of the Company, at any reasonable hour, after reasonable prior notice, access to the materials set forth in the Rule which the Company can obtain without unreasonable effort or expense.
 
-^^The Purchase Price for the Shares purchased hereunder shall be paid by wire transfer to the Escrow Agent pursuant to the following instructions:
+^^If the undersigned is a corporation, trust, partnership, employee benefit plan, individual retirement account, Keogh Plan, or other tax-exempt entity, it is authorized and qualified to become an investor in the Company and the person signing this Subscription Agreement on behalf of such entity has been duly authorized by such entity to do so;
 
-Wells Fargo Bank, N.A. 
-ABA # 121000248 
-BNF: Corporate Trust Clearing 
-A/C# 0001038377 
-FFC: Esc A/C #: 82335900 SRKP 25/ Westpark Capital Subscription
+^^No representations or warranties have been made to the undersigned by the Company, or any of their respective officers, employees, agents, affiliates or attorneys;
 
-Attn: Nelia Lopez [[Phone 1]]  
-Or by check:  
-Payable to: Memo: Mailed to:   “Wells Fargo Bank, N.A.” “A/C # 82335900 SRKP 25/ WestPark Capital” [[Address 1: Address]] Attn: Ann Pan [[Phone 2]]
+^^The information contained in Section 2.2 of this Subscription Agreement is true and correct including any information which I have furnished and furnish to the Company with respect to my financial position and business experience, is correct and complete as of the date of this Subscription Agreement and if there should be any material change in such information prior to acceptance of my subscription, I will furnish such revised or corrected information to the Company;
 
-^^The Company and/or CD Media BVI may, in their sole discretion, reject any subscription, in whole or in part, or terminate or withdraw the Offering in its entirety at any time prior to a closing in relation thereto. Neither the Company nor the Placement Agent shall be required to allocate among investors on a pro rata basis in the event of an over-subscription.
+^^I hereby acknowledge and am aware that except for any rescission rights that may be provided under applicable state laws including the three day rights under Florida law, I am not entitled to cancel, terminate or revoke this subscription, and any agreements made in connection herewith shall survive my death or disability;
 
-^**Representations and Covenants of Subscriber**
+^^I have not received any general solicitation or advertising regarding the purchase of the Units and became aware of this investment through a substantive, pre-existing relationship with the Company; and
 
-^^The Subscriber recognizes that the purchase of Shares involves a high degree of risk in that (i) the Company will need additional capital to operate its business but has no assurance of additional necessary capital; (ii) an investment in the Company is highly speculative and only investors who can afford the loss of their entire investment should consider investing in the Company and the Shares; (iii) an investor may not be able to liquidate his, her or its investment; (iv) transferability of the securities comprising the Shares is extremely limited; (v) an investor could sustain the loss of his, her or its entire investment; and (vi) the Company is and will be subject to numerous other risks and uncertainties, including without limitation, significant and material risks relating to the Company’s business and the business and operations of the CD Media Entities, and the industries, markets and geographic regions in which the Company will compete, as well as risks associated with the Offering, the Share Exchange and the other transactions contemplated herein, in the Offering Memorandum and in the Exchange Agreement, all as more fully set forth herein and in the Offering Memorandum. For the avoidance of doubt, all references to the Company in this Section 2.1 include the Company’s business and operations after it acquires the business and operations of the CD Media Entities through the Share Exchange.
+^^Where applicable, I agree to be bound by any restrictions on resale of the Units required by applicable state laws.
 
-^^The Subscriber represents that he, she or it is an “accredited investor” as such term is defined in Rule 501 of Regulation D promulgated under the Act, as indicated by his, her or its responses to the Investor Questionnaire, the form of which is attached hereto as **Exhibit A**, and that he, she or it is able to bear the economic risk of an investment in the Shares. The Subscriber must complete the applicable Investor Questionnaire to enable the Company and CD Media BVI to assess the Subscriber’s eligibility for the Offering.
+^^**Investor Representations and Warranties Concerning Suitability, Accredited Investor and Eligible Client Status.** I represent and warrant the following information:
 
-^^The Subscriber acknowledges that he, she or it has prior investment experience, including without limitation, investment in non-listed and non-registered securities, or he, she or it has employed the services of an investment advisor, attorney or accountant to read all of the documents furnished or made available by the Company or CD Media BVI both to him, her or it and to all other prospective investors in the Shares and to evaluate the merits and risks of such an investment on his, her or its behalf, and that he, she or it recognizes the highly speculative nature of this investment.
+^^The following information should be provided by the person making the investment decision whether on his own behalf or on behalf of an entity:
 
-^^The Subscriber acknowledges receipt and careful review of the Offering Memorandum, this Subscription Agreement, and the attachments hereto and thereto (collectively, the “**Offering Documents**”) and hereby represents that he, she or it has been furnished or given access by the Company or the CD Media Entities during the course of this Offering with or to all information regarding the Company and the CD Media Entities and their respective financial conditions and results of operations which he, she or it had requested or desired to know; that all documents which could be reasonably provided have been made available for his, her or its inspection and review; that he, she or it has been afforded the opportunity to ask questions of and receive answers from duly authorized representatives of the Company and the CD Media Entities concerning the terms and conditions of the Offering, and any additional information which he, she or it had requested. The Subscriber further represents and acknowledges that the Subscriber has not seen or received any advertisement or general solicitation with respect to the sale of any of the securities of the Company, including, without limitation, the Shares.
+^Name of Investor: ____________________________________________________ Age: ____________________________
 
-^^The Subscriber acknowledges that this Offering of Shares may involve tax consequences, and that the contents of the Offering Documents do not contain tax advice or information. The Subscriber acknowledges that he, she or it must retain his, her or its own professional advisors to evaluate the tax and other consequences of an investment in the Shares.
+^Name of person making investment decision
 
-^^The Subscriber acknowledges that this Offering of Shares has not been reviewed or approved by the United States Securities and Exchange Commission (“**SEC**”) because the Offering is intended to be a nonpublic offering pursuant to Section 4(2) of the Act. The Subscriber represents that the Shares are being purchased for his, her or its own account, for investment and not for distribution or resale to others. The Subscriber agrees that he, she or it will not sell or otherwise transfer any of the securities comprising the Shares unless they are registered under the Act or unless an exemption from such registration is available and, upon the Company’s request, the Company receives an opinion of counsel reasonably satisfactory to the Company confirming that an exemption from such registration is available for such sale or transfer.
+___________________________________________________________________ Age: _____________________________
 
-^^The Subscriber understands that the Shares have not been registered under the Act by reason of a claimed exemption under the provisions of the Act which depends, in part, upon his investment intention. The Subscriber realizes that, in the view of the SEC, a purchase now with the intention to distribute would represent a purchase with an intention inconsistent with his or her representation to the Company, and the SEC might regard such a distribution as a deferred sale to which such exemption is not available.
+(Print)  
 
-^^The Subscriber understands that Rule 144 (the “**Rule**”) promulgated under the Act requires, among other conditions, no earlier than twelve months after the Form 10 information of CD Media BVI is filed with the SEC, in addition to a six month holding period prior to the resale (in limited amounts) of securities acquired in a non-public offering, such as the Offering, without having to satisfy the registration requirements under the Act. Except as specifically set forth in Section 4.1, the Subscriber understands that the Company makes no representation or warranty regarding its fulfillment in the future of any reporting requirements under the Securities Exchange Act of 1934, as amended (the “**Exchange Act**”), or its dissemination to the public of any current financial or other information concerning the Company, as is required by Rule 144 as one of the conditions of its availability. The Subscriber consents that the Company may, if it desires, permit the transfer of the Shares out of his, her or its name only when his, her or its request for transfer is accompanied by an opinion of counsel reasonably satisfactory to the Company that neither the sale nor the proposed transfer results in a violation of the Act, any applicable state “blue sky” laws or any applicable securities laws of any other country, province or jurisdiction (collectively, “**Securities Laws**”). The Subscriber agrees to hold the Company, the CD Media Entities and their respective directors, officers and controlling persons and their respective heirs, representatives, successors and assigns harmless and to indemnify them against all liabilities, costs and expenses incurred by them as a result of any misrepresentation made by him, her or it contained herein or in the Investor Questionnaire or any sale or distribution by the undersigned Subscriber in violation of any Securities Laws.
+^Principal residence address and telephone number:
 
-^^The Subscriber consents to the placement of one or more legends on any certificate or other document evidencing his, her or its Shares and the Common Stock included in the Shares stating that they have not been registered under the Act and are subject to the terms of this Subscription Agreement, including the lock up restriction set forth in Section 4.10, and setting forth or referring to the restrictions on the transferability and sale thereof.
+_______________________________________________________________________________________________________
 
-^^The Subscriber understands that the Company and CD Media BVI will review this Subscription Agreement and the Investor Questionnaire and, if the Subscriber is a natural person, the Company and CD Media BVI are hereby given authority by the undersigned to call his, her or its bank or place of employment. The Subscriber further authorizes the Company and CD Media BVI to review the financial standing of the Subscriber; and the Subscriber agrees that the Company and CD Media BVI reserve the unrestricted right to reject or limit any subscription and to close the offer at any time.
+_______________________________________________________________________________________________________
 
-^^The Subscriber hereby represents that the address of Subscriber furnished by his, her or it at the end of this Subscription Agreement and in the Investor Questionnaire is the undersigned’s principal residence if he or she is an individual or its principal business address if it is a corporation or other entity.
+^Secondary residence address and telephone number:
 
-^^The Subscriber acknowledges that if the Subscriber is a Registered Representative of a Financial Industry Regulatory Authority (“**FINRA**”) member firm, he, she or it must give such firm the notice required by the FINRA Conduct Rules, or any applicable successor rules of the FINRA, receipt of which must be acknowledged by such firm on the signature page hereof. The Subscriber shall also notify the Company if the Subscriber or any affiliate of Subscriber is a registered broker-dealer with the SEC, in which case the Subscriber represents that the Subscriber is purchasing the Shares in the ordinary course of business and, at the time of purchase of the Shares, has no agreements or understandings, directly or indirectly, with any person to distribute the Shares or any portion thereof.
+________________________________________________________________________________________________________
 
-^^The Subscriber hereby represents that, except as set forth in the Offering Documents, no representations or warranties have been made to the Subscriber by either the Company or any of the CD Media Entities or their agents, employees or affiliates and in entering into this transaction, the Subscriber is not relying on any information, other than that contained in the Offering Documents and the results of independent investigation by the Subscriber.
+________________________________________________________________________________________________________
 
-^^The Subscriber agrees that he or she will purchase securities in the Offering only if his or her intent at such time is to make such purchase for investment purposes and not with a view toward resale.
+________________________________________________________________________________________________________
 
-^^If the undersigned Subscriber is a partnership, corporation, trust or other entity, such partnership, corporation, trust or other entity further represents and warrants that: (i) it was not formed for the purpose of investing in the Company; (ii) it is authorized and otherwise duly qualified to purchase and hold the Shares; and (iii) that this Subscription Agreement has been duly and validly authorized, executed and delivered and constitutes the legal, binding and enforceable obligation of the undersigned.
+^have no present intention of becoming a resident of any other state or jurisdiction.
 
-^^If the Subscriber is not a United States person, such Subscriber hereby represents that it has satisfied itself as to the full observance of the laws of its jurisdiction in connection with any invitation to subscribe for the Shares or any use of this Subscription Agreement, including (i) the legal requirements within its jurisdiction for the purchase of the Shares, (ii) any foreign exchange restrictions applicable to such purchase, (iii) any governmental or other consents that may need to be obtained, and (iv) the income tax and other tax consequences, if any, that may be relevant to the purchase, holding, redemption, sale or transfer of the Shares. Such Subscriber’s subscription and payment for, and his or her continued beneficial ownership of the Shares, will not violate any applicable securities or other laws of the Subscriber’s jurisdiction.
+^Name, address, telephone number and facsimile number of employer or busines
 
-^^The undersigned hereby covenants and agrees that neither it nor any of its affiliates has or will have an open position (e.g., short sale) in the Common Stock prior to the Registration Statement (as defined below) being declared effective by the SEC with the intent of covering such open position with Common Stock being registered in the Registration Statement. The undersigned hereby acknowledges and understands that the SEC has taken the position that such an open position would constitute a violation of Section 5 of the Act.
+________________________________________________________________________________________________________
 
-^^The Subscriber acknowledges that (i) the Offering Memorandum contains material, non-public information concerning the Company within the meaning of Regulation FD promulgated by the SEC, and (ii) the Subscriber is obtaining such material, non-public information solely for the purpose of considering whether to purchase the Shares pursuant to a private placement that is exempt from registration under the Act. In accordance with Regulation FD and other applicable provisions of the Securities Laws, the Subscriber agrees to keep such information confidential and not to disclose it to any other person or entity except the Subscriber’s legal counsel, other advisors and other representatives who have agreed (i) to keep such information confidential, (ii) to use such information only for the purpose set forth above, and (iii) to comply with applicable securities laws with respect to such information. In addition, the Subscriber further acknowledges that the Subscriber and such legal counsel, other advisors and other representatives are prohibited from trading in the Company’s securities while in possession of material, non-public information and agrees to refrain from purchasing or selling securities of the Company until such material, non-public information has been publicly disseminated by the Company. The Subscriber agrees to indemnify and hold harmless the Company, the CD Media Entities and their respective officers, directors, employees and affiliates and each other person, if any, who controls any of the foregoing, against any loss, liability, claim, damage and expense whatsoever (including, but not limited to, any and all expenses whatsoever reasonably incurred in investigating, preparing or defending against any litigation commenced or threatened or any claim whatsoever) arising out of or based upon any false representation or warranty by the Subscriber, or the Subscriber’s breach of, or failure to comply with, any covenant or agreement made by the Subscriber herein or in any other document furnished by the Subscriber to the Company, the CD Media Entities or their respective officers, directors, employees or affiliates or each other person, if any, who controls any of the foregoing in connection with this transaction.
+________________________________________________________________________________________________________
 
-^^The Subscriber understands and acknowledges that (i) the Shares are being offered and sold to Subscriber without registration under the Act in a private placement that is exempt from the registration provisions of the Act under Section 4(2) of the Act and (ii) the availability of such exemption depends in part on, and that the Company will rely upon the accuracy and truthfulness of, the foregoing representations, and such Subscriber hereby consents to such reliance.
+________________________________________________________________________________________________________
 
-^^The Subscriber understands and acknowledges that he, she or it will at all times be in compliance with any and all state and federal securities and other laws, statutes and regulations regarding his, her or its ownership and/or any sale, transfer or hypothecation of the Shares or shares of the Company’s Common Stock including but not limited to those rules and regulations promulgated by the SEC, FINRA and any exchange on which the Company’s Common Stock is listed, and those of federal and state governments and other agencies such as improper short selling of the Company’s Common Stock and failure to properly file all documents required by the SEC or otherwise.
+^^^Nature of business ______________________________________________________________________________
 
-^**Representations by the Company and the CD Media Entities**
+^^^Position and nature of responsibilities 
 
-Except as set forth in the reports filed by the Company pursuant to the Securities Exchange Act of 1934, as amended (the “**SEC Reports**”), each of the Company and, as applicable, the CD Media Entities severally represent and warrant to the Subscriber that:
+__________________________________________________________________________________________________
 
-^^**Organization and Authority**. The Company and each of the CD Media Entities, and each of their respective subsidiaries, (i) is a corporation or company validly existing and in good standing under the laws of the jurisdiction of its incorporation and formation, as applicable, (ii) has all requisite corporate power or company power, as applicable, and authority to own, lease and operate its properties and to carry on its business as presently conducted, and (iii) has all requisite corporate power or company power, as applicable, and authority to execute, deliver and perform their obligations under this Subscription Agreement and the Offering Documents being executed and delivered by it in connection herewith, and to consummate the transactions contemplated hereby and thereby.
+^Length of employment or in current position _________________________________________________________________
 
-^^**Qualifications**. Each of the Company and the CD Media Entities, and each of their respective subsidiaries, is duly qualified to do business as a foreign corporation or foreign company, as applicable, and is in good standing in all jurisdictions where such qualification is necessary and where failure so to qualify could have a material adverse effect on the business, properties, operations, condition (financial or other), results of operations or prospects of the Company and its subsidiaries (after the effective time of the Share Exchange), taken as a whole.
+^Prior employment, positions or occupations during the past five years (and the inclusive dates of each) are as follows:
 
-^^**Capitalization of the Company**. Immediately after the effective time of the Share Exchange (but before any Closing of this Offering), the authorized capital stock of the Company will consist of [[Shares 1: Number]] shares of Common Stock, $[[USD Value 8]]1 par value per share and [[Shares 2: Number]] shares of “blank check” Preferred Stock, par value $[[USD Value 8]]1 per share. Of the authorized capital stock of the Company, immediately after the effective time of the Share Exchange and including the Shares of Common Stock issued in the Offering, assuming it is fully subscribed at such effective time, and assuming the cancellation of the Maximum Cancelled Shares and the Maximum Cancelled Warrants pursuant to the Share and Warrant Cancellation Agreement at the effective time (as such terms are defined in the Share and Warrant Cancellation Agreement), there will be outstanding [[Shares 3: Number]] shares of Common Stock and 766,667 warrants to purchase shares of Common Stock, and no options to purchase shares of Common Stock. Except as disclosed in the SEC Reports or the Offering Documents, there are no additional outstanding options, warrants, script rights to subscribe to, calls or commitments of any character whatsoever relating to, or securities, rights or obligations convertible into or exchangeable for, or giving any person any right to subscribe for or acquire from the Company, any shares of Common Stock, or contracts, commitments, understandings or arrangements by which the Company or any subsidiary is or may become bound to issue additional shares of Common Stock, or securities or rights convertible or exchangeable into shares of Common Stock. Except as described in the Offering Documents, the issuance and sale of the Shares will not obligate the Company to issue shares of Common Stock or other securities to any person (other than the Subscribers) and will not result in a right of any holder of Company securities to adjust the exercise, conversion, exchange or reset price under such securities. The shares of the Company’s capital stock outstanding immediately after the effective time of the Share Exchange (but before the closing of the Offering) are or will be duly authorized and validly issued and are or will be fully paid and nonassessable. None of the outstanding shares of Common Stock or options, warrants, or rights or other securities entitling the holders to acquire Common Stock has been issued in violation of the preemptive rights of any security holder of the Company. No holder of any of the Company’s securities has any rights, “demand,” “piggy-back” or otherwise, to have such securities registered by reason of the intention to file, filing or effectiveness of the Registration Statement (as defined below), except as contemplated by the Exchange Agreement. The Shares to be issued to the Subscriber have been duly authorized, and when issued and paid for in accordance with this Subscription Agreement, the Common Stock will be duly and validly issued, fully paid and non-assessable will be duly and validly issued, fully paid and non-assessable.
+\centered Nature of Employment,   \centered **or Occupation**      \centered **Position/ Duties**      
 
-^^**Authorization**. The Offering Documents have been duly and validly authorized by the Company and the CD Media Entities. This Subscription Agreement, assuming due execution and delivery by the Subscriber, when the Subscription Agreement is executed and delivered by the Company, will be, valid and binding obligations of the Company, enforceable in accordance with their respective terms, except as the enforceability hereof and thereof may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws now or hereafter in effect relating to or affecting creditors’ rights generally and general principles of equity, regardless of whether enforcement is considered in a proceeding in equity or at law.
+\centered **From/To**
 
-^^**Non-Contravention**. The execution and delivery of the Offering Documents by the Company and the CD Media Entities, the issuance of the Shares as contemplated by the Offering Documents and the completion by the Company and the CD Media Entities of the other transactions contemplated by the Offering Documents do not and will not, with or without the giving of notice or the lapse of time, or both, (i) result in any violation of any provision of the articles of incorporation or by-laws or similar instruments of the Company or the CD Media Entities or their respective subsidiaries, (ii) conflict with or result in a breach by the Company or the CD Media Entities or their respective subsidiaries of any of the terms or provisions of, or constitute a default under, or result in the modification of, or result in the creation or imposition of any lien, security interest, charge or encumbrance upon any of the properties or assets of the Company or the CD Media Entities or their respective subsidiaries, pursuant to any agreements, instruments or documents filed as exhibits to the SEC Reports or any indenture, mortgage, deed of trust or other agreement or instrument to which any of the CD Media Entities or any of their subsidiaries is a party or by which the CD Media Entities or any of their subsidiaries or any of their properties or assets are bound or affected, in any such case which would have a material adverse effect on the business, properties, operations, condition (financial or other), results of operations or prospects of the Company and the CD Media Entities and their respective subsidiaries, taken as a whole, or the validity or enforceability of, or the ability of the Company or the CD Media Entities to perform their obligations under the Offering Documents, (iii) violate or contravene any applicable law, rule or regulation or any applicable decree, judgment or order of any court, United States federal or state regulatory body, administrative agency or other governmental body having jurisdiction over the CD Media Entities or any of their subsidiaries or any of their respective properties or assets that would have a material adverse effect on the business, properties, operations, condition (financial or other), results of operations or prospects of the Company and its subsidiaries (after the effective time of the Share Exchange), taken as a whole, or the validity or enforceability of, or the ability of the Company or the CD Media Entities to perform their obligations under the Offering Documents, or (iv) have any material adverse effect on any permit, certification, registration, approval, consent, license or franchise necessary for the Company or its subsidiaries (after the effective time of the Share Exchange) to own or lease and operate any of its properties and to conduct any of its business or the ability of the Company or its subsidiaries to make use thereof.
+________________________________________________________________________________________________________________
 
-^^**Information Provided**. The Company hereby represents and warrants to the Subscriber that the information set forth in the Offering Memorandum, the SEC Reports as provided by the Company (or the Company’s authorized representatives) to the Subscriber in connection with the transactions contemplated by this Subscription Agreement, does not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they are made, not misleading, it being understood that for purposes of this Section 3.6, any statement contained in such information shall be deemed to be modified or superseded for purposes of this Section 3.6 to the extent that a statement in any document included in such information which was prepared and furnished to the Subscriber on a later date or filed with the SEC on a later date modifies or replaces such statement, whether or not such later prepared and furnished or filed statement so states. Each of the CD Media Entities hereby represents and warrants to the Subscriber that the information set forth in the Offering Memorandum and Offering Documents provided by the CD Media Entities (or their authorized representatives) to the Subscriber in connection with the transactions contemplated by this Subscription Agreement, does not contain any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they are made, not misleading.
+________________________________________________________________________________________________________________
 
-^^**Absence of Certain Proceedings**. Except as disclosed in the SEC Reports, neither the Company nor any of the CD Media Entities is aware of any action, suit, proceeding, inquiry or investigation before or by any court, public board or body, or governmental agency pending or threatened against or affecting the Company or any of the CD Media Entities or any of their respective subsidiaries, in any such case wherein an unfavorable decision, ruling or finding would have a material adverse effect on the business, properties, operations, condition (financial or other), results of operations or prospects of the Company or the CD Media Entities, or the transactions contemplated by the Offering Documents or which could adversely affect the validity or enforceability of, or the authority or ability of the Company or the CD Media Entities to perform their obligations under, the Offering Documents; and to the Company’s and each of the CD Media Entities’ knowledge there is not pending or contemplated any, and there has been no, investigation by the SEC involving the Company or the CD Media Entities or any of their current or former directors or officers.
+________________________________________________________________________________________________________________
 
-^^**Compliance with Law**. Neither the Company nor the CD Media Entities nor any of their respective subsidiaries is in violation of or has any liability under any statute, law, rule, regulation, ordinance, decision or order of any governmental agency or body or any court, domestic or foreign, except where such violation or liability would not individually or in the aggregate have a material adverse effect on the business, properties, operations, condition (financial or other), results of operations or prospects of the Company and its subsidiaries (after the effective time of the Share Exchange), taken as a whole; and to the knowledge of the Company and the CD Media Entities there is no pending investigation that would reasonably be expected to lead to such a claim.
+Attach additional pages to answer any questions in greater detail, if necessary. Each prospective investor should answer the following questions which pertain to income, tax rate, net worth, liquid assets, and non-liquid assets by including spousal contribution even though the investment will be held in single name.
 
-^^**Tax Matters**. The Company, the CD Media Entities and each of their respective subsidiaries has filed all federal, state and local income and franchise tax returns required to be filed and has paid all taxes shown by such returns to be due, and no tax deficiency has been determined adversely to the Company or the CD Media Entities or any of their respective subsidiaries which has had (nor does the Company or the CD Media Entities or any of their respective subsidiaries have any knowledge of any tax deficiency which, if determined adversely to the Company or the CD Media Entities or any of their respective subsidiaries, might have) a material adverse effect on the business, properties, operations, condition (financial or other), results of operations, or prospects of the Company or any of its subsidiaries (after the effective time of the Share Exchange), taken as a whole.
+^Business or profes­sional educa­tion and the degree­(s) received are as follows:
 
-^**Registration Rights**  
-^^**Registration Requirement**. Subject to the terms and limitations hereof, the Company shall file a registration statement on Form S-1 or other appropriate registration document under the Act (the “**Registration Statement**”) for resale of the Shares and all shares held by the stockholders of the Company immediately prior to the Closing Date except those shares held by affiliates of WestPark Capital, Inc. (the “**Registrable Securities**”) and shall use its reasonable best efforts to maintain the Registration Statement effective for a period of twelve (12) months at the Company’s expense (the “**Effectiveness Period**”). The Company shall file such Registration Statement no later than thirty (30) days after the final Closing of the Offering (the “**Registration Filing Date**”), and shall use reasonable best efforts to cause such Registration Statement to become effective within one hundred and fifty (150) days after the Registration Filing Date, or one hundred eighty (180) days after the Registration Filing Date if the Registration Statement is subject to a full review by the SEC.
+\centered School      \centered Degree      
 
-^^**Limitation to Registration Requirement**. Notwithstanding the foregoing, the Company shall not be obligated to effect any registration of the Registrable Securities or take any other action pursuant to this Section 4: (i) in any particular jurisdiction in which the Company would be required to execute a general consent to service of process in effecting such registration, qualification or compliance unless the Company is already subject to service in such jurisdiction and except as may be required by the Act, or (ii) during any period in which the Company suspends the rights of a subscriber after giving the Subscriber written notification of a Potential Material Event (defined below) pursuant to Section 4.6 hereof.
+\centered Year Received
 
-^^**Expenses of Registration**. Except as otherwise expressly set forth, the Company shall bear all expenses incurred by the Company in compliance with the registration obligation of the Company, including, without limitation, all registration and filing fees, printing expenses, fees and disbursements of counsel for the Company incurred in connection with any registration, qualification or compliance pursuant to this Subscription Agreement and all underwriting discounts, selling commissions and expense allowances applicable to the sale of any securities by the Company for its own account in any registration. All underwriting discounts, selling commissions and expense allowances applicable to the sale by Subscriber of Registrable Securities and all fees and disbursements of counsel for the Subscriber shall be borne by the Subscriber.
+________________________________________________________________________________________________________________
 
-^^**Indemnification**.  
-^^To the extent permitted by law the Company will indemnify each Subscriber, each of its officers, directors, agents, employees and partners, and each person controlling such Subscriber, with respect to each registration, qualification or compliance effected pursuant to this Agreement, and each underwriter, if any, and each person who controls any underwriter, and their respective counsel against all claims, losses, damages and liabilities (or actions, proceedings or settlements in respect thereof) arising out of or based on (i) any untrue statement (or alleged untrue statement) of a material fact contained in any prospectus, offering circular or other document prepared by the Company (including any related registration statement, notification or the like) incident to any such registration, qualification or compliance, or (ii) any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, or any violation by the Company of the Act or any rule or regulation thereunder applicable to the Company and relating to action or inaction required of the Company in connection with any such registration, qualification or compliance, and subject to the provisions of Section 4.4(c) below, will reimburse each such Subscriber, each of its officers, directors, agents, employees and partners, and each person controlling such Subscriber, each such underwriter and each person who controls any such underwriter, for any legal and any other expenses as they are reasonably incurred in connection with investigating and defending any such claim, loss, damage, liability or action, provided that the Company will not be liable in any such case to the extent that any such claim, loss, damage, liability or expense arises out of or is based on any untrue statement (or alleged untrue statement) or omission (or alleged omissions) based upon written information furnished to the Company by (or on behalf of) such Subscriber or underwriter, or if the person asserting any such loss, claim, damage or liability (or action or proceeding in respect thereof did not receive a copy of an amended preliminary prospectus or the final prospectus (or the final prospectus as amended and supplemented) at or before the written confirmation of the sale of such Registrable Securities to such person because of the failure of the Subscriber or underwriter to so provide such amended preliminary or final prospectus (or the final prospectus as amended and supplemented); provided, however, that the indemnity agreement contained in this subsection shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Company (which consent shall not be unreasonably withheld), nor shall the Company be liable in any such case for any such loss, claim, damage, liability or action to the extent that it arises out of or is based upon a violation which occurs in reliance upon and in conformity with written information furnished expressly for use in connection with such registration by the Subscriber, any such partner, officer, director, employee, agent or controlling person of such Subscriber, or any such underwriter or any person who controls any such underwriter; provided, however, that the obligations of the Company hereunder shall be limited to an amount equal to the portion of net proceeds represented by the Registrable Securities pursuant to this Subscription Agreement.
+________________________________________________________________________________________________________________
 
-^^To the extent permitted by law, each Subscriber whose Registrable Securities are included in any registration, qualification or compliance effected pursuant to this Subscription Agreement will indemnify the Company, and its directors, officers, agents, employees and each underwriter, if any, of the Company’s securities covered by such a registration statement, each person who controls the Company or such underwriter within the meaning of the Act and the rules and regulations thereunder, each other such Subscriber and each of their officers, directors, partners, agents and employees, and each person controlling such Subscriber, and their respective counsel against all claims, losses, damages and liabilities (or actions in respect thereof) arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in any such registration statement, prospectus, offering circular or other document, or any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, and will reimburse the Company and such Subscribers, directors, officers, partners, persons, underwriters or control persons for any legal or any other expenses as they are reasonably incurred in connection with investigating or defending any such claim, loss, damage, liability or action, in each case to the extent, but only to the extent, that such untrue statement (or alleged untrue statement) or omission (or alleged omission) is made in such registration statement, prospectus, offering circular or other document in reliance upon and in conformity with written information furnished to the Company by such Subscriber; **provided**, **however**, that the obligations of any Subscriber hereunder shall be limited to an amount equal to the net proceeds to such Subscriber from Registrable Securities sold under such registration statement, prospectus, offering circular or other document as contemplated herein; provided, further, that the indemnity agreement contained in this subsection shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Subscriber, which consent shall not be unreasonably withheld or delayed.
+________________________________________________________________________________________________________________
 
-^^Each party entitled to indemnification under this Section (the “**Indemnified Party**”) shall give notice to the party required to provide indemnification (the “**Indemnifying Party**”) promptly after such Indemnified Party has actual knowledge of any claim as to which indemnity may be sought, and shall permit the Indemnifying Party to assume the defense of any such claim or any litigation resulting therefrom, provided that counsel for the Indemnifying Party, who shall conduct the defense of such claim or any litigation resulting therefrom, shall be approved by the Indemnified Party (whose approval shall not unreasonably be withheld), and the Indemnified Party may participate in such defense at such party’s expense; and provided further that if any Indemnified Party reasonably concludes that there may be one or more legal defenses available to it that are not available to the Indemnifying Party, or that such claim or litigation involves or could have an effect on matters beyond the scope of this Agreement, then the Indemnified Party may retain its own counsel at the expense of the Indemnifying Party; and provided further that the failure of any Indemnified Party to give notice as provided herein shall not relieve the Indemnifying Party of its obligations under this Agreement unless and only to the extent that such failure to give notice results in material prejudice to the Indemnifying Party. No Indemnifying Party, in the defense of any such claim or litigation, shall, except with the consent of each Indemnified Party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such Indemnified Party of a release from all liability in respect to such claim or litigation. Each Indemnified Party shall furnish such information regarding itself or the claim in question as an Indemnifying Party may reasonably request in writing and as shall be reasonably required in connection with defense of such claim and litigation resulting therefrom.
+^^**Investor Representations. Must Initial One**. Initial all appropriate spaces on the following pages (please initial only where appropriate).
 
-^^If the indemnification provided for in this Section is held by a court of competent jurisdiction to be unavailable to an Indemnified Party with respect to any loss, liability, claim, damage or expense referred to herein, then the Indemnifying Party, in lieu of indemnifying such Indemnified Party hereunder, shall contribute to the amount paid or payable by such Indemnified Party as a result of such loss, liability, claim, damage or expense in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party on the one hand and of the Indemnified Party on the other in connection with the statements or omissions which resulted in such loss, liability, claim, damage or expense as well as any other relevant equitable considerations. The relative fault of the Indemnifying Party and of the Indemnified Party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission to state a material fact relates to information supplied by the Indemnifying Party or by the Indemnified Party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+For Individual Investors Only:  
+^____I certify that I am an accredited investor because I have an individual net worth, or my spouse and I have combined net worth, in excess of $[[USD Value 2: Number]] For purposes of this question, “net worth” means the excess of total assets at fair market value, including home, home furnishings and automobiles, over total liabilities.
 
-^^**Transfer or Assignment of Registration Rights**. Subject to Section 4.10 of this Subscription Agreement, the Registrable Securities, and any related benefits to the Subscriber hereunder may be transferred or assigned by the Subscriber to a permitted transferee or assignee, as reasonably determined by the Company, provided that the Company is given written notice of such transfer or assignment, stating the name and address of said transferee or assignee and identifying the Registrable Securities with respect to which such registration rights are being transferred or assigned; provided further that the transferee or assignee of such Registrable Securities shall be deemed to have assumed the obligations of the Subscriber under this Subscription Agreement by the acceptance of such assignment and shall, upon request from the Company, evidence such assumption by delivery to the Company of a written agreement assuming such obligations of the Subscriber.
+(2a) ____I certify that I am an accredited investor because I had individual income (exclusive of any income attributable to my spouse) of more than $[[USD Value 3: Number]] in the two most recent calendar years and I reasonably expect to have an individual income in excess of $[[USD Value 3]] in the current year.
 
-^^**Registration Procedures**. In the case of the registration effected by the Company pursuant to this Subscription Agreement, the Company will keep the Subscriber advised in writing as to the initiation of each registration and as to the completion thereof. The Company will:
+(2b) ____Alternatively, my spouse and I have joint income in excess of $[[USD Value 4: Number]] in each applicable year.
 
-^^Prepare and file with the SEC such amendments and supplements to such registration statement and the prospectus used in connection with such registration statement as may be necessary to comply with the provisions of the Act with respect to the disposition of securities covered by such registration statement;
+^____I am a director or executive officer of the Company.
 
-^^Respond as promptly as reasonably practicable to any comments received from the SEC with respect to a registration statement or any amendment thereto.
+Other Investors:  
+^____The undersigned certifies that it is one of the following: any bank as defined in Section 3(a)(2) of the Securities Act whether acting in its individual or fiduciary capacity; any broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934; insurance company as defined in Section 2(13) of the Securities Act; investment company registered under the Investment Company Act of 1940 or a business development company as defined in Section 2(a)(48) of that Act; Small Business Investment Company licensed by the U.S. Small Business Administration under Section 301(c) or (d) of the Small Business Invest­ment Act of 1958; any plan established and maintained by a state, its political subdivisions, or any age ncy or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $[[USD Value 5: Number]]; employee benefit plan within the meaning of Title I of the Employee Retirement Income Security Act of 1974, if the investment decision is made by a plan fiduciary, as defined in Section 3(21) of such Act, which is either a bank, savings and loan association, insurance company, or registered investment advisor, or if the employee benefit plan has total assets in excess of $[[USD Value 6: Number]] or if a self-directed plan, with investment decisions made solely by persons that are accredited investors.
 
-^^Notify the Subscriber as promptly as reasonably practicable and (if requested by any such person) confirm such notice in writing no later than one (1) trading day following the day (A) when a prospectus or any prospectus supplement or post-effective amendment to a registration statement is proposed to be filed and (B) with respect to a registration statement or any post-effective amendment, when the same has become effective;
+^____The undersigned certifies that it is a private business development company as defined in Section 202(a)(22) of the Investment Advisors Act of 1940.
 
-^^Furnish such number of prospectuses and other documents incident thereto, including supplements and amendments, as the Subscriber may reasonably request;
+^____The undersigned certifies that it is a organization described in Section 501(c)(3) of the Internal Revenue Code, corporation, Massachusetts or similar business trust or partnership, not formed for the specific purpose of acquiring the Units offered, with total assets in excess of $[[USD Value 7: Number]]
 
-^^Furnish to the Subscriber, upon request, a copy of all documents filed with and all correspondence from or to the SEC in connection with any such registration statement other than non-substantive cover letters and the like;
+^____The undersigned certifies that it is a trust, with total assets in excess of $[[USD Value 8: Number]]­000, not formed for the specific purpose of acquiring the Units offered, whose purchase is directed by a sophisticated person as descri­bed in Rule 506(b)(2)(ii) of the Securities Act.
 
-^^Use its reasonable best efforts to avoid the issuance of, or, if issued, obtain the withdrawal of (i) any order suspending the effectiveness of a registration statement, or (ii) any suspension of the qualification (or exemption from qualification) of any of the Registrable Securities for sale in any jurisdiction, at the earliest practicable moment; and
+^____The undersigned certifies that it is an entity in which all of the equity owners are accredited investors.
 
-^^Use its reasonable best efforts to comply with all applicable rules and regulations of the SEC.
+^____ I am none of the above.  
 
-Notwithstanding the foregoing, if at any time or from time to time after the date hereof, the Company notifies the Subscriber in writing of the existence of an event or circumstance that is not disclosed in the Registration Statement and that may have a material effect on the Company or its business (a “**Potential Material Event**”), the Subscriber shall not offer or sell any Registrable Securities, or engage in any other transaction involving or relating to the Registrable Securities, from the time of the giving of notice with respect to a Potential Material Event until the Company notifies the Subscriber that such Potential Material Event either has been added to the Registration Statement by amendment or supplement or no longer constitutes a Potential Material Event; **provided**, that the Company may not so suspend the right of Subscriber for more than 120 days in the aggregate.
+^**Indemnification**. I hereby agree to indemnify and hold harmless the Company, its officers, directors, shareholders, employees, agents and attorneys against any and all losses, claims, demands, liabilities and expenses (including reasonable legal or other expenses) incurred by each such person in connection with defending or investigating any such claims or liabilities, whether or not resulting in any liability to such person) to which any such indemnified party may become subject under the Securities Act, under any other statute, at common law or otherwise, insofar as such losses, claims, demands, lia bilities and expenses (a) arise out of or are based upon any untrue statement or alleged untrue statement of a material fact made by me and contained in this Subscription Agreement, or (b) arise out of or are based upon any breach of any representation, warranty or agreement contained herein.
 
-^^**Statement of Beneficial Ownership**. The Company may require the Subscriber to furnish to the Company a certified statement as to the number of shares of Common Stock beneficially owned by such Subscriber and the controlling person thereof and any other such information regarding the Subscriber, the Registrable Securities held by the Subscriber and the intended method of disposition of such securities as shall be reasonably required with respect to the registration of the Subscriber’s Registrable Securities. The Subscriber hereby understands and agrees that the Company may, in its sole discretion, exclude the Subscriber’s shares of Common Stock from the Registration Statement in the event that the Subscriber fails to provide such information requested by the Company within the time period reasonably specified by the Company or is required to do so by law or the SEC.
+^**Arbitration**. Any controversy, dispute or claim against the Company, its officers, directors or employees arising out of or relating to this Subscription Agreement, or its interpretation, application, implementation, breach or enforcement which the parties are unable to resolve by mutual agreement, shall be settled by submission by either party of the controversy, claim or dispute to binding arbitration in Palm Beach County, Florida (unless the parties agree in writing to a different location) before three arbitrators in accordance with the rules of the American Arbitration Association then in effect. In any such arbitration proceeding, the parties agree to provide all discovery deemed necessary by the arbitrators. The decision and award made by the arbitrators shall be final, binding and conclusive on all parties to any arbitration proceeding for all purposes, and judgment may be entered thereon in any court having jurisdiction thereof.
 
-^^**Compliance**. Subscriber covenants and agrees that if the Shares are sold under a registration statement, that the Shares will only be disposed of pursuant to an effective statement under, and in compliance with the requirements of, the Act, including in accordance with the plan of distribution set forth in the registration statement and in compliance with the prospectus delivery requirements of the Act as applicable to such Subscriber in connection with sales of Registrable Securities pursuant to the registration statement required hereunder. Subscriber understands and acknowledges that the Company and the Company’s counsel may rely on the statements and covenants made in this Section for purposes of providing a legal opinion to the transfer agent for removal of a restrictive legend under the Act.
+^**Counterparts**. This Subscription Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. The execution of this Subscription Agreement may be by actual or facsimile signature.
 
-^^**Piggy-Back Registrations**. If at any time during the Effectiveness Period there is not an effective registration statement covering all of the Registrable Securities and the Company shall determine to prepare and file with the SEC a registration statement relating to an offering for its own account or the account of others under the Act of any of its Common Stock, other than an offering of securities issued pursuant to a Strategic Issuance (as defined below) and other than a Form S-4 or Form S-8 registration statement (each as promulgated under the Act or their then equivalents relating to equity securities to be issued solely in connection with any business combination transaction, acquisition of any entity or business or equity securities issuable in connection with stock option or other employee benefit plans), then the Company shall send to the Subscriber (together with any other holders of its Common Stock possessing “piggyback registration rights” comparable to those granted to the Subscriber hereunder (“**Rightsholders**”)) written notice of such determination and, if within fifteen (15) days after receipt of such notice, the Subscriber shall so request in writing, the Company shall include in such registration statement all or any part of such Registrable Securities such Subscriber requests to be registered; provided that the Company shall not be required to register any Registrable Securities pursuant to this Section that are eligible for resale pursuant to Rule 144 promulgated under the Act; and provided further that the Company may, without the consent of the Subscriber, withdraw such registration statement before its becoming effective if the Company or other stockholders have elected to abandon the proposal to register the securities proposed to be registered thereunder. If the registration statement is being filed for an underwritten public offering, the Subscriber must timely execute and deliver the usual and customary agreement among the Company, such Subscriber and the underwriters relating to the registration including a lock-up agreement if requested by the underwriters with respect to any shares of Common Stock not included in the registration, on terms no less favorable than those agreed to by the Company, its directors and its officers. If the registration statement is being filed for an underwritten offer and sale by the Company of securities for its own account and the managing underwriters advise the Company in writing that in their opinion the offering contemplated by the registration statement cannot be successfully completed if the Company were to also register the Registrable Shares of the Subscriber requested to be included in such registration statement, then the Company will include in the registration: (i) first, any securities the Company proposes to sell, (ii) second, any securities of any person whose securities are being registered as a result of the exercise of a demand registration right, and (iii) third, that portion of the aggregate number of shares being requested for inclusion in the registration statement by (X) the Subscriber and (Y) all other Rightsholders, which in the opinion of such managing underwriters can successfully be sold, such number of shares to be taken **pro rata** from the Rightsholders on the basis of the total number of shares being requested for inclusion in the registration statement by each Rightsholder. “Strategic Issuance” shall mean an issuance of securities: (i) in connection with a “corporate partnering” transaction or a “strategic alliance” (as determined by the Board of Directors of the Company in good faith); (ii) in connection with any financing transaction in respect of which the Company is a borrower; or (iii) to a vendor, lessor, lender, or customer of the Company, or a research, manufacturing or other commercial collaborator of the Company, in a transaction approved by the Board of Directors, provided in any case, that such issuance is not being made primarily for the purpose of avoiding compliance with this Subscription Agreement.
+^**Benefit**. This Subscription Agreement shall be binding upon and inure to the benefit of the parties hereto and their legal representatives, successors and assigns.
 
-^^**“Lock-Up” Agreement**.   
-^^The Subscriber agrees that it, he or she shall not, directly or indirectly sell, assign, exchange, distribute, offer to sell, contract to sell (including, without limitation, any short sale), hypothecate, pledge, grant any option to purchase or otherwise transfer or dispose of any Shares of the Company held by it, him or her and purchased further to this Subscription Agreement, at any time from the date hereof except as provided below (the “**Lock-Up Restrictions**”).
+^**Notices and Addresses**. All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressees in person, by Federal Express or similar overnight next business day delivery, or by facsimile delivery followed by overnight next business day delivery, as follows:
 
-^^If the aggregate dollar amount of shares sold in the underwritten public offering, including the dollar amount of shares sold in any over-allotment options exercised in connection therewith (the “**Public Offering**”), that the Company intends to conduct in connection with its application for listing or quotation of the Company's Common Stock on either the New York Stock Exchange, NYSE Amex, NASDAQ Global Market, NASDAQ Capital Market or the OTC Bulletin Board (the “**Listing**”) is in an amount that is equal to or greater than $[[USD Value 7: Number]] million, the Lock-Up Restrictions shall be released in full on the date that is six (6) months from the date of such Listing (the “**Listing Date**”).
+\centered Investor:   At the address designated in Section 2.2 of this Subscription Agreement 
+The Company:   GelTech Solutions, Inc. [[Address 2: Address]] Attention: Mr. [[Party 1]] Facsimile: [[Phone 1]]  
 
-^^If the aggregate dollar amount of shares sold by the Company in the Public Offering is less than $[[USD Value 7]] million, one-tenth (1/10) of the Shares acquired hereunder shall be automatically released from the Lock-Up Restrictions on the date that is ninety (90) days after the Listing Date (the “**Initial Release Date**”) and thereafter the Shares will be released every thirty (30) days after the Initial Release Date on a pro rata basis over the next nine (9) months.
+or to such other address as any of them, by notice to the other may designate from time to time. The transmission confirmation receipt from the sender’s facsimile machine shall be evidence of successful facsimile delivery. Time shall be counted from the date of transmission.
 
-^^Notwithstanding anything in this Section 4.10, there shall be no release from the Lock-Up Restrictions, in any event, until and unless the Subscriber provides written confirmation (the “**Confirmation**”) to WestPark and the Company that he, she or it is and has at all times been in compliance with the provisions of Section 2.20 herein, it being understood and agreed that the failure to provide such written confirmation shall be sufficient grounds to allow WestPark to decline, in its sole discretion, to allow the automatic release of such Shares until the expiration in totality of the referenced Lock-Up Restrictions.
+^**Governing Law**. This Subscription Agreement and any dispute, disagreement, or issue of construction or interpretation arising hereunder whether relating to its execution, its validity, the obligations provided therein or performance shall be governed or interpreted according to the laws of the State of Delaware.
 
-^^WestPark Capital, Inc., in its discretion, may release some or all the Shares earlier than the schedule set forth in this section provided however that any such earlier release shall be made pro rata with respect to all shares sold in the Offering. In order to enforce the foregoing covenant, the Company may impose stop-transfer instructions with respect to and place restrictive legends (the “**Lock-Up Legend**”) with the Company’s transfer agent on the certificates evidencing the Shares of the Company, and the Subscriber agrees to further execute a lock-up agreement which encompasses the terms of this Section 4.10, in substantially the form attached hereto as **Exhibit B**, the Lock-Up Legend being set forth and defined in such agreement.
+^**Oral Evidence**. This Subscription Agreement constitutes the entire Subscription Agreement between the parties and supersedes all prior oral and written agreements between the parties hereto with respect to the subject matter hereof. Neither this Subscription Agreement nor any provision hereof may be changed, waived, discharged or terminated orally, except by a statement in writing signed by the party or parties against which enforcement or the change, waiver discharge or termination is sought.
 
-^**Miscellaneous**  
-^^Any notice or other communication given hereunder shall be deemed sufficient if in writing and sent by registered or certified mail, return receipt requested, addressed to the Company, c/o Beijing CD Media Advertisement Co., Ltd., Room 801, No. 7, Wenchang Er Road, Huicheng District, Huizhou, People’s Republic of China 516001, Attention: Huihua Li, with a copy to (which shall not constitute notice) K&L Gates LLP, 10100 Santa Monica Blvd., Seventh Floor, Los Angeles, California 90067, Attention: Thomas J. Poletti, Esq., and to the Subscriber at his address indicated on the signature page of this Subscription Agreement. Notices shall be deemed to have been given three (3) business days after the date of mailing, except notices of change of address, which shall be deemed to have been given when received.
+^**Section Headings**. Section headings herein have been inserted for reference only and shall not be deemed to limit or otherwise affect, in any matter, or be deemed to interpret in whole or in part any of the terms or provisions of this Subscription Agreement.
 
-^^This Subscription Agreement may be amended through a written instrument signed by the Subscriber, the CD Media Entities and the Company; provided, however, that the terms of Section 4 of this Subscription Agreement may be amended without the consent or approval of the Subscriber so long as such amendment applies in the same fashion to the subscription agreements of all of the other subscribers for Shares in the Offering and at least holders of a majority of the Shares sold in the Offering have given their approval of such amendment, which approval shall be binding on all holders of Shares.
+^**Survival of Representations, Warranties and Agreements**. The representations, warranties and agreements contained herein shall survive the delivery of, and payment for, the Units.
 
-^^This Subscription Agreement shall be binding upon and inure to the benefit of the parties hereto and to their respective heirs, legal representatives, successors and assigns. This Subscription Agreement sets forth the entire agreement and understanding between the parties as to the subject matter hereof and merges and supersedes all prior discussions, agreements and understandings of any and every nature among them.
+^**Acceptance of Subscription**. The Company may accept this Subscription Agreement at any time for all or any portion of the Units subscribed for by executing a copy hereof as provided and notifying me within a reasonable time thereafter.
 
-^^Notwithstanding the place where this Subscription Agreement may be executed by any of the parties hereto, the parties expressly agree that all the terms and provisions hereof shall be construed in accordance with and governed by the laws of the State of Delaware.
+**FLORIDA SALES** 
+FLORIDA LAW PROVIDES THAT WHEN SALES ARE MADE TO FIVE OR MORE PERSONS IN FLORIDA, ANY SALE MADE IN FLORIDA IS VOIDABLE BY THE PURCHASER WITHIN THREE DAYS AFTER THE FIRST TENDER OF CONSIDERATION IS MADE BY SUCH PURCHASER TO THE COMPANY, AN AGENT OF THE COMPANY OR AN ESCROW AGENT OR WITHIN THREE DAYS AFTER THE AVAILABILITY OF THAT PRIVILEGE IS COMMUNICATED TO SUCH PURCHASER, WHICHEVER OCCURS LATER. ALL SALES ARE BEING MADE IN FLORIDA. PAYMENTS FOR TERMINATED SUBSCRIPTIONS VOIDED BY PURCHASERS AS PROVIDED FOR IN THIS PARAGRAPH WILL BE PROMPTLY REFUNDED WITHOUT INTEREST. NOTICE SHOULD BE GIVEN TO THE COMPANY TO THE ATTENTION OF [[Party 1]] AT THE ADDRESS SET FORTH ON THE COVER PAGE OF THIS SUBSCRIPTION AGREEMENT.
 
-^^This Subscription Agreement may be executed in counterparts. It shall not be binding upon the Company and the CD Media Entities unless and until it is accepted by the Company and the CD Media Entities. Upon the execution and delivery of this Subscription Agreement by the Subscriber, this Subscription Agreement shall become a binding obligation of the Subscriber with respect to the purchase of Shares as herein provided; subject, however, to the right hereby reserved to the Company to enter into the same agreements with other subscribers and to add and/or to delete other persons as subscribers. This Agreement may be executed and delivered by facsimile.
+**Individual Investors**  
 
-^^The holding of any provision of this Subscription Agreement to be invalid or unenforceable by a court of competent jurisdiction shall not affect any other provision of this Subscription Agreement, which shall remain in full force and effect.
+Social Security Number   Print Name of Investor
 
-^^It is agreed that a waiver by either party of a breach of any provision of this Subscription Agreement shall not operate, or be construed, as a waiver of any subsequent breach by that same party.
+Signature of Investor
 
-^^The parties agree to execute and deliver all such further documents, agreements and instruments and take such other and further action as may be necessary or appropriate to carry out the purposes and intent of this Subscription Agreement.
+Manner in which Units are to be held:  
+_____ Individual Ownership   _____ Partnership
 
-^^The Company agrees not to disclose the names, addresses or any other information about the Subscribers, except as required by law, provided that the Company may provide information relating to the Subscriber as required in any registration statement under the Act that may be filed by the Company pursuant to the requirements of this Subscription Agreement.
+_____ Tenants-in-Common   _____ Trust
 
-^^The obligation of the Subscriber hereunder is several and not joint with the obligations of any other subscribers for the purchase of Shares in the Offering (the “**Other Subscribers**”), and the Subscriber shall not be responsible in any way for the performance of the obligations of any Other Subscribers. Nothing contained herein or in any other agreement or document delivered at the Closing, and no action taken by the Subscriber pursuant hereto, shall be deemed to constitute the Subscriber and the Other Subscribers as a partnership, an association, a joint venture or any other kind of entity, or create a presumption that the Subscriber and the Other Subscribers are in any way acting in concert with respect to such obligations or the transactions contemplated by this Subscription Agreement. The Subscriber shall be entitled to protect and enforce the Subscriber’s rights, including without limitation the rights arising out of this Subscription Agreement, and it shall not be necessary for any Other Subscriber to be joined as an additional party in any proceeding for such purpose. The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rules of strict construction will be applied against any party. The Subscriber is not acting as part of a “group” (as that term is used in Section 13(d) of the Exchange Act) in negotiating and entering into this Subscription Agreement or purchasing the Shares or acquiring, disposing of or voting any of the underlying shares of Common Stock. The Company hereby confirms that it understands and agrees that the Subscriber is not acting as part of any such group.
 
-\centered [SIGNATURE PAGE FOLLOWS]
 
-IN WITNESS WHEREOF, the parties have executed this Subscription Agreement as of the day and year first written above.
+_____ Tenants by the Entirety   _____ Employee Benefit Plan
 
-Full Legal Name of Subscriber (Please print)         Full Legal Name of Co-Subscriber (if applicable)
+_____ Community Property   _____ Other (please indicate)
 
-Signature of (or on behalf of) Subscriber         Signature of or on behalf of Co-Subscriber (ifapplicable)
+_____ Separate Property
 
-Name: Title:
+**Corporate or Other Entity**  
 
-Address of Subscriber         Address of Co-Subscriber (if applicable)
+Federal ID Number      Print Name of Entity
 
-Social Security or Taxpayer         Social Security or Taxpayer Identification
-Identification Number of Subscriber         Number of Co-Subscriber (if applicable)
-
-Total dollar amount of investment
-
-No. of Shares subscribed for equals the investment dollar amount divided by the per Share purchase price calculated pursuant to Section 1.2 of this Subscription Agreement; no fractional shares; no rounding up
-
-Subscription Agreed to and Accepted  
-[[Company]]      **CD MEDIA (HOLDING) CO., LIMITED**
-
-[[Company Signatory Email: Identity | Signature]]
+[[Federal ID Number      Print Name of Entity Signatory Email: Identity | Signature]]
 __________________________________________
-{{Company Entity => [[{{Company Entity => Signatory Email: Identity | Signature]]
+{{Federal ID Number      Print Name of Entity Entity => By: [[Federal ID Number      Print Name of Entity Signatory First Name]] [[Federal ID Number      Print Name of Entity Signatory Last Name]]
+Title: [[Federal ID Number      Print Name of Entity Signatory Title]]}}
+
+Signature, Title
+
+DATED: ______  
+
+[[DATED Signatory Email: Identity | Signature]]
 __________________________________________
-{{{{Company Entity => Entity => By: [[{{Company Entity => Signatory First Name]] [[{{Company Entity => Signatory Last Name]]
-Title: [[{{Company Entity => Signatory Title]]}}
- [[Company Signatory First Name]] [[Company Signatory Last Name]]
-Title: [[Company Signatory Title]]}}
-   [[Party 3 Signatory Email: Identity | Signature]]
+{{DATED Entity => By: [[DATED Signatory First Name]] [[DATED Signatory Last Name]]
+Title: [[DATED Signatory Title]]}}
+
+
+GelTech Solutions, Inc.  
+[[GelTech Solutions Inc. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Party 3 Entity => By: [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
-Title: [[Party 3 Signatory Title]]}}
+{{GelTech Solutions Inc. Entity => By: [[GelTech Solutions Inc. Signatory First Name]] [[GelTech Solutions Inc. Signatory Last Name]]
+Title: [[GelTech Solutions Inc. Signatory Title]]}}
 
-Name:   Richard Rappaport      Name:
-Title:   President      Title:
-
-**HUIZHOU CD MEDIA** **ADVERTISEMENT CO., LTD.**      **BEIJING CD MEDIA** **ADVERTISEMENT CO., LTD.**
-
-[[HUIZHOU CD MEDIA ADVERTISEMENT CO. LTD.      BEIJING CD MEDIA ADVERTISEMENT CO. LTD. Signatory Email: Identity | Signature]]
-__________________________________________
-{{HUIZHOU CD MEDIA ADVERTISEMENT CO. LTD.      BEIJING CD MEDIA ADVERTISEMENT CO. LTD. Entity => By: [[HUIZHOU CD MEDIA ADVERTISEMENT CO. LTD.      BEIJING CD MEDIA ADVERTISEMENT CO. LTD. Signatory First Name]] [[HUIZHOU CD MEDIA ADVERTISEMENT CO. LTD.      BEIJING CD MEDIA ADVERTISEMENT CO. LTD. Signatory Last Name]]
-Title: [[HUIZHOU CD MEDIA ADVERTISEMENT CO. LTD.      BEIJING CD MEDIA ADVERTISEMENT CO. LTD. Signatory Title]]}}
-
-
-\centered **Exhibit A-1**
-
-\centered **Corporate Investor** **Questionnaire**
-
-\centered **Name:**  
-
-IMPORTANT:  
-Please Complete  
-
-\centered **CORPORATE INVESTOR QUESTIONNAIRE**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered **__________________**
-
-[[Company]] 
-c/o WestPark Capital, Inc. 
-[[Address 2: Address]] 
-Attn: Richard Rappaport  
-CD Media (Holding) Co., Limited 
-c/o Beijing CD Media Advertisement Co., Ltd.
-
-Room 801, No. 7, Wenchang Er Road, Huicheng District,
-
-Huizhou, People’s Republic of China 516001
-
-Attention: Huihua Li  
-
-The information contained in this Corporate Investor Questionnaire is being furnished in order to determine whether the undersigned Corporation’s subscription to purchase shares of common stock (the “**Shares**”) of CD Media (Holding) Co., Limited and [[Company]] (the “**Company**”), may proceed.
-
-This Questionnaire should be completed, signed, dated and a copy should be sent to WestPark Capital, Inc. (the “**Placement Agent**”) via facsimile at [[Phone 3]] or electronic format (e.g., PDF) to [[Email 1]]. Please keep a copy for your files.
-
-\centered A-1 (1)
-
-ALL INFORMATION CONTAINED IN THIS QUESTIONNAIRE WILL BE TREATED CONFIDENTIALLY. The undersigned Corporation understands, however, that the Company may present this Questionnaire to such parties as it deems appropriate if called upon to establish that the proposed offer and sale of the Shares in the Company is exempt from registration under the Securities Act of 1933, as amended, or meets the requirements of applicable state securities or “blue sky” laws. Further, the undersigned Corporation understands that the offering is required to be reported to the Securities and Exchange Commission and to various state securities or “blue sky” regulators.
-
-^^^**PLEASE CHECK ANY OF STATEMENTS 1-3 BELOW THAT APPLY TO**
-
-**THE CORPORATION.**
-
-¨ 1.   Each of the shareholders of the undersigned Corporation is able to certify that such shareholder meets at least one of the following two conditions:
-
-^^The shareholder is a natural person whose individual net worth* or joint net worth with his or her spouse exceeds $[[USD Value 2: Number]]; or
-
-^^The shareholder is a natural person who had an individual income* in excess of $[[USD Value 3: Number]] in each of the previous two years and who reasonably expects an individual income in excess of $[[USD Value 3]] this year.
-
-¨ 2.   Each of the shareholders of the undersigned Corporation is able to certify that such shareholder is a natural person who, together with his or her spouse, has had a joint income in excess of $[[USD Value 4: Number]] in each of the previous two years and who reasonably expects a joint income in excess of $[[USD Value 4]] this year.
-
-¨ 3.   The undersigned Corporation: (a) was not formed for the specific purpose of acquiring the Shares; and (b) has total assets in excess of $[[USD Value 5: Number]]
-
-____________________  
-*   For purposes of this Questionnaire, the term “net worth” means the excess of total assets over total liabilities. In determining income, an investor should add to his or her adjusted gross income any amounts attributable to tax-exempt income received, losses claimed as a limited partner in any limited partnership, deductions claimed for depletion, contributions to IRA or Keogh retirement plans, alimony payments and any amount by which income from long-term capital gains has been reduced in arriving at adjusted gross income.
-
-\centered A-1 (2)
-
-IF YOU CHECKED STATEMENT 1 OR STATEMENT 2 IN SECTION I, ABOVE, AND DID NOT CHECK STATEMENT 3, YOU MUST PROVIDE A LETTER SIGNED BY AN OFFICER OF THE UNDERSIGNED CORPORATION LISTING THE NAME OF EACH SHAREHOLDER AND THE REASON (UNDER STATEMENT 1 OR STATEMENT 2) WHY SUCH SHAREHOLDER QUALIFIES AS AN ACCREDITED INVESTOR (ON THE BASIS OF NET WORTH, INDIVIDUAL INCOME OR JOINT INCOME), OR EACH SHAREHOLDER MUST PROVIDE A COMPLETED INDIVIDUAL INVESTOR QUESTIONNAIRE (PAGES A-1 (2) TO A-1 (6)).
-
-^^^OTHER CERTIFICATIONS  
-[[II. OTHER CERTIFICATIONS Signatory Email: Identity | Signature]]
-__________________________________________
-{{II. OTHER CERTIFICATIONS Entity => By: [[II. OTHER CERTIFICATIONS Signatory First Name]] [[II. OTHER CERTIFICATIONS Signatory Last Name]]
-Title: [[II. OTHER CERTIFICATIONS Signatory Title]]}}
-
-\centered (a)   that the Corporation’s purchase of Shares will be solely for the Corporation’s own account and not for the account of any other person or entity; 
-
-^^that the Corporation’s name, address of principal office, place of incorporation and taxpayer identification number as set forth in this Questionnaire are true, correct and complete; and 
-
-^^that one of the following is true and correct (check one):  
-
-\centered ¨ (i)   the Corporation is a corporation organized in or under the laws of the United States or any political subdivision thereof. 
-
-^^(ii)   the Corporation is a corporation which is neither created nor organized in or under the United States or any political subdivision thereof, but which has made an election under either Section 897(1) or 897(k) of the United States Internal Revenue Code of 1986, as amended, to be treated as a domestic corporation for certain purposes of United States federal income taxation (A COPY OF THE INTERNAL REVENUE SERVICE ACKNOWLEDGMENT OF THE UNDERSIGNED’S ELECTION MUST BE ATTACHED TO THIS QUESTIONNAIRE IF THIS PROVISION IS APPLICABLE). 
-
-^^(iii)   neither (1) nor (ii) above is true.  
-
-\centered A-1 (3)
-
-^^^GENERAL INFORMATION  
-^^PROSPECTIVE PURCHASER (THE CORPORATION)
-
-Name: _____________________________________________________________________________
-
-Principal Place of Business: _____________________________________________________________
-
-(Number and Street)  
-__________________________________________________________________________________
-
-(City) (State) (Zip Code)  
-Address for Correspondence (if different): __________________________________________________
-
-(Number and Street)  
-___________________________________________________________________________________
-(City) (State)(Zip Code)
-
-Telephone Number: ___________________________________________________________________
-
-(Area Code) (Number)  
-Facsimile Number: ____________________________________________________________________
-
-(Area Code) (Number)  
-State of Incorporation: _________________________________________________________________
-
-Date of Formation: ____________________________________________________________________
-
-Taxpayer Identification Number: _________________________________________________________
-
-FINRA Affiliation or Association of the Corporation, if any: ____________________________________
-
-If none, check here   ¨
-
-Number of Shareholders: _______________________________________________________________
-
-
-
-Name: _____________________________________________________________________________
-
-Position or Title: _____________________________________________________________________
-
-\centered A-1 (4)
-
-^^^BENEFICIAL, OWNERSHIP  
-List the name, address, title, phone number and email address of the natural person or persons who will possess voting and investment power over the Shares subscribed for herein:
-
-Name of Natural Person(s): ________________________________________
-
-Address: _____________________________________________________
-
-_____________________________________________________________
-
-Title (if any): ___________________________________________________
-
-Phone: ________________________________________________________
-
-Email address(if any): ____________________________________________
-
-^SIGNATURE  
-The Signature Page to this Questionnaire is contained on page A-1 (6), entitled Corporation Signature Page.
-
-\centered A-1 (5)
-
-\centered **Corporation Signature Page**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered **__________________**
-
-^The undersigned Corporation represents that (a) the information contained in this Questionnaire is complete and accurate and (b) the Corporation will immediately notify (i) WestPark Capital, Inc., [[Address 3: Address]], Attention: Ann Pan, phone number [[Phone 2]], facsimile [[Phone 3]] and (ii) David Ficksman, Esq., counsel to WestPark Capital, Inc., at TroyGould PC, 1 [[Address 3: Address]], phone number [[Phone 4]], facsimile [[Phone 5]] if any material change in any of the information occurs prior to the acceptance of the undersigned Corporation’s subscription and will promptly send the foregoing written confirmation of such change.
-
-^The undersigned Corporation hereby represents and warrants that the person signing this Questionnaire on behalf of the Corporation has been duly authorized by all requisite action on the part of the Corporation to acquire the Shares and sign this Questionnaire and this Subscription Agreement on behalf of the Corporation and, further, that the undersigned Corporation has all requisite authority to purchase the Shares and enter into the Subscription Agreement.
-
-\centered Date
-
-Name of Corporation (Please Type or Print)
-By:
-\centered Signature
-
-Name:
-\centered (Please Type or Print)
-
-Title:
-\centered (PleaseType or Print)
-
-**THE SECURITIES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “ACT”), AND MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED UNLESS SUCH SECURITIES ARE INCLUDED IN AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT OR AN OPINION OF COUNSEL HAS BEEN DELIVERED TO THE EFFECT THAT REGISTRATION OF SUCH SECURITIES IS NOT REQUIRED.**
-
-\centered A-1 (6)
-
-\centered **Exhibit A-2**
-
-\centered **Individual Investor Questionnaire**
-
-\centered **Name:**  
-
-IMPORTANT:  
-Please Complete    
-
-\centered **INDIVIDUAL INVESTOR QUESTIONNAIRE**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered 
-
-\centered **__________________**  
-
-[[Company]] 
-c/o WestPark Capital, Inc. 
-[[Address 2: Address]] 
-Attn: Richard Rappaport  
-CD Media (Holding) Co., Limited 
-c/o Beijing CD Media Advertisement Co., Ltd.
-
-Room 801, No. 7, Wenchang Er Road, Huicheng District,
-
-Huizhou, People’s Republic of China 516001
-
-Attention: Huihua Li  
-
-The information contained in this Individual Investor Questionnaire is being furnished in order to determine whether the undersigned’s subscription to purchase Shares (the “**Shares**”) of CD Media (Holding) Co., Limited and [[Company]] (the “**Company**”), may proceed.
-
-This Questionnaire should be completed, signed, dated and a copy should be sent to WestPark Capital, Inc. (the “Placement Agent”) via facsimile at [[Phone 3]] or electronic format (e.g., PDF) to [[Email 1]]. Please keep a copy for your files.
-
-ALL INFORMATION CONTAINED IN THIS QUESTIONNAIRE WILL BE TREATED CONFIDENTIALLY. The undersigned individual understands, however, that the Company may present this Questionnaire to such parties as it deems appropriate if called upon to establish that the proposed offer and sale of the Shares in the Company is exempt from registration under the Securities Act of 1933, as amended, or meets the requirements of applicable state securities or “blue sky” laws. Further, the undersigned individual understands that the offering is required to be reported to the Securities and Exchange Commission and to various state securities or “blue sky” regulators.
-
-\centered A-2 (1)
-
-IF YOU ARE PURCHASING SHARES WITH YOUR SPOUSE, YOU MUST BOTH SIGN THE SIGNATURE PAGE (PAGE A-2 (5)).
-
-IF YOU ARE PURCHASING SHARES WITH ANOTHER PERSON NOT YOUR SPOUSE, YOU MUST EACH FILL OUT A SEPARATE QUESTIONNAIRE. Please make a photocopy of pages A-2 (1) to A-2 (5) and return both completed Questionnaires to WestPark Capital, Inc. in the same envelope.
-
-^^^PLEASE INDICATE DESIRED TYPE OF OWNERSHIP OF SHARES:
-
-¨ Individual  
-
-¨ Joint Tenants (rights of survivorship)
-
-¨ Tenants in Common (no rights of survivorship)
-
-^^^**PLEASE CHECK ANY OF STATEMENTS 1-4 BELOW THAT APPLY TO YOU.**
-
-¨ 1. I have an individual net worth* or joint net worth with my spouse
-
-in excess of $[[USD Value 6: Number]]  
-
-¨ 2. I have had an individual income* in excess of $[[USD Value 3]] in each ofthe previous two years and I reasonably expect an individual income inexcess of $[[USD Value 3]] this year. NOTE: IF YOU ARE BUYING JOINTLY WITH YOUR SPOUSE, YOU MUST EACH HAVE AN INDIVIDUAL INCOME IN EXCESS OF $[[USD Value 3]] IN EACH OF THESE YEARS IN ORDER TO CHECK THIS BOX.
-
-¨ 3. My spouse and I have had a joint income* in excess of $[[USD Value 4]] ineach of the previous two years and I reasonably expect a joint income inexcess of $[[USD Value 4]] this year.
-
-¨ 4. I am a director and/or an executive officer of Company as suchterms are defined in Regulation D promulgated under the Securities Act of1933, as amended.
-
-* For purposes of this Questionnaire, the term “net worth” means the excess of total assets over total liabilities. In determining income, an investor should add to his or her adjusted gross income any amounts attributable to tax-exempt income received, losses claimed as a limited partner in any limited partnership, deductions claimed for depletion, contributions to IRA or Keogh retirement plans, alimony payments and any amount by which income from long-term capital gains has been reduced in arriving at adjusted gross income.
-
-\centered A-2 (2)
-
-^^^OTHER CERTIFICATIONS  
-[[III. OTHER CERTIFICATIONS Signatory Email: Identity | Signature]]
-__________________________________________
-{{III. OTHER CERTIFICATIONS Entity => By: [[III. OTHER CERTIFICATIONS Signatory First Name]] [[III. OTHER CERTIFICATIONS Signatory Last Name]]
-Title: [[III. OTHER CERTIFICATIONS Signatory Title]]}}
-
-\centered (a)   that I am at least 21 years of age; 
-
-^^that my purchase of Shares will be solely for my own account and not for the account of any other person (other than my spouse, if co-owner);  
-
-^^that the name, home address and social security number or taxpayer identification number as set forth in this Questionnaire are true, correct and complete; and
-
-^^that one of the following is true and correct (check one):
-
-**Spouse, if Co-owner**  
-¨ ¨ (i) I am a United States citizen or resident of the United States for UnitedStates federal income tax purposes.
-
-¨ ¨ (ii) I am neither a United States citizen nor a resident of the United States forUnited States federal income tax purposes.
-
-\centered A-2 (3)
-
-^^^GENERAL INFORMATION  
-^^PERSONAL INFORMATION  
-Name: __________________________________________________________________
-
-Social Security or Taxpayer Identification Number: _________________________________
-
-Residence Address: ________________________________________________________ 
-
-(Number and Street) 
-________________________________________________________________________
-
-(City) (State) (Zip Code)  
-Residence Telephone Number: ________________________________________________ 
-
-(Area Code) (Number)   
-Residence Facsimile Number: _________________________________________________
-
-(Area Code) (Number)  
-
-Name of Business: _________________________________________________________
-
-BusinessAddress: _________________________________________________________ 
-
-(Number and Street) 
-________________________________________________________________________
-
-(City) (State) (Zip Code)
-
-BusinessTelephone Number: _________________________________________________
-
-(Area Code) (Number)  
-Business Facsimile Number: __________________________________________________
-
-(Area Code) (Number)  
-^prefer to have correspondence sent to: ¨ Residence ¨ Business
-
-FINRA Affiliation or Association, if any: ________________________________________
-
-If none, check here ¨  
-**Spouse, if Potential Co-owner**  
-Name: __________________________________________________________________
-
-Social Security or Taxpayer Identification Number: _________________________________
-
-Residence Address: ________________________________________________________
-
-(Number and Street) 
-________________________________________________________________________
-
-(City) (State) (Zip Code)  
-Residence Telephone Number: ________________________________________________
-
-Name of Business: _________________________________________________________
-
-BusinessAddress: _________________________________________________________
-
-(Number and Street) 
-________________________________________________________________________
-
-(City) (State)
-
-^prefer to have correspondence sent to: ¨ Residence ¨ Business
-
-FINRA Affiliation or Association, if any:
-
-If none, check here ¨  
-
-^SIGNATURE  
-The Signature Page to this Questionnaire is contained on page A-2 (5), entitled Individual Signature Page.
-
-\centered A-2 (4)
-
-\centered **INDIVIDUAL SIGNATURE PAGE**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered **__________________**
-
-^The undersigned represents that (a) the information contained in this Questionnaire is complete and accurate, and (b) he/she will immediately notify (i) WestPark Capital, Inc., [[Address 3: Address]], Attention: Ann Pan, phone number [[Phone 2]], facsimile [[Phone 6]] and (ii) David Ficksman, Esq., counsel to WestPark Capital, Inc., at TroyGould PC, 1 [[Address 3: Address]], phone number [[Phone 4]], facsimile [[Phone 5]] if any material change in any of the information occurs prior to the acceptance of the undersigned’s subscription and will promptly send the foregoing written confirmation of such change.
-
-\centered Date
-
-\centered Name (Please Type or Print)
-
-\centered Signature
-
-\centered Name of Spouse if Co-owner   \centered (Please Type or Print)
-
-\centered Signatureof Spouse if Co-owner
-
-IF YOU ARE PURCHASING SHARES WITH YOUR SPOUSE, YOU MUST BOTH SIGN THIS SIGNATURE PAGE (PAGE A-2 (5)). IF YOU ARE PURCHASING SHARES WITH ANOTHER PERSON NOT YOUR SPOUSE, YOU MUST EACH FILL OUT A SEPARATE QUESTIONNAIRE. Please make a photocopy of pages A-2 (1) to A-2 (5) and return both completed Questionnaires to WestPark Capital, Inc. in the same envelope.
-
-**THE SECURITIES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “ACT”), AND MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED UNLESS SUCH SECURITIES ARE INCLUDED IN AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT OR AN OPINION OF COUNSEL HAS BEEN DELIVERED TO THE EFFECT THAT REGISTRATION OF SUCH SECURITIES IS NOT REQUIRED.**
-
-\centered A-2 (5)
-
-\centered **Exhibit A-3**
-
-\centered **Limited** **Partnership Investor Questionnaire**
-
-\centered **Name:**  
-
-IMPORTANT:  
-Please Complete    
-
-\centered **LIMITED PARTNERSHIP INVESTOR QUESTIONNAIRE**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered **__________________**
-
-[[Company]] 
-c/o WestPark Capital, Inc. 
-[[Address 2: Address]] 
-Attn: Richard Rappaport  
-CD Media (Holding) Co., Limited 
-c/o Beijing CD Media Advertisement Co., Ltd.
-
-Room 801, No. 7, Wenchang Er Road, Huicheng District,
-
-Huizhou, People’s Republic of China 516001
-
-Attention: Huihua Li  
-
-The information contained in this Limited Partnership Investor Questionnaire is being furnished in order to determine whether the undersigned Limited Partnership’s subscription to purchase Shares (the “**Shares**”) of CD Media (Holding) Co., Limited and [[Company]] (the “**Company**”), may proceed.
-
-This Questionnaire should be completed, signed, dated and a copy should be sent to WestPark Capital, Inc. (the “**Placement Agent**”) via facsimile at [[Phone 6]] or electronic format (e.g., PDF) to [[Email 1]]. Please keep a copy for your files.
-
-\centered A-3 (1)
-
-ALL INFORMATION CONTAINED IN THIS QUESTIONNAIRE WILL BE TREATED CONFIDENTIALLY. The undersigned Limited Partnership understands, however, that the Company may present this Questionnaire to such parties as it deems appropriate if called upon to establish that the proposed offer and sale of the Shares in the Company is exempt from registration under the Securities Act of 1933, as amended, or meets the requirements of applicable state securities or “blue sky” laws. Further, the undersigned Limited Partnership understands that the offering required to be reported to the Securities and Exchange Commission and to various state securities or “blue sky” regulators.
-
-^^^**PLEASE CHECK ANY OF STATEMENTS 1-3 BELOW THAT APPLY TO**
-
-**THE LIMITED PARTNERSHIP.**
-
-¨ 1.   Each of the limited partners of the undersigned Limited Partnership is able to certify that such limited partner meets at least one of the following two conditions:
-
-^^The limited partner is a natural person whose individual net worth* or joint net worth with his or her spouse exceeds $[[USD Value 2]]; or
-
-^^The limited partner is a natural person who had an individual income* in excess of $[[USD Value 3]] in each of the previous two years and who reasonably expects an individual income in excess of $[[USD Value 3]] this year.
-
-¨ 2.   Each of the limited partners of the undersigned Limited Partnership is able to certify that such limited partner is a natural person who, together with his or her spouse, has had a joint income in excess of $[[USD Value 4]] in each of the previous two years and who reasonably expects a joint income in excess of $[[USD Value 4]] this year.
-
-¨ 3.   The undersigned Limited Partnership: (a) was not formed for the specific purpose of acquiring the Shares; and (b) has total assets in excess of $[[USD Value 5]]
-
-____________________  
-*   For purposes of this Questionnaire, the term “net worth” means the excess of total assets over total liabilities. In determining income, an investor should add to his or her adjusted gross income any amounts attributable to tax-exempt income received, losses claimed as a limited partner in any limited partnership, deductions claimed for depletion, contributions to IRA or Keogh retirement plans, alimony payments and any amount by which income from long-term capital gains has been reduced in arriving at adjusted gross income.
-
-\centered A-3 (2)
-
-IF YOU CHECKED STATEMENT 1 OR STATEMENT 2 IN SECTION I, ABOVE, AND DID NOT CHECK STATEMENT 3, YOU MUST PROVIDE A LETTER SIGNED BY AN OFFICER OF THE UNDERSIGNED LIMITED PARTNERSHIP LISTING THE NAME OF EACH LIMITED PARTNER AND THE REASON (UNDER STATEMENT 1 OR STATEMENT 2) WHY SUCH LIMITED PARTNER QUALIFIES AS AN ACCREDITED INVESTOR (ON THE BASIS OF NET WORTH, INDIVIDUAL INCOME OR JOINT INCOME), OR EACH LIMITED PARTNER MUST PROVIDE A COMPLETED INDIVIDUAL INVESTOR QUESTIONNAIRE (PAGES A-1 (2) TO A-1 (6)).
-
-^^^OTHER CERTIFICATIONS  
-[[II. OTHER CERTIFICATIONS Signatory Email: Identity | Signature]]
-__________________________________________
-{{II. OTHER CERTIFICATIONS Entity => By: [[II. OTHER CERTIFICATIONS Signatory First Name]] [[II. OTHER CERTIFICATIONS Signatory Last Name]]
-Title: [[II. OTHER CERTIFICATIONS Signatory Title]]}}
-
-\centered (d)   that the limited partnership’s purchase of Shares will be solely for the limited partnership’s own account and not for the account of any other person or entity; 
-
-^^that the limited partnership’s name, address of principal office, place of in limited partnership and taxpayer identification number as set forth in this Questionnaire are true, correct and complete; and 
-
-^^that one of the following is true and correct (check one):  
-
-\centered ¨ (i)   the limited partnership is a limited partnership organized in or under the laws of the United States or any political subdivision thereof. 
-
-^^(ii)   the limited partnership is a limited partnership which is neither created nor organized in or under the United States or any political subdivision thereof, but which has made an election under either Section 897(1) or 897(k) of the United States Internal Revenue Code of 1986, as amended, to be treated as a domestic limited partnership for certain purposes of United States federal income taxation (A COPY OF THE INTERNAL REVENUE SERVICE ACKNOWLEDGMENT OF THE UNDERSIGNED’S ELECTION MUST BE ATTACHED TO THIS QUESTIONNAIRE IF THIS PROVISION IS APPLICABLE). 
-
-^^(iii)   neither (1) nor (ii) above is true.  
-
-\centered **[continued to next page]**
-
-\centered A-3 (3)
-
-^^^GENERAL INFORMATION  
-^^PROSPECTIVE PURCHASER (THE LIMITED PARTNERSHIP**)**
-
-Name: _____________________________________________________________________________
-
-Principal Place of Business: _____________________________________________________________
-
-(Number and Street)  
-__________________________________________________________________________________
-
-(City) (State) (Zip Code)  
-Address for Correspondence (if different): __________________________________________________
-
-(Number and Street)  
-___________________________________________________________________________________
-(City) (State)(Zip Code)
-
-Telephone Number: ___________________________________________________________________
-
-(Area Code) (Number)  
-Facsimile Number: ____________________________________________________________________
-
-(Area Code) (Number)  
-State of Incorporation: _________________________________________________________________
-
-Date of Formation: ____________________________________________________________________
-
-Taxpayer Identification Number: _________________________________________________________
-
-FINRA Affiliation or Association of the Corporation, if any: ____________________________________
-
-If none, check here   ¨
-
-Number of Shareholders: _______________________________________________________________
-
-
-
-Name: _____________________________________________________________________________
-
-Position or Title: _____________________________________________________________________
-
-^^^SIGNATURE   
-The Signature Page to this Questionnaire is contained on page A-3 (5), entitled Limited Partnership Signature Page.
-
-\centered A-3 (4)
-
-\centered **Limited Partnership Signature Page**
-
-\centered **__________________**
-
-\centered [[Company]]
-
-\centered **CD MEDIA (HOLDING) CO., LIMITED**
-
-\centered **__________________**
-
-^The undersigned Limited Partnership represents that (a) the information contained in this Questionnaire is complete and accurate, and (b) the Limited Partnership will immediately notify (i) WestPark Capital, Inc., [[Address 3: Address]], Attention: Ann Pan, phone number [[Phone 2]], facsimile [[Phone 3]] and (ii) David Ficksman, Esq., counsel to WestPark Capital, Inc., at TroyGould PC, 1 [[Address 3: Address]], phone number [[Phone 4]], facsimile [[Phone 5]] if any material change in any of the information occurs prior to the acceptance of the undersigned’s subscription and will promptly send the foregoing written confirmation of such change.
-
-^The undersigned Limited Partnership hereby represents and warrants that the person or entity signing this Questionnaire on behalf of the Limited Partnership has been duly authorized by all requisite action on the part of the Limited Partnership to sign this Questionnaire and this Subscription Agreement on behalf of the Limited Partnership and, further, that the undersigned Limited Partnership has all requisite authority to purchase the Shares and enter into the Subscription Agreement.
-
-\centered Date
-
-\centered Name of Corporation   \centered (Please Type or Print)
-By:
-\centered Signature
-
-Name:
-\centered (Please Type or Print)
-
-Title:
-\centered (PleaseType or Print)
-
-**THE SECURITIES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “ACT”), AND MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED UNLESS SUCH SECURITIES ARE INCLUDED IN AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT OR AN OPINION OF COUNSEL HAS BEEN DELIVERED TO THE EFFECT THAT REGISTRATION OF SUCH SECURITIES IS NOT REQUIRED.**
-
-\centered A-3 (5)
-
-\centered **Exhibit B**
-
-\centered **LOCK-UP AGREEMENT**
-
-CD Media (Holding) Co.,Limited 
-c/o Beijing CD Media Advertisement Co., Ltd.
-
-Room 801, No. 7, Wenchang Er Road, Huicheng District,
-
-Huizhou, People’s Republic of China 516001
-
-Attention: Huihua Li  
-WestPark Capital, Inc. 
-[[Address 2: Address]]
-
-The undersigned, being a security holder of [_______________________] (formerly known as [[Company]] and referred to herein as the “**Company**”) and receiving his/her/its shares of Common Stock as an investor in the Company’s private offering that closed on __________, 2010 (the “**Private Offering**”), hereby delivers this Lock-up Agreement to the Company.
-
-The undersigned recognizes that it is in the best financial interests of the Company and of the undersigned, as a shareholder of the Company, that the Company Common Stock received by the undersigned pursuant to the Private Offering be subject to certain restrictions and hereby agrees as follows:
-
-Other than as set forth below, the undersigned shall not: (a) sell, assign, exchange, transfer, pledge, distribute or otherwise dispose of (i) any shares of the Company Common Stock received by the undersigned in the Private Offering, or (ii) any interest (including, without limitation, an option to buy or sell) in any such shares of the Company Common Stock, in whole or in part, and no such attempted transfer shall be treated as effective for any purpose; or (b) engage in any transaction in respect to any shares of the Company Common Stock received by the undersigned in the Private Offering or any interest therein, the intent or effect of which is the effective economic disposition of such shares (including, but not limited to, engaging in put, call, short-sale, straddle or similar market transactions) (the foregoing restrictions are referred to herein as “**Lock-Up Restrictions**”).
-
-If the aggregate dollar amount of shares sold in the underwritten public offering, including the dollar amount of shares sold in any over-allotment options exercised in connection therewith (the “**Public Offering**”), that the Company intends to conduct in connection with its application for listing or quotation of the Company's Common Stock on either the New York Stock Exchange, NYSE Amex, NASDAQ Global Market, NASDAQ Capital Market or the OTC Bulletin Board (the “**Listing**”) is in an amount that is equal to or greater than $[[USD Value 7]] million, the Lock-up Restrictions shall be released in full on the date that is six (6) months from the date of such Listing (the “**Listing Date**”).
-
-If the aggregate dollar amount of shares sold by the Company in the Public Offering is less than $[[USD Value 7]] million, one-tenth (1/10) of the undersigned’s shares of the Company’s Common Stock acquired in the Private Offering shall be released from the Lock-Up Restrictions on the date that is ninety (90) days after the Listing Date (the “**Initial Release Date**”), and the undersigned’s shares will automatically be released from the Lock-Up Restrictions every thirty (30) days after the Initial Release Date on a pro rata basis over the next nine (9) months, until all of the shares are released from the Lock-Up Restrictions.
-
-\centered B-1
-
-There shall be no release from the Lock-Up Restrictions, in any event, until and unless the undersigned provides written confirmation (the “**Confirmation**”) to WestPark Capital, Inc. and the Company that he, she or it is and has at all times been in compliance with the provisions of Section 2.20 of the Subscription Agreement executed by the undersigned in connection with the Private Offering, it being understood and agreed that the failure to provide such written confirmation shall be sufficient grounds to allow WestPark Capital, Inc. to decline, in its sole discretion, to allow the automatic release of such shares until the expiration in totality of the referenced Lock-Up Restrictions.
-
-WestPark Capital, Inc., in its discretion, may release from the Lock-up Restrictions some or all the undersigned’s shares of the Company’s Common Stock earlier than the schedule set forth in this Lock-up Agreement.
-
-The certificates evidencing the Company Common Stock received by the undersigned in the Private Offering bear a legend as set forth below and such legend shall remain during the term of this Lock-Up Agreement as set forth above:
-
-THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO TRANSFER RESTRICTIONS SET FORTH IN THAT CERTAIN LOCK-UP AGREEMENT BY AND BETWEEN THE COMPANY, A DELAWARE CORPORATION, AND THE HOLDER HEREOF (THE “LOCK-UP AGREEMENT”), AND MAY NOT BE SOLD, ASSIGNED, EXCHANGED, TRANSFERRED, ENCUMBERED, PLEDGED, DISTRIBUTED OR OTHERWISE DISPOSED OF PRIOR TO THAT CERTAIN TIME PERIOD DETAILED IN THE LOCK-UP AGREEMENT. THE ISSUER AGREES TO REMOVE THIS RESTRICTIVE LEGEND (AND ANY STOP ORDER PLACED WITH THE TRANSFER AGENT) UPON THE EXPIRATION OF THE TIME PERIOD SPECIFIED IN THE LOCK-UP AGREEMENT. A COPY OF THE LOCK-UP AGREEMENT IS AVAILABLE FOR REVIEW AT THE PRINCIPAL EXECUTIVE OFFICE OF THE ISSUER.
-
-\centered [SIGNATURE ON NEXT PAGE]
-
-\centered B-2
-
-IN WITNESS WHEREOF, the undersigned has executed this Lock-Up Agreement as of the date first written above.
-
-_____________________________________________
-
-Printed Name of Holder  
-Signature _____________________________________ 
-
-[[Signature Signatory Email: Identity | Signature]]
-__________________________________________
-{{Signature Entity => By: [[Signature Signatory First Name]] [[Signature Signatory Last Name]]
-Title: [[Signature Signatory Title]]}}
-
-
-\centered **ACKNOWLEDGMENT AND RECEIPT**
-
-The undersigned hereby acknowledges receipt of the Confidential Private Placement Memorandum (the “PPM”) of [[Company]] (the “Company”) dated [[Date 5: Date]], relating to the offer and sale by the Company of shares of its Common Stock (the “Shares”). As described in the PPM, the PPM updates and supplements information set forth in the “Chinese Television Media and Advertisement Company” ([[Company]]) Executive Summary dated [[Date 4]].
-
-The undersigned further acknowledges that the recitals in the Subscription Agreement sent to the undersigned on [[Date 2]] (the “Subscription Agreement”) has been changed to reflect that the Company entered into a Share Exchange Agreement effective as of [[Date 6: Date]] with CD Media (Holding) Co., Limited, a company incorporated in the British Virgin Islands (“CD Media BVI”), Huizhou CD Media Co., Ltd., a company organized in the People’s Republic of China and a wholly-owned subsidiary of CD Media BVI (“CD Media Huizhou”), Beijing CD Media Advertisement Co., Ltd., a company organized in the People’s Republic of China and controlled by CD Media Huizhou by contractual arrangements (“CD Media Beijing,” and together with CD Media BVI, CD Media Huizhou, the “CD Media Entities”) and each of the shareholders of CD Media BVI (the “Shareholders”). The undersigned further acknowledges that the Subscription Agreement has been changed to reflect that the Company, the CD Media Entities and the Shareholders entered into an Amended and Restated Share Exchange Agreement dated as of [[Date 7: Date]] and that the Company entered into an Amended and Restated Share and Warrant Cancellation Agreement dated as of [[Date 7]] with its stockholders.
-
-The undersigned further acknowledges that Item 3.3 Capitalization of the Company in the Subscription Agreement has been changed to reflect that immediately after the effective time of the Exchange (as defined in the PPM) and including the shares of common stock issued in the Offering, assuming it is fully subscribed at such effective time, and assuming the cancellation of the Maximum Cancelled Shares and the Maximum Cancelled Warrants pursuant to the Amended and Restated Share and Warrant Cancellation Agreement at the effective time (as such terms are defined in the Amended and restated Share and Warrant Cancellation Agreement), there will be outstanding [[Shares 4: Number]] shares of common stock and 1,419,333 warrants to purchase shares of common stock outstanding.
-
-The undersigned further acknowledges and agrees that this Acknowledgement and Receipt confirms his, her or its investment as stated in his, her or its respective Subscription Agreement.
-
-\centered [SIGNATURE ON NEXT PAGE]
-
-\centered [SIGNATURE PAGE FOR ACKNOWLEDGMENT AND RECEIPT]
-
-The undersigned has executed this Acknowledgement and Receipt on the date set forth below.
-
-\centered (individual): Signature:___________________________ By: ________________________________ Title: _______________________________ Dated: ______________________________ (corporation, partnership, trust or LLC): Signature:___________________________ Name:______________________________ Dated:______________________________
+[[Party 1]] Chief Executive Officer

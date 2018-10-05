@@ -2,7 +2,7 @@
 
 U.S. $[[USD Value 1: Number]]      Dated: [[Date 1: Date]]
 
-FOR VALUE RECEIVED, the undersigned, **Luna Innovations Incorporated**, a Delaware corporation, and **Luna Technologies, Inc**., a Delaware corporation (individually and collectively, called the “Borrower”), HEREBY UNCONDITIONALLY JOINTLY AND SEVERALLY PROMISE TO PAY to the order of **Hansen Medical, Inc**., a Delaware corporation (the “Lender”), the principal sum of FIVE MILLION UNITED STATES DOLLARS (U.S. $[[USD Value 1]]), in sixteen (16) equal consecutive installments, commencing on [[Date 2: Date]], with subsequent installments payable on the last Business Day of each July, October, January and April (each a “**Payment Date**”) of each calendar year thereafter in accordance with the amortization schedule set forth on Exhibit A attached hereto, and with the last such installment to be due and payable on [[Date 3: Date]] (as the same may be accelerated as provided herein, the “**Maturity Date**”) and in the amount necessary to repay in full the unpaid principal balance hereof. 
+FOR VALUE RECEIVED, the undersigned, **Luna Innovations Incorporated,** a Delaware corporation, and **Luna Technologies, Inc.**, a Delaware corporation (individually and collectively, called the “**Borrower**”), HEREBY UNCONDITIONALLY JOINTLY AND SEVERALLY PROMISE TO PAY to the order of **Hansen Medical, Inc.**, a Delaware corporation (the “**Lender**”), the principal sum of FIVE MILLION UNITED STATES DOLLARS (U.S. $[[USD Value 1]]), in sixteen (16) equal consecutive installments, commencing on [[Date 2: Date]], with subsequent installments payable on the last Business Day of each July, October, January and April (each a “**Payment Date”)** of each calendar year thereafter in accordance with the amortization schedule set forth on Exhibit A attached hereto, and with the last such installment to be due and payable on [[Date 3: Date]] (as the same may be accelerated as provided herein, the “**Maturity Date”)** and in the amount necessary to repay in full the unpaid principal balance hereof. 
 
 The Borrower further promises jointly and severally, as primary obligors and not as secondary obligors, sureties, guarantors or accommodation makers, to pay interest on the outstanding principal amount of this Promissory Note (this “**Note**”) from the date hereof until the Maturity Date, at a rate per annum equal at all times to eight and one half percent ([[Percentage 1: Number]]%) per annum, payable quarterly in arrears on each Payment Date, on the date of any prepayment of the Note, and on the Maturity Date in accordance with the amortization schedule set forth in Exhibit A attached hereto. 
 
@@ -10,7 +10,9 @@ Upon the occurrence and during the continuance of an Event of Default hereunder,
 
 All payments hereunder shall be made in lawful money of the United States of America and in same day or immediately available funds, prior to 3:00 p.m. (Eastern time), to Lender into the account specified in Exhibit B, or such other account as is designated in writing by Lender to the Administrative Borrower not less than 5 Business Days prior to any date scheduled for payment hereunder. Borrower shall be entitled to pay such amounts to the last account designated by Lender (or as specified in Exhibit B if there has been no designation following the date of this Note) in the absence of any subsequent re-designation. For the purposes of this Secured Promissory Note, “**Administrative Borrower**” shall mean Luna Innovations Incorporated. 
 
-Whenever any payment hereunder shall be due on a day other than a Business Day (as defined below), then, except as otherwise provided herein, such payment shall be made, and such interest payment date or other date shall occur, on the next succeeding Business Day, and such extension of time shall in such case be included in the computation of payment of interest hereunder. As used herein, “**Business Day**” means a day other than a Saturday or a Sunday on which banks are open for business in California and Virginia. 
+Whenever any payment hereunder shall be due on a day other than a Business Day (as defined below), then, except as otherwise provided herein, such payment shall be made, and such interest payment date or other date shall occur, on the next succeeding Business Day, 
+
+and such extension of time shall in such case be included in the computation of payment of interest hereunder. As used herein, “**Business Day**” means a day other than a Saturday or a Sunday on which banks are open for business in California and Virginia. 
 
 The Borrower agrees to make all payments under this Note and under any Collateral Document (as defined below) without setoff or deduction. Notwithstanding anything to the contrary herein, to the extent the Lender receives any payment on this Note that it later has to disgorge, remit, pay over or otherwise part, such amount shall be deemed to have never been paid under this Note. 
 
@@ -85,27 +87,14 @@ THE BORROWER AND, BY ITS ACCEPTANCE HEREOF, THE LENDER, HEREBY WAIVE THEIR RESPE
 
 IN WITNESS WHEREOF, the Borrower has duly executed this Note, as of the date first above written. 
 
-**LUNA INNOVATIONS**
-**INCORPORATED**
+**LUNA INNOVATIONS INCORPORATED**
 
-[[INCORPORATED Signatory Email: Identity | Signature]]
-__________________________________________
-{{INCORPORATED Entity => By: [[INCORPORATED Signatory First Name]] [[INCORPORATED Signatory Last Name]]
-Title: [[INCORPORATED Signatory Title]]}}
-
+By
+Name: Kent A. Murphy
+Title: CEO
 
 **LUNA TECHNOLOGIES INC.**
 
-[[LUNA TECHNOLOGIES INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{LUNA TECHNOLOGIES INC. Entity => By: [[LUNA TECHNOLOGIES INC. Signatory First Name]] [[LUNA TECHNOLOGIES INC. Signatory Last Name]]
-Title: [[LUNA TECHNOLOGIES INC. Signatory Title]]}}
-
-
-\centered Exhibit A 
-
-\centered Amortization Schedule 
-
-\centered Exhibit B 
-
-\centered Payment Instructions
+By
+Name: Scott A. Graeff
+Title: President

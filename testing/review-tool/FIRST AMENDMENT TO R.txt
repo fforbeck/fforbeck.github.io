@@ -1,62 +1,78 @@
-\centered **FIRST AMENDMENT TO RIGHTS AGREEMENT** 
+\centered **FIRST AMENDMENT TO RECEIVABLES SALE AGREEMENT** 
 
-This **FIRST AMENDMENT TO RIGHTS AGREEMENT** (this “Amendment”), dated as of [[Date 1: Date]], is made and entered into by and between **[[Company]]**, a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and **AMERICAN STOCK TRANSFER & TRUST CO.**, as rights agent (the “Rights Agent”). Capitalized terms not otherwise defined in this Amendment shall have the meaning ascribed to such terms in the Rights Agreement (as defined below).
+THIS FIRST AMENDMENT TO RECEIVABLES SALE AGREEMENT, dated as of [[Date 1: Date]] (this “Amendment”) is entered into by and between [[Buyer]], a [[State of Formation: State]] [[Organization: EntityType]] (in such capacity, the “Buyer”), and [[Originator]], a [[State of Formation: State]] [[Organization: EntityType]] (in such capacity, the “Originator”). 
 
-**WHEREAS**, the Company and the Rights Agent previously entered into that certain Rights Agreement, dated as of [[Date 2: Date]] (the “Rights Agreement”); 
+\centered RECITALS 
 
-**WHEREAS**, the Company proposes to enter into an Agreement and Plan of Merger and Reorganization (as it may be amended from time to time, the “Merger Agreement”) with Alto Merger Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of the Company (“Merger Sub”), and Symyx Technologies, Inc., a Delaware corporation (“Symyx”), pursuant to which Merger Sub will merge with and into Symyx, the separate corporate existence of Merger Sub will cease and Symyx will survive as a wholly-owned subsidiary of the Company (the “Merger”); 
+^The Buyer and the Originator have entered into that certain Receivables Sale Agreement, dated as of [[Date 2: Date]] (as amended, restated, supplemented or otherwise modified from time to time, the “Agreement”). 
 
-**WHEREAS**, the Board of Directors of the Company has determined that, in connection with the execution of the Merger Agreement, it is necessary and desirable to amend the Rights Agreement to exempt, among other things, the Merger Agreement, the execution thereof and the transactions contemplated thereby, including, without limitation, the Merger, from the application of the Rights Agreement, in each case as set forth in this Amendment; and 
+^The parties to the Agreement desire to enter into this Amendment to amend the Agreement. 
 
-**WHEREAS**, (i) Section 27 of the Rights Agreement provides that, prior to the occurrence of a Distribution Date or Triggering Event, the Company may, without the approval of any holders of certificates representing shares of Common Stock and associated Rights, supplement or amend any provision of the Rights Agreement; (ii) pursuant to the terms of the Rights Agreement and in accordance with Section 27 thereof, the Company has directed that the Rights Agreement should be amended and supplemented as set forth in this Amendment prior to the execution of the Merger Agreement; and (iii) pursuant to Section 27 of the Rights Agreement, an appropriate officer of the Company is hereby delivering a certificate to the Rights Agent stating that this Amendment complies with the terms of Section 27 of the Rights Agreement and does not change or increase the Rights Agent’s duties, liabilities, rights or obligations under Rights Agreement. 
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
 
-**NOW, THEREFORE**, in consideration of the premises and the mutual agreements herein set forth, the parties hereby agree as follows: 
+^Certain Defined Terms. Capitalized terms used but not defined herein shall have the meanings set forth for such terms in Exhibit I to the Agreement. 
 
-^Amendments to Rights Agreement. 
+^Amendments to the Agreement. The Agreement is hereby amended as follows: 
 
-^^The definition of “Acquiring Person” in Section 1(a) of the Rights Agreement is amended by inserting the following as a new paragraph at the end of such definition:
+^^Each reference to “Wachovia Bank, N.A.”, “Wachovia” or “Wachovia Bank, National Association” set forth in the Agreement is hereby amended to be a reference to “Bank of America, National Association. 
 
-“Notwithstanding anything in this Section 1(a) to the contrary, neither Symyx Technologies, Inc., a Delaware corporation (“Symyx”), nor any of its stockholders, nor any of their respective Affiliates or Associates, either individually or in any combination, shall be deemed to be or become an “Acquiring Person” by virtue of, or as a result of (i) the approval, execution, delivery or performance of the Agreement and Plan of Merger and Reorganization, dated [[Date 1]], by and among the Company, Alto Merger Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of the Company (“Merger Sub”), and Symyx (the “Merger Agreement”), (ii) the execution and delivery of the Company Stockholder Voting Agreements (as defined in the Merger Agreement) by and between the Company and certain stockholders of Symyx, or (iii) the performance or consummation of any of the other Contemplated Transactions (as defined in the Merger Agreement), including without limitation, the Merger (the foregoing actions being referred to as the “Permitted Events”).” 
+^^Section 1.2(c) of the Agreement is hereby amended by deleting the reference to “Exhibit XVI to the Purchase Agreement” therein and substituting a reference to “Exhibit XIII to the Purchase Agreement” therefor. 
 
-^^The definition of “Stock Acquisition Date” in Section 1(hh) of the Rights Agreement is amended to add the following sentence at the end thereof:
+^^The last sentence of Section 2.1(s) of the Agreement is hereby amended and restated in its entirety as follows: 
 
-“Notwithstanding anything in this Agreement to the contrary, a Stock Acquisition Date shall not be deemed to have occurred by virtue of, or as a result of, any Permitted Event or the public announcement thereof.” 
+Any excess of the accumulated benefit obligations under one or more Pension Plans (based on the assumptions used for purposes of Statement of Financial Accounting Standards No. 87) over the fair market value of the assets of such Pension Plan or Pension Plans is in an amount that could not reasonably be expected, individually or in the aggregate, to result in a material adverse effect on the business, financial condition, operations or properties of Originator and ERISA Affiliates taken as a whole. 
 
-^^Section 3(a) of the Rights Agreement is amended to add the following sentence at the end thereof:
+^^^^^ 
+^^Section 4.1(e) of the Agreement is hereby amended by deleting the reference to “Exhibit XVI to the Purchase Agreement” therein and substituting a reference to “Exhibit XIII to the Purchase Agreement” therefor. 
 
-“Notwithstanding anything in this Agreement to the contrary, a Distribution Date shall not be deemed to have occurred, and no separate Rights Certificate will be issued or issuable, by virtue of, or as the result of, any Permitted Event.” 
+^^The definition of “ERISA Event” set forth in Exhibit I of the Agreement is hereby amended and restated in its entirety as follows: 
 
-^Officer’s Certificate. By executing this Amendment below, the undersigned duly appointed officer of the Company certifies that this Amendment has been executed and delivered in compliance with the terms of Section 27 of the Rights Agreement and does not change or increase the Rights Agent’s duties, liabilities, rights or obligations under the Rights Agreement. 
+***“ERISA Event”*** means (a) a Reportable Event with respect to a Pension Plan; (b) a complete or partial withdrawal from a Multiemployer Plan that would result in liability to the Originator or any ERISA Affiliate, or the receipt or delivery by Originator or any ERISA Affiliate of any notice with respect to any Multiemployer Plan concerning the imposition of liability as a result of a complete or partial withdrawal from such Multiemployer Plan, as such terms are defined in Part I of Subtitle E of Title IV of ERISA; (c) a determination that a Multiemployer Plan is, or is expected to be, insolvent or in reorganization, within the meaning of Title IV of ERISA; (d) the filing pursuant to Section 412(c) of the Internal Revenue Code or Section 302(c) of ERISA of an application for a waiver of the minimum funding standard with respect to any Pension Plan; (e) the PBGC or a plan administrator shall, or shall indicate its intention in writing to the Buyer, Originator or any ERISA Affiliate to, terminate any Pension Plan or appoint a trustee to administer any Pension Plan; (f) the Originator or any ERISA Affiliate incurs liability under Title IV of ERISA with respect to the termination of any Pension Plan; or (g) a failure by any Pension Plan to satisfy the minimum funding standards (as defined in Section 412 of the Internal Revenue Code or Section 302 of ERISA) applicable to such Pension Plan, in each instance, whether or not waived. 
 
-^Interpretation. The term “Agreement” as used in the Rights Agreement shall be deemed to refer to the Rights Agreement as amended hereby. 
+^Representations and Warranties. Each of the Originator and the Buyer represents and warrants that: 
 
-^Severability. If any term, provision, covenant or restriction of this Amendment is held by a court of competent jurisdiction or other authority to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions of this Amendment, and of the Rights Agreement, shall remain in full force and effect and shall in no way be affected, impaired or invalidated. 
+^^Representations and Warranties. Each representation and warranty made by it in the Agreement, as amended by this Amendment, and in the other Transaction Documents are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations and warranties were true as of such earlier date). 
 
-^Waiver of Notice.The Rights Agent and the Company hereby waive any notice requirement under the Rights Agreement pertaining to the matters covered by this Amendment. 
+^^Enforceability. The execution and delivery by it of this Amendment, and the performance of its obligations under this Amendment and the Agreement (as amended hereby) are within its corporate powers and have been duly authorized by all necessary corporate action on its part. Each of this Amendment and the Agreement (as amended hereby) is its valid and legally binding obligations, enforceable in accordance with its respective terms, except as enforceability may be limited by bankruptcy, insolvency, reorganization or other similar laws affecting the enforcement of creditors’ rights generally and by general principles of equity, regardless of whether such enforceability is considered in a proceeding in equity or at law. 
 
-^Effectiveness. This Amendment shall be deemed effective as of the date first written above. Except as expressly amended herein, all other terms and conditions of the Rights Agreement shall remain in full force and effect. Without limiting the foregoing, the Rights Agent shall not be subject to, nor required to interpret or comply with, or determine if any Person has complied with, the Merger Agreement even though reference thereto may be made in this Amendment and the Rights Agreement. 
+^^^^^ 
+^^No Default. After giving effect to all transactions on the date hereof, both immediately before and immediately after giving effect to this Amendment and the transactions contemplated hereby, no Termination Event or Unmatured Termination Event exists or shall exist. 
 
-^Termination. Notwithstanding anything to the contrary set forth herein, this Amendment shall terminate and be of no further force or effect in the event of the termination of the Merger Agreement for any reason. 
+^Effect of Amendment. All provisions of the Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Agreement to “this Agreement”, “hereof”, “herein”, or words of similar effect referring to the Agreement shall be deemed to be references to the Agreement, as amended by this Amendment. This Amendment shall not be deemed to expressly or impliedly waive, amend or supplement any provision of the Agreement (or any related document or agreement) other than as set forth herein. 
 
-^Governing Law. This Amendment shall be deemed a contract made under the laws of the State of Delaware, and for all purposes of this Amendment shall be governed by and construed in accordance with the laws of such State applicable to contracts made and to be performed entirely within such State. 
+^Effectiveness. This Amendment shall become effective on the date hereof (the “Effective Date”) subject to the condition precedent that the Administrator shall have received, on or before the Effective Date, each of the following, each in form and substance satisfactory to the Administrator: 
 
-^Counterparts. This Amendment may be executed in any number of counterparts (including by facsimile), each of which shall be an original and all of which shall constitute one and the same document. 
+^^counterparts of this Amendment, duly executed by the parties hereto; 
 
-\centered [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+^^counterparts of that certain Amended and Restated Receivables Purchase Agreement, dated as of the date hereof, duly executed by the parties thereto (including evidence that each of the conditions to effectiveness set forth therein have been satisfied); and 
 
-**IN WITNESS WHEREOF**, the parties have caused this Amendment to be duly executed as of the day and year first written above. 
+^^such other documents and instruments as the Administrator may reasonably request. 
 
-ACCELRYS, INC.
+^Counterparts. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, and each counterpart shall be deemed to be an original, and all such counterparts shall together constitute but one and the same instrument. Counterparts of this Amendment may be delivered by facsimile transmission or other electronic transmission, and such counterparts shall be as effective as if original counterparts had been physically delivered, and thereafter shall be binding on the parties hereto and their respective successors and assigns. 
 
-[[ACCELRYS INC. Signatory Email: Identity | Signature]]
+^GOVERNING LAW. THIS AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO ANY OTHERWISE APPLICABLE PRINCIPLES OF CONFLICTS OF LAW (OTHER THAN SECTIONS 5-1401 AND 5-1402 OF THE NEW YORK GENERAL OBLIGATIONS LAW). 
+
+^Section Headings. The various headings of this Amendment are inserted for convenience only and shall not affect the meaning or interpretation of this Amendment or any other Transaction Document or any provision hereof or thereof. 
+
+\centered [signature pages on next page] 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by their respective officers thereunto duly authorized, as of the date first above written. 
+
+[[Buyer]], as Buyer
+[[Buyer as Buyer Signatory Email: Identity | Signature]]
 __________________________________________
-{{ACCELRYS INC. Entity => By: [[ACCELRYS INC. Signatory First Name]] [[ACCELRYS INC. Signatory Last Name]]
-Title: [[ACCELRYS INC. Signatory Title]]}}
+{{Buyer as Buyer Entity => By: [[Buyer as Buyer Signatory First Name]] [[Buyer as Buyer Signatory Last Name]]
+Title: [[Buyer as Buyer Signatory Title]]}}
 
 
-AMERICAN STOCK TRANSFER & TRUST CO.,  as Rights Agent
-
-[[AMERICAN STOCK TRANSFER & TRUST CO.  as Rights Agent Signatory Email: Identity | Signature]]
+[[Originator]], as Originator
+[[Originator as Originator Signatory Email: Identity | Signature]]
 __________________________________________
-{{AMERICAN STOCK TRANSFER & TRUST CO.  as Rights Agent Entity => By: [[AMERICAN STOCK TRANSFER & TRUST CO.  as Rights Agent Signatory First Name]] [[AMERICAN STOCK TRANSFER & TRUST CO.  as Rights Agent Signatory Last Name]]
-Title: [[AMERICAN STOCK TRANSFER & TRUST CO.  as Rights Agent Signatory Title]]}}
+{{Originator as Originator Entity => By: [[Originator as Originator Signatory First Name]] [[Originator as Originator Signatory Last Name]]
+Title: [[Originator as Originator Signatory Title]]}}
+
+
+\centered 
+
+S-1    First Amendment to Receivables Sale Agreement (ARFC)

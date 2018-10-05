@@ -1,0 +1,112 @@
+\centered H C CROWN CORP
+
+\centered 103 Foulk Road, Suite 214 [[Address 1: Address]] [[Phone 1]] Fax [[Phone 2]]
+
+\centered [[Date 1: Date]]
+
+Crown Media Holdings, Inc.
+
+12700 Ventura Boulevard
+
+[[Address 2: Address]] 
+
+Attention: Chief Executive Officer
+
+Crown Media Holdings, Inc. 
+
+12700 Ventura Boulevard
+
+[[Address 2: Address]] 
+
+Attention: Chief Financial Officer
+
+Crown Media Holdings, Inc. 
+
+12700 Ventura Boulevard 
+
+[[Address 2: Address]] 
+
+Attention: General Counsel
+
+Re: Recapitalization Agreement
+
+Gentlemen:
+
+Reference is hereby made to that certain Master Recapitalization Agreement, dated as of [[Date 2: Date]] (the “Recapitalization Agreement”), by and among [[Hallmark Cards]] (“Hallmark Cards”), [[Hallmark Lenders]] (“HCC” and, together with Hallmark Cards, the “Hallmark Lenders”), Hallmark Entertainment Holdings, Inc., a [[State of Formation: State]] [[Organization: EntityType]] (“HEH” and, collectively with the Hallmark Lenders, the “Hallmark Parties”), Crown Media Holdings, Inc., a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[CMUS]], a [[State of Formation: State]] [[Organization: EntityType]] (“CMUS”), and the subsidiaries of the Company listed as Guarantors on the Credit Facility (the “Guarantors,” and, together with the Company and CMUS, the “Debtors”). Capitalized terms used but not otherwise defined in this letter shall have the respective meanings ascribed thereto in the Recapitalization Agreement.
+
+not later than [[Date 3: Date]]) the Information Statement in a form that complies in all material respects with the requirements of the Exchange Act and the rules and regulations promulgated thereunder (the “Covenant”). The Hallmark Parties understand that the Company has determined that it would be advisable to present the Information Statement to the Company’s Board of Directors at a meeting thereof scheduled to be held on [[Date 4: Date]] and to file the Information Statement with the SEC following approval thereof by the Company’s Board of Directors at such meeting. In light of the foregoing, the Debtors have requested that the Hallmark Parties amend the Covenant.
+
+The parties to this letter agreement hereby agree that Section 5.5 of the Recapitalization Agreement shall be amended to change the date contained in the third line thereof from [[Date 3]] to [[Date 5: Date]].
+
+Except as otherwise expressly provided herein, the terms and conditions of the Recapitalization Agreement remain unchanged and the Hallmark Parties hereby reserve all rights and remedies available to them at law, in equity and under the Recapitalization Agreement and the Ancillary Documents.
+
+Please acknowledge that the foregoing is acceptable by executing a counterpart to this letter and returning it to the Hallmark Parties in accordance with Section 11 (Notices) of the Recapitalization Agreement.
+
+\centered [Remainder of page intentionally left blank]
+
+In witness whereof, the undersigned has executed this letter as of the date first above written.
+
+HALLMARK CARDS, INCORPORATED
+
+[[HALLMARK CARDS INCORPORATED Signatory Email: Identity | Signature]]
+__________________________________________
+{{HALLMARK CARDS INCORPORATED Entity => By: [[HALLMARK CARDS INCORPORATED Signatory First Name]] [[HALLMARK CARDS INCORPORATED Signatory Last Name]]
+Title: [[HALLMARK CARDS INCORPORATED Signatory Title]]}}
+
+
+^C CROWN CORP.
+
+[[H C CROWN CORP. Signatory Email: Identity | Signature]]
+__________________________________________
+{{H C CROWN CORP. Entity => By: [[H C CROWN CORP. Signatory First Name]] [[H C CROWN CORP. Signatory Last Name]]
+Title: [[H C CROWN CORP. Signatory Title]]}}
+
+
+HALLMARK ENTERTAINMENT HOLDINGS, INC.
+
+[[HALLMARK ENTERTAINMENT HOLDINGS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{HALLMARK ENTERTAINMENT HOLDINGS INC. Entity => By: [[HALLMARK ENTERTAINMENT HOLDINGS INC. Signatory First Name]] [[HALLMARK ENTERTAINMENT HOLDINGS INC. Signatory Last Name]]
+Title: [[HALLMARK ENTERTAINMENT HOLDINGS INC. Signatory Title]]}}
+
+
+Accepted and agreed (with the consent of the Special Committee) this [[Date 6: Date]].
+
+CROWN MEDIA HOLDINGS, INC.
+
+[[CROWN MEDIA HOLDINGS INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{CROWN MEDIA HOLDINGS INC. Entity => By: [[CROWN MEDIA HOLDINGS INC. Signatory First Name]] [[CROWN MEDIA HOLDINGS INC. Signatory Last Name]]
+Title: [[CROWN MEDIA HOLDINGS INC. Signatory Title]]}}
+
+
+[[CMUS]]
+
+[[CMUS Signatory Email: Identity | Signature]]
+__________________________________________
+{{CMUS Entity => By: [[CMUS Signatory First Name]] [[CMUS Signatory Last Name]]
+Title: [[CMUS Signatory Title]]}}
+
+
+CM INTERMEDIARY
+
+[[CM INTERMEDIARY Signatory Email: Identity | Signature]]
+__________________________________________
+{{CM INTERMEDIARY Entity => By: [[CM INTERMEDIARY Signatory First Name]] [[CM INTERMEDIARY Signatory Last Name]]
+Title: [[CM INTERMEDIARY Signatory Title]]}}
+
+
+CITI TEEVEE
+
+[[CITI TEEVEE Signatory Email: Identity | Signature]]
+__________________________________________
+{{CITI TEEVEE Entity => By: [[CITI TEEVEE Signatory First Name]] [[CITI TEEVEE Signatory Last Name]]
+Title: [[CITI TEEVEE Signatory Title]]}}
+
+
+DOONE CITY PICTURES
+
+[[DOONE CITY PICTURES Signatory Email: Identity | Signature]]
+__________________________________________
+{{DOONE CITY PICTURES Entity => By: [[DOONE CITY PICTURES Signatory First Name]] [[DOONE CITY PICTURES Signatory Last Name]]
+Title: [[DOONE CITY PICTURES Signatory Title]]}}

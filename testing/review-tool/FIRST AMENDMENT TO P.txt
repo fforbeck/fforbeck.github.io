@@ -1,39 +1,243 @@
-\centered **FIRST AMENDMENT TO PROASSURANCE CORPORATION 2008 EQUITY INCENTIVE PLAN** 
+\centered FIRST AMENDMENT TO  PURCHASE AND SALE AGREEMENT 
 
-The purpose of this amendment is to adopt certain amendments to the ProAssurance Corporation 2008 Equity Incentive Plan (the “Plan”) so that the Plan will comply with Section 409A of the Internal Revenue Code of 1986, as amended. Compliance with Section 409A is required because there may be certain circumstances in which deferred benefits payable under the Plan are not eligible for the short term deferral exception to 409A as the Plan originally intended. ProAssurance Corporation (the “Company”) desires to amend the Plan to comply with Section 409A in accordance with the guidance provided in Notice 2010-6 issued by the Internal Revenue Service. The Board of Directors of the Company, on the recommendation of its Compensation Committee, has adopted the following amendments to the Plan: 
+THIS FIRST AMENDMENT TO PURCHASE AND SALE AGREEMENT (this “Amendment”), dated as of [[Date 1: Date]], is entered into among the VARIOUS ORIGINATORS PARTY TO THE AGREEMENT (as defined below) (each an “Originator”; and collectively, the “Originators”), and ARCH COAL, INC., (the “Company”). 
 
-^The definitions set forth in Section 1 of the Plan are hereby amended to conform the definitions of certain terms to the requirements of Section 409A by deleting the definitions of “Change of Control” and “Disability” in their entirety from the Plan and substituting in lieu thereof the following: 
+\centered RECITALS 
 
-***“Change in Control”*** shall mean the occurrence of any one of the following events during the term of this Agreement: (i) an acquisition of the voting securities of the Company by any person, entity or group, immediately after which such person, entity or group has Beneficial Ownership of more than [[Percentage 1: Number]]% of the combined voting power of the Company’s then outstanding voting securities; (ii) a merger, consolidation or reorganization involving the Company in which an entity other than the Company is the surviving entity or in which the Company is the surviving entity and the stockholders of the Company immediately preceding such transaction will own less than [[Percentage 1]]% of the outstanding voting securities of the surviving entity; (iii) the sale or other disposition of substantially all of the assets of the Company (as defined in the regulations under Section 409A of the Code) and the Company ceases to function on a going forward basis as an insurance holding company system that provides medical professional liability insurance; or (iv) any other event or transaction that is declared by resolution of the Board to constitute a Change in Control for purposes of the Plan. Notwithstanding the foregoing, for any Award that provides for deferred compensation within the meaning of Code Section 409A, Change in Control shall be restricted to those events that satisfy the requirements of Code Section 409A and the regulations promulgated thereunder. 
+^The parties hereto are parties to the Purchase and Sale Agreement, dated as of [[Date 2: Date]] (as amended, restated, supplemented or otherwise modified through the date hereof, the “Agreement”); and 
 
-***“Disability”*** shall mean a serious injury or illness that requires the Participant to be under the regular care of a licensed medical physician and renders the Participant incapable of performing the essential functions of the Participant’s position for 12 months as determined by the Board in good faith and upon receipt of and in reliance on competent medical advice from one or more individuals selected by the Board, who are qualified to give professional medical advice. For any Award that provides for deferred compensation within the 
+^The parties hereto desire to amend the Agreement as hereinafter set forth. 
 
-^^^^^ 
-meaning of Code Section 409A but is not performance based compensation within the meaning of Code Section 409A, the phrase “performing the essential functions of the Participant’s position” shall be replaced with the phrase “engaging in any substantial gainful activity.” 
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
 
-^Section 6 of the Plan is hereby amended to eliminate discretion to accelerate payment of Performance Shares in certain instances not permitted under Section 409A by deleting Section 6(a) in its entirety from the Plan and substituting in lieu thereof the following: 
+SECTION 1.  *Certain Defined Terms*. Capitalized terms that are used but not defined herein shall have the meanings set forth in the Agreement. 
 
-6.(a) Performance Share Awards. The Committee shall have the authority to grant Awards of Performance Shares to Employees on such terms and conditions as may be determined by the Committee. Performance Shares shall be deemed to be received by an Employee as of the Date of Grant in the year the related Performance Share Award is granted. At the time of grant of each Performance Share Award, the Committee shall decide the Award Period and whether there will be an Interim Period. Any Employee may be granted more than one Performance Share Award under the Plan. 
+SECTION 2.  *Amendments to the Agreement*.  
 
-No Participant shall be entitled to receive any dividends or dividend equivalents on Performance Shares; with respect to any Performance Shares, no Participant shall have any voting or any other rights of a Company stockholder; and no Participant shall have any interest in or right to receive any Shares prior to the time the Committee determines the form of payment of Performance Shares pursuant to this Section 6. 
+^^Each reference in the Agreement to the defined term the “Closing Date” shall be deemed to be a reference to “[[Date 3: Date]]”. 
 
-The Committee may establish performance goals for Performance Shares which may be based on any criteria selected by the Committee. Such performance goals may be described in terms of Company-wide objectives or in terms of objectives that relate to the performance of the Participant, a Subsidiary or a division, region, department or function within the Company or a Subsidiary and may relate to relative performance as compared to an outside reference or peer group. 
+^^Section 5.10 of the Agreement is hereby amended by inserting at the end thereof the following new sentence: 
 
-^Section 13 of the Plan is hereby amended to restrict the discretion to make adjustments in a corporate transaction that would violate Section 409A by adding the following as Section 13(d) of the Plan: 
+Each such financing statement, if filed as an as-extracted collateral filing, includes a complete and correct description of the real property related to such collateral, as contemplated by the UCC, and names the record owner of the real property. 
 
-13.(d) Restrictions on Adjustments. In no event shall the adjustments described above, whether mandatory or discretionary, be made so as to change the time or form of payment under an Award that provides for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder. 
+^^The following new Section 5.22 is added to the Agreement immediately following existing Section 5.21: 
 
-^Section 14 of the Plan is hereby further amended to restrict discretion to change the time or form of payment of any deferred compensation that is subject to Section 409A by deleting Section 14(c) in its entirety from the Plan and substituting in lieu thereof the following: 
+^Location of Mining Operations. The location of each Originator’s mining operations and names of each minehead relating thereto are as set forth on  Schedule V hereto. 
 
-^^^^^ 
-14.(c) Compliance with Code Section 409A. It is intended that this Plan, as written and in operation, will be exempt from Code Section 409A. For purposes of determining whether Awards may be payable to a Participant in compliance with Code Section 409A, the Participant’s Termination will be considered as having occurred for purposes of the Plan if the parties reasonably anticipate either (i) that Participant will no longer perform any services for the Company or a Subsidiary or (ii) that the level of bona fide services performed for the Company or a Subsidiary (whether as an Employee, Consultant or Director ) will permanently decrease to no more than [[Percentage 2: Number]]% of the average level of bona fide services performed by Participant over the immediately preceding 36-month period (or the full period of services if Participant has been providing services to the Company and its Subsidiaries for less than 36 months). Notwithstanding the foregoing, if payment of any Award is deemed to be “nonqualified deferred compensation” under Section 409A, and if the Participant is a “specified employee” within the meaning of Code Section 409A(a)(2)(b)(i), the payment schedule for Awards shall be modified or adjusted to provide that no payments shall be made until the expiration of six (6) months following the date of Termination or Change in Control. In the event that payments are so delayed, a lump sum payment of the accumulated unpaid amounts attributable to the six (6) month period shall be made to Participant on the first day of the seventh month following the date of Termination or Change in Control. This six month delay shall not apply to any Awards which are not subject to the requirements of Section 409A of the Code by reason of their being separation pay upon an involuntary separation from service and their meeting the requirements and limitations of the regulations under the above referenced Code section. In no event shall the aggregate amount of Awards be reduced as a result of such modification or adjustment. 
+^^Section 6.1(i) of the Agreement is replaced in its entirety with the following: 
 
-Notwithstanding the foregoing, the Committee shall not be granted and shall not exercise any discretion otherwise provided under the Plan to change the time or form of payments to Participants with respect to Awards that provide for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder. The terms of the Plan and any related Agreements with respect to Awards that provide for deferred compensation within the meaning of Code Section 409A and the regulations promulgated thereunder shall be interpreted by the Committee as necessary to comply with Code Section 409A. 
-
-^This Amendment is effective as of [[Date 1: Date]]. Except as amended hereby, terms and provisions of the Plan shall continue in effect and are hereby ratified and approved in all respects. The Plan may be restated in its entirety for convenience in order to reflect in a single document the terms and conditions of the Plan as amended hereby . 
-
-**This Amendment was adopted and approved by the Board of Directors of the Company in accordance with** **Section 14(k)** **of the Plan at the meeting of the Board of Directors held on [[Date 1]]. Shareholder approval of the Amendment is not required because the Amendment does not amend the material terms of the Plan for purposes of** 
+^^Data Records. Place and maintain on its summary master control data processing records the following legend (or the substantive equivalent thereof): “THE RECEIVABLES DESCRIBED HEREIN HAVE BEEN SOLD TO ARCH COAL, INC. PURSUANT TO A PURCHASE AND SALE 
 
 ^^^^^ 
-**Section 162(m) of the Code and does not constitute a material revision to the Plan for purposes of Section 303A.08 of the New York Stock Exchange Listed Company Manual.** 
- 
+AGREEMENT, DATED AS OF FEBRUARY 3, 2006, BETWEEN THE ORIGINATORS NAMED THEREIN AND ARCH COAL, INC.; AND AN INTEREST IN THE RECEIVABLES DESCRIBED HEREIN HAS BEEN GRANTED TO PNC BANK, NATIONAL ASSOCIATION, FOR THE BENEFIT OF THE PURCHASERS UNDER THE AMENDED AND RESTATED RECEIVABLES PURCHASE AGREEMENT, DATED AS OF FEBRUARY 24, 2010, BY AND AMONG ARCH RECEIVABLE COMPANY, ARCH COAL SALES COMPANY, INC., THE VARIOUS CONDUIT PURCHASERS, RELATED COMMITTED PURCHASERS, LC PARTICIPANTS AND PURCHASER AGENTS FROM TIME TO TIME PARTY THERETO AND PNC BANK, NATIONAL ASSOCIATION, AS ADMINISTRATOR AND AS LC BANK.” 
+
+^^The following new Section 6.1(j) is added to the Agreement immediately following existing Section 6.1(i): 
+
+^^Mining Operations and Mineheads. The Company shall (and shall cause each applicable Originator to) promptly, and in any event within 30 days of any change, deletion or addition to the location of any Originator’s mining operations or mineheads set forth on Schedule V hereto, (i) notify the Administrator and each Purchaser Agent of such change, deletion or addition, (ii) cause the filing or recording of such financing statements and amendments and/or releases to financing statements, mortgages or other instruments, if any, necessary to preserve and maintain the perfection and priority of the security interest of the Transferor, Seller and Administrator (for the benefit of the Purchasers) in the Pool Assets pursuant to this Agreement, in each case in form and substance satisfactory to the Administrator and (iii) deliver to the Administrator and each Purchaser Agent an updated Schedule V hereto reflecting such change, deletion or addition; it being understood that no Receivable, the related location of mining operations and/or mineheads of which is not as set forth on Schedule V hereto as of such date of determination shall be an Eligible Receivable until such time as each condition under this clause (j) shall have been satisfied (and upon such satisfaction, this Agreement shall be deemed amended to reflect such updated Schedule V hereto). 
+
+^^The following new Section 6.1(k) is added to the Agreement immediately following new Section 6.1(j): 
+
+Additional Mortgages Under Credit Agreement. The Company shall (and shall cause each applicable Originator to) (x) provide written notice promptly, and in any event within 30 days, to the Seller, the Administrator and each Purchaser Agent of each new Mortgage or amendment or modification of an existing Mortgage under the Credit Agreement covering as-extracted collateral, (y) cause to be delivered to the Administrator a letter, in form and substance satisfactory to the Administrator, addressed to the Administrator and duly executed by the related grantee or beneficiary releasing such party’s security interest, lien or other rights under such new Mortgage or amended or modified Mortgage in the Receivables, Contracts and Related Security subject thereto and (z) file or record 
+
+^^^^^ 
+all amendments and/or releases to such new, amended or modified Mortgages necessary to release and remove of record any such security interest, lien or other interest of the related grantee or beneficiary in the Receivables, Contracts and Related Security, in each case in form and substance satisfactory to the Administrator. 
+
+^^Schedule I of the Agreement is replaced in its entirety with Schedule I attached hereto. 
+
+^^Schedule V attached hereto is added to the Agreement as Schedule V thereto, immediately following existing Schedule IV. 
+
+^^The parties hereto hereby agree that on and after the date hereof, each of Arch of Wyoming, Ashland Terminal, Inc., Catenary Coal Holdings, Inc., Mountain Mining, Inc. and Triton Coal Company (collectively, the “Released Originators”) shall no longer be a party to the Agreement or any other Transaction Document and no Released Originator shall have any rights or obligations thereunder (other than such obligations which by their express terms survive termination of the Agreement). 
+
+SECTION 3.  *Representations and Warranties*. Each of the Originators hereby represents and warrants as follows: 
+
+^^Representations and Warranties. The representations and warranties made by it in the Transaction Documents are true and correct as of the date hereof (unless stated to relate solely to an earlier date, in which case such representations or warranties were true and correct as of such earlier date). 
+
+^^Enforceability. The execution and delivery by such Person of this Amendment, and the performance of each of its obligations under this Amendment and the Agreement, as amended hereby, are within each of its corporate powers and have been duly authorized by all necessary organizational action on its part. This Amendment and the Agreement, as amended hereby, are such Person’s valid and legally binding obligations, enforceable in accordance with their respective terms. 
+
+^^No Default. Both before and immediately after giving effect to this Amendment and the transactions contemplated hereby, no Purchase and Sale Termination Event, Unmatured Purchase and Sale Termination Event, Termination Event or Unmatured Termination Event exists or shall exist. 
+
+SECTION 4.  *Effect of Amendment*. All provisions of the Agreement, as expressly amended and modified by this Amendment, shall remain in full force and effect. After this Amendment becomes effective, all references in the Agreement (or in any other Transaction Document) to “this Agreement”, “hereof”, “herein” or words of similar effect referring to the Agreement shall be deemed to be references to the Agreement as amended by this Amendment. This Amendment shall not be deemed, either expressly or impliedly, to waive, amend or supplement any provision of the Agreement other than as set forth herein. 
+
+^^^^^ 
+^*Effectiveness*. This Amendment shall become effective as of the date hereof upon receipt by the Administrator of duly executed counterparts of this Amendment. 
+
+SECTION 6.  *Counterparts*. This Amendment may be executed in any number of counterparts and by different parties on separate counterparts, each of which when so executed shall be deemed to be an original and all of which when taken together shall constitute but one and the same instrument. Delivery of an executed counterpart of a signature page to this Amendment by facsimile or electronic transmission shall be effective as delivery of a manually executed counterpart hereof. 
+
+SECTION 7.  *Governing Law*. This Amendment shall be governed by, and construed in accordance with, the internal laws of the State of New York. 
+
+SECTION 8.  *Section Headings*. The various headings of this Amendment are included for convenience only and shall not affect the meaning or interpretation of this Amendment, the Agreement or any provision hereof or thereof. 
+
+\centered *[Signatures begin on next page]* 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties have caused this First Amendment to Purchase and Sale Agreement to be executed by their respective officers thereunto duly authorized as of the date first above written. 
+
+ARCH COAL, INC.
+[[ARCH COAL INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{ARCH COAL INC. Entity => By: [[ARCH COAL INC. Signatory First Name]] [[ARCH COAL INC. Signatory Last Name]]
+Title: [[ARCH COAL INC. Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-1 
+
+^^^^^ 
+
+ORIGINATORS:  ARCH COAL SALES COMPANY, INC., as an Originator
+[[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Entity => By: [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory First Name]] [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Last Name]]
+Title: [[ORIGINATORS  ARCH COAL SALES COMPANY INC. as an Originator Signatory Title]]}}
+
+
+ARCH COAL TERMINAL, INC., as an Originator
+[[ARCH COAL TERMINAL INC. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{ARCH COAL TERMINAL INC. as an Originator Entity => By: [[ARCH COAL TERMINAL INC. as an Originator Signatory First Name]] [[ARCH COAL TERMINAL INC. as an Originator Signatory Last Name]]
+Title: [[ARCH COAL TERMINAL INC. as an Originator Signatory Title]]}}
+
+
+ARCH ENERGY RESOURCES, as an Originator
+[[ARCH ENERGY RESOURCES as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{ARCH ENERGY RESOURCES as an Originator Entity => By: [[ARCH ENERGY RESOURCES as an Originator Signatory First Name]] [[ARCH ENERGY RESOURCES as an Originator Signatory Last Name]]
+Title: [[ARCH ENERGY RESOURCES as an Originator Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-2 
+
+^^^^^ 
+
+ARCH WESTERN RESOURCES, as an Originator
+[[ARCH WESTERN RESOURCES as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{ARCH WESTERN RESOURCES as an Originator Entity => By: [[ARCH WESTERN RESOURCES as an Originator Signatory First Name]] [[ARCH WESTERN RESOURCES as an Originator Signatory Last Name]]
+Title: [[ARCH WESTERN RESOURCES as an Originator Signatory Title]]}}
+
+
+CANYON FUEL COMPANY, as an Originator
+[[CANYON FUEL COMPANY as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{CANYON FUEL COMPANY as an Originator Entity => By: [[CANYON FUEL COMPANY as an Originator Signatory First Name]] [[CANYON FUEL COMPANY as an Originator Signatory Last Name]]
+Title: [[CANYON FUEL COMPANY as an Originator Signatory Title]]}}
+
+
+COAL-MAC, INC., as an Originator
+[[COAL-MAC INC. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{COAL-MAC INC. as an Originator Entity => By: [[COAL-MAC INC. as an Originator Signatory First Name]] [[COAL-MAC INC. as an Originator Signatory Last Name]]
+Title: [[COAL-MAC INC. as an Originator Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-3 
+
+^^^^^ 
+
+CUMBERLAND RIVER COAL COMPANY, as an Originator
+[[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{CUMBERLAND RIVER COAL COMPANY as an Originator Entity => By: [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory First Name]] [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Last Name]]
+Title: [[CUMBERLAND RIVER COAL COMPANY as an Originator Signatory Title]]}}
+
+
+LONE MOUNTAIN PROCESSING, INC., as an Originator
+[[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{LONE MOUNTAIN PROCESSING INC. as an Originator Entity => By: [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory First Name]] [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Last Name]]
+Title: [[LONE MOUNTAIN PROCESSING INC. as an Originator Signatory Title]]}}
+
+
+MINGO LOGAN COAL COMPANY, as an Originator
+[[MINGO LOGAN COAL COMPANY as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{MINGO LOGAN COAL COMPANY as an Originator Entity => By: [[MINGO LOGAN COAL COMPANY as an Originator Signatory First Name]] [[MINGO LOGAN COAL COMPANY as an Originator Signatory Last Name]]
+Title: [[MINGO LOGAN COAL COMPANY as an Originator Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-4 
+
+^^^^^ 
+
+MOUNTAIN COAL COMPANY, L.L.C., as an Originator
+[[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{MOUNTAIN COAL COMPANY L.L.C. as an Originator Entity => By: [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory First Name]] [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Last Name]]
+Title: [[MOUNTAIN COAL COMPANY L.L.C. as an Originator Signatory Title]]}}
+
+
+THUNDER BASIN COAL COMPANY, L.L.C., as an Originator
+[[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Email: Identity | Signature]]
+__________________________________________
+{{THUNDER BASIN COAL COMPANY L.L.C. as an Originator Entity => By: [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory First Name]] [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Last Name]]
+Title: [[THUNDER BASIN COAL COMPANY L.L.C. as an Originator Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-5 
+
+^^^^^ 
+CONSENT TO:  
+PNC BANK, National Association  
+
+[[PNC BANK National Association Signatory Email: Identity | Signature]]
+__________________________________________
+{{PNC BANK National Association Entity => By: [[PNC BANK National Association Signatory First Name]] [[PNC BANK National Association Signatory Last Name]]
+Title: [[PNC BANK National Association Signatory Title]]}}
+
+
+*First Amendment to PSA (Arch Coal)*  
+
+\centered S-6 
+
+^^^^^ 
+Schedule I  
+
+\centered LIST OF ORIGINATORS 
+
+Arch Coal Sales Company, Inc.
+
+Arch Coal Terminal, Inc.
+
+Arch Energy Resources
+
+Arch Western Resources
+
+Canyon Fuel Company
+
+Coal-Mac, Inc.
+
+Cumberland River Coal Company
+
+Lone Mountain Processing, Inc.
+
+Mingo Logan Coal Company
+
+Mountain Coal Company, L.L.C.
+
+Thunder Basin Coal Company, L.L.C. 
+
+\centered 
+
+Schedule 1-1    *Purchase and Sale Agreement* *(Arch Coal)*  
+
+^^^^^ 
+Schedule V  
+
+\centered LOCATION OF MINING OPERATIONS 
+
+\centered 
+
+**ORIGINATOR**    **MINEHEAD**    **STATE**    **COUNTY** Arch Coal Sales Company, Inc.    -N/A    West Virginia    Mingo Arch Coal Terminal, Inc.    -N/A    Kentucky    Boyd Arch Western Resources    -N/A    Wyoming    Campbell Canyon Fuel Company    - Dugout - - Skyline    Utah    Carbon Canyon Fuel Company    -Sufco    Utah    Sevier Coal-Mac, Inc.    -Holden - -Ragland / Phoenix    West Virginia    Logan Coal-Mac, Inc.    -Ragland / Phoenix    West Virginia    Mingo Cumberland River Coal Company    -Cumberland River (aka Pardee)    Kentucky    Letcher Cumberland River Coal Company    -Cumberland River (aka Pardee)    Virginia    Wise Lone Mountain Processing, Inc.    -Lone Mountain    Kentucky    Harlan Lone Mountain Processing, Inc.    -N/A    Virginia    Lee Mingo Logan Coal Company    -Mountain Laurel    West Virginia    Logan Mountain Coal Company, L.L.C.    - West Elk    Colorado    Gunnison Thunder Basin Coal Company, L.L.C.    - Black Thunder - - Coal Creek    Wyoming    Campbell  
+
+\centered 
+
+Schedule V-1    *Purchase and Sale Agreement* *(Arch Coal)*

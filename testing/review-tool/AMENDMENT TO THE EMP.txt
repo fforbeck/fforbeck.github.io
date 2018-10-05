@@ -1,26 +1,46 @@
-\centered **AMENDMENT TO THE EMPLOYMENT AGREEMENT BY AND BETWEEN** 
+[FedFirst Financial Corporation 10-Q](fedfirst-10q_0510.htm)   
 
-\centered **RICHARD B. BOYER AND EXCHANGE UNDERWRITERS, INC.** 
+\centered **AMENDMENT TO THE EMPLOYMENT AGREEMENT BY AND BETWEEN**
 
-**WHEREAS**, Richard B. Boyer (the “Executive”) entered into an employment agreement with Exchange Underwriters, Inc., a fully owned subsidiary of First Federal Savings Bank, effective [[Date 1: Date]] (the “Employment Agreement”); and 
+\centered **ROBERT C. BARRY, JR.,**
 
-**WHEREAS**, the Board of Directors of Exchange Underwriters, Inc. has resolved to amend the Employment Agreement effective [[Date 2: Date]], to reflect an adjustment in the Executive’s annual base salary; and 
+\centered **FIRST FEDERAL SAVINGS BANK AND FEDFIRST FINANCIAL CORPORATION**
 
-**WHEREAS**, the Employment Agreement was further amended to provide that modifications to Executive’s base salary in the future will not require an amendment to the Employment Agreement. 
+**WHEREAS,** Robert C. Barry, Jr. (the “Executive”) entered into an employment agreement with First Federal Savings Bank (the “Bank”) and FedFirst Financial Corporation (the “Company”) effective [[Date 1: Date]] (the “Employment Agreement”); and
 
-**NOW, THEREFORE**, the Executive and Exchange Underwriters, Inc. hereby consent to the following: 
+**WHEREAS** , the Board of Directors of the Bank has resolved to amend the Employment Agreement effective [[Date 2: Date]], to reflect an adjustment in the Executive’s annual base salary; and
 
-Effective [[Date 2]], Section 4 of the Employment Agreement shall be deleted in its entirety and replaced with the following new Section 4: 
+**WHEREAS**, the Employment Agreement was further amended to provide that modifications to Executive’s base salary in the future will not require an amendment to the Employment Agreement.
 
-“Exchange agrees to pay Executive an annual salary of $[[USD Value 1: Number]] payable in accordance with the customary payroll practices of Exchange. The Executive’s annual salary, as the same may be modified from time to time, is referred to in this Agreement as the “Base Salary.”” 
+**NOW, THEREFORE**, the Bank, the Company and the Executive hereby consent to the following:
 
-**ATTEST:**            **EXCHANGE UNDERWRITERS, INC.**
+Effective [[Date 2]], Section 4(a) of the Employment Agreement shall be deleted in its entirety and replaced with the following new Section 4(a):
 
-[[ATTEST            EXCHANGE UNDERWRITERS INC. Signatory Email: Identity | Signature]]
+“The Bank agrees to pay the executive an annual salary of $[[USD Value 1: Number]] payable in accordance with the customary payroll practices of the Bank. The Executive’s annual salary, as the same may be modified from time to time, is referred to in this Agreement as the “base salary.””
+
+**ATTEST:**         **FIRST FEDERAL SAVINGS BANK**
+
+[[ATTEST         FIRST FEDERAL SAVINGS BANK Signatory Email: Identity | Signature]]
 __________________________________________
-{{ATTEST            EXCHANGE UNDERWRITERS INC. Entity => By: [[ATTEST            EXCHANGE UNDERWRITERS INC. Signatory First Name]] [[ATTEST            EXCHANGE UNDERWRITERS INC. Signatory Last Name]]
-Title: [[ATTEST            EXCHANGE UNDERWRITERS INC. Signatory Title]]}}
+{{ATTEST         FIRST FEDERAL SAVINGS BANK Entity => By: [[ATTEST         FIRST FEDERAL SAVINGS BANK Signatory First Name]] [[ATTEST         FIRST FEDERAL SAVINGS BANK Signatory Last Name]]
+Title: [[ATTEST         FIRST FEDERAL SAVINGS BANK Signatory Title]]}}
 
+DaCosta Smith III         John J. LaCarte
 
-/s/ Richard B. Boyer
-Richard B. Boyer
+**ATTEST:**         **FEDFIRST FINANCIAL CORPORATION**
+
+[[ATTEST         FEDFIRST FINANCIAL CORPORATION Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST         FEDFIRST FINANCIAL CORPORATION Entity => By: [[ATTEST         FEDFIRST FINANCIAL CORPORATION Signatory First Name]] [[ATTEST         FEDFIRST FINANCIAL CORPORATION Signatory Last Name]]
+Title: [[ATTEST         FEDFIRST FINANCIAL CORPORATION Signatory Title]]}}
+
+DaCosta Smith III         John J. LaCarte
+
+**ATTEST:**
+
+[[ATTEST Signatory Email: Identity | Signature]]
+__________________________________________
+{{ATTEST Entity => By: [[ATTEST Signatory First Name]] [[ATTEST Signatory Last Name]]
+Title: [[ATTEST Signatory Title]]}}
+
+DaCosta Smith III         Robert C. Barry, Jr.

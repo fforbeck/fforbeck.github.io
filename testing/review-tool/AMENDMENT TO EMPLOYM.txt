@@ -1,95 +1,55 @@
-\centered **AMENDMENT TO**
+\centered **AMENDMENT TO EMPLOYMENT AGREEMENT**
 
-\centered **EMPLOYMENT, CONSULTING AND GENERAL RELEASE AGREEMENT**
+This Amendment (“Amendment”) is made among Zynex Medical, Inc., a Colorado corporation and Zynex, Inc., a Nevada corporation (collectively, “Employer”), and Thomas Sandgaard (the “Employee”), to amend certain provisions of the Employment Agreement (the “Agreement”), dated [[Date 1: Date]], between Employee and Zynex Medical, Inc., as such Agreement was amended by the amendments dated [[Date 2: Date]] and [[Date 3: Date]].
 
-This Amendment to Employment, Consulting and General Release Agreement (the “Amendment”) is entered into by and between United States Cellular Corporation (the “Company”) and [[Executive]] (the “Executive”).
+^Section (1) of the Agreement is hereby amended and restated in its entirety as follows:
 
-**WHEREAS,** the Executive’s employment with the Company as its Executive Vice President and Chief Operating Officer ceased on [[Date 1: Date]] (the “Separation Date”);
+^Term. Subject to the terms of this Section 1 and Sections 7, 8 and 9, this Agreement shall commence on [[Date 1]] and expire on the earlier of the Employee’s death, resignation, or [[Date 4: Date]] (the date on which this Agreement shall expire, as such date may be extended in accordance with the terms of this Section 1 is hereinafter referred to as the "Expiration Date"). Subject to the terms of Sections 7, 8 and 9, unless either party gives written notice to the other of its desire to terminate this Agreement at least thirty days prior to the then current Expiration Date or Extended Period (the "Termination Notification Date"), this Agreement will be automatically extended for further period(s) of one year from the then current Expiration Date (the "Extended Period") o n the same terms and conditions as herein set forth. Except when the contrary is indicated, the phrase "the term of this Agreement" shall henceforth be deemed to include the Extended Period.
 
-**WHEREAS,** on [[Date 2: Date]], the Company and the Executive entered into an Employment, Consulting and General Release Agreement (the “Agreement”) pursuant to which the Executive agreed to provide specified services for the Company as a nonemployee, independent contractor during the period commencing on [[Date 3: Date]] and ending on [[Date 4: Date]] (the “Consulting Period”);
+^Paragraphs (a), (b), and (c) of section (4) of the Agreement are hereby amended and restated in its entirety as follows:
 
-**WHEREAS,** the Agreement contemplates that the Executive will devote to the Company approximately [[Percentage 1: Number]]% to [[Percentage 2: Number]]% of his available work time during the Consulting Period in fulfillment of such consulting services;
+^Compensation.   
+^^Commencing [[Date 5: Date]], the Employer shall pay to the Employee for the loyal and consistent services provided to it hereunder a fee at the rate of $[[USD Value 1: Number]] per month. The Employee’s compensation shall be reviewed at least annually for appropriate adjustments at the end of each year as determined by the Board of Directors of Zynex, Inc. (the “Board”).
 
-**WHEREAS,** subsequent to the Separation Date, the Company experienced an unanticipated vacancy in the role of “Lead Vendor Negotiator” with respect to the Company’s procurement of a new Business Support System and Operational Support System for its wireless business (the “B/OSS Vendor Selection Program”);
+^^Employee shall also receive after the end of each quarter during the term of this Agreement, bonus compensation based on meeting or exceeding cash collections, EBITDA and revenue amounts set as targets for the quarter or year, as the case may be, based on the budget of Zynex, Inc. that has been accepted by the Board for the applicable periods. The annual bonus may be earned irrespective of whether an individual quarter’s bonus was earned and is applicable for 2010; although, the quarterly based bonuses are effective for quarters beginning after [[Date 5]]. The bonuses computations are as follows:
 
-**WHEREAS,** in light of the Executive’s knowledge of the Company’s business and proven negotiation skills in similar transactions, the Company desires that the Executive, as a component of his service to the Company as a nonemployee, independent contractor, serve as Lead Vendor Negotiator with respect to the B/OSS Vendor Selection Program, and the Executive desires to serve in such capacity; and
+\centered **Quarterly Bonus**   
 
-**WHEREAS,** the Company and the Executive desire to amend the Agreement to reflect the Executive’s service as Lead Vendor Negotiator with respect to the B/OSS Vendor Selection Program and to increase accordingly the Executive’s anticipated level of services to the Company during the Consulting Period and the compensation paid to the Executive by the Company for his consulting services.
+\centered **Annual Bonus**
 
-**NOW, THEREFORE,** in consideration of the mutual promises contained in this Amendment and for other good and valuable consideration, the adequacy and receipt of which the parties expressly acknowledge, the Company and the Executive agree that the Agreement hereby shall be amended, effective as of [[Date 5: Date]], as follows:
+\centered **Cash Collections Meeting**   \centered **Targeted**   \centered **Amounts**
+Less than [[Percentage 1: Number]]%   $[[USD Value 4: Number]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2: Number]]   $[[USD Value 3: Number]]
 
-^Paragraph 10 hereby is amended in its entirety to read as follows:
+\centered **EBITDA**   \centered **Meeting Targeted Amounts**
+Less than [[Percentage 1]]%   $[[USD Value 4]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2]]   $[[USD Value 3]]
 
-^ \centered 10.**Consulting****.**  
-(a)**General Services**. From [[Date 3]] until [[Date 4]] (the “Consulting Period”), the Executive shall perform the following specialized services for the Company as a nonemployee, independent contractor:
+\centered **Net Revenue**   \centered **Meeting**   \centered **Targeted Amounts**
+Less than [[Percentage 1]]%   $[[USD Value 4]]   $[[USD Value 4]]
+at or >[[Percentage 1]]%   $[[USD Value 2]]   $[[USD Value 3]]
 
-^^^he will attend the Company annual talent review meeting currently scheduled for [[Date 6: Date]] to 27, 2010;
+^^The Board may include or exclude amounts from cash collections, EBITDA or net revenues for purposes of calculating the bonus if the Board deems such amounts to be unusual or infrequent.
 
-^^^he will complete all performance reviews for direct reports and submit them to the Senior Vice President of Human Resources;
+Except as expressly modified by this Amendment, all other terms and conditions of the Agreement remain in full force and effect and are not be altered by this Amendment.
 
-^^^he will meet with and/or speak with the Executive Vice President  Operations and provide him with an in-depth understanding of the Company’s business operations;
+The undersigned have executed this Amendment effective as of [[Date 5]].
 
-^^^he will meet with and/or speak with the Executive Vice President  Operations and provide him with an in-depth understanding of the Company’s current long-term strategy plan; and
-
-^^he will perform such other duties as reasonably may be authorized or directed by the President.
-
-It is expected and agreed that the services specified in this Paragraph 10(a) will require the Executive to devote to the Company approximately [[Percentage 1]]% to [[Percentage 2]]% of his available work time during the Consulting Period.
-
-(b)**B/OSS Vendor Selection Program Services**. From [[Date 5]] until negotiations with respect to the Company’s procurement of a new Business Support System and Operational Support System for its wireless business (the “B/OSS Vendor Selection Program”) have been completed (or until such earlier time determined by the Executive Vice President  Operations of the Company and communicated to the Executive in writing), the Executive shall serve as Lead Vendor Negotiator with respect to the B/OSS Vendor Selection Program (the “Lead Vendor Negotiator”). In his role as Lead Vendor Negotiator, the Executive shall perform the following specialized services for the Company as a nonemployee, independent contractor:
-
-^^^he will share experiences and current environment information to develop the Company’s ideal position and requirements with respect to each vendor;
-
-^^^he will review and analyze all vendor-provided proposals and supporting documentation;
-
-^^^he will collaborate with the Company and NPI, the Company’s spend management partner, on desired negotiation strategies and approaches;
-
-^^^he will meet weekly with the Company’s vendor management team to review the status of statements of work from vendors and their systems integrators;
-
-^^^he will participate in and lead high-level negotiations with vendors and their systems integrators;
-
-^^^he will oversee the procurement process, ensure that it is sound and effective and provide constructive feedback to team members as necessary;
-
-^^^he will provide guidance to the Company’s executive team with respect to the procurement process;
-
-^^^he will provide security and continuity to the Company’s vendor management team; and
-
-^^^he will perform such other duties with respect to the B/OSS Vendor Selection Program as reasonably may be authorized or directed by the Executive Vice President  Operationsof the Company.
-
-The Company and the Executive agree that, except with advance approval ofthe Executive Vice President  Operations of the Company, the Executive shall devote no more than twenty (20) hours per week to his role as Lead Vendor Negotiator, and that the Executive’s services as Lead Vendor Negotiator shall be in addition to the general consulting services to be performed by the Executive pursuant to Paragraph 10(a). The Executive shall perform his services as Lead Vendor Negotiator at such location as the Executive Vice President  Operations of the Company shall direct from time to time.
-
-The Executive shall submit to the Company, at the time and in a form acceptable to the Company, a description of the services performed by the Executive in his role as Lead Vendor Negotiator and the time incurred by the Executive in performing such services.
-
-The Executive understands and agrees that he shall not have the authority to execute any agreement on behalf of, or otherwise bind, the Company, in his role as Lead Vendor Negotiator or in connection with the other consulting services provided by the Executive to the Company.
-
-(c)**Payment for Services**. On [[Date 7: Date]], the Executive will be paid the following:
-
-^^^$[[USD Value 1: Number]] for the consulting services specified in Paragraph 10(a);
-
-^^^a one-time payment of $[[USD Value 2: Number]] as the sole reimbursement for any and all miscellaneous business expenses incurred while providing the consulting services specified in Paragraph 10(a), such as telephone, internet and postage, but excluding any travel expenses which shall be separately reimbursed in accordance with the Company’s expense policies; and
-
-^^^a lump sum amount for the consulting services specified in Paragraph 10(b) at the rate of $250.00 per hour.
-
-In addition, the Executive shall be reimbursed, in accordance with the Company’s expense policies, for business expenses, including travel expenses but excluding expenses related to telephone, internet and postage,reasonably incurred by the Executive while providing the consulting services specified in Paragraph 10(b).
-
-The Executive acknowledges and agrees that he is solely responsible for any federal and state income taxes and social security taxes due in connection with payments by the Company to the Executive for consulting services. The compensation set forth in this Paragraph 10(c) shall be the sole compensation paid to the Executive for the consulting services provided by the Executive.
-
-^Paragraph 11(f) hereby is amended to replace the phrase “the consulting payments specified in Paragraph 10(b)” set forth therein with the phrase “the consulting payments specified in Paragraph 10(c)”.
-
-^The first sentence of Paragraph 14 hereby is amended to replace the phrase “during his employment” set forth therein with the phrase “during his employment or the Consulting Period”.
-
-^The third sentence of Paragraph 14 hereby is amended to replace the phrase “actual lost wages” set forth therein with the phrase “lost wages at the rate of $250.00 per hour”.
-
-
-^ \centered **FURTHER RESOLVED,** that except as amended herein, all of the terms of the Agreement remain in full force and effect and hereby are reaffirmed.  
-**THE EXECUTIVE AND THE COMPANY EXPRESSLY STATE THAT THEY HAVE READ THIS AMENDMENT TO EMPLOYMENT, CONSULTING AND GENERAL RELEASE AGREEMENT, THAT THEY UNDERSTAND ITS TERMS, AND THAT THEY HAVE ENTERED INTO IT VOLUNTARILY AND INTEND TO BE BOUND THEREBY.**
-
-[[Executive]]   **UNITED STATES CELLULAR CORPORATION**
-
-[[Executive   UNITED STATES CELLULAR CORPORATION Signatory Email: Identity | Signature]]
+Zynex, Inc.   
+[[Zynex Inc. Signatory Email: Identity | Signature]]
 __________________________________________
-{{Executive   UNITED STATES CELLULAR CORPORATION Entity => By: [[Executive   UNITED STATES CELLULAR CORPORATION Signatory First Name]] [[Executive   UNITED STATES CELLULAR CORPORATION Signatory Last Name]]
-Title: [[Executive   UNITED STATES CELLULAR CORPORATION Signatory Title]]}}
+{{Zynex Inc. Entity => By: [[Zynex Inc. Signatory First Name]] [[Zynex Inc. Signatory Last Name]]
+Title: [[Zynex Inc. Signatory Title]]}}
 
-[[Executive]]   Its:      ***President and CEO***
 
-**Dated**: January , 2010   **Dated**:   January , 2010
+Zynex Medical, Inc.   
+[[Zynex Medical Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Zynex Medical Inc. Entity => By: [[Zynex Medical Inc. Signatory First Name]] [[Zynex Medical Inc. Signatory Last Name]]
+Title: [[Zynex Medical Inc. Signatory Title]]}}
+
+
+[[Title Party 2 Signatory Title}} Signatory Email: Identity | Signature]]
+__________________________________________
+{{Title Party 2 Signatory Title}} Entity => By: [[Title Party 2 Signatory Title}} Signatory First Name]] [[Title Party 2 Signatory Title}} Signatory Last Name]]
+Title: [[Title Party 2 Signatory Title}} Signatory Title]]}}

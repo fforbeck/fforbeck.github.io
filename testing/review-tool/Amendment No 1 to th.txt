@@ -1,13 +1,25 @@
-\centered **Amendment No. 1 to the Amended and Restated ALH Holding Inc. Stock Incentive Plan** 
+\centered **Amendment No. 1 to the** 
 
-THIS AMENDMENT to the Amended and Restated ALH Holding Inc. Stock Incentive Plan (the “Plan”) is effective as of [[Date 1: Date]]. 
+\centered **Employment Agreement** 
 
-^Stock Subject to the Plan. Section 5.1 of the Plan is hereby amended to read in its entirety: 
+\centered **between** 
 
-^^Number. Subject to the provisions of Section 5.3, the number of shares of Common Stock subject to Options under the Plan may not exceed [[Shares 1: Number]] shares. The shares of Common Stock to be delivered under the Plan may consist, in whole or in part, of shares held in treasury or authorized but unissued shares not reserved for any other purpose. 
+\centered **Bluehill ID AG** 
 
-\centered * * * 
+\centered **and** 
 
-In all other respects, the form, terms and provisions of the Plan remain unchanged and in full force and effect. 
+\centered **Mr. John Rogers** 
 
-\centered *[remainder of page intentionally left blank]*
+The Parties hereto have agreed to amend the Employment Agreement as follows: 
+
+^As of 1 [[Date 1: Date]] the Base Salary as defined in Article 3.1 of the Employment Agreement shall amount to CHF 175’000 per annum.
+
+^All other terms and conditions of the Employment Agreement shall remain in full force and effect.
+
+Jongny, 16 [[Date 2: Date]]            St. Gallen, 16 [[Date 2]]
+
+**Bluehill ID AG**
+
+/s/ John Rogers            /s / Ayman S. Ashour
+**John Rogers**            By:      Ayman S. Ashour
+Title:      President of the Board of Directors

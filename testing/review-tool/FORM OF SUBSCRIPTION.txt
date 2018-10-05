@@ -1,424 +1,115 @@
-\centered **FORM OF**
+\centered **FORM OF SUBSCRIPTION RIGHTS CERTIFICATE** 
 
-\centered **SUBSCRIPTION AGREEMENT**
+**RIGHTS CERTIFICATE #:**      \centered **NUMBER OF RIGHTS:**
 
-Vyteris, Inc. 
-^-01 Pollitt Drive 
-Fairlawn, NJ 07410  
-Ladies and Gentlemen:  
-^**Subscription.** The undersigned (the “Purchaser”, which term for greater certainty shall include any beneficial person for whom it is acting), intending to be legally bound, hereby irrevocably agrees to purchase from Vyteris, Inc., a Nevada corporation (the “Company”) the number of units (the “Units”) set forth on the signature page hereof at a purchase price of $[[USD Value 1: Number]] per Unit. This subscription is submitted to you in accordance with and subject to the terms and conditions described in this Subscription Agreement and the Confidential Private Placement Memorandum of the Company dated [[Date 1: Date]], as may amended or supplemented from time to time, including all attachments, schedules and exhibits thereto (the “Memorandum”), relating to the offering (the “Offering”) by the Company of a minimum (the “Minimum Amount”) of 10 Units ($[[USD Value 2: Number]]) and a maximum (the “Maximum Amount”) of 70 Units ($[[USD Value 3: Number]]) with an overallotment of up to 30 Units ($[[USD Value 4: Number]]). Each Unit consists of (i) a $[[USD Value 1]] principal amount of [[Percentage 1: Number]]% Senior Subordinated Convertible Promissory Note due three (3) years from the initial closing date (each, a “Note” and collectively, the “Notes”) and (ii) a five (5) year warrant (each, a “Warrant” and collectively, the “Warrants”), with each Warrant entitling the holder to purchase such number of shares of the Company’s common stock, par value $[[USD Value 12: Number]] per share (the “Common Stock”) equal to one hundred percent ([[Percentage 2: Number]]%) of the shares of Common Stock that the Note is initially convertible into, at an initial exercise price equal to the [[Percentage 3: Number]]% of the initial Note Conversion Price (as defined in the Memorandum); provided, however, that the initial exercise price of the Warrant shall be [[Percentage 2]]% of the initial Note Conversion Price for purchasers that participate in the First Closing (as hereinafter defined).
+\centered THE TERMS AND CONDITIONS OF THE RIGHTS OFFERING ARE SET FORTH IN THE COMPANY’S PROSPECTUS 
 
-The terms of the Offering are more completely described in the Memorandum and such terms are [[SEC Documents]] herein in their entirety.
+\centered DATED [ ] [ ], 2010 (THE “PROSPECTUS”) AND ARE INCORPORATED HEREIN BY REFERENCE. COPIES OF 
 
-^**Payment.** The Purchaser encloses herewith a check payable to, or will immediately make a wire transfer payment to, “Signature Bank, Escrow Agent for Vyteris, Inc.” in the full amount of the purchase price of the Units being subscribed for (“**Purchase Price**”). To request wire transfer instructions, please contact Ms. DiAnn Ellis, Spencer Trask Ventures, Inc., telephone no. [[Phone 1]], ext. 672. Such funds will be held for the Purchaser's benefit, and will be returned promptly, without interest or offset if this Subscription Agreement is not accepted by the Company, the Offering is terminated pursuant to its terms or by the Company or Spencer Trask Ventures, Inc. (in its capacity as the “Placement Agent”), prior to the First Closing or the Minimum Amount is not sold. Together with a check for, or wire transfer of, the full Purchase Price, the Purchaser is delivering **two** completed and executed Omnibus Signature Pages to this Subscription Agreement, the Warrant, in the form of **Annex C** to the Memorandum (the “Warrant”) and the Security Agreement in the form of Annex D to the Memorandum (the “Security Agreement”).
+\centered THE PROSPECTUS ARE AVAILABLE UPON REQUEST FROM 
 
-\centered E-1
+\centered MACKENZIE PARTNERS, INC., 
 
-^**Deposit of Funds.** All payments made as provided in Section 2 hereof shall be deposited by the Placement Agent as soon as practicable with Signature Bank (the “Escrow Agent”), in a non-interest-bearing escrow account (the “Escrow Account”) until the earliest to occur of (a) the closing of the sale of the Minimum Amount (the “First Closing”), (b) the rejection of such subscription, and (c) the termination of the Offering by the Company or the Placement Agent. The Company and the Placement Agent may continue to offer and sell the Units and conduct additional closings (each, a “Closing”) for the sale of additional Units after the First Closing and until the termination of the Offering.
+\centered THE INFORMATION AGENT. 
 
-^**Acceptance of Subscription.** The Purchaser understands and agrees that the Company in its sole discretion reserves the right to accept or reject this or any other subscription for Units, in whole or in part, notwithstanding prior receipt by the Purchaser of notice of acceptance of this subscription. The Company shall have no obligation hereunder until the Company shall execute and deliver to the Purchaser an executed copy of this Subscription Agreement. If this subscription is rejected in whole, or this Offering of Units is terminated or the Minimum Amount is not raised, all funds received from the Purchaser will be returned without interest or offset, and this Subscription Agreement shall thereafter be of no further force or effect. If this subscription is rejected in part, the funds for the rejected portion of this subscription will be returned without interest or offset, and this Subscription Agreement will continue in full force and effect to the extent this subscription was accepted.
+\centered **DEL GLOBAL TECHNOLOGIES CORP.** 
 
-^**Representations and Warranties.**  
+\centered Incorporated under the laws of the State of [[Address 1: Address]]
 
-The Purchaser hereby acknowledges, represents, warrants, and agrees as follows:
+\centered **SUBSCRIPTION RIGHTS CERTIFICATE** 
 
-^^None of the Units, Notes, Warrants, Common Stock issuable upon exercise of the Warrants or conversion of the Notes (the “Conversion Shares”), offered pursuant to the Memorandum is registered under the Securities Act of 1933, as amended from time to time (the “Securities Act”), or any state securities laws. The Purchaser understands that the offering and sale of the Units is intended to be exempt from registration under the Securities Act, by virtue of Section 4(2) thereof and the provisions of Regulation D, promulgated under the Securities Act and as amended from time to time (“Regulation D”) as promulgated by the U. S. Securities and Exchange Commission (the “SEC”), based, in part, upon the representations, warranties and agreements of the Purchaser contained in this Subscription Agreement;
+\centered Evidencing Subscription Rights to Purchase [ ] Shares of Common Stock of Del Global Technologies Corp. 
 
-^^The Purchaser and the Purchaser's attorney, accountant, purchaser representative and/or tax adviser, if any (collectively, the “Advisers”), have received the Memorandum, as well as copies of reports, schedules, forms, statements and other documents required to be filed by the Company under the Securities Act and the Securities Exchange Act of 1934, as amended from time to time (the “Exchange Act”), including pursuant to Section 13(a) or 15(d) thereof (the foregoing materials, including the exhibits thereto and documents [[SEC Documents]] by reference therein, being collectively referred to herein as the “SEC Documents”), that have been made available in hard copy or electronically through the SEC’s EDGAR system and all other documents requested by the Purchaser, have carefully reviewed them and understand the information contained therein;
+\centered Subscription Price: $[ ] per Share 
 
-\centered E-2
+**THE SUBSCRIPTION RIGHTS WILL EXPIRE IF NOT EXERCISED ON OR BEFORE 5:00 P.M., [[Address 2: Address]], ON [ ] [ ], 2010, UNLESS EXTENDED BY THE COMPANY** 
 
-^^Neither the SEC nor any state securities commission or other regulatory body has approved the Units, any of the Notes, Warrants or the Conversion Shares, or passed upon or endorsed the merits of the offering of Units or confirmed the accuracy or determined the adequacy of the Memorandum. The Memorandum has not been reviewed by any federal, state or other regulatory authority;
+**REGISTERED** 
 
-^^All documents, records, and books pertaining to the investment in the Units (including, without limitation, the Memorandum) which have reasonably been requested have been made available for inspection by such Purchaser and its Advisers, if any;
+**OWNER:** 
 
-^^The Purchaser and its Advisers, if any, have had a reasonable opportunity to ask questions of and receive answers from a person or persons acting on behalf of the Company concerning the offering of the Units and the business, financial condition, results of operations of the Company, and all such questions have been answered to the full satisfaction of the Purchaser and its Advisers, if any;
+THIS CERTIFIES THAT the registered owner whose name is inscribed hereon is the owner of the number of subscription rights (“**Rights**”) set forth above. Each whole Right entitles the holder thereof to subscribe for and purchase [ ] shares of common stock, with a par value of $[[USD Value 1: Number]] per share, (“**Common Stock**”) of Del Global Technologies Corp., a [[Address 3: Address]] a subscription price of $[ ] per share (the “**Basic Subscription Right**”), pursuant to a rights offering (the “**Rights Offering**”), on the terms and subject to the conditions set forth in the Prospectus and subject to proration. Holders who fully exercise their Basic Subscription 
 
-^^In evaluating the suitability of an investment in the Company, the Purchaser has not relied upon any representation or information (oral or written) other than those included in the Memorandum.
+Rights are entitled to subscribe for additional shares of Common Stock that remain unsubscribed for as a result of any unexercised Basic Subscription Rights pursuant to the terms and conditions of the Rights Offering, subject to proration, as described in the Prospectus (the “**Over-Subscription Right**”). The Rights represented by this Subscription Rights Certificate may be exercised by completing Form 1 and any other appropriate forms on the reverse side hereof and by returning the full payment of the subscription price for each share of Common Stock. 
 
-^^The Purchaser is unaware of, is in no way relying on, and did not become aware of the Offering of the Units through or as a result of, any form of general solicitation or general advertising including, without limitation, any article, notice, advertisement or other communication published in any newspaper, magazine or similar media or broadcast over television, radio or the Internet (including, without limitation, internet “blogs”, bulletin boards, discussion groups and social networking sites) in connection with the Offering and sale of the Units and is not subscribing for the Units and did not become aware of the Offering of the Units through or as a result of any seminar or meeting to which the Purchaser was invited by, or any solicitation of a subscription by, a person not previously known to the Purchaser in connection with investments in securities generally;
+This Subscription Rights Certificate is not valid unless countersigned by the subscription agent and registered by the registrar. Witness the seal of Del Global Technologies Corp. and the signatures of its duly authorized officers. 
 
-^^The Purchaser has taken no action that would give rise to any claim by any person for brokerage commissions, finders’ fees or the like relating to this Subscription Agreement or the transactions contemplated hereby (other than commissions to be paid by the Company to the Placement Agent or as otherwise described in the Memorandum) and, in turn, to be paid to its selected dealers;
+Date: 
 
-^^The Purchaser, together with its Advisers, as the case may be, has such knowledge and experience in financial, tax, and business matters, and, in particular, investments in high risk securities, so as to enable it to utilize the information made available to it in connection with the Offering to evaluate the merits and risks of an investment in the Units and the Company and to make an informed investment decision with respect thereto.
+**John J. Quicke, President and Chief Executive Officer**            **Mark A. Zorko, Chief Financial Officer**
 
-\centered E-3
+\centered DELIVERY OPTIONS FOR SUBSCRIPTION RIGHTS CERTIFICATE 
 
-^^The Purchaser is not relying on the Company, the Placement Agent or any of their respective employees or agents with respect to the legal, tax, economic and related considerations of an investment in the Units, and the Purchaser has relied on the advice of, or has consulted with, only its own Advisers;
+\centered Delivery other than in the manner or to the addresses listed below will not constitute valid delivery. 
 
-^^The Purchaser is acquiring the Units solely for such Purchaser's own account for investment purposes only and not with a view to or intent of resale or distribution thereof, in whole or in part. The Purchaser has no agreement or arrangement, formal or informal, with any person to sell or transfer all or any part of the Units, the Notes, Warrants or the Conversion Shares, and the Purchaser has no plans to enter into any such agreement or arrangement;
+\centered If delivering by Hand/Mail/Overnight Courier: 
 
-^^The Purchaser must bear the substantial economic risks of the investment in the Units indefinitely because none of the securities included in the Units may be sold, hypothecated or otherwise disposed of unless subsequently registered under the Securities Act and applicable state securities laws or an exemption from such registration is available. Legends shall be placed on the securities included in the Units to the effect that they have not been registered under the Securities Act or applicable state securities laws and appropriate notations thereof will be made in the Company's stock books. Stop transfer instructions will be placed with the transfer agent, if any, of the Units. There can be no assurance that there will be any market for resale of the securities included in the Units, nor can there be any assurance that such securities will be freely transferable at any time in the foreseeable future;
+\centered Continental Stock Transfer & Trust Company 
 
-^^The Purchaser has adequate means of providing for such Purchaser's current financial needs and foreseeable contingencies and has no need for liquidity of its investment in the Units for an indefinite period of time;
+\centered 17 Battery Place, 8th Floor 
 
-^^The Purchaser is aware that an investment in the Units is high-risk and involves a number of very significant risks and has carefully read and considered the matters set forth under the caption “Risk Factors” in the Memorandum, and, in particular, acknowledges that the Company has experienced significant losses since inception, is experiencing a severe, continuing cash shortage and will be required to raise additional capital until it generates revenues to cover its working capital deficit and the Company’s consolidated financial statements for the fiscal year ended [[Date 2: Date]] contains an opinion from its independent registered public accountants regarding the Company’s potential inability to continue as a going concern due to its operating losses and need for additional capital;
+\centered [[Address 4: Address]] 
 
-^^The Purchaser meets the requirements of at least one of the suitability standards for an “accredited investor,” as the term is defined Regulation D under the Securities Act and as set forth on the Accredited Investor Certification contained herein;
+\centered [[Phone 1]], x 536 
 
-\centered E-4
+\centered **PLEASE PRINT ALL INFORMATION CLEARLY AND LEGIBLY.** 
 
-^^The Purchaser (i) if a natural person, represents that the Purchaser has reached the age of 21 and has full power and authority to execute and deliver this Subscription Agreement and all other related agreements or certificates and to carry out the provisions hereof and thereof; (ii) if a corporation, partnership, or limited liability company or partnership, or association, joint stock company, trust, un[[SEC Documents]] organization or other entity, represents that such entity was not formed for the specific purpose of acquiring the Units, such entity is duly organized, validly existing and in good standing under the laws of the state of its organization, the consummation of the transactions contemplated hereby is authorized by, and will not result in a violation of state law or its charter or other organizational documents, such entity has full power and authority to execute and deliver this Subscription Agreement and all other related agreements or certificates and to carry out the provisions hereof and thereof and to purchase and hold the securities constituting the Units, the execution and delivery of this Subscription Agreement has been duly authorized by all necessary action, this Subscription Agreement has been duly executed and delivered on behalf of such entity and is a legal, valid and binding obligation of such entity; or (iii) if executing this Subscription Agreement in a representative or fiduciary capacity, represents that it has full power and authority to execute and deliver this Subscription Agreement in such capacity and on behalf of the subscribing individual, ward, partnership, trust, estate, corporation, or limited liability company or partnership, or other entity for whom the Purchaser is executing this Subscription Agreement, and such individual, partnership, ward, trust, estate, corporation, or limited liability company or partnership, or other entity has full right and power to perform pursuant to this Subscription Agreement and make an investment in the Company, and represents that this Subscription Agreement constitutes a legal, valid and binding obligation of such entity. The execution and delivery of this Subscription Agreement will not violate or be in conflict with any order, judgment, injunction, agreement or controlling document to which the Purchaser is a party or by which it is bound;
+**FORM 1-EXERCISE OF SUBSCRIPTION RIGHTS** 
 
-^^The Purchaser and its Advisers, if any, have had the opportunity to obtain any additional information, to the extent the Company had such information in its possession or could acquire it without unreasonable effort or expense and subject to certain confidentiality restrictions, necessary to verify the accuracy of the information contained in the Memorandum and all documents received or reviewed in connection with the purchase of the Units and have had the opportunity to have representatives of the Company provide them with such additional information regarding the terms and conditions of this particular investment and the financial condition, results of operations, business of the Company deemed relevant by the Purchaser or the Advisers, if any, and all such requested information, to the extent the Company had such information in its possession or could acquire it without unreasonable effort or expense, has been provided to the full satisfaction of the Purchaser and its Advisers, if any;
+To subscribe for shares pursuant to your Basic Subscription Right, please complete lines (a) and (c) and sign under Form 4 below. To subscribe for shares pursuant to your Over-Subscription Right, please also complete line (b) and sign under Form 4 below. To the extent you subscribe for more shares than you are entitled under either the Basic Subscription Right or the Over-Subscription Right, you will be deemed to have elected to purchase the maximum number of shares for which you are entitled to subscribe under the Basic Subscription Right or Over-Subscription Right, as applicable. 
 
-^^Any information which the Purchaser has heretofore furnished or is furnishing herewith the Company or the Placement Agent is complete and accurate and may be relied upon by the Company and the Placement Agent in determining the availability of an exemption from registration under federal and state securities laws in connection with the offering of securities as described in the Memorandum. The Purchaser further represents and warrants that it will notify and supply corrective information to the Company and the Placement Agent immediately upon the occurrence of any change therein occurring prior to the Company's issuance of the securities contained in the Units;
+^^EXERCISE OF BASIC SUBSCRIPTION RIGHT: 
 
-^^The Purchaser has significant prior investment experience, including investment in non-registered and high risk securities. The Purchaser has a sufficient net worth to sustain a loss of its entire investment in the Company in the event such a loss should occur. The Purchaser's overall commitment to investments which are not readily marketable is not excessive in view of the Purchaser’s net worth and financial circumstances and the purchase of the Units will not cause such commitment to become excessive. The investment is a suitable one for the Purchaser;
+^^^exercise Rights {Insert Number of Rights Being Exercised} to purchase shares of Common Stock {Insert Number of Rights x [ ]}. 
 
-\centered E-5
+Amount Enclosed = ${Insert Number of Rights Being Exercised x [ ]}. 
 
-^^The Purchaser is satisfied that the Purchaser has received adequate information with respect to all matters which it or its Advisers, if any, consider material to its decision to make this investment;
+^^EXERCISE OF OVER-SUBSCRIPTION RIGHT 
 
-^^The Purchaser acknowledges that any estimates or forward-looking statements or projections included in the Memorandum were prepared by the Company in good faith but that the attainment of any such projections, estimates or forward-looking statements cannot be guaranteed by the Company and should not be relied upon;
+If you have exercised your Basic Subscription Right in full and wish to subscribe for additional shares in an amount equal to up to [ ]% of the shares of Common Stock for which you are otherwise entitled to subscribe pursuant to your Over-Subscription Right: 
 
-^^No oral or written representations have been made, or oral or written information furnished, to the Purchaser or its Advisers, if any, in connection with the Offering which are in any way inconsistent with the information contained in the Memorandum;
+^^^exercise Rights {Insert Number of Rights Being Exercised} to purchase shares of Common Stock {Insert Number of Rights x [ ]}. 
 
-^^Within five (5) days after receipt of a request from the Company or the Placement Agent, the Purchaser will provide such information and deliver such documents as may reasonably be necessary to comply with any and all laws and ordinances to which the Company or the Placement Agent is subject;
+Amount Enclosed = ${Insert Number of Rights Being Exercised x Subscription Price}. 
 
-^^The Purchaser's substantive relationship with the Placement Agent or subagent through which the Purchaser is subscribing for Units predates the Placement Agent's or such subagent's contact with the Purchaser regarding an investment in the Units;
+^^Total Amount of Payment Enclosed = $ 
 
-^^THE SECURITIES OFFERED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR ANY STATE SECURITIES LAWS AND ARE BEING OFFERED AND SOLD IN RELIANCE ON EXEMPTIONS FROM THE REGISTRATION REQUIREMENTS OF SAID ACT AND SUCH LAWS. THE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER SAID ACT AND SUCH LAWS PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. THE SECURITIES HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE SECURITIES AND EXCHANGE COMMISSION, ANY STATE SECURITIES COMMISSION OR ANY OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON OR ENDORSED THE MERITS OF THIS OFFERING OR THE ACCURACY OR ADEQUACY OF THE MEMORANDUM. ANY REPRESENTATION TO THE CONTRARY IS UNLAWFUL;
+**METHOD OF PAYMENT (CHECK ONE)** 
 
-^^The Purchaser acknowledges that none of the Units, the Notes, Warrants or the Conversion Shares have been recommended by any federal or state securities commission or regulatory authority. In making an investment decision, investors must rely on their own examination of the Company and the terms of the Offering, including the merits and risks involved. Furthermore, the foregoing authorities have not confirmed the accuracy or determined the adequacy of this Subscription Agreement or the Memorandum. Any representation to the contrary is a criminal offense. The Units, the Notes, Warrants and the Conversion Shares, are subject to restrictions on transferability and resale and may not be transferred or resold except as permitted under the Securities Act, and the applicable state securities laws, pursuant to registration or exemption therefrom. The Purchaser should be aware that it will be required to bear the financial risks of this investment for an indefinite period of time;
+¨   Check or bank draft drawn on a U.S. bank, or postal telegraphic or express, payable to “Continental Stock Transfer & Trust Company, as Subscription Agent.”
 
-\centered E-6
+¨   Money order payable to “Continental Stock Transfer & Trust Company, as Subscription Agent.” Funds paid by an uncertified check may take at least five business days to clear.
 
-(aa) **(For Employee Retirement Income Security Act (“ERISA”) plans only)** The fiduciary of the ERISA plan (the “Plan”) represents that such fiduciary has been informed of and understands the Company’s investment objectives, policies and strategies, and that the decision to invest “plan assets” (as such term is defined in ERISA) in the Company is consistent with the provisions of ERISA that require diversification of plan assets and impose other fiduciary responsibilities. The Purchaser fiduciary or Plan (a) is responsible for the decision to invest in the Company; (b) is independent of the Company or any of its affiliates; (c) is qualified to make such investment decision; and (d) in making such decision, the Purchaser fiduciary or Plan has not relied primarily on any advice or recommendation of the Company or any of its affiliates;
+¨   Wire transfer of immediately available funds directly to the account maintained by Continental Stock Transfer & Trust Company, as Subscription Agent, for purposes of
 
-(bb) **The Purchaser should check the Office of Foreign Assets Control (“OFAC”) website at **<http://www.treas.gov/ofac>** before making the following representations**. The Purchaser represents that the amounts invested by it in the Company in the Offering were not and are not directly or indirectly derived from activities that contravene federal, state or international laws and regulations, including anti-money laundering laws and regulations. Federal regulations and Executive Orders administered by OFAC prohibit, among other things, the engagement in transactions with, and the provision of services to, certain foreign countries, territories, entities and individuals. The lists of OFAC prohibited countries, territories, persons and entities can be found on the OFAC website at **<http://www.treas.gov/ofac>**. In addition, the programs administered by OFAC (the “OFAC Programs”) prohibit dealing with individuals or entities in certain countries regardless of whether such individuals or entities appear on the OFAC lists;
+accepting subscriptions in this Rights Offering at JP Morgan Chase, ABA #021-000021, Account #475-508092 FBO Del Global Technologies Corp. Subscription, with reference to the rights holder’s name.
 
-(cc) To the best of the Purchaser’s knowledge, none of: (1) the Purchaser; (2) any person controlling or controlled by the Purchaser; (3) if the Purchaser is a privately-held entity, any person having a beneficial interest in the Purchaser; or (4) any person for whom the Purchaser is acting as agent or nominee in connection with this investment is a country, territory, individual or entity named on an OFAC list, or a person or entity prohibited under the OFAC Programs. Please be advised that the Company may not accept any amounts from a prospective investor if such prospective investor cannot make the representation set forth in the preceding paragraph. The Purchaser agrees to promptly notify the Company and the Placement Agent should the Purchaser become aware of any change in the information set forth in these representations. The Purchaser understands and acknowledges that, by law, the Company may be obligated to “freeze the account” of the Purchaser, either by prohibiting additional subscriptions from the Purchaser, declining any redemption requests and/or segregating the assets in the account in compliance with governmental regulations, and the Placement Agent may also be required to report such action and to disclose the Purchaser’s identity to OFAC. The Purchaser further acknowledges that the Company may, by written notice to the Purchaser, suspend the redemption rights, if any, of the Purchaser if the Company reasonably deems it necessary to do so to comply with anti-money laundering regulations applicable to the Company and the Placement Agent or any of the Company’s other service providers. These individuals include specially designated nationals, specially designated narcotics traffickers and other parties subject to OFAC sanctions and embargo programs;
+**FORM 2-DELIVERY TO DIFFERENT ADDRESS** 
 
-____________________________  
-These individuals include specially designated nationals, specially designated narcotics traffickers and other parties subject to OFAC sanctions and embargo programs.
+If you are a record holder and wish for the Common Stock underlying your subscription rights, a certificate representing unexercised subscription rights or the proceeds of any sale of subscription rights to be delivered to an address different from that shown on the face of this Subscription Rights Certificate, please enter the alternate address below, sign under Form 3 and have your signature guaranteed under Form 4. 
 
-\centered E-7
+**FORM 3-SIGNATURE** 
 
-(dd) To the best of the Purchaser’s knowledge, none of: (1) the Purchaser; (2) any person controlling or controlled by the Purchaser; (3) if the Purchaser is a privately-held entity, any person having a beneficial interest in the Purchaser; or (4) any person for whom the Purchaser is acting as agent or nominee in connection with this investment is a senior foreign political figure, or any immediate familymember or close associate of a senior foreign political figure, as such terms are defined in the footnotes below; and
+TO SUBSCRIBE: I acknowledge that I have received the Prospectus for this Rights Offering and I hereby irrevocably subscribe for the number of shares of Common Stock indicated above on the terms and conditions specified in the Prospectus. 
 
-(ee) If the Purchaser is affiliated with a non-U.S. banking institution (a “Foreign Bank”), or if the Purchaser receives deposits from, makes payments on behalf of, or handles other financial transactions related to a Foreign Bank, the Purchaser represents and warrants to the Company that: (1) the Foreign Bank has a fixed address, other than solely an electronic address, in a country in which the Foreign Bank is authorized to conduct banking activities; (2) the Foreign Bank maintains operating records related to its banking activities; (3) the Foreign Bank is subject to inspection by the banking authority that licensed the Foreign Bank to conduct banking activities; and (4) the Foreign Bank does not provide banking services to any other Foreign Bank that does not have a physical presence in any country and that is not a regulated affiliate.
+Signature(s):
 
-^**Public Information Failure**. At any time during the period commencing the six (6) month anniversary of the First Closing date and ending at such time that all of the shares of Common Stock issuable upon conversion of the Notes and exercise of the Warrants (hereinafter “**Underlying Shares**”) can be sold either pursuant to a registration statement, or if a registration statement is not available for the resale of all of such securities, may be sold without the requirement for the Company to be in compliance with Rule 144(c)(1) and otherwise without restriction or limitation pursuant to Rule 144, if the Company shall fail for any reason or no reason to satisfy the current public information requirement under Rule 144(c) (a “ **Public Information Failure** ”) then, as a remedy for the damages to any holder of such securities by reason of any such delay in or reduction of its ability to sell the Underlying Shares (which remedy shall not be exclusive of any other remedies available), including, without limitation, specific performance), the Company shall pay to each holder of Underlying Shares who is not eligible to sell all of his, her or its Underlying Shares pursuant to Rule 144 as a result of such Public Information Failure an amount in cash, as liquidated damages and not as a penalty equal to one and one half ([[Percentage 4: Number]]%) percent of the aggregate Purchase Price on the day of a Public Information Failure and on every thirtieth (30th) day (pro rated for periods totaling less than thirty (30) days) thereafter until the earlier of (i) the date such Public Information Failure is cured and (ii) such time that such public information is no longer required pursuant to Rule 144. The payments to which a holder shall be entitled pursuant to this Section 6 are referred to herein as “Public Information Failure Payments.” Public Information Failure Payments shall be paid on the earlier of (I) the last day of the calendar month during which such Public Information Failure Payments are incurred and (II) the fifth (5th) Business Day after the event or failure giving rise to the Public Information Failure Payments is cured. Notwithstanding the foregoing, no Public Information Failure Payments shall be required to be made to any such Subscriber who is an officer, director or [[Percentage 5: Number]]% shareholder of the Company.
+IMPORTANT: The signature(s) must correspond with the name(s) as printed on the reverse of this Subscription Rights Certificate in every particular, without alteration or enlargement, or any other change whatsoever. 
 
-_________________________  
-^“senior foreign political figure” is defined as a senior official in the executive, legislative, administrative, military or judicial branches of a foreign government (whether elected or not), a senior official of a major foreign political party, or a senior executive of a foreign government-owned corporation. In addition, a “senior foreign political figure” includes any corporation, business or other entity that has been formed by, or for the benefit of, a senior foreign political figure.
+**FORM 4-SIGNATURE GUARANTEE** 
 
-“Immediate family” of a senior foreign political figure typically includes the figure’s parents, siblings, spouse, children and in-laws.
+This form must be completed if you have completed any portion of Form 2. 
 
-^“close associate” of a senior foreign political figure is a person who is widely and publicly known to maintain an unusually close relationship with the senior foreign political figure, and includes a person who is in a position to conduct substantial domestic and international financial transactions on behalf of the senior foreign political figure.
+Signature Guaranteed:
+(Name of Bank or Firm)
 
-\centered E-8
-
-^**Piggyback Registration Rights**. If at any time prior to the expiration of the 24 months from the date of this Agreement (“Registration Period”) the Company shall determine to file with the SEC a Registration Statement relating to an offering for its own account or the account of others under the 1933 Act of any of its equity securities (other than on Form S-4 or Form S-8 or their then equivalents relating to equity securities to be issued solely in connection with any acquisition of any entity or business or equity securities issuable in connection with stock option or other employee benefit plans), the Company shall send to Purchaser written notice of such determination and, if within fifteen (15) days after the effective date of such notice, the Purchaser shall so request in writing, the Company shall include in such Registration Statement all or any part of the Common Stock being purchased hereunder the Purchaser requests to be registered (“Registrable Securities”), except that if, in connection with any underwritten public offering for the account of the Company, the managing underwriter(s) thereof shall impose a limitation on the number of shares of Common Stock which may be included in the Registration Statement because, in such underwriter(s)' judgment, marketing or other factors dictate such limitation is necessary to facilitate public distribution, then the Company shall be obligated to include in such Registration Statement only such limited portion of the Registrable Securities with respect to which the Purchaser has requested inclusion hereunder as the underwriter shall permit.
-
-^**Appointment of Collateral Agent.**  
-^^The Purchaser hereby authorizes Collateral Agents, a New York limited liability company, to act as collateral agent (“Collateral Agent”) on behalf of the Purchaser and any other purchasers of the Notes, and in such capacity to enter into the Security Agreement and to exercise for the benefit of the Purchaser all rights, powers and remedies provided to it, under or pursuant to the Security Agreement including, without limitation, those available upon an Event of Default (as defined in the Security Agreement), subject always to the terms, conditions, limitations and restrictions provided in the Security Agreement. The Purchaser has carefully reviewed the Security Agreement and understands the information contained therein.
-
-\centered E-9
-
-^**Indemnification.** The Purchaser agrees to indemnify and hold harmless the Company, the Placement Agent, the Collateral Agent and their respective officers, directors, employees, agents, control persons and affiliates from and against all losses, liabilities, claims, damages, costs, fees and expenses whatsoever (including, but not limited to, any and all expenses incurred in investigating, preparing or defending against any litigation commenced or threatened) based upon or arising out of any actual or alleged false acknowledgment, representation or warranty, or misrepresentation or omission to state a material fact, or breach by the Purchaser of any covenant or agreement made by the Purchaser herein or in any other document delivered in connection with this Subscription Agreement.
-
-^**Irrevocability; Binding Effect.** The Purchaser hereby acknowledges and agrees that the subscription hereunder is irrevocable by the Purchaser, except as required by applicable law, and that this Subscription Agreement shall survive the death or disability of the Purchaser and shall be binding upon and inure to the benefit of the parties and their heirs, executors, administrators, successors, legal representatives, and permitted assigns. If the Purchaser is more than one person, the obligations of the Purchaser hereunder shall be joint and several and the agreements, representations, warranties, and acknowledgments herein shall be deemed to be made by and be binding upon each such person and such person's heirs, executors, administrators, successors, legal representatives, and permitted assigns.
-
-^**Modification.** This Subscription Agreement shall not be modified or waived except by an instrument in writing signed by the party against whom any such modification or waiver is sought.
-
-^**Immaterial Modifications to the Transaction Documents.** The Company may, at any time prior to the expiration of the Offering Period (as defined in the Memorandum), amend this Subscription Agreement, the Note, Warrant or Security Agreement (this Subscription Agreement, the Note, Warrant and the Security Agreement are collectively referred to herein as the “Transaction Documents”) if necessary to clarify any provision therein, or supplement the Memorandum for events occurring after the date of the Memorandum, without first providing notice or obtaining prior consent of the Purchaser, if, and only if, such modification is not material in any respect.
-
-^**Notices.** Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be mailed by certified mail, return receipt requested, or delivered against receipt to the party to whom it is to be given (a) if to the Company, at the address set forth above, or (b) if to the Purchaser, at the address set forth on the signature page hereof (or, in either case, to such other address as the party shall have furnished in writing in accordance with the provisions of this Section 13). Any notice or other communication given by certified mail shall be deemed given at the time of certification thereof, except for a notice changing a party's address which shall be deemed given at the time of receipt thereof.
-
-^**Assignability.** This Subscription Agreement and the rights, interests and obligations hereunder are not transferable or assignable by the Purchaser and the transfer or assignment of the Units, the Notes, the Warrants or the Conversion Shares shall be made only in accordance with all applicable laws.
-
-\centered E-10
-
-^**Applicable Law.** This Subscription Agreement shall be governed by and construed in accordance with the laws of the State of New York, applicable to contracts to be wholly-performed within said State.
-
-^**Arbitration.** The parties agree to submit all controversies to arbitration in accordance with the provisions set forth below and understand that:
-
-^^Arbitration is final and binding on the parties.
-
-^^The parties are waiving their right to seek remedies in court, including the right to a jury trial.
-
-^^Pre-arbitration discovery is generally more limited and different from court proceedings.
-
-^^The arbitrator's award is not required to include factual findings or legal reasoning and any party's right to appeal or to seek modification of rulings by arbitrators is strictly limited.
-
-^^The panel of arbitrators will typically include a minority of arbitrators who were or are affiliated with the securities industry.
-
-^^All controversies which may arise between the parties concerning this Subscription Agreement shall be determined by arbitration pursuant to the rules then pertaining to the Financial Industry Regulatory Authority, Inc. (the “FINRA”) in New York City, New York. Judgment on any award of any such arbitration may be entered in the Supreme Court of the State of New York in New York County or in any other court located in New York County, New York having jurisdiction of the Person or Persons against whom such award is rendered**.** Any notice of such arbitration or for the confirmation of any award in any arbitration shall be sufficient if given in accordance with the provisions of this Agreement. The parties agree that the determination of the arbitrators shall be binding and conclusive upon them.
-
-^**Blue Sky Qualification.** The purchase of Units under this Subscription Agreement is expressly conditioned upon the exemption from qualification of the offer and sale of the Units from applicable federal and state securities laws. The Company shall not be required to qualify this transaction under the securities laws of any jurisdiction and, should qualification be necessary, the Company shall be released from any and all obligations to maintain its offer, and may rescind any sale contracted, in the jurisdiction.
-
-^**Use of Pronouns.** All pronouns and any variations thereof used herein shall be deemed to refer to the masculine, feminine, neuter, singular or plural as the identity of the person or persons referred to may require.
-
-\centered E-11
-
-^**Confidentiality.** The Purchaser acknowledges and agrees that any information or data the Purchaser has acquired from or about the Company, not otherwise properly in the public domain, including, without the limitation, the Memorandum, as well as the fact that the Company is undertaking a private offering of its securities, was received in confidence. The Purchaser agrees not to divulge, communicate or disclose, except as may be required by law or for the performance of this Agreement, or use to the detriment of the Company or for the benefit of any other person or persons, or misuse in any way, any confidential information of the Company, including any scientific, technical, trade or business secrets of the Company, as well as the fact that the Company is undertaking a private offering of its securities.
-
-^**Miscellaneous.**  
-^^This Subscription Agreement, together with the Transaction Documents, constitute the entire agreement between the Purchaser and the Company with respect to the subject matter hereof and supersede all prior oral or written agreements and understandings, if any, relating to the subject matter hereof. The terms and provisions of this Subscription Agreement may be waived, or consent for the departure therefrom granted, only by a written document executed by the party entitled to the benefits of such terms or provisions.
-
-^^The representations and warranties of the Purchaser made in this Subscription Agreement shall survive the execution and delivery hereof and delivery of the Notes and Warrants contained in the Units.
-
-^^Each of the parties hereto shall pay its own fees and expenses (including the fees of any attorneys, accountants, appraisers or others engaged by such party) in connection with this Subscription Agreement and the transactions contemplated hereby whether or not the transactions contemplated hereby are consummated.
-
-^^This Subscription Agreement may be executed in one or more counterparts each of which shall be deemed an original, but all of which shall together constitute one and the same instrument.
-
-^^Each provision of this Subscription Agreement shall be considered separable and, if for any reason any provision or provisions hereof are determined to be invalid or contrary to applicable law, such invalidity or illegality shall not impair the operation of or affect the remaining portions of this Subscription Agreement.
-
-^^Paragraph titles are for descriptive purposes only and shall not control or alter the meaning of this Subscription Agreement as set forth in the text.
-
-^^The Purchaser understands and acknowledges that there may be multiple Closings for the Offering.
-
-^**Omnibus Signature Page.** This Subscription Agreement is intended to be read and be construed in conjunction with the Notes, Warrants and Security Agreement pertaining to the issuance by the Company of the Units to subscribers pursuant to the Memorandum. Accordingly, pursuant to the terms and conditions of this Subscription Agreement and such related agreements it is hereby agreed that the execution by the Purchaser of this Subscription Agreement, in the place set forth herein, shall constitute agreement to be bound by the terms and conditions hereof and the terms and conditions of the Security Agreement with the same effect as if each of such separate but related agreement was separately signed.
-
-\centered **[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]**
-
-\centered E-12
-
-**How to subscribe for Units in the private offering of** 
-
-**Vyteris, Inc.:**  
-^**Date and Fill** in the number of Units being purchased and **Complete and Sign** the Omnibus Subscription Agreement.
-
-^**Initial** the Accredited Investor Certification page attached to this letter.
-
-^**Complete** and return the Investor Profile and, if applicable, Wire Transfer Authorization attached to this letter.
-
-^**Fax** all forms to DiAnn Ellis at **[[Phone 2]]** and then send all signed original documents with check to:
-
-**Ms. DiAnn Ellis** 
-**Spencer Trask Ventures, Inc.** 
-1**700 East Putnam Avenue, Suite 401** 
-**Greenwich, CT 06870**  
-^Please make your subscription payment payable to the order of **“Signature Bank, Escrow Agent for** **VYTERIS, INC.**
-
-**For wiring funds directly to the escrow account,**
-
-**see the following instructions:**  
-
-**Bank Name: Signature Bank** 
-**ABA Number: 026013576** 
-**A/C Name: Signature Bank, as Agent For** 
-**Vyteris, Inc.** 
-**A/C Number: 1501196335** 
-**FBO: **Investor Name**** 
-**Social Security Number** 
-**Address**  
-Thank you for your interest,  
-Spencer Trask Ventures, Inc.
-
-\centered E-13
-
-**ANTI MONEY LAUNDERING REQUIREMENTS**  
-**The USA PATRIOT Act**      **What is money laundering?**      **How big is the problem** **and why is it important?**
-The USA PATRIOT Act is designed to detect, deter, and punish terrorists in the United States and abroad. The Act imposes new anti-money laundering requirements on brokerage firms and financial institutions. Since [[Date 3: Date]] all brokerage firms have been required to have new, comprehensive anti-money laundering programs. To help you understand these efforts, we want to provide you with some information about money laundering and our steps to implement the USA PATRIOT Act.      Money laundering is the process of disguising illegally obtained money so that the funds appear to come from legitimate sources or activities. Money laundering occurs in connection with a wide variety of crimes, including illegal arms sales, drug trafficking, robbery, fraud, racketeering, and terrorism.      The use of the U.S. financial system by criminals to facilitate terrorism or other crimes could well taint our financial markets. According to the U.S. State Department, one recent estimate puts the amount of worldwide money laundering activity at $[[USD Value 10: Number]] trillion a year.
-
-**What are we required to do to eliminate money laundering?**
-Under new rules required by the USA PATRIOT Act, our anti-money laundering program must designate a special compliance officer, set up employee training, conduct independent audits, and establish policies and procedures to detect and report suspicious transaction and ensure compliance with the new laws.   As part of our required program, we may ask you to provide various identification documents or other information. Until you provide the information or documents we need, we may not be able to effect any transactions for you.
-
-\centered E-14
-
-\centered VYTERIS, INC.
-
-\centered OMNIBUS SIGNATURE PAGE TO
-
-\centered THE SUBSCRIPTION AGREEMENT, SECURITY AGREEMENT AND WARRANT
-
-**Subscriber hereby elects to subscribe under the Subscription Agreement for a total of ______ Units at a price of $[[USD Value 1]] per Unit (NOTE: to be completed by subscriber) and executes the Subscription Agreement.**
-
-Date (NOTE: To be completed by subscriber): __________________, 2009
-
-If the Purchaser is an INDIVIDUAL, and if purchased as JOINT TENANTS, as TENANTS IN COMMON or as COMMUNITY PROPERTY:
-
-Print Name(s)      Social Security Number(s)
-
-Signature(s) of Subscriber(s)      Signature
-
-Date:      Address:
-
-If the Purchaser is a PARTNERSHIP, CORPORATION, LIMITED LIABILITY COMPANY or TRUST
-
-Name of Partnership, Corporation, Limited Liability Company of Trust      Federal Taxpayer
-
-Name:      State of Organization
-Title:
-
-Date      Address
-
-**VYTERIS, INC.**      **SPENCER TRASK VENTURES, INC.**
-
-[[VYTERIS INC.      SPENCER TRASK VENTURES INC. Signatory Email: Identity | Signature]]
+[[Name of Bank or Firm Signatory Email: Identity | Signature]]
 __________________________________________
-{{VYTERIS INC.      SPENCER TRASK VENTURES INC. Entity => By: [[VYTERIS INC.      SPENCER TRASK VENTURES INC. Signatory First Name]] [[VYTERIS INC.      SPENCER TRASK VENTURES INC. Signatory Last Name]]
-Title: [[VYTERIS INC.      SPENCER TRASK VENTURES INC. Signatory Title]]}}
+{{Name of Bank or Firm Entity => By: [[Name of Bank or Firm Signatory First Name]] [[Name of Bank or Firm Signatory Last Name]]
+Title: [[Name of Bank or Firm Signatory Title]]}}
 
-Authorized Officer         Authorized Officer
+(Signature of Officer)
 
-\centered E-15
+IMPORTANT: The signature(s) should be guaranteed by an eligible guarantor institution (bank, stock broker, savings & loan association or credit union) with membership in an approved signature guarantee medallion program pursuant to Securities and Exchange Commission Rule 17Ad-15. 
 
-\centered **VYTERIS, INC.**
-
-\centered **ACCREDITED INVESTOR CERTIFICATION**
-
-\centered **For Individual Investors Only**
-
-\centered **(all Individual Investors must INITIAL where appropriate):**
-
-**Initial _______**   I have a net worth (including home, furnishings and automobiles) in excess of $[[USD Value 10]] million either individually or through aggregating my individual holdings and those in which I have a joint, community property or other similar shared ownership interest with my spouse.
-**Initial _______**   I have had an annual gross income for the past two years of at least $[[USD Value 5: Number]] (or $[[USD Value 6: Number]] jointly with my spouse) and expect my income (or joint income, as appropriate) to reach the same level in the current year.
-**Initial _______**   I am a director or executive officer of Vyteris, Inc.
-
-\centered **For Non-Individual Investors**
-
-\centered **(all Non-Individual Accredited Investors must INITIAL where appropriate):**
-
-**Initial _______**   The investor certifies that it is a partnership, corporation, limited liability company or business trust that is [[Percentage 2]]% owned by persons who meet at least one of the criteria for Individual Investors set forth above.
-**Initial _______**   The investor certifies that it is a partnership, corporation, limited liability company or business trust that has total assets of at least $[[USD Value 11: Number]] million and was not formed for the purpose of investing the Company.
-**Initial _______**   The investor certifies that it is an employee benefit plan whose investment decision is made by a plan fiduciary (as defined in ERISA §3(21)) that is a bank, savings and loan association, insurance company or registered investment adviser.
-**Initial _______**   The investor certifies that it is an employee benefit plan whose total assets exceed $[[USD Value 7: Number]] as of the date of this Agreement.
-**Initial _______**   The undersigned certifies that it is a self-directed employee benefit plan whose investment decisions are made solely by persons who meet either of the criteria for Individual Investors.
-**Initial _______**   The investor certifies that it is a U.S. bank, U.S. savings and loan association or other similar U.S. institution acting in its individual or fiduciary capacity.
-**Initial _______**   The undersigned certifies that it is a broker-dealer registered pursuant to §15 of the Securities Exchange Act of 1934.
-**Initial _______**   The investor certifies that it is an organization described in §501(c)(3) of the Internal Revenue Code with total assets exceeding $[[USD Value 7]] and not formed for the specific purpose of investing in the Company.
-**Initial _______**   The investor certifies that it is a trust with total assets of at least $[[USD Value 8: Number]] not formed for the specific purpose of investing in the Company, and whose purchase is directed by a person with such knowledge and experience in financial and business matters that he is capable of evaluating the merits and risks of the prospective investment.
-**Initial _______**   The investor certifies that it is a plan established and maintained by a state or its political subdivisions, or any agency or instrumentality thereof, for the benefit of its employees, and which has total assets in excess of $[[USD Value 9: Number]]
-**Initial _______**   The investor certifies that it is an insurance company as defined in §2(13) of the Securities Act, or a registered investment company.
-
-\centered E-16
-
-\centered **VYTERIS, INC.**
-
-\centered Investor Profile
-
-\centered **(Must be completed by Investor)**
-
-\centered Section A - Personal Investor Information
-
-Investor Name(s): _____________________________________________________________________________________
-
-Individual executing Profile or Trustee: ___________________________________________________________________
-
-Social Security Numbers / Federal I.D. Number: _____________________________________________________________
-
-Date of Birth:   _________________      Marital Status: _________________________________
-Joint Party Date of Birth:   _________________      Investment Experience (Years): ______________
-Annual Income:   _________________      Liquid Net Worth: ___________________
-Net Worth:   ________________
-
-Tax Bracket: ______ [[Percentage 6: Number]]% or below _____ [[Percentage 7: Number]]% - [[Percentage 8: Number]]% _____ Over [[Percentage 8]]%
-
-Investment Objectives ***(circle one or more):***   Preservation of Capital, Income, Capital Appreciation, Trading Profits, Speculation or Other (please specify) * See definitions on following page
-
-Home Street Address: __________________________________________________________________________________
-
-Home City, State & Zip Code: _________________________________________________________________________
-
-Home Phone: ________________________ Home Fax: _____________________ Home Email: ____________________
-
-Employer: ___________________________________________________________________________________________
-
-Employer Street Address: _______________________________________________________________________________
-
-Employer City, State & Zip Code: ______________________________________________________________________
-
-Bus. Phone: __________________________ Bus. Fax: __________________________ Bus. Email: ________________
-
-Type of Business: ____________________________________________________________________________________
-
-Spencer Trask Account Executive / Outside Broker/Dealer: __________________________________________________
-
-If you are a ***United States citizen***, please list the number and jurisdiction of issuance of any other government-issued document evidencing residence and bearing a photograph or similar safeguard (such as a driver’s license or passport), and ***provide a photocopy*** of each of the documents you have listed. 
-
-If you are ***NOT*** a ***United States citizen***, for each jurisdiction of which you are a citizen or in which you work or reside, please list (i) your passport number and country of issuance or (ii) alien identification card number **AND** (iii) number and country of issuance of any other government-issued document evidencing nationality or residence and bearing a photograph or similar safeguard, and provide a photocopy of each of these documents you have listed. These photocopies must be certified by a lawyer as to authenticity. 
-
-\centered E-17
-
-\centered Section B – Certificate Delivery Instructions
-
-____ Please deliver Note and Warrant certificate to the Employer Address listed in Section A.
-
-____ Please deliver Note and Warrant certificate to the Home Address listed in Section A.
-
-____ Please deliver Note and Warrant certificate to the following address: _________________________________.
-
-\centered Section C – Form of Payment – Check or Wire Transfer
-
-____ Check payable to **Signature Bank, As Escrow Agent for** **Vyteris, Inc.**
-
-____ Wire funds from my outside account according to the “How to subscribe for Units” Page.
-
-____ Wire funds from my Spencer Trask Account - See Following Page.
-
-____ The funds for this investment are rolled over, tax deferred from __________ within the allowed 60 day window.
-
-Please check if you are a FINRA member or affiliate of a FINRA member firm: ________
-
-**Investor Signature**      **Date**
-
-**Investor Signature**      **Date**
-
-\centered E-18
-
-**Investment Objectives**: The typical investment listed with each objective are only some examples of the kinds of investments that have historically been consistent with the listed objectives. However, neither Vyteris, Inc. nor Spencer Trask Ventures, Inc. can assure that any investment will achieve your intended objective. You must make your own investment decisions and determine for yourself if the investments you select are appropriate and consistent with your investment objectives.
-
-Neither Vyteris, Inc. nor Spencer Trask Ventures, Inc. assume responsibility to you for determining if the investments you selected are suitable for you.
-
-**Preservation of Capital**: An investment objective of Preservation of Capital indicates you seek to maintain the principal value of your investments and are interested in investments that have historically demonstrated a very low degree of risk of loss of principal value. Some examples of typical investments might include money market funds and high quality, short-term fixed income products.
-
-**Income**: An investment objective of Income indicates you seek to generate from investments and are interested in investments that have historically demonstrated a low degree of risk of loss of principal value. Some examples of typical investments might include high quality, short and medium-term fixed income products, short-term bond funds and covered call options.
-
-**Capital Appreciation**: An investment objective of Capital Appreciation indicates you seek to grow the principal value of your investments over time and are willing to invest in securities that have historically demonstrated a moderate to above average degree of risk of loss of principal value to pursue this objective. Some examples of typical investments might include common stocks, lower quality, medium-term fixed income products, equity mutual funds and index funds.
-
-**Trading Profits**: An investment objective of Trading Profits indicates you seek to take advantage of short-term trading opportunities, which may involve establishing and liquidating positions quickly. Some examples of typical investments might include short-term purchases and sales of volatile or low priced common stocks, put or call options, spreads, straddles and/or combinations on equities or indexes. This is a high-risk strategy.
-
-**Speculation**: An investment objective of Speculation indicates you seek a significant increase in the principal value of your investments and are willing to accept a corresponding greater degree of risk by investing in securities that have historically demonstrated a high degree of risk of loss of principal value to pursue this objective. Some examples of typical investments might include lower quality, long-term fixed income products, initial public offerings, volatile or low priced common stocks, the purchase of sale of put or call options, spreads, straddles and/or combinations on equities or indexes, and the use of short-term or day trading strategies.
-
-**Other**: Please specify.
-
-\centered E-19
-
-\centered **Memorandum**
-
-\centered **Wire Transfer Authorization**
-
-TO:   Lydia Soler - Operations Manager
-Spencer Trask Ventures, Inc.
-
-RE:   Client Wire Transfer Authorization
-**VYTERIS, INC.**
-
-DATE:________________    
-This memorandum authorizes the transfer of the following listed funds from my Spencer Trask Brokerage Account as follows:
-
-Spencer Trask Brokerage Account #   ______________________
-
-Wire Amount   $______________________
-
-**BANK NAME**: SIGNATURE BANK 
-**ABA NUMBER**: 026013576  
-**A/C NAME**: SIGNATURE BANK, AS AGENT FOR VYTERIS, INC.
-
-**A/C Number:** 1501196335  
-
-**REFERENCE****:** 
-
-**SUBSCRIBER LEGAL NAME** 
-**______________________________________________________**
-
-**TAX ID NUMBER** 
-**______________________________________________________**
-
-**SUBSCRIBER ADDRESS** 
-**______________________________________________________**
-
-FBO:   ________________________________________________
-
-Investment Title:   ________________________________________________
-
-Signature:   ________________________________________________
-
-Signature:   ________________________________________________
-(Joint Signature)
-
-\centered E-20
+FOR INSTRUCTIONS ON THE USE OF DEL GLOBAL TECHNOLOGIES CORP. SUBSCRIPTION RIGHTS CERTIFICATES, CONSULT MACKENZIE PARTNERS, INC., THE INFORMATION AGENT, AT [[Phone 2]].

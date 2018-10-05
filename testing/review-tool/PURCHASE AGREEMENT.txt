@@ -1,151 +1,147 @@
-\centered **PURCHASE AGREEMENT**
+**Execution** 
 
-This agreement is entered into this the [[Date 1: Date]], between CHARLIE HEATER, d/b/a H 5 PRODUCERS, a sole proprietorship, herein Seller and GRYPHON PRODUCTION CO., herein Buyer, the terms of which are as follows:
+\centered **PURCHASE AGREEMENT** 
 
-^Seller agrees to sell and Buyer agrees to buy, subject to the contingencies hereinafter set forth, all of Seller's right, title and ownership interest in and unto each of the oil, gas and/or casinghead gas leasehold estates as owned by Seller more fully described in Exhibit "A" attached as located in Hutchinson County, Texas together with all wells, casing, tubing, tanks (both metal and fiberglass), rods, pumps, flow lines, water lines, pump jacks, heater treaters and all other equipment, structures and personal property now located upon said lands as described in Exhibit "A" attached as used in connection with Seller's oil and gas operations thereon except only those as may hereinafter be reserved by Seller.
+**THIS PURCHASE AGREEMENT (**the ***“Agreement”***) is made as of the [[Date 1: Date]] (the ***“Effective Date”***) between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the ***“Company”***), and [[Purchaser]], a [[State of Formation: State]] [[Organization: EntityType]] (the ***“Purchaser”***). The Company and the Purchaser are sometimes referred to individually as a “***Party***” and collectively as the “***Parties***.” 
 
-^The sale by Seller of the oil and gas leasehold estates as set out in Exhibit "A" attached shall also include all oil, gas and casinghead gas and associated hydrocarbons attributable to said lands, or any lands pooled therewith, effective as of date of closing.
+\centered **RECITALS** 
 
-^Purchase price to be paid buy Buyer to Seller at closing is $[[USD Value 1: Number]] of which Buyer agrees to deposit with Robert L. Finney Trust Account, as escrow agent, the full purchase price sum on or before the expiration of seven (7) days from the date of the signing of this agreement by the Buyer by wire transfer into account No. 400-73354-7 at FirstBank Southwest, [[Address 1: Address]] (routing No. 111308057).
+**WHEREAS**, the Company and the Purchaser have entered into an Omnibus Agreement, dated as of the [[Date 1]]; and 
 
-^Seller warrants that all ad valorem property taxes due on said Exhibit "A" properties have been paid to and including the year 2009 without exception and that 2010 ad valorem property taxes on each lease shall be prorated to date of closing.
+**WHEREAS**, the Omnibus Agreement specifies the understanding of the Parties with respect to 1) a bridge loan for up to the aggregate principal amount of $[[USD Value 1: Number]]; 2) an equipment loan; and 3) a contract (the “Contract”) with a Contract Entity (as defined in the Omnibus Agreement), in and to the development and commencement of the operation of, a solar energy generation plant; and 
 
-^Seller covenants and agrees on date of closing that each of the Exhibit "A" properties shall be free and clear of all mortgages, liens, mechanic's liens, debts or other encumbrances applicable to the oil, gas and casinghead gas leasehold estates and equipment located thereon as owned by Seller. Seller shall provide Buyer at closing an Affidavit of no unrecorded liens or encumbrances as created by Seller covering the Exhibit "A" properties.
+**WHEREAS**, pursuant to the terms of this agreement, the Company desires to issue and the Purchaser desires to purchase (A) secured convertible promissory notes (the “***Notes***”) up to the aggregate of $[[USD Value 1]] in substantially the form attached hereto as Exhibit A, and (B) warrants (the “***Warrants***”) up to the aggregate of [[Shares 1: Number]] shares in substantially the form attached hereto as Exhibit B. The Notes, the Warrants and any securities issuable upon conversion of the Notes and the exercise of the Warrants are collectively referred to herein as the “***Securities***”. 
 
-^Buyer's purchase of the leasehold estates described in Exhibit "A" attached is specifically CONTINGENT UPON each of the following matters:
+\centered **AGREEMENT** 
 
-^^Approval of said purchase and purchase price by CHANCELLOR GROUP, INC., a Nevada Corporation, being the owner of Buyer herein on or before [[Date 2: Date]].
+Now, therefore, in consideration of the above Recitals and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the Parties agree as follows: 
 
-^^Completion by Buyer, within 21 days from the execution of this agreement, of its due diligence necessary to satisfy itself as to Buyer's clear title to the working interest in each of the Exhibit "A" properties as being free and clear of all liens, mortgages, environmental defects and/or other encumbrances, provided counsel for Buyer receives Seller's complete lease file records on or before [[Date 2]] at 4:00 p.m.
+^PURCHASE AND SALE OF NOTES AND WARRANTS. 
 
-^Buyer's due diligence to verify the Seller's compliance with all rules and regulations promulgated by the State of Texas and the Texas Railroad Commission or any other entity having regulatory authority over the Exhibit "A" properties.
+^^Sale and Issuance of First Note and Warrant. Subject to the terms and conditions of this Agreement, the Purchaser agrees to purchase at the Closing (as defined below), and the Company agrees to sell and issue to the Purchaser at the Closing: 
 
-^^Net revenue working interest to be acquired by Buyer shall be at least the percentage hereinafter shown on each respective lease, or more:
+^^^a Note in substantially the form attached hereto as Exhibit A in the aggregate principal amount of US$[[USD Value 2: Number]] and 
 
-^T D LEWIS "A" LEASE:   [[Percentage 1: Number]]% of 8/8
-^MOORE LEASE:   [[Percentage 1]]% of 8/8
-^TIMMS LEASE:   [[Percentage 1]]% of 8/8
+^^^a Warrant in substantially the form attached hereto as Exhibit B in the aggregate amount of up to [[Shares 2: Number]] shares. 
 
-^Closing of this sale shall occur on or before the [[Date 3: Date]] in the office of Robert L. Finney, P. C., 309 West Foster, [[Address 2: Address]] such other time or place as the parties may be able to mutually agree. At closing Seller shall prepare, execute and deliver to Buyer an Assignment of Interest and Bill of Sale on the form set out in Exhibit "B" attached, but with all personal property and equipment to be conveyed "AS IS", "WHERE IS" with no warranties expressed, implied or otherwise.
+^^Sale and Issuance of Subsequent Notes and Warrants. After the first closing, each subsequent advance under the bridge loan will be evidenced by an additional Note and an additional Warrant (each a ***“Subsequent Note”*** and a ***“Subsequent Warrant”***). Each Subsequent 
 
-^At closing, Seller shall execute all necessary documents and change of operator forms as may be required or necessary to appoint Buyer, and/or its designated agent, as sole operator of each of the leases in Exhibit "A" attached.
+**Execution** 
 
-^On or before [[Date 2]] at 4:00 p.m., Seller shall provide to Buyer, for examination purposes Seller's complete lease file and all information in Seller's possession as to name and address of first purchasers of oil, gas and/or casinghead gas. In the event Seller is receiving or is entitled to receive [[Percentage 2: Number]]% of production for distribution purposes, Seller shall also furnish to Buyer, at closing, a listing of all royalty, overriding royalty and other third party payees that Sellers have in their possession on each lease entitled to proceeds from production other than due Seller and the percentage of proceeds ownership due each.
+Note will be convertible into shares of common stock at a conversion price of $[[USD Value 3: Number]], and each Subsequent Warrant will be at a conversion price of $[[USD Value 4: Number]] per share in the amount of shares equal to that which is to be issued upon conversion of the contemporaneously-issued Note. 
 
-^If any of the contingencies set out in paragraph 6 above should occur, this agreement, at the sole option of Buyer, shall be null and void and escrow agent shall be authorized to return to Buyer the escrow deposit required of Buyer by this agreement.
+^^Closing; Delivery. 
 
-^Buyer agrees to pay Seller, for the use and benefit of JMR GAS., [[Address 3: Address]] the posted price in the Texas Panhandle on date of sale, for 97.44 total barrels of crude petroleum (representing seven feet (7') of tank oil), less production taxes, in addition to the $[[USD Value 1]] purchase price required to be paid to Seller under paragraph 3 of this agreement. Such payment shall be timely paid to Seller from proceeds received by the Buyer from its sale of the first load of oil from any of the properties described in Exhibit "A" attached. Upon receipt of such payment Seller agrees to indemnify and hold harmless Buyer and all of Buyer's properties from any and all claims for such proceeds due to JMR GAS., by Seller herein and shall timely furnish to Buyer a receipt and recordable release from JMR GAS. for such payment.
+^^Closing Date. The closing of the purchase and sale of the Note and the Warrant (the ***“Closing”***) shall be held on [[Date 2: Date]] or as soon thereafter as practicable (the ***“Closing Date”***) at a place and time to be determined by the Company and Purchaser. 
 
-DATED this the [[Date 1]], but effective as of 7:00 a.m. on [[Date 4: Date]].
+^^Deliveries at the First Closing. At the initial Closing (i) the Purchaser will deliver to the Company payment of the Purchase Price with respect to the Note and the Warrant by wire transfer from the Purchaser to a bank designated by the Company and executed counterpart signature pages to the Security Agreement (as defined below) and the Registration Rights Agreement (as defined below); and (ii) the Company shall issue and deliver to the Purchaser the original executed Note in favor of the Purchaser, the executed Warrant in favor of the Purchaser and executed counterpart signature pages to the Security Agreement (as defined below), the Registration Rights Agreement (as defined below), the Intercreditor Agreement, and the Company’s Certificate. 
 
-SELLER:
+^^Deliveries at Each Subsequent Closing. At each closing after the First Closing (the ***“Subsequent Closing”***) (i) the Purchaser will deliver to the Company payment of the Purchase Price with respect to the Note and the Warrant by wire transfer from the Purchaser to a bank designated by the Company and executed counterpart signature pages to the Amended Security Agreement; and (ii) the Company shall issue and deliver to the Purchaser the original executed Note in favor of the Purchaser and the executed Warrant in favor of the Purchaser. 
 
-CHARLIE HEATER, d/b/a H S PRODUCERS, a sole proprietorship P. 0. Box 
-[[Address 4: Address]], 79083-0395
+^^Purchase Price. The “Purchase Price” of each Note and its accompanying Warrant shall equal the principal amount of the Note. 
 
-MISTY HEATER
+^^UCC Financing Statements. Upon delivery of the Purchase Price, Seller authorizes Purchaser to file its UCC-1 financing statements in the states in which Purchaser shall elect. 
 
-BUYER:
+^^Use of Proceeds. The Company must use the proceeds related to the sale of the Note and the Warrant for (i) operating capital and (ii) general corporate purposes, as set forth in a use of proceeds statement delivered to Purchaser by the Company. 
 
-GRYPHON PRODUCTION CO.
+^**SECURITY INTEREST.** The indebtedness represented by the Note shall be secured by a perfected security interest in certain assets of the Company as further provided in the Security Agreement attached hereto as Exhibit C (the ***“Security Agreement”***). At each Subsequent Closing, the Security Agreement shall be amended to reflect the total indebtedness of all Notes issued under this Purchase Agreement (the ***“Amended Security Agreement”***). 
 
-[[Party 1 Signatory Email: Identity | Signature]]
+^REGISTRATION RIGHTS. The shares of Company common stock into which the Note may be converted and the Warrant may be exercised shall be subject to registration rights as further provided in the Registration Rights Agreement attached hereto as Exhibit D (the ***“Registration Rights Agreement”***). 
+
+**Execution** 
+
+^REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE COMPANY. The Company hereby represents and warrants to the Purchaser as follows: 
+
+^^Corporate Power. The Company has all requisite corporate power to execute and deliver this Agreement and to carry out and perform its obligations under the terms of this Agreement. 
+
+^^Authorization. With the exception of any shareholder approval that may be required pursuant to the terms of the Note and/or the Warrant, all corporate action on the part of the Company, its directors and its shareholders necessary for the authorization, execution, delivery and performance of this Agreement by the Company and the performance of the Company’s obligations hereunder, including the issuance and delivery of the Note and Warrant, has been taken prior to the Closing. This Agreement, the Note when executed and delivered by the Company, and the Warrant when executed and delivered by the Company, shall constitute valid and binding obligations of the Company enforceable in accordance with their terms, subject to laws of general application relating to bankruptcy, insolvency, the relief of debtors and, with respect to rights to indemnity, subject to federal and state securities laws. 
+
+^^Issuance of the Securities. The Securities are duly authorized and, when issued and paid for in accordance with this Agreement, the Security Agreement, the Note and the Warrant, will be duly and validly issued, fully paid and nonassessable (as applicable), and free and clear of all liens. The Company has reserved from its duly authorized capital stock the maximum number of shares of common stock (i) issuable upon the conversion of the Note and (ii) that may be issued upon the exercise of the Warrant, and will cause such shares, when issued, to be listed with NASDAQ. 
+
+^^Governmental Consents. All consents, approvals, orders, or authorizations of, or registrations, qualifications, designations, declarations, or filings with, any governmental authority, required on the part of the Company in connection with the valid execution and delivery of this Agreement, the offer, sale or issuance of the Note and the Warrant or the consummation of any other transaction contemplated thereby or hereby shall have been obtained and will be effective at the Closing or, except for notices required or permitted to be filed with certain state and federal securities commissions, which notices will be filed on a timely basis. 
+
+^^No Conflicts. The execution, delivery and performance of this Agreement by the Company and the performance of the Company’s obligations hereunder, including the issuance and delivery of the Note and the Warrant, will not (a) breach any law to which the Company or any of its subsidiaries or any of their assets is subject or any provision of its organizational documents, (b) breach any contract, order or permit to which the Company or any of its subsidiaries is a party or by which it is bound or to which any of its assets is subject, or (c) trigger any rights of first refusal, preferential purchase, or similar rights. 
+
+**Execution** 
+
+^^Offering. Assuming the accuracy of the representations and warranties of the Purchaser contained in Section 5 hereof, the offer, issue, and sale of the Note and the Warrant is and will be exempt from the registration and prospectus delivery requirements of the Securities Act of 1933, as amended (the ***“1933 Act”***), and have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws. 
+
+^^Priority. As of the Closing Date the security interests granted by the Company to Purchaser under the Security Agreement shall be pari passu with other bridge lenders as specified in the Intercreditor Agreement. However, in the event the Company defaults under an Event of Default (as defined in the Notes) of a type referred to in Section 4(c) or 4(d) of the Notes, an Event of Default (as defined in the Security Agreement) of a type referred to in Section 5(c), 5(d) or 5(h) of the Security Agreement, or a default or transaction of the type referred to in paragraph G of the Omibus Agreement shall have occurred, then, upon such occurrence, until the Notes shall have been paid in full, the security interests of Mr. Peter Lacey (as an individual and through the TD Waterhouse RRSP Account 230832S) (the “Lacey Loans”) (as defined in the Intercreditor Agreement), and the right of the Lacey Loans to the payment and performance by the Company of the promissory notes issued by the Company to them, shall be subordinate in every respect to the prior payment in full of the Notes. 
+
+^**REPRESENTATIONS, WARRANTIES AND COVENANTS OF THE PURCHASER****.** The Purchaser represents, warrants and covenants to the Company as follows: 
+
+^^Accredited Investor; Purchase for Own Account. The Purchaser represents and warrants that it is an “accredited investor” as defined in Rule 501(a) of Regulation D promulgated under the 1933 Act. The Purchaser represents that it is acquiring the Note and the Warrant solely for its own account and beneficial interest for investment and not with a view to or for sale in connection with any distribution of the Securities, has no present intention of selling, granting any participation in the same, and does not presently have reason to anticipate a change in such intention. 
+
+^^Information and Sophistication. The Purchaser acknowledges that it has received all the information it has requested from the Company and it considers necessary or appropriate for deciding whether to acquire the Note and the Warrant. The Purchaser represents that it has had an opportunity to ask questions and receive answers from the Company regarding the terms and conditions of the offering of the Note and the Warrant and to obtain any additional information necessary to verify the accuracy of the information given the Purchaser. The Purchaser further represents that it has such knowledge and experience in financial and business matters that it is capable of evaluating the merits and risk of this investment. 
+
+^^Ability to Bear Economic Risk and Knowledge of Certain Risk Factors. The Purchaser acknowledges that investment in the Note and the Warrant involves a high degree of risk, and represents that it is able, without materially impairing its financial condition, to hold the Note and the Warrant for an indefinite period of time and to suffer a complete loss of its investment. The Purchaser has evaluated the risks involved in investing in the Note and the Warrant, and has determined that the Note and the Warrant are suitable investments for the Purchaser. 
+
+**Execution** 
+
+^^Further Limitations on Disposition. Without in any way limiting the representations set forth above, the Purchaser further agrees not to make any disposition of all or any portion of the Securities unless and until there is then in effect a registration statement under the 1933 Act covering such proposed disposition and such disposition is made in accordance with such registration statement or such disposition does not require registration under the 1933 Act or any applicable state securities laws. In the event that Purchaser seeks to make a disposition of all or any portion of the Securities in the absence of registration under the 1933 Act and any applicable state securities laws, Purchaser shall furnish an opinion of counsel reasonably satisfactory in form and in substance to the Company that such disposition is exempt from registration under the 1933 Act and any applicable state securities laws. 
+
+^^Intercreditor Agreement. The Purchaser acknowledges that the Company may have entered into one or more additional secured financing transactions (each, a “Bridge Financing”) and may enter into additional bridge financing transactions within 120 days following the execution of this Agreement (all bridge financings as described above are collectively referred to as “Bridge Financing”). In light of the foregoing, the Purchaser covenants and agrees, upon request by the Company, to enter into a written intercreditor agreement (a form of which is in Exhibit E) with other lenders participating in a Bridge Financing pursuant to which the Purchaser’s security interest, as evidenced by the Security Agreement, will rank *pari passu* with the security interests of the other lenders participating in the Bridge Financing. The Company will use its best efforts to obtain the agreement of the other Bridge Lender to increase the asset base for the Intercreditor Agreement to $[[USD Value 5: Number]] million. In the event the Seller cannot obtain such Agreement, the Lacey Loans hereby agrees to substitute its priority with the Purchaser up to the amount of the Purchaser’s indebtedness in the event of a default. 
+
+^MISCELLANEOUS. 
+
+^^Binding Agreement. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the Parties. Nothing in this Agreement, express or implied, is intended to confer upon any third party any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. 
+
+^^Governing Law; Waiver of Jury Trial. This Agreement shall be governed by and construed under the laws of the State of [[Address 1: Address]] effect to the conflict of laws provisions thereof that would require the application of the law of another jurisdiction. THE PARTIES EACH HEREBY, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WAIVE THEIR RESPECTIVE RIGHTS TO JURY TRIAL OF ANY DISPUTE BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY OTHER AGREEMENTS RELATING HERETO OR ANY DEALINGS AMONG THEM RELATING TO THE TRANSACTIONS. 
+
+^^Counterparts; Delivery via Facsimile. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement shall become binding when one or more counterparts hereof, individually or taken together, shall bear the signatures of all parties 
+
+**Execution** 
+
+reflected hereon as signatories. Executed counterparts of this Agreement may be delivered to the other parties via facsimile; provided, however, that originally executed signature pages to this Agreement shall be delivered (i) to the Company by the Purchaser and (ii) to the Purchaser by the Company, within five business days of the date of this Agreement. 
+
+^^Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
+
+^^Notices. Any notice required or permitted under this Agreement, the Note or the Warrant shall be given in writing and shall be deemed effectively given upon personal delivery, upon confirmation of facsimile delivery, one day after deposit with a national overnight courier service, or three days after deposit with the United States Post Office, postage prepaid, addressed to the Company at 7373 Gateway Blvd., [[Address 2: Address]] or to the Purchaser at its address shown on the signature page hereto, or at such other address as such Party may designate in writing to the other Party. 
+
+^^Modification; Waiver. No modification or waiver of any provision of this Agreement or consent to departure therefrom shall be effective unless in writing and approved by the Company and the Purchaser. 
+
+^^Expenses. If any action at law or in equity is necessary to enforce or interpret the terms of this Agreement, the Note, the Security Agreement or any other agreement entered into in conjunction herewith or therewith, the prevailing party shall be entitled to reasonable attorneys’ fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled. 
+
+^^Entire Agreement. This Agreement, the Security Agreement, the Note, the Warrant, the Registration Rights Agreement, and the Exhibits hereto and thereto constitute the full and entire understanding and agreement between the Parties with regard to the subjects hereof and no Party shall be liable or bound to any other in any manner by any representations, warranties, covenants and agreements except as specifically set forth herein and therein. In the event of a conflict with the terms of this Agreement and any of the other agreements or exhibits referenced herein, the terms and provisions of the other agreements and exhibits shall control and prevail. 
+
+^^Survival. The terms and provisions of this Agreement shall survive Closing and not be merged therein. 
+
+\centered **[Signature Page Follows]** 
+
+**Execution** 
+
+**IN WITNESS WHEREOF,** the Parties have executed this **PURCHASE AGREEMENT** as of the date first written above. 
+
+**COMPANY**
+
+
+
+[[COMPANY Signatory Email: Identity | Signature]]
 __________________________________________
-{{Party 1 Entity => [[{{Party 1 Entity => Signatory Email: Identity | Signature]]
+{{COMPANY Entity => By: [[COMPANY Signatory First Name]] [[COMPANY Signatory Last Name]]
+Title: [[COMPANY Signatory Title]]}}
+
+
+
+
+[[Title Company Signatory Title}} Signatory Email: Identity | Signature]]
 __________________________________________
-{{{{Party 1 Entity => Entity => By: [[{{Party 1 Entity => Signatory First Name]] [[{{Party 1 Entity => Signatory Last Name]]
-Title: [[{{Party 1 Entity => Signatory Title]]}}
- [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
-Title: [[Party 1 Signatory Title]]}}
+{{Title Company Signatory Title}} Entity => By: [[Title Company Signatory Title}} Signatory First Name]] [[Title Company Signatory Title}} Signatory Last Name]]
+Title: [[Title Company Signatory Title}} Signatory Title]]}}
 
-MAXWELL GRANT, Manager
-^0. Box 742
-[[Address 5: Address]]-0742
+Address:      1501 Broadway  th Floor  [[Address 3: Address]]
 
-\centered **EXHIBIT** "A"
+**TD Waterhouse RRSP Account 230832S**
 
-^D. LEWIS "A" LEASE:  
-The Northwest Quarter of the Northeast Quarter (NW/4 of NE/4) of Section Six (6), in Block Twenty-Three (23), BS&F Railway Co., Survey, Hutchinson County, Texas.
+[[TD Waterhouse RRSP Account 230832S Signatory Email: Identity | Signature]]
+__________________________________________
+{{TD Waterhouse RRSP Account 230832S Entity => By: [[TD Waterhouse RRSP Account 230832S Signatory First Name]] [[TD Waterhouse RRSP Account 230832S Signatory Last Name]]
+Title: [[TD Waterhouse RRSP Account 230832S Signatory Title]]}}
 
-MOORE LEASE:  
-The Northwest Eighty (NW/80) acres of Section Twenty-One (21), Block M-2 1, TC Railway Co., Survey, Hutchinson County, Texas.
 
-TIMMS LEASE:  
-The West Half of the Northeast Quarter (W/2 of NE/4) of Section Five (5), Block 23 BS&F Railway Co., Survey, Hutchinson County, Texas.
+**Peter A. Lacey**
 
-\centered **EXHIBIT** "B"
+/s/ Peter A. Lacey
+Peter A. Lacey
 
-**NOTICE OF CONFIDENTIALITY RIGHTS: IF YOU ARE A NATURAL PERSON, YOU MAY REMOVE OR STRIKE ANY OF THE FOLLOWING INFORMATION FROM THIS INSTRUMENT BEFORE IT IS FILED FOR RECORD IN THE PUBLIC RECORDS: YOUR SOCIAL SECURITY NUMBER OR YOUR DRIVER'S LICENSE NUMBER.**
-
-\centered **ASSIGNMENT OF OIL AND GAS LEASES**
-
-**ASSIGNOR:**   CHARLIE HEATER, d/b/a H 5 PRODUCERS,
-^^sole proprietorship
-
-\centered **ASSIGNEE:**   GRYPON PRODUCTION CO. P. O. Box 742 [[Address 5: Address]]-0742  
-
-For and in consideration of Ten Dollars ($10.00) and other good and valuable consideration, paid to Assignor by Assignee, the receipt and sufficiency of which is hereby acknowledged, Assignor does hereby **BARGAIN, GRANT, SELL, CONVEY, TRANSFER, ASSIGN, SET OVER** and **DELIVER** unto the said Assignee all of Assignor's right, title and interest in and to the following described properties situated in Hutchinson County, Texas:
-
-^The oil and gas leases affecting lands in Hutchinson County, Texas, described on Exhibit "A" attached hereto and made a part hereof, and the leasehold estates evidenced thereby;
-
-^All wells, casing, tubing, derricks, tanks, tank batteries, separators, rods, pumps, flow lines, water lines, gas lines, equipment, structures and other personal property and fixtures located upon the lands described on Exhibit "A" or used in connection with oil and gas operations thereon, except as hereinafter excepted and reserved to Assignor;
-
-^All of the interest of Assignor in all permits, licenses, franchises, easements, servitudes and rights-of-way of every character which are useful or appropriate in exploring for, developing, operating, producing, gathering, treating, storing or transporting oil, gas and other minerals on or off the lands described on Exhibit "A";
-
-^All of the interest of Assignor in, to and under all hydrocarbon sales agreements, and other instruments, contracts and agreements of every character, except as hereinafter excepted and reserved, insofar as they cover or affect the properties described on Exhibit "A" or the production and marketing of oil, gas and other hydrocarbons from the lands described on Exhibit "A"; and
-
-^All of the interest of Assignor in and to all of the abstracts of title, records, well logs, and all other instruments and files pertaining to the above described oil and gas leases.
-
-all of the foregoing being hereinafter sometimes called the "Conveyed Properties".
-
-**TO HAVE AND TO HOLD** the Conveyed Properties, together with all and singular all rights, privileges, hereditaments and appurtenances thereto in anywise belonging unto said Assignee, its successors and assigns forever, subject, however, to the terms, provisions, conditions, exceptions, reservations, covenants and agreements herein set forth:
-
-^This Assignment is subject to all terms and conditions of the Leases covering said land (express and implied) which terms and conditions Assignee accepts and agrees to perform insofar as they relate to that portion of the Leases assigned hereby.
-
-^This Assignment is subject to all terms and conditions of all prior Assignments which appear of record in the office of the County Clerk of Hutchinson County, Texas, affecting the lands above described.
-
-^This Assignment is made subject to all outstanding Overriding Royalty Interests of record in the office of the County Clerk of Hutchinson County, Texas, affecting the lands above described.
-
-^Assignor agrees to timely execute and deliver to Assignee, upon request, all necessary transfer orders, and all such other and additional instruments as may be necessary to correctly or to more fully describe and identify the properties and interests herein intended to be conveyed.
-
-^Assignee has inspected the Conveyed Properties for the purpose of detecting the presence or concentration of naturally occurring radium, thorium and other such materials ("NORM") and satisfied itself as to their physical and environmental condition, both surface and subsurface, and Assignee accepts all of the same in their "AS IS, WHERE IS" condition. Assignor disclaims any liability to Assignee arising with the presence of NORM on the Conveyed Properties.
-
-^Assignor covenants and represents to Assignee herein that all ad valorem taxes for the year 2009 and prior years have been paid. In connection with the ad valorem taxes to become due on the Conveyed Properties for the year 2010, such taxes are to be prorated between the Assignor and Assignee in the manner so that the Assignor shall timely pay 5/12th thereof and the Assignee shall timely pay 7/12th thereof.
-
-^The assignments and conveyances made by this Assignment are made without warranty of title, express, implied or statutory, and without recourse, even as to the return of the purchase price or other consideration, but with full substitution and subrogation of Assignee, and all persons claiming by, through or under Assignee, to the extent assignable, in and to all covenants and warranties by Assignor's predecessors in title and with full subrogation of all rights accruing under the statutes of limitation or prescription under the laws of the State of Texas and all rights or actions of warranty against all former owners of the Conveyed Properties. Any covenant or warranties implied by statute or law by the use of the words "grant", "assign" or "convey" or other similar words in this Assignment are hereby expressly disclaimed, waived and negated.
-
-^Assignor and Assignee agree that, to the extent required by applicable law to be operative, the disclaimers of certain warranties contained herein are "conspicuous" disclaimers for the purposes of any applicable law, rule or order. The Conveyed Properties are assigned to Assignee without recourse (even as to the return of the purchase price or other consideration), covenant or warranty of any kind, express, implied or statutory. **WITHOUT LIMITATION OF THE GENERALITY OF THE FOREGOING, ASSIGNOR HEREBY EXPRESSLY DISCLAIMS AND NEGATES ANY REPRESENTATION OR WARRANTY, EXPRESS, IMPLIED, AT COMMON LAW, BY STATUTE, OR OTHERWISE RELATING TO THE CONDITION OF THE CONVEYED PROPERTIES (INCLUDING WITHOUT LIMITATION, ANY IMPLIED OR EXPRESS WARRANTY OF MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE, OR OF CONFORMITY TO MODELS OR SAMPLES OF MATERIALS).**
-
-^All the terms, provisions, covenants and agreements herein contained shall extend to and be binding upon the parties hereto and their respective successors and assigns. All references herein to the Assignor and Assignee shall include their respective successors and assigns.
-
-^This Assignment has been executed in a number of identical counterparts, each of which, for all purposes, shall be deemed to be an original.
-
-^The effective date of this Assignment shall be [[Date 4]], at 7:00 A.M. (CST).
-
-**EXECUTED** by Assignor and Assignee on the dates of our respective acknowledgments.
-
-**ASSIGNOR:**
-
-**CHARLIE HEATER, d/b/aH5 PRODUCERS**
-
-**AGREED TO AND ACCEPTED BY:**
-**ASSIGNEE:**
-
-GRYPON PRODUCTION CO.
-
-By:
-**MAXWELL GRANT, Manager**
-
-THE STATE OF TEXAS   §
-
-COUNTY OF         §
-
-This instrument was acknowledged before me on the ____ day of ____________, 2010, by **CHARLIE HEATER, d/b/a H 5 PRODUCERS.**
-
-Notary Public, State of Texas
-
-THE STATE OF TEXAS   §
-§
-COUNTY OF HUTCHINSON   §
-
-This instrument was acknowledged before me on the ____ day of ___________, 2010, by **MAXWELL GRANT**, Manager of **GRYPON PRODUCTION CO.**, a limited liability company, on behalf of said company.
+\centered [SIGNATURE PAGE TO PURCHASE AGREEMENT]

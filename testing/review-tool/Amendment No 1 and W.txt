@@ -1,0 +1,155 @@
+\centered **Amendment No. 1 and Waiver to the** 
+
+\centered **Amended and Restated Registration Rights Agreement** 
+
+This Amendment No. 1 and Waiver, dated [[Date 1: Date]], amends the Amended and Restated Registration Rights Agreement dated as of [[Date 2: Date]], (the “Original Rights Agreement”) by and among [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[Party 2]], the Persons listed on Schedule C attached thereto and [[Party 3]], a [[State of Formation: State]] [[Organization: EntityType]], [[Party 4]] and [[Party 5]] All capitalized terms used but not defined herein shall have the meanings ascribed to them in the Original Rights Agreement. 
+
+WHEREAS, the signatories to this Agreement collectively own a majority of the “Registrable Securities” outstanding on the date hereof. 
+
+NOW, THEREFORE, in consideration of the premises, which are incorporated into and made a part of this Agreement, and of the mutual representations, warranties, covenants, agreements and conditions set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+Section 1. The following is added immediately after clause (b) under Section 2.4 of the Original Rights Agreement: 
+
+“Notwithstanding anything contained herein, the written notice referred to in clause (a) immediately above with respect to the Company’s registration statement on Form S-1 (Registration No. 333-164471) (the “Registration Statement”) must only include the fact that the Company has filed the Registration Statement. In addition, the Company must use it reasonable best efforts to include in such registration (and any related qualification under blue sky laws or other compliance), and in any underwriting involved therein, all the Registrable Securities and Common Shares, then held by the Holder or Common Stockholder (whether directly through the direct ownership of Common Shares or through the direct ownership of preferred stock convertible into Common Shares), specified in a written request or requests received by the Company from any Holder or Common Stockholder on or before [[Date 3: Date]]. The Company may give one or more written notices to Holders and Common Stockholders of such deadline.” 
+
+Section 2. Section 2.6 of the Original Rights Agreement is amended and restated as follows: 
+
+“2.6. Withdrawal from Company Registration. If any Holder, Common Stockholder or other stockholder disapproves of the terms of any underwriting in connection with a registration pursuant to Section 2.4, such person may elect, prior to the printing of the preliminary prospectus for distribution to potential investors with respect to the Registration Statement, to withdraw therefrom some or all of its Registrable Securities and/or Common Shares it validly and timely elected to have included in such underwriting, provided, however, that any allocation based on Registrable Securities or Common Shares for purposes of Section 2.5, shall be based on the Registrable Securities and/or Common Shares, as the case may be, elected by the Holder, 
+
+Common Stockholder, or other stockholder to be included in such registration, after any such withdrawal. By way of example, if a Holder validly elected to include 20 Registrable Securities, but subsequently withdrew 10 such securities prior to the printing of the preliminary prospectus for distribution to potential investors with respect to the Registration Statement, such Holder shall be deemed to have requested to register 10 Registrable Securities. In the event of such a withdrawal, the Company may, but is not required to, offer to all, and not just some, Holders, Common Stockholders and other stockholders who have included Registrable Securities, Common Shares or other shares in the registration the right to include additional Registrable Securities, Common Shares or other shares in the registration in an aggregate amount equal to the number of shares withdrawn, with such shares to be allocated among such Holders, Common Stockholders and other stockholders in accordance with the provisions of Section 2.5.” 
+
+^The following clause in Section 2.15, “(i) such Holder or Common Stockholder can sell all shares held by it in compliance with Rule 144(k)” is amended and restated as follows: “(i) such Holder or Common Stockholder can sell all shares held by it under Rule 144 and paragraph (e) of Rule 144 does not apply to any such sales.” 
+
+Section 4. The parties hereto waive and release any claims, complaints, actions, causes of action and demands, whether known or unknown, and any and all suits arising in law or in equity, whether from statute or regulation or otherwise, whether known or unknown, on behalf of themselves and all Investors, Holders and Common Stockholders, under the Original Rights Agreement and/or this Amendment and, in each case, based on events arising prior to the date hereof. 
+
+Section 4. If, for any reason, this Amendment No. 1 and Waiver, or the application thereof to any person or any circumstance, is invalid or unenforceable, then the Original Rights Agreement shall be deemed amended hereby in order to carry out, so far as may be valid and enforceable, the intent and purpose of this Amendment No. 1 and Waiver. 
+
+Section 6. This Amendment No. 1 and Waiver may be executed in counterparts, and by facsimile, which together shall constitute one and the same agreement notwithstanding that all parties hereto are not signatories to each counterpart. 
+
+Section 7. This Amendment No. 1 and Waiver shall be governed by and construed in accordance with the laws of the State of Delaware. 
+
+^Except as modified hereby, the Original Rights Agreements is hereby ratified and remains in full force and effect. 
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Amendment No. 1 and Waiver as of the date first written above. 
+
+[[Company]] 
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Amendment No. 1 and Waiver as of the date first written above. 
+
+**Advanced Equities Triangle Acquisition I**            **Advanced Equities Triangle Acquisition II**
+
+[[Advanced Equities Triangle Acquisition I            Advanced Equities Triangle Acquisition II Signatory Email: Identity | Signature]]
+__________________________________________
+{{Advanced Equities Triangle Acquisition I            Advanced Equities Triangle Acquisition II Entity => By: [[Advanced Equities Triangle Acquisition I            Advanced Equities Triangle Acquisition II Signatory First Name]] [[Advanced Equities Triangle Acquisition I            Advanced Equities Triangle Acquisition II Signatory Last Name]]
+Title: [[Advanced Equities Triangle Acquisition I            Advanced Equities Triangle Acquisition II Signatory Title]]}}
+
+
+**AEI 2007 Venture Investments III**            **AEI Silicon Valley Fund II**
+
+[[AEI 2007 Venture Investments III            AEI Silicon Valley Fund II Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI 2007 Venture Investments III            AEI Silicon Valley Fund II Entity => By: [[AEI 2007 Venture Investments III            AEI Silicon Valley Fund II Signatory First Name]] [[AEI 2007 Venture Investments III            AEI Silicon Valley Fund II Signatory Last Name]]
+Title: [[AEI 2007 Venture Investments III            AEI Silicon Valley Fund II Signatory Title]]}}
+
+
+**AEI Trilogy Fund**            **AEI 2006 Venture Investments I**
+
+[[AEI Trilogy Fund            AEI 2006 Venture Investments I Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI Trilogy Fund            AEI 2006 Venture Investments I Entity => By: [[AEI Trilogy Fund            AEI 2006 Venture Investments I Signatory First Name]] [[AEI Trilogy Fund            AEI 2006 Venture Investments I Signatory Last Name]]
+Title: [[AEI Trilogy Fund            AEI 2006 Venture Investments I Signatory Title]]}}
+
+
+**AEI 2006 Venture Investments II**            **AEI 2006 Venture Investments III**
+
+[[AEI 2006 Venture Investments II            AEI 2006 Venture Investments III Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI 2006 Venture Investments II            AEI 2006 Venture Investments III Entity => By: [[AEI 2006 Venture Investments II            AEI 2006 Venture Investments III Signatory First Name]] [[AEI 2006 Venture Investments II            AEI 2006 Venture Investments III Signatory Last Name]]
+Title: [[AEI 2006 Venture Investments II            AEI 2006 Venture Investments III Signatory Title]]}}
+
+
+**Advanced Equities Investments XXV**            **Advanced Equities Investments XXXV**
+
+[[Advanced Equities Investments XXV            Advanced Equities Investments XXXV Signatory Email: Identity | Signature]]
+__________________________________________
+{{Advanced Equities Investments XXV            Advanced Equities Investments XXXV Entity => By: [[Advanced Equities Investments XXV            Advanced Equities Investments XXXV Signatory First Name]] [[Advanced Equities Investments XXV            Advanced Equities Investments XXXV Signatory Last Name]]
+Title: [[Advanced Equities Investments XXV            Advanced Equities Investments XXXV Signatory Title]]}}
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Waiver as of the date first written above. 
+
+**AEI Eastern Investments III**            **AEI Eastern Investments IV**
+
+[[AEI Eastern Investments III            AEI Eastern Investments IV Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI Eastern Investments III            AEI Eastern Investments IV Entity => By: [[AEI Eastern Investments III            AEI Eastern Investments IV Signatory First Name]] [[AEI Eastern Investments III            AEI Eastern Investments IV Signatory Last Name]]
+Title: [[AEI Eastern Investments III            AEI Eastern Investments IV Signatory Title]]}}
+
+
+**AEI 2006 Venture Investments IV**            **AEI 2007 Venture Investments IV**
+
+[[AEI 2006 Venture Investments IV            AEI 2007 Venture Investments IV Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI 2006 Venture Investments IV            AEI 2007 Venture Investments IV Entity => By: [[AEI 2006 Venture Investments IV            AEI 2007 Venture Investments IV Signatory First Name]] [[AEI 2006 Venture Investments IV            AEI 2007 Venture Investments IV Signatory Last Name]]
+Title: [[AEI 2006 Venture Investments IV            AEI 2007 Venture Investments IV Signatory Title]]}}
+
+
+**Advanced Equities Investments XXVI**            **AEI Eastern Investments II**
+
+[[Advanced Equities Investments XXVI            AEI Eastern Investments II Signatory Email: Identity | Signature]]
+__________________________________________
+{{Advanced Equities Investments XXVI            AEI Eastern Investments II Entity => By: [[Advanced Equities Investments XXVI            AEI Eastern Investments II Signatory First Name]] [[Advanced Equities Investments XXVI            AEI Eastern Investments II Signatory Last Name]]
+Title: [[Advanced Equities Investments XXVI            AEI Eastern Investments II Signatory Title]]}}
+
+
+**AEI Eastern Investments I**            **Advanced Equities Motricity Series I Investment I**
+
+[[AEI Eastern Investments I            Advanced Equities Motricity Series I Investment I Signatory Email: Identity | Signature]]
+__________________________________________
+{{AEI Eastern Investments I            Advanced Equities Motricity Series I Investment I Entity => By: [[AEI Eastern Investments I            Advanced Equities Motricity Series I Investment I Signatory First Name]] [[AEI Eastern Investments I            Advanced Equities Motricity Series I Investment I Signatory Last Name]]
+Title: [[AEI Eastern Investments I            Advanced Equities Motricity Series I Investment I Signatory Title]]}}
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Waiver as of the date first written above. 
+
+**New Enterprise Associates 10, Limited Partnership** 
+
+[[New Enterprise Associates 10 Limited Partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{New Enterprise Associates 10 Limited Partnership Entity => By: [[New Enterprise Associates 10 Limited Partnership Signatory First Name]] [[New Enterprise Associates 10 Limited Partnership Signatory Last Name]]
+Title: [[New Enterprise Associates 10 Limited Partnership Signatory Title]]}}
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Waiver as of the date first written above. 
+
+**Koala Holding Limited Partnership** 
+
+[[Koala Holding Limited Partnership Signatory Email: Identity | Signature]]
+__________________________________________
+{{Koala Holding Limited Partnership Entity => By: [[Koala Holding Limited Partnership Signatory First Name]] [[Koala Holding Limited Partnership Signatory Last Name]]
+Title: [[Koala Holding Limited Partnership Signatory Title]]}}
+
+
+IN WITNESS WHEREOF, the parties have duly executed and delivered this Waiver as of the date first written above. 
+
+**TCV V, L.P.** 
+
+[[TCV V L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{TCV V L.P. Entity => By: [[TCV V L.P. Signatory First Name]] [[TCV V L.P. Signatory Last Name]]
+Title: [[TCV V L.P. Signatory Title]]}}
+
+
+**TCV V Member Fund, L.P.** 
+
+[[TCV V Member Fund L.P. Signatory Email: Identity | Signature]]
+__________________________________________
+{{TCV V Member Fund L.P. Entity => By: [[TCV V Member Fund L.P. Signatory First Name]] [[TCV V Member Fund L.P. Signatory Last Name]]
+Title: [[TCV V Member Fund L.P. Signatory Title]]}}
+

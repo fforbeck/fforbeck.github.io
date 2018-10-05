@@ -1,35 +1,33 @@
-\centered **AMENDMENT NO. 2 TO THE**
+\centered **AMENDMENT NO. 2 TO THE NACCO MATERIALS HANDLING GROUP, INC. EXCESS RETIREMENT PLAN (**Effective [[Date 1: Date]]**)** 
 
-\centered **LOWE’S COMPANIES**
+NACCO Materials Handling Group, Inc. hereby adopts this Amendment No. 2 to the NACCO Materials Handling Group, Inc. Excess Retirement Plan (Effective [[Date 1]]) (the “Plan”), to be effective as of [[Date 2: Date]]. Words used herein with initial capital letters which are defined in the Plan are used herein as so defined. 
 
-\centered **EMPLOYEE STOCK PURCHASE PLAN –**
+\centered Section 1 
 
-\centered **STOCK OPTIONS FOR EVERYONE**
+Section 10.4 of the Plan is hereby amended by adding the following new Subsection (d) to the end thereof, to read as follows: 
 
-This Amendment No. 2 is made as of the [[Date 1: Date]], by Lowe’s Companies, Inc., a corporation duly organized and existing under the laws of the State of North Carolina (the “Company”). Capitalized terms used herein and not otherwise defined shall have the meanings given to such terms in the Lowe’s Companies Employee Stock Purchase Plan – Stock Options for Everyone (the “Plan”).
+“(d) Notwithstanding the foregoing, or any other provision of the Plan to the contrary, NACCO Industries, Inc. shall be responsible for the payment of the amounts described in Section 7.1 that were credited to Participants’ Sub-Accounts for the 2009 Plan Year and are due to be paid to the Participants by [[Date 3: Date]]. In furtherance thereof, but without limiting the foregoing, NACCO Industries, Inc. shall not be responsible for the payment of any other Excess Retirement Benefits under the Plan.” 
 
-\centered W I T N E S S E T H:
+EXECUTED this [[Date 4: Date]]. 
 
-WHEREAS, the Company maintains the Plan; and
-
-WHEREAS, the Committee desires, pursuant to the authority granted to the Board under Article XIII of the Plan and delegated to the Committee by the Board, to amend the Plan, effective as of [[Date 2: Date]] (the “**Effective Date**”), to limit the ability of a participant to withdraw from participation at the end of an offering period in order to improve the administration of the Plan.
-
-NOW, THEREFORE, the Plan is hereby amended, effective as of the Effective Date hereof, as follows:
-
-^The first sentence of Section 8.01 is hereby revised to read as follows:
-
-“A Participant may revoke his or her Enrollment Form for an Offering Period and withdraw from Participation in the Plan for that Offering Period by giving written or electronic notice authorized by the Administrator to that effect to the Administrator at any time before the last day of the month prior to the month in which the Date of Exercise occurs.” 
-
-^Except as specifically amended hereby, the Plan shall remain in full force and effect as prior to this Amendment No. 2.
-
-IN WITNESS WHEREOF, the Company has adopted this Amendment No. 2 to the Plan as of the Effective Date.
-
-LOWE'S COMPANIES, INC.   
-
-[[LOWES COMPANIES INC. Signatory Email: Identity | Signature]]
+**NACCO MATERIALS HANDLING GROUP, INC.**
+[[NACCO MATERIALS HANDLING GROUP INC. Signatory Email: Identity | Signature]]
 __________________________________________
-{{LOWES COMPANIES INC. Entity => By: [[LOWES COMPANIES INC. Signatory First Name]] [[LOWES COMPANIES INC. Signatory Last Name]]
-Title: [[LOWES COMPANIES INC. Signatory Title]]}}
+{{NACCO MATERIALS HANDLING GROUP INC. Entity => By: [[NACCO MATERIALS HANDLING GROUP INC. Signatory First Name]] [[NACCO MATERIALS HANDLING GROUP INC. Signatory Last Name]]
+Title: [[NACCO MATERIALS HANDLING GROUP INC. Signatory Title]]}}
 
-Marshall A. Croom  
-Title: SVP & Chief Risk Officer, Chairman Administrative Committee of Lowe’s Companies, Inc.
+Charles A. Bittenbender
+Title:   Vice President, General Counsel and Secretary
+
+NACCO Industries, Inc. agrees to the terms of this Amendment No. 2. 
+
+EXECUTED this [[Date 4]]. 
+
+**NACCO INDUSTRIES, INC.**
+[[NACCO INDUSTRIES INC. Signatory Email: Identity | Signature]]
+__________________________________________
+{{NACCO INDUSTRIES INC. Entity => By: [[NACCO INDUSTRIES INC. Signatory First Name]] [[NACCO INDUSTRIES INC. Signatory Last Name]]
+Title: [[NACCO INDUSTRIES INC. Signatory Title]]}}
+
+Charles A. Bittenbender
+Title:   Vice President, General Counsel and Secretary

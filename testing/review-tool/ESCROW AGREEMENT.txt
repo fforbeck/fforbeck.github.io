@@ -1,111 +1,238 @@
 \centered **ESCROW AGREEMENT**
 
-THIS AGREEMENT made as of [[Date 1: Date]]
+This Escrow Agreement dated [[Date 1: Date]] (the "**Escrow** **Agreement**"), is entered into by and among (i) ES Cell [[State of Formation: State]] [[Organization: EntityType]], whose registered office is at R J Ryan Partners, 12 [[ESCA]], Berwick, [[Party 2]], Australia ("**ESCA**"); (ii) Pharmbio Growth Fund Pte Ltd, a Singapore private limited company, whose registered office is at 250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 ("**PGH**"); (iii) Biomedical Sciences Investment Fund Pte Ltd, a Singapore private limited company, whose registered office is at 250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 60; ("**BMSIF**"), and [[Purchaser]], a [[State of Formation: State]] [[Organization: EntityType]], whose registered office is at [[Address 1: Address]], 94502, United States of America ("**Purchaser**"), and [[Agent]], a [[State of Formation: State]] [[Organization: EntityType]], as escrow agent ("**Escrow** **Agent**"). ESCA, PGH, and BMSIF are referred to, collectively, as the "**Principal** **Vendors**." Principal Vendors and Purchaser are referred to, collectively, as the “**Parties**.”
 
-BETWEEN: 
-**HELIX WIND CORP., a Nevada corporation** 
-[[Address 1: Address]]
+\centered **RECITALS**
 
-(the “Company”)  
-AND: 
-**KENNETH O. MORGAN** 
-[[Address 2: Address]] 
-(“Morgan”)  
-AND: 
-**LAW OFFICES OF WILLIAM M. AUL** 
+^The Principal Vendors and the Purchaser have entered into an Equity and Note Purchase Agreement dated [[Date 2: Date]] (the "**Purchase** **Agreement**", attached to this Agreement as Exhibit A) for Purchaser's acquisition of ordinary shares, preference shares, and promissory notes of ES Cell International Pte Ltd, a Singapore private limited company, whose registered office is at 60 Biopolis Street #01-03 Genome Singapore 138672 (the "**Purchase**"), pursuant to which the "**Purchase Price**" (as defined in the P urchase Agreement, and hereby incorporated into this Escrow Agreement) consists of 1,363,751 common shares, no par value, of Purchaser and warrants to purchase 300,000 additional common shares of Purchaser.
+
+^Purchaser agrees to place in escrow ten percent ([[Percentage 1: Number]]%) of the common shares, no par value, of Purchaser comprising a part of the Purchase Price issued to the Principal Vendors as set out against the name of each of the Principal Vendors in Schedule 1 (the "**Escrow** **Shares**") and the Escrow Agent agrees to hold and distribute the Escrow Shares in accordance with the terms of this Escrow Agreement.
+
+In consideration of the promises and agreements of the Parties and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Parties and the Escrow Agent agree as follows:
+
+\centered **ESCROW DEPOSIT**
+
+^^**Receipt of Escrow Shares**.On or before the Closing Date, Purchaser shall deliver to the Escrow Agent the stock certificates representing the Escrow Shares (the “**Share Certificates**”) to be held in escrow by Escrow Agent under the terms and conditions of this Escrow Agreement (the “**Escrow**”). Escrow Agent shall inform each Party in writing of its receipt of the Share Certi ficates, within two business days of its receipt of the Share Certificates from Purchaser. The Escrow Shares shall also include any (a) other common shares or other securities issued or distributed by Purchaser to holders of its common shares as a share split or share dividend, reclassification of shares; or other distribution, and (b) other securities into which the Escrow Shares may be converted by means of any recapitalization or reclassification of the common shares of Purchaser, or upon any merger or consolidation of Purchaser with any other business entity.
+
+^^**Stock Transfer Power**. On or before the Closing Date, each Principal Vendor shall deliver to the Escrow Agent a stock transfer power signed in blank authorizing American Stock Transfer and Trust Company (the "**Transfer** **Agent**"), whose registered office is at 59 Maiden Lane, Plaza Level, [[Address 2: Address]], to transfer or cancel the Escrow Shares on the stock transfer records of Purchaser.
+
+^^**Closing Date**. The "**Closing Date**" for the Purchase is [[Date 1]], or such later date as the Parties may agree. If the Closing Date is extended, the Parties shall notify Escrow Agent in writing of the new Closing Date.
+
+^^Disbursements.  
+^^Escrow Claims. An "**Escrow Claim**" shall be deemed to have occurred if within 180 days after the Closing Date (i) any claim for setoff has been made pursuant to Section 1.7 of the Purchase Agreement and in accordance with the Purchase Agreement ("**Setoff**"), and one of the Parties has concurrently notified the Escrow Agent of such claim, (ii) a third party has made a claim (whether or not a lawsuit or arbitration proceeding has commenced) that is subject to indemnification under the Purchase Agreement, and one of the Parties has concurrently notified the Escrow Agent of such claim, or (iii) any dispute between the Parties is arbitrated pursuant to Section 7.4 of the Purchase Agreement or submitted for resolution through any other legal proceeding in accordance with the provisions of the Purchase Agreement, and one of the Parties has notified Escrow Holder of such claim. The Escrow Agent shall not release any Escrow Shares until it has received written instructions pursuant to Section 1.4(b). Any Escrow Claim shall be deemed to have occurred if received before the Escrow Termination Date by the Escrow Agent. The Parties shall provide advance written notice of the identity of the arbitrator to the Escrow Agent pursuant to this Section 1.4.
+
+^^Disbursements to Satisfy Escrow Claims. Escrow Agent shall release Escrow Shares within ten (10) business days after the following events: (i) in the case of Setoff, Escrow Agent shall release Escrow Shares to Purchaser, pursuant to, and following the receipt of, written request for delivery signed by each of the Parties stating the amount of the Escrow Claim, the identity of the Principal Vendor(s) who is/are liable to bear the amount of the Escrow Claim (and not any other Principal Vendor) (“**Breaching Principal Vendor**”) and the number of Escrow Shares attributable to the Breachin g Principal Vendors which will satisfy the amount of the Escrow Claim computed in accordance with this Section 1.4(b) (“**Relevant Escrow Shares**”); or (ii) in the case of an arbitration or other legal proceeding resulting in a final award or judgment, following Escrow Agent’s receipt of (1) written notice of the final award or judgment in the arbitration or other proceeding, from the prevailing Party or Parties, and (2) a copy of such final award or judgment; or (iii) in the case of an arbitration or other proceeding resulting in an award or judgment and where the Escrow Agent has filed an interpleader action with a court of competent jurisdiction, following Escrow Agent’s receipt of notice of the order of such court. In the case of a Setoff, Escrow Agent shall only release the Relevant Escrow Shares (and not any other Escrow Shares attributed to a non-Breaching Principal Ven dor) to Purchaser. Any Escrow Share calculations pursuant to this Section will be provided in writing to Escrow Agent. If the Escrow Shares are returned to the Purchaser due to Setoff, the Breaching Principal Vendor shall promptly sign a stock transfer power authorizing the Transfer Agent to transfer or cancel the Relevant Escrow Shares on the stock transfer records of Purchaser. Escrow Agent shall deliver the Share Certificates and stock transfer power signed by the Breaching Principal Vendor to the Transfer Agent for cancellation. If any amount less than [[Percentage 2: Number]]% of the Escrow Shares is to be returned to Purchaser or cancelled due to Setoff, then the Breaching Principal Vendor shall promptly sign a stock transfer power authorizing the Transfer Agent to cancel the applicable portion of the Escrow Shares. The Escrow Holder shall then deliver the Share Certificates and the stock transfer power signed by such Breaching Principal Vendor to the Transfer Agent to cancel the applicable portion of the Escrow Shares, and the Transfer Agent shall deliver new share certificates to the Escrow Agent representing the number of Escrow Shares the Breaching Principal Vendor is entitled to receive after Setoff.
+
+For the avoidance of doubt, any release of the Escrow Shares shall be in accordance with Section 1.4(b) and not pursuant to or in accordance with any notification by any one Party to determine the Escrow Claim in accordance with Section 1.4(a).
+
+^^Disbursements Upon Termination of Escrow. If the Escrow terminates under Section 1.5(a), Escrow Agent shall return all Escrow Shares to the Purchaser within ten (10) days after termination of Escrow. If the Escrow terminates under Section 1.5(b), within ten (10) business days following the Escrow termination, Escrow Agent shall disburse to the Principal Vendors any Escrow Shares remaining in Escrow following any and all disbursements to satisfy Escrow Claims.
+
+^^Cash Dividends or other Cash Distributions. Any cash dividends or cash distributions of any kind made in respect to the Escrow Shares by Purchaser shall be distributed directly to the Principal Vendors and require no duty by the Escrow Agent.
+
+^^Escrow Termination.  
+^^If the Purchase fails to close on the Closing Date, the Purchaser shall notify the Escrow Holder of such failure, and the Escrow shall terminate upon Escrow Agent’s receipt of such notice.
+
+^^If the Purchase is consummated on the Closing Date, Escrow shall terminate on the later of (i) the expiration of 180 days following the Closing Date (the “**Escrow Termination Date**”); and (ii) the date on which all Escrow Claims have been resolved or terminated in accordance with the provisions of Section 1.5 of the Purchase Agreement. An Escrow Claim shall not be deemed to have been resolved until (A) the Parties have both notified the Escrow Holder in writing that the Escrow Claim has been resolved, or (B) the Escrow Claim has been resolved by a final court judgment or arbitration award Provided Always that an Escrow Claim that is not th e subject of pending litigation or arbitration, or that does not pertain to an unresolved claim by a third party, shall lapse unless the Purchaser commences arbitration or other legal proceedings in accordance with Section 7.4 of Purchase Agreement (and in the case of an Escrow Claim against either or both of the BioOne Principal Vendors, by arbitration or legal proceedings being both issued and served) in respect of such Escrow Claim within three months after the Escrow Termination Date failing which such Escrow Claim shall be deemed to have terminated at the expiration of such three month period.
+
+^^Notwithstanding paragraphs (a) and (b) of this Section, Escrow shall terminate upon the disbursement of all Escrow Shares in satisfaction or partial satisfaction of one or more Escrow Claims.
+
+^^Upon the termination of Escrow, this Escrow Agreement shall be of no further force and effect except that the provisions of Sections 3.1 (Indemnification) and 3.2 (Limitation of Liability) hereof shall survive termination.
+
+\centered **DUTIES OF THE ESCROW AGENT**
+
+^^**Scope of Responsibility**. Notwithstanding any provision to the contrary, the Escrow Agent is obligated only to perform the duties specifically set forth in this Escrow Agreement, which shall be deemed purely ministerial in nature. Under no circumstances will the Escrow Agent be deemed to be a fiduciary to any Party or any other person under this Escrow Agreement. The Escrow Agent will not be responsible or liable for the failure of any Party to perform in accordance with this Escrow Agreement. The Escrow Agent shall neit her be responsible for, nor chargeable with, knowledge of the terms and conditions of any other agreement, instrument, or document other than this Escrow Agreement, unless an original or a copy of such agreement has been provided to the Escrow Agent; and the Escrow Agent shall have no duty to know or inquire as to the performance or nonperformance of any provision of any such agreement, instrument, or document, unless notified of such performance or nonperformance by any Party. References in this Escrow Agreement to any other agreement, instrument, or document are for the convenience of the Parties, and the Escrow Agent has no duties or obligations with respect thereto. This Escrow Agreement sets forth all matters pertinent to the Escrow contemplated hereunder, and no additional obligations of the Escrow Agent shall be inferred or implied from the terms of this Escrow Agreement or any other agreement.
+
+^^**Reliance**. The Escrow Agent shall not be liable for any action taken or not taken by it in accordance with the direction or consent of the Parties or their respective agents, representatives, successors, or assigns, but only if such direction or consent is consistent with the terms of this Escrow Agreement. The Escrow Agent shall not be liable for acting or refraining from acting upon any notice, request, consent, direction, requisition, certificate, order, affidavit, letter, or other paper or document believed by it to be genuine and co rrect and to have been signed or sent by the proper person or persons, without further inquiry into the person's or persons' authority. Concurrent with the execution of this Escrow Agreement, the Parties shall deliver to the Escrow Agent authorized signers' forms in the form of Exhibit B to this Escrow Agreement.
+
+^^**Right Not Duty Undertaken**. The permissive rights of the Escrow Agent to do things enumerated in this Escrow Agreement shall not be construed as duties.
+
+^^**No Financial Obligation**. No provision of this Escrow Agreement shall require the Escrow Agent to risk or advance its own funds or otherwise incur any financial liability or potential financial liability in the performance of its duties or the exercise of its rights under this Escrow Agreement.
+
+\centered **PROVISIONS CONCERNING THE ESCROW AGENT**
+
+^^**Indemnification**. The Parties, jointly and severally, shall indemnify, defend and hold harmless the Escrow Agent from and against any and all loss, liability, cost, damage, and expense, including, without limitation, attorneys' fees and expenses or other professional fees and expenses which the Escrow Agent may suffer or incur by reason of any action, claim, or proceeding brought against the Escrow Agent, arising out of or relating in any way to this Escrow Agreement or any transaction to which this Escrow Agreement relates, unless such loss, liabi lity, cost, damage, or expense shall have been finally adjudicated to have been directly caused by the willful misconduct or gross negligence of the Escrow Agent. The provisions of this Section 3.1 shall survive the resignation or removal of the Escrow Agent and the termination of this Escrow Agreement.
+
+^^**Limitation of Liability**. The Escrow Agent shall not be liable, directly or indirectly, for any (i) damages, losses, or expenses arising out of the services provided hereunder, other than damages, losses, or expenses which have been finally adjudicated to have directly resulted from the Escrow Agent's gross negligence or willful misconduct, or (ii) special, indirect, or consequential damages or LOSSES OF ANY KIND WHATSOEVER (INCLUDING WITHOUT LIMITATION LOST PROFITS), even if the Escrow Agent has been advised of the possibility of such LOSSES OR da mages AND REGARDLESS OF THE FORM OF ACTION.
+
+^^Removal or Resignation.  
+^^Removal. The Parties may remove the Escrow Agent by furnishing to the Escrow Agent a joint written notice of its removal along with payment of all fees and expenses to which the Escrow Agent is entitled through the date of termination. Such removal shall be effective thirty (30) days after the delivery of such notice or upon the earlier appointment of a successor escrow agent, and the Escrow Agent's sole responsibility thereafter shall be to safely keep the Escrow Shares and to deliver the same to a successor escrow agent as shall be appointed by the Parties, as evidenced by a joint written notice filed with the Escrow Agent or in accordance with the order of a court or other dispute resolutio n authority. If the Parties have failed to appoint a successor escrow agent prior to the expiration of thirty (30) days following the delivery of such notice of removal, the Escrow Agent may petition any court of competent jurisdiction for the appointment of a successor escrow agent or for other appropriate relief, and any such resulting appointment shall be binding upon the Parties.
+
+^^**Resignation**. If the Escrow Agent shall resign as the escrow agent hereunder, a successor escrow agent shall be promptly appointed jointly by the Parties. The Escrow Agent may resign at any time by giving to the Parties thirty (30) days’ written notice of resignation (the “**Resignation Notice**”). Such resignation shall take effect when the successor escrow agent accepts in writing its appointment as successor escrow agent and receives the Escrow Shares from the Escrow Agent or, upon disposition of the Escrow Shares, in accordance with written instructions of the Parties. If no successor escrow agent has been appointed and has accepted the Escrow Shares within thirty (30) days after the Resignation Notice is sent, the Escrow Agent may apply to a court of competent jurisdiction for the appointment of a successor escrow agent or for other appropriate relief, and any such resulting appointment shall be binding upon the Parties.
+
+^^**Compensation**. The Escrow Agent shall be entitled to compensation for its services as stated in the fee schedule attached hereto as Schedule 3.4, which compensation shall be paid [[Percentage 3: Number]]% by Purchaser and [[Percentage 3]]% by Principal Vendors. The fee agreed upon for the services rendered hereunder is intended as full compensation for the Escrow Agent's services as contemplated by this Escrow Agreement; provided, however, that in the event that Escrow Agent renders any service not contemplated in this Escrow Agreement, or there is any assignment of intere st in the subject matter of this Escrow Agreement, or any material modification hereof, or if any material controversy arises hereunder which causes the Termination of Escrow to take place more than eighteen (18) months after the Closing Date, or the Escrow Agent is made a party to any litigation pertaining to this Escrow Agreement or the subject matter hereof, then the Escrow Agent shall be compensated for such extraordinary services and reimbursed by the non-prevailing Party for all costs and expenses, including reasonable attorneys' fees and expenses, occasioned by any such delay, controversy, litigation, or event. If any amount due to the Escrow Agent hereunder is not paid within thirty (30) days of the date due, the Escrow Agent in its sole discretion may charge interest on such amount up to the highest rate permitted by applicable law.
+
+^^**Merger or Consolidation**. Any corporation or association into which the Escrow Agent may be converted or merged, or with which it may be consolidated, or to which it may sell or transfer all or substantially all of its corporate trust business and assets as a whole or substantially as a whole, or any corporation or association resulting from any such conversion, sale, merger, consolidation, or transfer to which the Escrow Agent is a party ("**Corporate** **Event**"), shall be and become the successor escrow agent under this Escrow Agreement and shall have and succeed to the rights, powers, duties, immunities, and privileges as its predecessor, without the execution or filing of any instrument or paper or the performance of any further act. Escrow Agent shall notify the Parties of any such Corporate Event occurring prior to the Termination of Escrow.
+
+^^**Force Majeure**. The Escrow Agent shall not be responsible or liable for any failure or delay in the performance of its obligation under this Escrow Agreement arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, acts of God, earthquakes, fire, flood, wars, acts of terrorism, civil or military disturbances, sabotage, epidemic, riots, interruptions, loss, or malfunctions of utilities, computer (hardware or software) or communications services, accidents, labor disputes, acts o f civil or military authority or governmental action; it being understood that the Escrow Agent shall use commercially reasonable efforts which are consistent with accepted practices in the banking industry to resume performance as soon as reasonably practicable under the circumstances.
+
+\centered **MISCELLANEOUS**
+
+^^**Successors and Assigns**. This Escrow Agreement shall be binding on and inure to the benefit of the Parties and the Escrow Agent and their respective successors and permitted assigns. No other persons shall have any rights under this Escrow Agreement. No assignment of the interest of any of the Parties shall be binding unless and until written notice of such assignment shall be delivered to the other Party and the Escrow Agent and shall require the prior written consent of the other Party and the Escrow Agent (such co nsent not to be unreasonably withheld).
+
+^^**Further Assurances**. The Principal Vendors will execute, acknowledge, and deliver to Escrow Agent such additional stock transfer powers, instruments, notices, and documents; and will take such additional actions as Purchaser, Escrow Agent, or the Transfer Agent may reasonably request to effect, complete, or perfect the transfer or cancellation of Escrow Shares pursuant to this Escrow Agreement.
+
+^^**Escheat**. The Parties are aware that under applicable state law, property which is presumed abandoned may under certain circumstances escheat to the applicable state. The Escrow Agent shall have no liability to the Parties, their respective heirs, legal representatives, successors and assigns, or any other party, should any or all of the Escrow Shares escheat by operation of law.
+
+^^**Notices**. All notices, requests, demands, and other communications required under this Escrow Agreement shall be in writing, in English, and shall be deemed to have been duly given if delivered (i) personally, (ii) by facsimile transmission with written confirmation of receipt, (iii) by overnight delivery with a reputable national overnight delivery service, or (iv) by mail or by certified mail, return receipt requested, and postage prepaid. If any notice is mailed, it shall be deemed given five business days after the date such notice i s deposited in the United States mail. If notice is given to a party, it shall be given at the address for such party set forth below. It shall be the responsibility of the Parties to notify the Escrow Agent and the other Party or Parties in writing of any name or address changes. In the case of communications delivered to the Escrow Agent, such communications shall be deemed to have been given on the date received by the Escrow Agent.
+
+If to Purchaser:   BioTime, Inc.
+
 [[Address 3: Address]] 
-(the “Escrowholder”)  
-WHEREAS:  
-^The Company has entered into that certain Note and Warrant Purchase Agreement and issued a Convertible Secured Promissory Note in the principal amount of seven hundred seventy nine thousand five hundred dollars ($[[USD Value 1: Number]]), each dated [[Date 1]] (the “Financing Documents”) with St. George Investments (the “Lender”).
+Attn: Michael D. West 
+Phone: [[Phone 1]], ext. 303 
+Facsimile: [[Phone 2]]  
+With a copy to:   Lippenberger, Thompson, Welch,
 
-^The Financing Documents require that as a condition to closing the financing under the Financing Documents, that Morgan pledge four million eight hundred thousand (4,800,000) shares (the “Pledged Shares”) of his Company common stock to the Lender under the terms of the Stock Pledge Agreement dated [[Date 1]] (the “Pledge Agreement”) between Morgan and the Lender, to secure the Company’s obligations under the Financing Documents.
+Soroko & Gilbert, LLP 
+[[Address 4: Address]] 
+Attn: Richard S. Soroko, Esq. 
+Phone: [[Phone 3]] 
+Facsimile: [[Phone 4]] 
 
-^Morgan has agreed to the terms of Stock Pledge Agreement and the deliver the Pledged Shares in accordance with the Pledge Agreement, so long that the Company agrees to issue Morgan an aggregate of six million (6,000,000) shares of Company’s common stock (the “Replacement Shares”) in the event that Morgan forfeits the Pledged Shares subject to the default provisions of the Pledge Agreement (the “Forfeiture Event”)
+If to the Principal Vendors:   At the addresses and numbers provided in Schedule 4.4 to this Escrow Agreement
 
-^The Company, Morgan, and the Escrowholder agree that simultaneous with the closing under the Financing Documents, the Company and Morgan entered into that certain Settlement Agreement and Mutual Release dated [[Date 1]] (the “Settlement Agreement”) pursuant to which the parties thereto agree to settle and dismiss the Action (as defined in the Settlement Agreement) in exchange for the Company’s payment in the amount of $[[USD Value 2: Number]] to Morgan.
+If to the Escrow Agent:   Wells Fargo Bank, National Association
 
-^The Company has issued that certain Irrevocable Instructions to Transfer Agent, dated [[Date 2: Date]] (the “Instructions”) wherein the Company, Morgan, and the Lender have agreed that upon default under the Note (as defined in the Instructions) and as set forth in the Default Notice (attached as Exhibit B to the Instructions), the Company provides instructions to Island Stock Transfer, the Company’s stock transfer agent, to transfer the Pledged Shares to the Lender upon its receipt of a properly completed and executed Default Notice (the “Default Notice”) as set forth in Section 2 of the Instructions.
+**Corporate, Municipal and Escrow Services**
 
-^The Company, Morgan, and the Escrowholder hereby enter into this Escrow Agreement in furtherance of the Pledge Agreement and the Settlement Agreement.
+**[[Address 5: Address]]** 
+Phone: [[Phone 5]] 
+Facsimile: [[Phone 6]]  
+^^**Governing Law**. This Escrow Agreement shall be governed by and construed in accordance with the laws of the State of California.
 
-NOW THEREFORE WITNESSETH that for and in consideration of the covenants and agreements herein contained, the parties hereto declare and agree as follows:
+^^**Entire Agreement**. This Escrow Agreement sets forth the entire agreement and understanding of the Parties related to the Escrow Shares.
 
-^The Company hereby delivers to the Escrowholder the following documents which shall be held by the Escrowholder in escrow subject to the terms and conditions of this Escrow Agreement:
+^^**Amendment**. This Escrow Agreement may be amended, modified, superseded, rescinded, or canceled only by a written instrument executed by the Parties and the Escrow Agent.
 
-^^Two Common Stock Certificates representing an aggregate of six million (6,000,000) Replacement Shares registered in the name of Kenneth O. Morgan;
+^^**Waivers**. The failure of any Party to this Escrow Agreement at any time or times to require performance of any provision under this Escrow Agreement shall in no manner affect the right at a later time to enforce the same performance. A waiver by any Party to this Escrow Agreement of any such condition or breach of any term, covenant, representation, or warranty contained in this Escrow Agreement, in any one or more instances, shall neither be construed as a further or continuing waiver of any such condition or breach nor a waiver of any other condition or breach of any other term, covenant, representation, or warranty contained in this Escrow Agreement.
 
-^^A copy of the following Issuance Resolutions, each signed by Kevin K. Claudio, the Chief Financial Officer of the Company and submitted to Island Stock Transfer, the Company’s duly appointed stock transfer agent with instructions to issue and deliver the Replacement Shares to the Escrowholder;
+^^**Headings**. Section headings of this Escrow Agreement have been inserted for convenience of reference only and shall in no way restrict or otherwise modify any of the terms or provisions of this Escrow Agreement.
 
-^^A copy of the resolutions adopted by the Company’s Board of Directors wherein and showing that the issuance of the Replacement Shares have been approved at a duly constituted meeting or written action of the Company’s Board of Directors in conformity with the requirements of the Company’s By-laws and the Nevada General Corporation Law; and
+^^**Counterparts**. This Escrow Agreement and the Certificate as to Authorized Signatures attached as Exhibit B may be executed in one or more counterparts, each of which when executed shall be deemed to be an original, and such counterparts shall together constitute one and the same instrument.
 
-\centered (c)   An opinion of Steven J. Davis, Esq. addressed to Morgan and opining: (i) that all of the Replacement Shares, have been validly issued, fully paid-for, and are non-assessable shares of the capital stock of the Company; and (ii) that in the event of a Forfeiture Event, all of the Replacement Shares are not and will not be subject to any claims or interests of the Company, and that at all times immediately following any Forfeiture Event, Morgan will acquire and hold the Replacement Shares free of any claims or interests of the Company.  
+IN WITNESS WHEREOF, this Escrow Agreement has been duly executed as of the date first written above.
 
-(which documents are hereinafter called the “Escrow Documents”).
+\centered [signatures on following page]
 
-^For the purposes of the Pledge Agreement, the Escrowholder holds the Escrow Documents on behalf of Morgan and shall deliver the Escrow Documents in accordance with this paragraph 2. The Escrowholder shall:
+PURCHASER:   **BioTime, Inc.**,
 
-^^deliver the Escrow Documents to Morgan within five (5) business days after Escrowholder’s receipt of: (i) a copy of the Default Notice from the Company or upon any reasonable notice that the Lender has exercised its rights and remedies (as defined in Section 11 of the Pledge Agreement) stating (i) there is an Event of Default under the Pledge Agreement or (ii) the Company has received notice from the Lender that an Event of Default has occurred under the Convertible Secured Promissory Note issued by the Company to the Lender and in the original principal amount of Seven Hundred Seventy-Nine Thousand Dollars ($[[USD Value 3: Number]]) (the “Secured Note”) (both, as “Written Notice”) unless then prohibited by an order of a court of competent jurisdiction.
 
-^The Company agrees that in furtherance of the intent and purposes of this Escrow Agreement, it shall, upon receipt of any notice from the Lender, the Transfer Agent, or any third party that the Lender has exercised its rights to the Collateral or that an Event of Default has occurred under the Secured Note, promptly and within one (1) business day give written notice to the Escrowholder of the same and include in said notice reasonable additional details together a copy of all documents it has received relating to or arising out of any said exercise of the Lender’s rights, the occurrence of an Event of Default, or both of them. If Morgan receives the Escrow Documents under the provisions of paragraph 2 hereof, Morgan shall acquire and hold all rights to the Replacement Shares as the sole and exclusive stockholder of all the Replacement Shares. If Morgan receives the Escrow Documents under the provisions of paragraph 2 hereof, Morgan shall be deemed to have assigned to the Company, without the requirement of any further action by any party, any and all rights Morgan may have in the Pledged Shares or any proceeds from the Pledged Shares which may inure to Morgan under the Pledge Agreement. Morgan agrees to execute any and all documents reasonably required by the Company to evidence such assignment.
-
-^In the event that the Escrowholder does not receive any Default Notice or Written Notice, and Escrowholder receives reasonable written notice from the Company that the Secured Note and all obligations to the Lender under the terms of the Secured Note have been satisfied then the Escrowholder shall return the Replacement Shares to the Company. All of the parties hereto agree that any notice to be given under this Escrow Agreement shall be deemed to have been duly and sufficiently given if mailed by prepaid registered mail, telexed or telecopied to, or delivered at, the address of the other party as hereinafter set forth:
-
-^^To Morgan: (then to the address on the first page above)
-
-^^To the Company: (then to the address on the first page above)
-
-^^To the Escrowholder: (then to the address on the first page above)
-
-or at such other address as the other party may from time to time direct in writing, and any such notice shall be deemed to have been received, if mailed, telexed or telecopied, 48 hours after the time of mailing, telexing or telecopying, and, if delivered, upon the date of delivery. If normal mail service, telex service or telecopy services is interrupted by strike, slowdown, force majeure or other case, a notice send by the impaired means of communication will not be deemed to be received until actually received, and the party sending the notice shall utilize any other such services which have not been so interrupted or shall deliver such notice in order to ensure prompt receipt thereof.
-
-^Morgan shall pay from time to time the reasonable fees and expenses of the Escrowholder in connection with the performance of its duties hereunder, and the Company and Morgan shall jointly and severally indemnify and save harmless the Escrowholder of and from all other claims, demands, damage, loss and expense arising out of its performance of its duties hereunder.
-
-^The Escrowholder will incur no liability hereunder except for its willful misconduct or gross negligence so long as it has acted in good faith. The Escrowholder shall have no responsibility in respect of loss of the Escrow Documents except the duty to exercise such care in the safekeeping thereof as it would exercise if the Escrow Documents were the property of the Escrowholder.
-
-^The Escrowholder will not be required to defend any legal proceedings which may be instituted against it in respect of or arising out of anything herein contained unless requested to do so by a party hereto and indemnified to its reasonable satisfaction against the costs and expense of such defense.
-
-^The Escrowholder may seek and obtain the advice of legal counsel in the event of any question or dispute as to any of the provisions hereof or its duties hereunder, and it shall incur no liability and shall be fully protected in acting in good faith in accordance with the opinion, advice and instructions of such legal counsel (the reasonable costs of such legal services shall be added to and be part of the Escrowholder’s expenses hereunder).
-
-^The Escrowholder is not responsible or liable for the sufficiency, form or manner of making any notice or demand or direction provided for under this Escrow Agreement or of the identity of the persons executing the same, but it shall be sufficient in any writing purporting to be such a notice, demand, protest or direction is served under the Escrowholder in any manner sufficient to bring it to its attention. The Escrowholder shall not be liable for any error of judgment, for any act done or omitted by it in good faith, or for anything which it may in good faith do or refrain from doing in connection herewith.
-
-^Nothing contained herein shall be construed as limiting the duties of the Escrowholder to Morgan in its capacity as counsel to Morgan.
-
-^This Escrow Agreement shall be governed by and construed in accordance with the laws of the state of California as if this Agreement were fully performed and fully executed within the State of California. Any dispute or claim arising to or in any way related to this Agreement shall be settled by binding arbitration in San Diego, California. All arbitration shall be conducted in accordance with the rules and regulations of the American Arbitration Association ("AAA"). AAA shall designate an arbitrator from an approved list of arbitrators following both parties' review and deletion of those arbitrators on the approved list having a conflict of interest with either party. Each party shall pay its own expenses associated with such arbitration. A demand for arbitration shall be made within a reasonable time after the claim, dispute or other matter has arisen and in no event shall such demand be made after the date when institution of legal or equitable proceedings based on such claim, dispute or other matter in question would be barred by the applicable statutes of limitations. The decision of the arbitrators shall be rendered within 60 days of submission of any claim or dispute, shall be in writing and mailed to all the parties included in the arbitration. The decision of the arbitrator shall be binding upon the parties and judgment in accordance with that decision may be entered in any court having jurisdiction thereof.
-
-^This Escrow Agreement, after full execution, acknowledgment and delivery, memorializes and constitutes the entire agreement and understanding between the parties and supersedes and replaces all prior negotiations and agreements of the parties, whether written or unwritten. Each of the parties to this Escrow Agreement acknowledges that no other party, nor any agent or attorney of any other party has made any promises, representations, or warranty whatsoever, express or implied, which is not expressly contained in this Escrow Agreement; and each party further acknowledges that he or it has not executed this Escrow Agreement in reliance upon any belief as to any fact not expressly recited hereinabove.
-
-^This Escrow Agreement shall enure to the benefit of and be binding upon the parties hereto and their respective heirs, successors, administrators and assigns.
-
-^Time shall be of the essence of this Escrow Agreement.
-
-^This Escrow Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original and all of which taken together shall constitute one and the same instrument.
-
-^The obligations of the Escrowholder shall terminate at the earlier of: (a) the delivery of the Escrow Documents to Morgan; or (b) the return of the Replacement Shares to the Company. At all times hereunder, the Escrowholder shall be entitled to reasonably rely upon the information and documents it receives in exercising its obligations under this Escrow Agreement.
-
-\centered [The remainder of this page has been left intentionally blank.]
-
-IN WITNESS WHEREOF the parties hereto have duly executed this Escrow Agreement as of the date first above written.
-
-**KENNETH O. MORGAN**
-
-[[KENNETH O. MORGAN Signatory Email: Identity | Signature]]
+[[PURCHASER   BioTime Inc. Signatory Email: Identity | Signature]]
 __________________________________________
-{{KENNETH O. MORGAN Entity => By: [[KENNETH O. MORGAN Signatory First Name]] [[KENNETH O. MORGAN Signatory Last Name]]
-Title: [[KENNETH O. MORGAN Signatory Title]]}}
+{{PURCHASER   BioTime Inc. Entity => By: [[PURCHASER   BioTime Inc. Signatory First Name]] [[PURCHASER   BioTime Inc. Signatory Last Name]]
+Title: [[PURCHASER   BioTime Inc. Signatory Title]]}}
 
-Kenneth O. Morgan   
-**HELIX WIND CORP.**
 
-[[HELIX WIND CORP. Signatory Email: Identity | Signature]]
+PRINCIPAL VENDORS:   **ES Cell Australia Limited**,
+
+
+[[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Email: Identity | Signature]]
 __________________________________________
-{{HELIX WIND CORP. Entity => By: [[HELIX WIND CORP. Signatory First Name]] [[HELIX WIND CORP. Signatory Last Name]]
-Title: [[HELIX WIND CORP. Signatory Title]]}}
+{{PRINCIPAL VENDORS   ES Cell Australia Limited Entity => By: [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory First Name]] [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Last Name]]
+Title: [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Title]]}}
 
-Kevin K. Claudio, Chief Financial Officer
 
-**LAW OFFICES OF WILLIAM M. AUL**
+**Pharmbio Growth Fund Pte Ltd**,
+^^Singapore private limited company
 
-Per: **/s/ William M. Aul**  
-William M. Aul      
+[[A Singapore private limited company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Singapore private limited company Entity => By: [[A Singapore private limited company Signatory First Name]] [[A Singapore private limited company Signatory Last Name]]
+Title: [[A Singapore private limited company Signatory Title]]}}
 
-\centered **[SIGNATURE PAGE TO ESCROW AGREEMENT]**
+
+**Biomedical Sciences Investment Fund Pte Ltd**,
+^^Singapore private limited company
+
+[[A Singapore private limited company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Singapore private limited company Entity => By: [[A Singapore private limited company Signatory First Name]] [[A Singapore private limited company Signatory Last Name]]
+Title: [[A Singapore private limited company Signatory Title]]}}
+
+
+ESCROW HOLDER:   **Wells Fargo Bank, National Association**
+
+[[ESCROW HOLDER   Wells Fargo Bank National Association Signatory Email: Identity | Signature]]
+__________________________________________
+{{ESCROW HOLDER   Wells Fargo Bank National Association Entity => By: [[ESCROW HOLDER   Wells Fargo Bank National Association Signatory First Name]] [[ESCROW HOLDER   Wells Fargo Bank National Association Signatory Last Name]]
+Title: [[ESCROW HOLDER   Wells Fargo Bank National Association Signatory Title]]}}
+
+
+\centered **Exhibit A**
+
+\centered **Purchase Agreement**
+
+\centered - Exhibit A -
+
+\centered **Exhibit B**
+
+\centered **Certificate as to Authorized Signatures**
+
+The specimen signatures shown below are the specimen signatures of the individuals who have been designated as authorized representatives of the respective Parties and are authorized to initiate and approve transactions of all types for the Escrow account or accounts established under the Escrow Agreement to which this Exhibit B is attached.
+
+PURCHASER:   **BioTime, Inc.**,
+
+
+[[PURCHASER   BioTime Inc. Signatory Email: Identity | Signature]]
+__________________________________________
+{{PURCHASER   BioTime Inc. Entity => By: [[PURCHASER   BioTime Inc. Signatory First Name]] [[PURCHASER   BioTime Inc. Signatory Last Name]]
+Title: [[PURCHASER   BioTime Inc. Signatory Title]]}}
+
+
+PRINCIPAL VENDORS:   **ES Cell Australia Limited**,
+
+
+[[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Email: Identity | Signature]]
+__________________________________________
+{{PRINCIPAL VENDORS   ES Cell Australia Limited Entity => By: [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory First Name]] [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Last Name]]
+Title: [[PRINCIPAL VENDORS   ES Cell Australia Limited Signatory Title]]}}
+
+
+**Pharmbio Growth Fund Pte Ltd**,
+^^Singapore private limited company
+
+[[A Singapore private limited company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Singapore private limited company Entity => By: [[A Singapore private limited company Signatory First Name]] [[A Singapore private limited company Signatory Last Name]]
+Title: [[A Singapore private limited company Signatory Title]]}}
+
+
+**Biomedical Sciences Investment Fund Pte Ltd**,
+^^Singapore private limited company
+
+[[A Singapore private limited company Signatory Email: Identity | Signature]]
+__________________________________________
+{{A Singapore private limited company Entity => By: [[A Singapore private limited company Signatory First Name]] [[A Singapore private limited company Signatory Last Name]]
+Title: [[A Singapore private limited company Signatory Title]]}}
+
+
+\centered - Exhibit B -
+
+\centered **Schedule 1**
+
+\centered **Escrow Shares**
+
+\centered \centered **Name and Particulars**      \centered **Number of Common Shares of Purchaser Held in Escrow** ES Cell Australia Limited      \centered 1,586 
+Pharmbio Growth Fund Pte Ltd      \centered 2,462 
+Biomedical Sciences Investment Fund Pte Ltd      \centered 132,328 
+**Total**            
+
+\centered 136,376  
+
+\centered - Schedule 1 -
+
+\centered **Schedule 3.4**
+
+\centered **Escrow Agent Fees**
+
+\centered - Schedule 3.4 -
+
+\centered **Schedule 4.4**
+
+\centered **Contact Addresses and Numbers for Principal Vendors**
+
+\centered ES Cell Australia Limited:   Suite 203/63 Stead Street [[Address 6: Address]], 3205 Australia Attn: Carl Strachan Phone: (+613) 9699 2343 Facsimile: (+613) 9696 8525 
+Pharmbio Growth Fund Pte Ltd:   250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 Attn: Eugene Khoo Kay Jin Phone: (+65) 6832 6280 Facsimile: (+65) 6832 6838 
+Biomedical Sciences Investment Fund Pte Ltd:   250 North Bridge Road #20-02 Raffles City Tower Singapore 179101 Attn: Chu Swee Yeok Phone: (+65) 6832 6832 Facsimile: (+65) 6832 6838    
+
+\centered - Schedule 4.4 -

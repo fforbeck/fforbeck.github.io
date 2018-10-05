@@ -1,321 +1,287 @@
-\centered **LICENSE AGREEMENT**
+\centered LICENSE AGREEMENT
 
-This License Agreement is made and entered into as of the [[Date 1: Date]] (the “**Effective Date**”) by and between [[Licensor]], a [[State of Formation: State]] [[Organization: EntityType]] with offices at 4414 Centerview Drive, Suite 204, [[Address 1: Address]] (“**Licensor**”), and [[Licensee]], a [[State of Formation: State]] [[Organization: EntityType]] with offices at 1901 Diplomat Drive, Farmers Branch, TX 75234 (“**Licensee**”). Capitalized terms used in this Agreement and not otherwise defined in the context in which they are used shall have the meanings ascribed to them in Section 1 herein.
+\centered TOC
 
-\centered **WITNESSETH:**
+^^^PARTIES  
+^^^EXPRESS TERMINATION AND ABANDONMENT  
+^^^BACKGROUND  
+^^^DEFINITIONS  
+^^^LICENSE GRANTS  
+^^^PAYMENTS AND ROYALTIES  
+^^^LICENSOR'S TECHNICAL SUPPORT OBLIGATIONS  
+^^^RECORDS AND PAYMENTS  
+^^^ENHANCEMENTS AND MODIFICATIONS  
+^^^TERM AND TERMINATION  
+^^^WARRANTY AND DISCLAIMER  
+^^^INDEMNITY  
+^^^CONFIDENTIAL INFORMATION  
+^^^PATENT MARKING  
+^^^ASSOCIATED TRADEMARK RIGHTS  
+^^^PATENT ENFORCEMENT  
+^^^PRODUCT DEVELOPMENT AND MARKETING  
+^^^QUALITY ASSURANCES  
+^^^GENERAL PROVISIONS  
 
-WHEREAS, Licensor has certain rights in the Voit Intellectual Property (as defined below); and
+\centered I **PARTIES**
 
-WHEREAS, Licensee desires to use the Voit Intellectual Property in connection with the sourcing, importing, marketing, sale, and distribution of Licensee Products in the Territory to its customers in accordance with the terms and conditions set forth in this Agreement, and Licensor desires to grant to Licensee the right to use the Voit Intellectual Property in accordance with such terms and conditions; and
+This Agreement (hereinafter referred to as the “AGREEMENT” or the “LICENSE AGREEMENT”) is entered into by **EVEREST WATER LTD,** having a mailing address of: P.O. Box N-9609 Maude Beatrice House 35 Village Road Nassau, Bahamas, (hereinafter “LICENSOR”), and **WATERPURE INTERNATIONAL, INC.**, having a mailing address at: [[Address 1: Address]] USA (hereinafter “LICENSEE”).
 
-WHEREAS, Licensee recognizes that the valuable reputation and goodwill attaching to the Voit Intellectual Property is dependent for its preservation on the high quality standards set forth in this Agreement, and, accordingly, Licensee is willing to comply with Licensor's standards, as required by the terms set forth herein, in order to obtain such quality and to cooperate with Licensor, as required by the terms contained herein, in preserving the reputation and goodwill attaching to the Voit Intellectual Property.
+\centered II **EXPRESS TERMINATION AND ABANDONMENT**
 
-NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and agreements contained herein, the parties hereto, intending to be legally bound, hereby agree as follows:
+^^This agreement shall supercede all previous agreements between **WATERPURE INTERNATIONAL, INC.**, and **EVEREST WATER LTD**. All previous agreements will be null and void.
 
-**Definitions**: As used herein, the following terms shall be defined as set forth below:
+\centered III **BACKGROUND**
 
-^^“**Contract Quarter**” means each successive three month period during the Term, commencing with the Effective Date.
+^^LICENSOR has developed a new concept for a water making machine. LICENSOR has filed for a United States Patent No. Serial Number 11/221,075 filed [[Date 1: Date]], claiming priority over US Provisional application 60/607,369 filed [[Date 2: Date]] now issued patent US 7,272,947. LICENSOR has entered into discussions with LICENSEE to determine whether the parties wish to enter into a business relationship that would allow LICENSEE to commercialize LICENSOR’s concept for a water making machine; and
 
-^^“**Contract Year**” means each successive twelve month period during the Term, commencing with the Effective Date.
+^^LICENSEE and LICENSOR have agreed to LICENSEE’S commercialization of such concept on the terms and conditions of this AGREEMENT;
 
-^^“**Customers**” means the Exclusive Customers and the Non-Exclusive Customers.
+^^Where LICENSEE and LICENSOR have executed previous agreements, this AGREEMENT supercedes all previous agreements and all previous agreements are null and void.
 
-^^“**Exclusive** **Customers**” shall be specifically:
+**NOW, THEREFORE, IN MUTUAL CONSIDERATION** of rights to intellectual property and royalties paid exchanged between LICENSEE and LICENSOR, the receipt and sufficiency of which is hereby acknowledged by the both parties, and other good and valuable consideration, the parties hereto agree as follows.
 
-^Institutional sporting goods customers, including but not limited to recreational departments, educational institutions, youth sports leagues, community service groups, PTA’s, athletic teams, and other team sports associations;
+\centered IV **DEFINITIONS**
 
-^Any reseller of sporting goods which realizes more than [[Percentage 1: Number]]% of its total sporting goods revenues from customers of the type listed in **Section****1(d)(A)** above; and
+^^The term "INVENTION" shall mean the water making machine as described in the a United States Patent Number US 7,272,947 issued filed [[Date 1]] and isued on [[Date 3: Date]], claiming priority over US Provisional application 60/607,369 filed [[Date 2]], foreign patents claiming priority thereon and any IMPROVEMENTS thereon or modifications thereto developed by LICENSOR as a sole or co-inventor or invented pursuant to Section IX during the term of this AGREEMENT, including, without limitation, any replacement products that are staple items or proprietary in nature for the operation and maintenance or expanding the functionality of the water-making device. Irrespective of the scope of the patent, the term “INVENTION” is limited to devices for potable water for human consumption.
 
-^Persons or entities receiving Licensee’s various catalogs, or purchasing by or through Licensee’s various catalogs and/or websites.
+^^The term “LICENSED PATENT” shall mean US patent 7,272,947 and any U.S. or foreign patent held by the LICENSOR that covers the INVENTION.
 
-^^“**Licensee** **Products**” shall mean the Licensee products of the type listed in **Schedule B** attached hereto.
+^^The term “LICENSED PATENT RIGHTS” shall include the rights granted pursuant to the LICENSED PATENT(s). d)   The term “LICENSED KNOW HOW” shall include any intellectual property owned by LICENSOR, including trade secrets, copyrights, methods of manufacture, and methods of use, related to the making, using, and/or selling of the INVENTION and which is not claimed in a LICENSED PATENT and includes, for greater certainty, LICENSOR’S CONFIDENTIAL INFORMATION.
 
-^^“**Losses**” shall mean all settlements, judgments, awards, fines, penalties, interest, liabilities, losses, costs, damages and expenses (including reasonable attorneys’ fees and disbursements and court costs).
+^^The term “LICENSED PRODUCT” shall mean any water producing device that extracts water from the air and that is within the scope of any claim in any of the LICENSED PATENT(s) or made pursuant to the LICENSED KNOW HOW or otherwise derived from the INVENTION.
 
-^^“**Marks**” shall mean trademarks listed in **Schedule A** attached hereto.
+^^The term "IMPROVEMENT" or “IMPROVEMENTS” shall mean technology created during the term of this AGREEMENT that, when made, used, or sold, would necessarily infringe the LICENSED PATENT RIGHTS granted by the LICENSED PATENT(s) issued or applied for on the EFFECTIVE DATE of this AGREEMENT but for the LICENSE granted under this AGREEMENT, and TECHNOLOGY derived form the LICENSED PRODUCT that may not directly infringe such rights but which enhances the functionality of the LICENSED PRODUCT.
 
-^^“**Minimum Royalty**” shall mean, for each Contract Year during the Initial Term, an amount equal to $[[USD Value 1: Number]] Thereafter, the Minimum Royalty may be increased pursuant to the terms of this Agreement.
+^^The term "PARTS" shall mean components used to create the LICENCED PRODUCT.
 
-^^“**Net Sales**” shall mean the total dollar amount of gross sales by Licensee of all Licensee Products at the invoiced selling price less customary discounts, returns actually made or allowed. No deductions shall be made for costs incurred in manufacturing, selling, distributing, or advertising the Licensee Products, or for the uncollectible accounts, taxes, cash discounts, or similar allowances. In the case of sales to or use of the Licensee Products by a company associated with Licensee or any other sales to related companies, the sales price shall be the price regularly charged to the Licensee's independent bona fide customers.
+^^The term “GROSS SALES” shall mean the total of the actual payments hereof from the LICENSEE to the LICENSEE’s manufacturer for purchase of the the LICENSED PRODUCT and PARTS to be sold by LICENSEE or any of LICENSEE’s affiliates, related companies, joint ventures or other individuals or entities related to LICENSEE selling the LICENSED PRODUCT. If LICENSEE manufactures LICENSED PRODUCT and PARTS themselves, “GROSS SALES” shall mean the total of the actual payments hereof received by LICENSEE for LICENSED PRODUCT and PARTS. Any product that is directly retailed at retail price, royalties will be paid on the standard wholesale price of such sold product.
 
-^^“**Non-Exclusive Customers**” shall mean:
+^^The term "CONFIDENTIAL INFORMATION" shall mean any and all information proprietary to one of the parties hereto, whether or not reduced to writing or other tangible medium of expression, and whether or not patented, patentable, capable of trade secret protection or protected as an unpublished or published work under the United States Copyright Act of 1976, as amended. CONFIDENTIAL INFORMATION includes, but is not limited to, information relating to research and development, inventions, discoveries, IMPROVEMENTS, methods and processes, know-how, algorithms, compositions, works, concepts, designs, ideas, prototypes, writings, notes and patent applications, and to business plans, financial matters, products, services, manufacturing processes and methods, costs, sources of supply, strategic marketing plans, customer lists, sales, profits, pricing methods, personnel and business relationships. CONFIDENTIAL INFORMATION shall not include any information that (i) was already known to the receiving party prior to its relationship with the disclosing party, as established by written records; (ii) becomes generally available to the public other than as a result of the receiving party’s breach of this AGREEMENT; (iii) is furnished to the receiving party by a third party who is lawfully in possession of such information and who may lawfully convey such information; or (iv) subsequently developed by the receiving party independently of the information received from the disclosing party, as established by the receiving party’s written records. For purposes of this definition, the phrase "receiving party" shall be deemed to include any affiliates of LICENSEE and LICENSOR.
 
-^Samsclub.com, walmart.com, and target.com;
+^^"TECHNOLOGY"shall mean that part of LICENSOR’s CONFIDENTIAL INFORMATION that consists of know-how, technical information and inventions (whether or not patentable) which are necessary and useful for making and designing the LICENSED PRODUCT which may utilize the LICENSED PATENT and includes design specifications, drawings, operating procedures, utilities requirements, and information and technical data on mechanical testing and performance testing. LICENSOR’s CONFIDENTIAL INFORMATION constituting TECHNOLOGY shall be so marked if communicated in writing or if communicated orally or by non-written means (e.g. product samples) so stated at the time of communication and confirmed in writing within 30 days.
 
-^Amazon.com pursuant to the terms and provisions of that certain **[[Email 1]]** Participation Agreement by and between Amazon.com Payments Inc. and Licensee, a copy of which has been provided to Licensor or pursuant to Amazon’s Prime program whereby Amazon purchases and inventories Licensee’s products;
+^^The terms "NOTICE" and "NOTIFY" require that the party giving notice or any other communication required under this Agreement deposit a copy of such notice or communication in the U.S. mails via registered or certified mail, or email return receipt requested, properly addressed to the other party at its address of record set forth in Section I of this Agreement. Either party may change to a new address of record by NOTIFYING the other party in writing pursuant to this provision on notice. If such notice is given by the U.S. mails as indicated above, the date of giving notice shall be the date on which the mail is received, or five (5) days after the communication is deposited in the U.S. mail, whichever occurs earlier. The Post Office return receipt showing the date of such delivery shall give prima facie evidence of delivery. If notice is given in any manner other than specified above, then the date of giving of such notice shall be the date upon which such notice is actually received by the other party.
 
-^Premium and incentive wholesale accounts; and
+^^All dollar payments expressed herein are US dollars.
 
-^Consumers within the Territory (including without limitation, individual consumers purchasing for their own account) and On-Line Sellers (as defined below) located through E-Commerce (as defined below). “**On-line Sellers**” shall mean any and all entities that sell, offer to sell, resell or offer to resell a Licensee Product through E-Commerce. “**E-Commerce**” shall mean conducting business (including the advertisement, offer for sale, sale and distribution of products) through a global, international, national, local or other electronic network (such as the Internet, private network or corporate intranet), or any subpart thereof, which may be accessed or created now, or in the future, and any other current or future means or method of advertisement, sale, order taking or distribution via an electronic means.
+\centered V **LICENSE GRANTS**
 
-^^“**Territory**” shall mean the United States.
+^^LICENSOR hereby grants LICENSEE a nonexclusive license (the “LICENSE”) under the LICENSED PATENT RIGHTS and the LICENSED KNOW HOW to allow LICENSEE to make, manufacture, have made or manufactured by others, assemble, commercialize, use, distribute and sell the LICENSED PRODUCT.
 
-^^“**Voit Intellectual Property** shall mean the intellectual property listed in **Schedule A** attached hereto, including the Marks.
+^^The license is granted for worldwide use in any jurisdiction where there is patent protection. The Licensee also agrees to pay the same royalties in countries where there is no patent protection based on the Know How of the Licensor.
 
-**Scope of License**:  
-^^Licensor hereby grants to Licensee, and Licensee hereby accepts, (i) an exclusive right to use the Voit Intellectual Property in the Territory in connection with the sourcing, importing, marketing, manufacturing, sale, distribution, display, promotion, and advertising of the Licensee Products to the Exclusive Customers only, upon the terms and conditions hereinafter set forth and (ii) the non-exclusive right to use the Voit Intellectual Property in the Territory in connection with the sourcing, importing, marketing, manufacturing, sale, distribution, display, promotion, and advertising of the Licensee Products to the Non-Exclusive Customers.
+\centered VI **PAYMENTS AND ROYALTIES**
 
-^^The rights and licenses described in **Section 2(a)** above shall extend to any independent contractors, agents, permitted assignees or sublicensees, or service providers providing services to or on behalf of Licensee (“**Permitted Third Parties**”) but shall not include the right to pledge or otherwise encumber the Marks or Licensee's right and license to use the Marks. Notwithstanding the foregoing, Licensor consents to Licensee’s limited assignment of Licensee’s rights under this Agreement to Licensee’s lender(s) so long as such limited assignment is substantially in the form of the Limited Assignment attached hereto as **Schedule C**.
+^^LICENSEE shall pay to LICENSOR a licensing fee of Five Hundred Thousand Dollars US ($[[USD Value 1: Number]] US) pursuant to Schedule C attached herewith which is a part of this AGREEMENT. LICENSOR has the option of purchasing PARTS from LICENSEE at the lowest wholesale rate that LICENSEE sells to any of its own manufacturing facilities, distributors, subsiduarys or JV partners.
 
-^^Licensor acknowledges that the rights and licenses set forth in this Agreement include, but are not limited to, the non-exclusive right for On-Line Sellers who have purchased or agreed to purchase Voit branded Licensee Products from Licensee, to resell and distribute Voit branded Licensee Products to any person or entity through E-Commerce.
+^^LICENSEE shall pay to LICENSOR a royalty of **five percent ([[Percentage 1: Number]]%)** of the GROSS SALES (manufactor’s selling price) for each year of the term of this AGREEMENT. The royalties payable by LICENSEE commencing on the Effective Date of this AGREEMENT until the expiry or earlier termination of this AGREEMENT shall be a minimum royalty of:
 
-^^Since the right to sell through E-Commerce (whether on Licensee’s websites or through On-Line Sellers) contemplates marketing and advertising Voit branded products throughout the entire world, Licensor hereby grants to Licensee the non-exclusive right and license for (1) Licensee, (2) customers of Licensee who have or may purchase Voit branded Licensee Products from Licensee, and (3) others authorized by Licensee, to display and otherwise promote advertise, merchandise, and offer for sale all Voit branded Licensee Products throughout the world to any person or entity of any type, including but not limited to the general public.
+\centered 1. Year one   **minimum $[[USD Value 2: Number]]** 2. Year two   **minimum $[[USD Value 3: Number]]** 3. Year three   **minimum $[[USD Value 4: Number]]** 4. Year four   **minimum $[[USD Value 5: Number]]; and** 5. Each year after fouth year   **minimum $[[USD Value 6: Number]]**  
 
-^^It is expressly understood that Licensor and its designees, licensees, successors and assigns may sell any products of the type listed as Licensee Products to any customers other than Customers (as defined herein), and that Licensor or its designees, licensees, successors and assigns may sell to Customers any products other than products of the same type as any of the Licensee Products.
+For the purposes of this Section VI, each aforementioned year is calculated from the Effective Date of this AGREEMENT.
 
-**Term**:  
-^^This Agreement shall become effective as of the Effective Date.
+\centered VII **LICENSOR’S TECHNICAL SUPPORT OBLIGATIONS**
 
-^^The initial term (“**Initial Term**”) of this Agreement shall commence on the Effective Date and shall continue for five years unless earlier terminated as provided herein. This Agreement shall thereafter automatically renew for up to two subsequent five year periods (the Initial Term and each subsequent five year period may each hereinafter be referred to as a “**Five Year Period**” and collectively as the “**Term**”) unless either party notifies the other party of its intention not to renew at least 180 days before the end of the Initial Term or any such five-year extension, or the Agreement is otherwise terminated in accordance with the terms herein.
+^^LICENSOR shall notify LICENSEE sufficiently in advance of,
 
-**Royalties and Payments**:  
-^^As compensation for the rights and license granted hereunder, Licensee shall pay to Licensor (i) the Minimum Royalty to be paid in advance on or before [[Date 2: Date]] of each Contract Year and (ii) any additional Royalties owed to Licensor pursuant to **Section 4(b)** below. Licensor may increase the Minimum Royalty once per completion of each Five Year Period provided (A) Licensor provides Licensee written notice of such increase at least 180 days prior to the last day of the concluding Five Year Period and (B) the Minimum Royalty is not increased by more than (x) fifteen (15) percent or (y) the cumulative increase in the rate of inflation for such Five Year Period, whichever is less. In order to determine the increase in inflation during such Five Year Period, the parties agree to use the Bureau of Labor Statistics Consumer Price Index for all Urban Consumers (CPI-U), U.S. City Average, all items, base period (1982-1984), reference period-December. The reference period for the first Five Year Period will compare the [[Date 3: Date]] index to the [[Date 4: Date]] index.
+^^^The introduction of any new LICENSED PRODUCT;
 
-^^Within thirty (30) days after the end of each Contract Year, Licensee shall pay Licensor an amount equal to the difference, if positive, of subtracting (i) four percent ([[Percentage 2: Number]]%) of all Net Sales during that Contract Year (“**Royalty**”) minus (ii) the Minimum Royalty paid by Licensee pursuant to **Section 4(a)** above. Such payments shall be made in accordance with the Method of Payment specified in Section 14 hereto.
+^^^Each IMPROVEMENT or modification to be made to an existing LICENSED PRODUCT; and
 
-^^Within thirty (30) days following each Contract Quarter, Licensee shall submit a royalty report (“**Royalty Report**”), consistent in the format historically sent by Licensee to Licensor, or in another mutually agreeable format that may be reasonably established by Licensor from time to time, certified by an officer of Licensee as true and accurate, including but not limited to detailed information on Net Sales by Licensee during said Contract Quarter, the computation of Royalties hereunder, and a statement of Net Sales by the Licensee for each month of the Contract Quarter.
+^^^any new or modified tool, equipment or material requirement relating to or arising from the introductionof any new LICENSED PRODUCTS or the modification or IMPROVEMENT of existing LICENSED PRODUCTS, so as to enable LICENSEE to adjust its inventory holdings and schedule of production accordingly and otherwise prepare for the introduction of new and modified LICENSED PRODUCTS.
 
-^^Licensee agrees to pay interest at the lesser of (i) twelve ([[Percentage 3: Number]]%) percent per annum or (ii) the maximum rate permitted by law on Royalties or Minimum Royalties due and not paid by Licensee for more than 30 days following Licensee’s receipt of written notice of such nonpayment from Licensor.
+^^LICENSOR shall provide to LICENSEE all information and documents regarding the LICENSED PRODUCTS including, without limitation, information concerning any equipment or other apparatus, process, formula or technique in respect thereof that is required in order to enable LICENSEE to manufacture the LICENSED PRODUCTS properly and efficiently and otherwise exercise its rights and perform its obligations under this AGREEMENT.
 
-**Quality Standards**:  
-^^Licensor acknowledges that it has approved Licensee’s current use of the Marks on Licensee’s Products in existence on the Effective Date and in advertising and promotional materials, including but not limited to: (i) Licensee’s uses on binders, tradeshow booths, letterhead, and other marketing materials; and (ii) the uses in the Licensee’s catalogs, fliers, post cards, web pages and other marketing materials. Licensor further acknowledges and agrees that any use by Licensee or Permitted Third Parties of the Marks on Licensee’s Products or on Licensee’s advertising and marketing material that does not materially differ from the uses by Licensee prior to the Effective Date (including but not limited to replicating such uses on Internet web pages, fliers, mailers, catalogs and other advertising pieces) will not require any additional approvals. Licensee shall revise any photographs in its catalogs and on its websites that do not reflect the type style requested by Licensor as of the date of this Agreement and such revisions shall be reflected in Licensee’s Spring 2011 catalog.
+^^Without restricting subsection (b), during the term of this AGREEMENT, LICENSOR shall send to LICENSEE the services of a technician and/or another skilled person (“SKILLED INDIVIDUAL”) as may reasonably be required and requested by LICENSEE in order to instruct and supervise the workforce of LICENSEE in the assembly of the LICENSED PRODUCTS and the manufacture of their com­ponent parts, provided that while such SKILLED INDIVIDUAL is so engaged LICENSEE shall bear all costs, benefits, travel, living expenses and a prepaid $[[USD Value 7: Number]] per week cash allowance of such SKILLED PERSONS in the course of such engagement. At any time after the first anniversary of this AGREEMENT, any travel requests by LICENSEE in respect of SKILLED INDIVIDUAL for locations outside of North America shall be addressed at the discretion of the SKILLED INDIVIDUAL them selves for reasonable safety concerns.
 
-^^Subject to the foregoing, prior to any use of any of the Marks on any new products or new advertising/marketing, Licensee shall furnish to Licensor, for the approval of Licensor, samples and mock-ups of all Licensee Products and copies of all formats of all advertising and promotional material on which any such Marks appear (the “**Materials**”). All samples and mock-ups shall be sent in accordance with the Notice provisions set forth in Section 17 hereof. Licensor shall have the right to approve all Licensee Products or Materials or to require Licensee, as a condition to Licensor's approval, to make alterations or modifications to such Licensee Products or Materials and promptly resubmit the same to Licensor. Such approval shall not be unreasonably withheld. Any Licensee Products and/or Materials submitted to Licensor shall be deemed approved unless Licensor notifies Licensee to the contrary within fifteen (15) days after receipt of such Licensee Products and/or Materials. Licensee shall not distribute, sell, display or advertise any Licensee Products unless and until the sample for such Licensee Product has been approved or deemed approved by Licensor pursuant to this **Section 5(b)**. All Licensee Products manufactured, distributed, sold, displayed and/or advertised by Licensee shall conform to the sample approved or deemed approved by Licensor. Licensor shall not be obligated to return to Licensee any samples that it receives pursuant to this Section 5. Color changes, model changes, style and grade designations, cosmetic type changes, or changes that do not materially alter the specifications of a Licensee Product or Materials will not constitute a new product or advertising that requires Licensor’s approval under this agreement.
+^^LICENSOR shall advise and assist LICENSEE in the establishment and installation of its production facilities and plant, the design and selection of its equipment, and its sources of supply including, without limitation, its methods and sources of pro­curement of the parts and materials for the manufacture and assembly of the LICENSED PRODUCTS and the manufacture of their component parts.
 
-^^Upon request of Licensor but, in any event, not more than once per Contract Year, Licensee shall furnish, or cause to be furnished, to Licensor current production samples of the Licensee Products and the advertising, labeling, packaging and boxing thereof, to allow Licensor to verify that the Licensee Products being manufactured conform to the samples approved by Licensor pursuant to **Section 5(b)** above. Licensor shall have the same right of approval or disapproval with respect to each current production sample as it has with respect to samples pursuant to **Section 5(b)** above. In the event that Licensor gives Licensee notice of disapproval of any current production sample, Licensee shall promptly cure the non-conformity and resubmit a conforming current production sample to Licensor for approval. If a conforming current production sample is not submitted by Licensee and approved or deemed approved by Licensor within thirty (30) calendar days of Licensor's initial notice of disapproval, Licensee shall, on written notice from Licensor, cease manufacture, distribution, and sale of such Licensee Product until such approval is obtained. Licensor acknowledges that, due to the catalog nature of Licensee’s business, it is not feasible to remove such products from the catalog until Licensee’s existing catalog is replaced by a new catalog.
+\centered VIII **RECORDS AND PAYMENTS**
 
-^^Licensee shall manufacture, distribute, display, sell and advertise the Licensee Products in accordance with the standards of quality associated with the Marks as may be reasonably established by Licensor from time to time and, to insure compliance, Licensor or its designated representative shall be permitted, no more than once per Contract Year, upon at least 30 days prior written notice, to inspect any facility used to manufacture, distribute, display or sell the Licensee Products.
+^^LICENSEE shall keep accurate records and books of account showing the GROSS SALES of all LICENSED PRODUCTS including PARTS.
 
-^^Licensee shall comply at all times at its sole expense with all applicable laws and regulations pertaining to the sale, display, distribution, advertisement and performance of the Licensee Products.
+^^Within five (5) days after the last day of each quarter of each year of the term of this AGREEMENT, LICENSEE shall render written reports to LICENSOR stating in each report the GROSS SALES for the reporting period associated therewith. The LICENSED PRODUCT shall be considered sold when billed out or when paid for, whichever occurs last. Royalties that are paid on items that are subsequently returned shall either be refunded to LICENSEE or offset against LICENSEE’s royalty obligations under this AGREEMENT, whichever the parties shall agree. Within twenty (20) days after the first day of January, April, July, and October of each calendar year of the term of this AGREEMENT, LICENSEE shall pay the required royalties to LICENSOR for the immediately preceding period as determined in accordance with Section VI.
 
-^^Upon Licensor's request, Licensee shall provide Licensor with satisfactory evidence of the types and extent of its uses of the Marks.
+^^Any Certified Public Accountant or royalty audit professionals reasonably acceptable to LICENSEE shall be given access to such records and books at reasonable locations during normal business hours upon three (3) days notice by LICENSOR. d)   LICENSOR shall have the right to engage in a royalty audit at LICENSOR’s expense. Such royalty audit is to be administered pursuant to subsection (c) of this Section, or on such other terms as may be mutually agreed by LICENSEE and LICENSOR. If the results of the royalty audit are such that LICENSEE owes LICENSOR royalties greater than the amount of royalties paid by LICENSEE to date, LICENSEE shall make such additional payments within five (5) days after such determination. If the amount of such required payments is greater than five percent ([[Percentage 1]]%) of the total amount of royalties paid to such date by LICENSEE, the cost of the royalty audit shall be paid by LICENSEE.
 
-**Promotion of Licensee Products**:  
-Licensee shall use commercially reasonable efforts to promote the Licensee Products sold under the Marks and to coordinate the manufacture, distribution, sale, display, and advertising of the Licensee Products sold under the Marks so as to maintain and enhance the value of the goodwill residing in the Marks.
+^^LICENSEE shall provide to LICENSOR a complete list of part suppliers and costing per each individual part, including all discounts or benefits of any kind. Such list is to be updated quartly and delivered to LICENSOR pursuant to section XIX(f).
 
-**Licensee Representations and Warranties**: Licensee hereby represents and warrants that:
+\centered IX **ENHANCEMENTS AND MODIFICATIONS**
 
-^^It has full right, power, and authority to enter into this Agreement.
+^^During the term of this AGREEMENT, any and all IMPROVEMENTS relating to the LICENSED PRODUCTS that may be developed by LICENSOR (or by another, such as an employee, whose rights in the TECHNOLOGY with respect to the LICENSED PRODUCTS belong to LICENSOR) shall become part of the PATENT RIGHTS without any additional royalty or cost to LICENSEE and shall be subject to all the terms and conditions to this AGREEMENT.
 
-^^Its execution, delivery and performance of this Agreement do not and shall not contravene any contractual restriction binding on or affecting any of its properties, nor its certificate of incorporation, nor its by-laws.
+^^Any and all IMPROVEMENTS which are made by LICENSEE (or by another, such as an employee, whose rights in the TECHNOLOGY relating to the LICENSED PRODUCTS and the manufacturing thereof shall belong to LICENSEE), shall be assigned to LICENSOR and shall also become part of the PATENT RIGHTS and be subject to all the terms and conditions to this AGREEMENT. Upon termination of this AGREEMENT, the rights and all such IMPROVEMENTS shall (as part of the PATENT RIGHTS) revert to LICENSOR, and LICENSEE shall transfer all of LICENSEE’s information and knowledge with respect to such improvements to LICENSOR.
 
-^^This Agreement has been duly executed and delivered by Licensee and is a legal, valid and binding obligation of Licensee enforceable against Licensee in accordance with its terms.
+\centered X **TERM AND TERMINATION**
 
-**Licensor Representations**,** **Warranties** and Covenants**: Licensor hereby represents and warrants that:
+^^The EFFECTIVE DATE of this AGREEMENT is the date on which this AGREEMENT has been signed by both parties and all payments due as per Schedule C section 1(a) have been paid.
 
-^^It has full right, power, and authority to enter into this Agreement.
+^^This AGREEMENT shall remain in full force and effect until the expiration of the last surviving LICENSED PATENT, the cessation of prosecution of the last U.S. or foreign patent application, or the last incurrence of litigation-related expenses pertaining to or derived from the INVENTION, whichever shall occur last, unless the AGREEMENT is sooner terminated by the parties.
 
-^^It shall use its best efforts to secure and maintain all necessary rights to effectuate the terms of this License Agreement.
+^^In addition, either party shall have the right to terminate this AGREEMENT in the event that there is a material breach by the other party, this termination being accomplished as follows. In the event that one party breaches this AGREEMENT, the aggrieved party must notify the breaching party of the aggrieved party's intent to terminate this AGREEMENT, specifying the alleged breach. If the breaching party does not remedy the breach within fifteen (15) days of such notice of intent to terminate, the aggrieved party can then terminate this AGREEMENT by giving notice of termination. However, if the breaching party remedies the breach within the fifteen (15) day period after notice of intent to terminate, then the AGREEMENT shall remain in full force and effect.
 
-^^Its execution, delivery, and performance of this Agreement do not and shall not contravene any contractual restriction binding on or affecting any of its properties, nor its certificate or articles of incorporation, nor its by-laws.
+^^Either party shall have the right to immediately terminate this AGREEMENT by giving written notice to the other party in the event that the other party files a petition in bankruptcy or is adjudicated a bankrupt or insolvent, or makes an assignment for the benefit of creditors or an arrangement pursuant to any bankruptcy law, or if the other party discontinues or dissolves its business or if a receiver is appointed for the other party or for the other party's business and such receiver is not discharged within sixty (60) days.
 
-^^This Agreement has been duly executed and delivered by Licensor and is a legal, valid, and binding obligation of Licensor enforceable against Licensor in accordance with its terms.
+In the event that this AGREEMENT is terminated for any reason, LICENSEE shall have six (6) months to wind up operations under the terms of this AGREEMENT, after which LICENSEE agrees to make no further use of the LICENSED PATENT(s) and shall no longer directly or indirectly make, use, or sell any LICENSED PRODUCT that infringes the LICENSED PATENT RIGHTS or misappropriates the LICENSED KNOW HOW.
 
-^^No other person or entity has been granted a right which would conflict with Licensee’s rights hereunder.
+\centered XI **WARRANTY AND DISCLAIMER**
 
-^^Licensor is not insolvent and this Agreement is not being entered into in contemplation of Licensor’s insolvency nor are such transactions being consummated with any intent to hinder, delay or defraud any of Licensee’s creditors.
+^^**LICENSOR’s Warranty**. LICENSOR represents and warrants to, and covenants with, as the case may be, LICENSEE that:
 
-^^Licensor owns the entire right, title and interest in and to the Voit Intellectual Property, free and clear of all liens, claims and encumbrances of any kind, and Licensor has the exclusive rights to license the Voit Intellectual Property. Licensee’s use of the Voit Intellectual Property in accordance with and for the purposes set forth in this Agreement will not infringe the contractual or proprietary rights of any third party or conflict with any other agreement. To Licensor’s knowledge, there is no infringement of the Voit Intellectual Property by any third party. The Voit Intellectual Property includes all of the trademarks containing the “Voit” name or any derivation thereof that Licensor owns or has the right to use.
+^^^LICENSOR represents its belief that (i) it is the owner of the entire right, title, and interest in and to Licensed Subject Matter, (ii) it has the sole right to grant licenses thereunder, and (iii) it has not knowingly granted licenses thereunder to any other entity that would restrict rights granted to Licensee except as stated herein.;
 
-^^During the term of this Agreement, Licensor shall use its best efforts to obtain, maintain and renew the Voit Intellectual Property and the registrations thereof and shall not permit other persons to use the Voit Intellectual Property in any manner that would conflict with Licensee’s rights under this Agreement.
+^^^LICENSOR is able to license the LICENSED PATENT RIGHTS for purposes of this AGREEMENT;
 
-^^Licensor has not, and neither it nor any successor will, sell, assign, transfer or otherwise encumber any of its rights in the Voit Intellectual Property or create any lien, pledge or security interest in the Voit Intellectual Property, or any part thereof, or permit the Voit Intellectual Property or any part thereof to be or become subject to any lien, pledge or security interest, attachment or other encumbrance without first agreeing to give and giving Licensee, in a form and substance that is customary for license agreements or otherwise mutually agreeable to Licensor and Licensee, a first lien security interest in the Voit Intellectual Property to secure Licensor’s performance under this Agreement and to secure any damages that would accrue to Licensee in the event of a rejection of this Agreement in any bankruptcy proceeding. Licensor and Licensee agree that no security interest or other lien created by Licensor in the Voit Intellectual Property will be valid until the secured party has agreed in writing with Licensee that the secured party’s rights and interests in the Voit Intellectual Property will be subordinate to the rights of Licensee in the Voit Intellectual Property as provided in this Agreement and pursuant to any security interest to be granted to Licensee pursuant to the immediately preceding sentence.
+^^^The TECHNOLOGY to be furnished to LICENSEE under this AGREEMENT is current, accurate and sufficiently complete to enable LICENSEE to make proper use thereof for the purposes of this AGREEMENT; and
 
-**The Mark**s:  
-^^Licensee shall duly include the Marks on or with all Licensee Products sold under the Marks and shall include all notices and legends with respect to the Marks as are required by applicable federal, state, and local trademark laws or any other laws which may be reasonably requested by Licensor.
+^^^LICENSOR will not sell, assign, convey or transfer any of the LICENSED PATENTS to any third party without a concurrent assignment of this AGREEMENT to, and the assumption of LICENSOR’s obligations hereunder by, such third party.
 
-^^Except (i) as required by law, (ii) with respect to Licensee Products in existence on the Effective Date, or (iii) as specifically agreed by Licensor by prior writing, no other name, trademark, inscription or designation whatsoever shall be affixed to the Licensee Products or packaging for the Licensee Products. If Licensor does not object in writing to a proposed new use of another designation on any Voit branded product within fifteen (15) days after its receipt of notice from Licensee of the intended use, the proposed new use will be deemed approved. In connection with the execution of this Agreement, Licensor has approved Licensee’s use, in any combination with the Marks, of all designations of any type used in connection with a Voit branded product as shown in Licensee’s catalogs and websites. In the event that Licensee seeks to affix to a Licensee Product the name of an individual endorsing that Licensee Product, Licensee shall request written approval from the Licensor to do so, such approval not to be unreasonably withheld.
+^^**LICENSEE’S Warranty**. LICENSEE represents and warrants to LICENSOR that
 
-^^Licensee hereby acknowledges Licensor's right, title and interest in and to the Marks and Licensor's right to use and license the use of the Marks and agrees not to claim any title to the Marks or any right to use the Marks except as permitted by this Agreement. Licensee shall not directly or indirectly question, attack, contest, or in any other manner, impugn the validity of the Marks or Licensor rights in and to the Marks, or the license herein granted, including, without limitation thereto, in any action in which enforcement of the provisions of this Agreement is sought, nor shall Licensee willingly become a party adverse to Licensor in litigation in which a third party is contesting the validity of the Marks or Licensor's right in and to the Marks.
+^^^LICENSEE is a corporation duly incorporated and in good standing and validly existing under the laws of its jurisdiction of incorporation, and has full corporate power and authority to enter into and fulfill its obligations under this AGREEMENT;
 
-^^Licensee shall at no time adopt or use, without Licensor's prior written consent, any variation of the Marks or any work or mark likely to be similar to or confusing with the Marks.
+^^^It has not made, and will not make, any commitments to others inconsistent with, or in derogation of, any such rights it has under this AGREEMENT; and
 
-^^Licensee shall conduct the merchandising and sale of the Licensee Products in good faith and in a dignified manner, consistent with the general reputation of the Marks and Licensor, and in accordance with commercially reasonable trademark practice.
+^^^Any LICENSED PRODUCTS that are manufactured under this AGREEMENT by LICENSEE which are not free from defects in material and workmanship for a period of one year from the date of sale shall be replaced without charge to LICENSEE’s customers.
 
-^^Any and all goodwill arising from Licensee's use of the Marks shall inure solely to the benefit of Licensor, and neither during nor after the Term shall Licensee assert any claim to the Marks or such goodwill. Licensee shall not take any action that could be detrimental to the goodwill associated with the Marks or with Licensor.
+\centered XII **INDEMNITY**
 
-^^Licensee shall, during the Term of this Agreement and during the two (2) year period following termination hereof, execute such documents as Licensor may reasonably request from time to time to ensure that, as between the parties to this Agreement, all right, title and interest in and to the Voit Intellectual Property resides in Licensor.
+^^**Indemnification by LICENSOR**. LICENSOR shall indemnify and hold LICENSEE and each of LICENSEE’s directors, officers, employees, agents and affiliates harmless from and against any and all claims, actions, suits, proceedings, losses, damages and expenses (including, without limitation, reasonable attorneys, consultants and experts fees) (collectively, "Claims") arising out of or relating to:
 
-**Infringement**:  
-^^Each party shall notify the other promptly of any actual or threatened infringements, imitations, or unauthorized use of the Marks by others of which such party becomes aware. Subject to Licensee’s rights and Licensor’s obligations pursuant to this Section 10, Licensor shall have the sole right, and shall take all reasonable steps at its expense, to bring any action on account of any such infringements, limitations or unauthorized use, and Licensee shall, at Licensor’s expense, cooperate with Licensor, as Licensor may reasonably request, in connection with any such action brought by Licensor. Licensor shall retain any and all damages, settlement, and/or compensation paid in connection with any such action brought by Licensor. If Licensor does not undertake such action within thirty (30) calendar days after notice from Licensee of such alleged infringement, Licensee may prosecute the same, at its expense and with counsel of its own choosing, provided that no settlement shall be made without the prior written approval of Licensor (which approval shall not be unreasonably withheld) and Licensee shall advise Licensor periodically of the status of the action and promptly of any material developments. In the event that any damages, settlement, and/or compensation are paid in connection with any such action, Licensee shall first retain an amount in reimbursement of its expenses and any damages Licensee suffered as a result of such infringement; any remaining amount shall be divided equally between Licensee and Licensor.
+^^^Any inaccuracy or breach of LICENSOR’s warranties or representations, as set forth in section [XI](#_Ref151970476)I
 
-^^Licensor, at its expense, shall defend and indemnify and save and hold Licensee and its subsidiaries and affiliates and their respective directors, officers, stockholders, and employees and permitted assigns harmless from and against any and all liabilities, claims, causes of action, suits, damages, Losses and expenses, including reasonable attorney's fees and expenses, by reason of alleged or actual violation or infringement of any trademarks and/or service marks held by third parties, based on Licensee exercising its rights related to the Voit Intellectual Property granted pursuant to this Agreement. If Licensor does not give notice to Licensee of its intent to defend or settle such action within sixty (60) calendar days after notice from Licensee of such alleged infringement, Licensee may defend the same, at the sole cost and expense of Licensor, provided that no settlement shall be made without the prior written approval of Licensor (which approval shall not be unreasonably withheld) and Licensee shall advise Licensor periodically of the status of the action and promptly of any material developments. Licensor reserves the right to participate at any time in such proceedings.
+^^**Indemnification by LICENSEE**. LICENSEE shall indemnify and hold LICENSOR harmless from and against any and all Claims arising out of or relating to:
 
-^^Licensor shall have the right to compromise and settle any suit, claim or proceeding in the name of Licensee; **provided**, **however**, that Licensor shall not compromise or settle a suit, claim or proceeding (i) unless it indemnifies Licensee for all Losses arising out of or relating thereto and (ii) that includes an admission of liability of Licensee or seeks any material non-monetary relief, without the written consent of Licensee, which consent shall not be unreasonably withheld.
+^^^Any inaccuracy or breach of LICENSEE’s representations, warranties, covenants or other obligations hereunder; or
 
-^^The terms of this Section 10 shall survive the termination of this Agreement.
+^^^The design, manufacture, marketing, distribution, sale or use of any LICENSED PRODUCTS by LICENSEE or its agents or any (A) product liability claims, (B) claims of personal injury, death or property damage, (C) claims made under any guaranties made or warranties given (in either case, whether expressed or implied) with respect to such LICENSED PRODUCTS or (D) any similar or other claim based on strict liability, negligence or warranty (whether expressed or implied), to the extent that such claims are caused or contributed by the acts or omissions (including negligence) of LICENSEE;
 
-**Books, Records, and Statements**:  
-^^Licensee shall maintain during the Term of this Agreement and for at least two (2) years following the termination hereof true and accurate books and records in which there shall be reflected all sales of the Voit branded Licensee Products.
+^^^Any modifications to the LICENSED PRODUCTS made by the LICENSEE or its agents that result in any (A) product liability claims, (B) claims of personal injury, death or property damage, (C) claims made under any guaranties made or warranties given (in either case, whether expressed or implied) with respect to such LICENSED PRODUCTS or (D) any similar or other claim based on strict liability, negligence or warranty (whether expressed or implied).
 
-^^Licensee shall furnish to Licensor with each payment of Royalties as provided in Section 4 hereof, a Royalty Report as described in **Section 4(c)** hereof, or in another mutually agreeable format that may be reasonably established by Licensor from time to time. The information on this Royalty Report shall be held and treated by the Licensor and its representatives and affiliates in confidence and will not, without the prior written consent of Licensee, be disclosed or used by the Licensor or its representatives or affiliates other than in connection with this Agreement. Notwithstanding the foregoing, the information in the Royalty Report will not be deemed confidential if such information becomes generally available to the public other than as a result of a disclosure by the Licensor or any of its representatives or affiliates. Such Royalty Report shall be submitted whether or not they reflect any sales. Failure to submit timely reports and/or any payments will incur an additional charge of one ([[Percentage 4: Number]]%) per month on any balance unpaid as of the thirtieth day following Licensee’s receipt of written notice from Licensor of such failure to timely pay. The receipt or acceptance by Licensor of any Royalty Reports pursuant to this license or of any Royalties paid hereunder (or the cashing of any Royalty checks paid hereunder) shall not preclude Licensor or Licensee from questioning the correctness thereof at any time.
+^^**Indemnification Procedures**. In the event that any Claim is made as a result of which a party or any of its directors, officers, employees or agents (collectively, an "Indemnified Party") may become entitled to indemnification by the other party ("Indemnifying Party") the Indemnifying Party shall, at its expense, assume the defense of such Claim with counsel reasonably satisfactory to the Indemnified Party. Promptly upon becoming aware of such Claim, such party shall give the other party notice thereof; provided, however, that the omission so to notify the Indemnifying Party shall not relieve the Indemnifying Party from any liability which it may have to the Indemnified Party, except to the extent that the Indemnifying Party is actually prejudiced by such omission. Any settlement of any Claim shall require the mutual consent of the Indemnifying Party and the Indemnified Party and shall include as an unconditional term thereof the giving by the claimant or plaintiff to the Indemnified Party of a release from all liability with respect to such Claim. Notwithstanding the Indemnifying Party’s assumption of the defense of such Claim, the Indemnified Party shall, at its expense, have the right to employ separate counsel and to participate in the defense of such Claim.
 
-^^Licensor, at its expense, shall have the right, no more than once per Contract Year, during regular business hours, upon ten (10) business days' notice to Licensee, to examine or audit the books and accounts and records of Licensee which pertain to the manufacture, sale, display, advertising, and promotion of Licensee Products sold under the Mark and any other books and records that may be reasonably required by Licensor's accountants in order to verify the figures reported in any Royalty Report. Such books of accounts and records shall be made available to Licensor and its accountants at a location mutually agreed upon by the parties. Licensee shall render all commercially reasonable assistance to Licensor and its accountants for the purpose of facilitating the checking or auditing of sales and of the figures set forth in any of Licensee's Royalty Reports. If, as a result of such examination or audit, Licensor's accountants determine that the amount of royalties due to Licensor was greater than the amount of Royalties reported by Licensee in its quarterly Royalty Reports, Licensor shall promptly furnish to Licensee a copy of the report furnished of its accountants setting forth the amount of the deficiency in payment of Royalties (the “**Deficiency**”) and showing, in reasonable detail, the bases upon which the same was determined. Licensee shall remit to Licensor a sum equal to the amount of the Deficiency so claimed within thirty (30) days after notification of the Deficiency, plus accrued interest calculated at the rate of twelve percent ([[Percentage 3]]%) per annum. In addition, if the examination or audit reveals an underpayment of the Royalties in any six month period and Licensee does not dispute the amount of the alleged underpayment, Licensee shall promptly remit to Licensor the reasonable cost of such examination or audit.
+^^Each party is responsible for obtaining their own product liability insurance.
 
-^**Indemnification/Insurance:**  
+\centered XIII **CONFIDENTIAL INFORMATION**
 
-^^Licensee, at its expense, shall defend and indemnify and save and hold Licensor harmless from and against any and all liabilities, claims, causes of action, suits, damages and expenses, including reasonable attorney's fees and expenses, which Licensor becomes liable for, or may incur or be compelled to pay by reason of acts, whether of omission or commission, that may be committed or suffered by Licensee or any of its partners, servants, agents, contractors, consultants, advisors, employees or affiliates in connection with Licensee's performance of this Agreement or in connection with the Licensed Products (other than Licensed Products acquired from Licensor or its affiliates) manufactured, distributed, sold, displayed, advertised or promoted by Licensee, irrespective of whether any prior approvals shall have been given by Licensor with respect thereto. The indemnification shall not apply to any claims initiated because of an act or omission by Licensor or to any trademark infringement action brought by a third party against Licensee or Licensor, provided that Licensee has abided by the terms of this Agreement. The provisions of this Section 12 (a) shall survive the termination of this Agreement.
+The parties acknowledge that during the course of their performance under this AGREEMENT, each party may acquire CONFIDENTIAL INFORMATION of the other party. Each party agrees to take reasonable steps but in no event less stringent than the steps it uses to protect its own CONFIDENTIAL INFORMATION to protect such CONFIDENTIAL INFORMATION and further agrees that it shall not: (i) use such CONFIDENTIAL INFORMATION except as required in the normal and proper course of performing under this AGREEMENT; e.g. disclosing only to those employees having a need to know or (ii) disclose such CONFIDENTIAL INFORMATION to a third party except as may be required under applicable law without, in each case, obtaining the prior written approval of the other party. The foregoing restrictions shall continue to apply after the expira tion or termination of this AGREEMENT, regardless of the reason for such expiration or termination, and shall continue to apply for so long as the confidential nature of such information is maintained. All CONFIDENTIAL INFORMATION is, and shall remain, the property of the party which supplied it. Each party shall take reasonable steps to mark its CONFIDENTIAL INFORMATION with appropriate legends, provided however, that the failure to mark such CONFIDENTIAL INFORMATION shall not relieve the other party of its obligations hereunder.
 
-^^Licensee agrees to obtain and keep in full force and effect, during the term of this Agreement at its sole cost and expense, policies of insurance insuring against those risks customarily insured under general liability policies, including, but not limited to, "product liability" and "completed operations". Such policies of insurance shall have endorsements or coverage with combined single limits of not less than one million dollars ($[[USD Value 2: Number]]) and shall name the Licensor as an additional insured thereunder. Licensee shall notify Licensor within thirty (30) days of Licensee’s receipt of any notice of cancellation. It is also agreed that the "other insurance" clause, if any, will be deleted from such policy, that the insurance under such policy shall be primary, and that other insurance in force is neither primary nor contributing.
+\centered XIV **PATENT MARKING**
 
-^^Licensee shall provide to Licensor, within thirty (30) days of the effective date of this Agreement, a certificate showing proof that such policies of insurance are in effect.
+LICENSEE shall affix the appropriate patent notices to the LICENSED PRODUCTS or in connection with the product in accordance with the applicable laws of the United States and/or any foreign countries in which patent coverage is sought and/or obtained.
 
-^^Licensee shall give Licensor thirty (30) days' prior written notice of any reduction in limits or termination of such policies of insurance, or of any intention on the part of Licensee not to pay the premiums thereof.
+LICENSEE must prominently display upon the LICENSED PRODUCT “Manufactured under license from Everest Water US Patent 7,272,947 and other patents pending.”
 
-^**Termination**:  
-^^This Agreement shall be terminable only in accordance with the provisions of this section. In the event of any material breach of this Agreement, the aggrieved party shall promptly provide written notice of the specific material breach, and, except as set forth in **Section 13(b)**, the party committing such breach shall have sixty (60) days after its receipt of the written notice of the specific material breach to effect a cure thereof. If such a material breach is not cured within such sixty (60) day period, the aggrieved party shall have the right to terminate this Agreement by written notice of termination, provided, however, if such material breach is of a nature that it is unable to be cured within such sixty (60) day period despite the good faith efforts of the party receiving the notice, then the aggrieved party may not terminate this Agreement so long as the other party is diligently procuring such cure and, in fact, subsequently effects such cure within a reasonable period of time.
+\centered XV **ASSOCIATED TRADEMARK RIGHTS**
 
-^^Without prejudice to any other rights hereunder, each party (the “**Terminating Party**”) shall have the right to terminate this Agreement on notice to the other party (the “**Non-Terminating Party**”), effective immediately upon the Non-Terminating Party’s receipt of said notice, in the event of the occurrence of any of the following events:
+Any trademark rights developed by LICENSEE while commercializing the invention are solely the property of LICENSEE and shall remain the sole property of LICENSEE during and after the term of this AGREEMENT. LICENSEE must brand the LICENSED PRODUCTS with their own trademark brand that is not confusingly similar with any of the brands as listed in Schedule A.
 
-^^^the adjudication of insolvency or the making by the Non-Terminating Party of an assignment for the benefit of creditors;
+\centered XVI **PATENT ENFORCEMENT**
 
-^^^the filing by or against the Non-Terminating Party of, or the entry of an order for relief against the Non-Terminating Party in any voluntary or good faith involuntary proceeding under any bankruptcy, insolvency, reorganization or receivership law, including without limitation the U.S. Bankruptcy code, or an admission seeking relief as herein allowed, which filing or order shall not have been vacated within sixty (60) calendar days from the entry thereof;
+^^LICENSOR prohibits LICENSEE the right to enforce the LICENSED PATENT RIGHTS against third parties which make, use, or sell PRODUCT that is not LICENSED PRODUCT. The decision whether to enforce the LICENSED PATENT RIGHTS against such third parties is within the sole discretion of LICENSOR. If the LICENSOR does not defend the LICENSED PATENT RIGHTS the LICENSEE has the rights to defend against such actions with all costs, fees and losses associated with this action, along with all legal fees to be deducted from the payments remaining. If LICENSOR attempts to enforce the patent rights against a third party, both parties agree to cooperate fully in such enforcement efforts as long as this AGREEMENT is in effect.
 
-^^^the appointment of a receiver for all or a substantial portion of the Non-Terminating Party’s property and such appointment shall not be discharged or vacated within sixty (60) calendar days of the date thereof; or
+^^If, during the term of this AGREEMENT, either party becomes aware of PRODUCT being sold that is not LICENSED PRODUCT, that party must notify the other party of the existence and, if known, the manufacturer of such PRODUCT. LICENSOR will aggressivley enforce the patent rights where if it is determined by a qualified patent attorney that a product made used or sold in the territory of any of the LICENSED PATENTS literall infringe then LICENSOR will take steps to notify the infringing party and take appropriate measures to cease the infringement. If LICENSOR can not afford to pursue litigation, then LICENSEE may assist LICENSOR with funding of litigation.
 
-^^^the assumption of custody, attachment or sequestration by a court of competent jurisdiction of all or a significant portion of the Non-Terminating Party’s property.
+^^Any financial benefits obtained through actions to enforce the LICENSED PATENT RIGHTS shall be the property of the parties in proportion to the amount spent enforcing the LICENSED PATENT RIGHTS.
 
-^^Licensee’s failure to pay the Minimum Royalty (or any portion thereof) in accordance with the provisions of Section 4 shall be considered a material breach of this Agreement that is subject to cure within ten (10) business days after Licensee’s receipt of a written notice of such breach. Licensee’s failure to pay any material amount due under Section 4 of this Agreement other than the Minimum Royalty shall be considered a material breach of this Agreement that is subject to cure within thirty (30) days after Licensee’s receipt of a written notice of the specific amount due to Licensor, provided, however, if: i) there is a good faith dispute about the amount that is due to Licensor under Section 4, then Licensee’s failure to pay the disputed amount will not be a material breach of this Agreement unless Licensee fails to pay to Licensor any amount ultimately deemed due within thirty (30) days of the final resolution of the good faith dispute; or ii) as a result of an audit conducted in accordance with **Section 11(c)** of this Agreement, it is determined that Licensee owes Licensor an additional amount under Section 4, then Licensee’s failure to pay that amount will not be a material default of this Agreement unless Licensee fails to pay to Licensor any amount ultimately deemed due within thirty (30) days of the final resolution of the audit.
+\centered XVII **PRODUCT DEVELOPMENT AND MARKETING**
 
-^^In the event of any non-material breach under this Agreement, the aggrieved party shall promptly provide written notice of the non-material breach. The parties agree that non-material breaches cannot be a basis for terminating this Agreement. The parties further agree that the matters that may result in non-material breaches include, but are not limited to, the following:
+LICENSOR agrees to cooperate with LICENSEE’s efforts to develop and market LICENSED PRODUCT, including cooperating with the development of methods of manufacture and use of the LICENSED PRODUCT and transmitting to LICENSEE any LICENSED KNOW HOW relating to the manufacture and use of the LICENSED PRODUCT.
 
-^^^Whether Licensee has sold a Voit-branded product to a customer that is not covered by Licensee’s license under this Agreement;
+\centered XVIII **QUALITY ASSURANCES**
 
-^^^Whether Licensee has sold a Voit-branded product that is not covered by Licensee’s license under this Agreement;
+^^**Samples**. LICENSEE shall, prior to LICENSEE’s manufacture, distribution, or sale of the LICENSED PRODUCTS, submit to LICENSOR at LICENSEE’s expense, the design and manufacturing processes it intends to use in the manufacture of the LICENSED PRODUCTS. LICENSEE shall not commence the manufacture of the LICENSED PRODUCTS unless and until LICENSOR shall have reviewed and approved such design and manufacturing processes. LICENSOR shall indicate his approval or disapproval within 14 days of receipt and any rejection of approval shall be accompanied with a specific identification of all items found to be unsatisfactory and a clear explanation of the steps or changes that LICENSEE must take in order to obtain approval. If LICENSOR does not indicate his approval or disappr oval within 14 days of receipt, his approval shall be deemed granted. The licensee shall sumbmit the first unit built to the Lisensor for inspection and approval. From time to time LICENSOR may request and LICENSEE agrees to furnish LICENSOR a sample of the LICENSED PRODUCTS for inspection.
 
-^^^Whether a product advertised, offered or sold by Licensee is a new product that requires approval under **Section 5(b)** or is already a Licensee Product as defined in this Agreement;
+\centered XIX **GENERAL PROVISIONS**
 
-^^^Whether Licensee or Licensor has complied with the approval provisions of Section 5; and
+^^**Jurisdiction.** This AGREEMENT shall be construed and performance governed by the laws of the Bahamas, and the parties agree that jurisdiction and venue shall lie in the courts of the Bahamas.
 
-^^Whether Licensee has complied with the requirements of **Section 9(b).**
+^^**Severance.** In the event that any of the terms of this AGREEMENT shall be construed to be void and unenforceable, such terms and conditions shall be considered as severable from this AGREEMENT, and the remaining terms and conditions shall remain in effect.
 
-**Licensee agrees to refrain from intentionally or willfully taking any actions that would violate the spirit of this Agreement.**
+^^**No Partnership.** Nothing contained in this AGREEMENT shall be deemed or construed by the parties hereto or by any third person to create the relationship of principal and agent or of partnership or of joint venture. However, for purposes of patent protection any co-inventorship between the parties shall be commonly assigned to LICENSOR in accordance with this Agremeent.
 
-^^If Licensee has intentionally and willfully failed to obtain the approval required under **Section 5(b)** for more than five (5) products in any single Contract Year, then such intentional and willful failure shall constitute a material breach of the Agreement that is subject to the provisions of **Section 13(a)**. In that case, Licensee will be deemed to have cured the breach by either obtaining Licensor’s approval for the products in accordance with the provisions of **Section 5(b)** or by stopping future sales of the products within sixty (60) days of Licensee’s receipt of the notice required by **Section** **13(a).**
+^^**Successors.** Each and all of the provisions of this AGREEMENT shall be binding upon and inure to the benefit of the parties hereto and, except as otherwise specifically provided in this AGREEMENT, their respective successors and permitted assigns.
 
-^^Upon termination of this Agreement, unless otherwise permitted by Licensor, Licensee shall discontinue using the Voit Intellectual Property in connection with the manufacture, advertisement, sale, distribution and promotion of the Voit-branded Products, with the following exceptions:
+^^**Parole Evidence.** This AGREEMENT contains the entire AGREEMENT between the parties and supersedes any prior and/or contemporaneous agreements, arrangements, negotiations, and understandings between the parties relating to the subject matter of the present AGREEMENT. Further, the parties agree that there are no understandings, statements, promises, or inducements, oral or otherwise, contrary to the terms of this AGREEMENT.
 
-^^^Licensee and its Permitted Third Parties shall be permitted to use the Voit Intellectual Property in accordance with the provisions of this Agreement to fulfill any orders for Voit-branded Products received as a result of catalogs then in circulation, including catalogs published by or for customers of Licensee.
+^^**Delivery of Material; Notices.** Materials required to be delivered to any party hereunder shall be delivered to the address given below for such party. Any notice, accounting statement, consent, approval or other communication under this AGREEMENT shall be in writing and shall be considered given: (i) upon personal delivery or delivery by telecopier or email (with confirmation of receipt by receiver), (ii) 2 business days after being deposited with an "overnight" courier or "express mail" service, or (iii) seven business days after being mailed by registered or certified first class mail, return receipt requested, in each case addressed to the notified party at its address set forth below (or at such other address as such party may specify by notice to the other delivered in accordance with this section):
 
-^^^For twenty-four (24) months (the “**Sell-Off Period**”) following the termination of this Agreement in accordance with the provisions of Section 13, Licensee shall be permitted to advertise, sell or otherwise distribute (a) Licensee’s inventory of all Voit-branded products and unfinished Licensee Products meant to be Voit-branded products when finished, including the right to finish any work-in-process and use supplies of raw materials on hand or ordered, (b) all Voit-branded products ordered from a supplier prior to termination under purchase orders which cannot be cancelled without penalty to or a claim against Licensee and (c) all Voit-branded products ordered prior to termination under binding sales orders outstanding at the time of such termination which sales orders cannot be cancelled without penalty to or a claim against Licensee. Licensee will send to Licensor a summary of all of the inventory of Voit-branded products described in subsections (a), (b) and (c) of this paragraph.
+If to LICENSOR:   If to LICENSEE
+Everest Water Ltd P.O. Box N-9609 Maude Beatrice House 35 Village Road Nassau, Bahamas Email: [[Email 1]]   WaterPure International, Inc. [[Address 1: Address]] USA Email: [[Email 2]]
 
-^^^The parties agree that during the Sell-Off Period, they shall abide by and uphold their rights and obligations accrued or existing as of termination of the Agreement. The parties further agree that the representations, rights and obligations contained in **Sections 5, 7, 8, 10, 11, 12**(a)**, 13, 14, 17, 18, 19 and 20** will survive the termination of this Agreement.
+^^**Confidentiality of this AGREEMENT.** Except as required by order of a court or government agency of competent jurisdiction, this AGREEMENT and its provisions shall be considered CONFIDENTIAL INFORMATION. LICENSOR and LICENSEE shall jointly develop and agree upon any press releases or other public statements to the media to be released upon or after execution of this AGREEMENT.
 
-^^At the conclusion of the Sell-Off Period, Licensee’s obligation to pay Licensor any future royalty, including the Minimum Royalty, shall terminate, provided, however, this provision will not affect Licensee’s obligation to pay Licensor any royalty due and owing as of the end of the Sell-Off Period. If the Sell-Off Period ends at any time other than the end of a Contract Year, the Minimum Royalty for that Contract Year will be pro-rated based on a fraction, the numerator of which is the number of months of the Contract Year that occurred prior to the end of the Sell-Off Period and the denominator of which will be 12.
+^^**Authorization and Ability to Execute.** Each signatory to this AGREEMENT represents and warrants that he possesses all necessary capacity and authority to act for, sign and bind the respective entity or person on whose behalf he is signing.
 
-^^Any termination under this Section 13 shall not affect any rights that have accrued prior to termination (including, without limitation, royalties due to Licensor) and shall be without prejudice to any other legal or equitable remedies to which the terminating party may be entitled by reason of such rights. Notwithstanding anything to the contrary contained herein, if this Agreement is terminated during a Contract Year in which Licensee has paid a Minimum Royalty (i.e., after [[Date 5: Date]]), then Licensee shall be subject to the terms of **Section 4(b)** for the remainder of such Contract Year and shall only be liable to pay royalties at a rate equal to four percent ([[Percentage 2]]%) of all Net Sales during the subsequent Contract Years in the Sell-Off Period with no obligation to pay a Minimum Royalty. Notwithstanding anything to the contrary contained herein, if this Agreement is terminated during a Contract Year in which Licensee has not paid a Minimum Royalty (i.e., before [[Date 5]]), then Licensee shall only be liable to pay royalties at a rate equal to four percent ([[Percentage 2]]%) of all Net Sales during the entire Sell-Off Period with no obligation to pay a Minimum Royalty.
+^^^**Force Majeure.** No party hereto shall be responsible for failure to observe or perform its obligations under this AGREEMENT if such failure is due to act of God, war, warlike hostility, civil commotion, riot, strike, governmental orders or restriction, failure of governmental license to issue, sabotage, labor trouble or any other causes which are beyond reasonable control of the party so affected. The party so affected shall promptly give the other party reasonably detailed notice of the cause of such failure and probable extent of continuance of such cause and use reasonable efforts to avoid or remove such cause. Whenever such cause is removed, such party shall resume and complete performance as soon as practicable.
 
-^**Method of Payment**: All payments due pursuant to this Agreement shall be made by check unless Licensor requests in writing that a specific payment be sent via electronic transfer and simultaneously provides the electronic transfer instructions in accordance with Section 17 hereof.
+**AS EVIDENCE OF THIS AGREEMENT THE PARTIES HAVE SIGNED THIS AGREEMENT:**
 
-^**Relationship of the Parties**: The relationship of Licensee to Licensor is that of an independent contractor and neither Licensee nor its agents or employees shall be considered employees of the Licensor. Licensor shall pay its costs and expenses incurred in connection with the preparation of this Agreement and its representation hereunder. This Agreement does not constitute and should not be construed as constituting a partnership or joint venture or grant of a franchise between Licensor and Licensee.
+**EVEREST WATER LTD**  
+Per:  
+____________________ ______________________
 
-^**Assignment**: This Agreement may be assigned by Licensor provided assignee agrees to be bound by the terms and conditions of this Agreement. In the event of a sale, transfer, assignment, pledge, lien, merger or change of control of either party, this Agreement will remain binding on the parties and their successors. It is the intention of the parties that Licensee or a Permitted Third Party shall sell and distribute the Licensee Products. Licensee may assign, sublicense and/or subcontract its right under this Agreement to any direct or indirect, wholly-owned subsidiary of Licensee by providing Licensor with written notice thereof. Notwithstanding anything to the contrary in this Agreement, Licensee may assign, sublicense and/or subcontract its rights or any part of its rights under this Agreement to any other entity provided that it obtains prior written consent from Licensor, which consent a) will not be unreasonably withheld; and b) will be provided within ten (10) days of Licensor’s receipt of written notice from Licensee. For purposes of this Agreement, neither a merger nor a change of control of Licensee (including, without limitation, a sale of all or substantially all assets or a majority of the voting stock of Licensee, or of any permitted assignee, sublicensee or subcontractor) shall be deemed a transaction requiring Licensor’s consent or that affects the validity or effectiveness of this Agreement. In the event of an assignment, sublicense, subcontract, merger or change of control of Licensee in accordance with the provision of this paragraph, the Agreement will remain binding on Licensor’s and Licensee’s successors. Any consent by Licensor to the assignment of this Agreement shall not relieve Licensee from its obligations and liabilities hereunder, unless Licensor shall also expressly in writing agree to such relief. In the event of any assignment, all reference herein to Licensee shall mean both Licensee and its assignees, and the assignees shall not be entitled to make any further assignment of this Agreement without the prior written consent of Licensor, which consent will not be unreasonably withheld.
+(Authorized Signatory) Date  
+____________________ 
+PRINT NAME    
+**WATERPURE INTERNATIONAL, INC.**  
+Per:  
+____________________ ______________________
 
-^**Notices**;** Submissions by Licensee for Approval**:
+(Authorized Signatory) Date  
+____________________ 
+PRINT NAME    
 
-^^Any notice, demand, waiver, consent, approval or disapproval (collectively referred to as “**notice**”) required or permitted herein shall be in writing, and shall be given either personally and receipted, by messenger, by air courier, or by prepaid registered or certified mail, with return receipt requested, addressed to the parties at the following addresses or at such other address as Licensor or Licensee may hereafter designate in writing:
+\centered **Schedule A**
 
-If to Licensor:   If to Licensee:
+\centered **List of Trademarks**
 
-[[Licensor]] 4414 Centerview Drive Suite 204 [[Address 2: Address]] Attn: Mr. Jose Ramon Elizondo   [[Licensee]] 1901 Diplomat Drive Farmers Branch, TX 75234 Attn: Mr. Terrence M. Babilla
+^Everest
 
-With a copy sent to: 
-Voit Mexico 
-Poniente 128 #579 
-Colonia Industrial Vallejo 
-Mexico City, C.P.02300 
-Attn: Mr. Manuel Morales  
-^^A notice shall be deemed received upon the date of deliver if given personally, by messenger, by air courier, or, if given by mail, on the date set forth on the registered or certified mail receipt. Any party may change its address for the purposes of notice by giving notice in accordance with the terms and conditions of this Section 17.
+^Everest Water
 
-^^Any materials submitted by Licensee to Licensor for approval pursuant to this Agreement shall be submitted personally and receipted, by messenger, by air courier, or by prepaid registered or certified mail, with return receipt requested.
+^Everest Springs
 
-A**PPLICABLE LAW**: THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS WITHOUT GIVING EFFECT TO THE PRINCIPLES OF CONFLICT OF LAWS. ANY CASE, CONTROVERSY, SUIT, ACTION OR PROCEEDING ARISING OUT OF, IN CONNECTION WITH, OR RELATED TO THIS AGREEMENT SHALL BE BROUGHT IN ANY FEDERAL OR STATE COURT LOCATED IN THE COUNTRY AND STATE OF TEXAS. LICENSOR AND LICENSEE HEREBY EXPRESSLY SUBMIT TO THE PERSONAL JURISDICTION AND VENUE OF ANY FEDERAL OR STATE COURT LOCATED IN THE COUNTRY AND STATE OF TEXAS.
+^Everest Mist
 
-**Cumulative Remedies**: All remedies, rights, undertakings, obligations and agreements contained herein shall be cumulative, and none of them shall be in limitation of any other remedy, right, undertaking, obligation or agreement of either party, including without limitation any rights or remedies accruing under the Uniform Commercial Code and any other applicable law.
+^Everest International
 
-**Modification, Amendment, Supplement or Waiver**: No modification, amendment, supplement to or waiver of this Agreement or any of its provisions shall be binding upon the parties hereto unless made in writing and duly signed by the parties to this Agreement. A failure or delay of any party to this Agreement to enforce at any time any of the provisions of this Agreement or to require at any time performance of any of the provisions hereof, shall in no way be construed to be a waiver of such provisions of this Agreement. A waiver by either party of any of the terms and conditions of this Agreement in any one instance shall not be deemed a waiver of such terms or conditions in the future, or of any subsequent breach thereof.
+^Water Maker
 
-**Entirety of Agreement**: This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements, promises, representations, understandings, and negotiations, whether written or oral, between the parties with respect to the subject matter hereof.
+^Yeti
 
-**Severability**: In the event any one or more of the provisions of this Agreement shall for any reason be held to be invalid, illegal, or unenforceable, the remaining provisions of this Agreement shall be unimpaired, and the invalid, illegal, or unenforceable provision(s) shall be replaced by a mutually acceptable provision(s), which, being valid, legal and enforceable comes closest to the intention of the parties underlying the invalid, illegal or unenforceable provision(s).
+^Yeti Water
 
-**Headings**: The headings in this Agreement are for the purposes of reference only and shall not in any way limit or otherwise affect the meaning or interpretation of any of the terms hereof.
+^Water Factory
 
-**Schedules**: The terms and provisions of the schedules attached to this Agreement are hereby incorporated herein as if fully set forth herein.
+\centered **Schedule B**
 
-\centered [Signature Page Follows]
+\centered **PCT Contracting States of which foreign patent applications have been applied for claiming priority upon the LICENSED PATENT**
 
-IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+**Name of State followed** **by Country Code**   **Date on which State became** **bound by the PCT*** Austria AT   23 [[Date 4: Date]] Brazil BR   9 [[Date 5: Date]] Canada CA   2 [[Date 6: Date]] China CN   1 [[Date 7: Date]] India IN    7 [[Date 8: Date]] Mexico MX   1 [[Date 9: Date]] Republic of Korea KR   10 [[Date 10: Date]] United Arab Emirates AE   10 [[Date 11: Date]] Viet Nam VN   10 [[Date 12: Date]] 
 
-[[Licensor]]
+**Name of Region for Regional Patent Applications** European Patent Application 
 
-[[Licensor Signatory Email: Identity | Signature]]
-__________________________________________
-{{Licensor Entity => By: [[Licensor Signatory First Name]] [[Licensor Signatory Last Name]]
-Title: [[Licensor Signatory Title]]}}
+\centered **Schedule C**
 
+\centered **Everest Water, Ltd.**
 
-[[Licensee]]
+\centered **Term Sheet**
 
-[[Licensee Signatory Email: Identity | Signature]]
-__________________________________________
-{{Licensee Entity => By: [[Licensee Signatory First Name]] [[Licensee Signatory Last Name]]
-Title: [[Licensee Signatory Title]]}}
+The following sets forth the material terms by which **Everest Water, Ltd.** (“Licensor”) shall license to **WaterPure International, Inc.**, (“Licensee”) the rights to commercialize Licensor’s patented water making machine on a non-exclusive basis.
 
+^The LICENSEE shall pay to the LICENSOR a licensing fee of Five Hundred Thousand Dollars US ($[[USD Value 1]] US).
 
-\centered **SCHEDULE A**
+^^**Whereas $[[USD Value 8: Number]] dollars have been paid to date and is herby acknowledged as a part of the licensing fee. On [[Date 13: Date]] a payment of $[[USD Value 9: Number]] is hereby due.**
 
-\centered **TRADEMARKS**
+^^**Payout Plan for the remainder of the licensing fee beginning [[Date 14: Date]] for non refundable payments to complete the up front payment:**
 
-**Trademarks:**  
-\centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered \centered **Owner**      \centered **Trademark**      \centered **App No /**   \centered **App date**      \centered **Reg No/ Reg**   \centered **Date**      
+\centered **$[[USD Value 10: Number]] per month for 6 months**   **= $[[USD Value 11: Number]]** **$[[USD Value 12: Number]] per month for 6 months**   **= $[[USD Value 13: Number]]** **$[[USD Value 14: Number]] per month for 6 months**   **= $[[USD Value 15: Number]]** **$[[USD Value 16: Number]] per quarter for 4 quarters**   **= $[[USD Value 17: Number]]** **$[[USD Value 18: Number]] final payment**   **= $[[USD Value 18]]** 
 
-\centered **Status** [[Licensor]]      Voit, Standard Character Mark      11/4/2008      77562705/      LIVE 
+**Total elapsed time:**   33 months 
 
-[[Licensor]]      Voit, Standard Character Mark      9/4/2008      77562682/      LIVE 
+**Total of all payments**   **$[[USD Value 1]]**  
 
-[[Licensor]]      Voit, Typed Drawing      1/29/2001      76201542/      LIVE 
+^The LICENSEE shall pay to the LICENSOR an ongoing [[Percentage 1]]% royalty on all AWG products sold in all countries worldwide.
 
-[[Licensor]]      Voit, Typed Drawing      5/18/1983      73426505/      LIVE 
-
-[[Licensor]]      Voit, Typed Drawing      8/20/1981      73324531/      LIVE                              
-
-Voit Intellectual Property shall include the trademarks listed above as well as all graphic designs, patents, copyrights, logos, other designs and intellectual property rights attributable to [[Licensor]]
-
-\centered 
-
-\centered Schedule A - - 1   
-
-\centered **SCHEDULE B**
-
-\centered **LICENSED PRODUCTS**
-
-^Inflated balls and accessory items
-
-^Gym mats
-
-^Baseballs and softballs
-
-^Badminton birds
-
-^Baseball batting tees
-
-^Field markers
-
-^Baseball bases
-
-^Baseball and softball bats
-
-^Lacrosse equipment
-
-^Track and field equipment
-
-^Soccer equipment including but not limited to shin guards, uniforms, socks, goal keeper gloves, indoor/outdoor foam balls, soccer goals and nets, and other accessories
-
-^Exercise equipment
-
-^Physical education equipment and accessories
-
-\centered 
-
-\centered Schedule B - 1
+^^Product sold to **____V.E.C.____** distributor in the country of Mexico shall be at a reduced royalty rate of [[Percentage 2: Number]]%. This reduced rate applies only to product that is sold to the aforementioned distributor in Mexico with the intention of being resold in the country of Mexico. The reduced rate shall not apply to any other distributor. The reduced rate shall not apply to any product manufactured in Mexico.

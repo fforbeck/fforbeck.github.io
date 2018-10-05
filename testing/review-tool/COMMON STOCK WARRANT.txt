@@ -73,11 +73,11 @@ Fax: Email:
 ^^^^^ 
 \centered 
 
-With a Copy to:    Krugliak, Wilkins, Griffiths & Dougherty Co., L.P.A. 4775 Munson Street, NW [[Address 1: Address]]-6963 Attn: Randall C. Hunt Fax: [[Phone 1]] Email: [[Email 1]] 
+With a Copy to:    Krugliak, Wilkins, Griffiths & Dougherty Co., L.P.A. 4775 Munson Street, NW Canton, Ohio 44735-6963 Attn: Randall C. Hunt Fax: [[Phone 1]] Email: [[Email 1]] 
 
-To Company:    **PVF CAPITAL CORP.** 30000 Aurora Road [[Address 2: Address]] Attn: Chief Executive Officer Fax: [[Phone 2]] 
+To Company:    **PVF CAPITAL CORP.** 30000 Aurora Road Solon, Ohio 44139 Attn: Chief Executive Officer Fax: [[Phone 2]] 
 
-With a copy to:    Kilpatrick Stockton LLP 607 14th Street, NW Suite 900 [[Address 3: Address]] Attn: Joel E. Rappoport Fax: [[Phone 3]] Email: [[Email 2]]  
+With a copy to:    Kilpatrick Stockton LLP 607 14th Street, NW Suite 900 Washington, DC 20005 Attn: Joel E. Rappoport Fax: [[Phone 3]] Email: [[Email 2]]  
 
 All notices shall be deemed given and received one business day after their delivery to the addresses for the respective party(ies), with the copies indicated, as provided in this Section 12.
 
@@ -118,7 +118,7 @@ To: **PVF CAPITAL CORP**.
 
 30000 Aurora Road
 
-[[Address 2: Address]]
+Solon, Ohio 44139
 
 Attn: 
 

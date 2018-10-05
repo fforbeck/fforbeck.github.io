@@ -1,167 +1,75 @@
-\centered AMENDMENT NO. 1 TO THIRD AMENDED AND RESTATED SHAREHOLDERS AGREEMENT
+^^**
 
-This Amendment No. 1 to Third Amended and Restated Shareholders Agreement (this “Amendment”) is made and entered into as of [[Date 1: Date]], by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), and the undersigned shareholders of the Company (the “Consenting Shareholders”). Capitalized terms used but not otherwise defined herein shall have the respective meanings ascribed thereto in the Shareholders Agreement (as defined below).
+\centered **AMENDMENT NO. 1 TO THE CBS BONUS DEFERRAL PLAN FOR DESIGNATED SENIOR EXECUTIVES**
 
-\centered R E C I T A L S
+\centered **PART B  AMENDMENT AND RESTATEMENT AS OF [[Date 1: Date]] (THE “PLAN”)**
 
-WHEREAS, the Company, the Consenting Shareholders and certain other shareholders of the Company have heretofore entered into that certain Third Amended and Restated Shareholders Agreement, dated as of [[Date 2: Date]] (the “Shareholders Agreement”);
+Except as otherwise noted herein, the following amendments shall be effective as of January 1, 2009.
 
-WHEREAS, Section 10.4 of the Shareholders Agreement provides that the Shareholders Agreement may be amended by a written agreement executed by (i) the Company, (ii) the holders of a majority of the Stock then held by the Series A Holders, (iii) the holders of a majority of the Stock then held by the Series B Holders, (iv) the holders of a majority of the Stock then held by the Series C Holders and (v) the Founders;
+^The Plan is hereby amended by deleting each occurrence of the term “this Plan” and inserting in place thereof the term “the Plan”.
 
-WHEREAS, the Company and the Consenting Shareholders constitute each of (i) the Company, (ii) the holders of a majority of the Stock then held by the Series A Holders, (iii) the holders of a majority of the Stock then held by the Series B Holders, (iv) the holders of a majority of the Stock then held by the Series C Holders and (v) the Founders; and
+^Section 1.2 of the Plan is hereby amended to delete the words “on or before” in the second sentence thereof and to insert in place thereof the words “prior to”.
 
-WHEREAS, the Company and the Consenting Shareholders desire to amend the Shareholders Agreement as more fully set forth herein;
+^Section 1.4 of the Plan is hereby amended to delete the word “bonuses” and to insert in place thereof the term “Bonuses” and to delete the phrase “paid under the CBS Corporation Short Term Incentive Plan and any other comparable annual cash bonus plan sponsored by any Employer”.
 
-NOW, THEREFORE, in consideration of the agreements and obligations set forth herein and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
+^Section 2.4 of the Plan is hereby amended to delete the words “shall mean” and to insert in place thereof the word “means”.
 
-\centered AGREEMENT
+^Section 2.8 of the Plan is hereby amended to delete the word “CBS”.
 
-^Amendments to Definition of “Permitted Transfer”. The Company and the Consenting Shareholders agree that the definition of “Permitted Transfer” set forth in Section 1.1(j) of the Shareholders Agreement is hereby amended to (x) delete the word “and” at the end of clause (iii) of such definition, (y) renumber clause (iv) of such definition to become clause (v) of such definition and (z) insert a new clause (iv) of such definition to read in its entirety as follows:
+^The Plan is hereby amended to insert a new section 2.13 as follows, and to re-designate subsequent sections accordingly:
 
-“ (iv) any transfers of Stock by Pequot Diversified Master Fund, Ltd. to any Affiliate of Pequot Diversified Master Fund, Ltd. that, at the time of such transfer but prior to giving effect to such transfer, is an existing holder of Stock of the Company; and”
+“2.13 The term “Election Agreement” is defined in Section 3.1(d).”
 
-^Governing Law. This Amendment shall be interpreted and enforced in accordance with and governed by the internal laws of the State of California without giving effect to the principles of conflicts of law of such state
+^Re-designated Section 2.16 of the Plan is hereby amended to delete the cross-reference to Section 2.25 and to insert in place thereof a cross-reference to Section 2.26.
 
-^References to the Agreement. Except as amended by this Amendment, all other terms, conditions and covenants of the Shareholders Agreement are hereby confirmed by the parties hereto and remain unchanged and in full force and effect. From and after the date hereof, all references to the “Agreement” contained in the Shareholders Agreement, shall be deemed to be references to the Shareholders Agreement as amended by this Amendment.
+^Re-designated Section 2.18 of the Plan is hereby amended to delete the cross-reference to Section 5.1(b) and to insert in place thereof a cross-reference to Section 5.1.
 
-^Counterparts. This Amendment may be executed in multiple counterparts, each of which shall be deemed an original and all of which shall be deemed to constitute one and the same instrument, and it shall be sufficient for each party to have executed at least one, but not necessarily the same, counterpart.
+^Re-designated Section 2.22 of the Plan is hereby amended to (1) delete the phrase “as set forth herein” and (2) add at the end thereof a new sentence as follows:
 
-\centered *[Signatures Follow]*
+“References to “the Plan” shall be considered references to Part A and/or Part B of the Plan as context requires.”
 
-IN WITNESS WHEREOF, this Amendment was executed as of the date first above written.
+^Re-designated Section 2.26 of the Plan is hereby amended to (1) delete the phrases “an Employee who is” and “in the Plan” in the first sentence thereof, (2) delete the third and fourth occurrences of the word “Employee” and to insert in place thereof the word “employee”, (3) delete the second, fifth, seventh and eighth occurrences of the word “Employee” and insert in place thereof the word “Participant”, (4) delete the sixth and 
 
-**COMPANY:**
+ninth occurrences of the word “Employee” as well as the word “an” immediately preceding each such occurrence and to insert in place thereof the words “a Participant”, (5) delete each cross-reference to Section 2.25 and to insert in place thereof a cross-reference to Section 2.26 and (6) delete the cross-reference to Section 2.15 and to insert in place thereof a cross-reference to Section 2.16.
 
-[[Company]]
+^Re-designated Section 2.28 is hereby amended to delete the cross-reference to Section 2.27 and to insert in place thereof a cross-reference to Section 2.28.
 
-[[Company Signatory Email: Identity | Signature]]
-__________________________________________
-{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
-Title: [[Company Signatory Title]]}}
+^Section 3.1(c) of the Plan is hereby amended to (1) delete the phrase “for a calendar year beginning on or after [[Date 2: Date]] in which an employee first becomes an Eligible Employee under this Plan or any other account balance plan maintained by an Employer that is required to be aggregated with this Plan under Code Section 409A, such Eligible Employee” and to insert in place thereof the phrase “an employee who first becomes an Eligible Employee during the course of a calendar year beginning on or after [[Date 2]]”, (2) delete the cross-reference to Section 2.25 and to insert in place thereof a cross-reference to Section 2.26 and (3) delete “earned for the remainder of the year in which the election is made and” immediately following “Bonus” in the second sentence thereof.
 
-Name: Andrew A Skarupa
-Title: CFO
+^Section 3.2 of the Plan is hereby amended to delete the term “Participant’s” and to insert in place thereof the term “Eligible Employee’s”.
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+^Sections 4.2(b) and 4.2(c) of the Plan are hereby amended to delete such sections in their entirety and to insert in place thereof the following:
 
-**FOUNDERS:**
+“(b) If a Participant elects (or is deemed to elect) to have his Post-2004 Subaccount distributed in a single lump sum, the Participant’s Post-2004 Subaccount shall be credited with earnings based on the rate of return in the Fixed Income Fund (or any successor fund) beginning [[Date 3: Date]] of the calendar year following the calendar year in which the Participant experiences a Separation from Service that results in the Participant’s Post-2004 Subaccount becoming payable, and continuing through the date upon which such single lump sum payment is determined, if such determination date is after [[Date 4: Date]] of the calendar year in which the Participant experiences a Separation from Service. Payments due on [[Date 5: Date]] of a calendar year are determined on the previous [[Date 4]], while payments due on the first business day of a calendar month are determined on the last day of the second preceding calendar month (e.g., a payment scheduled for the first business day of March will be determined on the preceding [[Date 5]]).
 
-[[FOUNDERS Signatory Email: Identity | Signature]]
-__________________________________________
-{{FOUNDERS Entity => By: [[FOUNDERS Signatory First Name]] [[FOUNDERS Signatory Last Name]]
-Title: [[FOUNDERS Signatory Title]]}}
+^^If a Participant elects to have his Post-2004 Subaccount distributed in Annual Payments, the Participant’s Past-2004 Subaccount shall be credited with earnings based on the rate of return in the Fixed Income Fund (or any successor fund) beginning [[Date 3]] of the calendar year following the calendar year in which the Participant experiences a Separation from Service that results in the Participant’s 
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+Post-2004 Subaccount becoming payable, and continuing through the date upon which such Annual Payment is determined, if such determination date is after [[Date 4]] of the calendar year in which the Participant experiences a Separation from Service. Payments due on [[Date 5]] of a calendar year are determined on the previous [[Date 4]], while payments due on the first business day of a calendar month are determined on the last day of the second preceding calendar month (e.g., a payment scheduled for the first business day of March will be determined on the preceding [[Date 5]]).”
 
-[[Party 3 Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 3 Entity => By: [[Party 3 Signatory First Name]] [[Party 3 Signatory Last Name]]
-Title: [[Party 3 Signatory Title]]}}
+^Section 5.1 of the Plan is hereby amended to (1) delete the word “election” immediately following the term “Joint Payment Option” in subsection (b)(i) thereof and to insert in place thereof the term “Joint Payment Option Election”, (2) delete the word “elects” in subsection (b)(ii) thereof and to insert in place thereof the phrase “makes a Joint Payment Option Election”, (3) delete the word “the” immediately following the word “Alternatively,” in the last sentence of subsection (iii) thereof and to insert in place thereof the word “a” and (4) to insert the word “under” immediately prior to the words “Plan or” in subsection (iv) thereof.
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+^Section 5.3 of the Plan is hereby amended to (1) insert the phrase “or after his Separation from Service but prior to the distribution of his entire Post 2004 Subaccount,” immediately following the first occurrence of the term “Separation from Service,” and (2) insert at the end thereof a new sentence as follows:
 
-Series A Holding
+“The Participant’s Post-2004 Subaccount shall continue to be credited with earnings in accordance with Section 6.2 until his entire Post-2004 Subaccount is distributed.”
 
-[[Series A Holding Signatory Email: Identity | Signature]]
-__________________________________________
-{{Series A Holding Entity => By: [[Series A Holding Signatory First Name]] [[Series A Holding Signatory Last Name]]
-Title: [[Series A Holding Signatory Title]]}}
+^Section 6 of the Plan is hereby amended to insert the word “sole” immediately prior to the words “discretion of the Committee” in the fourth sentence thereof.
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+^Section 7 of the Plan is amended to delete the word “Account” and to insert in place thereof “Post-2004 Subaccount”.
 
-/s/ William D. Budinger
-William D. Budinger
+^Sections 9.1 and 9.2 of the Plan is hereby amended to delete such sections in their entirety and to insert in place thereof the following:
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+“9.1 *Committee*. The Plan shall be administered by the Committee. The Committee shall have sole and absolute discretion to interpret, where necessary, the provisions of the Plan (including, without limitation, by supplying omissions from, correcting deficiencies in, or resolving inconsistencies or ambiguities in, the language of the Plan), to determine the rights and status under the Plan of any Participant and other persons, to resolve questions or disputes arising under the Plan and to make any determinations with respect to the benefits hereunder and the persons entitled thereto as may be necessary for the purposes of the Plan.
 
-HOBBIT INVESTMENTS
-[[HOBBIT INVESTMENTS Signatory Email: Identity | Signature]]
-__________________________________________
-{{HOBBIT INVESTMENTS Entity => By: [[HOBBIT INVESTMENTS Signatory First Name]] [[HOBBIT INVESTMENTS Signatory Last Name]]
-Title: [[HOBBIT INVESTMENTS Signatory Title]]}}
+^^*Powers of the Committee*. In furtherance of, but without limiting, Section 9.1, the Committee shall have the following specific authorities, which it shall discharge in its sole and absolute discretion in accordance with the terms of the Plan (as interpreted, to the extent necessary, by the Committee):
 
+^^^to determine who are Eligible Employees for purposes of participation in the Plan;
 
-/s/ William M. Budinger
-Name: William M. Budinger
-Title: President
+^^^to interpret the terms and provisions of the Plan and to determine any and all questions arising under the Plan, including, without limitation, the right to remedy possible ambiguities, inconsistencies, or omissions by a general rule or particular decision;
 
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+^^^to adopt rules consistent with the Plan;
 
-**SERIES B HOLDERS:**
+^^^to approve certain amendments to the Plan;
 
-PERSPECTIVE INVESTMENTS
+^^^to determine the amounts payable to any person under the Plan; and
 
-Name:
-Title:
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-Series B Holding
-
-[[Series B Holding Signatory Email: Identity | Signature]]
-__________________________________________
-{{Series B Holding Entity => By: [[Series B Holding Signatory First Name]] [[Series B Holding Signatory Last Name]]
-Title: [[Series B Holding Signatory Title]]}}
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-/s/ William D. Budinger
-William D. Budinger
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-HOBBIT INVESTMENTS
-[[HOBBIT INVESTMENTS Signatory Email: Identity | Signature]]
-__________________________________________
-{{HOBBIT INVESTMENTS Entity => By: [[HOBBIT INVESTMENTS Signatory First Name]] [[HOBBIT INVESTMENTS Signatory Last Name]]
-Title: [[HOBBIT INVESTMENTS Signatory Title]]}}
-
-
-/s/ William M. Budinger
-Name: William M. Budinger
-Title: President
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-THE SUSAN BUDINGER LONCKI
-SEPARATE PROPERTY TRUST
-
-[[SEPARATE PROPERTY TRUST Signatory Email: Identity | Signature]]
-__________________________________________
-{{SEPARATE PROPERTY TRUST Entity => By: [[SEPARATE PROPERTY TRUST Signatory First Name]] [[SEPARATE PROPERTY TRUST Signatory Last Name]]
-Title: [[SEPARATE PROPERTY TRUST Signatory Title]]}}
-
-Name: Susan Martin Budinger
-Title: Trustee
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-REAL BIG
-
-/s/ David L. Morris
-Name: David L. Morris
-Title: Member
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-[[Party 9 Signatory Email: Identity | Signature]]
-__________________________________________
-{{Party 9 Entity => By: [[Party 9 Signatory First Name]] [[Party 9 Signatory Last Name]]
-Title: [[Party 9 Signatory Title]]}}
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
-
-**SERIES C HOLDERS:**
-
-Shamrock Capital Growth Fund II, L.P.
-[[Shamrock Capital Growth Fund II L.P. Signatory Email: Identity | Signature]]
-__________________________________________
-{{Shamrock Capital Growth Fund II L.P. Entity => By: [[Shamrock Capital Growth Fund II L.P. Signatory First Name]] [[Shamrock Capital Growth Fund II L.P. Signatory Last Name]]
-Title: [[Shamrock Capital Growth Fund II L.P. Signatory Title]]}}
-
-
-/s/ Stephen D. Royer
-Stephen D. Royer
-Executive Vice President
-
-\centered [Signature Page to Amendment No. 1 to Third Amended and Restated Shareholders Agreement]
+^^^to conduct the claims procedure specified in Section 9.3.”

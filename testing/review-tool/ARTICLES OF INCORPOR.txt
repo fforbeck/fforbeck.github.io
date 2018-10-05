@@ -1,77 +1,97 @@
-\centered **TELAMERGE HOLDING** **CORP.**
-
-The undersigned, who, if a natural person, is eighteen years of age or older, hereby establishes a corporation pursuant to the Colorado Business Corporation Act, as amended, and adopts the following Articles of Incorporation:
-
-FIRST: The name of the corporation is TELAMERGE HOLDING CORP.
-
-SECOND: The purposes for which the corporation is organized and its powers are as follows:
-
-^To engage in any lawful business or activity for which corporations may be organized under the laws of the State of Colorado; and
-
-^To have, enjoy, and exercise all of the rights, powers, and privileges conferred upon corporation incorporated pursuant to Colorado law, whether now or hereafter in effect, and whether or not herein specifically mentioned.
-
-THIRD: The aggregate number of shares which the corporation shall have authority to issue is 125,000,000, of which 25,000,000 shall be Preferred Shares, $.001 par value per share, and 100,000,000 shall be Common Shares, $.001 par value per share, and the designations, preferences, limitations and relative rights of the shares of each such class are as follows:
-
-^Preferred Shares  
-The corporation may divide and issue the Preferred Shares into series. Preferred Shares of each series, when issued, shall be designated to distinguish it from the shares of all other series of the class of Preferred Shares. The Board of Directors is hereby expressly vested with authority to fix and determine the relative rights and preferences of the shares of any such series so established to the fullest extent permitted by these Articles of Incorporation and the laws of the State of Colorado in respect to the following:
-
-^^The number of shares to constitute such series, and the distinctive designations thereof;
-
-^^The rate and preference of dividend, if any, the time of payment of dividend, whether dividends are cumulative and the date from which any dividend shall accrue;
-
-^^Whether the shares may be redeemed and, if so, the redemption price and the terms and conditions of redemption;
-
-^^The amount payable upon shares in the event of involuntarily liquidation;
-
-^^The amount payable upon shares in the event of voluntary liquidation;
-
-^^Sinking fund or other provisions, if any, for the redemption or purchase of shares;
-
-^^The terms and conditions on which shares may be converted, if the shares of any series are issued with the privilege of conversion;
-
-^^Voting powers, if any; and  
-^^^Any other relative right and preferences of shares of such series, including, without limitation, any restriction on an increase in the number of shares of any series theretofore authorized and any limitation or restriction of rights or powers to which shares of any further series shall be subject.
-
-^Common Shares  
-^^The rights of holders of the Common Shares to receive dividends or share in the distribution of assets in the event of liquidation, dissolution or winding up of the affairs of the Corporation shall be subject to the preferences, limitations and relative rights of the Preferred Shares fixed in the resolution or resolutions which may be adopted from time to time by the Board of Directors of the corporation providing for the issuance of one or more series of the Preferred Shares.
-
-^^The holders of the Common Shares shall have unlimited voting rights and shall constitute the sole voting group of the corporation, except to the extent any additional voting groups or groups may hereafter be established in accordance with the Colorado Business Corporation Act, and shall be entitled to one vote for each share of Common Shares held by them of record at the time for determining the holders thereof entitled to vote.
-
-FOURTH: The street address of the initial registered office of the corporation is 2851 South Parker Road, Suite 720, [[Address 1: Address]], and the name of the initial registered agent at such address is Andrew I. Telsey.
-
-FIFTH: The address of the initial principal office of the corporation is 2851 South Parker Road, Suite 720, [[Address 1: Address]].
-
-SIXTH: The corporate powers shall be exercised by or under the authority of, and the business and affairs of the corporation shall be managed under the direction of, a board of directors. The number of directors of the corporation shall be fixed by the bylaws, or if the bylaws fail to fix such a number, then by resolution adopted from time to time by the board of directors, provided that the number of directors shall not be more than seven (7) nor less than one (1). Three directors shall constitute the initial board of directors. The names and addresses of the initial directors is as follows:
-
 \centered 
-Name      Address 
-Andrew I. Telsey      2851 South Parker Road, Suite 720, [[Address 2: Address]] 
-Darlene D. Kell      2851 South Parker Road, Suite 720, [[Address 2: Address]]  
 
-SEVENTH: Cumulative voting shall not be permitted in the election of directors or otherwise.
+\centered **OF**
 
-EIGHTH: Except as the bylaws adopted by the shareholders may provide for a greater quorum requirement, a majority of the votes entitled to be cast on any matter by each voting group entitled to vote on a matter shall constitute a quorum of that voting group for action on that matter at any meeting of shareholders. Except as bylaws adopted by the shareholders may provide for a greater voting requirement and except as is otherwise provided by the Colorado Business Corporation Act, with respect to action on amendment to these Articles of Incorporation, on a plan of merger or share exchange, on the disposition of substantially all of the property of the corporation, on the granting of consent to the disposition of property by an entity controlled by the corporation, and on the dissolution of the corporation, action on a matter other than the election of directors is approved if a quorum exists and if the votes cast favoring the action exceed the votes cast opposing the action. Any bylaw adding, changing, or deleting a greater quorum or voting requirement for shareholders shall meet the same quorum requirement and be adopted by the same vote required to take action under the quorum and voting requirements then in effect or proposed to be adopted, whichever are greater.
+\centered **Harbor Island Development Corp.**
 
-NINTH: The following provisions are inserted for the management of the business and for the conduct of the affairs of the corporation, and the same are in furtherance of and not in limitation or exclusion of the powers conferred by law.
 
-^**Conflicting Interest Transactions.** As used in this paragraph, "conflicting interest transactions" means any of the following: (i) a loan or other assistance by the corporation to a director of the corporation or to an entity in which a director of the corporation is a director or officer or has a financial interest; (ii) a guaranty by the corporation of an obligation of a director of the corporation or of an obligation of an entity in which a director of the corporation is a director or officer or has a financial interest; or (iii) a contract or transaction between the corporation and a director of the corporation or between the corporation and an entity in which a director of the corporation is a director or officer or has a financial interest. No conflicting interest transaction shall be void or voidable, be enjoined, be set aside, or give rise to an award of damages or other sanctions in a proceeding by a shareholder or by or in the right of the corporation, solely because the conflicting interest transaction involves a director of the corporation or an entity in which a director of the corporation is a director or officer or has a financial interest, or solely because the director is present at or participates in the meeting of the corporation's board of directors or of the committee of the board of directors which authorizes, approves or ratifies a conflicting interest transaction, or solely because the director's vote is counted for such purpose, if: (a) the material facts as to the director's relationship or interest and as to the conflicting interest transaction are disclosed or are known to the board of directors or the committee, and the board of directors or committee in good faith authorizes, approves or ratifies the conflicting interest transaction by the affirmative vote of a majority of the disinterested directors, even though the disinterested directors are less than quorum; or (b) the material facts as to the director's relationship or interest and as to the conflicting interest transaction are disclosed or are known to the shareholders entitled to vote thereon, and the conflicting interest transaction is specifically authorized, approved or ratified in good faith by a vote of the shareholders; or (c) a conflicting interest transaction is fair as to the corporation as of the time it is authorized, approved or ratified by the board of directors, a committee thereof, or the shareholders. Common or interested directors may be counted in determining the presence of a quorum at a meeting of the board of directors or of a committee which authorizes, approves or ratifies the conflicting interest transaction.
 
-^**Loans and Guarantees for the Benefit of Directors.** Neither the board of directors nor any committee thereof shall authorize a loan by the corporation to a director of the corporation or to an entity in which a director of the corporation is a director or officer or has a financial interest, or a guaranty by the corporation of an obligation of a director of the corporation or of an obligation of an entity in which a director of the corporation is a director or officer or has a financial interest, until at least ten days written notice of the proposed authorization of the loan or guaranty has been given to the shareholders who would be entitled to vote thereon if the issue of the loan or guaranty were submitted to a vote of the shareholders. The requirements of this subparagraph B are in addition to, and not in substitution for, the provisions of subparagraph A of this Article.
+\centered **Company Name**
 
-^**Indemnification.** The corporation shall indemnify, to the maximum extent permitted by law, any person who is or was a director, officer, agent, fiduciary or employee of the corporation against any claim, liability or expense arising against or incurred by such person made party to a proceeding because he is or was a director, officer, agent, fiduciary or employee of the corporation or because he is or was serving another entity or employee benefit plan as a director, officer, partner, trustee, employee, fiduciary or agent at the corporation's request. The corporation shall further have the authority to the maximum extent permitted by law to purchase and maintain insurance providing such indemnification.
+^^The name of this corporation is **Harbor Island Development Corp.**
 
-^**Limitation on Director's Liability.** No director of this corporation shall have any personal liability for monetary damages to the corporation or its shareholders for beach of his fiduciary duty as a director, except that this provision shall not eliminate or limit the personal liability of a director to the corporation or its shareholders for monetary damages for: (i) any breach of the director's duty of loyalty to the corporation or its shareholders; (ii) acts or omissions not in good faith or which involve intentional misconduct or a knowing violation of law; (iii) voting for or assenting to a distribution in violation of Colorado Revised Statutes § 7-106-401 or the Articles of Incorporation if it is established that the director did not perform his duties in compliance with Colorado Revised Statutes § 7-108-401, provided that the personal liability of a director in this circumstances shall be limited to the amount of the distribution which exceeds what could have been distributed without violation of Colorado Revised Statutes § 7-106-401 or the Articles of Incorporation; or (iv) any transaction from which the director directly or indirectly derives an improper personal benefit. Nothing contained herein will be construed to deprive any director of his right to all defenses ordinarily available to a director nor will anything herein be construed to deprive any director of any right he may have for contribution from any other director or other person.
+\centered **Duration**
 
-^**Negation of Equitable Interests in Shares or Rights.** Unless a person is recognized as a shareholder through procedures established by the corporation pursuant to Colorado Revised Statutes § 7-107-204 or any similar law, the corporation shall be entitled to treat the registered holder of any shares of the corporation as the owner thereof for all purposes permitted by the Colorado Business Corporation Act, including without limitation all rights deriving from such shares, and the corporation shall not be bound to recognize any equitable or other claim to, or interest in, such shares or rights deriving from such shares on the part of any other person including without limitation, a purchaser, assignee or transferee of such shares, unless and until such other person becomes the registered holder of such shares or is recognized as such, whether or not the corporation shall have either actual or constructive notice of the claimed interest of such other person. By way of example and not of limitation, until such other person has become the registered holder of such shares or is recognized pursuant to Colorado Revised Statutes § 7-107-204 or any similar applicable law, he shall not be entitled: (i) to receive notice or the meetings of the shareholders; (ii) to vote at such meetings; (iii) to examine a list of the shareholders; (iv) to be paid dividends or other distributions payable to shareholders; or (v) to own, enjoy and exercise any other rights deriving from such shares against the corporation. Nothing contained herein will be construed to deprive any beneficial shareholder, as defined in Colorado Revised Statutes § 7-113-101(1), of any right he may have pursuant to Article 113 of the Colorado Business Corporation Act or any subsequent law.
+^^The corporation shall continue in existence perpetually unless sooner dissolved according to law.
 
-TENTH: The name and address of the incorporator is:
+\centered **Purpose**
 
-\centered 
-Name      Address 
-Andrew I. Telsey      2851 South Parker Road, Suite 720, [[Address 2: Address]]  
+^^The purpose for which the corporation is organized is to engage in any lawful activity within or outside of the State of Nevada.
 
-\centered DATED the [[Date 1: Date]].      /s/Andrew I. Telsey Andrew I. Telsey, Incorporator 
+^^The corporation may also maintain offices at such other places within or outside of the State of Nevada as it may from time to time determine. Corporate business of every kind and nature may be conducted, and meetings of directors and shareholders may be held outside the State of Nevada with the same effect as if held in the State of Nevada.
 
-The undersigned hereby consents to the appointment as the initial registered agent for TELAMERGE HOLDING CORP.
+\centered **Board of Directors**
 
-\centered /s/Andrew L. Telsey Andrew I. Telsey, Incorporator 
+^^Number. The board of directors of the Corporation shall consist of such number of persons, not less than one, as shall be determined in accordance with the bylaws from time to time. 
+
+\centered **Capital Stock**
+
+^^Authorized Capital Stock. The aggregate number of shares which this Corporation shall have authority to issue is two hundred sixty million (260,000,000) shares, consisting of (a) two hundred fifty million (250,000,000) shares of Common Stock, par value $[[USD Value 1: Number]] per share (the “Common Stock”) and (b) ten million (10,000,000) shares of preferred stock, par value $[[USD Value 1]] per share (the “Preferred Stock”), issuable in one or more series as hereinafter provided. A description of the classes of shares and a statement of the number of shares in each class and the relative rights, voting power, and preferences granted to and restrictions imposed upon the shares of each class are as follows:
+
+^^Common Stock. Each share of Common Stock shall have, for all purposes one (1) vote per share.
+
+Subject to the preferences applicable to Preferred Stock outstanding at any time, the holders of shares of Common Stock shall be entitled to receive such dividends and other distributions in cash, property or shares of stock of the Corporation as may be declared thereon by the Board of Directors from time to time out of assets or funds of the Corporation legally available therefore. The holders of Common Stock issued and outstanding have and possess the right to receive notice of shareholders’ meetings and to vote upon the election of directors or upon any other matter as to which approval of the outstanding shares of Common Stock or approval of the common shareholders is required or requested. 
+
+^^Preferred Stock. The Shares of Preferred Stock may be issued from time to time in one or more series. The Board of Directors is authorized, by resolution adopted and filed in accordance with law, to provide for the issue of such series of shares of Preferred Stock. Each series of shares of Preferred Stock: 
+
+^^may have such voting powers, full or limited, or may be without voting powers; 
+
+^^may be subject to redemption at such time or times and at such prices as determine by the Board of Directors;
+
+^^may be entitled to receive dividends (which may be cumulative or non-cumulative) at such rate or rates, on such conditions and at such times, and payable in preference to, or in such relation to, the dividends payable on any other class or classes or series of stock; 
+
+^^may have such rights upon the dissolution of, or upon any distribution of the assets of, the Corporation; 
+
+^^may be made convertible into, or exchangeable for, shares of any other class or classes or of any other series of the same or any other class or classes of stock of the Corporation or such other corporation or other entity at such price or prices or at such rates of exchange and with such adjustments; 
+
+^^may be entitled to the benefit of a sinking fund to be applied to the purchase or redemption of shares of such series in such amount or amounts; 
+
+^^may be entitled to the benefit of conditions and restrictions upon the creation of indebtedness of the Corporation or any subsidiary, upon the issue of any additional shares (including additional shares of such series or of any other series) and upon the payment of dividends or the making of other distributions on, and the purchase, redemption or other acquisition by the Corporation or any subsidiary of, any outstanding shares of the Corporation; and 
+
+^^may have such other relative, participating, optional or other special rights, qualifications, limitations or restrictions thereof, in each case as shall be stated in said resolution or resolutions providing for the issue of such shares of Preferred Stock. Shares of Preferred Stock of any series that have been redeemed or repurchased by the Corporation (whether through the operation of a sinking fund or otherwise) or that, if convertible or exchangeable, have been converted or exchanged in accordance with their terms shall be retired and have the status of authorized and unissued shares of Preferred Stock of the same series and may be reissued as a part of the series of which they were originally a part or may, upon the filing of an appropriate certificate with the Secretary of State of the State of Nevada be reissued as part of a new series of shares of Preferred Stock to be created by resolution or resolutions of the Board of Director s or as part of any other series of shares of Preferred Stock, all subject to the conditions or restrictions on issuance set forth in the resolution or resolutions adopted by the Board of Directors providing for the issue of any series of shares of Preferred Stock. 
+
+\centered **No Further Assessments**
+
+^^The capital stock, after the amount of the subscription price determine by the board of directors has been paid in money, property, or services, as the Directors shall determine, shall be subject to no further assessment to pay the debts of the corporation, and no stock issued as fully paid up shall ever be assessable or assessed, and these Articles of Incorporation shall not and cannot be amended, regardless of the vote therefore, so as to amend, modify or rescind this Article 6.
+
+\centered **No Preemptive Rights**
+
+^^Except as otherwise set forth herein, none of the shares of the Corporation shall carry with them any preemptive right to acquire additional or other shares of the corporation and no holder of any stock of the Corporation shall be entitled, as of right, to purchase or subscribe for any part of any unissued shares of stock of the Corporation or for any additional shares of stock, of any class or series, which may at any time be issued, whether now or hereafter authorized, or for any rights, options, or warrants to purchase or receive shares of stock or for any bonds, certificates of indebtedness, debentures, or other securities.
+
+\centered Page 2 of 3
+
+\centered **No Cumulative Voting**
+
+^^There shall be no cumulative voting of shares.
+
+\centered **Election Not to be Governed By Provisions of NRS 78.411 to 78.444.**
+
+^^The Corporation, pursuant to NRS 78.434, herebyelects not to be governed by the provisions of NRS 78.411 to 78.411, inclusive.
+
+\centered **Indemnification of Officers and Directors**
+
+^^The Corporation shall indemnify its directors, officers, employee, fiduciaries and agents to the fullest extent permitted under the Nevada Revised Statutes.
+
+^^Every person who was or is a party or is threatened to be made a party to or is involved in any action, suit or proceedings, whether civil, criminal, administrative or investigative, by reason of the fact that he or a person for whom he is the legal representative is or was a director or officer of the corporation or is or was serving at the request of the corporation as a director or officer of another corporation, or as its representative in a partnership, joint venture, trust or other enterprise, shall be indemnified and held harmless to the fullest extent legally permissible under the law of the State of Nevada from time to time against all expenses, liability and loss (including attorney's fees, judgments, fines and amounts paid or to be paid in settlement) reasonably incurred or suffered by him in connection therewith. Such right of indemnification shall be a contract right that may be enforced in any manner desired by such person. Such right of ind emnification shall not be exclusive of any other right which such directors, officers or representatives may have or hereafter acquire and, without limiting the generality of such statement, they shall be entitled to their respective rights of indemnification under any By-Law, agreement, vote of stockholders, provision of law or otherwise, as well as their rights under this Article.
+
+^^Without limiting the application of the foregoing, the Board of Directors may adopt By-Laws from time to time with respect to indemnification to provide at all times the fullest indemnification permitted by the law of the State of Nevada and may cause the corporation to purchase and maintain insurance on behalf of any person who is or was a director or officer of the corporation as a director of officer of another corporation, or as its representative in a partnership, joint venture, trust or other enterprise against any liability asserted against such person and incurred in any such capacity or arising out of such status, whether or not the corporation would have the power to indemnify such person.
+
+^^The private property of the Stockholders, Directors and Officers shall not be subject to the payment of corporate debts to any extent whatsoever.
+
+^^No director, officer or shareholder shall have any personal liability to the corporation or its stockholders for damages for breach of fiduciary duty as a director or officer, except that this provision does not eliminate nor limit in any way the liability of a director or officer for:
+
+^^Acts or omissions which involve intentional misconduct, fraud or a knowing violation of law; or
+
+^^The payment of dividends in violation of Nevada Revised Statutes (N.R.S.) 78.300.
+
+IN WITNESS WHEREOF, I have hereunto set my hands this _____ day of [[Date 1: Date]], hereby declaring and certifying that the facts stated hereinabove are true.
+
+____________________
+
+[[Party 1 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 1 Entity => By: [[Party 1 Signatory First Name]] [[Party 1 Signatory Last Name]]
+Title: [[Party 1 Signatory Title]]}}
+
+
+\centered Page 3 of 3

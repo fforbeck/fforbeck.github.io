@@ -1,280 +1,334 @@
-\centered TRADEMARK LICENSE AGREEMENT
+\centered **TRADEMARK LICENSE AGREEMENT** 
 
-This Trademark License Agreement (this “Agreement”) is entered into as of [[Date 1: Date]] (the “Effective Date”), by and between Vishay Intertechnology, Inc., a corporation organized under the laws of the State of Delaware (“VSH”) and Vishay Precision Group, Inc., a corporation organized under the laws of the State of Delaware (“VPG”).
+This TRADEMARK LICENSE AGREEMENT (this “Agreement”) is made as of this [[Date 1: Date]] by and among [[Company]], an [[State of Formation: State]] [[Organization: EntityType]] (the “Company”), [[Rogers]], Jr., an individual (“Rogers”), and [[Beeland Interests]], a [[State of Formation: State]] [[Organization: EntityType]] (“Beeland Interests”). The Company, Rogers and Beeland Interests are sometimes hereinafter referred to individually as a “Party” and collectively as the “Parties”. 
 
-\centered RECITALS
+\centered **RECITALS** 
 
-WHEREAS, VSH owns all right, title and interest in and to the Name (as hereinafter defined) and Mark (as hereinafter defined) VISHAY, used alone or in connections with other terms;
+The Parties, in order to correct inconsistencies in connection with the Rogers International Commodity Index (the “Index”) and the BI Marks (as defined below in Section II(B) hereof), and in consideration of the mutual promises contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, hereby agree as follows: 
 
-WHEREAS, VPG desires to use the Licensed Marks (as hereinafter defined) on and in connection with the design, development, manufacture, marketing, provision and performance of VPG Products and Services (as hereinafter defined);
+^**LICENSE**
 
-WHEREAS, VSH is willing to grant to VPG, and VPG is willing to accept, the right to use the Licensed Marks in accordance with and subject to the terms of this Agreement.
+^Beeland Interests hereby grants to the Company, subject to the terms and conditions of this Agreement, a limited, personal, royalty-free, nonexclusive, with no right to sublicense, nontransferable license to use the Index and the Licensed Marks (as defined below in Section II(A) hereof) worldwide, and on related websites based in the United States, solely in connection with the sale and marketing of funds administered by the Company which are based on the Index and denominated in United States of America dollars, for as long as Rogers holds an Interest (as defined in that certain Third Revised Amended and Restated Operating Agreement of the Company, dated [[Date 2: Date]], as the same may be amended, supplemented or modified from time to time in accordance with its terms) in the Company or until [[Date 3: Date]], whichever is the earlier, and which sale and marketing is solely for the Rogers Raw Materials Fund, L.P., the Rogers International Raw Materials Fund, L.P. and the Rogers Raw Materials Index Fund, Ltd., and the related sub-index funds, Rogers Metals Index Fund, Rogers Agricultural Index Fund and Rogers Energy Index Fund, and any other sub-index funds with the prior written approval of Beeland Interests, not to be unreasonably denied, and any other commodity pool (as that term is defined in the Commodity Exchange Act), financial product or fund (in each case) which is administered by the Company and is based on the Index or sub-indices of the Index, or options, futures, bonds or other products, approved from time to time by Beeland Interests, in its sole discretion; provided, further, the Licensed Mark, “Beeland,” may only be used as part of the corporate name “[[Company]]” Nothing in this Agreement shall be construed to grant Company any rights or license to any trademark, trade name, service mark, domain name, product name or logo of Rogers or Beeland Interests other than as specified herein.
 
-NOW, THEREFORE, in consideration of the mutual promises, covenants, agreements, representations and warranties contained herein, and for other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the parties hereto hereby agree, intending to be legally bound, as follows:
+^^^**OWNERSHIP OF THE INDEX AND THE MARKS**
 
-^LICENSE OF RIGHTS  
+^The Company acknowledges and agrees that Beeland Interests, and/or its affiliates (including, but without limitation, Rogers), is and will be the owner of the Index and the names and trademarks “Rogers International Commodity Index”; “RICI”; “Rogers Raw Materials Fund, L.P.”; “Rogers Index Funds”; “Rogers International Commodity Fund, L.P.”; “Rogers International Raw Materials Fund, L.P.”; and “Rogers Raw Materials Index Fund, Ltd.” and the names and designations, marks and/or trademarks (which may be used by the Company solely for related marketing purposes of the Company in accordance with the terms hereof and with the prior written approval of Beeland Interests) “Jim Rogers”, “[[Rogers]]”, “Rogers”, Rogers’ likeness and Rogers’ signatures and “Beeland” (which is licensed only for use as a corporate name in accordance with the terms hereof) (collectively, the “Licensed Marks”), along with any associated goodwill, no matter whether such Licensed Marks have been registered inside or outside of the United States.
 
-Section 1.1. **Rights Licensed**. Subject to the terms of this Agreement, VSH hereby grants to VPG, and VPG hereby accepts, a limited, exclusive, royalty-free right and license, to use, directly or indirectly through subcontractors, the Marks (as defined below) and Names (as defined below) listed on Schedule A (the “Licensed Marks”) in connection with the design, development, manufacture, marketing, provision and performance of the products and services of VPG listed on Schedule B (the “VPG Products and Services”). Any use of the Licensed Marks on products other than those on Schedule B is subject to advance written approval by VSH. As used herein, “Mark” shall mean any trademark, service mark or logo, and “Name” shall mean any entity name or trade name.
+^The Company further acknowledges and agrees that, as among the Parties, Beeland Interests and/or Rogers are the owners of the Index’ the Licensed Marks and the following names and trademarks (collectively, including the Licensed Marks, the “BI Marks”), along with any associated goodwill, no matter whether such BI Marks have been registered inside or outside of the United States:
 
-Section 1.2. **Special ‘Mil’ Rights and SCDs (Customer Source Control Drawings)** **Licensed**. In recognition of the cost, difficulty and bureaucracy involved in attempting to change the voluminous documentation and specifications related to foil resistor products qualified to the Mil spec system used by the military and other special needs customers, this Mil rights license grant is made. Subject to the terms of this Agreement, VSH hereby grants to VPG, and VPG hereby accepts, a limited, exclusive, royalty-free right and license, to display VISHAY alone (i.e. without any other terms) (the “Licensed Mil Mark”) as a marking on foil resistor products qualified to the Mil spec system, i.e. built on “Mil Qualified” product lines or SCDs (Customer Source Control Drawings), existing as of the Effective Date or referred to in Mil drawings or
+Beeland 
 
-SCDs (Customer Source Control Drawings) existing as of the Effective Date, and on Mil drawings and SCDs relating thereto.
+[[Rogers]] : 
 
-Section 1.3. **Term and Territory**. The licenses granted hereby shall be in perpetuity so long as this Agreement has not been terminated by its terms (the “Term”) and shall apply throughout the world (the “Territory”). In the event the Term terminates, VPG agrees that within twenty-four (24) months thereafter, VPG will change its corporate name so as not to include the term VISHAY.
+James Beeland Rogers 
 
-Section 1.4. **Rights in VPG**. For the avoidance of doubt, this Agreement shall not restrict VPG from using the acronym “VPG” in any Name, or in any Mark, so long as such Name or Mark does not contain VISHAY (except as otherwise permitted pursuant hereto).
+Jim Rogers 
 
-Section 1.5. **Document and Part Numbers**. VPG shall be permitted to use any document number on data sheets, package drawings, instructions or other materials posted to the internet (each a “Document Number”) or any SKU number, part number, or other number and/or letter sequence printed on or identified with any part (each a “Part Number”) on or in connection with VPG Products and Services, so long as such Document Number or Part Number does not contain the prefix or suffix VSH.
+RICI 
 
-Section 1.6. **VPG Acknowledgement**. VPG acknowledges and agrees that: (i) VSH is the sole and exclusive owner of all right, title and interest in and to the Licensed Marks; (ii) all goodwill associated with the Licensed Marks shall inure to the sole and exclusive benefit of VSH; and (iii) nothing in this Agreement or any related agreement, instrument or document shall be construed to give VPG any legal or beneficial ownership interest in or title to the Licensed Marks.
+Rogers 
 
-Section 1.7. **Absence of VSH Representations**. VPG agrees and acknowledges that VSH makes no representation or warranty with respect to: (i) VSH’s right, title and interest in and to the Licensed Marks, (ii) the absence of any action related to or concerning the Licensed Marks, the outcome of which could be materially adverse to the rights granted to VPG under this Agreement; or (iii) the absence of any claim, or basis for any claim, that the use of the Licensed Marks by VPG under this Agreement violates the rights of any person.
+Rogers Index Funds 
 
-Section 1.8. **Restrictions**.  
+Rogers International Commodity Fund, L.P. 
 
-^^During the Term, and subject to section 1.8(e), VSH shall not, under a Mark or Name which includes the term VISHAY immediately followed by the term PRECISION: (i) directly or indirectly, design, develop, manufacture, market or provide any products, except to the extent such usage exists (and limited to those products with respect to which such usage exists) immediately following the Effective Date; or (ii) use such Mark or Name in connection with any aspect of its business, operations or affairs, whether conducted directly or indirectly, and whether or not such usage would otherwise require permission of VPG, except to the extent such usage is not otherwise prohibited by clause (i) of this paragraph. Without limitation, the foregoing restriction shall apply to the legal name or fictitious name (“d/b/a”) of any subsidiary of VSH or any other entity under the control of VSH.
+Rogers International Commodity Index 
 
-^^During the Term, VSH shall not, under a Mark or Name which includes the acronym “VPG”: (i) directly or indirectly, design, develop, manufacture, market or provide any products that overlap (i.e. compete) with any products within the product range of VPG or any of its subsidiaries as constituted immediately following the Effective Date; or (ii) use such acronym in connection with any aspect of its business, operations or affairs, whether conducted directly or indirectly, and whether or not such usage would otherwise require permission of VPG, except to the extent such usage is not otherwise prohibited by clause (i) of this paragraph. Without limitation, the foregoing restriction shall apply to the legal name or fictitious name (“d/b/a”) of any subsidiary of VSH or any other entity under the control of VSH.
+Rogers International Raw Materials Fund, L.P. 
 
-^^During the Term, except as otherwise permitted pursuant to this Agreement, VPG shall not, under a Mark or Name which includes the term VISHAY INTERTECHNOLOGY or VISHAY, or under the acronym VSH: (i) directly or indirectly, design, develop, manufacture, market or provide any products that overlap (i.e. compete) with any products within the product range of VSH or any of its subsidiaries as constituted immediately following the Effective Date; or (ii) use such Mark, Name or acronym in connection with any aspect of its business, operations or affairs, whether conducted directly or indirectly, and whether or not such usage would require permission of VSH, unless the term VISHAY is immediately followed by the term PRECISION (so long as the term PRECISION has no less prominence than the term VISHAY and such Name does not include the term VISHAY together with the term INTERTECHNOLOGY), except to the extent such usage is not otherwise prohibited by clause (i) of this paragraph. Without limitation, the foregoing restriction shall apply to the legal name or fictitious name (“d/b/a”) of any subsidiary of VPG or any other entity under the control of VPG.
+Rogers Raw Materials Fund, L.P. 
 
-^^For the avoidance of doubt, nothing in this Section 1.8 shall be construed to impose any restriction on the right of VPG to use the corporate name “Vishay Precision Group, Inc.” (i) in association with its business with respect to the VPG Products and Services, or (ii) with respect to the design, development, manufacture, marketing, provision or performance of goods and services other than the VPG Products and Services, so long as such other goods and services are not designed, developed, manufactured, marketed, provided or performed under a Mark containing the term VISHAY.
+Rogers Raw Materials Index Fund, Ltd. 
 
-^^For the avoidance of doubt, nothing in this Section 1.8 shall be construed to impose any restriction on the right of VSH to use the term PRECISION in a descriptive manner (but not as a Mark or Name) in connection with the design, development, manufacture, marketing, provision or performance of any goods or services, so long as the term PRECISION does not immediately follow the term VISHAY. A non-exhaustive, representative list of descriptive uses of the term PRECISION permissible by VSH, in marketing materials, engineering documents, data handbooks and packaging and similar materials, is shown on Schedule C.
+Jim Rogers International Raw Materials Fund 
 
-^STANDARDS AND COMPLIANCE  
+Jim Rogers Raw Materials Index Funds 
 
-Section 2.1. **Standards**. All VPG Products and Services designed, developed, manufactured, marketed, provided or performed under the Licensed Marks, as applicable, shall be of high quality, free of material defects and performed with integrity and in a professional manner and shall be in compliance with applicable law (the “Standards”).
+Rogers Metals Index Fund 
 
-Section 2.2. **Compliance Procedures**.  
+Rogers Agricultural Index Fund 
 
-^^VPG shall maintain appropriate process and quality controls with respect to the VPG Products and Services designed, developed, manufactured, marketed, provided or performed under the Licensed Marks to assure compliance with the Standards.
+Rogers Energy Index Fund 
 
-^^VSH, itself or through its representatives, shall have the right to request and receive from VPG, from time to time at reasonable intervals and upon payment to VPG of its reasonable charges, representative samples of VPG Products and copies of all marketing materials for VPG Products and Services designed, developed, manufactured, marketed, provided or performed under the Licensed Marks (“Promotional Materials”). If, in the commercially reasonable judgment of VSH, any VPG Products and Services or Promotional Materials do not conform to the Standards or are not otherwise in accord with this Agreement, VSH shall so notify VPG, and the parties shall work together in good faith in order that VPG will remedy such non-conformity or non-compliance. Any dispute under this Section shall be resolved in accordance with the resolution procedures referred to in Section 5.16.
+Rogers Raw Materials 
 
-Section 2.3. **Transition Period Activities**. Notwithstanding anything to the contrary herein, VPG shall be permitted to use the Licensed Marks in the manner and for the periods set forth below.
+Rogers International Commodities 
 
-^^Products: From the Effective Date until [[Date 2: Date]] (the “Initial Period”), VPG shall have the right to display VISHAY alone (i.e. without any other terms) as a marking on foil resistor products provided to any and all customers, and in drawings relating thereto. For a subsequent period of twenty-four (24) months following the Initial Period, i.e. until [[Date 3: Date]], VPG shall have the right to sell existing inventory of foil resistor product displaying the marking VISHAY to VPG customers in existence as of the last day of the Initial Period. Beginning [[Date 4: Date]], VPG shall have no right, other than as permitted by Section 1.2, to display VISHAY alone as a marking on any product or in any drawings.
+Rogersrawmatenals.com and any other names, designations, domain names, marks and/or trademarks developed by, or on behalf of, Rogers, Beeland Interests, the Company or any third party, that consist of, in whole or in part, the names and/or designations “RICI,” “Beeland” or “Rogers”, or Rogers’ likeness or signature. 
 
-^^Literature: For a period of twelve (12) months following the Effective Date, VPG shall have the right to distribute marketing materials, Data sheets, business cards, letter heads and forms displaying the term VISHAY in the manner such term in displayed in such materials as of the Effective Date. After that time, all marking of VPG literature shall comply with the terms of the license grants hereunder.
+^The Company shall (a) execute any other written documents required by Beeland Interests to confirm Beeland Interests’ ownership of the Index and/or the BI Marks along with any associated goodwill, and (b) assign at Beeland Interests’ request such rights to Beeland Interests and/or its designee at no cost to Beeland Interests or any such designee, along with any and all associated goodwill the Company acquires, or has acquired, by operation of law or otherwise, and any and all rights it has in or to any of the BI Marks and/or the Index. The Company further represents and warrants that it has not assigned, transferred, hypothecated, pledged or sublicensed any of the foregoing ownership or rights to any third party.
 
-^^Signage: For a period of twelve (12) months following the Effective Date, VPG shall have the right to display the term VISHAY on office signage in the manner such term is displayed as of the Effective Date. After that time, all VPG signage shall comply with the terms of the license grants hereunder.
+^Except for the license granted to the Company under Section I(A) hereof, Beeland . Interests and Rogers reserve all other rights in, and to, the Index and the BI Marks. Subject to the license granted to the Company under Section I(A) hereof, Beeland Interests and Rogers shall have the right to grant exclusive or nonexclusive licenses to use the BI Marks and Index inside and outside of the United States, including, but not limited to, use in connection with (a) any and all websites that use, or may use, BI Marks worldwide, and (b) any composite products, marks and/or services used, sold, marketed and/or distributed inside or outside of the United States, and for any and all other purposes, inside or outside of the United States.
 
-^ADDITIONAL MARKS; REGISTRATION OF MARKS; ENFORCEMENT
+^The’Company agrees that it shall not register the Licensed Marks or the BI Marks or confusingly similar trademarks or domain names anywhere in the world. The Company shall not use, or authorize the use of, the Licensed Marks on any website, except for “rogersrawmaterials.com” and “upsecurities.com”, provided, however, that such use is in accordance with, and subject to, all of the terms and conditions hereof, and consistent with the use of such marks prior to the date hereof, or as may be authorized by Beeland Interests in the future with prior approval in writing, and that any trademark or other proprietary notice as may be reasonably requested by Beeland Interests is included. The Company further agrees that it will not oppose any filings or registration by Rogers, Beeland Interests or his or its designated representatives, or assert any common-law right to the Licensed Marks, the BI Marks or similar marks. The Company shall not challenge Rogers’ or Beeland Interests’ ownership of the Index, or their ownership, or validity, of the BI Marks or any application by Rogers and/or Beeland Interests for registration thereof, or any trademark registration thereof, or any rights of Rogers and/or Beeland Interests therein.
 
-Section 3.1. **Additional Licensed Marks**. If VPG proposes to use any Mark or Name containing VISHAY that is not on Schedule A, prior to such use, VPG shall notify VSH in advance in writing, unless the term PRECISION immediately follows the term VISHAY in such Mark or Name (with the term PRECISION having no less prominence than the term VISHAY) and such Mark or Name does not include the term VISHAY together with the term INTERTECHNOLOGY. If VSH does not object in writing within thirty (30) business days after receipt of such notice, VSH shall be deemed to have approved the use of such Mark for the VPG Products and Services only, such Mark shall be deemed to be a Licensed Mark and such Mark shall be added to Schedule A. If VSH shall object to the use of a Mark by VPG, the parties shall resolve their dispute with respect to such objection in accordance with the resolution procedures referred to in Section 5.16. During the Term, VPG shall be permitted to use any Mark or Name in which the term VISHAY is immediately followed by the term PRECISION (so long as the term PRECISION has no less prominence than the term VISHAY and such Mark or Name does not contain the term VISHAY together with the term INTERTECHNOLOGY), on or in connection with the VPG Products and Services, without the need to seek consent to such use by VSH, and upon notification by VPG to VSH of any such use, such Mark or Name shall be added to Schedule A.
+^^^**TRANSFER OF APPLICATIONS AND REGISTRATIONS OF MARKS**
 
-Section 3.1. **Registration of Licensed Marks**. At VPG’s reasonable request and expense, VSH shall: (i) take all reasonably necessary steps to procure registration of any of the Licensed Marks for the VPG Products and Services; and (ii) maintain any and all such registrations in full force and effect during the Term so long as such Licensed Mark is being used by VPG, and VPG shall, at its sole expense, cooperate with VSH in connection with the forgoing. VPG shall not seek to register any of the Licensed Marks or any similar Marks, unless authorized by VSH in writing, and such registration shall be held by VPG on behalf of VSH.
+^In appreciation of the Company’s cooperation in clarifying the ownership of the Index and the BI Marks, and to compensate the Company for the reasonable costs and expenses the Company incurred, or may incur, with respect to the transfer and assignment provided for herein, Rogers agrees to pay the Company US$[[USD Value 1: Number]] (by personal check or wire transfer) within ten (10) business days after the date hereof.
 
-Section 3.2. **Domain Names**. VSH hereby licenses to, and approves of the use by VPG of the internet domain names containing the term VISHAY listed on Schedule D (“Licensed Domain Names”). VPG agrees that, in securing the registration of such domain names, it has acted as agent of VSH. If VPG proposes to secure the registration of any additional domain name containing the term VISHAY, it shall notify VSH in advance in writing, unless the term PRECISION immediately follows the term VISHAY in such domain name and such domain name does not include the term VISHAY together with the term INTERTECHNOLOGY. If VSH does not object in writing within thirty (30) business days after receipt of such notice, VSH shall be deemed to have approved VPG’s registration of such any such domain name, such domain name shall be deemed to be a Licensed Domain Name and such domain name shall be added to Schedule D. If VSH shall object to the registration of a domain name by VPG, the parties shall resolve their dispute with respect to such objection in accordance with the resolution procedures referred to in Section 5.16. Without the written consent of VSH, under no circumstances shall VPG transfer or assign the registration of any Licensed Domain
+^In connection with, and in furtherance of, the assignment and transfer of the trademarks and the applications for trademarks contemplated hereunder, the Company shall; (a) concurrently herewith execute and deliver the assignments in the form attached hereto as Exhibits A and B (including two (2) execution copies of Exhibit A and four (4) execution copies of Exhibit B) and the recordal of such assignment; (b) promptly execute and deliver any other instruments and documents reasonably required in connection with such assignment; and (c) promptly execute any other written documents or instruments reasonably required by Rogers and/or Beeland Interests to evidence Beeland Interests’ ownership of the Index and the BI Marks.
 
-Name to any person other than a wholly-owned subsidiary without the written consent of VSH or any other person to whom VPG is permitted to assign sublicense or otherwise transfer its rights under this Agreement pursuant to Section 5.5.
+^^^**QUALITY CONTROL; USE OF THE MARKS; INFRINGEMENT**
 
-Section 3.3. **Display of Marks**. The parties agree that it is in their mutual best interest that, and shall cooperate so that, subject to Section 1.2, the Licensed Marks utilized by VPG shall appear distinctive from Marks utilized by VSH, and the Marks utilized by VSH shall appear distinctive from the Licensed Marks utilized by VPG. Any dispute with respect to the appearance of a Licensed Mark or a VSH Mark shall be resolved in accordance with the resolution procedures referred to in Section 5.16.
+^The Company shall conduct its business using the Licensed Marks and the Index in a manner designed to enhance the reputation and integrity of Rogers, Beeland Interests, the Licensed Marks and the Index and the goodwill associated therewith. The Company shall not take any action that in any way might tend to diminish or disparage the value, goodwill or reputation of Rogers, Beeland Interests, the Index or the Licensed Marks, as well as the other BI Marks not licensed hereunder.
 
-Section 3.4. **Legal Notices**. VPG shall, to the extent commercially practicable, place appropriate notices (e.g. ® or ™) to designate the Licensed Marks as trademarks or service marks.
+^The Company shall, during the Term of this Agreement and thereafter:
 
-Section 3.5. **Enforcement**.  
+^^not do or permit to be done any act or thing which prejudices, infringes or impairs the rights and title which Rogers and/or Beeland Interests retains with respect to the Licensed Marks;
 
-^^VPG shall, at its own reasonable expense, cooperate fully and promptly with VSH in the protection of VSH’s rights in the Licensed Marks, in such manner and to such extent as VSH may reasonably request.
+^^except for the limited license granted hereunder, not represent that it has any right, title or interest in or to the Index or the Licensed Marks or in any registration for them;
 
-^^Each party shall promptly advise the other party in writing of any actual or potential infringement, or any other unauthorized use of or violation of any of the Licensed Marks of which it becomes aware (each an “Infringement”). VSH may take such action as it, in its sole discretion, deems necessary or advisable to stop any Infringement. VPG may request in writing that VSH institute an action to stop an Infringement. If VSH receives such a written request and does not institute such action within thirty (30) days, VPG shall be entitled to institute such action as it deems necessary or advisable to stop the Infringement, in which VSH shall be entitled to join. The party not taking the lead in any action shall cooperate fully with the other party at the other party’s reasonable request and expense.
+^^not register or attempt to register any trademarks, service marks, trade names, logos or domain names that are identical to, comprise or are confusingly similar to the Licensed Marks, or any other trademarks, service marks, trade names, logos or domain names of Rogers, Beeland Interests or any of his or its affiliates;
 
-^^Any monetary recovery or sums obtained in settlement of any action to stop an Infringement shall be allocated between VSH and VPG as shall be fair and equitable, taking into account their actual out-of-pocket costs and expenses, including reasonable attorneys’ fees, and the damages sustained by each of them. Any dispute with respect to the allocation of recoveries shall be resolved in accordance with the resolution procedures referred to in Section 5.16.
+^^not do anything, or produce any goods or services, in connection with the Index and/or the Licensed Marks that conflict with quality control standards enunciated by Beeland Interests from time to time or damage or reflect adversely upon Rogers, Beeland Interests or his or its affiliates or any of their respective trademarks, trade names or domain names;
 
-^TERMINATION  
+^^cooperate with Beeland Interests in taking all appropriate measures for the protection of the Index and the Licensed Marks, and shall faithfully observe and execute the requirements, procedures and directions of Beeland Interests with respect to the use and protection of the Index and the Licensed Marks, including proper employment of symbols and/or words in connection with its use of the Index and the Licensed Marks, which shall include, but not be limited to, in all publicly-disseminated materials using the Licensed Marks, distinguishing the Licensed Marks (through, e.g., capitalization or bold or italic type) from surrounding text, accompany the first, most prominent use or most prominent reference to the Licensed Marks with a “TM” or “®” symbol, as appropriate, including the words, “ is a trademark/service mark of [[Beeland Interests]]” or “ is a registered trademark/service mark of [[Beeland Interests]],” as applicable, and not use possessive references to the Licensed Marks; provided, however, that to the extent that the Company’s usage of the Licensed Marks as of the date hereof in the prospectuses for Rogers International Raw Materials Fund, L.P., Rogers Raw Materials Fund, L.P. and Rogers Raw Materials Index Fund, Ltd. does not conform with Beeland Interests’ standards set forth herein, such nonconforming usage shall not be considered a violation of this Section JV(B)(e) so long as the Company as soon as reasonably practicable takes such actions to correct such nonconforming use, but in no event more than ten (10) days following its receipt of a request from Beeland Interests of a request therefor.
 
-Section 4.1. **Termination by VSH**.  
+^^never, either directly or indirectly, contest Rogers’, Beeland Interests’ and/or his or its affiliates’ exclusive ownership of any of the Licensed Marks or the Index, as well as the other BI Marks not licensed hereunder, or the right to grant the license herein.
 
-^^This Agreement may be terminated by VSH if:
+^The Company shall not propose any material modification to the Index without consulting with Beeland Interests in advance. All modifications to the Index shall be subject to the prior approval of, and made by, Beeland Interests in its sole discretion.
 
-^^^VPG shall (x) willfully, intentionally and in bad faith breach any material provision of this Agreement or (y) willfully, intentionally and in bad faith fail to cure any other breach, (A) if under clause (x), such breach is not capable of cure; or (B) if under either clause (x) or (y), such breach is capable of cure, VSH has given written notice of such breach to VPG, and such breach has not been cured, or VSH has not commenced taking (and is not continuing to take) reasonable bona fide steps to cure such breach, within sixty (60) days of such notice; or
+^At the reasonable request of Beeland Interests and expense of the Company, at least once annually, the Company shall provide Beeland Interests with representative specimens showing the Company’s use of the Licensed Marks.
 
-^^^subject to and except as otherwise provided in Section 5.5, VPG shall, without the written consent of VSH, willfully and intentionally and in bad faith purport to assign, delegate or otherwise transfer any of its rights, benefits, powers, duties responsibilities or obligations under this Agreement in violation of this Agreement; or
+^The Company’s use of the Licensed Marks shall comply with all applicable laws and regulations.
 
-^^^VPG shall abandon the use of the Licensed Marks; or
+^Beeland Interests shall have the right to review the manner in which the Company uses the Index and the Licensed Marks. If Rogers and/or Beeland Interests determines, in his or its reasonable discretion, that the Company has failed to comply with the quality provisions set forth in this Agreement, such failure shall be deemed a default under this Agreement, and Rogers and/or Beeland Interests shall have the right, in his or its sole discretion, to terminate this Agreement and/or the license to use the Index and the Licensed Marks.
 
-^^^VPG shall file a petition under Chapter 7 of the U.S. Bankruptcy Code, or a petition under Chapter 7 of the U.S. Bankruptcy Code shall be filed involuntarily against VPG and shall not be dismissed within 90 days after VPG receives notice of such filing.
+^The Company shall notify Beeland Interests in writing of any distribution, sale or advertisement of any product or service that may constitute an infringement upon Rogers’ and/or Beeland Interests’ rights in, or Company’s authorized use of, the Index and/or the Licensed Marks. Company shall not, without the prior written consent of Rogers, commence, prosecute or institute any action or proceeding against any person, firm, or entity alleging infringement, imitation, or unauthorized use of the Index and/or the Licensed Marks.
 
-^^To effect the termination of this Agreement, VSH shall deliver to VPG a written notice of termination, which notice shall specify the basis therefor in reasonable detail and an effective date of termination not less than ninety (90) days after the date of delivery to VPG of the notice. If VPG disputes the right of VSH to terminate this Agreement under any of clauses (i), (ii) or (iii) of Section 4.1(a) and invokes the dispute resolution procedures referenced in Section 5.16 no later than fifteen (15) days after VPG has received notice of termination from VSH, and within such fifteen (15) day period provides notice thereof to VSH in writing, then if and only so long as VPG is in compliance with the procedures referenced in Section 5.16, termination shall not be deemed effective until (i) it shall be determined in accordance with the procedures referenced in Section 5.16 that VSH is entitled to terminate this Agreement or (ii) the parties shall otherwise agree.
+^Rogers and Beeland Interests (and not the Company) shall determine the appropriate action to be taken against any infringement, imitation, or unauthorized use of the Index and/or the Licensed Marks, including the settlement of any claims or any controversy arising out of any such claims. In the event such an action is taken, Company shall provide assistance as may be required in obtaining any protection of the rights to the Index and the Licensed Marks. The Company shall have no rights against Rogers or Beeland Interests for damages or otherwise by reason of any determination to act, or not to act, with respect to any alleged infringement, imitation or unauthorized use by others, nor shall any such determination of Rogers or Beeland Interests affect the validity or enforceability of this Agreement. Any and all damages and settlements recovered arising from any action or proceeding shall belong solely to Rogers and/or Beeland Interests.
 
-^^If VPG in good faith disputes that VSH has a valid basis for termination, the parties shall resolve such dispute in accordance with the resolution procedures referred to in Section 5.16.
+^**CONSULTING SERVICES**
 
-^^Nothing in this Section shall relieve VPG of liability for breach of this Agreement, whether or not VSH is entitled to terminate this Agreement on account of such breach.
+^Rogers shall provide consulting services to the Company, comparable or similar to such services provided by him prior to the date hereof, including, but not limited to, meeting with the management of the Company periodically to review the components and weighting of the Index and any sub-indices, provided, however, he shall not be required to provide such services if he reasonably determines, in his sole and reasonable discretion, that he is not in good health, has retired or generally ceased working, or if he is deceased.
 
-Section 4.2. **Termination of Rights**. Upon the termination of this Agreement, all rights of VPG granted hereunder shall terminate, and any registration of the foregoing by VPG shall, at VSH’s discretion, be abandoned or transferred to VSH. Notwithstanding the foregoing, VPG shall have the right to dispose of its then existing inventory of VPG Products and/or Promotional Materials bearing the Licensed Marks for a period of up to one (1) year from the date of termination of this Agreement. All costs associated with the foregoing shall be borne by VPG.
+^Subject to the foregoing provisions of this Section V, Rogers shall use reasonable efforts to promote the Index and the Company, including, but not limited to, using reasonable efforts to promote the Index and the Company, as appropriate, in the media and, as appropriate, in publications authored by Rogers and, at the reasonable request of the Company and at the convenience of Rogers, participating in presentations of Company products to institutional investors.
 
-Section 4.3. **Survival**. All rights and remedies of the parties in respect of any breach of this Agreement occurring prior to the effective date of its termination shall survive the termination of this Agreement. In addition, the following provisions of this Agreement shall explicitly survive its termination: Section 1.6 (“VPG Acknowledgment”); Section 1.7 (“Absence of VSH Representations”); Section 4.1(d) (“Termination by VSH”); Section 4.2 (“Termination of Rights”); this Section 4.3 (“Survival”); and Article 5 (“Miscellaneous”).
+^^^**TERM AND TERMINATION**
 
-^MISCELLANEOUS  
+^This Agreement shall become effective as of the date hereof, and shall terminate on [[Date 3]], unless terminated earlier as expressly provided in this Agreement (the “Term”).
 
-Section 5.1. **Notices**. All notices, demands and other communications required to be given to a party hereunder shall be in writing and shall be deemed to have been duly given if and when personally delivered; one business day after being sent by a nationally recognized overnight courier; when transmitted by facsimile and actually received; or five (5) days after being mailed by registered or certified mail (postage prepaid, return receipt requested) to such party at the relevant street address or facsimile number set forth below (or at such other street address or facsimile number as such party may designate from time to time by written notice in accordance with this provision):
+^Notwithstanding the foregoing, this Agreement shall terminate upon the occurrence of any of the following events:
 
-If to VSH:      With a copy to:
+^^expiration, dissolution or termination of the Company;
 
-Vishay Intertechnology, Inc.      Kramer Levin Naftalis & Frankel LLP
-^Lancaster Avenue      1177 Avenue of the Americas
-Malvern, PA 19366      New York, New York 10036
-Attn: Dr. Lior Yahalomi, Chief Financial Officer      Attn: Abbe Dienstag, Esq.
-Facsimile: [[Phone 1]]      Facsimile: [[Phone 2]]
-Confirm: [[Phone 3]]      Confirm: [[Phone 4]]
+^^the date upon which Rogers no longer holds any Interest in the Company, provided, however, at any time after the death of Rogers, this Agreement may terminate, in the sole discretion of, and at the option of, the executors of his estate or the successors in interest to Beeland Interests, upon three (3) months’ prior written notice to the Company;
 
-If to VPG:   With a copy to:
+^^if the Company fails to discharge a material obligation, or to correct a material default, hereunder, and fails to discharge such obligation or cure such material default within thirty (30) days after receiving written notice from Rogers or Beeland Interests specifying the material obligation or material default and indicating an intent to terminate this Agreement; or
 
-Vishay Precision Group, Inc.   Pepper Hamilton LLP
-^Great Valley Parkway   3000 Two Logan Square
-Malvern, PA 19355-1307   Eighteenth and Arch Streets
-Attn: William M. Clancy,   Philadelphia, PA 19103-2799
-Chief Financial Officer   Attn: Barry Abelson, Esq.
-Facsimile: [[Phone 5]]   Facsimile: [[Phone 6]]
-Confirm: [[Phone 5]]   Confirm: [[Phone 7]]
+^^as agreed by the Parties.
 
-Section 5.2. **Further Assurances**. In addition to the actions specifically provided for elsewhere in this Agreement, VSH and VPG agree to execute or cause to be executed and to record or cause to be recorded such other agreements, instruments and other documents, and to take such other action, as reasonably necessary or desirable to fully effectuate the intents and purposes of this Agreement.
+^Upon the expiration or the termination of this Agreement, the Company shall, as promptly as is commercially feasible, but in no circumstances later than three (3) months following the expiration or the termination of this Agreement, cease and desist all use of the Index and the Licensed Marks, and any names, designations or trademarks which consist, in whole or in part, of the Licensed Marks; provided, however, that in cases of termination in accordance with Section VI(B)(c), such use shall cease immediately. This Section VI and Sections II, III, IV(B), VII, VIII, IX, X and XI shall survive any expiration or termination of this Agreement.
 
-Section 5.3. **Relationship of the Parties**. This Agreement shall not be construed to place the parties in the relationship of legal representatives, partners, joint venturers or agents of or with each other. No party shall have any power to obligate or bind the other party in any manner whatsoever, except as specifically provided herein.
+^^^**FINAL AGREEMENT, WAIVER & MODIFICATION**
 
-Section 5.4. **Third Party Beneficiaries**. Except for the indemnification rights under this Agreement of any Indemnified Parties (as hereafter defined), the provisions of this Agreement are solely for the benefit of the parties hereto and their respective successors and permitted assigns, and are not intended to confer upon any person, except the parties hereto and their respective successors and permitted assigns, any rights or remedies hereunder.
+^This Agreement constitutes the final and complete understanding and agreement among Beeland Interests. Rogers and the Company concerning the subject matter hereof. Any prior agreements, understandings, negotiations or communications of any kind are deemed superseded by this Agreement. For the avoidance of doubt, the Parties further expressly agree that in the event any provision of this Agreement conflicts with or is inconsistent with any provision of that certain Subscription Agreement, dated [[Date 4: Date]], between Rogers and the Company or any subsequent version thereof (the “Subscription Agreement”), the provisions of this Agreement shall control and the Subscription Agreement shall be deemed to have been amended to the extent necessary to conform it with the provisions hereof.
 
-Section 5.5. **Assignment and Sublicense**.  
+^No waiver, alteration or modification of any of the provisions of this Agreement shall be valid unless signed in writing by the Parties hereto.
 
-^^The license shall be assignable or sublicenseable to any direct or indirect Majority Owned Subsidiary of VPG, provided that VPG shall be responsible for the compliance by any such Majority Owned Subsidiary with the terms of this Agreement. As used herein, “Majority Owned Subsidiary of VPG” means any subsidiary of VPG (x) of which both over [[Percentage 1: Number]]% of the voting securities and over [[Percentage 1]]% of the outstanding equity interests, whether voting or non-voting, are owned by VPG or by one or more of Majority-Owned Subsidiaries of VPG or by VPG and one or more of its Majority-Owned Subsidiaries, and (y) which is engaged in the design, development, manufacture, marketing, provision and performance of VPG Products and Services as part of the business of VPG under the management and control of VPG.
+^^^**NOTICES**
 
-^^If VPG shall sell or transfer its business of the design, development, manufacture, marketing, provision and performance of VPG Products and Services substantially as an entirety, to a single purchaser or other single transferee, whether such sale or other transfer is structured as a sale of stock, assets or otherwise, and thereafter VPG shall cease to be engaged in such business, the purchaser or other transferee shall succeed to the rights and obligations of VPG under this Agreement; provided such purchaser or other transferee shall execute documentation in form and substance reasonably satisfactory to VSH agreeing to be bound by the terms of this Agreement. For the avoidance of doubt, the following actions shall not be deemed an assignment, delegation or other transfer of VPG’s rights, benefits, powers, duties, responsibilities or obligations under this Agreement or the license granted hereby or any interest therein: (1) assignment or transfer of the stock of VPG, including by way of a merger, consolidation, or other form of reorganization in which outstanding shares of VPG are exchanged for securities, or (2) any transaction effected primarily for the purpose of (A) changing VPG’s state of incorporation or (B) reorganizing VPG into a holding company structure such that, as a result of any such transaction, VPG becomes a wholly-owned subsidiary of a holding company owned by the holders of VPG’s securities immediately prior to such transaction.
+All notices, requests, demands and other communications hereunder shall be in writing and shall be deemed given when delivered personally (or when personal delivery thereof is refused) or three (3) days after deposit in the United States mail, registered or certified, return receipt requested, postage prepaid, addressed to the other Parties hereto at the addresses set forth below or such other address as any Party may give in writing to the other Parties: 
 
-^^Except as provided in this Section, the license granted hereby shall be non-assignable and non- sublicenseable. Any purported license or assignment in violation of this Agreement shall be void.
+If to the Company, to: 
 
-^^This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns.
+[[Company]] 
 
-Section 5.6. **Press Releases; Public Announcements**. Neither party shall issue any release or make any other public announcement concerning this Agreement or the transactions contemplated hereby without the prior written approval of the other party, which approval shall not be unreasonably withheld, delayed or conditioned; provided, however, that either party shall be permitted to make any release or public announcement that in the opinion of its counsel it is required to make by law or the rules of any national securities exchange of which its securities are listed; provided further that it has made efforts that are reasonable in the circumstances to obtain the prior approval of the other party.
+[[Address 1: Address]] 
 
-Section 5.7. **Waiver of Defaults**. Waiver by any party hereto of any default by the other party hereto of any provision of this Agreement shall not be construed to be a waiver by the waiving party of any subsequent or other default, nor shall it in any way affect the validity of this Agreement or prejudice the rights of the other party thereafter to enforce each and ever such provision. No failure or delay by any party hereto in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege.
+Attention: Tom Price 
 
-Section 5.8. **Severability**. If any provision of this Agreement is determined by a court of competent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof shall remain in full force and effect and shall in no way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby, as the case may be, is not affected in any manner adverse to any party hereto or thereto. Upon such determination, the parties hereto shall negotiate in good faith in an effort to agree upon a suitable and equitable provision to effect the original intent of the parties hereto.
+With a copy to: 
 
-Section 5.9. **Indemnification**. Each of the parties shall indemnify, defend and hold harmless the other party, each of its respective current and former directors, officers and employees, and each of their respective heirs, executors, successors and assigns (“Indemnified
+Sidley Austin Brown & Wood LLP 
 
-Parties”), from and against any and all liabilities relating to, arising out of or resulting from any breach of, or failure to perform or comply with, any covenant, undertaking or obligation of, this Agreement by the indemnifying party. In addition, VPG shall indemnify, defend and hold harmless VSH and its other Indemnified Parties from and against any and all liabilities relating to, arising out of or resulting from the sale and/or provision of VPG Products and Services under the Licensed Marks. All indemnification procedures and payments shall be governed by Sections 5.6, 5.7 and 5.8 of the Master Separation Agreement between the parties, dated [[Date 5: Date]] (the “Master Separation Agreement”), as applicable.
+Bank One Plaza 
 
-Section 5.10. **LIMITATION OF LIABILITY**. IN NO EVENT SHALL VSH OR VPG BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INDIRECT, COLLATERAL, INCIDENTAL OR PUNITIVE DAMAGES OR LOST PROFITS OR FAILURE TO REALIZE EXPECTED SAVINGS OR OTHER COMMERCIAL OR ECONOMIC LOSS OF ANY KIND, ARISING OUT OF THIS AGREEMENT; PROVIDED, HOWEVER, THAT THE FOREGOING LIMITATIONS SHALL NOT LIMIT EITHER PARTY’S INDEMNIFICATION OBLIGATIONS WITH RESPECT TO THIRD PARTY CLAIMS.
+[[Address 2: Address]] 
 
-Section 5.11. **Confidential Information**. VSH and VPG shall hold and shall cause each of their respective affiliates, directors, officers, employees, agents, consultants, advisors and other representatives to hold, in strict confidence and not to disclose or release without the prior written consent of the other party, any and all proprietary or confidential information, material or data of the other party that comes into its possession in connection with the performance by the parties of their rights and obligations under this Agreement. The provisions of Section 4.6 of the Master Purchase Agreement shall govern, mutatis mutandis, the confidentiality obligations of the parties under this Section.
+Attention: James B. Biery, Esq. 
 
-Section 5.12. **Attorneys’ Fees**. In any action hereunder to enforce the provisions of this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys’ fees in addition to any other recovery hereunder.
+If to Rogers and/or Beeland Interests, to: 
 
-Section 5.13. **Governing Law**. This Agreement and the legal relations between the parties shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflict of laws rules thereof to the extent such rules would require the application of the law of another jurisdiction.
+Mr. [[Rogers]], Jr. 
 
-Section 5.14. **Consent to Jurisdiction**. Subject to the provisions referenced in Section 5.16, each of the parties irrevocably submits to the jurisdiction of the federal and state courts located in Philadelphia, Pennsylvania for the purposes of any suit, action or other proceeding to compel arbitration, for the enforcement of any arbitration award or for specific performance or other equitable relief pursuant to Section 5.15. Each of the parties further agrees that service of process, summons or other document by U.S. registered mail to such parties address as provided in Section 5.1 shall be effective service of process for any action, suit or other proceeding with respect to any matters for which it has submitted to jurisdiction pursuant to this Section. Each of the parties irrevocably waives any objection to venue in the federal and state courts located in Philadelphia, Pennsylvania of any action, suit or proceeding arising out of this Agreement or the transactions contemplated hereby.
+c/o [[Beeland Interests]] 
 
-Section 5.15. **Specific Performance**. The parties hereto agree that the remedy at law for any breach of this Agreement may be inadequate, and that any party hereto shall be entitled to specific performance in addition to any other appropriate relief or remedy, if and to the extent that the remedy of specific performance is available in accordance with Section 8.2(g) of the Master Separation Agreement. Such party may, in its sole discretion, to the extent necessary to prevent serious and irreparable harm as contemplated by Section 8.2(g) of the Master Separation Agreement, apply to a court of competent jurisdiction for specific performance or injunctive or such other relief as such court may deem just and proper in order to enforce this Agreement.
+[[Address 3: Address]] 
 
-Section 5.16. **Dispute Resolution**. The procedures set forth in Article VIII of the Master Separation Agreement shall apply to the resolution of all disputes arising under this Agreement, except that all proceedings provided for therein shall be conducted in Philadelphia, Pennsylvania.
+With a copy to: 
 
-Section 5.17. **Entire Agreement**. This Agreement and the Schedules hereto, as well as any other agreements and documents referred to herein, constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all previous agreements, negotiations, discussions, understandings, writings, commitments and conversations between the parties with respect to such subject matter.
+Kaye Scholer LLP 
 
-Section 5.18. **Waiver of Jury Trial**. Subject to Section 5.16, EACH OF THE PARTIES HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY COURT PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF AND PERMITTED UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT.
+[[Address 4: Address]] 
 
-Section 5.19. **Amendments**. No provisions of this Agreement shall be deemed amended, modified or supplemented by any party hereto, unless such amendment, supplement or modification is in writing and signed by the authorized representative of the party against whom it is sought to enforce such amendment, supplement or modification.
+Attention: Alice Young, Esq. 
 
-Section 5.20. **Counterparts**. This Agreement may be executed in any number of counterparts, including by facsimile or electronic signature, and each such counterpart shall be deemed an original instrument, and all of such counterparts together shall constitute but one agreement. A facsimile or electronic signature is deemed an original signature for all purposes under this Agreement.
+^^^**BINDING NATURE/ASSIGNMENT**
 
-\centered [SIGNATURE PAGES FOLLOW]
+^This Agreement shall inure to the benefit of, and shall be binding upon, the executors, administrators, successors and assigns of the Parties.
 
-IN WITNESS WHEREOF, the parties hereto have caused their duly authorized representatives to execute this Agreement as of the date first above written.
+^This Agreement is not transferable or assignable by any Party, except with the prior written consent of the other Parties. Any transfer or assignment in violation of this provision shall be null and void.
 
-VISHAY INTERTECHNOLOGY, INC.
+^**GOVERNING LAW AND LITIGATION**
 
-[[VISHAY INTERTECHNOLOGY INC. Signatory Email: Identity | Signature]]
+^This Agreement and the rights and obligations of the Parties hereunder shall be governed by and construed in accordance with the laws of the State of Illinois, without regard to its laws regarding conflict of laws.
+
+^All actions or proceedings arising out of or in connection with this Agreement shall be tried and litigated in the state or federal courts located in Chicago, Illinois.
+
+^^^**MISCELLANEOUS**
+
+^Titles and headings in this Agreement are for convenience of reference only and shall have no substantive effect.
+
+^The waiver by a Party of a breach or violation of any provision of this Agreement shall not operate as, or be construed to be, a waiver of any subsequent breach of the same or any other provision hereof. Delay in the enforcement of, or the insistence on the performance of, any right which arises upon the breach or violation of this Agreement shall not operate as a waiver of such or any subsequent breach or violation hereof.
+
+^In the event any provision of this Agreement is held to be invalid, illegal or unenforceable, such invalidity, illegality or unenforceability shall in no event affect, prejudice or disturb the validity of the remainder of this Agreement, which shall remain in full force and effect, enforceable in accordance with its terms.
+
+^This Agreement may be executed through the use of separate signature pages or in any number of counterparts, and each of such counterparts shall, for all purposes, constitute one agreement binding on the Parties, notwithstanding that all Parties are not signatories to the same counterpart.
+
+^Whenever the context of this Agreement requires, the gender of all terms herein shall include the masculine, feminine and neuter, and the reference to the singular of a term shall also include the plural thereof.
+
+\centered [Remainder of Page Intentionally Blank] 
+
+IN WITNESS HEREOF, the Parties have set their hands to this Agreement as of the date first above written. 
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
 __________________________________________
-{{VISHAY INTERTECHNOLOGY INC. Entity => By: [[VISHAY INTERTECHNOLOGY INC. Signatory First Name]] [[VISHAY INTERTECHNOLOGY INC. Signatory Last Name]]
-Title: [[VISHAY INTERTECHNOLOGY INC. Signatory Title]]}}
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
 
-Financial Officer
 
-VISHAY PRECISION GROUP, INC.
+/s/ [[Rogers]], Jr.
+[[Rogers]], Jr.
 
-[[VISHAY PRECISION GROUP INC. Signatory Email: Identity | Signature]]
+[[Beeland Interests]]
+
+[[Beeland Interests Signatory Email: Identity | Signature]]
 __________________________________________
-{{VISHAY PRECISION GROUP INC. Entity => By: [[VISHAY PRECISION GROUP INC. Signatory First Name]] [[VISHAY PRECISION GROUP INC. Signatory Last Name]]
-Title: [[VISHAY PRECISION GROUP INC. Signatory Title]]}}
+{{Beeland Interests Entity => By: [[Beeland Interests Signatory First Name]] [[Beeland Interests Signatory Last Name]]
+Title: [[Beeland Interests Signatory Title]]}}
 
-Financial Officer
 
-\centered SCHEDULE A*
+\centered **EXHIBIT A** 
 
-\centered LICENSED MARKS
+This Trademark Assignment (“Assignment”) is made as of [[Date 5: Date]], by and between [[Company]], an Illinois limited liability company, with a place of business at Chicago Illinois (“Assignor”), and [[Beeland Interests]], a Delaware corporation, with a place of business at [[Address 5: Address]] (“Assignee”). 
 
-^Trademarks and Trade Names  
-VISHAY (with respect to Section 1.2 only)
+**WHEREAS**, Assignor desires to assign, and Assignee desires to acquire, all of Assignor’s right, title, goodwill and interest, to the extent, if any, in and to the marks, applications and registrations listed on Schedule 1 (“Marks”). 
 
-VISHAY PRECISION  
-VISHAY FOIL RESISTORS  
-^Entity Names  
-Vishay - PM Belgium N.V. Vishay - Waste Collection Systems Belgium N.V. Vishay Tedea-Huntleigh (Beijing) Electronics Co., Ltd Vishay Precision Measurement Trading (Shanghai) Co., Ltd. Vishay Celtron Technologies (Tianjin) Co., Ltd Vishay PME France SARL Vishay Measurements Group France, S.A.S. Vishay Precision Foil GmbH Vishay Measurement Group GmbH Vishay Transducers India Limited Vishay Precision Transducers India Private Limited Vishay PM Onboard (Ireland) Limited
+**NOW THEREFORE**,for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Assignor hereby assigns, sells and transfers to Assignee all of Assignor’s right, title and interest in and to the Marks, including, without limitation: (a) the goodwill associated with the Marks and (b) the registrations and applications for registration of the Marks. Assignee may record this Assignment with the United States Patent and Trademark Office. 
 
-Vishay Precision Israel Ltd. Vishay Advanced Technologies, Ltd. Vishay Precision Foil K.K. Vishay Precision Holdings B.V. Vishay - Waste Collection Systems B.V. Vishay Revere Transducers Europe B.V. Vishay Nobel AS Vishay Precision Asia Investments Pte. Ltd. Vishay Precision España S.L. Vishay Nobel AB Vishay Celtron Technologies, Inc. Vishay Measurements Group UK Limited Vishay PM Group Limited Vishay PM Onboard Limited Vishay Precision Group, Inc. Vishay Measurements Group, Inc. Vishay Transducers Ltd.
+IN WITNESS WHEREOF, Assignor and Assignee have executed this Assignment as of the date first written above. 
 
-\centered A-1
+[[Company]]            [[Beeland Interests]]
 
-Vishay Precision Foil, Inc. Vishay BLH, Inc.
+[[Company            Beeland Interests Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company            Beeland Interests Entity => By: [[Company            Beeland Interests Signatory First Name]] [[Company            Beeland Interests Signatory Last Name]]
+Title: [[Company            Beeland Interests Signatory Title]]}}
 
-* Note that this Schedule A does not include the Marks set forth on Attachment 1 to Schedule 1.3 or the entity names set forth on Schedule 2.4(a)(iii) (which are not otherwise listed on this Schedule A) to the Master Separation Agreement, inasmuch as those Marks and entity names are owned by VPG and no license from VSH is required for VPG’s use of such Marks and entity names.
+**Name:**      Walter Thomas Price III                  [[Rogers]], Jr., President
+**Title:**      Managing Member
 
-\centered A-2
+State of Illinois      )
+)
+County of Cook      )
 
-\centered SCHEDULE B
+On 15th [[Date 6: Date]], before me appeared Walter T. Price, III, who signed this instrument on behalf of [[Company]], and acknowledged that he signed it on behalf of such entity as Managing Member of the identified corporation and pursuant to authority duly received. 
 
-\centered VPG PRODUCTS AND SERVICES
+My commission expires:            /s/ Susanna W. Jung
+Notary Public
 
-*   Foil resistor strain gages
-*   Transducers (a/k/a load cells) utilizing foil resistor strain gages
-*   Electronic instruments that measure and control output of transducers utilizing foil resistor strain gages, and instruments to measure strain
-*   Systems for process and force measurement control and on-board weighing
-*   Foil resistors and current sensors
-*   Design, planning, testing, troubleshooting, technical assistance, engineering assistance, training and similar services provided or performed by VPG on behalf of its customers in connection with any of the foregoing
-*   Any additional products as long as such products do not overlap (i.e. compete) with any products within the product range of VSH or any of its subsidiaries as constituted immediately following the Effective Date.
+State of NY      )
+)
+County of NY      )
 
-\centered B-1
+On 14th [[Date 6]], before me appeared [[Rogers]], Jr., who signed this instrument on behalf of [[Beeland Interests]], and acknowledged that he signed it on behalf of [[Beeland Interests]] as President of such entity and pursuant to authority duly received. 
 
-\centered SCHEDULE C
+My commission expires:            /s/ George Grossman
+Notary Public
 
-\centered NON-EXHAUSTIVE LIST OF PERMISSIBLE USES OF PRECISION BY VSH
+\centered **SCHEDULE 1** 
 
-^“Vishay” and “precision” separated, other than by a blank, e.g.
+Marks Registered and Applied-For in the United States Patent and Trademark Office: 
 
-*   Vishay’s precision … *   Vishay – precision … *   Vishay: precision … *   … Vishay. Precision …. (end and start of sentences)
+**Mark**      **Registration No. (or Serial No.)**      **Registration Date (or Filing Date)**
+Rogers International Commodity Index      2,616,336      [[Date 7: Date]]
 
-^Vishay Logo followed with “Precision” in text.
+Rogers Raw Materials Fund, LP      2,577,188      [[Date 8: Date]]
 
-^“Vishay + brand + precision”, e.g.
+RICI      (78/505,420)      ([[Date 9: Date]])
 
-*   Vishay Sfernice Precision … *   Vishay Sfernice precision pots *   Vishay Sfernice precision metal film resistors *   Vishay Sfernice precision wire wound resistors *   Vishay Dale Precision …. *   Vishay Spectrol precision …. *   Vishay Spectrol precision pots *   Vishay BCcomponents Precision …. *   Vishay Spectrol Ultra Precision Hall effect Rotary position sensor *   Vishay Dale Precision Wire Wound Resistors
+Marks Not Registered:
 
-^“Vishay + technology + precision”, e.g.
+Beeland
 
-*   Vishay Film capacitors precision *   Vishay Thin film precision resistors (Dale TFNA, Sfernice) *   Vishay Thin Film Precision Networks
+Rogers
 
-^“Precision…” at the beginning of a sentence (i.e. preceded by no word), e.g.
+Rogers Index Funds
 
-*   Precision wire wound resistors (Dale) *   Precision power (Dale) *   Precision film (Dale) *   Precision Thin Film (Dale - TFNA) *   Precision Thin Film Technology (Dale - TFNA) *   Precision Low TCR Thin Film (Dale - TFNA) Precision Non Magnetic Thin Film Resistors (Dale - TFNA) *   Precision Automotive Thin Film (Dale - TFNA) *   Precision Matched Pair resistors SOT-23 *   Precision Ultra Frequency Resistors (FC series in Thin Film)
+Rogers International Commodity Fund, L.P.
 
-\centered C-1
+Rogers Raw Materials Index Fund, Ltd.
 
-*   Precision MKP 416…20 (film capacitors) *   Precision Thin Film Chip Resistor Arrays (Draloric Beyschlag) *   Precision Thin Film Chip Resistors (Draloric Beyschlag) *   Precision Wire wound Cemented Resistors (Draloric Beyschlag) *   Precision film capacitors *   Precision [[Percentage 2: Number]]% to [[Percentage 3: Number]]%…KP 1830 (film capacitors) *   Precision Feel Rotary Potentiometers (Spectrol 21P)
+Rogers International Raw Materials Fund, L.P.
 
-^Other uses of word “precision” where preceded by various words, e.g.
+Jim Rogers International Raw Materials Fund
 
-*   KP Polypropylene film / foil precision capacitors *   High Precision Thin Film Chip Resistor *   High Precision MELF Resistor *   High Precision MINI-MELF Resistor *   High Precision Thin Film Leaded Resistor *   High Precision Metal Film Leaded Resistor *   High Precision Thin Film Chip Resistor Arrays *   High precision …(Dale) *   Very High Precision Thin Film Chip Resistor *   Very High Precision MELF Resistor *   Very High Precision MINI-MELF Resistor *   Very High Precision Thin Film Leaded Resistor *   Very High Precision Metal Film Leaded Resistor *   Very High Precision Thin Film Chip Resistor Arrays *   Ultra Precision Thin Film Chip Resistor Arrays *   Ultra Precision Thin Film Chip Resistor *   Ultra Precision MELF Resistor *   Ultra Precision MINI-MELF Resistor *   Ultra Precision Thin Film Leaded Resistor *   Ultra-Precision Thin Film Flat Chip Resistors *   Ultra Precision Metal Film Leaded Resistor *   Ultra Precision Silicon Based RF Capacitors *   Cemented Wirewound Precision Resistors *   Semi Precision Thick Film Chip Resistors *   Frequency Precision Surface mount Inductors *   ACAC 0612 Precision Thin Film Chip Resistor Arrays *   ACAS 0612 AT Precision Thin Film Chip Resistor Arrays *   ACAS 0606 AT Precision Thin Film Chip Resistor Arrays
+Jim Rogers Raw Materials Index Funds
 
-^“Precision …” in a sentence following “Vishay Intertechnology Inc.”, e.g.
+\centered **EXHIBIT B** 
 
-*   “Vishay Intertechnology Inc. Precision …”
+This Trademark Assignment (“Assignment”) is made as of [[Date 5]], by and between [[Company]], an Illinois limited liability company, with a place of business at 141 W Jackson Chicago, IL 60604 (“Assignor”), and [[Beeland Interests]], a Delaware corporation with a place of business at [[Address 5: Address]] (“Assignee”). 
 
-\centered C-2
+**WHEREAS,** Assignor desires to assign, and Assignee desires to acquire, all of Assignor’s right, title, goodwill and interest, to the extent, if any, in and to the marks, applications and registrations listed on Schedule 1 (“Marks”). 
 
-\centered SCHEDULE D
+**NOW THEREFORE,** for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Assignor hereby assigns, sells and transfers to Assignee all of Assignor’s right, title and interest in and to the Marks, including, without limitation: (a) the goodwill associated with the Marks and (b) the registrations and applications for registration of the Marks. Assignee may record this Assignment with the appropriate trademark authorities. 
 
-\centered LICENSED DOMAIN NAMES
+IN WITNESS WHEREOF, Assignor and Assignee have executed this Assignment as of the date first written above. 
 
-vishayprecision vishayfoilresistors vishaymeasurementsgroup vishaymg vishaynobel vishaypg vishaypgloadcells
+[[Company]]            [[Beeland Interests]]
 
-\centered D-1
+By:      [[By Signatory Email: Identity | Signature]]
+__________________________________________
+{{By Entity => By: [[By Signatory First Name]] [[By Signatory Last Name]]
+Title: [[By Signatory Title]]}}
+
+Name:      Walter Thomas Price III                  [[Rogers]], Jr., President
+Title:      Managing Member
+
+State of Illinois      )
+)
+County of Cook      )
+
+On 15th [[Date 6]], before me appeared Walter T. Price III, who signed this instrument on behalf of [[Company]], and acknowledged that he signed it on behalf of such entity as Managing Member of the identified corporation and pursuant to authority duly received. 
+
+My commission expires:            /s/ Susanna W. Jung
+Notary Public
+
+State of NY      )
+)
+County of NY      )
+
+On 14th [[Date 6]] before me appeared [[Rogers]], Jr., who signed this instrument on behalf of [[Beeland Interests]], and acknowledged that he signed it on behalf of [[Beeland Interests]] as President of such entity and pursuant to authority duly received. 
+
+My commission expires:            /s/ George Grossman
+Notary Public
+
+\centered **SCHEDULE 1** 
+
+Marks Registered and Applied-For: 
+
+**Mark**      **Registration No. (or Serial No.)**      **Registration Date (or Filing Date)**
+**Japan**
+
+RICI      (2004-100046)      ([[Date 10: Date]])
+
+Rogers International Commodity Index      (2004-100047)      ([[Date 10]])
+
+**European Community**
+
+RICI      (4105698)      ([[Date 11: Date]])
+
+Rogers International Commodity Index      (4105755)      ([[Date 11]])

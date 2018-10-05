@@ -1,129 +1,132 @@
+**EMPLOYEE FORM**  
+
 \centered **STOCK OPTION AGREEMENT** 
 
-**THIS STOCK OPTION AGREEMENT**  (the “Agreement”), made this  day of , 20, between [[Corporation]], a [[State of Formation: State]] [[Organization: EntityType]] (the “Corporation”), and  (the “Participant”). 
+This Agreement is dated as of [Date] and is entered into by and between Westwood One, Inc. (“Westwood” or “Company”) and [Name] (“Participant”). Reference is made to the Company’s 2010 Equity Compensation Plan (the “Plan”). Pursuant to the Plan, the Company grants a Non-Qualified Stock Option or an Incentive Stock Option (either, a “Stock Option” herein) to purchase shares of the Common Stock, $.01 par value per share, of the Company (“Common Stock”) as set forth below. A summary is set forth in the attached Exhibit “A” which is incorporated by this reference. 
 
-\centered **WITNESSETH:** 
+Notwithstanding anything herein to the contrary, the Stock Option awarded herein is subject to approval of the Plan by the stockholders of the Company at or prior to the 2010 Annual Meeting of Stockholders of the Company and in the event that such approval is not received, this Agreement shall be null and void *ab initio* and the Stock Option awarded herein shall not be valid. 
 
-**WHEREAS**, the Participant is an employee and executive officer of the Corporation; and 
+The parties agree to the following terms and conditions: 
 
-**WHEREAS**, the Corporation adopted the Amended and Restated [[Corporation]] 2005 Long-Term Incentive Plan (the “Plan”) in order to provide non-employee directors and select officers and key employees with incentives to achieve long-term corporate objectives; and 
+^Definitions. Unless otherwise defined in this Agreement, terms used in this Agreement will have the meanings as set forth in the Plan.
 
-**WHEREAS**, the Compensation Committee of the Corporation’s Board of Directors decided that the Participant should be granted stock options to purchase shares of the Corporation’s common stock, $[[USD Value 3: Number]] par value per share (“Common Stock”), on the terms and conditions set forth below, and in accordance with the terms of the Plan. 
+^Grant of Stock Option. The Company grants to Participant a Stock Option of the type set forth in Exhibit “A” to purchase all or part of [Number] shares of Common Stock at the price of $ per share subject to the terms and conditions of the Plan. The number of shares subject to such Stock Option and the price per share are subject to adjustment in certain events as provided in the Plan.
 
-**NOW, THEREFORE**, in consideration of the covenants and agreements herein contained and intending to be legally bound hereby, the parties hereto agree as follows: 
+^Term of Stock Option.
 
-^**Grant of Options**.  
+^Unless otherwise terminated pursuant to this Agreement or the Plan, each Non-Qualified Stock Option will expire as provided in Paragraph 6 hereof. However, expiration will not occur later than ten years from the date of grant.
+^Each Incentive Stock Option will expire as provided in Paragraph 6 hereof, but not later than ten years from the date of grant, or five years in the case of a Ten Percent Stockholder.
 
-Subject to the terms and conditions of this Agreement, the Corporation hereby grants to the Participant the right and option to purchase up to a total of ___ shares of the Common Stock of the Corporation, at the option price of $  per share (the “Options”). 
+^Vesting of Stock Option. The Stock Option may be exercised, in whole or in part, at any time or from time to time during the balance of the term of the Stock Option pursuant to the vesting schedule set forth in Exhibit “A”, subject to Paragraphs 7 and 12 hereof. **[ADD IF DESIRED:** Notwithstanding the forgoing, in the event that a written employment agreement between the Company and the Participant provides for a vesting schedule that is more favorable than the vesting schedule provided in this Agreement, then the vesting schedule in such employment agreement shall govern, provided that such employment agreement is in effect on the date of grant and that such vesting schedule set forth in such employment agreement applies to the Stock Option granted herein.**]** The minimum number of shares of Common Stock for which this Stock Option may be exercisable at any one time is one hundred (100), unless the number of shares exercisable thereunder is less than one hundred (100). The Stock Option may only be exercised by the Participant (or by his or her guardian or legal representative), except as provided in Subparagraph 6.A. hereof in the case of the Participant’s death.
 
-The Options shall consist of options to purchase shares of Common Stock intended to qualify as incentive stock options (“ISOs”) within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”), and options to purchase  shares of Common Stock not intended to qualify as ISOs (“Nonstatutory Options”). 
+^^^^^ 
+^Manner of Exercise. This Stock Option may be exercised in whole or in part, by delivering to the Company a Notice of Exercise identical to Exhibit “B” attached to this Agreement stating the number of shares with respect to which the Stock Option is being exercised. The Company will have no obligation upon exercise of any Stock Option, until payment has been received by the Company for all sums due with respect to such exercise, including the Participant’s federal, state and local income and employment taxes. Shares of Common Stock purchased upon the exercise of this Stock Option must be paid for in full by one or a combination of the following methods: (i) in cash or by check, bank draft or money order payable to the order of the Company; (ii) solely to the extent permitted by applicable law, if the Common Stock is traded on any national securities exchange, and the Committee authorizes, through a procedure whereby the Participant delivers irrevocable instructions to a broker reasonably acceptable to the Committee to deliver promptly to the Company an amount equal to the purchase price; or (iii) on such other terms and conditions as may be acceptable to the Committee (including, without limitation, the relinquishment of Stock Options or by payment in full or in part in the form of shares of Common Stock for which the Participant has good title free and clear of any liens and encumbrances) based on the Fair Market Value of the Common Stock on the payment date as determined by the Committee).
 
-^**Period of Exercise**.  
+^Termination.
 
-The Options shall become exercisable by the Participant in five installments. Subject to the accelerated vesting provided for in Sections 8, 9 and 10 below, at any time during the term of the Options, the maximum number of shares of Common Stock the Participant may purchase by exercising Nonstatutory Options, and the maximum number which the Participant may purchase by exercising ISOs, shall be limited as specified in the following schedule: 
+^Upon the Participant’s termination of service all then vested Stock Options shall remain exercisable as follows, but in no event later than ten years after the grant date: (i) three years in the event of the Participant’s Retirement; (ii) one year in the event of the Participant’s death (in which case the Participant’s estate or legal representative may exercise such Stock Option) or (iii) three months for any other termination of service (other than for Cause). **[ADD IF DESIRED:** Notwithstanding the forgoing, in the event that a written employment agreement between the Company and the Participant provides for exercise periods following termination of service that are more favorable than the exercise periods provided in this Agreement, then the exercise periods in such employment agreement shall govern, provided that such employment agreement is in effect on the date of grant and that such exercise periods set forth in such employment agreement apply to the Stock Option granted herein.**]**
+^Upon the Participant’s termination of service for Cause, all outstanding Stock Options (whether vested or unvested) shall immediately terminate upon such termination.
+^Stock Options that are not vested as of the date of the Participant’s termination of service for any reason shall terminate and expire as of the date of such termination.
+
+^^^^^ 
+^**[ADD IF DESIRED** **AND** **CHANGE IN CONTROL VESTING PROVISION IS NOT ADDED TO “EXHIBIT A”:** Change in Control. This Stock Option shall be subject to the provisions of the Plan and unless there is a written employment agreement between the Company and the Participant that provides for vesting upon a Change in Control or upon the occurrence of an event (i.e., a termination of employment) following a Change in Control, then unless otherwise provided by the Committee in its sole discretion, this Stock Option will not vest upon a Change in Control or upon the occurrence of an event following a Change in Control.**]**
+
+^Assignment or Transfer. This Stock Option is not: (i) assignable or subject to any encumbrance, pledge or charge of any nature, whether by operation of law or otherwise; (ii) subject to execution, attachment or any legal or quasi-legal process similar to execution or attachment; or (iii) transferable other than by will or by the laws of descent and distribution.
+
+^No Rights as Stockholder. The Participant, and any beneficiary or other person claiming under or through him or her, will not have any right, title or interest in or to any shares of Common Stock allocated or reserved for the Plan or subject to this Stock Option except as to such shares of Common Stock, if any, as have been previously sold, issued or transferred to him or her.
+
+^Modification and Termination. The rights of the Participant are subject to modification and termination in certain events as provided in the Plan. The Participant acknowledges receipt of a copy of the Plan by signing and returning a copy of this Agreement to the Company. Except as otherwise provided in the Plan, no amendment or discontinuance of the Plan will adversely affect this Stock Option, except with the consent of the Participant. No modification of this Agreement may be made other than in a writing signed by the Company and the Participant.
+
+^Securities Representations. The grant of this Stock Option and issuance of shares of Common Stock upon exercise of this Stock Option shall be subject to, and in compliance with, all applicable requirements of federal, state or foreign securities law. No shares of Common Stock may be issued hereunder if the issuance of such Common Stock would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Common Stock may then be listed. As a condition to the exercise of the Stock Options, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate to evidence compliance with any applicable law or regulation.
+
+The Common Stock is being issued to the Participant and this Agreement is being made by the Company in reliance upon the following express representations and warranties of the Participant. The Participant acknowledges, represents and warrants that: 
+
+^the Participant has been advised that the Participant may be an “affiliate” within the meaning of Rule 144 under the Securities Act and in this connection the Company is relying in part on the Participant’s representations set forth in this Section;
+
+^^^^^ 
+^the Common Stock must be held indefinitely by the Participant unless (i) an exemption from the registration requirements of the Securities Act is available for the resale of such Shares or (ii) the Company files an additional registration statement (or a “re-offer prospectus”) with regard to the resale of such Common Stock and the Company is under no obligation to continue in effect a Form S-8 Registration Statement or to otherwise register the resale of the Common Stock (or to file a “re-offer prospectus”);
+^the exemption from registration under Rule 144 will not be available under current law unless (i) a public trading market then exists for the Common Stock, (ii) adequate information concerning the Company is then available to the public, and (iii) other terms and conditions of Rule 144 or any exemption therefrom are complied with and that any sale of the Common Stock may be made only in limited amounts in accordance with such terms and conditions.
+
+^Six (6) Month Holding Period. A Participant is prohibited from selling or otherwise disposing of shares of Common Stock received upon the exercise of this Stock Option within six (6) months from the date the Stock Option is granted.
+
+^No Obligation to Continued Service. This Agreement is not an agreement of employment or for other services. This Agreement does not guarantee that the Company will employ or retain the Participant for any specific time period, nor does it modify in any respect the Company’s right to terminate or modify the Participant’s service relationship or compensation at any time.
+
+^Provisions of Plan Control. This Agreement is subject to all of the terms, conditions and provisions of the Plan, including, without limitation, the amendment provisions thereof, and to such rules, regulations and interpretations relating to the Plan as may be adopted by the Committee and as may be in effect from time to time. The Plan is incorporated herein by reference. If and to the extent that this Agreement conflicts or is inconsistent with the terms, conditions and provisions of the Plan, the Plan shall control, and this Agreement shall be deemed to be modified accordingly. This Agreement contains the entire understanding of the parties with respect to the subject matter hereof (other than any exercise notice or other documents expressly contemplated herein or in the Plan) and supersedes any prior agreements between the Company and the Participant with respect to the subject matter hereof.
+
+\centered *[Remainder of Page Left Blank]* 
+
+^^^^^ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement. 
 
 \centered 
 
-MAXIMUM NUMBER OF SHARES    MAXIMUM NUMBER OF THAT MAY BE PURCHASED BY    SHARES THAT MAY BE EXERCISING NONSTATUTORY    PURCHASED BY PERIOD    OPTIONS    EXERCISING ISOs From , 20to , 20    Up to  shares    Up to  shares 
+WESTWOOD ONE, INC.        PARTICIPANT 
 
-From , 20 to , 20    Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)    Up to  shares (less any shares previously purchased by exercising ISOs) 
-
-From , 20 to , 20    Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)    Up to  shares (less any shares previously purchased by exercising ISOs) 
-
-From , 20to , 20    Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)    Up to  shares (less any shares previously purchased by exercising ISOs)  
-
-^^^^^ 
-\centered 
-
-MAXIMUM NUMBER OF SHARES    MAXIMUM NUMBER OF THAT MAY BE PURCHASED BY    SHARES THAT MAY BE EXERCISING NONSTATUTORY    PURCHASED BY PERIOD    OPTIONS    EXERCISING ISOs From , 20 to , 20    Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)    Up to  shares (less any shares previously purchased by exercising ISOs)  
-
-If, during any of these periods, the Participant fails to exercise the Options with respect to all or any portion of the shares that may be acquired at such time, the Participant shall be entitled to exercise the Options with respect to the remaining portion of such shares at any subsequent time prior to the termination date of the Options. 
-
-The Options intended to be ISOs are subject to the $[[USD Value 1: Number]] annual limit on vesting of ISOs as set forth in Section 422(d) of the Code. To the extent the aggregate fair market value (determined at the date of grant) of the shares of Common Stock with respect to which those ISOs first become exercisable by the Participant during any calendar year under this Section 2 (when aggregated with any prior ISOs granted to the Participant under stock option plans of the Corporation) exceeds $[[USD Value 2: Number]] whether by reason of accelerated vesting under Sections 8, 9 or 10 or otherwise, the Options shall consist of ISOs for the maximum number of shares that may be covered by ISOs without violating Section 422(d) of the Code, and the remaining Options becoming exercisable in that year shall be treated as Nonstatutory Options. 
-
-^**Termination Date of Options**.  
-
-The Options granted herein shall terminate on , 20, the tenth anniversary of the date of grant, and the Participant shall have no right to exercise the Options at any time thereafter. 
-
-^**Manner of Exercise**.  
-
-If the Participant elects to exercise the Options to purchase shares of Common Stock, the Participant shall give written notice of such exercise to the Corporate Secretary of the Corporation. The notice of exercise shall state the number of shares of Common Stock as to which the Options are being exercised, and the Corporation shall determine whether the Options exercised are ISOs or Nonstatutory Options. 
-
-The Participant may exercise the Options to purchase all, or any lesser whole number, of the number of shares of Common Stock that the Participant is then permitted to purchase under Section 2. 
-
-^**Payment for Shares**.  
-
-Full payment of the option price for the shares of Common Stock purchased by exercising the Options shall be due at the time the notice of exercise is delivered pursuant to Section 4. Such payment may be made (i) in cash, (ii) by delivery of shares of Common Stock currently owned by the Participant with a fair market value equal to the option price, or (iii) in any other form acceptable to the Corporation. 
-
-Alternatively, the Participant shall be deemed to have paid the full option price due upon exercise of the Options, if the Participant’s notice of exercise is accompanied by an irrevocable instruction to the Corporation to deliver the shares of Common Stock issuable upon exercise of the Options (less any shares withheld to satisfy the Participant’s tax obligations pursuant to Section 7 below) promptly to a broker-dealer designated by Participant, together with an irrevocable instruction to such broker-dealer to sell at least that portion of the shares necessary to pay the option price (and any tax withholding related expenses specified by the parties), and that portion of the sale proceeds needed to pay the option price is delivered directly to the Corporation no later than the close of business on the settlement date. 
-
-^**Issuance of Stock Certificates for Shares**. 
-
-The stock certificates (or other evidence of ownership) for any shares of Common Stock issuable to the Participant upon exercise of the Options shall be delivered to the Participant (or to the person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution) as promptly after the date of exercise as is feasible, but not before the Participant has paid the option price for such shares and made any arrangements for tax withholding, as required by Section 7. 
-
-^**Tax Withholding**.  
-
-Whenever the Participant exercises Options, the Corporation shall notify the Participant of the amount of tax (if any) that must be withheld by the Corporation under all applicable federal, state and local tax laws. With respect to each exercise of the Options, the Participant agrees to make arrangements with the Corporation to (a) remit the required amount to the Corporation in cash, (b) authorize the Corporation to withhold a portion of the shares of Common Stock otherwise issuable upon the exercise with a value 
-
-^^^^^ 
-equal to the required amount, (c) deliver to the Corporation shares of Common Stock with a value equal to the required amount, (d) authorize the deduction of the required amount from the Participant’s compensation, or (e) otherwise provide for payment of the required amount in any other manner satisfactory to the Corporation. 
-
-^**Termination of Employment; Change in Corporate Control**. 
-
-In the event of a Change in Corporate Control (as described below), or if the Participant’s employment with the Corporation is terminated before the Options expire or have been exercised with respect to all of the shares of Common Stock subject to the Options (as provided in subsections (a) and (b) below), the Participant shall have the right to exercise the Options during a period of ninety (90) days following the date of the Change in Corporate Control or termination of employment (as applicable), but in no event later than , 20, and the Options shall expire at the end of such period. 
-
-^^In the event of a Change in Corporate Control, or if the Participant’s employment is terminated involuntarily without “Cause” (as defined in the Participant’s Employment Agreement), any portion of the Options not previously exercisable under Section 2 shall become immediately exercisable. 
-
-^^In the case of an involuntary termination not described in subsection (a) above, or a voluntary termination by the Participant not following a Change in Corporate Control, the maximum number of shares the Participant may purchase by exercising the Options shall be the number of shares which could be purchased at the date of termination pursuant to Section 2. 
-
-For purposes of this Section 8, termination of employment as a result of the expiration of the Participant’s Employment Agreement shall be considered a voluntary termination if the notice of non-renewal was delivered by the Participant and an involuntary termination if the notice of non-renewal was delivered by the Corporation and in both instances, the Participant is no longer employed by the Corporation. 
-
-For purposes of this Section 8, a “Change in Corporate Control” shall have the meaning set forth in the Participant’s Employment Agreement. To the extent that there is a conflict between the definition set forth in the Participant’s Employment Agreement and the definition set forth in the Plan, the definition of “Change in Corporate Control” set forth in the Participant’s Employment Agreement shall control. 
-
-^**Effect of Death**.  
-
-If the Participant dies before the Options expire or have been exercised with respect to all of the shares of Common Stock subject to the Options, any portion of the Options not previously exercisable under Section 2 shall become exercisable, and the Participant’s executor, administrator, or any person to whom the Options may be transferred by the Participant’s will or by the laws of descent and distribution, shall have the right to exercise the Options, to the extent not previously exercised, at any time prior to the first anniversary of the date of death, but in no event later than , 20. For this purpose, the terms of this Agreement shall be deemed to apply to such person as if he or she was the Participant. 
-
-^**Effect of Permanent and Total Disability or Retirement After Age 65**. 
-
-If the termination of the Participant’s employment occurs after a finding of the Participant’s permanent and total disability, or as a result of retirement after age 65, any portion of the Options not previously exercisable under Section 2 shall become exercisable, and the Options may be exercised at any time during the period of twelve (12) months following the date of termination of employment, or retirement, as the case may be, but in no event later than , 20. 
-
-^**Nontransferability**.  
-
-The Participant’s rights under this Agreement may not be assigned or transferred by the Participant other than by will or the laws of descent and distribution. The Options may not be exercised by anyone other than the Participant or, in the case of the Participant’s death, by the person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution. 
-
-^**Securities Laws**.  
-
-The Corporation may from time to time impose any conditions on the exercise of the Options as it deems necessary or advisable to ensure that the Options granted hereunder, and each exercise thereof, satisfy the applicable requirements of federal and state securities laws. Such conditions to satisfy applicable federal and state securities laws may include, without limitation, the partial or complete suspension of the right to exercise the Options until the offering of the shares covered by the Options have been registered 
-
-^^^^^ 
-under the Securities Act of 1933, as amended, or the printing of legends on all stock certificates issued to the Participant describing the restrictions on transfer of such shares. 
-
-^**Rights Prior to Issuance of Certificates**. 
-
-Neither the Participant nor any person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution shall have any of the rights of a stockholder with respect to any shares of Common Stock until the date of the issuance to him or her of certificates (or other evidence of ownership) for such Common Stock as provided in Section 6 above. 
-
-^**Options Not to Affect Employment**.  
-
-Neither this Agreement nor the Options granted hereunder shall confer upon the Participant any right to continued employment with the Corporation. This Agreement shall not in any way modify or restrict any rights the Corporation may have to terminate such employment under the terms of the Participant’s Employment Agreement. 
-
-^**Miscellaneous**.  
-
-^^This Agreement may be executed in one or more counterparts all of which taken together will constitute one and the same instrument. 
-
-^^The terms of this Agreement may only be amended, modified or waived by a written agreement executed by both of the parties hereto. 
-
-^^The validity, performance, construction and effect of this Agreement shall be governed by the laws of the State of Ohio, without giving effect to principles of conflicts of law; provided, however, that matters of corporate law, including the issuance of shares of the Common Stock, shall be governed by the Delaware General Corporation Law. 
-
-**IN WITNESS WHEREOF**, the parties have executed this Agreement on the date and year first above written. 
-
-\centered 
-
-**ATTEST:**        [[Corporation]] 
-
-[[ATTEST        Corporation Signatory Email: Identity | Signature]]
+[[WESTWOOD ONE INC.        PARTICIPANT Signatory Email: Identity | Signature]]
 __________________________________________
-{{ATTEST        Corporation Entity => By: [[ATTEST        Corporation Signatory First Name]] [[ATTEST        Corporation Signatory Last Name]]
-Title: [[ATTEST        Corporation Signatory Title]]}}
+{{WESTWOOD ONE INC.        PARTICIPANT Entity => By: [[WESTWOOD ONE INC.        PARTICIPANT Signatory First Name]] [[WESTWOOD ONE INC.        PARTICIPANT Signatory Last Name]]
+Title: [[WESTWOOD ONE INC.        PARTICIPANT Signatory Title]]}}
 
-**WITNESS:**        **PARTICIPANT:**
+(Signature)            (Signature) 
+
+Name:            Name: 
+
+(Type or Print)            (Type or Print) 
+
+Title:            Date:    [Date] 
+
+Date:    [Date]  
+
+**THE UNDERSIGNED HEREBY ACKNOWLEDGES THAT HE OR SHE HAS RECEIVED A COPY OF THE PLAN.** 
+
+\centered 
+
+**By:** **[Name]** 
+
+**Date:** 
+
+^^^^^ 
+\centered **EXHIBIT “A”** 
+
+\centered 
+
+^Participant:    [Name] 
+
+^No. of shares of Common Stock subject to the Stock Option Granted:    [Number] 
+
+^:    Exercise Price:    $ 
+
+^Type of Option Granted (Incentive/Non-Qualified):    Non-Qualified 
+
+^Date of Grant:    [Date] 
+
+^Vesting Schedule:    Except as provided in Paragraph 7 of the Agreement, this Stock Option shall vest in three equal annual installments on each of [insert vesting date], subject to the Participant’s continued service with the Company on each applicable vesting date. **[ADD IF DESIRED:** Notwithstanding the foregoing, this Stock Option shall become [[Percentage 1: Number]]% vested in the event of the Participant’s Termination without Cause upon or within 24 months following the date of a Change in Control**]**. 
+
+^Expiration Date:    10 years after the Date of Grant, subject to earlier termination as provided in the Agreement.  
+
+^^^^^ 
+\centered **EXHIBIT “B”** 
+
+\centered **NOTICE OF EXERCISE**  (To be signed only upon exercise of the Option) 
+
+TO: Westwood One, Inc. (“Westwood” or “Company”) 
+
+The undersigned, the holder of a Stock Option to purchase  shares of the Company’s Common Stock pursuant to the enclosed Stock Option Agreement dated [Date], hereby irrevocably elects to exercise the purchase rights represented by the Stock Option and to purchase thereunder  shares of Common Stock and herewith encloses a certified or cashier’s check in the amount of $ and/or shares of the Company’s Common Stock in full payment of the exercise price and all federal and state income taxes required to be paid in connection with the purchase of such shares. 
+
+Dated:  
+
+\centered 
+
+[[Party 2 Signatory Email: Identity | Signature]]
+__________________________________________
+{{Party 2 Entity => By: [[Party 2 Signatory First Name]] [[Party 2 Signatory Last Name]]
+Title: [[Party 2 Signatory Title]]}}
+
+Name: 
+
+(Print or Type) 
+
+(Address) 
+
+(Social Security Number)  
+ 

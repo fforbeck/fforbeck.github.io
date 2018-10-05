@@ -1,321 +1,104 @@
-\centered **GUARANTY AGREEMENT** 
+Loan No. 526436:11
 
-GUARANTY AGREEMENT dated as of [[Date 1: Date]] from Atossa HealthCare, Inc., a Delaware corporation (“Healthcare”), MDRNA Research, Inc., a Delaware corporation (“Research”), and Calais Acquisition Corp., a Delaware corporation (“Merger Sub”) (Healthcare, Research and Merger Sub being hereinafter referred to, collectively, as “Guarantors” and, individually, as a “Guarantor”), to Cequent Pharmaceuticals, Inc., a Delaware corporation (“Lender”). 
+\centered **GUARANTY AGREEMENT**
 
-\centered WITNESSETH: 
+THIS GUARANTY AGREEMENT ("Guaranty"), is entered into effective as of [[Date 1: Date]] by INLAND DIVERSIFIED REAL ESTATE TRUST, INC., a Maryland corporation ("Guarantor") in favor of JOHN HANCOCK LIFE INSURANCE COMPANY (U.S.A.), a Michigan corporation ("Lender"), and the subsequent owners and holders of the herein below defined Note.
 
-WHEREAS, MDRNA, Inc., a Delaware corporation (“Borrower”), and Lender are entering into that certain Loan Agreement dated as of the date hereof (as amended, restated, supplemented and/or otherwise modified from time to time, the “Loan Agreement”), pursuant to which Lender will establish a facility for a term loan (the “Loan”) that may be advanced to the Borrower in installments; and 
+\centered **RECITALS:**
 
-WHEREAS, the Loan is evidenced by the Borrower’s promissory note (as amended, restated, supplemented and/or otherwise modified from time to time, the “Note”) in an aggregate face principal amount of $[[USD Value 1: Number]] payable to the order of Lender; and 
+^INLAND DIVERSIFIED KISSIMMEE PLEASANT HILL, L.L.C., a Delaware limited liability company ("Borrower") has requested a loan (the "Loan") from Lender in the amount of SIX MILLION EIGHT HUNDRED THOUSAND AND 00/100 DOLLARS ($[[USD Value 1: Number]]) to be evidenced by the Mortgage Note of even date herewith executed by Borrower, payable to Lender in the original principal sum of $[[USD Value 1]] (the "Note"), and secured by, inter alia, the Mortgage, Assignment of Leases and Rents and Security Agreement and Fixture Filing of even date herewith executed by Borrower in favor of Lender covering certain property in Osceola County, Florida (the "Mortgage");
 
-WHEREAS, in order to induce the Lender to enter into the Loan Agreement, the Borrower has agreed to obtain and deliver this Agreement; and 
+^^of the Note sets forth certain amounts, obligations and other liabilities for which Borrower is fully liable to Lender (the " Recourse Obligations"), notwithstanding limitations on Borrower’s liability pursuant to said Section 19 of the Note; 
 
-WHEREAS, the Guarantors are wholly-owned subsidiaries of the Borrower and participate in a common business enterprise with the Borrower; and 
+^Guarantor is the sole member of Borrower; and
 
-WHEREAS, the Lender’s agreement to enter into the Loan Agreement is and will be beneficial to each Guarantor, as each Guarantor has a significant economic interest in the strength and success of the Borrower; 
+^As a condition to making the Loan, Lender has required that Guarantor guarantee the payment of the Recourse Obligations and performance of the obligations set forth in Section 1 below (the "Guaranteed Obligations"). 
 
-NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Guarantors hereby jointly and severally agree as follows: 
+\centered **AGREEMENT:**
 
-^\centered CERTAIN DEFINITIONS 
+NOW, THEREFORE, as a material inducement to Lender to agree to make the Loan to Borrower, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Guarantor hereby does irrevocably and unconditionally warrant and represent unto and covenant with Lender as follows:
 
-^Defined Terms. As used in this Agreement, the following terms shall have the meanings set out respectively after each: 
+^**Guaranty**. Guarantor hereby (a) guarantees unto Lender the full and timely payment of the amounts due, or to become due, to Lender under the Recourse Obligations and (b) agrees with Lender to pay to Lender (i) the amounts due under the Recourse Obligations within five (5) business days from the date Lender notifies Guarantor of Borrower’s failure to pay the same, if and when the same becomes due, and at the place specified in the Note for payment and (ii) Lender’s reasonable attorneys’ fees and all court costs incurred by Lender in enforcing or protecting any of Lender’s rights, remedies or recourses hereunder. 
 
-“Agreement”  This Guaranty Agreement, as same may be from time to time amended. 
+^**Guarantor’s Representations and Warranties**. Guarantor hereby warrants and represents unto Lender as follows:
 
-“Business Day”  As defined in the Loan Agreement. 
+**EXHIBIT 10.8**
 
-“Environmental Event”  Each of (i) the generation, storage, disposal, removal, transportation or treatment of Hazardous Substances on any property owned, occupied or operated by any Guarantor or any Subsidiary of a Guarantor; (ii) the receipt by any Guarantor or by any Subsidiary of a Guarantor of any notice or claim of any violation of any Environmental Law or of any action based upon nuisance, negligence or other tort theory alleging liability on the basis of improper generation, storage, disposal, removal, transportation or treatment of Hazardous Substances on any affected property; or (iii) the presence or release of Hazardous Substances at or upon any property owned, occupied or operated by any Guarantor or any Subsidiary of a Guarantor that has resulted in contamination or deterioration of any property resulting in a level of contamination greater than the levels permitted or established by any Governmental Authority of competent jurisdiction. 
+Loan No. 526436:11
 
-“Governmental Authority”  As defined in the Loan Agreement. 
+^^that this Guaranty constitutes the legal, valid and binding obligation of Guarantor and is fully enforceable against Guarantor in accordance with its terms;
 
-“Guaranteed Obligations”  Any and all indebtedness, liabilities or obligations of the Borrower, joint or several, direct or indirect, absolute or contingent, due or to become due, now existing or hereafter arising, to or for the benefit of the Lender arising out of or provided for in any of the Loan Documents or the Merger Agreement, such term to include obligations to perform acts and refrain from taking action as well as obligations to pay money. 
+^^Guarantor is solvent and the execution of this Guaranty Agreement does not render Guarantor insolvent. Any and all financial statements, balance sheets, net worth statements and other financial data which have heretofore been furnished to Lender with respect to Guarantor fairly and accurately present the financial condition of Guarantor as of the date they were furnished to Lender and, since that date, there has been no material adverse change in the financial condition of Guarantor;
 
-“Guarantors’ Agreements”  Collectively, this Agreement, the Security Agreement and any other instrument, document or other agreement between any one or more of the Guarantors and the Lender or given by any one or more of the Guarantors to the Lender, whether now existing or hereafter arising. 
+^^that there are no legal proceedings or material claims or demands pending against or, to the best of Guarantor's knowledge threatened against, Guarantor or any of its assets;
 
-“Guaranty”  The guaranty of the Guarantors set forth in Section 2.01 below. 
+^^that the execution and delivery of this Guaranty and the assumption of liability hereunder have been in all respects authorized and approved by Guarantor and its shareholders; Guarantor has full authority and power to execute this Guaranty and to perform its obligations hereunder; and
 
-“Hazardous Substances”  As defined in the Loan Agreement. 
+^^that neither the execution nor the delivery of this Guaranty nor the fulfillment and compliance with the provisions hereof will conflict with, result in a breach of, constitute a default under or result in the creation of any lien, charge, or encumbrance upon any property or assets of Guarantor under any agreement or instrument to which Guarantor is now a party or by which it may be bound.
 
-“Indebtedness”  As defined in the Loan Agreement. 
+^**Waiver**. Guarantor hereby waives (a) all notices of acceptance hereof, protest, demand and dishonor, presentment, notice of nonpayment, notice of intention to accelerate maturity, notice of acceleration of maturity and all notices and demands of any kind now or hereafter provided for by any statute or rule of law other than the five (5) day notice referred to in Paragraph 1 above, (b) any and all requirements that Lender institute any action or proceeding, or exhaust or attempt to enforce any or all of Lender’s right, remedies or recourses against Borrower or anyone else or in respect of any mortgaged property or collateral covered by any Loan Documents (as defined in the Mortgage), or join Borrower or any other persons liable on the Recourse Obligations in any action to enforce this Guaranty as a condition precedent to bringing an action against Guarantor upon this Guaranty, it being expres sly agreed that the liability of Guarantor hereunder shall be primary and not secondary, (c) any defense arising by reason of any disability, insolvency, lack of authority or power, death, insanity, minority, dissolution or any other defense of Borrower, or any other surety, co-maker, endorser or guarantor of the Recourse Obligations (even though rendering same void, unenforceable or otherwise uncollectible), it being agreed that Guarantor shall remain liable hereon regardless of whether Borrower or any other such person be found not liable thereon for any reason, (d) all suretyship defenses of every kind and nature and (e) any claim Guarantor might otherwise have against Lender by virtue of Lender’s invocation of any right, remedy or recourse permitted it hereunder or under the Loan Documents. This is a guaranty of payment and not a guaranty of collection.
 
-“Loan Documents”  The Loan Agreement, the Note, the Security Agreement and any other instruments, documents or other agreements made by the Borrower with or in favor of the Lender in connection with the Loan, whether now existing or hereafter entered into or delivered. 
+^**Subsequent Acts**. Guarantor hereby agrees with Lender that (a) the payments called for and provisions contained in the Loan Documents, including specifically (but without 
 
-“Merger Agreement”  As defined in the Loan Agreement. 
+**EXHIBIT 10.8**
 
-“Person”  As defined in the Loan Agreement. 
+Loan No. 526436:11
 
-“Security Agreement”  The Security Agreement (All Assets) of even date herewith given by the Borrower and the Guarantors to the Lender. 
+limitation) the Note, may be renewed, extended, rearranged, modified, released or canceled, (b) all or any part of any mortgaged property and collateral for the indebtedness may be released from, and any new or additional security may be added to, the lien and security interest of the Loan Documents, (c) any additional parties who may become personally liable for repayment of the Note may hereafter be released from their liability hereunder and thereon and (d) Lender may take, or delay in taking or refuse to take, any and all action with reference to the Note and the other Loan Documents (regardless of whether same might vary the risk or alter the rights, remedies or recourses of Guarantor), including specifically (but without limitation) the settlement or compromise of any amount allegedly due thereunder, all without notice or consideration to or the consent of Guarantor, and no such acts shall in any way release, diminish or affect the absolute nature of Guarantor’s obligations and liabilities hereunder. It is the intent of Guarantor and Lender that such obligations and liabilities hereunder are primary, absolute and unconditional under any and all circumstances and that, until the Recourse Obligations are fully and finally satisfied, such obligations and liabilities shall not be discharged or released, in whole or in part, by any act or occurrence which, but for this Paragraph , might be deemed a legal or equitable discharge or release of Guarantor. 
 
-Capitalized terms defined in the Loan Agreement and not otherwise defined herein shall have the respective meanings set forth in the Loan Agreement. 
+^**Remedies Cumulative**. Guarantor hereby agrees with Lender that all rights, remedies and recourses afforded to Lender by reason of this Guaranty or otherwise are (a) separate and cumulative and may be pursued separately, successively or concurrently, as occasion therefor shall arise, and (b) non-exclusive and shall in no way limit or prejudice any other legal or equitable right, remedy or recourse which Lender may have.
 
-^Use of Defined Terms. Any defined term used in the plural preceded by the definite article shall be taken to encompass all members of the relevant class. Any defined 
+^**Subordination and No Subrogation**. If, for any reason whatsoever, Borrower now is or hereafter becomes indebted to Guarantor, such indebtedness and all interest thereon, shall, at all times, be subordinate in all respects to the Loan Documents, and Guarantor shall not be entitled to enforce or receive payment thereof until the Recourse Obligations have been fully satisfied. Notwithstanding anything to the contrary contained in this Guaranty or any payments made by Guarantor hereunder, Guarantor shall not have any right of subrogation in or under the Loan Documents or to participate in any way therein or in any right, title or interest in and to any mortgaged property or any collateral for the Loan, all such rights of subrogation and participation, together with any other contractual, statutory or common law right which Guarantor may have to be reimbursed for any payments Guarantor may make to Lend er pursuant to this Guaranty, being hereby expressly waived and released.
 
-term used in the singular preceded by “any” shall be taken to indicate any number of the members of the relevant class. 
+^**Law Governing and Severability**. This Guaranty shall be governed by and construed in accordance with the laws of the State of Florida and is intended to be performed in accordance with, and only to the extent permitted by, such laws. If any provision of this Guaranty or the application thereof to any person or circumstance, for any reason and to any extent, shall be invalid or unenforceable, neither the remainder of this Guaranty nor the application of such provision to any other persons or circumstances shall be affected thereby, but rather the same shall be enforced to the greatest extent permitted by law.
 
-^\centered THE GUARANTY 
+^**Successors and Assigns**. This Guaranty and all the terms, provisions and conditions hereof shall be binding upon Guarantor and the Guarantor’s heirs, legal representatives, successors and assigns and shall inure to the benefit of Lender, its successors and assigns and all subsequent holders of the Note.
 
-^Guaranty. In consideration of the Lender entering into the Loan Agreement, the Guarantors hereby jointly and severally guaranty to the Lender the due and punctual payment of all of the Guaranteed Obligations, as and when the same shall become due and payable, whether on demand or at maturity, by declaration or otherwise, according to the terms thereof, and all losses, costs, expenses and reasonable attorneys’ fees and disbursements incurred by reason of a default under any of said Guaranteed Obligations. In case of any failure by the Borrower punctually to pay any of the Guaranteed Obligations, the Guarantors unconditionally, jointly and severally agree to cause such payment to be made punctually as and when the same shall become due, whether at maturity or by declaration or otherwise, and as if such payment were made by the Borrower. This Guaranty is an absolute, unlimited, unconditional and continuing guaranty of the full and punctual payment by the Borrower of the Guaranteed Obligations and not merely of their collectibility, and is in no way conditioned upon any requirement that the Lender first collect or attempt to collect the Guaranteed Obligations or any portion thereof from the Borrower or from any other guarantor (nor, as to any Guarantor, from any other Guarantor) of any of same or resort to any security or other means of obtaining payment of any of the Guaranteed Obligations that the Lender now has or may acquire after the date hereof, or upon any other contingency whatsoever. Upon the occurrence of any Event of Default (as defined herein) and written notice thereof to the Guarantors, all liabilities and obligations of each Guarantor to the Lender shall, at the option of the Lender, become due and payable to the Lender without further demand or notice of any nature, all of which are expressly waived by the Guarantors. Payments by the Guarantors hereunder may be required by the Lender on any number of occasions. 
+**EXHIBIT 10.8**
 
-^Guarantors’ Further Agreements to Pay. The Guarantors further jointly and severally agree, as principal obligors and not as guarantors, to pay to the Lender, on demand, in funds immediately available to the Lender, all costs and expenses (including court costs and reasonable attorneys’ fees and disbursements) incurred or expended by the Lender in connection with the enforcement of this Guaranty, together with interest on any sum now or hereafter payable by the Guarantors under this Agreement, such interest to accrue from the date of demand for any payment to the date of actual payment. Such interest will be payable at the rate set forth in Section 6.04 below. 
+Loan No. 526436:11
 
-^Freedom to Deal with Borrower and Other Parties. The Lender shall be at liberty, without giving notice to or obtaining the assent of any Guarantor and without relieving any Guarantor of any liability hereunder, to deal with each other Guarantor, with the Borrower and with each other party who now is or after the date hereof becomes liable in any manner for any of the Guaranteed Obligations in such manner as the Lender in its sole discretion deems fit. The Lender may in its sole discretion (to the extent permitted by the Loan Agreement) do any or all of the following things, none of which shall discharge or affect any Guarantor’s liability 
+^**Paragraph Headings**. The paragraph headings inserted in this Guaranty have been included for convenience only and are not intended, and shall not be construed, to limit or define in any way the substance of any paragraph contained herein.
 
-hereunder: (i) extend credit, make loans and afford other financial accommodations to the Borrower at such times, in such amounts and on such terms as the Lender may approve; (ii) modify, amend, vary the terms and grant extensions or renewals of any present or future indebtedness or of all or any of the Guaranteed Obligations held by Lender or any instrument relating to or securing same; (iii) grant time, waivers and other indulgences in respect thereto; (iv) vary, exchange, release or discharge, wholly or partially, or delay or abstain from perfecting and enforcing any security or guaranty held by Lender (including, as to any Guarantor, varying, exchanging, releasing, discharging or delaying or abstaining to enforce this Guaranty with respect to any other Guarantor ) or other means of obtaining payment of any of the Guaranteed Obligations that the Lender now has or acquires after the date hereof; (v) take or omit to take any of the actions referred to in the Loan Documents or other instrument evidencing, securing or relating to any of the Guaranteed Obligations or any actions under this Agreement; (vi) fail, omit or delay to enforce, assert or exercise any right, power or remedy conferred on the Lender in this Agreement or in any other Loan Document or other instrument evidencing, securing or relating to any of the Guaranteed Obligations or take or refrain from taking any other action; (vii) accept partial payments from the Borrower or any other party; (viii) as to any Guaranteed Obligations held by Lender, release or discharge, wholly or partially, any other Guarantor, any endorser or any guarantor, or accept additional collateral for the payment of any Guaranteed Obligations held by Lender; (ix) compromise or make any settlement or other arrangement with the Borrower or any other Person as to the Guaranteed Obligations held by Lender; and (x) consent to and participate in the proceeds of any assignment, trust or mortgage for the benefit of creditors as to the Guaranteed Obligations held by Lender. 
+^**Effect of Bankruptcy**. This Guaranty shall continue to be effective or reinstated, as the case may be, if at any time payment to Lender of all or any part of the Recourse Obligations is rescinded or must otherwise be restored or refunded by Lender pursuant to any insolvency, bankruptcy, reorganization, receivership or other debtor relief proceeding involving Borrower. In the event that Lender must rescind or restore any payment received by Lender in satisfaction of the Recourse Obligations, as set forth herein, any prior release or discharge of the terms of this Guaranty given to Guarantor by Lender shall be without effect and this Guaranty shall remain in full force and effect.
 
-^Unenforceability of Guaranteed Obligations; Invalidity of Security or Other Guaranties. If for any reason now or hereafter the Borrower has no legal existence or is under no legal obligation to discharge any of the Guaranteed Obligations undertaken or purported to be undertaken by it or on its behalf, or if any of the moneys included in the Guaranteed Obligations have become irrecoverable from the Borrower by operation of law or for any other reason, this Agreement shall nevertheless be binding on the Guarantors jointly and severally to the same extent as if the Guarantors at all times had been the joint and several principal debtors on all of the Guaranteed Obligations (and no invalidity or unenforceability as to one Guarantor shall affect the obligations of any other Guarantor hereunder). This Agreement shall be in addition to any other guaranty or other security for the Guaranteed Obligations, and it shall not be prejudiced or rendered unenforceable by the invalidity of any such other guaranty or security. The liability of each Guarantor under this Agreement shall remain in full force and effect until payment and performance in full of all of the Guaranteed Obligations. This Agreement shall continue to be effective or be reinstated, as the case may be, if at any time any payment of any of the Guaranteed Obligations is rescinded or must otherwise be restored or returned by the Lender upon the insolvency, bankruptcy or reorganization of the Borrower, any Guarantor or otherwise, all as though such payment had not been made. 
+^**Notices**. All notices hereunder shall be given at the following address: 
 
-^Waivers by Guarantors. Each Guarantor waives: notice of acceptance hereof and reliance hereon, notice of any action taken or omitted by the Lender in reliance hereon, any requirement that the Lender be diligent or prompt in making demands hereunder, any requirement as to any presentment, demand, protest, giving notice of any default by the Borrower (except as otherwise specifically required under the Loan Agreement) or asserting any other right 
+If to Guarantor:  INLAND DIVERSIFIED REAL ESTATE TRUST, INC., [[Address 1: Address]]
 
-of the Lender hereunder and all demands, notices (except as aforesaid) and all suretyship defenses generally. Each Guarantor also irrevocably waives, to the fullest extent permitted by law, all defenses which at any time may be available in respect of such Guarantor’s obligations hereunder by virtue of any statute of limitations, valuation, stay, homestead or moratorium law or other similar law now or hereafter in effect. 
+If to Lender:  John Hancock Life Insurance Company (U.S.A.), [[Address 2: Address]], Re: Loan No. 526436:11
 
-Without limiting the generality of the foregoing provisions of this Agreement, the liability of each Guarantor shall not be released, discharged or otherwise affected by: 
+All notices given hereunder shall be in writing and shall be considered properly given if delivered either personally to such other party, or sent by nationally recognized overnight courier delivery service or by certified mail of the United States Postal Service, postage prepaid return receipt requested, addressed to the other party as set forth above (or to such other address or person as either party entitled to notice may by notice to the other party specify). Unless otherwise specified, notices shall be deemed given as follows: (i) if delivered personally, when delivered, (ii) if delivered by nationally recognized overnight courier delivery service, on the day following the day such material is sent or (iii) if delivered by certified mail, on the third day after the same is deposited in the United States Postal Service as provided above.
 
-^^^any extension, renewal, settlement, compromise, waiver or release in respect of any obligation of the Borrower, any other Guarantor or any other guarantor of any of the Guaranteed Obligations; 
+^**Benefit**. Guarantor warrants and represents that Guarantor has received, or will receive, direct or indirect benefit from the execution and delivery of this Guaranty.
 
-^^^any change in the time, manner, amount or place of payment of any Guaranteed Obligation or any modification or amendment of or supplement to any Loan Document or this Agreement; 
+^**No Representations by Lender**. Neither Lender nor anyone acting on behalf of Lender has made any representation, warranty or statement to Guarantor to induce Guarantor to execute and deliver this Guaranty.
 
-^^^any release, non-perfection or invalidity of any direct or indirect security for any obligation of the Borrower, any Guarantor or any other guarantor of any of the Guaranteed Obligations; 
+^**Application of Foreclosure Proceeds**. In the event of any foreclosure sales of the mortgaged property and collateral covered by the Loan Documents, the proceeds of such sales shall be applied first to the discharge of that portion of the indebtedness then remaining unpaid as to which Guarantor is not fully personally liable pursuant to this Guaranty, it being the express intention of the parties that the application of the proceeds of such foreclosure sales shall be in such a manner as not to extinguish or reduce Guarantor’s personal liability hereunder until all of the indebtedness as to which Guarantor is not personally liable hereunder has been paid in full. Nothing contained in this Paragraph shall be construed to require that Lender foreclose the liens and security interests created in the Loan Documents as a condition precedent to 
 
-^^^any change in the legal existence, structure, record or beneficial ownership or control of the Borrower, any Guarantor or any other guarantor of any of the Guaranteed Obligations, or any insolvency, bankruptcy, reorganization or other similar proceeding affecting any such Person or its assets; 
+**EXHIBIT 10.8**
 
-^^^the existence of any claim, set-off or other rights that any Guarantor may have at any time against the Borrower, the Lender, any Guarantor or any other guarantor of any of the Guaranteed Obligations or any other Person, whether or not arising in connection with this Agreement; 
+Loan No. 526436:11
 
-^^^any invalidity or unenforceability relating to or against the Borrower or any Guarantor for any reason under any Loan Document or under this Agreement; or any provision of applicable law or regulation purporting to prohibit the payment by any Person of the principal of or interest on the Note or any other amount payable under any Loan Document or under this Agreement; or 
+bringing an action against Guarantor upon this Guaranty, or as an agreement that Guarantor’s liability is limited to any deficiency remaining after such a foreclosure.
 
-^^^any other act or omission to act or delay of any kind by the Borrower, any other Guarantor, the Lender, or any other Person or any other circumstances whatsoever that might, but for the provisions of this paragraph, constitute a legal or equitable discharge of any Guarantor’s obligations hereunder. 
+^**Joint and Several Liability**. If more than one person is included in the definition of Guarantor, the liability of all such persons hereunder shall be joint and several.
 
-^Subrogation. Unless and until all Guaranteed Obligations shall have been indefeasibly paid in full and discharged, each Guarantor hereby irrevocably and unconditionally waives enforcement of any and all rights of subrogation, contribution or similar rights that, but for this Section 2.06, such Guarantor might otherwise have in relation to the Borrower, any other Guarantor or any other guarantor as a result of this Agreement. No right of subrogation, 
+EXECUTED effective as of the date first above written.
 
-contribution or any similar rights will in any event be deemed to give any Guarantor any cause of action against the Lender or any of its respective officers, employees or agents for any act or omission on the part of the Lender; the Lender may, without liability, release or fail to perfect any security interest and may take or omit to take any action under any of the Loan Documents, even if same would reduce the value of any Guarantor’s subrogation or similar rights. 
+**GUARANTOR:**
 
-^No Contest with Lender. No set-off, counterclaim, reduction or diminution of any obligation, or any claim or defense of any kind or nature that any Guarantor has or may have against the Borrower, any other Guarantor, any other guarantor, or the Lender, as the case may be, shall be available hereunder to any Guarantor. No Guarantor will, in any proceedings under the Bankruptcy Code or insolvency proceedings of any nature, prove in competition with the Lender in respect of any payment hereunder or be entitled to have the benefit of any counterclaim or proof of claim or dividend or payment by or on behalf of the Borrower or the benefit of any other security for any Guaranteed Obligation that, now or hereafter, any Guarantor may hold in competition with the Lender. 
 
-^Stay of Acceleration. If acceleration of the time for payment of any amount payable by the Borrower under any Loan Document is stayed upon the insolvency, bankruptcy or reorganization of the Borrower, all such amounts otherwise subject to acceleration under the terms of this Agreement shall nonetheless be payable jointly and severally by the Guarantors hereunder forthwith on demand by the Lender. 
 
-^Payments. All payments by any Guarantor to the Lender hereunder shall be made, without withholding, deduction or offset of any sort, in lawful currency of the United States in immediately available funds at the offices of the Lender at One Kendall Square, Building 700, [[Address 1: Address]], or such other place as the Lender may designate. Whenever any payment hereunder shall be due on a day that is not a Business Day, the date for payment thereof shall be extended to the next succeeding Business Day, and any interest payable thereon shall be payable for such extended time at the specified rate. Any payments received after 2:00 p.m. on any day will be deemed received on the next succeeding Business Day. 
-
-^\centered REPRESENTATIONS AND WARRANTIES 
-
-^Representations and Warranties. Each Guarantor hereby represents and warrants that: 
-
-^^Each Guarantor (i) is a corporation, duly incorporated, validly existing and in good standing under the laws of the jurisdiction indicated in the introductory sentence of this Agreement, (ii) has the corporate power and authority to own its assets and to transact the business in which it is now engaged and to enter into and perform this Agreement and each of the other Guarantors’ Agreements in which such Guarantor is named as a party, and (iii) is duly qualified as a foreign corporation (or company, as the case may be) and in good standing under the laws of each jurisdiction in which failure to be so qualified could have a material adverse effect on the business, assets or condition of such Guarantor. At the date of this Agreement, no 
-
-Guarantor has any Subsidiaries, except as shown on item 3.01(a) of the attached Disclosure Schedule. 
-
-^^The owners of all of the equity securities of each Guarantor are set forth on item 3.01(b) of the attached Disclosure Schedule. 
-
-^^The execution, delivery and performance by each Guarantor of this Agreement and each of the other Guarantors’ Agreements in which such Guarantor is named as a party have been duly approved by such Guarantor’s Board of Directors (and, if required, by such Guarantor’s shareholders) and do not and will not: 
-
-^^^contravene such Guarantor’s charter documents or by-laws; 
-
-^^^violate any provision of, or require any filing, registration, consent or approval under, any law, rule, regulation, order, writ, judgment, injunction, decree, determination or award presently in effect having applicability to such Guarantor; 
-
-^^^result in a breach of or constitute a default or require any consent (not heretofore obtained) under any indenture or loan or credit agreement or any other agreement, lease or instrument to which such Guarantor is a party or by which such Guarantor or any of its properties may be bound or affected; or 
-
-^^^result in, or require, the creation or imposition of any lien, security interest or other encumbrance upon or with respect to any of the properties now owned or hereafter acquired by such Guarantor. 
-
-^^This Agreement has been duly executed and delivered on behalf of each Guarantor and is the legal, valid and binding joint and several obligation of the Guarantors, enforceable against the Guarantors in accordance with its terms. Each of the other Guarantors’ Agreements in which any Guarantor is named as a party has been duly executed and delivered on behalf of each such Guarantor and is the legal, valid and binding obligation of such Guarantor, enforceable against such Guarantor in accordance with its terms. 
-
-^^Each Guarantor is an affiliate of the Borrower and wishes to enter into this Agreement in furtherance of its corporate purposes. Each Guarantor has a substantial interest in the continued financial strength of the Borrower and, in particular, its financing arrangements with the Lender, and the execution and delivery of this Agreement is a substantial inducement for the Lender to enter into the Loan Agreement. Each Guarantor has determined the execution, delivery and performance of this Agreement to be necessary and convenient to the conduct, promotion and attainment of the businesses of such Guarantor and the Borrower. 
-
-^^Except as described on item 3.01(f) of the attached Disclosure Schedule, there are no actions, suits, proceedings or investigations pending or, to the knowledge of any Guarantor, threatened by or against any Guarantor or any Subsidiary of a Guarantor before any court or governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign, which could hinder or prevent the consummation of the transactions contemplated hereby or call into question the validity of this Agreement or any action taken or to be taken in 
-
-connection with the transactions contemplated hereby or which in any single case or in the aggregate might result in any material adverse change in the business, condition, affairs or operations of any Guarantor or any such Subsidiaries. 
-
-^^After giving effect to this Agreement and the transactions contemplated hereby, each Guarantor (i) is and will be able to pay its debts as they become due, (ii) has and will have funds and capital sufficient to carry on its business as now conducted or as contemplated to be conducted, (iii) owns property having a value both at fair valuation and at present fair salable value greater than the amount required to pay its debts as they become due, and (iv) is not insolvent and will not be rendered insolvent as determined by applicable law, after taking into account the reasonable likelihood of payments being required hereunder. 
-
-^\centered COVENANTS 
-
-^Guarantors’ Covenants Effective Regardless of Status of Merger Agreement. Without limitation of any other covenants and agreements contained herein or elsewhere, so long as the Loan Agreement is in effect or any of the Guaranteed Obligations remain outstanding: 
-
-^^Covenants Incorporated by Reference. Each Guarantor (i) will perform (and will cause each of its Subsidiaries to perform) all affirmative agreements and covenants applicable to it set forth in the Merger Agreement, and (ii) will not violate or suffer or permit the violation of any of the negative covenants or agreements applicable to it contained in the Merger Agreement by itself or by any of such Guarantor’s Subsidiaries; all of which affirmative and negative covenants and agreements (together with the related definitions contained in the Merger Agreement) are incorporated herein by this reference as effectively as if set forth at length herein. Said agreements and covenants (and the related definitions) are incorporated herein as they exist in the Merger Agreement at the date hereof and without regard for any future termination or waiver of the Merger Agreement. 
-
-^^Further Assurances. Each Guarantor will execute and deliver, or cause to be executed and delivered, to the Lender from time to time, promptly upon request therefor, any and all other and further instruments (including correction instruments and supplemental security documents) that may be reasonably requested by the Lender to cure any deficiency in the execution and delivery of this Agreement or any of the other Guarantors’ Agreements in which such Guarantor is named as a party or more fully to describe or give effect to particular aspects of any of the agreements and undertakings of such Guarantor provided in this Agreement or any of the other Guarantors’ Agreements or intended to be so provided. 
-
-^Guarantors’ Covenants Effective Upon Termination of the Merger Agreement. Without limitation of any other covenants and agreements contained herein or elsewhere, so long as the Loan Agreement is in effect or any of the Guaranteed Obligations remain outstanding, the Guarantors will observe and perform each of the covenants and agreements contained in the Loan Agreement and relevant to the Guarantors, all such covenants 
-
-and agreements of the Loan Agreement (together with the related definitions) being incorporated herein by this reference as effectively as if set forth at length herein. 
-
-^\centered DEFAULT AND REMEDIES 
-
-^Events of Default. An Event of Default will be deemed to have occurred under this Agreement upon the occurrence of any one or more of the following: 
-
-^^^Any Guarantor shall fail to make any monetary payment hereunder when due; or 
-
-^^^Any representation or warranty of any Guarantor contained herein or made in connection herewith shall at any time prove to have been incorrect in any material respect when made; or 
-
-^^^Any Guarantor shall fail to perform or observe any obligation or agreement under Section 4.01 or Section 4.02 and such failure shall, as to any provision incorporated herein by reference to the Loan Agreement and/or the Merger Agreement, continue beyond the expiration of the notice and/or grace period (if any) provided for the corresponding provision in the Loan Agreement or the Merger Agreement, as applicable; or 
-
-^^^Any Guarantor shall fail to perform or observe any other obligation or agreement contained in this Agreement and such failure shall continue uncured for ten (10) Business Days after written notice of such failure is given to such Guarantor; or 
-
-^^^Any default on the part of any Guarantor or any Subsidiary of any Guarantor shall exist, and shall remain unwaived or uncured beyond the expiration of any applicable notice and/or grace period, under any other contract, agreement or undertaking now existing or hereafter entered into with or for the benefit of the Lender (or any affiliate of the Lender); or 
-
-^^^Any default shall exist and remain unwaived or uncured beyond the expiration of any applicable notice and/or grace period with respect to any other Indebtedness of any Guarantor or any Subsidiary of any Guarantor that would constitute an “Event of Default” under and as defined in the Loan Agreement; or 
-
-^^^Any Guarantor, other than Healthcare, shall be dissolved; or any Guarantor or any Subsidiary of any Guarantor shall become insolvent or bankrupt or shall cease paying its debts as they mature or shall make an assignment for the benefit of creditors; or a trustee, receiver or liquidator shall be appointed for any Guarantor or any Subsidiary of any Guarantor or for a substantial part of the property of any of the foregoing; or bankruptcy, reorganization, arrangement, insolvency or similar proceedings shall be instituted by or against any Guarantor or any such Subsidiary under the laws of any jurisdiction (except for an involuntary proceeding filed against any Guarantor or any 
-
-Subsidiary of any Guarantor that is dismissed within 60 days following the institution thereof); or 
-
-^^^Any final uninsured judgment shall be entered against any Guarantor or any Subsidiary of any Guarantor which would constitute an “Event of Default” under and as defined in the Loan Agreement; or 
-
-^^^Any Guarantor or any Subsidiary of any Guarantor shall fail to meet its minimum funding requirements under ERISA with respect to any employee benefit plan (or other class of benefit which the PBGC has elected to insure) or any such plan shall be the subject of termination proceedings (whether voluntary or involuntary) and there shall result from such termination proceedings a liability of any Guarantor or any Subsidiary of any Guarantor to the PBGC which in the reasonable opinion of the Lender may have a material adverse effect upon the financial condition of any Guarantor and its Subsidiaries, taken as a whole; or 
-
-^^^An Environmental Event shall have occurred that in the reasonable opinion of the Lender materially adversely affects the financial condition, prospects, business or operations of any Guarantor or any of its Subsidiaries or any of their respective premises; or 
-
-^^^There shall occur any other material adverse change in the condition (financial or otherwise), operations, properties, assets, liabilities or earnings of any Guarantor and its Subsidiaries, taken as a whole. 
-
-^Rights and Remedies Upon Default. Upon the occurrence of any Event of Default and at any time thereafter during the continuance thereof, in addition to any other rights and remedies available to the Lender hereunder or otherwise, the Lender may exercise any one or more of the following rights and remedies (all of which shall be cumulative): 
-
-^^Enforce the provisions of this Agreement by legal proceedings for the specific performance of any covenant or agreement contained herein or for the enforcement of any other appropriate legal or equitable remedy, and the Lender may recover damages caused by any breach by any Guarantor of the provisions of this Agreement, including court costs, reasonable attorneys’ fees and other costs and expenses incurred in the enforcement of the obligations of any Guarantor hereunder. 
-
-^^Exercise all rights and remedies hereunder, under the Guarantors’ Documents, under the Loan Documents, and under any other agreement with the Lender, and exercise all other rights and remedies that the Lender may have under applicable law. 
-
-^Set-off. In addition to any rights now or hereafter granted under applicable law and not by way of limitation of any such rights, upon the occurrence of any Event of Default and during the continuance thereof, the Lender is hereby authorized at any time or from time to time, without presentment, demand, protest or other notice of any kind to any Guarantor or to any other Person, all of which are hereby expressly waived, to set off and to appropriate and apply 
-
-any and all deposits and any other Indebtedness at any time held or owing by the Lender or any affiliate of the Lender to or for the credit or the account of any Guarantor against and on account of the obligations and liabilities of any Guarantor to the Lender, under this Agreement or otherwise, although said obligations, liabilities or claims, or any of them, may then be contingent or unmatured and without regard for the availability or adequacy of other collateral. ANY AND ALL RIGHTS TO REQUIRE THE LENDER TO EXERCISE ITS RIGHTS OR REMEDIES WITH RESPECT TO ANY COLLATERAL WHICH SECURES ANY OF THE OBLIGATIONS PRIOR TO THE EXERCISE BY THE LENDER OF ITS RIGHT OF SET-OFF UNDER THIS SECTION ARE HEREBY KNOWINGLY, VOLUNTARILY AND IRREVOCABLY WAIVED. 
-
-^Distribution. All cash actually received by the Lender pursuant to this Agreement or the exercise of its rights hereunder shall be applied by the Lender in the manner set forth in Section 1.5 of the Loan Agreement. 
-
-^\centered MISCELLANEOUS 
-
-^No Waiver; Cumulative Remedies. No failure or delay on the part of any party in exercising any right, power or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power or remedy preclude any other or further exercise thereof or the exercise of any other right, power or remedy hereunder. The remedies herein provided are cumulative and not exclusive of any remedies provided by law or otherwise available to the Lender. Such remedies may be exercised without resort or regard to the other source of satisfaction of any liabilities of any Guarantor to the Lender. The provisions of this Agreement are not limited by nor in limitation of any additional or inconsistent provisions contained in the Loan Agreement or elsewhere. 
-
-^Amendments, Waivers and Consents. Neither this Agreement nor any provision hereof may be amended, waived discharged or terminated orally. Any such amendment, waiver, discharge or termination must be in writing signed by the party against whom enforcement of the amendment, waiver, discharge or termination is sought. Any waiver or consent may be given subject to satisfaction of conditions stated therein and any waiver or consent shall be effective only in the specific instance and for the specific purpose for which given. 
-
-^Addresses for Notices, etc. Except as otherwise expressly provided in this Agreement, all notices, requests, demands and other communications provided for hereunder shall be in writing and shall be mailed or delivered to the applicable party at the address indicated below: 
-
-If to the Guarantors: 
-
-Atossa HealthCare, Inc. 
-
-MDRNA Research, Inc. 
-
-Calais Acquisition Corp. 
-
-c/o MDRNA, Inc. 
-
-[[Address 2: Address]] 
-
-Attention: J. Michael French, President 
-
-and Chief Executive Officer 
-
-If to the Lender: 
-
-Cequent Pharmaceuticals, Inc. 
-
-One Kendall Square 
-
-Building 700 
-
-[[Address 1: Address]] 
-
-Attention: Peter D. Parker, President 
-
-and Chief Executive Officer 
-
-or, as to each of the foregoing, at such other address as shall be designated by such Person in a written notice to the other party complying as to delivery with the terms of this Section. Except as otherwise provided herein, all such notices, requests, demands and other communications shall be deemed delivered on the earlier of (i) the date received or (ii) the date of delivery, refusal or non-delivery indicated on the return receipt if deposited in the United States mails, sent postage prepaid, registered or certified mail, return receipt requested, postage and registration or certification charges prepaid, addressed as aforesaid. If any such notice, request, demand or other communication is hand-delivered or delivered by overnight delivery service, same shall be effective upon receipted delivery. 
-
-^Costs, Expenses and Taxes. The Guarantors jointly and severally agree to pay all costs and expenses (including, without limitation, reasonable legal fees) incurred by the Lender in connection with the preparation, execution and delivery of this Agreement and all other instruments and documents to be delivered in connection herewith and any amendments or modifications of any of the foregoing, as well as the costs and expenses incurred by the Lender in connection with the administration, default, collection, waiver or amendment of any terms of this Agreement and/or such other instruments and documents, or in connection with the Lender’s exercise, preservation or enforcement of any of its rights, remedies or options hereunder or thereunder, including, without limitation, fees of outside legal counsel or the allocated costs of in-house legal counsel, accounting, consulting, brokerage or other similar professional fees or expenses, and any fees or expenses associated with travel or other costs relating to any appraisals or examinations conducted in connection with this Agreement or any collateral therefor, all whether or not legal action is instituted. In addition, the Guarantors shall be jointly and severally obligated to pay any and all stamp and other taxes payable or determined to be payable in connection with the execution and delivery of this Agreement and all other instruments and documents to be delivered in connection with any Guaranteed Obligation. Any fees, expenses or 
-
-other charges that the Lender is entitled to receive from any Guarantor hereunder shall bear interest from the date of any demand for payment until paid at a rate per annum equal to the rate that would be then applicable to the Loan or that would have been then applicable to the Loan, if the Loan is not then outstanding. 
-
-^Representations and Warranties. All covenants, agreements, representations and warranties made herein or in any other document delivered by or on behalf of any Guarantor pursuant to or in connection with this Agreement are material and shall be deemed to have been relied upon by the Lender, notwithstanding any investigation heretofore or hereafter made by the Lender and shall survive the issuance of any Guaranteed Obligations, and shall continue in full force and effect so long as the Loan Agreement is in effect or any of the Guaranteed Obligations remain outstanding and unpaid or any facility for the making of loans to the Borrower remains in effect. All statements contained in any certificate or other paper delivered to the Lender at any time by or on behalf of any Guarantor pursuant hereto shall constitute representations and warranties by such Guarantor hereunder. All representations, warranties, covenants, agreements and obligations of the Guarantors contained herein shall be deemed to be joint and several representations, warranties, covenants and agreements of the Guarantors, whether or not expressly so stated herein. 
-
-^Binding Effect; Assignment. This Agreement shall be binding upon each Guarantor and its respective successors and assigns and shall inure to the benefit of the Lender and its successors and assigns. No Guarantor may assign this Agreement or any rights hereunder without the express written consent of the Lender. 
-
-^Reproduction of Agreement. This Agreement and all other instruments, documents and papers which relate thereto that have been or may be hereafter furnished to the Lender may be reproduced by the Lender by any photographic, photostatic, micro-card, miniature photographic, xerographic or similar process, and the Lender may destroy the original from which any document was so reproduced. Any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding (whether or not the original is in existence and whether or not such reproduction was made in the regular course of business). 
-
-^Replacement Documents. Upon receipt of an affidavit of an officer of the Lender as to the loss, theft, destruction or mutilation of this Agreement or of any other document delivered pursuant hereto that is not of public record and, in the case of any such mutilation, upon surrender and cancellation of this Agreement or such other document, the Guarantors will issue, in lieu thereof, a replacement Guaranty Agreement or other document. 
-
-^Consent to Jurisdiction. Each Guarantor irrevocably submits to the non-exclusive jurisdiction of any Massachusetts court or any federal court sitting within The Commonwealth of Massachusetts over any suit, action or proceeding arising out of or relating to this Agreement. Each Guarantor irrevocably waives, to the fullest extent permitted by law, any objection which it may now or hereafter have to the laying of venue of any such suit, action or proceeding brought in such a court and any claim that any such suit, action or proceeding has been brought in an inconvenient forum. Each Guarantor agrees that final judgment in any such suit, action or proceeding brought in such a court shall be enforced in any court of proper 
-
-jurisdiction by a suit upon such judgment, provided that service of process in such action, suit or proceeding shall have been effected upon such Guarantor in one of the manners specified in the following paragraph of this Section 6.09 or as otherwise permitted by law. 
-
-Each Guarantor hereby consents to process being served in any suit, action or proceeding of the nature referred to in the preceding paragraph of this Section 6.09 either (i) by mailing a copy thereof by registered or certified mail, postage prepaid, return receipt requested, to it at its address set forth in Section 6.03 or (ii) by serving a copy thereof upon it at its address set forth in Section 6.03. Each Guarantor irrevocably waives, to the fullest extent permitted by law, all claims of error by reason of any service as contemplated herein and agrees that such service shall (x) be deemed in every respect effective service upon such Guarantor in any such suit, action or proceeding and (y) to the fullest extent permitted by law, be taken and held to be valid personal service upon and personal delivery to such Guarantor. 
-
-^Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of The Commonwealth of Massachusetts (without giving effect to conflict of laws principles). 
-
-^Severability. In the event that any provision of this Agreement or the application thereof to any Person, property or circumstances shall be held to any extent to be invalid or unenforceable, the remainder of this Agreement and the application of such provision to Persons, properties or circumstances other than those as to which it has been held invalid or unenforceable shall not be affected thereby, and each provision of this Agreement shall be valid and enforceable to the fullest extent permitted by law. 
-
-^Usury. It is expressly stipulated and agreed to be the intent of each Guarantor and the Lender at all times to comply with applicable state law or applicable United States federal law (to the extent that it permits the Lender to contract for, charge, take, reserve or receive a greater amount of interest than under state law) and that this Section shall control every other covenant and agreement in this Agreement and the other Loan Documents. If applicable state or federal law should be at any time be judicially interpreted so as to render usurious any amount called for under this Agreement, or any of the other Loan Documents, or contracted for, charged, taken, reserved or received with respect to this Agreement, or if the acceleration of any Guaranteed Obligation, or any prepayment, results in any Guarantor having paid any interest in excess of that permitted by applicable law, then it is the Lender’s express intent that all excess amounts theretofore actually collected by the Lender from such Guarantor and then retained by the Lender shall be credited on the principal balance of the indebtedness guaranteed hereby, and the provisions of this Agreement shall immediately be deemed reformed and the amounts thereafter collectible hereunder and thereunder reduced, without the necessity of the execution of any new documents, so as to comply with the applicable law, but so as to permit the recovery of the fullest amount otherwise called for hereunder or thereunder. All sums paid or agreed to be paid by any Guarantor to the Lender for the use or forbearance of the Guaranteed Obligations shall, to the extent permitted by applicable law, be amortized, prorated, allocated and spread throughout the full stated term of the Guaranteed Obligations until payment in full so that the rate or amount of interest collected under this Agreement does not exceed the maximum lawful rate from time to time in effect and applicable to the obligations payable under this Agreement. 
-
-^Headings. Article and Section headings in this Agreement are included herein for convenience of reference only and shall not constitute a part of this Agreement for any other purpose. 
-
-^**WAIVER OF JURY TRIAL. THE GUARANTORS AND THE LENDER WAIVE TRIAL BY JURY IN RESPECT OF ANY DISPUTE OR CLAIM HEREUNDER OR UNDER ANY OF THE OTHER LOAN DOCUMENTS AND ANY ACTION ON SUCH DISPUTE. THIS WAIVER IS KNOWINGLY, WILLINGLY AND VOLUNTARILY MADE BY THE GUARANTORS AND THE LENDER, AND THE GUARANTORS AND THE LENDER HEREBY REPRESENT THAT NO REPRESENTATIONS OF FACT OR OPINION HAVE BEEN MADE BY ANY PERSON OR ENTITY TO INDUCE THIS WAIVER OF TRIAL BY JURY OR TO IN ANY WAY MODIFY OR NULLIFY ITS EFFECT. THIS PROVISION IS A MATERIAL INDUCEMENT FOR THE PARTIES ENTERING INTO THE LOAN DOCUMENTS. THE GUARANTORS AND THE LENDER ARE EACH HEREBY AUTHORIZED TO FILE A COPY OF THIS SECTION IN ANY PROCEEDING AS CONCLUSIVE EVIDENCE OF THIS WAIVER OF JURY TRIAL. EACH GUARANTOR FURTHER REPRESENTS AND WARRANTS THAT IT HAS BEEN REPRESENTED IN THE SIGNING OF THIS AGREEMENT AND IN THE MAKING OF THIS WAIVER BY INDEPENDENT LEGAL COUNSEL, OR HAS HAD THE OPPORTUNITY TO BE REPRESENTED BY INDEPENDENT LEGAL COUNSEL SELECTED OF ITS OWN FREE WILL, AND THAT IT HAS HAD THE OPPORTUNITY TO DISCUSS THIS WAIVER WITH COUNSEL.** 
-
-^Integration. This Agreement and any other documents delivered herewith are intended by the parties as the final, complete and exclusive statement of the transactions evidenced by this Agreement. All prior or contemporaneous promises, agreements and understandings, whether oral or written, are deemed to be superseded by this Agreement and the other documents delivered herewith. 
-
-^Counterparts. This Agreement may be signed in any number of counterparts with the same effect as if the signatures hereto and thereto were upon the same instrument. 
-
-\centered ***[Signature pages follow.]*** 
-
-IN WITNESS WHEREOF, the Guarantors have executed this Agreement, as an instrument under seal, as of the day and year first above written. 
-
-ATOSSA HEALTHCARE, INC.
-
-[[ATOSSA HEALTHCARE INC. Signatory Email: Identity | Signature]]
+[[GUARANTOR Signatory Email: Identity | Signature]]
 __________________________________________
-{{ATOSSA HEALTHCARE INC. Entity => By: [[ATOSSA HEALTHCARE INC. Signatory First Name]] [[ATOSSA HEALTHCARE INC. Signatory Last Name]]
-Title: [[ATOSSA HEALTHCARE INC. Signatory Title]]}}
+{{GUARANTOR Entity => By: [[GUARANTOR Signatory First Name]] [[GUARANTOR Signatory Last Name]]
+Title: [[GUARANTOR Signatory Title]]}}
 
+Barry L. Lazarus
 
-MDRNA RESEARCH, INC.
+President
 
-[[MDRNA RESEARCH INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{MDRNA RESEARCH INC. Entity => By: [[MDRNA RESEARCH INC. Signatory First Name]] [[MDRNA RESEARCH INC. Signatory Last Name]]
-Title: [[MDRNA RESEARCH INC. Signatory Title]]}}
+[CORPORATE SEAL]
 
-
-CALAIS ACQUISITION CORP.
-
-[[CALAIS ACQUISITION CORP. Signatory Email: Identity | Signature]]
-__________________________________________
-{{CALAIS ACQUISITION CORP. Entity => By: [[CALAIS ACQUISITION CORP. Signatory First Name]] [[CALAIS ACQUISITION CORP. Signatory Last Name]]
-Title: [[CALAIS ACQUISITION CORP. Signatory Title]]}}
-
-
-\centered Signature Page to Guaranty Agreement 
-
-Accepted: 
-
-CEQUENT PHARMACEUTICALS, INC.
-
-[[CEQUENT PHARMACEUTICALS INC. Signatory Email: Identity | Signature]]
-__________________________________________
-{{CEQUENT PHARMACEUTICALS INC. Entity => By: [[CEQUENT PHARMACEUTICALS INC. Signatory First Name]] [[CEQUENT PHARMACEUTICALS INC. Signatory Last Name]]
-Title: [[CEQUENT PHARMACEUTICALS INC. Signatory Title]]}}
-
-
-\centered Signature Page to Guaranty Agreement 
-
-\centered DISCLOSURE SCHEDULE 
-
-Item 3.01(a)      - Subsidiaries of Guarantors
-
-Item 3.01(b)      - Ownership of Stock of Guarantors
-
-Item 3.01(f)      - Litigation and Administrative Proceedings
-
-Item 3.01(a) 
-
-\centered Subsidiaries of Guarantors 
-
-\centered None 
-
-Item 3.01(b) 
-
-\centered Ownership of Stock of Guarantors 
-
-**Guarantor:**      \centered **Stockholder:**      \centered **Number of Shares/Class:**      **Percent Ownership:**
-Atossa HealthCare, Inc.      MDRNA, Inc.      100 / Common       %
-MDRNA Research, Inc.      MDRNA, Inc.      360,000 / Common       %
-MDRNA, Inc.      1,839,080 / Series A Participating Preferred       %
-Calais Acquisition Corp.      MDRNA, Inc.      1,000 / Common       %
-
-Item 3.01(f) 
-
-\centered Litigation and Administrative Proceedings 
-
-\centered None
+Pleasant Hill Commons\Guaranty Agreement

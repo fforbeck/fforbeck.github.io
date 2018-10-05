@@ -1,127 +1,116 @@
-To Be Used With Employment Agreement
+\centered Restricted Stock Unit Award Agreement 
 
-\centered Restricted Stock Unit Agreement under
+\centered 2010 Long-term Incentive Plan Award 
 
-\centered Assured Guaranty Ltd. 2004 Long-Term Incentive Plan
+Throughout this Award Agreement we sometimes refer to Sprint Nextel Corporation and its subsidiaries as “we” or “us.” 
 
-THIS AGREEMENT is effective as of the Grant Date (as defined in paragraph 1), and is by and between the Participant and Assured Guaranty Ltd. (the “Company”).
+^Award of Restricted Stock Units 
 
-WHEREAS, the Company maintains the Assured Guaranty Ltd. 2004 Long-Term Incentive Plan (the “Plan”), and the Participant has been selected by the committee administering the Plan (the “Committee”) to receive a Restricted Stock Unit Award under the Plan; and
+On [[Date 1: Date]] (the “Date of Grant”), the Compensation Committee of the Board of Directors of Sprint Nextel (the “Compensation Committee”) granted you an Award of [number] Restricted Stock Units (RSUs) under the terms of the Sprint Nextel Corporation 2007 Omnibus Incentive Plan (the “Plan”). Subject to the restrictions and conditions of the Plan and this Award Agreement, including the Performance Adjustment described below, each RSU represents the right for you to receive from us one share of Common Stock on the Vesting Date and to dividends as described below. Your right to receive shares of Common Stock underlying the RSUs is a contractual right between you and us and does not give you a preferred claim to any particular assets or shares of Sprint Nextel. 
 
-NOW, THEREFORE, IT IS AGREED, by and between the Company and the Participant, as follows:
+^Performance Adjustment 
 
-^Terms of Award. The following words and phrases used in this Agreement shall have the meanings set forth in this paragraph 1:
+Your RSUs are allocated equally among three annual performance periods (2010, 2011 and 2012) for which annual financial objective(s) are determined by the Compensation Committee at the beginning of each applicable performance period. Subject to the discretion of the Compensation Committee, the number of RSUs allocable to each annual performance period will be adjusted as soon as reasonably practicable following each annual performance period by multiplying that number by a payout percentage ([[Percentage 1: Number]]% or [[Percentage 2: Number]]%) based on achievement of that annual performance period’s objective(s, as weighted) and the 162(m) objective (the “Performance Adjustment”). Any such adjusted number of RSUs for an annual performance period combined with remaining annual performance period allocation(s), as may be further adjusted pursuant to Section 10 of this Award Agreement below, are your “Outstanding RSUs.” 
 
-^^The “Participant” is
+^Restriction Period 
 
-^^The “Grant Date” is [[Date 1: Date]] **.**
+Subject to the terms and conditions of this Award Agreement, including the Performance Adjustment, your Outstanding RSUs vest [[Percentage 2]]% on the third anniversary of the Date of Grant (or the date of the final annual performance period adjustment if later), or the date vesting is accelerated as described in paragraph 5 below if earlier (the “Vesting Date”), conditioned upon you continuously serving as our employee through that Vesting Date other than as provided in paragraph 4 below. 
 
-^^The number of “Covered Units” granted under this Agreement is Units. Each “Unit” represents the right to receive one share of Stock on the Delivery Date, to the extent that the Participant is vested in such Units as of the Delivery Date, subject to the terms of this Agreement and the Plan.
+^Forfeiture of RSUs; Continued Vesting 
 
-^^The “Delivery Date” with respect to each Installment shall be the earliest to occur of:
+You will forfeit unvested Outstanding RSUs as of your Separation from Service (unless vesting of your Outstanding RSUs accelerates under paragraph 5). If your Separation from Service is on or after the later of your 65th birthday and the second anniversary of the Date of Grant, the continuation of employment requirement in paragraph 3 shall not apply and your Outstanding RSUs allocable to the final performance period shall be prorated based on your Separation from Service date. 
 
-^^^The date on which the Participant vests in that Installment in accordance with the schedule set forth in paragraph 3 (determined without regard to paragraphs 3(a), 3(b), 3(c), or 3(d)).
+Separation from Service is defined in the Plan. Generally, it means the date of your termination of employment with us. 
 
-^^^The Participant’s Date of Termination that occurs by reason of the Participant’s death.
+2010 LTIP Performance RSU Award Agreement  Nextel 
 
-^^^The date on which the Participant becomes Permanently Disabled on or before the Participant’s Date of Termination.
+^Acceleration of Vesting 
 
-^^^The date of a Change in Control on or before the Participant’s Date of Termination, but only if the Change in Control also satisfies the definition of “change in control event” as set forth in Treas. Reg. 1.409A-3(i)(5).
+Unvested Outstanding RSUs may vest before the time at which they would normally become vested  that is, the vesting of Outstanding RSUs may accelerate. Accelerated vesting occurs under the following circumstances: 
 
-^^^If an Installment constitutes nonqualified deferred compensation subject to Code section 457A, the date on which the amount is no longer treated as subject to a substantial risk of forfeiture.
+***Event***      \centered ***Condition for acceleration***      \centered ***Effective date of acceleration***
+Death      If you die.      Death.
 
-Other words and phrases used in this Agreement are defined pursuant to paragraph 17, elsewhere in this Agreement or the Plan.
+Disability      If you have a Separation from Service under circumstances that make you eligible for benefits under the company’s long-term disability plan.      Your Separation from Service (or after the Six-Month Payment Delay if you are a “specified employee” subject to this delay).
 
-^Restricted Stock Unit Award. This Agreement specifies the terms of the “Restricted Stock Unit Award” granted to the Participant.
+Involuntary Termination without Cause or Resignation with Good Reason      If you have a Separation from Service under circumstances that you are entitled to receive severance benefits under Section 9(b) of your employment agreement.      Your Separation from Service (or after the Six-Month Payment Delay if you are a “specified employee” subject to this delay) , conditioned on your delivering a release to the Company as described in Section 9(b) of your employment agreement.
 
-^Restricted Period. If the Date of Termination does not occur during the Restricted Period with respect to any Installment of the Covered Units, then the Participant shall become vested in such Installment at the end of such Restricted Period. With respect to all Covered Units, the “Restricted Period” for each Installment of Covered Units shall begin on the Grant Date. The Restricted Period with respect to each Installment shall end as described in the following schedule (but only if the Date of Termination has not occurred before the end of the Restricted Period):
+Six-Month Payment Delay is defined in the Plan to mean the required delay in payment to a Participant who is a “specified employee” of amounts subject to paragraph 409A of the Internal Revenue Code (the “Code”) that are paid upon Separation from Service. 
 
-\centered **INSTALLMENT:**      \centered **RESTRICTED PERIOD WILL END ON:** 
+^Dividends 
 
-\centered ¼ of Covered Units      \centered One year anniversary of the Grant Date 
+If cash dividends are paid on the Common Stock underlying RSUs you hold on the dividend record date, as determined retrospectively after the final Performance Adjustment, you will receive a cash payment equal to the amount of the dividend that would be paid on such Common Stock as soon as practicable after the Delivery Date but in no event later than 45 days after such date. 
 
-\centered ¼ of Covered Units      \centered Two year anniversary of the Grant Date 
+If non-cash dividends are paid on the Common Stock underlying your Outstanding RSUs, the Compensation Committee, in its sole discretion, may (1) adjust the RSUs as described in paragraph 10 of this Award Agreement or, (2) provide for distribution of the property distributed in the non-cash dividend. If the Compensation Committee provides for distribution of the non-cash dividend, and you hold the RSUs on the dividend record date, your vesting and delivery dates for the property distributed on the Common Stock underlying your adjusted RSUs will be the same as those dates for the RSUs. 
 
-\centered ¼ of Covered Units      \centered Three year anniversary of the Grant Date 
+Page 2 of 5 
 
-\centered ¼ of Covered Units      
+2010 LTIP Performance RSU Award Agreement  Nextel 
 
-\centered Four year anniversary of the Grant Date  
+^Delivery Date; Market Value Per Share 
 
-The Restricted Period shall end prior to the date specified in the foregoing schedule to the extent set forth below:
+The Delivery Date (the date as of which we distribute the Common Stock underlying the Outstanding RSUs to you) is the Vesting Date, or the day after the Six-Month Payment Delay if that delay applies to your RSUs. We calculate your taxable income on the Delivery Date using the Market Value Per Share on the immediately preceding trading day, but we use the average of the high and low reported prices of our Common Stock instead of the closing price. We will distribute the Common Stock underlying the Outstanding RSUs, as soon as practicable after the Delivery Date, but in no event later than 45 days after the Delivery Date. 
 
-^^For Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Restricted Period for such Installments shall end upon the Participant’s Date of Termination, if the Date of Termination occurs by reason of the Participant’s Disability or death.
+^Transfer of your RSUs and Designation of Beneficiaries 
 
-^^For Installments as to which the Restricted Period has not otherwise ended prior to the date of a Change in Control, the Restricted Period for such Installments shall end upon a Change in Control, provided that such Change in Control occurs on or before the Date of Termination.
+Your RSUs represent a contract between Sprint Nextel and you, and your rights under the contract are not assignable to any other party during your lifetime. Upon your death, shares of Common Stock underlying your RSUs will be delivered in accordance with the terms of the Award to any beneficiaries you name in a beneficiary designation or, if you make no designation, to your estate. 
 
-^^If the Participant’s employment is Terminated Without Cause, then for Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Participant shall be vested on the Date of Termination (and the Restricted Period shall end) with respect to the Installments (if any) that would vest on or before the two-year anniversary of the Date of Termination, determined as though the Participant had remained employed through the two-year anniversary of the Date of Termination. The terms “Cause” and “Terminated Without Cause” shall be defined as set forth in the Employment Agreement. Notwithstanding the foregoing, if the Executive’s employment is Terminated Without Cause, the provisions of this paragraph (c) shall apply only if the Executive executes and returns to the Company a general release and waiver of all claims against the Company as required under the Employment Agreement; provided that the Participant shall be eligible for vesting under this paragraph (c) only if the release is returned by such time as is established by the Committee; and further provided that to the extent benefits provided pursuant to this paragraph (c) would constitute deferred compensation subject to section 409A of the Code, such benefits shall be distributed to the Participant only if the release is returned in time to permit the distribution of the benefits to satisfy the requirements of section 409A of the Code with respect to the time of distribution.
+^Plan Terms 
 
-^^If the Participant’s Date of Termination occurs because of Retirement, then for Installments as to which the Restricted Period has not otherwise ended prior to the Date of Termination, the Restricted Period shall end on the Participant’s Date of Termination, and the Participant shall be vested in those Installments, subject to paragraph 17(g) (relating to the definition of Retirement).
+All capitalized terms used in this Award Agreement that are not defined in this Award Agreement have the same meaning as those terms have in the Plan. The terms of the Plan are hereby incorporated by this reference. The Plan is available online at http://iconnect.corp.sprint.com/portal/iland/?dochome=iw&docpath=IntranetDirectory/LandingPage/20080605_1650_10367056#LTI. 
 
-^Transfer of Shares and Forfeiture of Units. On the Delivery Date, the Participant shall receive one share of Stock for each Unit in which the Participant is then vested, and such shares shall be free of restrictions otherwise imposed by this Agreement, subject to the terms of this Agreement applicable after such Delivery Date (including, without limitation, paragraph 9) and the Plan. If any vested Units attributable to any Installment are allocated to the Participant after the date otherwise specified as the Delivery Date for that Installment (by reason of payment of dividends or otherwise), then, as soon as practicable after the date of allocation of such Units, the Participant will receive one share of Stock with respect to each such Unit. As of the date of distribution of Shares with respect to any Units, such Units shall be canceled. If the Restricted Period with respect to any Installments does not end on or before the Participant’s Date of Termination, then as of the Participant’s Date of Termination, the Participant shall forfeit such Installments. However, the Committee, in its sole discretion, may accelerate the end of the Restricted Period or provide for the vesting of the Covered Units under circumstances that such vesting would not otherwise occur in its sole discretion, based on such factors as the Committee deems appropriate.
+^Adjustment 
 
-^Withholding. All deliveries and distributions under this Agreement are subject to withholding of all applicable taxes. At the election of the Participant, and subject to such rules and limitations as may be established by the Committee from time to time, such withholding obligations may be satisfied through the surrender of shares of Stock which the Participant already owns, or to which the Participant is otherwise entitled under the Plan; provided, however, that such shares may be used to satisfy not more than the Company’s minimum statutory withholding obligation (based on minimum statutory withholding rates for Federal and state tax purposes, including payroll taxes, that are applicable to such taxable income).
+In the event of any change in the number or kind of outstanding shares of our Common Stock by reason of a recapitalization, merger, consolidation, spin-off, reorganization, separation, liquidation, stock split, stock dividend, combination of shares or any other change in our corporate structure or shares of our Common Stock, an appropriate adjustment will be made consistent with applicable provisions of the Code and applicable Treasury Department rulings and regulations in the number and kind of shares subject to outstanding Awards and any other adjustments as the Board deems appropriate. 
 
-^Transferability. Except as otherwise provided by the Committee, the Restricted Stock Unit Award may not be sold, assigned, transferred, pledged or otherwise encumbered during the Restricted Period.
+Page 3 of 5 
 
-^Dividends. The Participant will be credited with additional Units to reflect dividends payable with respect to Stock during the period between the Grant Date and the Delivery Date, with the increase in the number of Units equal to the number of shares of Stock which could be purchased with the dividends (assuming each Unit was a share of Stock), based on the value of such Stock at the time such dividends are paid. The Units credited on account of the preceding sentence shall be vested and distributed in accordance with the same schedule as the Units to which such dividends are attributable. No dividends shall be credited to or for the benefit of the Participant for Units with respect to record dates occurring prior to the Grant Date, or with respect to record dates occurring on or after the date, if any, on which the Participant has forfeited those Units.
+2010 LTIP Performance RSU Award Agreement  Nextel 
 
-^Voting. The Participant shall not be a shareholder of record with respect to the Units and shall have no voting rights with respect to the Units during the Restricted Period or prior to the Delivery Date.
+^Amendment; Discretionary Nature of Plan 
 
-^Cancellation and Rescission of Restricted Stock Unit Award.
+This Award Agreement is subject to the terms of the Plan, as may be amended from time to time, except that the Award which is the subject of this Award Agreement may not be materially impaired by any amendment or termination of the Plan approved after the Date of Grant without your written consent. You acknowledge and agree that the Plan is discretionary in nature and may be amended, cancelled, or terminated by us, in our sole discretion, at any time. The grant of RSUs under the Plan is a one-time benefit and does not create any contractual or other right to receive a grant of RSUs, other types of grants under the Plan, or benefits in lieu of such grants in the future. Future grants, if any, will be at the sole discretion of the Company, including, but not limited to, the timing of any grant, the number of RSUs granted, the payment of dividend equivalents, and vesting provisions. 
 
-^^The Committee may cancel, rescind, suspend, withhold or otherwise limit or restrict the Restricted Stock Unit Award at any time if the Participant engages in any “Detrimental Activity.”
+^Data Privacy 
 
-^^Immediately prior to the Delivery Date with respect to an Installment and prior to the transfer of the shares of Stock to the Participant, the Participant shall certify, to the extent required by the Committee, in a manner acceptable to the Committee, that the Participant is not engaging and has not engaged in any Detrimental Activity. In the event a Participant has engaged in any Detrimental Activity prior to, or during the twelve months after, the Delivery Date with respect to any Installment of Covered Units, the right to delivery of shares with respect to such Installment may be rescinded by the Committee within two years thereafter. In the event of any such rescission, the Participant shall pay to the Company the amount of any gain realized as a result of the prior delivery of shares applicable to the rescinded Installment(s), in such manner and on such terms and conditions as may be required by the Company, and the Company shall be entitled to set-off against the amount of any such gain any amount owed to the Participant by the Company and/or Subsidiary.
+[[12. Data Privacy Signatory Email: Identity | Signature]]
+__________________________________________
+{{12. Data Privacy Entity => By: [[12. Data Privacy Signatory First Name]] [[12. Data Privacy Signatory Last Name]]
+Title: [[12. Data Privacy Signatory Title]]}}
 
-^Heirs and Successors. This Agreement shall be binding upon, and inure to the benefit of, the Company and its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. If any benefits deliverable to the Participant under this Agreement have not been delivered at the time of the Participant’s death, such benefits shall be delivered to the Designated Beneficiary, in accordance with the provisions of this Agreement and the Plan. The “Designated Beneficiary” shall be the beneficiary or beneficiaries designated by the Participant in a writing filed with the Committee in such form and at such time as the Committee shall require. If a deceased Participant fails to designate a beneficiary, or if the Designated Beneficiary does not survive the Participant, any rights that would have been exercisable by the Participant and any benefits distributable to the Participant shall be distributed to the legal representative of the estate of the Participant. If a deceased Participant designates a beneficiary and the Designated Beneficiary survives the Participant but dies before the complete distribution of benefits to the Designated Beneficiary under this Agreement, then any benefits distributable to the Designated Beneficiary shall be distributed to the legal representative of the estate of the Designated Beneficiary.
+^Governing Law 
 
-^Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of this Agreement by the Committee and any decision made by it with respect to this Agreement is final and binding on all persons. The Committee shall have the authority to obtain such information from the Participant (including tax return information) as it determines may be necessary to confirm that the Participant is in compliance with the requirements applicable to Detrimental Activity, and if the Participant fails to provide such information, the Committee may conclude that the Participant is not in compliance with such requirements.
+This Award Agreement will be governed by the laws of the State of Kansas. No shares of Common Stock will be delivered to you upon the vesting of the RSUs unless counsel for the Company is satisfied that such delivery will be in compliance with all applicable laws. 
 
-^Plan Governs. Notwithstanding anything in this Agreement to the contrary, this Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company; and this Agreement is subject to all interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan.
+^Severability 
 
-^Not an Employment Contract. The Restricted Stock Unit Award will not confer on the Participant any right with respect to continuance of employment or other service with the Company or any Related Company, nor will it interfere in any way with any right the Company or any Related Company would otherwise have to terminate or modify the terms of such Participant’s employment or other service at any time.
+The various provisions of this Award Agreement are severable, and any determination of invalidity or unenforceability of any one provision shall have no effect on the remaining provisions. 
 
-^Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office.
+^Taxes 
 
-^Fractional Shares. In lieu of issuing a fraction of a share, resulting from an adjustment of the Restricted Stock Unit Award pursuant to the Plan or otherwise, the Company will be entitled to pay to the Participant an amount equal to the fair market value of such fractional share.
+You are liable for any and all taxes, including withholding taxes, arising out of this grant or the issuance of the Common Stock on vesting of RSUs. The Company is authorized to deduct the amount of the tax withholding from the amount payable to you upon settlement of the RSUs. We will withhold from the total number of shares of Common Stock you are to receive the value equal to the amount necessary to satisfy any such withholding obligation at the minimum applicable withholding rate. In addition, if you become subject to FICA or Medicare tax, but you are not yet entitled to delivery of the shares of Common Stock underlying the RSUs, you hereby authorize us to withhold the resulting FICA or Medicare tax from other income payable to you. 
 
-^Amendment. This Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Participant and the Company without the consent of any other person.
+Page 4 of 5 
 
-^Definitions. For purposes of this Agreement, words and phrases shall be defined as follows:
+2010 LTIP Performance RSU Award Agreement  Nextel 
 
-^^Change in Control. The term “Change in Control” shall be defined as set forth in the Plan.
+^Entire Agreement 
 
-^^Date of Termination. A Participant’s “Date of Termination” means, with respect to an employee, the date on which the Participant’s employment with the Company and Subsidiaries terminates for any reason, and with respect to a Director, the date immediately following the last day on which the Participant serves as a Director; provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s transfer of employment between the Company and a Subsidiary or between two Subsidiaries; further provided that a Date of Termination shall not be deemed to occur by reason of a Participant’s cessation of service as a Director if immediately following such cessation of service the Participant becomes or continues to be employed by the Company or a Subsidiary, nor by reason of a Participant’s termination of employment with the Company or a Subsidiary if immediately following such termination of employment the Participant becomes or continues to be a Director; and further provided that a Participant’s employment shall not be considered terminated while the Participant is on a leave of absence from the Company or a Subsidiary approved by the Participant’s employer.
+You hereby acknowledge that you have read the 2007 Omnibus Incentive Plan Information Statement dated [[Date 2: Date]] (the “Information Statement”) available on line at
+http://iconnect.corp.sprint.com/portal/iland/?dochome=iw&docpath=IntranetDirectory/LandingPage/20080605_1650_10367056#LTI.
+To the extent not inconsistent with the provisions of this Award Agreement, the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement, along with the Information Statement and the Plan, contain the entire understanding of the parties.
 
-^^Detrimental Activity. The term “Detrimental Activity” shall mean (i) a violation of paragraph 11 of the Employment Agreement (relating to competition) during the period in which such activity is prohibited under the Employment Agreement; or (ii) a violation of paragraph 12 of the Employment Agreement (relating to confidentiality).
 
-^^Director. The term “Director” means a member of the Board of Directors of Assured Guaranty, Ltd., who may or may not be an employee of the Company or a Subsidiary.
 
-^^Disability. The Participant shall be considered to have a “Disability” during the period in which the Participant is unable, by reason of a medically determinable physical or mental impairment, to engage in any substantial gainful activity, which condition, in the opinion of a physician selected by the Committee, is expected to have a duration of not less than 120 days. The Participant shall be considered to be Permanently Disabled if he would be treated as “disabled” in accordance with the provisions of Treas. Reg. §1.409A-3(i)(4).
+[[To the extent not inconsistent with the provisions of this Award Agreement the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement along with the Information Statement and the Plan contain the entire understanding of the parties. Signatory Email: Identity | Signature]]
+__________________________________________
+{{To the extent not inconsistent with the provisions of this Award Agreement the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement along with the Information Statement and the Plan contain the entire understanding of the parties. Entity => By: [[To the extent not inconsistent with the provisions of this Award Agreement the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement along with the Information Statement and the Plan contain the entire understanding of the parties. Signatory First Name]] [[To the extent not inconsistent with the provisions of this Award Agreement the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement along with the Information Statement and the Plan contain the entire understanding of the parties. Signatory Last Name]]
+Title: [[To the extent not inconsistent with the provisions of this Award Agreement the terms of the Information Statement and the Plan are hereby incorporated by reference. This Award Agreement along with the Information Statement and the Plan contain the entire understanding of the parties. Signatory Title]]}}
 
-^^Employment Agreement. “Employment Agreement” shall mean the agreement between the Participant and the Company as amended and restated as of [[[Date 2: Date]]] [[[Date 3: Date]] for SMcC] or any successor agreement thereto.
+[Employee]
 
-^^Retirement. “Retirement” of a Participant will be determined in accordance with the following:
+\centered *This document constitutes part of a prospectus covering securities that have been* 
 
-^^^Retirement shall mean the occurrence of a Participant’s Date of Termination with the consent of the Participant’s employer after the Participant has completed three years of service and attained age 55.(1)
+\centered *registered under the Securities Act of 1933* 
 
-^^^For purposes of defining “Retirement,” years of service shall be determined in accordance with rules which may be established by the Committee, and shall take into
-
-^“Retirement” for Mr. Bailenson, 55 years of age with 5 years of service and the consent of the Compensation Committee or 60 years of age with 5 years of service. account service with the Company and the Subsidiaries. If, on or before the date of the initial public offering of stock of the Company, the Participant was employed by the Company or its Subsidiaries, years of service shall also include service with ACE Limited and its subsidiaries occurring prior to such initial public offering.
-
-^^^Notwithstanding that the Participant’s Date of Termination satisfies the requirements of paragraph (i) above, the Participant will not be considered to have retired (or have terminated by reason of Retirement) with respect to any Installment if the Committee determines that the Participant has provided significant commercial or business services to any one or more persons or entities on or before the Delivery Date applicable to that Installment, regardless of whether such entity is owned or controlled by the Participant; provided that the Participant may devote reasonable time to the supervision of his personal investments, and activities involving professional, charitable, community, educational, religious and similar types of organizations, speaking engagements, membership on the boards of directors of other organizations, and similar types of activities, to the extent that the Committee, in its discretion, determines that such activities are consistent with the Participant’s Retirement.
-
-^^^At the request of the Committee, and as a condition of receiving a distribution of Shares in settlement of an Installment, the Participant shall be required to provide a listing of the activities engaged in by the Participant following the Participant’s Date of Termination and prior to the Delivery Date applicable to such Installment and such other information that the Committee determines may be necessary from time to time to establish whether the Participant has acted in a manner that is consistent with the requirements of paragraph (iii). Such listing and information shall be provided promptly by the Participant, but in no event more than 10 days after written request is delivered to the Participant.
-
-^^^At the request of the Participant, the Committee shall determine whether a proposed activity of the Participant will be consistent with the requirements of paragraph (iii). Such request shall be accompanied by a description of the proposed activities, and the Participant shall provide such additional information as the Committee may determine is necessary to make the determination. Such a determination shall be made promptly, but in no event more than 30 days after the written request, together with any additional information requested of the Participant, is delivered to the Committee.
-
-^^^If, prior to the Delivery Date applicable to any Installment, a Participant engages in one or more activities that the Committee determines to be inconsistent with Retirement, as set forth in paragraph (iii) above, the right to a distribution of Shares with respect to the Installment (including the right to distribution of Shares attributable to dividends) may be canceled by the Committee.
-
-^^Plan Definitions. Except where the context clearly implies or indicates the contrary, a word, term, or phrase used in the Plan is similarly used in this Agreement.
-
-Agreed Upon:
-
-Assured Guaranty Ltd.
-
-Participant
+Page 5 of 5

@@ -1,0 +1,29 @@
+Amendment To License Agreement**  \centered **Amendment To License Agreement** This Amendment to that certain License Agreement with an Effective Date of 1 [[Date 1: Date]] (the "Agreement") made by and between Townsend Analytics, Ltd, (*"Townsend"*) and Terra Nova Financial (*"Terra Nova"*) witnesses that the parties hereby agree to revise and amend the Agreement as follows:  
+
+^Term. The current Term shall expire on [[Date 2: Date]] and the renewal Term shall commence as of [[Date 3: Date]] and shall continue for one (1) year. Thereafter, the term of this Agreement shall automatically renew for successive one year terms unless: (i) terminated earlier pursuant to the terms set forth in this Agreement; or (ii) either party receives written notice from the other party of non-renewal at least 50 days prior to the end of the then-current term. The initial term and each succeeding term shall be defined as "Term" for purposes of this Agreement.
+
+^Change in Control. Terra Nova may not assign, delegate or otherwise transfer this Agreement or any of its rights or obligations hereunder without the prior written consent of Townsend. Further, upon the sale or other conveyance of more than [[Percentage 1: Number]]% of the assets of or ownership interests in Terra Nova (whether in a single transaction or in a series of transactions), Townsend shall have the right to terminate this Agreement without payment or penalty upon not less than sixty (60) days prior written notice to Terra Nova.
+
+^Money Laundering Representation. Terra Nova represents and warrants that it has established all anti-money laundering and sanctions compliance programs that it is required to establish by any applicable anti-money laundering and/or sanction law, including, without limitation (i) the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (Public Law 107-56) (the ***"USA PATRIOT Act"***) and the U.S. Department of the Treasury's Office of Foreign Assets Control (GFAC) sanctions); (ii) the rules and regulations thereunder and (iii) any related or similar rule, regulations or guidelines, issued, administered or enforced by any governmental authority (collectively, the ***"Money Laundering Laws"***). Terra Nova further represents and warrants that Terra Nova is not in violation of any Money laundering laws and has not engaged in or conspired to engage in any transaction that has the purpose of evading or avoiding, or has attempted to violate, any Money Laundering Laws. Violation of any of the above provisions may result in immediate termination of this Agreement.
+
+^Fees. Schedule A attached to the Agreement shall be superseded and replaced by that Schedule A attached to this Amendment, effective as of 1 [[Date 4: Date]].
+
+^Order Destinations. Schedule C attached to the Agreement shall be superseded and replaced by that Schedule C attached to this Amendment, effective as of 1 [[Date 5: Date]].
+
+^Except as revised by the terms of this Amendment, the terms of the Agreement shall continue in full force and effect.
+
+^The words, phrases and terms used in this Amendment shall have the same meaning and definition as when used in the Agreement unless explicitly defined otherwise herein.
+
+Dated this [[Date 6: Date]].  
+
+Terra Nova Financial   Townsend Analytics, Ltd.
+
+[[Terra Nova Financial   Townsend Analytics Ltd. Signatory Email: Identity | Signature]]
+__________________________________________
+{{Terra Nova Financial   Townsend Analytics Ltd. Entity => By: [[Terra Nova Financial   Townsend Analytics Ltd. Signatory First Name]] [[Terra Nova Financial   Townsend Analytics Ltd. Signatory Last Name]]
+Title: [[Terra Nova Financial   Townsend Analytics Ltd. Signatory Title]]}}
+
+Authorized Signature   Authorized Signature
+
+Raymond P. Burley, President   Stuart Breslow, Chief Executive Officer
+Print Name and Title

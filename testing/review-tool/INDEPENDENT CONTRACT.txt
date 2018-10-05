@@ -1,113 +1,257 @@
 \centered **INDEPENDENT CONTRACTOR AGREEMENT**
 
-INDEPENDENT CONTRACTOR AGREEMENT dated [[Date 1: Date]] between [[Contractor]] (“Contractor”) whose address is Hunziker Lease and Finance, [[Address 1: Address]], and [[Willis Lease]], a [[State of Formation: State]] [[Organization: EntityType]] (“Willis Lease”) whose address is 773 San Marin Drive, Suite 2215, [[Address 3: Address]]. Contractor and Willis Lease are sometimes referred to in this Agreement individually as a the “Party” or collectively as the “Parties.”
+THIS INDEPENDENT CONTRACTOR AGREEMENT, made effective as of the [[Date 1: Date]] by and between [[Company]], a [[State of Formation: State]] [[Organization: EntityType]] (the "Company"), and [[Contractor]] (the "Contractor").
 
-\centered R E C I T A L S
+\centered **RECITALS:**
 
-^Contractor has substantial experience and expertise in the European capital markets.
+^The Company is engaged in the business of designing, developing, manufacturing, and selling moissanite jewels (the “Business”) and desires to engage the Contractor to assist the Company in providing financial and accounting services (the “Services”) for the business.
 
-^Willis Lease desires to retain the services of Contractor, and Contractor desires to perform services for Willis Lease, on the terms and conditions hereinafter set forth.
+^The Contractor desires to provide such services to the Company on the terms and for the compensation set forth herein.
 
-\centered A G R E E M E N T
+NOW THEREFORE, the parties hereto agree as follows:
 
-The Parties agree as follows:
+^**Engagement****.** The Company hereby engages the Contractor as a nonexclusive contractor to perform the Services (as defined herein) subject to the terms and conditions of this Agreement, and the Contractor hereby accepts such engagement for and in consideration of the compensation hereinafter provided and agrees to use his best efforts in performing the Services. The Contractor shall perform his obligations hereunder in compliance with the terms of this Agreement and any and all applicable laws and regulations. The Contractor acknowledges that this is a nonexclusive engagement by the Company and that the Company retains the right to appoint additional contractors as the Company, in its sole and unrestricted judgment, may from time to time determine to be in the best interests of the Company without liability or obligation to the Contractor.
 
-^Services. During the term of this Agreement, and subject to the terms and conditions hereinafter set forth, Contractor agrees to perform services in connection with the identification and qualification of potential investors in equity securities of Willis Lease. Such services shall be performed from time to time as requested by Charles F. Willis, President and Chief Executive Officer of Willis Lease, or his designee.
+^**Services****.**  
+^^The Contractor agrees to provide financial and accounting services for the Company and perform other duties related thereto as the Company may determine from time to time (the “Services”). Contractor warrants to the Company that the Services will be performed in a professional, timely and workmanlike manner.
 
-^Term and Termination.
+^^The Contractor shall execute a Confidential Disclosure Agreement in substantially the form attached hereto as Exhibit A concurrent with the execution of this Agreement.
 
-^^Term. The term of this Agreement shall commence [[Date 2: Date]] and shall continue through [[Date 3: Date]].
+^**Licenses, Tools and Materials****.** Contractor shall be responsible for obtaining, at Contractor’s own expense, all licenses, permits and bonds as may be required by any federal, state or local law or regulation for the performance of Contractor’s duties hereunder. The Company shall be responsible for supplying at its cost all necessary tools and materials to be used by Contractor.
 
-^^This Agreement shall terminate at the option of the unaffected party upon the occurrence of any of the following events:
+^**Limitations****.** Nothing in this Agreement shall be construed to give the Contractor authority to represent the Company before any court or governmental or regulatory agency without the express prior written authorization of the Company. In addition, all files, books, accounts, records and other information of any nature, however recorded or stored, and related to the Company (the "Records") shall at all times belong to the Company and to the extent possessed by the Contractor hereunder, such possession shall be for the benefit
 
-^^^The dissolution or liquidation of Willis Lease;
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
 
-^^^The death or total disability of Contractor. Total disability is any disability which prevents Contractor from performing services hereunder for a period of twenty-one consecutive days, or thirty nonconsecutive days;
+\centered Facsimile [[Phone 2]] www.moissanite.com
 
-^^^A breach by Contractor of any of Contractor’s covenants under this Agreement which Contractor fails to cure within ten days after written notice of such breach;
+CONFIDENTIAL [[Company]] 60; 
 
-^^^The mutual written agreement of the parties to this Agreement; or
+Page 2  
 
-^^Thirty days after written notice by either Party to the other Party.
+of and as agent for the Company. The Contractor's possession of the Records is at the will of the Company and is solely for the purpose of enabling the Contractor to perform his obligations hereunder. The Records shall be readily separable from the records of the Contractor.
 
-^^On termination of this Agreement for any reason whatsoever, (i) Willis Lease shall pay to Contractor all amounts accrued under paragraph 3 hereof up to the date of termination; (ii) Contractor shall deliver to Willis Lease any and all completed and uncompleted tasks which Contractor may have been performing at the time of the termination as well as all Willis Lease data and information, in written, recorded or physical form concerning the subject of this Agreement and entrusted to or developed by Contractor during the term of this Agreement; and (iii) the terms and provisions of this Agreement shall have no further force or effect except for Sections 6 and 9 which shall survive the termination of this Agreement.
+^**Term****.** The term of this Agreement shall commence on the date hereof and shall continue thereafter through and including the close of business on [[Date 2: Date]]. Notwithstanding the foregoing, the Company may terminate this Agreement for “cause,” as defined herein, by giving written notice of at least 30 days in advance of its desire to terminate this Agreement for cause. The Company shall be deemed to have cause for terminating Contractor’s engagement in the event Contractor (i) demonstrates any dishonesty or engages in any act of moral turpitude, (ii) impr operly performs or fails to perform the Services described herein, (iii) causes intentional damage to substantial property of the Company, or (iv) is unable to perform the Services because of death or a disability which renders him unable to perform the Services for 30 consecutive calendar days.
 
-^^^^ \centered (d) All amendments to this Agreement must be in writing and executed by both Parties prior to the amendment taking effect. 
+^**Fees****.** As compensation for the performance of the Services, the Company shall pay the Contractor at a rate of $[[USD Value 1: Number]] per hour worked, billable in ¼ hour increments. Contractor will submit a report of hours worked every 2 weeks and C&C will pay contractor within 2 weeks from receipt of this report. No amounts (including without limitation, social security, federal and state withholding taxes) shall be withheld or otherwise subtracted from the compensation paid to the Contractor pursuant to this Section 5 unless required by law. In addition, the Contractor sh all be reimbursed for all expenses incurred by the Contractor on behalf (and with the prior written authorization) of the Company, in accordance with the attached C&C Travel and Expense Policy, from the date the Contractor delivers an itemized report of such expenses, together with receipts or other evidence of payment reasonably satisfactory to the Company and its accountant. C&C agrees to pay for existing employee healthcare benefits for the month of [[Date 3: Date]].
 
-^Compensation and Payment.
+^**Background Check, Credit Check, Drug Testing and Searches****.** The Contractor understands and agrees that (i) the Company may require the Contractor to undergo a criminal background check, a credit check and/or drug testing as a condition of being allowed to perform the Services, (ii) in the sole discretion of the Company, the Contractor may be prohibited from performing the Services based upon the results of a background check, a credit check or drug test, and (iii) the Company may conduct a reasonable search of the Contractor if the Company has reasonable suspicion to believe that the Contractor has in his possession property belonging to the Company.
 
-^^In consideration of the services performed by Contractor hereunder, Contractor shall be paid fees at the rate of $[[USD Value 4: Number]] per hour, up to a maximum of $[[USD Value 1: Number]] per month for any calendar month and not to exceed $[[USD Value 2: Number]] for any 12 month period.
+^**Indemnification****.** The Contractor shall defend, release, indemnify and hold the Company and its directors, officers, shareholders, employees and agents and the personal representatives and assigns of each, harmless from and against any and all claims, suits, liability, costs and expenses, including, without limitation, attorneys' fees and expenses, in connection with any knowing and intentional act or omission of the Contractor, his employees and/or agents in connection with the provision of the Services.
 
-^^Willis Lease will reimburse Contractor for reasonable out of pocket expenses incurred in the performance of his duties under this Agreement. Expenses in excess of US$[[USD Value 3: Number]] shall be pre-approved by Willis Lease.
+^**Insurance Representations, Workplace Safety****.** The Contractor agrees to maintain liability, worker's compensation, errors and omission and/or other insurance in such amounts and with such carriers as the Company may reasonably request, each of which policies shall, upon request of the Company, name the Company as an additional insured. In addition, the Contractor shall be solely responsible for workplace safety, shall maintain the workplace in accordance with industry standards and shall comply with all governmental (including federal, state and local) regulations.
 
-^^Contractor shall invoice Willis Lease bi-weekly describing, in reasonable detail, his activities in performing the services under this Agreement.
+^**Notices****.** All notices, demands, requests or other communications which may be or are required to be given, served or sent by one party to the other party pursuant to this Agreement shall be in writing and shall be hand delivered or mailed by certified mail, return receipt requested, postage prepaid, or sent by telefax,
 
-^Relationship of the Parties.
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
 
-^^Contractor is a member of the Board of Directors of Willis Lease. Notwithstanding that fact, the Parties intend that the relationship between them created by this Agreement is that of principal and independent contractor. Neither Contractor nor any agent, employee, or servant of Contractor shall be or shall be deemed to be an agent, employee, or servant of Willis Lease. The manner and means of performing services under this Agreement shall be under the sole control of Contractor. None of the benefits provided by Willis Lease to its employees (including, but not limited to, compensation, insurance, vacation pay, sick leave, profit sharing, health insurance and workers’ compensation insurance) shall be available to Contractor or any agent, employee or servant of Contractor. Contractor shall be solely and entirely responsible for his acts and for the acts of his agents, employees, servants, and subcontractors during the performance of services under this Agreement. Contractor specifically acknowledges he is covered under his own workers’ compensation and will not be covered under the workers’ compensation or other insurance of Willis Lease.
+\centered Facsimile [[Phone 2]] www.moissanite.com
 
-^^During the term of this Agreement, including any extensions or renewals thereof, Contractor shall perform all of the duties required of him under the terms of this Agreement.
+CONFIDENTIAL [[Company]] 60; 
 
-^^Contractor acknowledges that he does not have the authority to bind Willis Lease to any contract, nor does Contractor have the authority to enter into contracts on behalf of Willis Lease. Each Party agrees not to represent in any way the existence of (i) any authority to bind the other Party, or (ii) any relationship between the Parties hereto other than the independent contractor arrangement specified herein.
+Page 3  
 
-^Compliance with Laws and Regulations. In the performance of services hereunder, Contractor agrees to act in full compliance with any and all applicable laws, rules and regulations adopted or promulgated by any governmental agency or regulatory body, both state and federal. Contractor assumes full responsibility for the payment of any and all contributions, payroll taxes or assessments, imposed by any governmental authority with respect to Contractor and/or any employees of Contractor engaged in the performance of services hereunder. Contractor assumes and agrees to pay any and all gross receipts, compensating, use, transaction, sales, or other taxes or assessments of whatever nature or kind levied or assessed as a consequence of services performed or compensation paid under this Agreement.
+addressed as follows:   
+If to the Company:  
+[[Address 1: Address]] 
+Attention: Richard A. Bird, CEO 
+Phone: [[Phone 1]]  
+If to the Contractor:  
+Neil S. Boss 
+[[Address 2: Address]] 
+[[Phone 3]]  
+Each party may designate by notice in writing a new address to which any notice, demand, request or communication may thereafter be delivered, given or sent. Documents delivered by hand shall be deemed to have been received upon delivery; documents sent by telefax shall be deemed to have been received when the answer back is received; and documents sent by mail shall be deemed to have been received upon their receipt, or at such time as delivery is refused by the addressee upon presentation.
 
-^Indemnification. Contractor shall indemnify, hold harmless, protect, and defend Willis Lease from and against any and all damages, losses, liabilities, obligations, or deficiencies resulting from, arising out of, or connected with, (i) the nonfulfillment of any obligation on the part of Contractor to be observed or performed under this Agreement, (ii) any and all claims made against Willis Lease by any third Party, or third Parties, at any time after the execution and delivery of this Agreement, arising out of, or connected with, any negligent act, or omission, or willful misconduct of Contractor, or (iii) any demands, assessments, judgments, costs, reasonable attorneys’ fees, or other expenses arising out of, or connected with, any action, suit, proceeding or claim incident to any of the foregoing.
+^**Security****.** The Contractor agrees that he will at all times comply with all security regulations in effect from time to time at the Company's premises or applicable outside such premises, to materials belonging to the Company. The Contractor agrees not to use or disclose to any party any information, systems, equipment, ideas, processes, or methods of operation observed in connection with the performance of his obligations hereunder.
 
-^Arbitration. Any and all claims arising out of or related to the performance of services under this Agreement, any provision or aspect of this Agreement, or any alleged breach thereof, including any dispute as to any amount owed under this Agreement, shall be settled by arbitration in San Francisco, California in accordance with the rules then prevailing of the American Arbitration Association for Commercial Disputes; provided, however, that (i) in the event of any conflict between this and any other provision of this Agreement and such rules, the provisions of this Agreement shall prevail, and (ii) any claim must be presented for arbitration within six months of the date upon which the aggrieved Party became aware of, or should have become aware of, the alleged claim. Failure to assert a claim within six months shall forever bar assertion of such claim. The results of any arbitration shall be final and binding upon the Parties and judgment thereon may be entered in any California or Swiss court.
+^**Independent Contractor****.**  
+^^**Acknowledgment by Contractor**. Contractor acknowledges and agrees that Contractor will be treated, vis-a-vis the Company as an independent contractor and not as an employee, agent or authorized representative of the Company. Contractor shall have no authority to bind the Company to any contract, agreement or obligation whatsoever. The acts of Contractor shall in no way constitute the acts of the Company and Contractor shall not represent to any third party that Contractor has any express or implied authority to bind the Company to any such contract, agreement or obligation.
 
-^Authority. Contractor represents and warrants that he has the right to enter into this Agreement.
+^^**Tax Matters**. Because Contractor is an independent contractor, the Company will not withhold from any compensation paid to Contractor any amounts for federal or state income taxes, or social security (FICA) for Contractor, nor will the Company pay any social security or unemployment tax with respect to Contractor. Such taxes are the responsibility of Contractor. Contractor agrees to indemnify and hold the Company (including its employees, officers, directors, agents, subsidiaries or affiliates) harmless, and hereby indemnifies and hold the Company harmless, from and against any damage, claim, assessment, interest charge or penalty incurred by or charged to the Company as a result of any claim, cause of action or assessment by any federal or state government or agency for any nonpayment or late payment by Contractor of any tax or contribution based upon compensation paid hereunder or because the Company did not withhold any taxes from compensation paid hereunder.
 
-^Confidentiality.
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
 
-^^Contractor acknowledges that in the course of performance under this Agreement he will receive, may develop and have access to the valuable, proprietary and trade secret information of Willis Lease and that the unauthorized disclosure of Willis Lease’s proprietary and trade secret information would irreparably damage Willis Lease. Accordingly, Contractor agrees that all proprietary and trade secret information received or developed by Contractor as a consequence of this Agreement is the property of Willis Lease, shall be maintained in confidence and will not be used, published or disclosed by Contractor without.
+\centered Facsimile [[Phone 2]] www.moissanite.com
 
-^^The financial terms of this Agreement are also to be considered Confidential Information.
+CONFIDENTIAL [[Company]] 60; 
 
-^^Except in any proceeding to enforce provisions of this Agreement, Contractor, its employees, officers, directors and agents shall not publicize or disclose to any third party any of the terms or conditions of this Agreement . Notwithstanding the foregoing, Willis Lease may describe or file this Agreement in its periodic filings with the Securities Exchange Commission.
+Page 4  
 
-^^If either Party, or any one of its employees, officers, directors or agents is served with a subpoena or other process requiring production or disclosure of this Agreement or any of its terms or conditions, then the person or entity receiving such a subpoena or other process, before complying with such subpoena or other process, shall immediately notify the other of the same and permit the other a reasonable period of time (taking into account the terms of the subpoena or other process) to intervene and to contest such production.
+^^**No Insurance**. Consistent with Contractor’s status as an independent contractor, the Company will not provide Contractor with any company, individual or group insurance policy or any other kind of insurance coverage whatsoever.
 
-^^The obligations of confidentiality discussed in this Agreement shall survive the termination of this Agreement.
+^**Assignment****.** Neither this Agreement or any interest herein or any rights hereunder shall be sold or assigned by the Contractor, nor shall any of the duties of the Contractor hereunder be delegated to any person, firm or corporation, without prior notice to and consent of the Company.
 
-^Conflicts of Interest. During the term of this Agreement, Contractor shall be under no restriction with regard to entering into consulting arrangements with other persons or organizations, except that Contractor shall not engage in any activities which might be in conflict with Willis Lease’s interest, for example, working for a competitor of Willis Lease. Contractor agrees to present any questions or concerns about the implementation of this provision to Willis Lease and the parties agree to reach a mutually satisfactory resolution of the issue.
+^**Intellectual Property****.** Any inventions, copyrights, or other intellectual property created or developed by Contractor or Contractor’s employees, or associates or sub-contractors during the term of this Agreement related to the work performed under the Agreement shall be assigned to the Company.
 
-^Miscellaneous.
+^**Standard of Care****.** The Contractor warrants that he will exercise due diligence to perform the Services in a professional manner in compliance with all applicable laws and regulations and the highest ethical standards. In addition the Contractor represents and warrants that any information which he may supply the Company during the term of this Agreement (i) will have been obtained by the Contractor lawfully and from publicly available sources, and (ii) will not be confidential or proprietary to any third person. Nothing in this Agreement shall be construed as authorizing o r encouraging the Contractor to obtain information for the Company in violation of any third party's rights to copyright or trade secret protection.
 
-(a)No Waiver. No waiver of any breach or of any one or more of the conditions or covenants in this Agreement by any Party hereto shall be deemed to imply or constitute a further waiver of any other like breach, condition or covenant.
+^**Miscellaneous**.  
+^^The provisions of this Agreement may be waived, altered, amended or repealed, in whole or in part, only on the written consent of the Company and the Contractor.
 
-(b)Entire Agreement. This Agreement sets forth the entire agreement and understanding between the Parties hereto as to the subject matter hereof, and merges with and supersedes all prior discussions, agreements and understandings of every and any nature between them with respect to such subject matter.
+^^Section headings and numbers used in this Agreement are included for convenience of reference only, and, if there is any conflict between any such numbers and headings, and the text of this Agreement, the text shall control. Each of the statements set forth in the premises of this Agreement is incorporated into the Agreement as a valid and binding representation of the party or parties to whom it relates.
 
-(c)Binding Effect. All terms and provisions of this Agreement shall be binding upon and inure to the benefit of and be enforceable by the Parties hereto and their successors and permitted assigns.
+^^This Agreement shall be governed by and construed in accordance with the laws of the State of North Carolina without reference to the choice of law principles thereof. If any dispute arises hereunder, the parties hereto agree that any suit brought by either party shall be heard in the courts of North Carolina or any federal court sitting in North Carolina, and the parties hereto consent to the jurisdiction of such courts.
 
-(d)Assignment. This Agreement can neither be assigned nor can the performance of any duties be delegated by the Contractor without the specific written authorization of Willis Lease.
+^^This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
 
-(e)Headings; Severability. The headings in the sections of this Agreement are inserted for convenience only and shall not be considered or referred to in resolving any questions of interpretation. The provisions of this Agreement are severable, and if any of or more provisions may be determined to be judicially unenforceable, in whole or in part, the remaining provisions, and any partially unenforceable provisions, to the extent enforceable, shall nevertheless be binding and enforceable upon the Parties hereto.
+^^This Agreement, together with the Confidential Disclosure Agreement herein referenced represent the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety any and all prior written or oral agreements with respect thereto.
 
-(f)Notices. All notices, requests, demands, and other communications hereunder shall be in writing and shall be effective upon receipt. All notices shall be given or served personally or sent by facsimile or first class mail, postage prepaid, addressed as follows:
+^^Neither party shall have the right under this Agreement to use the name, trademark or trade names of the other, unless prior written approval has been obtained. Any such approval or authorization shall cease upon termination of this Agreement.
 
-\centered If to Willis Lease: [[Willis Lease]] Attn: Legal Department 773 San Marin Drive, Suite 2215 [[Address 3: Address]] Tel.: [[Phone 1]] Fax: [[Phone 2]] Fax: 619/578-9879  
+^^During the term of this agreement, C&C will supply contractor with a laptop computer and blackberry.
 
-\centered If to Contractor: [[Contractor]] Hunziker Lease and Finance Zeughausgasse 9a, 6301 [[Address 2: Address]] Tel: 41 41 71044 24 Fax: 41 41 71044 50  
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
 
-or to such other address which the Party receiving the notice has notified the Party giving the notice in the manner aforesaid.
+\centered Facsimile [[Phone 2]] www.moissanite.com
 
-^^No Trading in Willis Lease Stock Contractor acknowledges that he is a director of Willis Lease. As such, his trading in Willis Lease’s stock is subject to restriction under Willis Lease policies.
+CONFIDENTIAL [[Company]] 60; 
 
-(j)Governing Law. This Agreement shall be construed and interpreted according to the laws of the State of California.
+Page 5  
 
-IN WITNESS WHEREOF, the Parties hereto have executed this Agreement effective as of the date first above written.
+IN WITNESS WHEREOF, the duly authorized representatives of the parties have executed this Independent Contractor Agreement as of the date and year first above written.
 
-[[Willis Lease]]
-
-[[Willis Lease Signatory Email: Identity | Signature]]
+\centered **COMPANY** 
+[[Company]] 
+[[Company Signatory Email: Identity | Signature]]
 __________________________________________
-{{Willis Lease Entity => By: [[Willis Lease Signatory First Name]] [[Willis Lease Signatory Last Name]]
-Title: [[Willis Lease Signatory Title]]}}
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
 
-
-/s/ [[Contractor]]
-[[/s/ Contractor Signatory Email: Identity | Signature]]
+**CONTRACTOR** 
+[[CONTRACTOR Signatory Email: Identity | Signature]]
 __________________________________________
-{{/s/ Contractor Entity => By: [[/s/ Contractor Signatory First Name]] [[/s/ Contractor Signatory Last Name]]
-Title: [[/s/ Contractor Signatory Title]]}}
+{{CONTRACTOR Entity => By: [[CONTRACTOR Signatory First Name]] [[CONTRACTOR Signatory Last Name]]
+Title: [[CONTRACTOR Signatory Title]]}}
+ Neil S. Boss  
+
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
+
+\centered Facsimile [[Phone 2]] www.moissanite.com
+
+CONFIDENTIAL [[Company]] 60; 
+
+\centered **ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT**
+
+THIS ADDENDUM will supplement the INDEPENDENT CONTRACTOR AGREEMENT, made effective as of the [[Date 1]] by and between [[Company]], a North Carolina corporation (the "Company"), and [[Contractor]] (the "Contractor").
+
+\centered **RECITALS:**
+
+^The Company agrees to offer Contractor a minimum of 25 hours of billable time each week during the period beginning [[Date 4: Date]] and ending [[Date 5: Date]]. If the Company does not offer 25 hours of work per week during this period, the company will still pay contractor at $[[USD Value 1]] per hour for the 25 hour minimum. Contractor also agrees to make himself available for a minimum of 25 hours per week during this period. Contractor can inform the Company of time needed off with at least 7 days notice and time off may not exceed 7 consecutive business days. Company is not obligated to pay the minimum 25 hours per week for time requested off by Contractor.
+
+^All other terms of the Independent Contractor Agreement made effective [[Date 6: Date]] remain in effect.
+
+IN WITNESS WHEREOF, the duly authorized representatives of the parties have executed this Independent Contractor Agreement as of the date and year first above written.
+
+**COMPANY**
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Timothy Krist, CFO
+
+**CONTRACTOR**
+
+[[CONTRACTOR Signatory Email: Identity | Signature]]
+__________________________________________
+{{CONTRACTOR Entity => By: [[CONTRACTOR Signatory First Name]] [[CONTRACTOR Signatory Last Name]]
+Title: [[CONTRACTOR Signatory Title]]}}
+
+Neil S. Boss
+
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
+
+\centered Facsimile [[Phone 2]] www.moissanite.com
+
+CONFIDENTIAL [[Company]] 60; 
+
+\centered **2nd ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT**
+
+THIS 2nd ADDENDUM will supplement the INDEPENDENT CONTRACTOR AGREEMENT (“IC Agreement”), made effective as of the [[Date 1]] by and between [[Company]], a North Carolina corporation (the "Company"), and [[Contractor]] (the "Contractor").
+
+\centered **RECITALS:**
+
+^The Company agrees to offer Contractor a minimum of 25 hours of billable time each week during the period beginning [[Date 7: Date]] and ending [[Date 8: Date]]. If the Company does not offer 25 hours of work per week during this period, the company will still pay contractor at $[[USD Value 2: Number]] per hour for the 25 hour minimum. Contractor also agrees to make himself available for a minimum of 25 hours per week during this period. Contractor can inform the Company of time needed off with at least 7 days notice and time off may not exceed 7 consecutive business days. Company is not obligated to pay the minimum 25 hours per week for time requested off by Contractor.
+
+^Item 5 of the IC Agreement is hereby amended to reflect that the term of the IC Agreement shall be extended through [[Date 9: Date]].
+
+^Item 6 of the IC Agreement is hereby amended to reflect that the company shall pay Contractor at a rate of $[[USD Value 2]] per hour effective [[Date 7]]. Effective [[Date 10: Date]] and through the term of the IC agreement, Contractor will not be paid for consultations of less than 15 minutes.
+
+^All other terms of the Independent Contractor Agreement made effective [[Date 6]] remain in effect.
+
+^All other terms of the 1st Addendum to Independent Contractor Agreement made remain in effect unless otherwise superceded in this 2nd Addendum.
+
+IN WITNESS WHEREOF, the duly authorized representatives of the parties have executed this Independent Contractor Agreement as of the date and year first above written.
+
+**COMPANY**
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Timothy Krist, CFO
+
+Date   12/13/09
+
+**CONTRACTOR**
+
+[[CONTRACTOR Signatory Email: Identity | Signature]]
+__________________________________________
+{{CONTRACTOR Entity => By: [[CONTRACTOR Signatory First Name]] [[CONTRACTOR Signatory Last Name]]
+Title: [[CONTRACTOR Signatory Title]]}}
+
+Neil S. Boss
+
+Date   12/14/09
+
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
+
+\centered Facsimile [[Phone 2]] www.moissanite.com
+
+CONFIDENTIAL [[Company]] 60; 
+
+\centered **3td ADDENDUM TO INDEPENDENT CONTRACTOR AGREEMENT**
+
+THIS 3rd ADDENDUM will supplement the INDEPENDENT CONTRACTOR AGREEMENT (“IC Agreement”), made effective as of the [[Date 1]] by and between [[Company]], a North Carolina corporation (the "Company"), and [[Contractor]] (the "Contractor").
+
+\centered **RECITALS:**
+
+^The Company agrees to offer Contractor a minimum of 25 hours of billable time each week during the period beginning [[Date 10]] and ending [[Date 11: Date]]. If the Company does not offer 25 hours of work per week during this period, the company will still pay contractor at $[[USD Value 2]] per hour for the 25 hour minimum. Contractor also agrees to make himself available for a minimum of 25 hours per week during this period. Contractor can inform the Company of time needed off with at least 7 days notice and time off may not exceed 7 consecutive business days. Company is not obligated to pay the minimum 25 hours per week for time requested off by Contractor. The weekly minimum of 25 hours is subject to change upon mutual agreement of the parties.
+
+^All other terms of the Independent Contractor Agreement made effective [[Date 6]] remain in effect.
+
+^All other terms of the 1st Addendum and 2nd Addendum to Independent Contractor Agreement made remain in effect unless otherwise superceded in this 3rd Addendum.
+
+IN WITNESS WHEREOF, the duly authorized representatives of the parties have executed this Independent Contractor Agreement as of the date and year first above written.
+
+**COMPANY**
+
+[[Company]]
+
+[[Company Signatory Email: Identity | Signature]]
+__________________________________________
+{{Company Entity => By: [[Company Signatory First Name]] [[Company Signatory Last Name]]
+Title: [[Company Signatory Title]]}}
+
+Timothy Krist, CFO
+
+Date   2/26/10
+
+**CONTRACTOR**
+
+By:   /s/ Neil S. Boss
+Neil S. Boss
+
+Date   2/26/10
+
+\centered 300 Perimeter Park Drive, Suite A Morrisville, NC 27560 Telephone [[Phone 1]]
+
+\centered Facsimile [[Phone 2]] www.moissanite.com
+
+CONFIDENTIAL [[Company]] 60;
